@@ -2,11 +2,13 @@
 
 Fristående, öppen MCP-server för att hitta register och variabler i SCB:s MONA-beställning Regionala utvecklingsdatabasen (P1481) och ta fram R-kod med mikrodataR.
 
-**Status 2026-11-14:** Servern är publicerad som en **tillfällig Cloudflare-preview**, verifierad med den officiella MCP-klienten över publik HTTPS. Previewn gäller i 60 minuter från skapandet om den inte knyts till ett ägarkonto. En permanent driftsättning är ännu inte bekräftad.
+**Status 2026-11-14:** Publicerad på ägarens Cloudflare-konto, verifierad med den officiella MCP-klienten över publik HTTPS. Ingen tillfällig anspråkslänk behövs.
 
-**Tillfällig MCP-adress:** https://regionala-utvecklingsdatabasen-mcp.cultured-dancer.workers.dev/mcp
+**Publik MCP-adress:** https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
 
-Ägarens privata anspråkslänk lämnas separat och ska inte läggas i GitHub. Om previewn har löpt ut används publiceringsinstruktionerna nedan.
+**Hälsokontroll:** https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/health
+
+Se [testresultaten](docs/TEST_RESULTS.md) för genomförda kontroller och återstående begränsningar.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp)
 
@@ -37,7 +39,7 @@ Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix
 
 ## Anslut en AI-klient
 
-Efter publicering: kopiera den **faktiska** Worker-adressen från Cloudflare och lägg till `/mcp`. Exempeldomäner nedan är platshållare.
+Använd den publika MCP-adressen ovan. Ingen API-nyckel behövs.
 
 ### ChatGPT
 
@@ -48,7 +50,7 @@ Börja exempelvis med: **Exempel:** ”Hitta Kommun i RTB, kontrollera 2024 och 
 ### Claude Code
 
 ```bash
-claude mcp add --transport http regionala-utvecklingsdatabasen https://DIN-WORKER.workers.dev/mcp
+claude mcp add --transport http regionala-utvecklingsdatabasen https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
 ```
 
 Kontrollera anslutningen med `/mcp`. Claude-appar som har gränssnitt för egna fjärranslutningar kan använda samma URL. Den här leveransen är inte testad inne i ChatGPTs eller Claudes användargränssnitt.
@@ -59,7 +61,7 @@ Välj remote HTTP/Streamable HTTP, samma URL och ingen autentisering. Klienter s
 
 ```bash
 npm ci
-npm run smoke -- https://DIN-WORKER.workers.dev/mcp
+npm run smoke -- https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
 ```
 
 Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen, listar fyra verktyg och anropar samtliga. `tests/transport.test.ts` kör också en faktisk SDK-klient med HTTP-transport mot Worker-handlern utan nätverk. CI kör separat samma klient över lokal HTTP mot Wrangler/workerd.

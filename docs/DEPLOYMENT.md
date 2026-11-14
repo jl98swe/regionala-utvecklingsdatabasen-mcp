@@ -1,5 +1,9 @@
 # Publicera på Cloudflare Workers Free
 
+Servern är redan publicerad på `https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp`. Kontots workers.dev-subdomän är `jl98swe`. `wrangler.jsonc` pekar på det aktuella kontot; för en egen installation ändras eller tas `account_id` bort. Inga betalda tjänster har aktiverats av denna leverans. OAuth-anslutningen ger inte tillgång till faktureringsuppgifter, så eventuell befintlig betalplan kan inte verifieras här.
+
+Första publiceringen gjordes via Cloudflare API med exakt byggd källkod från GitHub. Kontinuerlig publicering från GitHub är förberedd, men kräver att ägaren ansluter Cloudflare Builds (A) eller lägger in Actions-hemligheterna (B). GitHub-pushar kör tester automatiskt; de publicerar ännu inte nya Worker-versioner automatiskt.
+
 ## Alternativ A: via telefon eller webbläsare
 
 1. Logga in på ditt Cloudflare-konto. Ett konto krävs; använd Free.

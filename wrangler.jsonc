@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "regionala-utvecklingsdatabasen-mcp",
+  "account_id": "a80942007449dc8e79020ed25ba3be03",
   "main": "src/worker.ts",
   "compatibility_date": "2026-11-01",
   "workers_dev": true,
