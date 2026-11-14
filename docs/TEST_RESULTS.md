@@ -1,6 +1,8 @@
 # Testresultat 2026-11-14
 
-## Publicerad version
+Senaste release: server **0.2.0**, mallar **1.1**. Källa `754ed1c7736ad15a7d1512aec70ea2175b8a5386`. Ursprungskontrollerna nedan behålls som historik. Se uppdateringsavsnittet sist för den aktuella versionen.
+
+## Ursprunglig publicerad version
 
 * Runtime-källa: commit `a2b607eb21d3883d0f329dbd407ce683574f8b8b`.
 * Cloudflare Worker: `regionala-utvecklingsdatabasen-mcp`, subdomän `jl98swe`.
@@ -45,3 +47,9 @@ CI för runtime-källan: https://github.com/jl98swe/regionala-utvecklingsdatabas
 ## Uppdatering 0.2.0 / mallar 1.1
 
 Projektregler, dokumenterade mikrodataR-signaturer, versionsinformation, UTF-8- och numerisk hantering har tillkommit. Aktuell projektarbetsbok har jämförts mot snapshoten: metadatafält och alla 4 138 poster är identiska. Föregående mallar är arkiverade. Testsviten är utökad med projektstöd via MCP, konvertering av tidsfält före aggregering och syntetiska R-tester för svenska tecken, textkollisioner, bortfallskoder och numerisk ordning. Aktuell CI och publiceringskontroll ska följas för den nya committen; tabellen ovan beskriver ursprungsleveransen.
+
+Aktuell CI: https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp/actions/runs/43621475171
+
+Releasekontroller: 21 TypeScript-/MCP-tester, tre Python-importtester, typkontroll, Worker-bygge, faktisk SDK-klient över lokal HTTP/workerd, R-syntax för källmallar och genererad kod samt syntetiska R-kontroller. Tidigare mallfiler har jämförts byte för byte med ursprungscommitten och är oförändrade i arkivet. Efter publicering har den officiella MCP-klienten åter anropat alla fyra verktyg över publik HTTPS; projektstöd, dokumenterade argument, serverversion 0.2.0 och mallversion 1.1 har kontrollerats.
+
+Lokalt kunde Wrangler-dev inte starta på grund av miljöfelet `uv_interface_addresses`. HTTP-testet i GitHub Actions och testet mot den publicerade servern används för den kontrollen. Ingen MONA-körning har utförts.
