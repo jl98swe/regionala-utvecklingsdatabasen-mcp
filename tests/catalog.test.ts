@@ -70,3 +70,27 @@ test('code cannot use NULL for known yearly data or YYYY for monthly data',()=>{
 test('LTU first-year view uses the chosen cohort year as in the source method',()=>{
  assert.match(codeTemplate('ltu_examen').r_code!,/hamta\(con, "hreg_forstaar", examensar,/);
 });
+
+test('project support exposes supplied APIs, source priority and editing rules',()=>{
+ const r=codeTemplate('projektstod');
+ const p=r.project_support as {source_priority:string[];rules:string[];mikrodataR:{name:string;usage:string}[]};
+ assert.equal(p.source_priority.length,5);
+ assert.ok(p.mikrodataR.some(f=>f.name==='hamta_korrekt_vynamn'&&f.usage.includes('valt_ar, databasvy')));
+ for(const name of ['uppkoppling_db','alla_ar','forsta_ar','senaste_ar','hamta_vylista','hamta_variabler','sok_variabler','fjoin_klartext'])assert.ok(p.mikrodataR.some(f=>f.name===name));
+ assert.ok(p.rules.some(s=>s.includes('iconv')));assert.ok(p.rules.some(s=>s.includes('hela skriptet')));
+ assert.ok(p.rules.some(s=>s.includes('examen')));
+ assert.ok('project_support' in structure());
+});
+test('complete code carries versions, documented API and character protections',()=>{
+ for(const id of ['ltu_examen','invandring_etablering','kombinera_register']){
+  const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}]);
+  assert.match(r.r_code!,/Filnamn: .*_v1[.]1[.]R/);
+  assert.match(r.r_code!,/Skapare:/);assert.match(r.r_code!,/Skapad:/);assert.match(r.r_code!,/Senast uppdaterad:/);
+  assert.match(r.r_code!,/iconv\(x, from = "", to = "UTF-8", sub = "byte"\)/);
+  assert.match(r.r_code!,/valt_ar = period, databasvy = vy/);
+  assert.ok(r.project_support);
+ }
+ assert.match(codeTemplate('ltu_examen').r_code!,/ar <- numeriskt\(bas\$Ffgar\)/);
+ const migr=codeTemplate('invandring_etablering').r_code!;
+ assert.ok(migr.indexOf('manad <- numeriskt')<migr.indexOf('summarise(Invandringsar = min'));
+});

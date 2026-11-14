@@ -1,0 +1,79 @@
+[
+  {
+    "name": "uppkoppling_db",
+    "usage": "uppkoppling_db(\n  projektnr = NA,\n  driver = \"ODBC Driver 17 for SQL Server\",\n  server = \"MONASQL\",\n  trust_conn = \"yes\",\n  big_int = \"numeric\",\n  encoding = \"UTF-8\"\n)",
+    "source": "uppkoppling_db.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "fjoin_klartext",
+    "usage": "fjoin_klartext(\n  tab,\n  enbart_namn = FALSE,\n  urval_cols = NULL,\n  path = \"<paketets standardmapp; kontrollera installerad version>\",\n  shiftlagesokanslig = TRUE,\n  trimma_data = TRUE,\n  trunc_for_langa_kolumnnamn = FALSE\n)",
+    "source": "fjoin_klartext.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "alla_ar",
+    "usage": "alla_ar(vy = NULL)",
+    "source": "alla_ar.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+  },
+  {
+    "name": "hamta_vylista",
+    "usage": "hamta_vylista(projektnr = NA)",
+    "source": "hamta_vylista.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+  },
+  {
+    "name": "senaste_ar",
+    "usage": "senaste_ar(vy = NULL)",
+    "source": "senaste_ar.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+  },
+  {
+    "name": "sok_klartext",
+    "usage": "sok_klartext(var)",
+    "source": "sok_klartext.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "hamta_variabler",
+    "usage": "hamta_variabler(databasvy, years = NULL)",
+    "source": "hamta_variabler.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+  },
+  {
+    "name": "hamta_kommunkoder",
+    "usage": "hamta_kommunkoder(kod)",
+    "source": "hamta_kommunkoder.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "hamta_korrekt_vynamn",
+    "usage": "hamta_korrekt_vynamn(valt_ar, databasvy)",
+    "source": "hamta_korrekt_vynamn.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "sok_variabler",
+    "usage": "sok_variabler(var)",
+    "source": "sok_variabler.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+  },
+  {
+    "name": "forsta_ar",
+    "usage": "forsta_ar(vy = NULL)",
+    "source": "forsta_ar.Rd",
+    "verification": "supplied_Rd_not_installed_package",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+  }
+]

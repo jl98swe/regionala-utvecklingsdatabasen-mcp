@@ -92,7 +92,7 @@ Mallarna bevarar namnen, använder `uppkoppling_db()` och `hamta_korrekt_vynamn(
 
 Kopplingsmallen kräver en rad per person i varje uttag. Identiska dubblettrader får tas bort uttryckligen; andra dubbletter stoppar körningen. Händelseregister behöver en motiverad aggregering innan koppling. Ingen godtycklig ”första rad” väljs.
 
-**Anpassade mallar är metadata- och syntaxkontrollerade genom tester, men har inte provkörts i MONA.** mikrodataR 0.1.0:s funktionsförteckning och tidigare användningsmönster finns i metodunderlaget; fullständig aktuell API-dokumentation och en MONA-miljö finns inte här. Kontrollera därför aktuell paketversion/signatur vid första körning. HREG- och migrationsmallarna kan inte få bekräftad årstillgänglighet från den här metadatafilen.
+**Anpassade mallar är metadata- och syntaxkontrollerade genom tester, men har inte provkörts i MONA.** mikrodataR 0.1.0:s funktionsförteckning och tidigare användningsmönster finns i metodunderlaget; tillhandahållna Rd-filer beskriver argumenten men ingen MONA-miljö finns här. Kontrollera därför aktuell paketversion/signatur vid första körning. HREG- och migrationsmallarna kan inte få bekräftad årstillgänglighet från den här metadatafilen.
 
 ## Uppdatera metadata
 
@@ -120,7 +120,7 @@ Användning av servern är gratis. Kostnader och tillgång till ChatGPT, Claude 
 
 * Tillhandahållen metadataexport: styrande för namn och tillgänglighet.
 * `Analys_examinerade_LTU_v17.R` och `Analys_invandring_Nederlanderna_Norrbotten_v7.R`: metodstöd; personliga författaruppgifter, sökvägar och beroenden återpubliceras inte.
-* `mikrodataR_description.txt`, version 0.1.0: funktionsförteckning, inte fullständig API-verifiering.
+* `mikrodataR_description.txt` och tillhandahållna Rd-filer: dokumenterade signaturer, inte verifiering av installerat paket.
 * [MCP TypeScript SDK](https://ts.sdk.modelcontextprotocol.io/server)
 * [Cloudflare Workers-gränser](https://developers.cloudflare.com/workers/platform/limits/)
 * [Cloudflare remote MCP](https://developers.cloudflare.com/agents/model-context-protocol/guides/remote-mcp-server/)
@@ -128,3 +128,15 @@ Användning av servern är gratis. Kostnader och tillgång till ChatGPT, Claude 
 * [Claude Code MCP](https://code.claude.com/docs/en/mcp)
 
 DeSO-skriptet och de två uttryckligen undantagna kodrepositorierna används inte. Servern beskriver denna beställning, inte alla SCB:s register. MIT-licens för projektets kod; metadata publiceras med beställarens uttryckliga tillstånd. Ingen SCB-anslutning eller officiell SCB-produkt görs gällande.
+
+## Projektstöd och mallversion 1.1
+
+Anropa `hamta_kodmall` med `mall: "projektstod"` för källprioritering, MONA-regler och de dokumenterade mikrodataR-signaturerna. Samma projektstöd ingår vid listning av register och kodmallar och när kod lämnas. De fyra verktygen är kvar; inget femte verktyg krävs. Klientens systeminstruktioner uppmanar den att läsa stödet innan kod skapas eller ändras.
+
+Mallarna i `templates/*_v1.1.R` har versionsnummer, generell skapare och datum. De tidigare filerna ligger oförändrade i `templates/archive/*_v1.0.R`; de saknade ursprungligen versionsnummer och benämns initialversion 1.0 i arkivet. Genererad kod levereras i sin helhet och föreslår ett versionsmärkt filnamn. Vid ändring av användarens skript ska dess senaste version och skapare bevaras i stället för mallens uppgifter.
+
+UTF-8-konvertering används vid textbearbetning. Identifierare ändras inte. Textnormalisering som ändrar kodning eller slår samman olika originalvärden stoppar för granskning. Numeriska mått och tidsfält konverteras med `numeriskt()` innan beräkning; tomma värden blir NA, dokumenterade bortfallskoder kan anges och oväntade värden stoppar. Dubblettreglerna är samlade i `unik()`.
+
+Den aktuella projektfilen `mikrodatabasen_metadata.xlsx` har också jämförts: alla 4 138 poster och deras fem metadatafält är identiska med den publicerade snapshoten. Arbetsböckerna har olika filhash men samma metadata; därför behålls befintlig snapshot och dess SHA.
+
+Se [kravgenomgången](docs/PROJECT_REVIEW.md). MCP-instruktioner hjälper klienten men garanterar inte att en AI alltid följer dem. R-kod behöver fortsatt granskas och provas i MONA.

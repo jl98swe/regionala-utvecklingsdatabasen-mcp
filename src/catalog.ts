@@ -1,3 +1,4 @@
+import {projectSupport} from './guidance.js';
 import data from '../data/metadata.json' with { type: 'json' };
 export type Row = typeof data.records[number];
 export type Availability = {status:'known'|'unknown'|'unparsed'; granularity:'year'|'month'|null; periods:number[]; raw:string|null};
@@ -67,10 +68,10 @@ export function search(query:string,view?:string,offset=0,limit=30){
   results:matched.slice(offset,offset+limit).map(detail),notice:'Sökning är normaliserad; använd svarens exakta namn i R. Metadata saknar variabeldefinitioner och kodlistor.'};
 }
 export function structure(view?:string,offset=0,limit=50){
- if(!view)return {...stamp,total:views.length,next_offset:offset+limit<views.length?offset+limit:null,
+ if(!view)return {...stamp,project_support:projectSupport,total:views.length,next_offset:offset+limit<views.length?offset+limit:null,
   views:views.slice(offset,offset+limit).map(v=>({databasvy:v,antal_variabler:data.records.filter(r=>r.databasvy===v).length}))};
  const v=canonicalView(view),rows=byView.get(v)!;
- return {...stamp,databasvy:v,total:rows.length,next_offset:offset+limit<rows.length?offset+limit:null,
+ return {...stamp,definitions_url:projectSupport.definitions_url,databasvy:v,total:rows.length,next_offset:offset+limit<rows.length?offset+limit:null,
   variables:rows.slice(offset,offset+limit).map(detail),
   candidate_keys:rows.filter(r=>/LopNr/i.test(r.variabel)).map(r=>r.variabel),
   notice:'Löpnummer är möjliga kopplingsnycklar. Unikhet, kardinalitet, kodbetydelser och analysenhet framgår inte av metadata. Från år/Till år gäller vyn och styr aldrig variabeltillgänglighet.'};

@@ -17,6 +17,9 @@ test('actual SDK client initializes, discovers four tools and calls all four',as
    ['hamta_registerstruktur',{databasvy:'bas'}],
    ['hamta_kodmall',{mall:'kombinera_register',urval:[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS'],period:2020}]}]
   ] as const){const r=await c.callTool({name,arguments:args});assert.ok(r.structuredContent);assert.notEqual(r.isError,true,name);}
+  const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
+  assert.ok((support.structuredContent as {project_support:unknown}).project_support);
+  assert.match(c.getInstructions()!,/iconv/);
   const bad=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'rtb',variabler:['bad'],perioder:[2020]}]}});assert.equal(bad.isError,true);
   const invalid=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'rtb',variabler:['Kommun'],perioder:[202013]}]}});assert.equal(invalid.isError,true);
  }finally{await c.close();}

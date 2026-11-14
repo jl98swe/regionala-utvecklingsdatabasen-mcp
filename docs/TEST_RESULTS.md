@@ -36,8 +36,12 @@ CI för runtime-källan: https://github.com/jl98swe/regionala-utvecklingsdatabas
 
 * Anpassade R-mallar har inte körts i MONA. De returnerar `mona_execution: not_run` och har kontroller för första körningen i MONA.
 * HREG och migrationshistorik har tomma årsfält i exporten. Ingen bekräftad tillgänglighet för valda år kan därför utlovas från metadata.
-* Fullständig aktuell mikrodataR-API-dokumentation finns inte i underlaget. Funktionsförteckning och tidigare skript används med redovisad begränsning.
+* Tillhandahållna Rd-filer finns nu i projektstödet. Installerat paket, vissa returformat och NULL-/månadsbeteende har inte verifierats i MONA.
 * Kodmallarna för LTU och invandring är dokumenterade delmallar, inte fullständiga kopior av de äldre analyserna. Examensuppföljning får inte likställas med alla studieavslut.
 * Protokollet har testats med en faktisk SDK-baserad MCP-klient. Ingen manuell anslutning i ChatGPTs eller Claudes användargränssnitt har utförts.
 * Gratisdrift är inte ett löfte om obegränsad kapacitet. CPU- och trafikgränser måste följas. Inga betalda Cloudflare-tjänster aktiverades; faktureringsuppgifter är inte tillgängliga via den anslutna OAuth-behörigheten.
 * Automatisk publicering från GitHub kräver separat koppling eller Actions-hemligheter. Tester körs redan automatiskt.
+
+## Uppdatering 0.2.0 / mallar 1.1
+
+Projektregler, dokumenterade mikrodataR-signaturer, versionsinformation, UTF-8- och numerisk hantering har tillkommit. Aktuell projektarbetsbok har jämförts mot snapshoten: metadatafält och alla 4 138 poster är identiska. Föregående mallar är arkiverade. Testsviten är utökad med projektstöd via MCP, konvertering av tidsfält före aggregering och syntetiska R-tester för svenska tecken, textkollisioner, bortfallskoder och numerisk ordning. Aktuell CI och publiceringskontroll ska följas för den nya committen; tabellen ovan beskriver ursprungsleveransen.

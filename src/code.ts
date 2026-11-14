@@ -1,3 +1,4 @@
+import {projectSupport} from './guidance.js';
 import templates from '../data/templates.json' with {type:'json'};
 import {check, detail, getRow, metadata, stamp} from './catalog.js';
 export type Selection={databasvy:string;variabler:string[];period:number|null};
@@ -16,14 +17,15 @@ export type TemplateResult = Record<string,unknown> & {
  verification?:{[key:string]:string}; requirements?:unknown[];
 };
 export function codeTemplate(id:string, selections:Selection[]=[]):TemplateResult {
- if(id==='lista')return {...stamp,templates:[{id:'kombinera_register',title:'Metadataförkontrollerad extraktion och säker koppling'},...Object.entries(methods).map(([id,m])=>({id,...m}))]};
+ if(id==='projektstod')return {...stamp,project_support:projectSupport};
+ if(id==='lista')return {...stamp,project_support:projectSupport,templates:[{id:'kombinera_register',title:'Metadataförkontrollerad extraktion och säker koppling'},...Object.entries(methods).map(([id,m])=>({id,...m}))]};
  if(id in methods){
   const m=methods[id as keyof typeof methods];
   const requirements=Object.entries(m.required).flatMap(([v,names])=>names!.map(n=>detail(getRow(v,n))));
-  return {...stamp,id,...m,verification:{metadata_names:'verified',r_syntax:'covered_by_R_CI',mona_execution:'not_run',note:'Metodstöd och namn är kontrollerade. Denna anpassning har inte körts mot MONA.'},requirements,
-   warnings:m.limitations,r_code:`# Metadata SHA-256: ${metadata.source_sha256}\n${templates.common}\n${templates[id as keyof typeof templates]}`};
+  return {...stamp,project_support:projectSupport,id,...m,verification:{metadata_names:'verified',r_syntax:'covered_by_R_CI',mona_execution:'not_run',note:'Metodstöd och namn är kontrollerade. Denna anpassning har inte körts mot MONA.'},requirements,
+   warnings:m.limitations,r_code:`# Filnamn: ${id}_v1.1.R\n# Metadata SHA-256: ${metadata.source_sha256}\n${templates.common}\n${templates[id as keyof typeof templates]}`};
  }
- if(id!=='kombinera_register')throw new Error('Okänd kodmall. Välj lista, kombinera_register, ltu_examen eller invandring_etablering.');
+ if(id!=='kombinera_register')throw new Error('Okänd kodmall. Välj lista, projektstod, kombinera_register, ltu_examen eller invandring_etablering.');
  if(!selections.length)throw new Error('Ange minst ett register med variabler och uttrycklig period (NULL endast för dokumenterat icke årsindelad vy).');
  const key='P1481_LopNr_PersonNr';
  const checks=selections.flatMap(s=>[...new Set([key,...s.variabler])].map(v=>check(s.databasvy,v,s.period===null?[]:[s.period])));
@@ -34,7 +36,7 @@ export function codeTemplate(id:string, selections:Selection[]=[]):TemplateResul
    if (c.tillganglighet.status==='known' && (s.period===null || (c.tillganglighet.granularity==='month' && s.period<10000))) blocked.push(c);
   }
  }
- if(blocked.length)return {...stamp,id,can_generate:false,reason:'År/månad saknas, är ofullständigt eller har fel granularitet. Årsindelad vy kräver år; månadsindelad vy kräver YYYYMM.',checks,blocked};
+ if(blocked.length)return {...stamp,project_support:projectSupport,id,can_generate:false,reason:'År/månad saknas, är ofullständigt eller har fel granularitet. Årsindelad vy kräver år; månadsindelad vy kräver YYYYMM.',checks,blocked};
  // Metadata alone cannot prove that blank-year views are non-periodic.
  const warnings=checks.filter(c=>c.tillganglighet.status!=='known').map(c=>`${c.databasvy}.${c.variabel}: okänd tillgänglighet; verifiera i MONA.`);
  for(const s of selections)if(s.period===null)warnings.push(`${s.databasvy}: NULL-period är användarens uttryckliga val och bevisas inte av tomt årsfält.`);
@@ -45,7 +47,7 @@ export function codeTemplate(id:string, selections:Selection[]=[]):TemplateResul
   return `  register_${i+1} <- hamta(con, ${quote(view)}, ${s.period??'NULL'}, ${vec(names)})\n  register_${i+1} <- unik(register_${i+1}, ${quote(key)}, policy = "exact")`;
  }).join('\n');
  const joins=selections.slice(1).map((_,i)=>`  resultat <- left_join(resultat, register_${i+2}, by = ${quote(key)}, relationship = "one-to-one", suffix = c("", "_register_${i+2}"))`).join('\n');
- return {...stamp,id,can_generate:true,checks,warnings,verification:{metadata_names:'verified',availability:warnings.length?'requires_runtime_verification':'verified',mona_execution:'not_run'},
+ return {...stamp,project_support:projectSupport,id,can_generate:true,checks,warnings,verification:{metadata_names:'verified',availability:warnings.length?'requires_runtime_verification':'verified',mona_execution:'not_run'},
   method:'En rad per person krävs i varje uttag. Endast identiska dubblettrader tas bort. Övriga dubbletter stoppar körningen. Första registret bestämmer populationen; left_join behåller alla dess personer. Många-till-många kräver annan analysenhet och egen mall.',
-  r_code:`# Metadata SHA-256: ${metadata.source_sha256}\n${templates.common}\nanalys <- function() {\n  con <- uppkoppling_db()\n  on.exit(DBI::dbDisconnect(con), add = TRUE)\n${code}\n  resultat <- register_1\n${joins}\n  stopifnot(nrow(resultat) == nrow(register_1))\n  list(internt = resultat, kontroll = c(antal_population = nrow(register_1), antal_resultat = nrow(resultat)))\n}\n# Kör i MONA efter granskning: resultat <- analys()\n`};
+  r_code:`# Filnamn: ${id}_v1.1.R\n# Metadata SHA-256: ${metadata.source_sha256}\n${templates.common}\nanalys <- function() {\n  con <- uppkoppling_db()\n  on.exit(DBI::dbDisconnect(con), add = TRUE)\n${code}\n  resultat <- register_1\n${joins}\n  stopifnot(nrow(resultat) == nrow(register_1))\n  list(internt = resultat, kontroll = c(antal_population = nrow(register_1), antal_resultat = nrow(resultat)))\n}\n# Kör i MONA efter granskning: resultat <- analys()\n`};
 }
