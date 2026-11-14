@@ -4,76 +4,133 @@
     "usage": "uppkoppling_db(\n  projektnr = NA,\n  driver = \"ODBC Driver 17 for SQL Server\",\n  server = \"MONASQL\",\n  trust_conn = \"yes\",\n  big_int = \"numeric\",\n  encoding = \"UTF-8\"\n)",
     "source": "uppkoppling_db.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Funktion för att koppla upp mot en databas i SQL med R",
+    "arguments": {
+      "projektnr": "= det projektnr som ska kopplas mot. Om NA blir det det projektnr som är i Sys.getenv",
+      "driver": "= vilken drivrutin",
+      "server": "= specificera server.",
+      "trust_conn": "= trusted connection. Default yes",
+      "big_int": "= ... default numeric",
+      "encoding": "= vilken encoding ska vara. Default är UTF-8"
+    }
   },
   {
     "name": "fjoin_klartext",
     "usage": "fjoin_klartext(\n  tab,\n  enbart_namn = FALSE,\n  urval_cols = NULL,\n  path = \"<paketets standardmapp; kontrollera installerad version>\",\n  shiftlagesokanslig = TRUE,\n  trimma_data = TRUE,\n  trunc_for_langa_kolumnnamn = FALSE\n)",
     "source": "fjoin_klartext.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Bygger på att det finns en mapp med excelfiler med klartext som hämtas via metadata. Behöver inte justeras i inputs",
+    "arguments": {
+      "tab": "kontroll som tar bort grupperade dataframes",
+      "enbart_namn": "default FALSE",
+      "urval_cols": "default NULL",
+      "path": "= sökväg till nyckelmapp",
+      "shiftlagesokanslig": "= TRUE default",
+      "trimma_data": "= TRUE på default",
+      "trunc_for_langa_kolumnnamn": "= FALSE på default"
+    }
   },
   {
     "name": "alla_ar",
     "usage": "alla_ar(vy = NULL)",
     "source": "alla_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "description": "Funktion för att hämta alla år i en viss databasvy",
+    "arguments": {
+      "vy": "välj vilken vy som du ska hämta alla år för. Default NULL men en vy måste väljas"
+    }
   },
   {
     "name": "hamta_vylista",
     "usage": "hamta_vylista(projektnr = NA)",
     "source": "hamta_vylista.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "description": "Funktionsskript för att hämta de vyer som finns registrerat i projektnumret.",
+    "arguments": {
+      "projektnr": "behöver inte fyllas i då den hämtar aktivt projektID via Sys"
+    }
   },
   {
     "name": "senaste_ar",
     "usage": "senaste_ar(vy = NULL)",
     "source": "senaste_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "description": "Funktion för att hämta senaste året i en viss databasvy",
+    "arguments": {
+      "vy": "välj vilken vy som du ska hämta senaste året för. Default NULL men en vy måste väljas"
+    }
   },
   {
     "name": "sok_klartext",
     "usage": "sok_klartext(var)",
     "source": "sok_klartext.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Funktion för att söka efter klartext på en variabel",
+    "arguments": {
+      "var": "välj vilken variabel du vill söka klartext info om"
+    }
   },
   {
     "name": "hamta_variabler",
     "usage": "hamta_variabler(databasvy, years = NULL)",
     "source": "hamta_variabler.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "description": "Funktion för att hämta vilka variabler som finns i de olika vyerna",
+    "arguments": {
+      "databasvy": "= vilken vy som ska hämtas från",
+      "years": "= vilket år som ska hämtas. Default är NULL, då hämtas alla år"
+    }
   },
   {
     "name": "hamta_kommunkoder",
     "usage": "hamta_kommunkoder(kod)",
     "source": "hamta_kommunkoder.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Funktion för att hämta kommunkoder för en länskod",
+    "arguments": {
+      "kod": "regionkod som ska skikcas"
+    }
   },
   {
     "name": "hamta_korrekt_vynamn",
     "usage": "hamta_korrekt_vynamn(valt_ar, databasvy)",
     "source": "hamta_korrekt_vynamn.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Funktion för att alltid få rätt vynamn när vi ska hämta data med tbl()",
+    "arguments": {
+      "valt_ar": "= vilket år som vi ska hämta data för",
+      "databasvy": "= vilken vy som vi ska hämta från. Namn kommer från hamta_vylista()"
+    }
   },
   {
     "name": "sok_variabler",
     "usage": "sok_variabler(var)",
     "source": "sok_variabler.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument."
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "description": "Funktion för att söka vilka vyer variabler finns i",
+    "arguments": {
+      "var": "är variabelnamn man ska söka efter"
+    }
   },
   {
     "name": "forsta_ar",
     "usage": "forsta_ar(vy = NULL)",
     "source": "forsta_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning."
+    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "description": "Funktion för att hämta första året i en viss databasvy",
+    "arguments": {
+      "vy": "välj vilken vy som du ska hämta första året för. Default NULL men en vy måste väljas"
+    }
   }
 ]

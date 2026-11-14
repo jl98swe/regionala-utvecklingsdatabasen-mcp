@@ -8,7 +8,7 @@ Jämförelse mot byggbeställningen och MONA-projektets aktuella instruktioner.
 | Gemensam metadata; exakta namn och egna variabelår | Befintligt. 4 138 poster, 88 vyer, 1 264 okända. Aktuell projektarbetsbok har identiska metadatafält. |
 | Tomma år, års-/månadsintervall, olika år inom vy, uppdatering | Befintlig import och tester; tomma år blir aldrig alla år. |
 | Källprioritet och SCB-definitioner | Tillagt projektstöd med fem källnivåer och https://mikrometadata.scb.se/. Servern hämtar inte definitioner; klienten behöver läsa dem vid behov. |
-| mikrodataR före manuella lösningar; kontrollera dokumentation | Tillagt 12 tillhandahållna funktionssignaturer, dokumentationsbegränsningar och kontroll av installerad vynamnsfunktion. Rd saknar vissa returformat och löften om NULL/månader; osäkerheten redovisas. |
+| mikrodataR före manuella lösningar; kontrollera dokumentation | Tillagt 11 tillhandahållna funktionsbeskrivningar med signaturer och argument, dokumentationsbegränsningar och kontroll av installerad vynamnsfunktion. Rd saknar vissa returformat och löften om NULL/månader; osäkerheten redovisas. |
 | Character; numerisk konvertering före sortering/filter/aggregering | Tillagt strikt hjälpfunktion med konfigurerbara bortfallskoder. Tidsfält i metodmallarna använder den. |
 | UTF-8; bevara identifierare, åäö och original | Tillagt iconv vid textbearbetning; kollisionskontroll för normaliserad gruppering/jämförelse; inga nycklar skrivs om. |
 | Dubbletter; justerbar namngiven funktion; hela rader | Befintlig unik() förtydligad. Exakta identiska rader kan tas bort, konflikter stoppar. Personnyckel och en-till-en dokumenteras; ingen godtycklig rad väljs. |
