@@ -3,7 +3,7 @@ import {StreamableHTTPClientTransport} from '@modelcontextprotocol/sdk/client/st
 import assert from 'node:assert/strict';
 const url=process.argv[2]??'http://127.0.0.1:8787/mcp';
 const c=new Client({name:'regionala-utvecklingsdatabasen-smoke',version:'1.0.0'});
-await c.connect(new StreamableHTTPClientTransport(new URL(url)));
+await c.connect(new StreamableHTTPClientTransport(new URL(url),{fetch:(input,init)=>fetch(input,{...init,signal:AbortSignal.timeout(30_000)})}));
 try{
  const tools=await c.listTools();assert.equal(tools.tools.length,4);
  for(const [name,args] of [

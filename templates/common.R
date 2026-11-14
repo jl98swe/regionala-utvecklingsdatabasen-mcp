@@ -18,14 +18,21 @@ unik <- function(df, by, policy = c("stop", "exact")) {
   df
 }
 
-hamta <- function(con, vy, period, variabler, id = NULL) {
+hamta <- function(con, vy, period, variabler, id = NULL, chunk_size = 4000L) {
   fysisk_vy <- mikrodataR::hamta_korrekt_vynamn(period, vy)
   tab <- dplyr::tbl(con, fysisk_vy)
   saknas <- setdiff(variabler, colnames(tab))
   if (length(saknas)) stop(paste("Variabler saknas i", vy, period, ":", paste(saknas, collapse = ", ")))
   tab <- select(tab, all_of(variabler))
-  if (!is.null(id)) tab <- filter(tab, .data$P1481_LopNr_PersonNr %in% id)
-  collect(tab) |> mutate(across(everything(), as.character))
+  if (is.null(id)) return(collect(tab) |> mutate(across(everything(), as.character)))
+  stopifnot(length(chunk_size) == 1L, is.finite(chunk_size), chunk_size >= 1L)
+  id <- unique(as.character(id[!is.na(id)]))
+  if (!length(id)) return(collect(head(tab, 0)) |> mutate(across(everything(), as.character)))
+  # Begränsade ID-block följer LTU-underlagets arbetssätt.
+  blocks <- split(id, ceiling(seq_along(id) / chunk_size))
+  bind_rows(lapply(blocks, function(ids) {
+    tab |> filter(.data$P1481_LopNr_PersonNr %in% ids) |> collect()
+  })) |> mutate(across(everything(), as.character))
 }
 
 # Ange en befintlig MONA-mapp via miljövariabeln eller ändra strängen.

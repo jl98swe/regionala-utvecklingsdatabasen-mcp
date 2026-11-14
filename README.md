@@ -2,7 +2,11 @@
 
 Fristående, öppen MCP-server för att hitta register och variabler i SCB:s MONA-beställning Regionala utvecklingsdatabasen (P1481) och ta fram R-kod med mikrodataR.
 
-**Status:** Server och tester finns i detta repository. En permanent publik MCP-adress kräver att en ägare ansluter Cloudflare och genomför första driftsättningen. En deploy-knapp eller ett lyckat byggtest betyder inte att servern är publicerad.
+**Status 2026-11-14:** Servern är publicerad som en **tillfällig Cloudflare-preview**, verifierad med den officiella MCP-klienten över publik HTTPS. Previewn gäller i 60 minuter från skapandet om den inte knyts till ett ägarkonto. En permanent driftsättning är ännu inte bekräftad.
+
+**Tillfällig MCP-adress:** https://regionala-utvecklingsdatabasen-mcp.cultured-dancer.workers.dev/mcp
+
+Ägarens privata anspråkslänk lämnas separat och ska inte läggas i GitHub. Om previewn har löpt ut används publiceringsinstruktionerna nedan.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp)
 
@@ -82,7 +86,7 @@ GitHub Actions kör TypeScript-kontroll, tester, Worker-bygge, HTTP-klienttest s
 * `ltu_examen`: generell delmall för examinerade, rekryteringskommun året före Ffgar och bosättning ett fast målår. Detta är inte en mall för alla studieavslut, och inte hela LTU-analysen.
 * `invandring_etablering`: generell delmall för första invandring inom vald period, utrikes födda och fast RTB/BAS-uppföljning. Inte hela Nederländerna-analysen.
 
-Mallarna bevarar namnen, använder `uppkoppling_db()` och `hamta_korrekt_vynamn(period, vy)`, kontrollerar faktiska kolumner, stänger anslutningen med `on.exit()` och kräver inte Excel vid körning. Utdatamapp är konfigurerbar via `RUD_UTDATA`. De exporterar inte individdata automatiskt. Års-BAS och preliminär månads-BAS blandas inte.
+Mallarna bevarar namnen, använder `uppkoppling_db()` och `hamta_korrekt_vynamn(period, vy)`, kontrollerar faktiska kolumner, delar stora personurval i ID-block, stänger anslutningen med `on.exit()` och kräver inte Excel vid körning. Utdatamapp är konfigurerbar via `RUD_UTDATA`. De exporterar inte individdata automatiskt. Års-BAS och preliminär månads-BAS blandas inte.
 
 Kopplingsmallen kräver en rad per person i varje uttag. Identiska dubblettrader får tas bort uttryckligen; andra dubbletter stoppar körningen. Händelseregister behöver en motiverad aggregering innan koppling. Ingen godtycklig ”första rad” väljs.
 

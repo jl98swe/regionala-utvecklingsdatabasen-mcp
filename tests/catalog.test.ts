@@ -67,3 +67,6 @@ test('code cannot use NULL for known yearly data or YYYY for monthly data',()=>{
  assert.equal(codeTemplate('kombinera_register',[{databasvy:'bas_prelmanad',variabler:['BAS'],period:2020}]).can_generate,false);
  assert.equal(codeTemplate('kombinera_register',[{databasvy:'bas_prelmanad',variabler:['BAS'],period:202012}]).can_generate,true);
 });
+test('LTU first-year view uses the chosen cohort year as in the source method',()=>{
+ assert.match(codeTemplate('ltu_examen').r_code!,/hamta\(con, "hreg_forstaar", examensar,/);
+});

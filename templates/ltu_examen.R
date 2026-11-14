@@ -17,7 +17,7 @@ analys <- function(examensar = 2021L, efter = 3L, hogsk_kod = "002") {
     mutate(across(everything(), as.character))
   kohort <- unik(kohort, "P1481_LopNr_PersonNr")
   if (!nrow(kohort)) stop("Ingen examenskohort hittades.")
-  forstaar <- hamta(con, "hreg_forstaar", NULL, c("P1481_LopNr_PersonNr", "Ffgar"), kohort$P1481_LopNr_PersonNr)
+  forstaar <- hamta(con, "hreg_forstaar", examensar, c("P1481_LopNr_PersonNr", "Ffgar"), kohort$P1481_LopNr_PersonNr)
   forstaar <- unik(forstaar, "P1481_LopNr_PersonNr", "exact")
   bas <- left_join(kohort, forstaar, by = "P1481_LopNr_PersonNr", relationship = "one-to-one")
   ar <- suppressWarnings(as.integer(bas$Ffgar))
