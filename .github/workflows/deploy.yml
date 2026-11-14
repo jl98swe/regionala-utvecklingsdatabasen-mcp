@@ -1,0 +1,53 @@
+name: Deploy Cloudflare
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-production
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    env:
+      WRANGLER_SEND_METRICS: 'false'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: python3 -m unittest discover -s tests -p 'test_*.py'
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+          use-public-rspm: true
+      - run: Rscript -e 'install.packages("dplyr", repos="https://cloud.r-project.org")'
+      - run: node --import tsx scripts/export-code.ts
+      - run: Rscript tests/r-checks.R
+      - name: Check Cloudflare credentials
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CF_TOKEN" ] || [ -z "$CF_ACCOUNT" ]; then
+            echo '::error::Add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID in repository Actions secrets. Never paste credentials in chat.'
+            exit 1
+          fi
+      - uses: cloudflare/wrangler-action@v3
+        id: deploy
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy
+      - name: Verify deployed MCP with SDK client
+        env:
+          DEPLOYMENT_URL: ${{ steps.deploy.outputs.deployment-url }}
+        run: |
+          if [ -z "$DEPLOYMENT_URL" ]; then echo '::error::No deployment URL returned'; exit 1; fi
+          npm run smoke -- "${DEPLOYMENT_URL%/}/mcp"
+          echo "MCP endpoint: ${DEPLOYMENT_URL%/}/mcp" >> "$GITHUB_STEP_SUMMARY"

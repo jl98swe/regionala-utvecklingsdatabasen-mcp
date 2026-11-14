@@ -1,0 +1,31 @@
+{
+  "name": "regionala-utvecklingsdatabasen-mcp",
+  "version": "0.1.0",
+  "description": "Publik metadata-MCP f\u00f6r Regionala utvecklingsdatabasen, utan MONA-anslutning",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --import tsx --test tests/*.test.ts",
+    "typecheck": "tsc",
+    "dev": "wrangler dev --ip 127.0.0.1",
+    "build": "wrangler deploy --dry-run",
+    "deploy": "wrangler deploy",
+    "smoke": "node --import tsx scripts/smoke-client.ts"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "wrangler": "^4.162.0"
+  },
+  "private": true
+}
