@@ -1,6 +1,12 @@
 name: Deploy Cloudflare
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - src/order-domains.ts
+      - src/server.ts
+      - data/order-source-index.json
   workflow_run:
     workflows: [Hämta värdemängder från SCB]
     types: [completed]
@@ -12,11 +18,13 @@ concurrency:
 jobs:
   deploy:
     if: github.ref == 'refs/heads/main' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       WRANGLER_SEND_METRICS: 'false'
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
@@ -63,5 +71,10 @@ jobs:
           DEPLOYMENT_URL: ${{ steps.deploy.outputs.deployment-url }}
         run: |
           if [ -z "$DEPLOYMENT_URL" ]; then echo '::error::No deployment URL returned'; exit 1; fi
-          npm run smoke -- "${DEPLOYMENT_URL%/}/mcp"
+          verified=false
+          for attempt in 1 2 3; do
+            if npm run smoke -- "${DEPLOYMENT_URL%/}/mcp"; then verified=true; break; fi
+            if [ "$attempt" != 3 ]; then sleep 5; fi
+          done
+          if [ "$verified" != true ]; then exit 1; fi
           echo "MCP endpoint: ${DEPLOYMENT_URL%/}/mcp" >> "$GITHUB_STEP_SUMMARY"

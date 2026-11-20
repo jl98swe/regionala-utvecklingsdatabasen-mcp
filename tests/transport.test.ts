@@ -37,7 +37,7 @@ test('HTTP routes, body bounds and origin validation',async()=>{
  assert.equal((await worker.fetch(new Request(endpoint,{method:'POST',headers:{Origin:'null'},body:'{}'}))).status,403);
  assert.equal((await worker.fetch(new Request(endpoint,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json, text/event-stream'},body:'{'}))).status,400);
 });
-test('server makes no outbound fetch or execution request',async()=>{
+test('tool discovery makes no outbound fetch or execution request',async()=>{
  const original=globalThis.fetch;globalThis.fetch=async()=>{throw new Error('Outbound access forbidden');};
  try{const r=await worker.fetch(new Request(endpoint,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json, text/event-stream'},body:JSON.stringify({jsonrpc:'2.0',id:1,method:'tools/list'})}));assert.equal(r.status,200);}finally{globalThis.fetch=original;}
 });

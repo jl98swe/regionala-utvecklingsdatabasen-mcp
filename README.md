@@ -289,3 +289,9 @@ med Aktieägarstatistiken som första register. `sok_vardemangder` hittar hämta
 variabel/version-kopplingar och `hamta_vardemangd` visar koder och betydelser.
 Källversion, hämtningsdatum och importens fullständighet följer med.
 [Läs om hämtning, uppdatering och återstart](docs/MIKROMETADATA.md).
+
+Beställningens granskade registerkopplingar kan sökas med `databasvy`, exempelvis
+`lisa_individ`, `bas` eller `rtb`. Olösta namn och ännu inte hämtade källor visas
+öppet. Kodlistorna lagras separat och läses vid behov. Den schemalagda kön
+fortsätter med nya variabelversioner utan att behöva hämta om tidigare lyckade
+exporter. Se [hämtningens dokumentation](docs/MIKROMETADATA.md).

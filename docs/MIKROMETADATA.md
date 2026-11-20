@@ -57,3 +57,46 @@ python scripts/harvest_mikrometadata.py --register 'Aktieägarstatistik'
 `--max-checks 3` gör ett kort återstartbart test. `--refresh-history` läser om
 även redan hämtade historiska kopplingar. Fel stoppar hämtningen; ingen automatisk
 kringgång av spärrar eller godtycklig ersättning av felaktiga exporter görs.
+
+## Beställningsstyrd hämtning (0.7)
+
+`data/order-source-review.json` innehåller granskade registerval. Kopplingarna
+bygger på registerbeteckning och kolumnprofil, med exakta eller entydiga
+skiftlägesmatchningar. Dessa är kopplingar till koddefinitioner, inte bevis för
+beställningens population. Namn som inte kan beläggas lämnas öppna.
+`data/order-source-plan.json` visar varje beställd variabel, källträff och årsfält.
+`data/order-source-candidates.json` innehåller sökförslag; de är inte godkännanden.
+
+LISA individer använder både varianten 16 år och äldre (äldre årgångar) och
+15 år och äldre (nyare årgångar). Den faktiskt tillgängliga SCB-versionen jämförs
+med variabelns eget årsfält. Okända beställningsår förblir okända. För sådana
+variabler kan dokumentation hämtas för fler SCB-versioner, uttryckligen utan
+att påstå att beställningen innehåller de åren. Identifierarkolumner listas
+separat och ger inga uttag av person- eller företagsuppgifter.
+
+Den månatliga inventeringen startar den första dagen kl. 03:17 UTC och följs av
+workflowet **Hämta beställningens värdemängder**. Varje batch väljer högst åtta
+källvarianter, med högst två samtidiga webbläsare och 200 nya variabelversioner
+per jobb. Senaste relevanta versionen för varje variabel prioriteras före äldre
+historik. Kön återstartar automatiskt, med en gräns på 13 batcher per start.
+Kvarvarande arbete kan återstartas manuellt eller vid nästa månatliga körning.
+Grupper med faktiska fel spärras för samma hämtkod och källa medan andra fortsätter.
+Ändrad hämtkod eller källa gör dem åter körbara. Redan sparade värden behålls.
+
+Kodlistornas innehåll lagras en gång per innehållshash under
+`data/value-domain-values/`. Kopplingar och status per registervariant ligger
+under `data/value-domains-ordered/`. MCP:n läser en fast katalog av dessa publika
+GitHub-filer vid behov; den bäddar inte in hela den växande mängden kodvärden.
+Den accepterar inga användarvalda adresser. Katalogdelar och kodlistor har
+storleksgräns, tidsgräns och en minnesbegränsad cache med två minuters giltighet.
+
+Ange exempelvis `databasvy="lisa_individ"` eller `databasvy="rtb"` i
+`sok_vardemangder`. Svaret redovisar även väntande och felande hämtningar samt
+olösta variabler. `hamta_vardemangd` följer exakt id från sökningen och hämtar
+endast den berörda kodlistan. Värdemängdshämtningen ger aldrig nya garantier om
+vilka variabler, år eller observationer som finns i MONA.
+
+Den fullständiga SCB-indexexporten bevaras komprimerad. CSV-exporten innehåller
+även poster utan kolumnnamn och några ofullständiga poster; de används inte som
+kolumnträffar. Skillnaden mellan gränssnittets och exportens radantal dokumenteras,
+och inga saknade kolumnnamn fylls i genom antaganden.

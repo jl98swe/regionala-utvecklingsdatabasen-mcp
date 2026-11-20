@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Restartable order-scoped harvesting, one reviewed register variant per job."""
-import argparse,collections,json,re,time
+import argparse,collections,csv,io,json,re,time
 from datetime import datetime,timezone
 from pathlib import Path
 from harvest_mikrometadata import SOURCE,CSV,atomic_save,digest,choose_register,select_variable,detail,download_text,parse_export
@@ -27,6 +27,22 @@ def groups_from_plan(plan):
  g=collections.defaultdict(list)
  for t in plan['tasks']:g[group_id(t['Registerrubrik'],t['Registervariantrubrik'])].append(t)
  return g
+
+def display_meta(values):return tuple(' '.join(v.split()) for v in values)
+
+def export_sets(text):
+ rows=list(csv.DictReader(io.StringIO(text.lstrip('\ufeff')),delimiter='\t'))
+ groups=collections.defaultdict(list)
+ for row in rows:
+  if any(row.get(k) is None for k in ['Vardemangdsversion','Vardemangdsniva','Vardekod','Vardebenamning','Kolumnnamn','Datatyp']):
+   raise ValueError('Ofullständig SCB-exportrad: '+repr(row)[:400])
+  key=(row['Vardemangdsversion'],row['Vardemangdsniva'],row['Datatyp'])
+  groups[key].append(row)
+ result=[]
+ for (version,level,dtype),values in groups.items():
+  d={'version':version,'level':level,'data_type':dtype,'values':[{'code':r['Vardekod'],'label':r['Vardebenamning']} for r in values]}
+  d['id']=digest(d);result.append((d,{r['Kolumnnamn'] for r in values}))
+ return result
 
 def main(a):
  from playwright.sync_api import sync_playwright,expect
@@ -57,8 +73,8 @@ def main(a):
    print('Oförändrad källa och komplett urval; ingen export behövs.');return
   choose_register(page,reg)
   field=page.get_by_role('textbox',name='Registervariant',exact=True);field.click()
-  page.get_by_role('option',name=var,exact=True).click()
-  expect(field).to_have_value(var);expect(page.get_by_role('listbox')).to_be_hidden();expect(page.get_by_role('progressbar')).to_have_count(0)
+  page.get_by_role('option',name=var.strip(),exact=True).click()
+  expect(field).to_have_value(re.compile(r'^\s*'+re.escape(var.strip())+r'\s*$'));expect(page.get_by_role('listbox')).to_be_hidden();expect(page.get_by_role('progressbar')).to_have_count(0)
   print(f'{reg} | {var} | {len(tasks)} granskade variabeldefinitioner',flush=True)
   schedules=[]
   # Discover actual versions first. No first/last-year interpolation.
@@ -97,8 +113,13 @@ def main(a):
      export=page.get_by_role('button',name=CSV,exact=True).last
      if page.get_by_role('textbox',name='Filtrera värdemängd',exact=True).count():expect(export).to_be_enabled()
      if export.is_enabled():
-      domain,columns=parse_export(download_text(page,export))
-      if columns!={task['Kolumnnamn']} or (domain['version'],domain['level'],domain['data_type'])!=(version,level,dtype):raise ValueError('Fel variabel eller värdemängd i exporten')
+      exported=export_sets(download_text(page,export))
+      selected=[(d,cols) for d,cols in exported if display_meta((d['version'],d['level'],d['data_type']))==display_meta((version,level,dtype))]
+      if len(selected)!=1:raise ValueError('Exportens värdemängdsnivå matchar inte vald nivå: '+repr([(d['version'],d['level'],d['data_type']) for d,_ in exported])[:600])
+      domain,columns=selected[0]
+      if len(exported)>1:print('INFO | ytterligare värdemängdsnivåer i exporten: '+repr([(d['version'],d['level']) for d,_ in exported]),flush=True)
+      if columns!={task['Kolumnnamn']} or display_meta((domain['version'],domain['level'],domain['data_type']))!=display_meta((version,level,dtype)):
+       raise ValueError('Exportmatchning: väntat='+repr((task['Kolumnnamn'],version,level,dtype))+'; export='+repr((sorted(columns),domain['version'],domain['level'],domain['data_type'])))
       status='enumerated'
      else:
       if not version or not dtype:raise ValueError('Ofullständig definition')
@@ -123,5 +144,5 @@ if __name__=='__main__':
  except Exception as e:
   plan=json.loads((ROOT/'data/order-source-plan.json').read_text());tasks=groups_from_plan(plan)[a.group];path=path_for(a.group)
   d=json.loads(path.read_text()) if path.exists() else {'schema_version':'2.0','source':SOURCE,'group_id':a.group,'register':tasks[0]['Registerrubrik'],'variant':tasks[0]['Registervariantrubrik'],'bindings':[],'domains':[],'coverage':{}}
-  c=d['coverage'];c.update({'complete':False,'collector_sha256':COLLECTOR_SHA,'source_updated':plan['scb_source_updated'],'errors':[str(e)],'passes':max(1,c.get('passes',0))});atomic_save(path,d)
+  c=d['coverage'];c.update({'complete':False,'collector_sha256':COLLECTOR_SHA,'source_updated':plan['scb_source_updated'],'errors':c.get('errors') or [str(e)],'passes':max(1,c.get('passes',0))});atomic_save(path,d)
   raise

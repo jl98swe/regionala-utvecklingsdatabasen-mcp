@@ -80,7 +80,7 @@ def select_variable(page, item):
     table = page.get_by_role('table').first
     row = table.get_by_role('row').filter(has=page.get_by_role('cell', name=item['Kolumnnamn'], exact=True))
     for name in ('Registerrubrik', 'Registervariantrubrik', 'Variabelnamn'):
-        row = row.filter(has=page.get_by_role('cell', name=item[name], exact=True))
+        row = row.filter(has=page.get_by_role('cell', name=item[name].strip(), exact=True))
     # Column names can have several definitions/validity intervals in one register.
     row = row.filter(has=page.get_by_role('cell', name=item['VersionForsta'], exact=True))
     row = row.filter(has=page.get_by_role('cell', name=item['VersionSista'], exact=True))
