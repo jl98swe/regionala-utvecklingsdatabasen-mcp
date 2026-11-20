@@ -107,9 +107,14 @@
           "to": 2025
         }
       ],
-      "equivalence": "user_confirmed_name_change",
-      "source": "Användarens uppgift om namnbyte i denna konversation, 2026-11-20; originalnamn och år kontrollerade mot beställningens metadata.",
-      "comparability": "Namnbytet är uppgivet av användaren. SCB-verifierad likhet i definition, enhet och kodning saknas; antagandet ska framgå och omprövas om innehållet skiljer sig."
+      "equivalence": "name_versions_documented_semantics_unverified",
+      "source": "Originalnamn och årsintervall kontrollerade mot beställningens metadata 2026-11-20. Den diskuterade namnkopplingen är en kandidat; metadata bevisar inte jämförbarhet.",
+      "comparability": "Namn och år är verifierade. Jämförbar definition, enhet och kodning har inte verifierats. Kontrollera dessa innan årsuttag förs samman till ett analysmått; liknande namn räcker inte.",
+      "comparability_checks": {
+        "definition": "not_verified",
+        "unit": "not_verified",
+        "coding": "not_verified"
+      }
     }
   ]
 }

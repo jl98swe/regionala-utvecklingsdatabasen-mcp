@@ -40,7 +40,7 @@ export function codeTemplate(id:string, selections:Selection[]=[], options:{skap
   return {...stamp,register_context:contexts,method_selection:methodSelection,user_notice:projectSupport.small_counts.user_notice,project_support:projectSupport,id,...m,verification:{metadata_names:'verified',r_syntax:'covered_by_R_CI',mona_execution:'not_run',note:'Metodstöd och namn är kontrollerade mot metadata; databasberoende beteende verifieras i användarens miljö.'},requirements,
    warnings:[...m.limitations,...registerNotes],r_code:intro(id,m.title,Object.keys(m.required),[m.title,'Kontrollera dubbletter och koppla register utan att multiplicera personer.','Redovisa skyddade kontrollantal.'],[...m.limitations,...smallNotes,...registerNotes],options.skapare)+templates.common+'\n\n'+templates[id as keyof typeof templates].replace('dubbletter = "stop"',`dubbletter = "${options.dubbletter??'stop'}"`)};
  }
- if(id!=='kombinera_register')throw new Error('Okänd kodmall. Välj lista, projektstod, kombinera_register, ltu_examen eller invandring_etablering.');
+ if(id!=='kombinera_register')throw new Error('Okänd kodmall. Välj lista, projektstod, harmonisera_argangar, kombinera_register, ltu_examen eller invandring_etablering.');
  if(!selections.length)throw new Error('Ange minst ett register med variabler och uttrycklig period (NULL endast för dokumenterat icke årsindelad vy).');
  const key='P1481_LopNr_PersonNr';
  const contexts=selections.map(s=>registerContext(canonicalView(s.databasvy),s.variabler,s.period===null?[]:[s.period],options.kontext));
@@ -71,7 +71,7 @@ export function codeTemplate(id:string, selections:Selection[]=[], options:{skap
 
 type RegisterContext=ReturnType<typeof registerContext>;
 function contextComments(contexts:RegisterContext[]):string[]{
- return [...new Map(contexts.flatMap(c=>c.notes.map(n=>[n.id,`${n.title}: ${n.message} ${n.scope_note} Källa: ${n.source.title}, s. ${n.source_pages.join(', ')}; ${n.source.url}`] as const))).values()];
+ return [...new Map(contexts.flatMap(c=>c.notes.map(n=>[n.id,`${n.title}: ${n.message} Analyskonsekvens: ${n.consequence} ${n.scope_note} Källa: ${n.source.title}, s. ${n.source_pages.join(', ')}; ${n.source.url}`] as const))).values()];
 }
 
 function harmonizeTemplate(selections:Selection[],options:{skapare?:string;kontext?:AnalysisContext}):TemplateResult{
@@ -99,6 +99,6 @@ function harmonizeTemplate(selections:Selection[],options:{skapare?:string;konte
  // Multiple concepts in the same year are separate long tables; never join implicitly.
  const outputs=accepted.map((p,i)=>`    uttag_${i+1} %>% mutate(begrepp = ${quote(p.analysis_name)})`);
  return {...stamp,project_support:projectSupport,user_notice:projectSupport.small_counts.user_notice,register_context:contexts,id:'harmonisera_argangar',can_generate:true,plan,warnings,
-  verification:{metadata_names:'verified',availability:'verified',semantic_equivalence:'user_confirmed_name_change_not_SCB_verified',mona_execution:'not_run'},
-  r_code:intro('harmonisera_argangar','Hämta variabelversioner per år och samla dem under gemensamma analysnamn',[...new Set(accepted.map(p=>p.view))],['Hämta rätt källvariabel enligt den dokumenterade årsplanen.','Byt till gemensamt namn och konvertera före vidare beräkning.','Behåll uttagsår och begrepp; välj analysenhet före eventuell registerkoppling.'],[...warnings,...smallNotes],options.skapare)+templates.common+`\n\n# ---- Harmoniserade årsuttag ----\n\n# Ange bara verifierade bortfallskoder. Inga koder gissas.\nbortfallskoder <- character()\n\nanalys <- function() {\n  con <- uppkoppling_db()\n  on.exit(DBI::dbDisconnect(con), add = TRUE)\n\n${blocks.join('\n\n')}\n\n  bind_rows(\n${outputs.join(',\n')}\n  )\n}\n\n# ---- Kör analysen ----\n\n# resultat <- analys()\n`};
+  verification:{metadata_names:'verified',availability:'verified',semantic_equivalence:'not_verified',mona_execution:'not_run'},
+  r_code:intro('harmonisera_argangar','Hämta variabelversioner per år och samla dem under gemensamma analysnamn',[...new Set(accepted.map(p=>p.view))],['Hämta rätt källvariabel enligt den dokumenterade årsplanen.','Byt till gemensamt namn och konvertera före vidare beräkning.','Behåll uttagsår och begrepp; välj analysenhet före eventuell registerkoppling.'],[...warnings,...smallNotes],options.skapare)+templates.common+`\n\n# ---- Harmoniserade årsuttag ----\n\n# Sätt TRUE först efter kontroll av definition, enhet och kodning.\njamforbarhet_kontrollerad <- FALSE\n\n# Ange bara verifierade bortfallskoder. Inga koder gissas.\nbortfallskoder <- character()\n\nanalys <- function() {\n  con <- uppkoppling_db()\n  on.exit(DBI::dbDisconnect(con), add = TRUE)\n  if (!isTRUE(jamforbarhet_kontrollerad)) stop("Kontrollera definition, enhet och kodning innan variabelversioner förs samman.")\n\n${blocks.join('\n\n')}\n\n  bind_rows(\n${outputs.join(',\n')}\n  )\n}\n\n# ---- Kör analysen ----\n\n# resultat <- analys()\n`};
 }
