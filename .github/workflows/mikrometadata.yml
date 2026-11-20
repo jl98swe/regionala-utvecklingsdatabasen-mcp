@@ -1,5 +1,11 @@
 name: Hämta värdemängder från SCB
 on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/harvest_mikrometadata.py
+      - scripts/requirements-mikrometadata.txt
+      - .github/workflows/mikrometadata.yml
   schedule:
     - cron: '17 4 1 * *'
   workflow_dispatch:
