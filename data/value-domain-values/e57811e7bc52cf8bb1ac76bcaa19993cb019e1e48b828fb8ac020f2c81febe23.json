@@ -1,0 +1,24 @@
+{
+  "version": "Arbetsmarknadsstatus",
+  "level": "Arbetsmarknadsstatus - grov nivå",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Registerbaserad sysselsatt"
+    },
+    {
+      "code": "2",
+      "label": "Registerbaserad arbetslös"
+    },
+    {
+      "code": "7",
+      "label": "Ej i arbetskraften"
+    },
+    {
+      "code": "8",
+      "label": "Barn 0 - 14 år"
+    }
+  ],
+  "id": "e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23"
+}

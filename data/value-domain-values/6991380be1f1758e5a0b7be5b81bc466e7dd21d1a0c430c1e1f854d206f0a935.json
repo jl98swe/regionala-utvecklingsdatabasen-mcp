@@ -1,0 +1,36 @@
+{
+  "version": "Arbetsmarknadsstatus",
+  "level": "Arbetsmarknadsstatus",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Registerbaserad sysselsatt"
+    },
+    {
+      "code": "2",
+      "label": "Registerbaserad arbetslös"
+    },
+    {
+      "code": "3",
+      "label": "Registerbaserad studerande"
+    },
+    {
+      "code": "4",
+      "label": "Registerbaserad pensionär"
+    },
+    {
+      "code": "5",
+      "label": "Registerbaserad sjuk"
+    },
+    {
+      "code": "8",
+      "label": "Barn 0 - 14 år"
+    },
+    {
+      "code": "9",
+      "label": "Övrigt"
+    }
+  ],
+  "id": "6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935"
+}

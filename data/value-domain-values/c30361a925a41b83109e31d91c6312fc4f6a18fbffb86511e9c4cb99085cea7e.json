@@ -1,0 +1,36 @@
+{
+  "version": "Standard för indelning efter ägarkategori 2020",
+  "level": "Nivå 2",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "00",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "10",
+      "label": "Statligt kontrollerade enheter"
+    },
+    {
+      "code": "20",
+      "label": "Kommunalt kontrollerade enheter"
+    },
+    {
+      "code": "30",
+      "label": "Regionkontrollerade enheter"
+    },
+    {
+      "code": "41",
+      "label": "Privat svenskkontrollerade enheter utan koncerntillhörighet"
+    },
+    {
+      "code": "42",
+      "label": "Privat svenskkontrollerade enheter med koncerntillhörighet"
+    },
+    {
+      "code": "50",
+      "label": "Utlandskontrollerade enheter"
+    }
+  ],
+  "id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e"
+}
