@@ -1,5 +1,5 @@
 # Syntetiska exempel: små antal, totaler och slumpmetod. Ingen MONA-data.
-expr <- parse("templates/common_v1.2.R", encoding = "UTF-8")
+expr <- parse("templates/common_v1.3.R", encoding = "UTF-8")
 for (e in expr) {
   if (is.call(e) && identical(e[[1]], as.name("<-")) &&
       as.character(e[[2]]) %in% c("random_0_till_3", "skydda_antal", "sma_tal_metod", "sma_tal_grans", "sma_tal_markor")) {

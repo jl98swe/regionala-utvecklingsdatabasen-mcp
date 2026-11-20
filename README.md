@@ -95,12 +95,12 @@ Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen
 | `sok_variabler` | Sök på namn, vy eller dokumenterade ämnessynonymer. Tål skiftläge, åäö och alternativa separatorer. |
 | `kontrollera_tillganglighet` | Kontrollera flera variabler och perioder på variabelnivå. |
 | `hamta_registerstruktur` | Lista vyer, variabler och möjliga kopplingsnycklar. |
-| `hamta_kodmall` | Lista/hämta R-mallar för registerkoppling, examenskohort och invandringsuppföljning. |
+| `hamta_kodmall` | Hämta projektstöd och R-mallar för registerkoppling, årgångsharmonisering, examenskohort och invandringsuppföljning. |
 | `sok_nycklar` | Sök bland nyckelfilernas fil- och kolumnnamn. Visa vilka kolumner och grupperingar en nyckelfil innehåller. |
 | `hamta_nyckel` | Hämta en vald kodlista eller sök efter koder och klartext i den. |
 | `kontrollera_klartextkoppling` | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
 
-Aktuell version är **0.4.0**
+Aktuell version är **0.5.0**
 
 Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
 
@@ -115,6 +115,38 @@ Källa: den tillhandahållna `metadata_variabler.xlsx`. Snapshoten innehåller *
 * Saknat känt år ger `unavailable`. Ogiltigt namn ger ett strukturerat fel med `isError: true`.
 * Matchning normaliserar endast till unika namn. Originalnamnet i svaret ska användas i R. Stavfel rättas inte tyst.
 * Metadata innehåller inte variabeldefinitioner, kodlistor, analysenheter eller belägg för nycklarnas unikhet. Sådan information får inte antas.
+
+## Registerkunskap och metodval
+
+MCP:n skiljer beställningens tillgängliga variabler från dokumenterade
+begränsningar och metodval. Registeranmärkningar följer med vid sökning,
+registerstruktur, årskontroll och kodmallar. Källor, sidor, granskningsdatum och
+osäkerhet om tillämpningen på beställningen framgår. Anmärkningar ändrar inga
+urval eller tillgänglighetsbesked automatiskt.
+
+Ange `kontext.ar_begrepp` som `registerar`, `handelsear` eller
+`uppfoljningsar` när perioder anges. Om det är oklart används `okant` och
+MCP:n förklarar att årsspecifika slutsatser behöver preciseras.
+`kontext.upplosning` skiljer år, månad, termin och händelse. Tidsupplösningen
+styr metodstödet, inte vilka variabler beställningen innehåller.
+
+`hamta_kodmall` med `mall: "harmonisera_argangar"` kan välja rätt namn per år
+för en dokumenterad variabelkoppling och ge ett gemensamt analysnamn. Den
+första kopplingen är namnbytet i avggymn. Namn och år har verifierats mot
+metadata; uppgiften om själva namnbytet kommer från användaren och utgör
+inte en SCB-verifiering av att definition, enhet och kodning är oförändrade.
+Andra liknande namn visas för granskning och förs aldrig samman automatiskt.
+
+Flera rader per person kan vara flera giltiga händelser. Analysenheten och
+kopplingsnyckeln behöver därför väljas före dubbletthantering. Den generella
+kopplingsmallen tar inte bort rader som standard. `dubbletter: "exact"` är
+ett uttryckligt val för att ta bort enbart helt identiska rader; andra
+prioriteringar eller summeringar kräver en dokumenterad metod. Den särskilda
+invandringsmallens val av första invandring inom perioden kräver
+`bekrafta_metod: true`. Det är inte en generell regel och inte nödvändigtvis
+personens första invandring i livet.
+
+Se [registeranmärkningarnas underlag och underhåll](docs/REGISTER_KNOWLEDGE.md).
 
 ## Nyckelregistret
 
@@ -193,7 +225,7 @@ DeSO-skriptet och de två uttryckligen undantagna kodrepositorierna används int
 
 Anropa `hamta_kodmall` med `mall: "projektstod"` för källprioritering, MONA-regler och de dokumenterade mikrodataR-signaturerna. Samma projektstöd ingår vid listning av register och kodmallar och när kod lämnas. Projektstödet använder de fyra ursprungliga verktygen. Version 0.4.0 kompletterar dem med tre verktyg för nyckelregistret. Klientens systeminstruktioner uppmanar den att läsa stödet innan kod skapas eller ändras.
 
-Mallarna i `templates/*_v1.1.R` har versionsnummer, generell skapare och datum. De tidigare filerna ligger oförändrade i `templates/archive/*_v1.0.R`; de saknade ursprungligen versionsnummer och benämns initialversion 1.0 i arkivet. Genererad kod levereras i sin helhet och föreslår ett versionsmärkt filnamn. Vid ändring av användarens skript ska dess senaste version och skapare bevaras i stället för mallens uppgifter.
+Mallarna i `templates/*_v1.3.R` har tydliga avsnitt, `%>%` och stöd för skriptens beskrivning, skapare, version och datum. Tidigare versioner ligger oförändrade i `templates/archive/`. Om skaparen inte är känd används en tydlig platshållare. Genererad kod levereras i sin helhet och föreslår ett versionsmärkt filnamn. Vid ändring av användarens skript ska dess senaste version och skapare bevaras i stället för mallens uppgifter.
 
 UTF-8-konvertering används vid textbearbetning. Identifierare ändras inte. Textnormalisering som ändrar kodning eller slår samman olika originalvärden stoppar för granskning. Numeriska mått och tidsfält konverteras med `numeriskt()` innan beräkning; tomma värden blir NA, dokumenterade bortfallskoder kan anges och oväntade värden stoppar. Dubblettreglerna är samlade i `unik()`.
 

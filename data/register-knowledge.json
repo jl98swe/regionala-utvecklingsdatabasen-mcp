@@ -1,0 +1,115 @@
+{
+  "version": "1.0",
+  "sources": [
+    {
+      "id": "scb-lisa-2019",
+      "title": "LISA, Bakgrundsfakta 2019:1 (1990–2017)",
+      "url": "https://www.scb.se/contentassets/0521204f13e649299dec73f091e691e0/lisa-bakgrundsfakta-1990-2017.pdf",
+      "documentation_scope": "LISA, dokumentation till och med årgång 2017",
+      "reviewed_on": "2026-11-20",
+      "preferred_catalog": "https://mikrometadata.scb.se/",
+      "catalog_access": "Webbplatsen kunde inte läsas vid granskningen; SCB:s officiella dokumentation användes."
+    }
+  ],
+  "notes": [
+    {
+      "id": "immigration-year-coverage-1998",
+      "views": [
+        "in_utvandring_lisa",
+        "stativ"
+      ],
+      "variables": {
+        "stativ": [
+          "SenInvAr"
+        ],
+        "in_utvandring_lisa": [
+          "InvUtvManad"
+        ]
+      },
+      "source_variable": "SenInvAr",
+      "year_basis": "registerar",
+      "breakpoint": 1998,
+      "source_pages": [
+        66
+      ],
+      "title": "Förändrad täckning för invandringsår",
+      "message": "LISA-dokumentationen anger bättre täckning för senaste invandringsår från 1998, särskilt för invandring före 1968. Detta avser registerinformationen, inte bara personer som invandrade 1998.",
+      "consequence": "Jämförelser mellan årgångar kan påverkas av förbättrad historik. Överför inte uppgiften om SenInvAr till hela händelseregistret utan kontroll.",
+      "order_application": "requires_verification",
+      "scope_note": "SenInvAr finns i beställningens stativ; kopplingen från LISA-dokumentationen till denna vy och in_utvandring_lisa behöver verifieras.",
+      "source_id": "scb-lisa-2019",
+      "evidence": "official_documentation",
+      "automatic_filter": false
+    },
+    {
+      "id": "migration-month-before-1998",
+      "views": [
+        "in_utvandring_lisa"
+      ],
+      "variables": {
+        "in_utvandring_lisa": [
+          "InvUtvManad"
+        ]
+      },
+      "source_variable": "InvUtvManad",
+      "year_basis": "handelsear",
+      "breakpoint": 1998,
+      "source_pages": [
+        68
+      ],
+      "title": "Annan grund för äldre flyttningstidpunkter",
+      "message": "Före 1998 redovisades registreringsår och vecka som flyttningstidpunkt; årsveckan har översatts till månad.",
+      "consequence": "Äldre månader bör inte utan förbehåll tolkas som exakt faktisk flyttmånad. Beakta ändringen vid månadsanalyser och jämförelser över 1998.",
+      "order_application": "requires_verification",
+      "scope_note": "Definitionen gäller LISA. Kontrollera att samma bearbetning gäller beställningens InvUtvManad.",
+      "source_id": "scb-lisa-2019",
+      "evidence": "official_documentation",
+      "automatic_filter": false
+    },
+    {
+      "id": "migration-events-not-persons",
+      "views": [
+        "in_utvandring_lisa"
+      ],
+      "variables": {},
+      "source_variable": null,
+      "year_basis": "none",
+      "breakpoint": null,
+      "source_pages": [
+        67,
+        68
+      ],
+      "title": "Händelser över flera år i samma tabell",
+      "message": "LISA:s icke årgångsbundna migrationstabell innehåller flera flyttningstillfällen för samma person.",
+      "consequence": "Ett upprepat löpnummer kan vara flera giltiga händelser. Definiera analysenhet före koppling; en tom årskolumn bevisar ingen historisk täckning.",
+      "order_application": "requires_verification",
+      "scope_note": "Beställningens tillgänglighet är okänd. En persons första observerade händelse är inte bevis för livets första händelse.",
+      "source_id": "scb-lisa-2019",
+      "evidence": "official_documentation",
+      "automatic_filter": false
+    }
+  ],
+  "harmonizations": [
+    {
+      "id": "avggymn-totalpoang",
+      "view": "avggymn",
+      "concept": "totalpoang",
+      "analysis_name": "totalpoang",
+      "variants": [
+        {
+          "variable": "TotalPoäng",
+          "from": 1997,
+          "to": 2004
+        },
+        {
+          "variable": "TotalPoang",
+          "from": 2005,
+          "to": 2025
+        }
+      ],
+      "equivalence": "user_confirmed_name_change",
+      "source": "Användarens uppgift om namnbyte i denna konversation, 2026-11-20; originalnamn och år kontrollerade mot beställningens metadata.",
+      "comparability": "Namnbytet är uppgivet av användaren. SCB-verifierad likhet i definition, enhet och kodning saknas; antagandet ska framgå och omprövas om innehållet skiljer sig."
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import {projectSupport} from './guidance.js';
+import {registerContext,type AnalysisContext} from './knowledge.js';
 import data from '../data/metadata.json' with { type: 'json' };
 export type Row = typeof data.records[number];
 export type Availability = {status:'known'|'unknown'|'unparsed'; granularity:'year'|'month'|null; periods:number[]; raw:string|null};
@@ -41,9 +42,9 @@ export function getRow(view:string,variable:string) {
   throw new Error(`Okänd eller tvetydig variabel: ${variable} i ${v}. Använd sok_variabler.`);
 }
 export function detail(r:Row) {return {...r,tillganglighet:parsed.get(r)!};}
-export function check(view:string,variable:string,periods:number[]=[]){
+export function check(view:string,variable:string,periods:number[]=[],context:AnalysisContext={}){
  const r=getRow(view,variable),a=parsed.get(r)!;
- return {...detail(r),kontroller:periods.map(period=>{
+ return {...detail(r),register_context:registerContext(r.databasvy,[r.variabel],periods,context),kontroller:periods.map(period=>{
   let status:string='unknown',available:number[]=[];
   if(a.status==='known') {
    if(a.granularity==='month' && period<10000) {available=a.periods.filter(p=>Math.floor(p/100)===period);status=available.length===12?'available':available.length?'partial':'unavailable';}
@@ -65,14 +66,25 @@ export function search(query:string,view?:string,offset=0,limit=30){
  const alternatives=tokens.map(t=>[t,...(aliases[t]??[]).map(normalize)]);
  const matched=(v?byView.get(v)!:data.records).filter(r=>alternatives.every(options=>options.some(s=>searchable.get(r)!.includes(s))));
  return {...stamp,total:matched.length,offset,next_offset:offset+limit<matched.length?offset+limit:null,
+  register_context:[...new Set(matched.slice(offset,offset+limit).map(r=>r.databasvy))].map(v=>registerContext(v,matched.filter(r=>r.databasvy===v).map(r=>r.variabel))),
   results:matched.slice(offset,offset+limit).map(detail),notice:'Sökning är normaliserad; använd svarens exakta namn i R. Metadata saknar variabeldefinitioner och kodlistor.'};
 }
-export function structure(view?:string,offset=0,limit=50){
+export function structure(view?:string,offset=0,limit=50,periods:number[]=[],context:AnalysisContext={}){
  if(!view)return {...stamp,project_support:projectSupport,total:views.length,next_offset:offset+limit<views.length?offset+limit:null,
   views:views.slice(offset,offset+limit).map(v=>({databasvy:v,antal_variabler:data.records.filter(r=>r.databasvy===v).length}))};
  const v=canonicalView(view),rows=byView.get(v)!;
  return {...stamp,definitions_url:projectSupport.definitions_url,databasvy:v,total:rows.length,next_offset:offset+limit<rows.length?offset+limit:null,
   variables:rows.slice(offset,offset+limit).map(detail),
+  register_context:registerContext(v,[],periods,context),
+  variable_name_candidates:variableNameCandidates(v),
   candidate_keys:rows.filter(r=>/LopNr/i.test(r.variabel)).map(r=>r.variabel),
   notice:'Löpnummer är möjliga kopplingsnycklar. Unikhet, kardinalitet, kodbetydelser och analysenhet framgår inte av metadata. Från år/Till år gäller vyn och styr aldrig variabeltillgänglighet.'};
+}
+
+// Candidates are for review, never proof of equivalent definitions or units.
+export function variableNameCandidates(view:string){
+ const rows=byView.get(canonicalView(view))!;
+ const groups=new Map<string,Row[]>();
+ for(const r of rows){const key=normalize(r.variabel);groups.set(key,[...(groups.get(key)??[]),r]);}
+ return [...groups.values()].filter(xs=>xs.length>1).map(xs=>({variants:xs.map(detail),equivalence:'not_established',notice:'Liknande namn kan vara olika begrepp. Använd bara en uttryckligt dokumenterad harmonisering.'}));
 }

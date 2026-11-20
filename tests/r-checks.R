@@ -8,7 +8,7 @@ for (f in files) {
   cat("R syntax PASS:", f, "\n")
 }
 # Evaluate only the pure duplicate-control function, never database code.
-expr <- parse("templates/common_v1.2.R", encoding = "UTF-8")
+expr <- parse("templates/common_v1.3.R", encoding = "UTF-8")
 for (e in expr) if (is.call(e) && identical(e[[1]], as.name("<-")) && as.character(e[[2]]) %in% c("unik", "text_utf8", "text_trim", "text_normalisera", "numeriskt")) eval(e)
 stopifnot(exists("unik"))
 a <- tibble(id = c("01", "02"), value = c("x", "y"))
@@ -37,3 +37,24 @@ stopifnot(identical(unik(ids, "id")$id, ids$id))
 cat("Synthetic UTF-8, normalization, missing code and numeric order tests PASS\n")
 
 source("tests/small-counts.R", encoding = "UTF-8")
+
+# Syntetiska exempel: årsvisa namnbyten, numerik och bevarade identifierare.
+expr <- parse("templates/common_v1.3.R", encoding = "UTF-8")
+for (e in expr) if (is.call(e) && identical(e[[1]], as.name("<-")) &&
+    identical(e[[2]], as.name("harmonisera_uttag"))) eval(e)
+a <- data.frame(id = "001", TotalPoäng = "10", check.names = FALSE)
+b <- data.frame(id = "002", TotalPoang = "2")
+a <- harmonisera_uttag(a, "TotalPoäng", "totalpoang", 2004)
+b <- harmonisera_uttag(b, "TotalPoang", "totalpoang", 2005)
+c <- bind_rows(a, b)
+stopifnot(identical(c$id, c("001", "002")), identical(c$totalpoang, c(10, 2)))
+stopifnot(identical(c$uttag_ar, c(2004L, 2005L)), identical(sort(c$totalpoang), c(2, 10)))
+d <- harmonisera_uttag(data.frame(x = c("", "..", NA)), "x", "varde", 2004, "..")
+stopifnot(all(is.na(d$varde)))
+stopifnot(inherits(try(harmonisera_uttag(data.frame(x = "1", varde = "2"), "x", "varde", 2004), silent = TRUE), "try-error"))
+cat("Synthetic versioned-name, numeric conversion, missing value and identifier tests PASS\n")
+
+# Syntetiska händelser: ett upprepat löpnummer är inte fel på händelsenivå.
+h <- tibble(id = c("001", "001", "001"), period = c("201801", "202101", "202401"))
+stopifnot(nrow(unik(h, c("id", "period"))) == 3L)
+stopifnot(inherits(try(unik(h, "id"), silent = TRUE), "try-error"))

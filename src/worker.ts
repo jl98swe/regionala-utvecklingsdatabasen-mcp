@@ -8,7 +8,7 @@ export default {
   const url=new URL(request.url);
   const cors={'Access-Control-Allow-Origin':'*','Access-Control-Allow-Methods':'POST, GET, OPTIONS','Access-Control-Allow-Headers':'Content-Type, Accept, MCP-Protocol-Version, MCP-Session-Id','Access-Control-Expose-Headers':'MCP-Protocol-Version, MCP-Session-Id','X-Content-Type-Options':'nosniff'};
   if(request.method==='OPTIONS')return new Response(null,{status:204,headers:cors});
-  if(url.pathname==='/health')return Response.json({status:'ok',server_version:'0.4.0',keys:keySummary,template_version:'1.2',...stamp,records:metadata.antal_poster,views:metadata.antal_vyer},{headers:cors});
+  if(url.pathname==='/health')return Response.json({status:'ok',server_version:'0.5.0',keys:keySummary,template_version:'1.3',...stamp,records:metadata.antal_poster,views:metadata.antal_vyer},{headers:cors});
   if(url.pathname==='/')return Response.json({name:'Regionala utvecklingsdatabasen MCP',endpoint:'/mcp',transport:'Streamable HTTP',authentication:'none',read_only:true,mona_connection:false,...stamp},{headers:cors});
   if(url.pathname!=='/mcp')return new Response('Not found',{status:404,headers:cors});
   if(request.method!=='POST')return new Response('Use POST Streamable HTTP; no standalone SSE stream.',{status:405,headers:{...cors,Allow:'POST, OPTIONS'}});

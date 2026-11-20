@@ -5,9 +5,9 @@ import {projectSupport} from '../src/guidance.js';
 
 test('all generated scripts have human intros, percent pipes and safe default count handling',()=>{
  for(const id of ['ltu_examen','invandring_etablering','kombinera_register']){
-  const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}]);
+  const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}],{bekrafta_metod:true});
   assert.ok(r.r_code);
-  for(const section of ['Register som används:','Tillvägagångssätt:','Noteringar:','Skript av: Ej angiven','Version: 1.2','Skapad:','Senast uppdaterad:'])assert.ok(r.r_code.includes(section),section);
+  for(const section of ['Register som används:','Tillvägagångssätt:','Noteringar:','Skript av: Ej angiven','Version: 1.3','Skapad:','Senast uppdaterad:'])assert.ok(r.r_code.includes(section),section);
   assert.ok(r.r_code.indexOf('Register som används:')<r.r_code.indexOf('library('));
   assert.match(r.r_code,/%>%/);assert.doesNotMatch(r.r_code,/\|>|metadata_sha256|Metadata SHA|Ej körd i MONA|dir.create|Sys.getenv\("RUD_UTDATA"\)|region_norrbotten\/joe/);
   assert.match(r.r_code,/projekt_mapp <- "\/\/micro.intra\/projekt\/P1481\$\/P1481_Gem\/"/);

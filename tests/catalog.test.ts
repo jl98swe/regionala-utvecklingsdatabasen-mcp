@@ -50,17 +50,17 @@ test('paging covers entire catalog',()=>{
  assert.equal(structure().total,88);
 });
 test('combining registers validates all variables at selected periods',()=>{
- const r=codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS','AstKommun'],period:2020}]);
+ const r=codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS','AstKommun'],period:2020}],{bekrafta_metod:true});
  assert.equal(r.can_generate,true);assert.match(r.r_code!,/relationship = "one-to-one"/);assert.match(r.r_code!,/on.exit/);
  assert.doesNotMatch(r.r_code!,/read.xlsx|read_excel|region_norrbotten\/joe/);
  const b=codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['DistriktsKod'],period:2014}]);assert.equal(b.can_generate,false);
 });
 test('unknown availability produces explicit warning, not verification',()=>{
- const r=codeTemplate('kombinera_register',[{databasvy:'hreg_examen',variabler:['KAr'],period:2020}]);
+ const r=codeTemplate('kombinera_register',[{databasvy:'hreg_examen',variabler:['KAr'],period:2020}],{bekrafta_metod:true});
  assert.equal(r.verification!.availability,'requires_runtime_verification');assert.ok(r.warnings!.length);
 });
 test('both method templates reference real names and describe untested MONA execution',()=>{
- for(const id of ['ltu_examen','invandring_etablering']){const r=codeTemplate(id);assert.equal(r.verification!.mona_execution,'not_run');assert.ok(r.requirements!.length>0);assert.ok(r.r_code!.length>2000);}
+ for(const id of ['ltu_examen','invandring_etablering']){const r=codeTemplate(id,[],{bekrafta_metod:true});assert.equal(r.verification!.mona_execution,'not_run');assert.ok(r.requirements!.length>0);assert.ok(r.r_code!.length>2000);}
 });
 test('code cannot use NULL for known yearly data or YYYY for monthly data',()=>{
  assert.equal(codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:null}]).can_generate,false);
@@ -83,14 +83,14 @@ test('project support exposes supplied APIs, source priority and editing rules',
 });
 test('complete code carries versions, documented API and character protections',()=>{
  for(const id of ['ltu_examen','invandring_etablering','kombinera_register']){
-  const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}]);
-  assert.match(r.r_code!,/Filnamn: .*_v1[.]2[.]R/);
+  const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}],{bekrafta_metod:true});
+  assert.match(r.r_code!,/Filnamn: .*_v1[.]3[.]R/);
   assert.match(r.r_code!,/Skript av:/);assert.match(r.r_code!,/Skapad:/);assert.match(r.r_code!,/Senast uppdaterad:/);
   assert.match(r.r_code!,/iconv\(x, from = "", to = "UTF-8", sub = "byte"\)/);
   assert.match(r.r_code!,/valt_ar = period, databasvy = vy/);
   assert.ok(r.project_support);
  }
  assert.match(codeTemplate('ltu_examen').r_code!,/ar <- numeriskt\(bas\$Ffgar\)/);
- const migr=codeTemplate('invandring_etablering').r_code!;
+ const migr=codeTemplate('invandring_etablering',[],{bekrafta_metod:true}).r_code!;
  assert.ok(migr.indexOf('manad <- numeriskt')<migr.indexOf('summarise(Invandringsar = min'));
 });

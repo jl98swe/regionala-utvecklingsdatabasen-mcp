@@ -1,6 +1,7 @@
+import {registerKnowledge,timeMethods} from './knowledge.js';
 import api from '../data/mikrodataR-api.json' with {type:'json'};
 export const projectSupport = {
- version:'1.3',
+ version:'1.4',
  source_priority:['Beställningens aktuella metadata: exakta vyer, variabler och variabelns egna år/månader.','Tillhandahållen mikrodataR-dokumentation: funktioner och argument.','SCB Mikrometadata: definitioner och innehåll.','Befintliga MONA-skript: struktur, metod och tidigare beslut.','Tidigare chattar/minne: endast bakgrund.'],
  definitions_url:'https://mikrometadata.scb.se/',
  usage_scope:'Använd denna MCP före förslag på R-kod för MONA och Regionala utvecklingsdatabasen, även korta kontrollskript, felsökning, basprel/BAS preliminär månadsstatistik och frågor om hur månader skrivs ut. Användaren behöver inte nämna MCP. Begäran att inte spara något gäller filskrivning och export; metadata ska fortfarande kontrolleras.',
@@ -46,6 +47,19 @@ export const projectSupport = {
    'Ange projektroten och den personliga undermappen separat i inställningarna. Använd inte Joes personmapp för andra. Saknas personmapp ska ingen export köras förrän den fyllts i; själva skriptgenereringen fortsätter. När inget ska sparas behövs ingen mappfråga, katalogskapning eller exportkod.'
   ]
  },
+ register_knowledge:{version:registerKnowledge.version,sources:registerKnowledge.sources,available_notes:registerKnowledge.notes.map(n=>({id:n.id,title:n.title,views:n.views})),time_methods:timeMethods},
+ analysis_rules:[
+  'Generella regler gäller alla register: verifiera variabelnamn, definition, enhet, kodning och referenstid före jämförelser. Sök efter namnversioner över alla analysår; liknande stavning är bara en kandidat, aldrig bevis på jämförbarhet.',
+  'Använd harmonisera_argangar för dokumenterade namnkopplingar. Hämta rätt originalvariabel för varje år, ange ett gemensamt analysnamn och behåll uttagsår. Redovisa om jämförbarheten grundas på användaruppgift eller SCB-dokumentation. Hantera saknade år, överlapp och innehållsbrott uttryckligen; fyll inte automatiskt luckor med noll.',
+  'Läs register_context i sökning, registerstruktur, tillgänglighetskontroll och kodmallar. Förklara relevanta anmärkningar för användaren och skriv metodkonsekvensen i skriptet. Ange kontext.ar_begrepp: registerar, handelsear eller uppfoljningsar; okant kräver förklaring innan en årsspecifik slutsats dras.',
+  'Skilj registerårgång, händelseår på raden, historisk täckning och referenstidpunkt. En brytpunkt kan beröra år före och efter den; att välja bara händelseår 1998 utvärderar inte en ändring i registerårgång 1998. Applicerbarhet på beställningen kan vara okänd även när SCB-källan är verifierad.',
+  'Välj tidsupplösning och metod efter analysfrågan: årskull vid fast tidpunkt, månadsövergång med definierad första arbetsmånad/varaktighet eller registrering per termin. Blanda inte upplösningar utan en dokumenterad regel. Hantera luckor, censurering och ofullständig uppföljning.',
+  'Välj analysenhet före dubbletthantering: person, person/år, person/termin, person/månad eller händelse. Upprepat löpnummer är inte i sig en felaktig dubblett. Kontrollera radantal före/efter koppling och ange förväntad kardinalitet.',
+  'Användaren väljer om flera giltiga händelser ska behållas, räknas ihop eller prioriteras. Ingen ny generell prioritering införs. Standardmallen stoppar vid upprepade nycklar; dubbletter=exact är ett uttryckligt val som bara tar bort helt identiska rader. En prioritering ska behålla en sammanhängande hel rad och ange hur lika prioritet hanteras.',
+  'Invandringsmallens första händelse inom vald period är en avgränsad metod, inte livets första invandring. Den kräver uttrycklig bekräftelse. För ett bestånd av bosatta med en egenskap används befolkningen vid vald tidpunkt som bas; förekomst av en registrerad händelse ska inte vara ett obefogat inklusionskrav.',
+  'Fortsätt att konvertera character före beräkning, numerisk sortering och numerisk filtrering i samma flöde. Bevara nycklar och nollutfyllnad. Hantera dokumenterade bortfall, inklusive eventuella okända tidsvärden; gissa inte koder från andra variabler. Bearbeta text i UTF-8 med riktad iconv och kontroll av ändrade värden.',
+  'Registeranmärkningar är information, inte nya urvalsfilter. De ändrar aldrig metadata-tillgänglighet och gör inte okänd täckning känd. Dokumentera källa, sida, datum, källtillämpning och osäkerhet. Ändra aldrig populationen automatiskt på grund av en anmärkning.'
+ ],
  rules:[
   'Före klartextkoppling: använd kontrollera_klartextkoppling med datans kolumnnamn och sok_nycklar för rubrikstruktur. Använd hamta_nyckel för kodvärden, benämningar och grupperingar. Rubriker styr matchning, inte filnamn. Registret beskriver möjliga kolumner; det simulerar inte fjoin_klartext exakt. Bevara originalnycklar och flagga dubbletter, överlapp och osäkra kodformat. Nyckelregistret bevisar inte variabelns tillgänglighet eller giltighetsår.',
   'Använd endast verifierade logiska vynamn och variabelnamn. Redovisa saknade namn och sök alternativ som faktiskt finns. Kontrollera varje variabel för samtliga analysår, även före och efter kohortåret.',
@@ -56,7 +70,7 @@ export const projectSupport = {
   'Vid månadsfrågor: skilj metadatafältets YYYYMM från faktiska tidsvärden och hjälpfunktionernas periodargument. Verifiera varje del; gissa inte månadsvariabel eller odokumenterat månadsbeteende. När inget ska sparas, visa endast kod och konsolresultat utan filskrivning.',
   'Alla MONA-variabler är character. Konvertera mått och tidsfält uttryckligen till numeriskt i samma dataflöde FÖRE berörd sortering, filtrering, beräkning och aggregering. Hantera tomma värden och dokumenterade bortfallskoder; gissa inte koder.',
   'Använd iconv(x, from = "", to = "UTF-8", sub = "byte") när text ska bearbetas. Konvertera inte alla kolumner rutinmässigt. Bevara identifierare/kopplingsnycklar och original vid felsökning. Kontrollera att normalisering inte slår samman olika grupper; åäö ska bevaras.',
-  'Samla dubblettregler i namngiven funktion. Ange nyckel, analysenhet, vilken hel rad som behålls och hur prioriteringen ändras. Identiska rader kan tas bort uttryckligen; motstridiga dubbletter stoppar standardmallen. Ingen godtycklig första rad eller kolumnvis sammansättning.',
+  'Samla dubblettregler i namngiven funktion. Ange nyckel, analysenhet, vilken hel rad som behålls och hur prioriteringen ändras. Identiska rader kan tas bort efter uttryckligt val; motstridiga dubbletter stoppar standardmallen. Ingen godtycklig första rad eller kolumnvis sammansättning.',
   'Vid ändring: bevara struktur, relevanta kommentarer, inställningar och metodbeslut; gör minsta ändring. Leverera hela skriptet som separat version och behåll föregående. Filnamn v1.0/v1.1/v2.0 och intro med version, skapare, skapandedatum och uppdateringsdatum. Höj från senaste befintliga version; mindre rättning decimal, ändrat syfte/metod/struktur huvudversion. Om skapare är okänd: använd tydlig platshållare och leverera skriptet ändå, hitta inte på.',
   'Skilj registrerade studenter, avklarade poäng, studieavslut och examen. ltu_examen gäller endast examen och kan inte ersätta LTU-uppföljning av registrerade. Invandringsmallen är också en avgränsad delmall; välj metod uttryckligen.',
   'Följ script_style och small_counts i projektstödet: utförligt intro, tydliga avsnitt, %>% som pipe och under_5 som standard utan att blockera generering.',
@@ -64,6 +78,6 @@ export const projectSupport = {
  ],
  mikrodataR:api,
  documentation_caveats:['Rd beskriver inte alla returformat eller månads-/NULL-beteenden. Anta inte dessa utan kontroll i MONA.','fjoin_klartext har ett argumentlöst exempel som avviker från usage med tab. Följ usage och kontrollera installerad version. Kodlistors betydelse måste verifieras.'],
- template_version:'1.2',mona_execution:'not_run'
+ template_version:'1.3',mona_execution:'not_run'
 };
-export const serverInstructions = projectSupport.small_counts.user_notice+' '+projectSupport.script_style.rules.join(' ')+' '+projectSupport.small_counts.rules.join(' ')+' '+projectSupport.usage_scope+' Använd projektstödet i hamta_kodmall(mall="projektstod") innan R-kod skapas eller ändras. '+projectSupport.rules.join(' ')+ ' Källprioritering: metadata, mikrodataR-dokumentation, https://mikrometadata.scb.se/, befintliga skript, tidigare chattar. Ange metadata_sha256 med kod. Alla användare delar samma metadata; användarens privata filer ändrar inte servern.';
+export const serverInstructions = projectSupport.analysis_rules.join(' ')+' '+projectSupport.small_counts.user_notice+' '+projectSupport.script_style.rules.join(' ')+' '+projectSupport.small_counts.rules.join(' ')+' '+projectSupport.usage_scope+' Använd projektstödet i hamta_kodmall(mall="projektstod") innan R-kod skapas eller ändras. '+projectSupport.rules.join(' ')+ ' Källprioritering: metadata, mikrodataR-dokumentation, https://mikrometadata.scb.se/, befintliga skript, tidigare chattar. Ange metadata_sha256 med kod. Alla användare delar samma metadata; användarens privata filer ändrar inte servern.';
