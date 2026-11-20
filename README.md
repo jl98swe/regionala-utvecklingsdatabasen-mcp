@@ -133,8 +133,9 @@ styr metodstödet, inte vilka variabler beställningen innehåller.
 `hamta_kodmall` med `mall: "harmonisera_argangar"` kan välja rätt namn per år
 för en dokumenterad variabelkoppling och ge ett gemensamt analysnamn. Den
 första kopplingen är namnbytet i avggymn. Namn och år har verifierats mot
-metadata; uppgiften om själva namnbytet kommer från användaren och utgör
-inte en SCB-verifiering av att definition, enhet och kodning är oförändrade.
+metadata. Jämförbarheten i definition, enhet och kodning är ännu inte
+verifierad. Den genererade koden stoppar före uttagen tills dessa kontroller
+har gjorts och markerats i skriptet.
 Andra liknande namn visas för granskning och förs aldrig samman automatiskt.
 
 Flera rader per person kan vara flera giltiga händelser. Analysenheten och

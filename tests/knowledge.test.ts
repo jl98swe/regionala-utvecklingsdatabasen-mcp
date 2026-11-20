@@ -27,7 +27,7 @@ test('knowledge is returned through search, structure, availability and code wit
  const c=check('in_utvandring_lisa','InvUtvManad',[1998],{ar_begrepp:'registerar'});
  assert.equal(c.kontroller[0].status,'unknown');assert.ok(c.register_context.notes.length>0);
  const r=codeTemplate('kombinera_register',[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],period:null}]);
- assert.equal(r.can_generate,true);assert.match(r.r_code!,/Förändrad täckning/);assert.match(r.r_code!,/https:\/\/www.scb.se/);
+ assert.equal(r.can_generate,true);assert.match(r.r_code!,/Förändrad täckning/);assert.match(r.r_code!,/https:\/\/www.scb.se/);assert.match(r.r_code!,/Analyskonsekvens:/);
  for(const n of registerKnowledge.notes){assert.equal(n.automatic_filter,false);assert.equal(n.order_application,'requires_verification');assert.ok(n.source_pages.length);}
 });
 test('harmonization chooses exact original names at the 2004/2005 boundary and retains provenance',()=>{
@@ -38,7 +38,10 @@ test('harmonization chooses exact original names at the 2004/2005 boundary and r
  assert.match(r.r_code!,/harmonisera_uttag\("TotalPoäng", "totalpoang", 2004/);
  assert.match(r.r_code!,/harmonisera_uttag\("TotalPoang", "totalpoang", 2005/);
  assert.match(r.r_code!,/bortfallskoder <- character/);
- assert.equal(r.verification!.semantic_equivalence,'user_confirmed_name_change_not_SCB_verified');
+ assert.equal(r.verification!.semantic_equivalence,'not_verified');
+ assert.match(r.r_code!,/jamforbarhet_kontrollerad <- FALSE/);
+ assert.match(r.r_code!,/if \(!isTRUE\(jamforbarhet_kontrollerad\)\) stop/);
+ assert.ok(registerKnowledge.harmonizations.every(h=>Object.values(h.comparability_checks).every(status=>status==='not_verified')));
  assert.equal(check('avggymn','TotalPoäng',[2005]).kontroller[0].status,'unavailable');
  assert.ok(variableNameCandidates('avggymn').some(x=>x.variants.some(v=>v.variabel==='TotalPoäng')));
 });

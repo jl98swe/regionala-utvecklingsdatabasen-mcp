@@ -13,6 +13,9 @@ R-mallar 1.3, projektstöd 1.4, registerkunskap 1.0. Datum 2026-11-20.
 - Dokumenterade namnkopplingar kan generera årsuttag med rätt originalnamn,
   numerisk konvertering, gemensamt analysnamn och bevarat uttagsår.
 - Liknande variabelnamn visas som kandidater utan automatisk sammanslagning.
+  Definition, enhet och kodning har separata verifieringsstatusar.
+  Harmoniseringskoden stoppar före uttagen tills jämförbarheten kontrollerats.
+- Registeranmärkningarnas analyskonsekvenser tas med i skriptkommentarerna.
 - Ingen generell händelseprioritering införs. Kopplingsmallen tar inte bort
   identiska rader utan uttryckligt val. Invandringsmallens särskilda metod
   kräver bekräftelse och använder inte automatiskt första händelse i livet.

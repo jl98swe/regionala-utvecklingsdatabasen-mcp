@@ -40,8 +40,10 @@ Namnlikhet, borttagna diakritiska tecken eller samma kodlista är inte bevis.
 
 Årsplanen verifieras på nytt vid varje generering. Luckor, överlapp eller
 saknade år blockerar just harmoniseringsmallen. Ingen alternativ variabel
-väljs genom gissning. Den första namnkopplingen är användarens uppgift om
-avggymn; den är inte betecknad som SCB-verifierad begreppsjämförbarhet.
+väljs genom gissning. Den första namnkopplingen gäller avggymn. Metadata verifierar originalnamn
+och årsintervall, men inte att definition, enhet och kodning är jämförbara.
+Varje sådan kontroll har en separat status. Den genererade koden stoppar
+före uttagen tills jämförbarheten har kontrollerats och markerats i skriptet.
 Konvertering till numerik sker i uttaget före vidare beräkningar. Tomma
 värden hanteras, men särskilda bortfallskoder måste verifieras uttryckligen.
 Uttagsår bevaras och identifierare konverteras inte till tal.
