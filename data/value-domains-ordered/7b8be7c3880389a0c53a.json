@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "7b8be7c3880389a0c53a",
+  "register": "Registret för integrationsstudier STATIV",
+  "variant": "STATIV",
+  "bindings": [],
+  "domains": [],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "98411c8632db1e6651e31fa2fc4224c4fe6d4bc6200b0f6c57e985d5a1241de9",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "293983f74364210bfaf0414790bdf224691464018d102d870c664f1d35cbf342",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:44:22+00:00",
+    "task_count": 337,
+    "expected_bindings": 2794,
+    "errors": [
+      "Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n"
+    ]
+  }
+}
