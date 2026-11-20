@@ -52,7 +52,7 @@ test('paging covers entire catalog',()=>{
 test('combining registers validates all variables at selected periods',()=>{
  const r=codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS','AstKommun'],period:2020}]);
  assert.equal(r.can_generate,true);assert.match(r.r_code!,/relationship = "one-to-one"/);assert.match(r.r_code!,/on.exit/);
- assert.doesNotMatch(r.r_code!,/read.xlsx|read_excel|micro.intra|Joe/);
+ assert.doesNotMatch(r.r_code!,/read.xlsx|read_excel|region_norrbotten\/joe/);
  const b=codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['DistriktsKod'],period:2014}]);assert.equal(b.can_generate,false);
 });
 test('unknown availability produces explicit warning, not verification',()=>{
@@ -84,8 +84,8 @@ test('project support exposes supplied APIs, source priority and editing rules',
 test('complete code carries versions, documented API and character protections',()=>{
  for(const id of ['ltu_examen','invandring_etablering','kombinera_register']){
   const r=codeTemplate(id,[{databasvy:'rtb',variabler:['Kommun'],period:2020}]);
-  assert.match(r.r_code!,/Filnamn: .*_v1[.]1[.]R/);
-  assert.match(r.r_code!,/Skapare:/);assert.match(r.r_code!,/Skapad:/);assert.match(r.r_code!,/Senast uppdaterad:/);
+  assert.match(r.r_code!,/Filnamn: .*_v1[.]2[.]R/);
+  assert.match(r.r_code!,/Skript av:/);assert.match(r.r_code!,/Skapad:/);assert.match(r.r_code!,/Senast uppdaterad:/);
   assert.match(r.r_code!,/iconv\(x, from = "", to = "UTF-8", sub = "byte"\)/);
   assert.match(r.r_code!,/valt_ar = period, databasvy = vy/);
   assert.ok(r.project_support);

@@ -37,7 +37,7 @@
     "usage": "alla_ar(vy = NULL)",
     "source": "alla_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera class(), str() och vid behov names() i MONA före filtrering/indexering. Gissa inte kolumnnamn och använd inte unlist() som generell rättning.",
     "description": "Funktion för att hämta alla år i en viss databasvy",
     "arguments": {
       "vy": "välj vilken vy som du ska hämta alla år för. Default NULL men en vy måste väljas"
@@ -48,7 +48,7 @@
     "usage": "hamta_vylista(projektnr = NA)",
     "source": "hamta_vylista.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera class(), str() och vid behov names() i MONA före filtrering/indexering. Gissa inte kolumnnamn och använd inte unlist() som generell rättning.",
     "description": "Funktionsskript för att hämta de vyer som finns registrerat i projektnumret.",
     "arguments": {
       "projektnr": "behöver inte fyllas i då den hämtar aktivt projektID via Sys"
@@ -59,7 +59,7 @@
     "usage": "senaste_ar(vy = NULL)",
     "source": "senaste_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera class(), str() och vid behov names() i MONA före filtrering/indexering. Gissa inte kolumnnamn och använd inte unlist() som generell rättning.",
     "description": "Funktion för att hämta senaste året i en viss databasvy",
     "arguments": {
       "vy": "välj vilken vy som du ska hämta senaste året för. Default NULL men en vy måste väljas"
@@ -81,7 +81,7 @@
     "usage": "hamta_variabler(databasvy, years = NULL)",
     "source": "hamta_variabler.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera class(), str() och vid behov names() i MONA före filtrering/indexering. Gissa inte kolumnnamn och använd inte unlist() som generell rättning.",
     "description": "Funktion för att hämta vilka variabler som finns i de olika vyerna",
     "arguments": {
       "databasvy": "= vilken vy som ska hämtas från",
@@ -104,7 +104,7 @@
     "usage": "hamta_korrekt_vynamn(valt_ar, databasvy)",
     "source": "hamta_korrekt_vynamn.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument.",
+    "notes": "Kontrollera installerad signatur vid avvikelse; anta inte nya argument. Rd verifierar inte hur månadsargument (YYYYMM) eller NULL hanteras. Kontrollera installerad hjälp eller funktion i MONA innan sådant beteende används.",
     "description": "Funktion för att alltid få rätt vynamn när vi ska hämta data med tbl()",
     "arguments": {
       "valt_ar": "= vilket år som vi ska hämta data för",
@@ -127,7 +127,7 @@
     "usage": "forsta_ar(vy = NULL)",
     "source": "forsta_ar.Rd",
     "verification": "supplied_Rd_not_installed_package",
-    "notes": "Dokumentationen anger inte returformat. Kontrollera str() innan programmatisk användning.",
+    "notes": "Dokumentationen anger inte returformat. Kontrollera class(), str() och vid behov names() i MONA före filtrering/indexering. Gissa inte kolumnnamn och använd inte unlist() som generell rättning.",
     "description": "Funktion för att hämta första året i en viss databasvy",
     "arguments": {
       "vy": "välj vilken vy som du ska hämta första året för. Default NULL men en vy måste väljas"

@@ -6,6 +6,12 @@ const c=new Client({name:'regionala-utvecklingsdatabasen-smoke',version:'1.0.0'}
 await c.connect(new StreamableHTTPClientTransport(new URL(url),{fetch:(input,init)=>fetch(input,{...init,signal:AbortSignal.timeout(30_000)})}));
 try{
  const tools=await c.listTools();assert.equal(tools.tools.length,4);
+ assert.equal(c.getServerVersion()?.version,'0.3.0');
+ for(const name of ['sok_variabler','hamta_kodmall'])assert.match(tools.tools.find(t=>t.name===name)!.description!,/inget ska sparas/);
+ const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
+ assert.notEqual(support.isError,true);
+ assert.equal((support.structuredContent as {project_support:{version:string}}).project_support.version,'1.3');
+ console.log(JSON.stringify({tool:'hamta_kodmall',case:'updated_project_support',status:'PASS'}));
  for(const [name,args] of [
   ['sok_variabler',{sokterm:'personnummer',databasvy:'rtb'}],
   ['hamta_registerstruktur',{databasvy:'bas_prelmanad'}],

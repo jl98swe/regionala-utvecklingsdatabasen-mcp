@@ -8,7 +8,7 @@ for (f in files) {
   cat("R syntax PASS:", f, "\n")
 }
 # Evaluate only the pure duplicate-control function, never database code.
-expr <- parse("templates/common_v1.1.R", encoding = "UTF-8")
+expr <- parse("templates/common_v1.2.R", encoding = "UTF-8")
 for (e in expr) if (is.call(e) && identical(e[[1]], as.name("<-")) && as.character(e[[2]]) %in% c("unik", "text_utf8", "text_trim", "text_normalisera", "numeriskt")) eval(e)
 stopifnot(exists("unik"))
 a <- tibble(id = c("01", "02"), value = c("x", "y"))
@@ -35,3 +35,5 @@ stopifnot(identical(sort(numeriskt(c("10", "2"))), c(2, 10)))
 ids <- tibble(id = c("001", "002"), x = c("a", "b"))
 stopifnot(identical(unik(ids, "id")$id, ids$id))
 cat("Synthetic UTF-8, normalization, missing code and numeric order tests PASS\n")
+
+source("tests/small-counts.R", encoding = "UTF-8")
