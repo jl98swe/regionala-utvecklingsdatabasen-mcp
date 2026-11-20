@@ -91,6 +91,7 @@ def select_variable(page, item):
 
 def harvest(args):
     from playwright.sync_api import sync_playwright, expect
+    expect.set_options(timeout=60000)
     path = Path(args.output)
     data = json.loads(path.read_text()) if path.exists() else {'schema_version': '1.0', 'source': SOURCE, 'registers': {}, 'domains': [], 'bindings': []}
     domains = {d['id']: d for d in data['domains']}
