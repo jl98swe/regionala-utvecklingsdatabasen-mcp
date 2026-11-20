@@ -29,4 +29,19 @@ R-tester. R-kontroller täcker även gränsen 2004/2005, numerisk konvertering,
 bevarade identifierare och bortfall. Testdata är syntetisk och ingen
 MONA-anslutning görs i dessa tester. Worker-paket byggs med dry-run.
 
-Publicering och offentlig verifiering dokumenteras efter driftsättning.
+## Publicerad och verifierad
+
+Publicerad 2026-11-20 kl. 16:30 svensk tid på befintlig MCP-adress.
+
+- Runtime-källa: `34b75a92103ff33e827b7ee2aee0c51c7798171b`.
+- Cloudflare-version: `adac72fa-d7cf-4778-982d-2596f96286b2`, 100 procent av trafiken.
+- Byggd worker SHA-256: `1b5c44d710c8e38b05d2e19c3849720fc009492c27338d74f0dbde250cc96f43`.
+- [Godkänd CI](https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp/actions/runs/44763230431): typkontroll, 35 TypeScript-/MCP-tester, tre Python-tester, Worker-bygge, riktig HTTP-klient, R-syntax och syntetiska R-tester.
+- Alla 4 138 metadatafältsposter matchar projektets aktuella arbetsbok.
+- Officiell MCP SDK-klient verifierade server 0.5.0, projektstöd 1.4, samtliga sju verktyg, registeranmärkning över 1998 och harmoniseringsplan över 2004/2005 via publik HTTPS.
+- Ingen faktisk körning har gjorts i MONA. Registeranmärkningarnas tillämpning på beställningen och variabelversionernas innehållsmässiga jämförbarhet är fortfarande markerade som overifierade.
+
+Driftsättningen använder samma lokalt byggda Worker som har kontrollerats ovan.
+Transporten rekonstruerade den från föregående publicerade paket och en delta;
+både tidigare paket och slutresultat verifierades med SHA-256 före uppladdning.
+Inga extra resurser eller nya anslutningsadresser skapades.
