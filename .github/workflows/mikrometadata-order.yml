@@ -1,0 +1,148 @@
+name: Hämta beställningens värdemängder
+on:
+  workflow_dispatch:
+    inputs:
+      iteration:
+        type: string
+        default: '0'
+        description: Återstartsräknare för den automatiska kön
+      continue_queue:
+        type: boolean
+        default: true
+        description: Fortsätt med nästa begränsade batch
+  push:
+    branches: [main]
+    paths:
+      - scripts/harvest_order_domains.py
+      - scripts/match_mikrometadata.py
+      - scripts/order_domain_queue.py
+      - data/order-source-review.json
+      - .github/workflows/mikrometadata-order.yml
+  workflow_run:
+    workflows: [Inventera Mikrometadata]
+    types: [completed]
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: mikrometadata-order
+  cancel-in-progress: false
+jobs:
+  prepare:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-24.04
+    outputs:
+      matrix: ${{ steps.queue.outputs.matrix }}
+      has_work: ${{ steps.queue.outputs.has_work }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: python scripts/match_mikrometadata.py
+      - name: Bygg registerindex och välj nästa batch
+        id: queue
+        run: |
+          python scripts/order_domain_queue.py --batch-size 8 > /tmp/matrix.json
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          m=json.load(open('/tmp/matrix.json'))
+          print('has_work='+str(bool(m['include'])).lower())
+          print('matrix='+json.dumps(m if m['include'] else {'include':[{'group':'none'}]}))
+          PY
+      - name: Spara matchningsunderlag
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/order-source-plan.json data/order-source-index.json data/order-source-candidates.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Uppdatera granskad beställningsplan för SCB-värdemängder'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+  harvest:
+    needs: prepare
+    if: needs.prepare.outputs.has_work == 'true'
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements-mikrometadata.txt
+      - run: pip install -r scripts/requirements-mikrometadata.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Hämta högst 200 nya variabelversioner
+        id: collect
+        continue-on-error: true
+        env:
+          SOURCE_GROUP: ${{ matrix.group }}
+        run: python scripts/harvest_order_domains.py --group "$SOURCE_GROUP" --max-checks 200
+      - name: Validera och spara lyckade exporter och eventuell felstatus
+        if: always()
+        run: |
+          python -m unittest discover -s tests -p 'test_order_domains.py'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/value-domains-ordered data/value-domain-values
+          if ! git diff --cached --quiet; then
+            git commit -m 'Komplettera beställningens dokumenterade SCB-värdemängder'
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" = 3 ]; then exit 1; fi
+            done
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: order-domains-${{ matrix.group }}
+          path: data/value-domains-ordered/${{ matrix.group }}.json
+      - if: steps.collect.outcome == 'failure'
+        run: exit 1
+  continue:
+    if: always() && needs.prepare.result == 'success'
+    needs: [prepare, harvest]
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Sammanfatta och fortsätt utan att upprepa blockerade källor
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ITERATION: ${{ inputs.iteration || '0' }}
+          CONTINUE_QUEUE: ${{ inputs.continue_queue != false }}
+        run: |
+          python scripts/order_domain_queue.py --batch-size 8 > /tmp/remaining.json
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json,pathlib
+          index=json.load(open('data/order-source-index.json'))
+          total=complete=bindings=blocked=0
+          for g in index['groups']:
+              total+=1;p=pathlib.Path(g['path'])
+              if not p.exists():continue
+              d=json.loads(p.read_text());c=d['coverage']
+              complete+=bool(c['complete']);bindings+=len(d['bindings']);blocked+=bool(c.get('errors'))
+          print(f'Granskade källvarianter: {total}. Kompletta: {complete}. Sparade variabelversioner: {bindings}. Blockerade: {blocked}.')
+          PY
+          python - <<'PY'
+          import json,os,urllib.request
+          remaining=json.load(open('/tmp/remaining.json'))['include']
+          iteration=int(os.environ['ITERATION'])
+          if remaining and os.environ['CONTINUE_QUEUE'].lower()=='true' and iteration<12:
+              url='https://api.github.com/repos/'+os.environ['GH_REPO']+'/actions/workflows/mikrometadata-order.yml/dispatches'
+              body=json.dumps({'ref':'main','inputs':{'iteration':str(iteration+1),'continue_queue':True}}).encode()
+              req=urllib.request.Request(url,data=body,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','Content-Type':'application/json'})
+              with urllib.request.urlopen(req) as response: print('Nästa batch startad:',response.status)
+          elif remaining:print('Återstart behövs; gränsen för automatisk fortsättning har nåtts eller fortsättningen är avstängd.')
+          else:print('Alla körbara grupper är kompletta. Eventuella blockerade grupper redovisas separat.')
+          PY

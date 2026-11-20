@@ -1,0 +1,611 @@
+{
+  "ak6": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Grundskola: betyg åk 6",
+        "variant": "Grundskola, betyg åk 6"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "avggymn": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Gymnasieskola: betyg",
+        "variant": "Slutbetyg"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "elevgymn": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Gymnasieskola: elever",
+        "variant": "Elever"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "bas": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+        "variant": "Årsuppgifter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "bas_prelmanad": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+        "variant": "Prel. månadsuppg: första redovisningen"
+      }
+    ],
+    "evidence": "52 av 52 icke-identifierande beställningskolumner återfinns i denna BAS-variant; den andra preliminära varianten matchar 49. Varianten väljs för dokumenterade koddefinitioner, inte för att ändra analysens population."
+  },
+  "bas_slutmanad": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+        "variant": "Slutliga månadsuppgifter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "esf": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Europeiska socialfonden (ESF)",
+        "variant": "Deltagare i ESF-projekt"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fad_arbetsstalle": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+        "variant": "FAD, Arbetsställen"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fad_nedl_ast": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+        "variant": "FAD, Arbetsställen"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fad_foretag": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+        "variant": "FAD, Företag"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fad_nedl_ftg": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+        "variant": "FAD, Företag"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ae": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Arbetsställeenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ae_ng": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Arbetsställeenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ae_ngs": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Arbetsställeenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ast": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "AST-enheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_fe": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Företagsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_fe_ngs": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Företagsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_je": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Juridiska enheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_je_ng": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Juridiska enheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_lve": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Lokala verksamhetsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_lve_ngs": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Lokala verksamhetsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ve": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Verksamhetsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fdb_ve_ngs": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Företagsdatabasen (FDB)",
+        "variant": "Verksamhetsenheter"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fh_del": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Folkhögskolan",
+        "variant": "Deltagarregister"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "frida_k10": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "FRIDA",
+        "variant": "Bilaga K10"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "frida_n3a": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "FRIDA",
+        "variant": "Bilaga N3A"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "frida_ne": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "FRIDA",
+        "variant": "Enskilda näringsidkare"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "ftg_fou": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Forskning och utveckling i Sverige",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "Företags-FoU identifierad som register; endast de exakt överensstämmande variablerna kopplas. Senare variabelsystem, FE/JE och mikrobolagsvyer lämnas öppna."
+  },
+  "hreg_examen": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Universitets- och högskoleregistret ",
+        "variant": "Grundutbildning, examina"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hreg_examenforsk": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Universitets- och högskoleregistret ",
+        "variant": "Forskarutbildning, examina"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hreg_poang": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Universitets- och högskoleregistret ",
+        "variant": "Grundutb, avklarade poäng"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hreg_registrerade": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Universitets- och högskoleregistret ",
+        "variant": "Grundutbildning, registrerade "
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hreg_forstaar": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Universitets- och högskoleregistret ",
+        "variant": "Grundutbildning, registrerade "
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hushallboende": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Hushållens boende",
+        "variant": "Individer"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "lisa_individ": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Individer, 16 år och äldre"
+      },
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Individer, 15 år och äldre"
+      }
+    ],
+    "evidence": "SCB:s varianter har äldre individserier t.o.m. 2009 respektive serier från 2010. Variabelns eget beställningsår och faktiskt visade SCB-versioner avgör urvalet; samma variabelnamn antas inte ha oförändrad definition."
+  },
+  "lisa_arbst": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Arbetsställen"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "lisa_ftg": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "in_utvandring_lisa": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Indvider in- och utvandring"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fodelseland_lisa": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Longitudinell integrationsdatabas (LISA)",
+        "variant": "Individer födelseland"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "moms": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Mervärdesskatteregistret",
+        "variant": "Momsdeklarationsregistret"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "moms_prel": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Mervärdesskatteregistret",
+        "variant": "Momsdeklarationsregistret"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "rtb": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Folkbokförda personer"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "rtbfamilj": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Familjer från 1998-"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "doda": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Döda"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "fodelseuppg": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Folkbokförda personer"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "inrflyttflode": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Inrikes flyttningar"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "inrikesflytt_1968_1997": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Inrikes flyttningar"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "inrikesflytt_tidiga_1998": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Inrikes flyttningar"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "kvx_kursdelt_ht": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Komvux",
+        "variant": "Kursdeltagare"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "kvx_kursdelt_vt": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Komvux",
+        "variant": "Kursdeltagare"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "sfi_kursdelt_ht": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Komvux svenska för invandrare (sfi)",
+        "variant": "Kursdeltagare och resultat"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "sfi_kursdelt_vt": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Komvux svenska för invandrare (sfi)",
+        "variant": "Kursdeltagare och resultat"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "stativ": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registret för integrationsstudier STATIV",
+        "variant": "STATIV"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "sivstock": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Registret för integrationsstudier STATIV",
+        "variant": "STATIV"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "slutbetyg_ak9": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Grundskola: betyg åk 9",
+        "variant": "Grundskolan: betyg åk 9"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "yh_stud": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Yrkeshögskolan",
+        "variant": "Studerande och examinerade"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "iot": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Inkomst och taxering (IoT)",
+        "variant": "Individer och dödsbon"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "gdb_ast": {
+    "status": "register_identified_columns_unresolved",
+    "sources": [],
+    "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
+  },
+  "gdb_ind": {
+    "status": "register_identified_columns_unresolved",
+    "sources": [],
+    "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
+  },
+  "gdb_skolor": {
+    "status": "register_identified_columns_unresolved",
+    "sources": [],
+    "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
+  },
+  "flergen_adopforaldrar": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Flergenerationsregistret",
+        "variant": "Personer med adoptivföräldrar"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "flergen_bioforaldrar": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Flergenerationsregistret",
+        "variant": "Personer med biologiska föräldrar"
+      }
+    ],
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  }
+}
