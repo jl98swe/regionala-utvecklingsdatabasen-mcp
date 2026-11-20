@@ -1,0 +1,28 @@
+{
+  "version": "Arbetsrelaterad inkomstnivå",
+  "level": "Arbetsrelaterad inkomstnivå",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "0 kr"
+    },
+    {
+      "code": "1",
+      "label": "1 kr - 1 IBB"
+    },
+    {
+      "code": "2",
+      "label": "1 IBB - 2 IBB"
+    },
+    {
+      "code": "3",
+      "label": "2 IBB - 3 IBB"
+    },
+    {
+      "code": "4",
+      "label": "3 IBB eller mer"
+    }
+  ],
+  "id": "dd14969c0874f90fb43f9a3434324cf9f23202e2a369c77555c3f9ff2dc98d66"
+}
