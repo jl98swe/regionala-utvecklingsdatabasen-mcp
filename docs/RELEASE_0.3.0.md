@@ -36,5 +36,14 @@ Datum: 2026-11-20. R-mallar: 1.2. Projektstöd: 1.3.
 
 ## Kvarstående verifiering
 
-Publicering till GitHub och Cloudflare återstår. Manuell verifiering av
-Claudes verktygsval görs enligt docs/CLAUDE_ACCEPTANCE.md efter publicering.
+Publicerad på GitHub main och Cloudflare 2026-11-20.
+Källcommit: 0f2e5a2181efdd92ad71ce2edf035be986615916.
+GitHub CI 44742947872: samtliga kontroller passerade, inklusive R och HTTP.
+Cloudflare deployment: 35c859d2e8b24c42b03dbbf09317ad98.
+Worker-paketets SHA-256: d341450be0cb345520ecda84fa888db39e72814e000f1863c28873ba24d3323f.
+Publik health-route visar server 0.3.0 och mallar 1.2. Officiell MCP-SDK-klient
+har verifierat initialize, tools/list, projektstöd 1.3 och alla fyra verktyg
+via Streamable HTTP mot den publicerade adressen.
+
+Manuell verifiering av Claudes eget verktygsval återstår enligt
+/docs/CLAUDE_ACCEPTANCE.md. Serverns funktion och publicering är verifierade.
