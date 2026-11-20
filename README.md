@@ -19,11 +19,7 @@ Med nyckelregistret kan du också hitta förklaringar till kodvärden och se vil
 
 > Kontrollera om variablerna jag behöver finns för åren 2020–2024 innan du skriver koden.
 
-> Hjälp mig att skriva ett R-skript som kopplar ihop de här registren. Förklara hur dubbletter ska hanteras.
-
-**Exempel för nyckelregistret:**
-
-> Vilka klartextkolumner kan läggas till om mina data innehåller kolumnen AstKommun? Kontrollera också om nyckelfilerna innehåller dubbletter som kan påverka kopplingen.
+> Hjälp mig att skriva ett R-skript som kopplar ihop de här registren.
 
 Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)**. AI-assistenten får tillgång till en förteckning över register och variabler samt dokumentation och kodmallar. Själva mikrodatan finns kvar i MONA. Du granskar R-koden och kör den i MONA med din egen behörighet. Tjänsten kan inte hämta resultat ur MONA eller köra analysen åt dig.
 
@@ -104,13 +100,13 @@ Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen
 | `hamta_nyckel` | Hämta en vald kodlista eller sök efter koder och klartext i den. |
 | `kontrollera_klartextkoppling` | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
 
-Version **0.4.0 är publicerad** och innehåller samtliga sju verktyg ovan.
+Aktuell version är **0.4.0**
 
 Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
 
 ## Metadata och tillgänglighet
 
-Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix `(2)`). Snapshoten innehåller **4 138 poster, 88 vyer och 1 264 poster med okänd tillgänglighet**. Ursprunglig SHA-256 finns i `data/metadata.json` och i varje verktygssvar. Originalnamn och beställningsspecifika löpnummer bevaras. Originalarbetsboken och dess dokumentegenskaper publiceras inte.
+Källa: den tillhandahållna `metadata_variabler.xlsx`. Snapshoten innehåller **4 138 poster, 88 vyer och 1 264 poster med okänd tillgänglighet**. Ursprunglig SHA-256 finns i `data/metadata.json` och i varje verktygssvar. Originalnamn och beställningsspecifika löpnummer bevaras. Originalarbetsboken och dess dokumentegenskaper publiceras inte.
 
 * Varje variabels **eget `År`** styr. `Från år`/`Till år` beskriver vyn och används aldrig som ersättning.
 * Tomt år ger `unknown`, inte tillgänglighet för alla år. Tolkningsfel ger `unparsed`.
