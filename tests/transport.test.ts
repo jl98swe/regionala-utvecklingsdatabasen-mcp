@@ -6,20 +6,23 @@ const endpoint='https://rud.example/mcp';
 // Real official MCP Client + Streamable HTTP transport; only network I/O is
 // routed to the exact Worker fetch handler for deterministic offline testing.
 const localFetch:typeof fetch=async(input,init)=>worker.fetch(new Request(input,init));
-test('actual SDK client initializes, discovers seven tools and calls all seven',async()=>{
+test('actual SDK client initializes, discovers nine tools and calls catalog tools',async()=>{
  const c=new Client({name:'rud-integration-client',version:'1.0.0'});
  await c.connect(new StreamableHTTPClientTransport(new URL(endpoint),{fetch:localFetch}));
  try{
-  assert.deepEqual((await c.listTools()).tools.map(t=>t.name).sort(),['sok_variabler','kontrollera_tillganglighet','hamta_registerstruktur','hamta_kodmall','sok_nycklar','hamta_nyckel','kontrollera_klartextkoppling'].sort());
+  assert.deepEqual((await c.listTools()).tools.map(t=>t.name).sort(),['sok_variabler','kontrollera_tillganglighet','hamta_registerstruktur','hamta_kodmall','sok_nycklar','hamta_nyckel','kontrollera_klartextkoppling','sok_vardemangder','hamta_vardemangd'].sort());
   for(const [name,args] of [
    ['sok_variabler',{sokterm:'folkbokföring'}],
    ['sok_nycklar',{kolumn:'AstKommun'}],
+   ['sok_vardemangder',{register:'Aktieägarstatistik'}],
    ['hamta_nyckel',{nyckel_id:'AstKommun.xlsx::BE0101N1',kolumn:'AstKommun',koder:['2580']}],
    ['kontrollera_klartextkoppling',{kolumner:['AstKommun']}],
    ['kontrollera_tillganglighet',{urval:[{databasvy:'rtb',variabler:['Kommun'],perioder:[2024,2025]}]}],
    ['hamta_registerstruktur',{databasvy:'bas'}],
    ['hamta_kodmall',{mall:'kombinera_register',urval:[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS'],period:2020}]}]
   ] as const){const r=await c.callTool({name,arguments:args});assert.ok(r.structuredContent);assert.notEqual(r.isError,true,name);}
+  const missingDomain=await c.callTool({name:'hamta_vardemangd',arguments:{kopplings_id:'missing'}});
+  assert.equal(missingDomain.isError,true);
   const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
   assert.ok((support.structuredContent as {project_support:unknown}).project_support);
   assert.match(c.getInstructions()!,/iconv/);

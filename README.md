@@ -281,3 +281,11 @@ Importören skriver endast `data/keys.json`, inte till arbetsböckerna. Granska
 varken Excel, Python, ny lagringstjänst eller anslutning till MONA.
 
 </details>
+
+### Värdemängder från SCB
+
+En schemalagd hämtning importerar dokumenterade värdemängder från Mikrometadata,
+med Aktieägarstatistiken som första register. `sok_vardemangder` hittar hämtade
+variabel/version-kopplingar och `hamta_vardemangd` visar koder och betydelser.
+Källversion, hämtningsdatum och importens fullständighet följer med.
+[Läs om hämtning, uppdatering och återstart](docs/MIKROMETADATA.md).

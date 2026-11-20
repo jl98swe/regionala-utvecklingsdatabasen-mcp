@@ -5,8 +5,8 @@ const url=process.argv[2]??'http://127.0.0.1:8787/mcp';
 const c=new Client({name:'regionala-utvecklingsdatabasen-smoke',version:'1.0.0'});
 await c.connect(new StreamableHTTPClientTransport(new URL(url),{fetch:(input,init)=>fetch(input,{...init,signal:AbortSignal.timeout(30_000)})}));
 try{
- const tools=await c.listTools();assert.equal(tools.tools.length,7);
- assert.equal(c.getServerVersion()?.version,'0.5.0');
+ const tools=await c.listTools();assert.equal(tools.tools.length,9);
+ assert.equal(c.getServerVersion()?.version,'0.6.0');
  for(const name of ['sok_variabler','hamta_kodmall'])assert.match(tools.tools.find(t=>t.name===name)!.description!,/inget ska sparas/);
  const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
  assert.notEqual(support.isError,true);
@@ -15,6 +15,7 @@ try{
  for(const [name,args] of [
   ['sok_variabler',{sokterm:'personnummer',databasvy:'rtb'}],
   ['sok_nycklar',{kolumn:'AstKommun'}],
+  ['sok_vardemangder',{register:'Aktieägarstatistik'}],
   ['hamta_nyckel',{nyckel_id:'AstKommun.xlsx::BE0101N1',kolumn:'AstKommun',koder:['2580']}],
   ['kontrollera_klartextkoppling',{kolumner:['AstKommun']}],
   ['hamta_registerstruktur',{databasvy:'bas_prelmanad'}],

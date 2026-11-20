@@ -26,6 +26,7 @@ export const projectSupport = {
   user_notice:'Som standard visas antal under 5 som ... och räknas inte med i redovisade totaler eller andelarnas nämnare. Totalen kan därför vara lägre än det faktiska antalet. Du kan be om en annan gräns eller metod.',
   alternative:'slump_0_3: 1 blir 0 med sannolikhet 2/3 och 3 med 1/3; 2 blir 0 med 1/3 och 3 med 2/3. Övriga antal och NA behålls. Bädda in hela random_0_till_3-funktionen; förutsätt inte att användaren har den.',
   rules:[
+  'För dokumenterade värdemängder: använd sok_vardemangder och hamta_vardemangd. Välj rätt register, variant och registerversion; anta inte att ett kolumnnamn har samma betydelse överallt. Verktygen visar källans definitioner, inte observerade värden i MONA. Saknad träff betyder ännu inte hämtad uppgift.',
    'Generera skript direkt med under_5 som standard. Kräv inte val av sekretessmetod eller separat godkännande för att skapa koden. Användaren kan uttryckligen be om en ändring.',
    'Regeln gäller aggregerade antal, inte alla numeriska värden, årtal, nycklar eller individdata i den interna bearbetningen. Med gränsen 5 döljs även nollor enligt regeln antal < 5; NA är fortsatt okänd uppgift.',
    'Bygg redovisade totaler och andelar av samma kvarvarande antalsceller, inte av den ursprungliga totalen. Visa ... även för andelar som hör till dolda antal. Helt dolda grupper får dold total och andel, inte noll.',
@@ -40,6 +41,7 @@ export const projectSupport = {
   project_root:'//micro.intra/projekt/P1481$/P1481_Gem/',
   personal_folder:'Anges separat relativt projektroten. region_norrbotten/joe/utdata är Joes utdata, aldrig en generell standard. Personliga mappar används normalt även för skript; anta inte att getwd() eller en relativ utdata-mapp är rätt.',
   rules:[
+  'För dokumenterade värdemängder: använd sok_vardemangder och hamta_vardemangd. Välj rätt register, variant och registerversion; anta inte att ett kolumnnamn har samma betydelse överallt. Verktygen visar källans definitioner, inte observerade värden i MONA. Saknad träff betyder ännu inte hämtad uppgift.',
    'Följ mallens utförliga intro med konkret syfte, register, tillvägagångssätt och relevanta noteringar, sedan skapare, version och datum. Detta gäller även korta felsökningsskript. Om skapare är okänd: skriv Ej angiven – fyll i namn och leverera koden ändå; tillskriv inte användaren eller MCP:n författarskap.',
    'Inled med den mänskliga beskrivningen. Metadata-SHA hör hemma i verktygssvarets metadata_sha256, inte som en kryptisk första kodrad. Lägg inte in Ej körd i MONA i skriptets intro. Behåll verifieringsstatus saklig i verktygssvaret och beskriv bara relevanta begränsningar för användaren.',
    'Använd %>% i all R-kod. Annan pipe, inklusive |>, kräver att användaren uttryckligen har angett det. Skriv ett pipe-steg per rad, normal indragning och blankrader före nya avsnitt.',
@@ -61,6 +63,7 @@ export const projectSupport = {
   'Registeranmärkningar är information, inte nya urvalsfilter. De ändrar aldrig metadata-tillgänglighet och gör inte okänd täckning känd. Dokumentera källa, sida, datum, källtillämpning och osäkerhet. Ändra aldrig populationen automatiskt på grund av en anmärkning.'
  ],
  rules:[
+  'För dokumenterade värdemängder: använd sok_vardemangder och hamta_vardemangd. Välj rätt register, variant och registerversion; anta inte att ett kolumnnamn har samma betydelse överallt. Verktygen visar källans definitioner, inte observerade värden i MONA. Saknad träff betyder ännu inte hämtad uppgift.',
   'Före klartextkoppling: använd kontrollera_klartextkoppling med datans kolumnnamn och sok_nycklar för rubrikstruktur. Använd hamta_nyckel för kodvärden, benämningar och grupperingar. Rubriker styr matchning, inte filnamn. Registret beskriver möjliga kolumner; det simulerar inte fjoin_klartext exakt. Bevara originalnycklar och flagga dubbletter, överlapp och osäkra kodformat. Nyckelregistret bevisar inte variabelns tillgänglighet eller giltighetsår.',
   'Använd endast verifierade logiska vynamn och variabelnamn. Redovisa saknade namn och sök alternativ som faktiskt finns. Kontrollera varje variabel för samtliga analysår, även före och efter kohortåret.',
   'Tomt år betyder okänd tillgänglighet. Vyns år och alla_ar/forsta_ar/senaste_ar bevisar inte en enskild variabels tillgänglighet.',

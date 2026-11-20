@@ -58,12 +58,12 @@ test('generic time methods and analysis units do not silently choose event reduc
  assert.match(codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:2020}]).r_code!,/policy = "stop"/);
  assert.match(codeTemplate('kombinera_register',[{databasvy:'rtb',variabler:['Kommun'],period:2020}],{dubbletter:'exact'}).r_code!,/policy = "exact"/);
 });
-test('SDK exposes context inputs and harmonization without adding tools',async()=>{
+test('SDK retains context inputs and harmonization alongside domain tools',async()=>{
  const c=new Client({name:'knowledge-client',version:'1'});
  const f:typeof fetch=async(input,init)=>worker.fetch(new Request(input,init));
  await c.connect(new StreamableHTTPClientTransport(new URL('https://rud.example/mcp'),{fetch:f}));
  try{
-  assert.equal((await c.listTools()).tools.length,7);
+  assert.equal((await c.listTools()).tools.length,9);
   const r=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],perioder:[1998],kontext:{ar_begrepp:'registerar'}}]}});
   assert.notEqual(r.isError,true);assert.match(JSON.stringify(r.structuredContent),/breakpoint/);
   const h=await c.callTool({name:'hamta_kodmall',arguments:{mall:'harmonisera_argangar',urval:[{databasvy:'avggymn',variabler:['totalpoang'],period:2004}]}});
