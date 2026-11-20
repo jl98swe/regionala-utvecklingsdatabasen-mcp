@@ -1,6 +1,6 @@
 # Version 0.4.0 – nyckelregister
 
-Status: version för publicering, lokalt verifierad 2026-11-20.
+Status: publicerad och verifierad 2026-11-20.
 Utgår från main acdd448; senare README-ändringar och den hopfällbara anslutningsguiden bevarade.
 
 ## Beteende
@@ -48,3 +48,15 @@ Snapshotdatum säger inte vilka analysår en klassifikation gäller.
 Användaren har uttryckligen godkänt publicering av kod och hela nyckelinnehållet
 i det publika GitHub-repot och uppdatering av MCP:n. Originalarbetsböckerna
 publiceras inte. Offentlig verifiering dokumenteras efter driftsättningen.
+
+## Verifierad driftsättning
+
+Kodcommit: 687e421dc69b6a3f3781239f344d14db3ac4eb73.
+Cloudflare deployment: 71781dba690147f0aa69dedf246e12e8.
+GitHub CI: https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp/actions/runs/44750707732 – godkänd.
+
+Officiell MCP-SDK-klient verifierade initialize, tools/list, serverversion
+0.4.0 och alla sju verktyg över publik HTTPS. Health visar 86 nyckelfiler och
+71 412 rader. Separata publika kontroller verifierade rubrikstrukturen för
+AstKommun, kod 2580 som Luleå, tillkommande AstKommun_namn och flaggning av
+motstridiga dubbletter i Byrkstalln. Originalarbetsböckerna är oförändrade.
