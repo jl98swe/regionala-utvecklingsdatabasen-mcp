@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "2ce5abf22bbd131eec1d",
+  "register": "Longitudinell integrationsdatabas (LISA)",
+  "variant": "Individer, 15 år och äldre",
+  "bindings": [
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 15 år och äldre",
+      "column": "AGI1AstKommun",
+      "variable": "Arbetsställets kommun, största förvärvskällan",
+      "register_version": "2023",
+      "source_task_id": "9251f6737e6a111e4a58feebf031fc2ce8969d61c2986270f1b3321b257b3c29",
+      "id": "fdf1b961dbe36b71f76cd4c550a5b13a6b3ab12e35601900a1d7886277bbf7ce",
+      "domain_id": "e8aa65596e53a88ecc1d8835ae699a2e7ae2d458d7f0f958dd88d4f4bc77b595",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:36:48+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AGI1AstKommun",
+          "ar_raw": "2019-2023",
+          "kallrad": 3443,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 15 år och äldre",
+      "column": "AGI1AstNr",
+      "variable": "Arbetsställenummer, största förvärvskällan",
+      "register_version": "2023",
+      "source_task_id": "38b6c367337e49eb7321a500f239cf4f582345ff8d7ff5757b7c81b03b8b7cbd",
+      "id": "f7f6103eccf3b4a86f4dc78afcad1edff6bd2d2869c0bfb83959865a9b7a925f",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:36:48+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AGI1AstNr",
+          "ar_raw": "2019-2023",
+          "kallrad": 3444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 15 år och äldre",
+      "column": "AGI1AstSNI2007",
+      "variable": "Näringsgren, största förvärvskälla",
+      "register_version": "2023",
+      "source_task_id": "d739140fd73672bf7d25c55b31afa5ea7641e90fa259ad2176009582f19b9eb7",
+      "id": "8a54a2227c29d018e1b04ec101e0e8fd8783720705312d030080ba30d33f0d30",
+      "domain_id": "8c10b87e9a7ba3ea012e71724f8e05cda6b0afed0473df6cb3155977207cdbf7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:36:48+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AGI1AstSNI2007",
+          "ar_raw": "2019-2023",
+          "kallrad": 3445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 15 år och äldre",
+      "column": "AGI1FAman",
+      "variable": "Förekomst av delägarskap i fåmansaktiebolag",
+      "register_version": "2021",
+      "source_task_id": "7b563f95b25af715f17b0fbfc427a8d8182d93b4feb22a394d51f42a9cef7f03",
+      "id": "4c0603b010ff1ae306d4a9eef3f732efeb8a36c6d3f869ac1cfdc33b1ab2290f",
+      "domain_id": "c8f3067a4c0d11212860f1d84fbf818931ff9bf050d901ba041c71356863493e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:36:48+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AGI1Faman",
+          "ar_raw": "2019-2021",
+          "kallrad": 3446,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 15 år och äldre",
+      "column": "AGI1Ink",
+      "variable": "Total bruttolön eller företagarinkomst, största förvärvskällan",
+      "register_version": "2023",
+      "source_task_id": "7b6f626bc16c2734fc0a7a110fa07d758a2907d94c00e2e6272013aae7f587c9",
+      "id": "ed7bbbc1ae35b583c09326463928b96c343583bc7165e8a9845546846231f49d",
+      "domain_id": "22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:36:48+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AGI1Ink",
+          "ar_raw": "2019-2023",
+          "kallrad": 3447,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "bigint",
+      "id": "22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049",
+      "value_count": 0,
+      "path": "data/value-domain-values/22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "char(5)",
+      "id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "value_count": 0,
+      "path": "data/value-domain-values/5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30.json"
+    },
+    {
+      "version": "SNI 2007, Branscher, alternativ",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "8c10b87e9a7ba3ea012e71724f8e05cda6b0afed0473df6cb3155977207cdbf7",
+      "value_count": 822,
+      "path": "data/value-domain-values/8c10b87e9a7ba3ea012e71724f8e05cda6b0afed0473df6cb3155977207cdbf7.json"
+    },
+    {
+      "version": "Förekomst",
+      "level": "Ja/nej",
+      "data_type": "tinyint",
+      "id": "c8f3067a4c0d11212860f1d84fbf818931ff9bf050d901ba041c71356863493e",
+      "value_count": 2,
+      "path": "data/value-domain-values/c8f3067a4c0d11212860f1d84fbf818931ff9bf050d901ba041c71356863493e.json"
+    },
+    {
+      "version": "2024-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "e8aa65596e53a88ecc1d8835ae699a2e7ae2d458d7f0f958dd88d4f4bc77b595",
+      "value_count": 291,
+      "path": "data/value-domain-values/e8aa65596e53a88ecc1d8835ae699a2e7ae2d458d7f0f958dd88d4f4bc77b595.json"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "98411c8632db1e6651e31fa2fc4224c4fe6d4bc6200b0f6c57e985d5a1241de9",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "7677a5eea246f3b48d4bcf3affab005e58814091cd4e1b533f160e752794ee25",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:36:48+00:00",
+    "task_count": 139,
+    "expected_bindings": 957,
+    "errors": [
+      "Flera värdemängder i samma export"
+    ]
+  }
+}
