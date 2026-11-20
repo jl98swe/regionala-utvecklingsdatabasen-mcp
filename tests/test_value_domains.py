@@ -38,5 +38,7 @@ class ValueDomainTests(unittest.TestCase):
             self.assertIn(binding['domain_id'], domains)
             self.assertIn(binding['status'], ('enumerated', 'not_enumerated'))
             self.assertIn(binding['register'], data['registers'])
+            if binding['status'] == 'not_enumerated' and data['registers'][binding['register']]['complete']:
+                self.assertTrue(binding.get('definition_only_verified'), 'Laddning får inte tolkas som saknad kodlista')
 
 if __name__ == '__main__': unittest.main()
