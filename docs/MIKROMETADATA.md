@@ -42,7 +42,8 @@ tillförlitligt. Historiska rättelser kräver manuell `refresh_history=true`.
 
 Data committas till main. En lyckad hämtkörning startar befintligt Deploy
 Cloudflare-workflow, som testar och publicerar MCP-servern med den uppdaterade
-katalogen. Hämtningen startar även vid ändrad hämtkod. Ingen separat löpande
+katalogen om Actions-hemligheterna CLOUDFLARE_API_TOKEN och CLOUDFLARE_ACCOUNT_ID
+finns. Annars sparas datan men publiceringen hoppas över med ett tydligt meddelande. Hämtningen startar även vid ändrad hämtkod. Ingen separat löpande
 kostnadstjänst behövs.
 
 ## Lokal körning

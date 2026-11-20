@@ -33,21 +33,32 @@ jobs:
       - run: node --import tsx scripts/export-code.ts
       - run: Rscript tests/r-checks.R
       - name: Check Cloudflare credentials
+        id: credentials
         env:
           CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
           if [ -z "$CF_TOKEN" ] || [ -z "$CF_ACCOUNT" ]; then
+            if [ "$EVENT_NAME" = workflow_run ]; then
+              echo 'available=false' >> "$GITHUB_OUTPUT"
+              echo '::warning::Data är sparad i GitHub. Automatisk publicering kräver Cloudflare-hemligheter.'
+              echo 'Data är sparad. Worker-publicering hoppades över: CLOUDFLARE_API_TOKEN och/eller CLOUDFLARE_ACCOUNT_ID saknas.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
             echo '::error::Add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID in repository Actions secrets. Never paste credentials in chat.'
             exit 1
           fi
+          echo 'available=true' >> "$GITHUB_OUTPUT"
       - uses: cloudflare/wrangler-action@v3
+        if: steps.credentials.outputs.available == 'true'
         id: deploy
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: deploy
       - name: Verify deployed MCP with SDK client
+        if: steps.credentials.outputs.available == 'true'
         env:
           DEPLOYMENT_URL: ${{ steps.deploy.outputs.deployment-url }}
         run: |
