@@ -40,9 +40,10 @@ versionen per variabel kontrolleras på nytt. Äldre versioner ligger kvar med
 sitt ursprungliga hämtningsdatum. Det bygger på att SCB:s uppdateringsdatum är
 tillförlitligt. Historiska rättelser kräver manuell `refresh_history=true`.
 
-Data committas till main. MCP-servern behöver därefter publiceras med befintligt
-Deploy Cloudflare-workflow för att den uppdaterade katalogen ska bli tillgänglig
-på den publika endpointen. Ingen separat löpande kostnadstjänst behövs.
+Data committas till main. En lyckad hämtkörning startar befintligt Deploy
+Cloudflare-workflow, som testar och publicerar MCP-servern med den uppdaterade
+katalogen. Hämtningen startar även vid ändrad hämtkod. Ingen separat löpande
+kostnadstjänst behövs.
 
 ## Lokal körning
 

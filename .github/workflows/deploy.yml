@@ -1,6 +1,9 @@
 name: Deploy Cloudflare
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: [Hämta värdemängder från SCB]
+    types: [completed]
 permissions:
   contents: read
 concurrency:
@@ -8,7 +11,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-latest
     env:
       WRANGLER_SEND_METRICS: 'false'
