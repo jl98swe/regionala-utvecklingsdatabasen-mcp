@@ -1,0 +1,28 @@
+{
+  "version": "AEStat ",
+  "level": "Arbetsställeenhetens verksamhetsstatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "1",
+      "label": "Verksam"
+    },
+    {
+      "code": "2",
+      "label": "Tillhör företag som har stor ekonomisk betydelse"
+    },
+    {
+      "code": "7",
+      "label": "Ej verksam, dublett"
+    },
+    {
+      "code": "8",
+      "label": "Ej verksam, icke-AE"
+    },
+    {
+      "code": "9",
+      "label": "Ej verksam, enligt regler"
+    }
+  ],
+  "id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1"
+}
