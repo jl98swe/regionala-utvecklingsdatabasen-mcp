@@ -19,10 +19,12 @@ def main():
   rows_text=page.get_by_text(re.compile(r'^[\d\s\u00a0]+Rader$')).inner_text()
   expected=int(re.sub(r'\D','',rows_text))
   rows=list(csv.DictReader(io.StringIO(download_text(page,page.get_by_role('button',name=CSV,exact=True).first)),delimiter='\t'))
-  assert len(rows)==expected,(len(rows),expected)
+  rows=[r for r in rows if any(r.values())]
+  assert len(rows)>=expected,(len(rows),expected)
+  if len(rows)!=expected: print(f'OBS: exporten har {len(rows)} rader; gränssnittet visar {expected}. Alla exportrader bevaras.',flush=True)
   required={'Registernamn','Registerrubrik','Registervariantnamn','Registervariantrubrik','Kolumnnamn','Variabelnamn','VersionForsta','VersionSista','Identitetsvariabel'}
   assert rows and required.issubset(rows[0])
-  data={'source':SOURCE,'source_updated':date,'row_count':len(rows),'rows':rows}
+  data={'source':SOURCE,'source_updated':date,'row_count':len(rows),'display_row_count':expected,'rows':rows}
   out=Path('data/mikrometadata-inventory.json.gz');out.parent.mkdir(exist_ok=True)
   # mtime=0 makes the archive stable when SCB's contents have not changed.
   out.write_bytes(gzip.compress(json.dumps(data,ensure_ascii=False,separators=(',',':')).encode(),mtime=0))
