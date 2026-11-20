@@ -21,7 +21,7 @@ try{
   ['hamta_registerstruktur',{databasvy:'bas_prelmanad'}],
   ['kontrollera_tillganglighet',{urval:[{databasvy:'rtb',variabler:['Kommun'],perioder:[2024]}]}],
   ['hamta_kodmall',{mall:'kombinera_register',urval:[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS'],period:2020}]}]
- ] as const){const result=await c.callTool({name,arguments:args});assert.notEqual(result.isError,true);assert.ok(result.structuredContent);console.log(JSON.stringify({tool:name,status:'PASS'}));}
+ ] as const){const result=await c.callTool({name,arguments:args});assert.notEqual(result.isError,true,JSON.stringify({tool:name,response:result}));assert.ok(result.structuredContent);console.log(JSON.stringify({tool:name,status:'PASS'}));}
  const note=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],perioder:[1997,1998],kontext:{ar_begrepp:'registerar'}}]}});
  assert.notEqual(note.isError,true);assert.match(JSON.stringify(note.structuredContent),/crosses_breakpoint/);
  const h=await c.callTool({name:'hamta_kodmall',arguments:{mall:'harmonisera_argangar',urval:[{databasvy:'avggymn',variabler:['totalpoang'],period:2004},{databasvy:'avggymn',variabler:['totalpoang'],period:2005}]}});
