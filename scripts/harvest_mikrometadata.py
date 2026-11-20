@@ -81,7 +81,7 @@ def select_variable(page, item):
     row = row.filter(has=page.get_by_role('cell', name=item['VersionForsta'], exact=True))
     row = row.filter(has=page.get_by_role('cell', name=item['VersionSista'], exact=True))
     expect(row).to_have_count(1)
-    row.get_by_role('cell', name=item['Kolumnnamn'], exact=True).click()
+    row.locator('td[data-label="Kolumn"]').click()
     expect(row).to_have_class(re.compile(r'\bmud-theme-primary\b'))
     expect(page.get_by_role('row').filter(has=page.get_by_role('cell', name='Variabelnamn', exact=True)).get_by_role('cell').nth(1)).to_have_text(item['Variabelnamn'])
     # Only actual displayed versions are used, never an assumed continuous year range.

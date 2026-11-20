@@ -25,7 +25,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   harvest:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
@@ -53,6 +53,7 @@ jobs:
       - name: Spara data även vid avbruten hämtning
         if: always()
         run: |
+          python -m unittest discover -s tests -p 'test_value_domains.py'
           if ! git diff --quiet -- data/value-domains.json; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
