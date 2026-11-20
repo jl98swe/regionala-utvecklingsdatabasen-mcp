@@ -1,0 +1,417 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "2650697f71f04f385f2e",
+  "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+  "variant": "Prel. månadsuppg: första redovisningen",
+  "bindings": [
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Agkat",
+      "variable": "Ägarkontroll",
+      "register_version": "2025",
+      "source_task_id": "3f15c2e3304cf68c75daebded00ad3d777deddb76be9591e48deaa532d530132",
+      "id": "6dd8724f9c222f9e25f6c105177210ac5a04447ee23ee094359b62ffd0a4d3d4",
+      "domain_id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Agkat",
+          "ar_raw": "202001-202512",
+          "kallrad": 76,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla1",
+      "variable": "Andel av inkomsten som är föranledd av arbete",
+      "register_version": "2025",
+      "source_task_id": "7bc93e3767da14b16fa7d3a83260df903d84ec250bdfdce60997095644dc2006",
+      "id": "3c73de262f7b42ef5e8218b5687024b8cb8d9e2aed8cf0766fb803f577a446f0",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla1",
+          "ar_raw": "202001-202512",
+          "kallrad": 77,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla2",
+      "variable": "Andel av inkomsten som är föranledd av arbetslöshet",
+      "register_version": "2025",
+      "source_task_id": "42195980324ee0ab3dc77acfc6ae7d472de49aa0ef735e0a1f3e992de3913954",
+      "id": "5f5c9a5a9c8d471291d3a1399f11be164330afe7f760c8e11ef34ce0791fdd62",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla2",
+          "ar_raw": "202001-202512",
+          "kallrad": 78,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla3",
+      "variable": "Andel av inkomsten som är föranledd av studier",
+      "register_version": "2025",
+      "source_task_id": "1dfd8a9fec076c7090620463ae8129f3f6d6508912b6bdb5584c514c94a8879b",
+      "id": "e210e8272f09ca18148e8bc491faec8d341c0c82bd3b854b1f4d4b95977bbe38",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla3",
+          "ar_raw": "202001-202512",
+          "kallrad": 79,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla4",
+      "variable": "Andel av inkomsten som är föranledd av pension",
+      "register_version": "2025",
+      "source_task_id": "5f49ba9eb6480d81c04714f8397833f9c74c55602724300c0113a7114ed3811d",
+      "id": "a4df3c4664bb2d5c39ff0ebeee427484e97135892c81e37ab4f4bc08276bbd96",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla4",
+          "ar_raw": "202001-202512",
+          "kallrad": 80,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla5",
+      "variable": "Andel av inkomsten som är föranledd av långvarigt nedsatt arbetsförmåga",
+      "register_version": "2025",
+      "source_task_id": "6582c73ec4a570d5a069308e1720d218e25d281e62b843c9901a8109775c7fad",
+      "id": "93a269df96906e027bf1ecc76c83dc70374cf47596a977b7635786af72fcf056",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla5",
+          "ar_raw": "202001-202512",
+          "kallrad": 81,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla6",
+      "variable": "Andel av inkomsten som är föranledd av sjukdom",
+      "register_version": "2025",
+      "source_task_id": "2dc7a0f5bd412cfaf44c24d5f8ec97110a8065b3bc5a1fe85fa53bfc4a33354f",
+      "id": "c3225772eb191626f80a4c76fef3fc109bbfdb5dd054ac2be1c6ea034eaaf8cd",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla6",
+          "ar_raw": "202001-202512",
+          "kallrad": 82,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla7",
+      "variable": "Andel av inkomsten som är föranledd av föräldraledighet eller omvårdnad av närstående",
+      "register_version": "2025",
+      "source_task_id": "3681390cc3a452c10554b487e0767b4ae353459585fa9ffa6b1d6d8a5cf36950",
+      "id": "d9af1f6019c9d3acc4ca0efe71301a6eb6ca5f29232dcf3d79e3daacc21f1b67",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla7",
+          "ar_raw": "202001-202512",
+          "kallrad": 83,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla8",
+      "variable": "Andel av inkomsten som är föranledd av ekonomiskt stöd",
+      "register_version": "2025",
+      "source_task_id": "de95c95af12845ad1006bc66ac96d31038171d9adc0fe9ed4af2917394001859",
+      "id": "0e56139aa364cc364c04f37f7e91765f23017fde6b6f7231c39ba31b9b107968",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla8",
+          "ar_raw": "202001-202512",
+          "kallrad": 84,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstKommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2025",
+      "source_task_id": "057bf86dabfe12a0c82de5aef78442e58a6fba6c60f018cf0580e89c8406ba04",
+      "id": "8a2897f0289ffe6bd3b40dc6aa1063ab08d55d72822714a63fcc61ce71e04633",
+      "domain_id": "f3d72f517bcf9cd639d4a8078eaa4a635f668c6680a7f4f7b4c55f239a1004d6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstKommun",
+          "ar_raw": "202001-202512",
+          "kallrad": 85,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNgS07",
+      "variable": "Näringsgren för arbetsställe",
+      "register_version": "2025",
+      "source_task_id": "050879641fabef37b81e739d455bbd2708fc611258c964a6ee734c1706c34422",
+      "id": "ece5954063b6bd913d42825f123c6324790c74b38c75b848ace8a8105b8af21f",
+      "domain_id": "18c7363ff81c5933c7b7f5ac62c351c72a37570e1562518a2b564c7bf754fbc8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNgS07",
+          "ar_raw": "202001-202512",
+          "kallrad": 86,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNr",
+      "variable": "Arbetsställenummer",
+      "register_version": "2025",
+      "source_task_id": "43ef7f4ee8c63bee784bb778d97f580b0ec386a55350d12a30919b9340925113",
+      "id": "7ac7a9ec1324ca2da8ee95abf51ab15991cb4a00a7fdf8863f4196ade296346a",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNr",
+          "ar_raw": "202001-202512",
+          "kallrad": 87,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BAS",
+      "variable": "Arbetsmarknadsstatus",
+      "register_version": "2025",
+      "source_task_id": "e811d9302953fb8f4e3789f74144752d787ad52dc2ec48d75bc350b52800fa1a",
+      "id": "7ff5d1917b692c318ff2ecfa1a9cf543bf7ccfd2f68c7c5519bfc37b60af8735",
+      "domain_id": "6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BAS",
+          "ar_raw": "202001-202512",
+          "kallrad": 88,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BASAlt",
+      "variable": "Arbetsmarknadsstatus",
+      "register_version": "2025",
+      "source_task_id": "a9575bf12fcb9db92ef8e83ecd1c791600e010fcad0fcbe24b82c304a1ebbb6e",
+      "id": "550fccdaadb17790164ed689aab688d3fdca524e468381c803bdf46b85a760f0",
+      "domain_id": "e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:42:13+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BASAlt",
+          "ar_raw": "202001-202512",
+          "kallrad": 89,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    }
+  ],
+  "domains": [
+    {
+      "version": "SNI 2007, Branscher, alternativ",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "18c7363ff81c5933c7b7f5ac62c351c72a37570e1562518a2b564c7bf754fbc8",
+      "value_count": 822,
+      "path": "data/value-domain-values/18c7363ff81c5933c7b7f5ac62c351c72a37570e1562518a2b564c7bf754fbc8.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "char(5)",
+      "id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "value_count": 0,
+      "path": "data/value-domain-values/5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30.json"
+    },
+    {
+      "version": "Arbetsmarknadsstatus",
+      "level": "Arbetsmarknadsstatus",
+      "data_type": "char(1)",
+      "id": "6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935",
+      "value_count": 7,
+      "path": "data/value-domain-values/6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935.json"
+    },
+    {
+      "version": "Standard för indelning efter ägarkategori 2020",
+      "level": "Nivå 2",
+      "data_type": "char(2)",
+      "id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e",
+      "value_count": 7,
+      "path": "data/value-domain-values/c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e.json"
+    },
+    {
+      "version": "Arbetsmarknadsstatus",
+      "level": "Arbetsmarknadsstatus - grov nivå",
+      "data_type": "char(1)",
+      "id": "e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23",
+      "value_count": 4,
+      "path": "data/value-domain-values/e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23.json"
+    },
+    {
+      "version": "LKF 2025-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "f3d72f517bcf9cd639d4a8078eaa4a635f668c6680a7f4f7b4c55f239a1004d6",
+      "value_count": 291,
+      "path": "data/value-domain-values/f3d72f517bcf9cd639d4a8078eaa4a635f668c6680a7f4f7b4c55f239a1004d6.json"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "98411c8632db1e6651e31fa2fc4224c4fe6d4bc6200b0f6c57e985d5a1241de9",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "7635969219e00e78d0eb3197a9f42317661df274ee31c5e1f65f8e2adb77b466",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:42:13+00:00",
+    "task_count": 52,
+    "expected_bindings": 296,
+    "errors": [
+      "Fel variabel eller värdemängd i exporten"
+    ]
+  }
+}
