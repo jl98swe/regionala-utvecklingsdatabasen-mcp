@@ -11,6 +11,8 @@ Tjänsten hjälper dig att:
 - undersöka vilka register som kan kopplas samman och vilka nycklar som finns,
 - ta fram R-kod och anpassa kodmallar för din analys.
 
+Med nyckelregistret i version 0.4.0 kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. **Nyckelregistret håller på att införas; de tre nya verktygen beskrivs nedan.**
+
 **Exempel på frågor att börja med:**
 
 > Vilka register och variabler kan jag använda för att följa personer efter högskolestudier?
@@ -19,11 +21,15 @@ Tjänsten hjälper dig att:
 
 > Hjälp mig att skriva ett R-skript som kopplar ihop de här registren. Förklara hur dubbletter ska hanteras.
 
+**Exempel för nyckelregistret i version 0.4.0:**
+
+> Vilka klartextkolumner kan läggas till om mina data innehåller kolumnen AstKommun? Kontrollera också om nyckelfilerna innehåller dubbletter som kan påverka kopplingen.
+
 Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)**. AI-assistenten får tillgång till en förteckning över register och variabler samt dokumentation och kodmallar. Själva mikrodatan finns kvar i MONA. Du granskar R-koden och kör den i MONA med din egen behörighet. Tjänsten kan inte hämta resultat ur MONA eller köra analysen åt dig.
 
 ## Vad är en MCP?
 
-MCP står för *Model Context Protocol*. Det är en gemensam standard som gör att AI-program kan använda externa verktyg och informationskällor.
+MCP står för *Model Context Protocol*. Det är en gemensam standard som gör att AI-tjänst kan använda externa verktyg och informationskällor.
 
 I det här fallet fungerar MCP-anslutningen som en länk mellan din AI-assistent och dokumentationen för Regionala utvecklingsdatabasen. När du ställer en fråga kan assistenten söka efter rätt variabler, kontrollera år och hämta kodmallar under samtalet. Du behöver alltså inte själv kopiera in hela variabelförteckningen i varje ny chatt.
 
@@ -33,7 +39,7 @@ Du behöver en AI-tjänst som stöder egna MCP-anslutningar över internet. **Tj
 
 För att ansluta:
 
-1. Öppna AI-programmets inställningar för appar, anslutningar eller verktyg.
+1. Öppna AI-tjänstens inställningar för appar, anslutningar eller verktyg.
 2. Lägg till en egen MCP-anslutning med adressen nedan.
 3. Välj ingen autentisering eller inloggning om programmet frågar.
 4. Aktivera anslutningen i samtalet och beskriv vad du vill undersöka.
@@ -94,6 +100,11 @@ Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen
 | `kontrollera_tillganglighet` | Kontrollera flera variabler och perioder på variabelnivå. |
 | `hamta_registerstruktur` | Lista vyer, variabler och möjliga kopplingsnycklar. |
 | `hamta_kodmall` | Lista/hämta R-mallar för registerkoppling, examenskohort och invandringsuppföljning. |
+| `sok_nycklar` *(0.4.0)* | Sök bland nyckelfilernas fil- och kolumnnamn. Visa vilka kolumner och grupperingar en nyckelfil innehåller. |
+| `hamta_nyckel` *(0.4.0)* | Hämta en vald kodlista eller sök efter koder och klartext i den. |
+| `kontrollera_klartextkoppling` *(0.4.0)* | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
+
+De tre verktygen märkta **0.4.0** finns i byggpaketet för nyckelregistret. De är ännu inte införda på `main` vid denna dokumentationsuppdatering.
 
 Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
 
@@ -108,6 +119,16 @@ Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix
 * Saknat känt år ger `unavailable`. Ogiltigt namn ger ett strukturerat fel med `isError: true`.
 * Matchning normaliserar endast till unika namn. Originalnamnet i svaret ska användas i R. Stavfel rättas inte tyst.
 * Metadata innehåller inte variabeldefinitioner, kodlistor, analysenheter eller belägg för nycklarnas unikhet. Sådan information får inte antas.
+
+## Nyckelregistret i version 0.4.0
+
+Nyckelregistret skiljer på **vilka kolumner en fil innehåller** och **vilka kodvärden som finns i filen**. `sok_nycklar` hjälper dig att hitta rätt fil utifrån dess rubriker eller namn. Med `hamta_nyckel` kan du sedan läsa innehållet eller söka efter en viss kod eller benämning.
+
+Inför en klartextkoppling kan du låta `kontrollera_klartextkoppling` granska datans kolumnnamn. Kontrollen visar vilka nyckelfiler som kan matcha, vilka kolumner som kan tillkomma och om överlapp eller dubbletter behöver granskas. Skicka bara kolumnnamnen till den kontrollen.
+
+**Det är rubrikraden som styr matchningen.** Filnamnet räcker inte för att avgöra hur en koppling fungerar. Kontrollen visar möjliga kopplingar; resultatet från `fjoin_klartext()` kan även påverkas av bearbetningsordning och kolumner som redan finns i dina data. Kontrollera därför beteendet i den installerade versionen av mikrodataR.
+
+Originalfilerna ändras inte. Kodlistornas grupperingar, dubbletter och tomma värden bevaras i registret. Ett datum för importen visar när kopian skapades, inte vilka år en klassifikation gäller för. Databasens variabelförteckning avgör fortfarande vilka vyer, variabler och år som finns i beställningen.
 
 ## Utveckla och testa
 
@@ -174,7 +195,7 @@ DeSO-skriptet och de två uttryckligen undantagna kodrepositorierna används int
 
 ## Projektstöd och mallversion 1.1
 
-Anropa `hamta_kodmall` med `mall: "projektstod"` för källprioritering, MONA-regler och de dokumenterade mikrodataR-signaturerna. Samma projektstöd ingår vid listning av register och kodmallar och när kod lämnas. De fyra verktygen är kvar; inget femte verktyg krävs. Klientens systeminstruktioner uppmanar den att läsa stödet innan kod skapas eller ändras.
+Anropa `hamta_kodmall` med `mall: "projektstod"` för källprioritering, MONA-regler och de dokumenterade mikrodataR-signaturerna. Samma projektstöd ingår vid listning av register och kodmallar och när kod lämnas. Projektstödet använder de fyra ursprungliga verktygen. Version 0.4.0 kompletterar dem med tre verktyg för nyckelregistret. Klientens systeminstruktioner uppmanar den att läsa stödet innan kod skapas eller ändras.
 
 Mallarna i `templates/*_v1.1.R` har versionsnummer, generell skapare och datum. De tidigare filerna ligger oförändrade i `templates/archive/*_v1.0.R`; de saknade ursprungligen versionsnummer och benämns initialversion 1.0 i arkivet. Genererad kod levereras i sin helhet och föreslår ett versionsmärkt filnamn. Vid ändring av användarens skript ska dess senaste version och skapare bevaras i stället för mallens uppgifter.
 
