@@ -48,35 +48,9 @@ Du behöver ingen API-nyckel och behöver inte installera servern på din dator.
 
 Du behöver ingen MONA-behörighet för att söka i dokumentationen. För att köra den föreslagna R-koden och analysera data behöver du däremot tillgång till beställningen P1481 och de R-paket som koden använder, bland annat mikrodataR. Granska alltid att urval, kopplingar och beräkningar passar din analys.
 
----
 
 <details>
-<summary>Teknisk dokumentation för den som utvecklar eller förvaltar tjänsten</summary>
-
-## Funktioner
-
-| Verktyg | Användning |
-|---|---|
-| `sok_variabler` | Sök på namn, vy eller dokumenterade ämnessynonymer. Tål skiftläge, åäö och alternativa separatorer. |
-| `kontrollera_tillganglighet` | Kontrollera flera variabler och perioder på variabelnivå. |
-| `hamta_registerstruktur` | Lista vyer, variabler och möjliga kopplingsnycklar. |
-| `hamta_kodmall` | Lista/hämta R-mallar för registerkoppling, examenskohort och invandringsuppföljning. |
-
-Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
-
-## Metadata och tillgänglighet
-
-Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix `(2)`). Snapshoten innehåller **4 138 poster, 88 vyer och 1 264 poster med okänd tillgänglighet**. Ursprunglig SHA-256 finns i `data/metadata.json` och i varje verktygssvar. Originalnamn och beställningsspecifika löpnummer bevaras. Originalarbetsboken och dess dokumentegenskaper publiceras inte.
-
-* Varje variabels **eget `År`** styr. `Från år`/`Till år` beskriver vyn och används aldrig som ersättning.
-* Tomt år ger `unknown`, inte tillgänglighet för alla år. Tolkningsfel ger `unparsed`.
-* Årsintervall, enskilda år, månadsintervall och åtskilda intervall stöds.
-* År mot månadsregister kräver 12 tillgängliga månader: färre ger `partial`. Månadsfråga mot årsregister ger `granularity_mismatch`.
-* Saknat känt år ger `unavailable`. Ogiltigt namn ger ett strukturerat fel med `isError: true`.
-* Matchning normaliserar endast till unika namn. Originalnamnet i svaret ska användas i R. Stavfel rättas inte tyst.
-* Metadata innehåller inte variabeldefinitioner, kodlistor, analysenheter eller belägg för nycklarnas unikhet. Sådan information får inte antas.
-
-## Anslut en AI-klient
+<summary>Anslut en AI-tjänst</summary>
 
 Använd den publika MCP-adressen ovan. Ingen API-nyckel behövs.
 
@@ -104,6 +78,36 @@ npm run smoke -- https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/
 ```
 
 Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen, listar fyra verktyg och anropar samtliga. `tests/transport.test.ts` kör också en faktisk SDK-klient med HTTP-transport mot Worker-handlern utan nätverk. CI kör separat samma klient över lokal HTTP mot Wrangler/workerd.
+
+</details>
+
+---
+
+<details>
+<summary>Teknisk dokumentation för den som utvecklar eller förvaltar tjänsten</summary>
+
+## Funktioner
+
+| Verktyg | Användning |
+|---|---|
+| `sok_variabler` | Sök på namn, vy eller dokumenterade ämnessynonymer. Tål skiftläge, åäö och alternativa separatorer. |
+| `kontrollera_tillganglighet` | Kontrollera flera variabler och perioder på variabelnivå. |
+| `hamta_registerstruktur` | Lista vyer, variabler och möjliga kopplingsnycklar. |
+| `hamta_kodmall` | Lista/hämta R-mallar för registerkoppling, examenskohort och invandringsuppföljning. |
+
+Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
+
+## Metadata och tillgänglighet
+
+Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix `(2)`). Snapshoten innehåller **4 138 poster, 88 vyer och 1 264 poster med okänd tillgänglighet**. Ursprunglig SHA-256 finns i `data/metadata.json` och i varje verktygssvar. Originalnamn och beställningsspecifika löpnummer bevaras. Originalarbetsboken och dess dokumentegenskaper publiceras inte.
+
+* Varje variabels **eget `År`** styr. `Från år`/`Till år` beskriver vyn och används aldrig som ersättning.
+* Tomt år ger `unknown`, inte tillgänglighet för alla år. Tolkningsfel ger `unparsed`.
+* Årsintervall, enskilda år, månadsintervall och åtskilda intervall stöds.
+* År mot månadsregister kräver 12 tillgängliga månader: färre ger `partial`. Månadsfråga mot årsregister ger `granularity_mismatch`.
+* Saknat känt år ger `unavailable`. Ogiltigt namn ger ett strukturerat fel med `isError: true`.
+* Matchning normaliserar endast till unika namn. Originalnamnet i svaret ska användas i R. Stavfel rättas inte tyst.
+* Metadata innehåller inte variabeldefinitioner, kodlistor, analysenheter eller belägg för nycklarnas unikhet. Sådan information får inte antas.
 
 ## Utveckla och testa
 
