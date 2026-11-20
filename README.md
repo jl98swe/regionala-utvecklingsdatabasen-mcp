@@ -29,7 +29,7 @@ Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)*
 
 ## Vad är en MCP?
 
-MCP står för *Model Context Protocol*. Det är en gemensam standard som gör att AI-tjänst kan använda externa verktyg och informationskällor.
+MCP står för *Model Context Protocol*. Det är en gemensam standard som gör att AI-tjänster kan använda externa verktyg och informationskällor.
 
 I det här fallet fungerar MCP-anslutningen som en länk mellan din AI-assistent och dokumentationen för Regionala utvecklingsdatabasen. När du ställer en fråga kan assistenten söka efter rätt variabler, kontrollera år och hämta kodmallar under samtalet. Du behöver alltså inte själv kopiera in hela variabelförteckningen i varje ny chatt.
 
