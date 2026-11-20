@@ -22,6 +22,20 @@ try{
   ['kontrollera_tillganglighet',{urval:[{databasvy:'rtb',variabler:['Kommun'],perioder:[2024]}]}],
   ['hamta_kodmall',{mall:'kombinera_register',urval:[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS'],period:2020}]}]
  ] as const){const result=await c.callTool({name,arguments:args});assert.notEqual(result.isError,true,JSON.stringify({tool:name,response:result}));assert.ok(result.structuredContent);console.log(JSON.stringify({tool:name,status:'PASS'}));}
+ for(const [column,year,expected] of [['Kon','2025',3],['Ng1','2025',822],['AntalVP','2026',0]] as const){
+  const found=await c.callTool({name:'sok_vardemangder',arguments:{register:'Aktieägarstatistik',kolumn:column,registerversion:year}});
+  assert.notEqual(found.isError,true,JSON.stringify(found));
+  const search=found.structuredContent as {total:number;results:{id:string}[];registers:Record<string,{complete:boolean}>};
+  assert.equal(search.total,1);
+  assert.equal(search.registers['Aktieägarstatistik']!.complete,true);
+  const values=await c.callTool({name:'hamta_vardemangd',arguments:{kopplings_id:search.results[0]!.id,limit:100}});
+  assert.notEqual(values.isError,true,JSON.stringify(values));
+  const domain=values.structuredContent as {total:number;results:{code:string;label:string}[];binding:{status:string}};
+  assert.equal(domain.total,expected);
+  if(column==='Kon')assert.deepEqual(domain.results.map(v=>v.code),['','K','M']);
+  if(column==='AntalVP')assert.equal(domain.binding.status,'not_enumerated');
+  console.log(JSON.stringify({tool:'hamta_vardemangd',column,year,total:domain.total,status:'PASS'}));
+ }
  const note=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],perioder:[1997,1998],kontext:{ar_begrepp:'registerar'}}]}});
  assert.notEqual(note.isError,true);assert.match(JSON.stringify(note.structuredContent),/crosses_breakpoint/);
  const h=await c.callTool({name:'hamta_kodmall',arguments:{mall:'harmonisera_argangar',urval:[{databasvy:'avggymn',variabler:['totalpoang'],period:2004},{databasvy:'avggymn',variabler:['totalpoang'],period:2005}]}});
