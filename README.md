@@ -11,7 +11,7 @@ Tjänsten hjälper dig att:
 - undersöka vilka register som kan kopplas samman och vilka nycklar som finns,
 - ta fram R-kod och anpassa kodmallar för din analys.
 
-Med nyckelregistret i version 0.4.0 kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. De tre verktygen beskrivs nedan.
+Med nyckelregistret kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. De tre verktygen beskrivs nedan.
 
 **Exempel på frågor att börja med:**
 
@@ -21,7 +21,7 @@ Med nyckelregistret i version 0.4.0 kan du också hitta förklaringar till kodv�
 
 > Hjälp mig att skriva ett R-skript som kopplar ihop de här registren. Förklara hur dubbletter ska hanteras.
 
-**Exempel för nyckelregistret i version 0.4.0:**
+**Exempel för nyckelregistret:**
 
 > Vilka klartextkolumner kan läggas till om mina data innehåller kolumnen AstKommun? Kontrollera också om nyckelfilerna innehåller dubbletter som kan påverka kopplingen.
 
@@ -100,11 +100,11 @@ Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen
 | `kontrollera_tillganglighet` | Kontrollera flera variabler och perioder på variabelnivå. |
 | `hamta_registerstruktur` | Lista vyer, variabler och möjliga kopplingsnycklar. |
 | `hamta_kodmall` | Lista/hämta R-mallar för registerkoppling, examenskohort och invandringsuppföljning. |
-| `sok_nycklar` *(0.4.0)* | Sök bland nyckelfilernas fil- och kolumnnamn. Visa vilka kolumner och grupperingar en nyckelfil innehåller. |
-| `hamta_nyckel` *(0.4.0)* | Hämta en vald kodlista eller sök efter koder och klartext i den. |
-| `kontrollera_klartextkoppling` *(0.4.0)* | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
+| `sok_nycklar` | Sök bland nyckelfilernas fil- och kolumnnamn. Visa vilka kolumner och grupperingar en nyckelfil innehåller. |
+| `hamta_nyckel` | Hämta en vald kodlista eller sök efter koder och klartext i den. |
+| `kontrollera_klartextkoppling` | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
 
-De tre verktygen märkta **0.4.0** ingår i nyckelregistret.
+Version **0.4.0 är publicerad** och innehåller samtliga sju verktyg ovan.
 
 Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
 
@@ -120,7 +120,7 @@ Källa: den tillhandahållna `metadata_variabler.xlsx` (bifogad kopia med suffix
 * Matchning normaliserar endast till unika namn. Originalnamnet i svaret ska användas i R. Stavfel rättas inte tyst.
 * Metadata innehåller inte variabeldefinitioner, kodlistor, analysenheter eller belägg för nycklarnas unikhet. Sådan information får inte antas.
 
-## Nyckelregistret i version 0.4.0
+## Nyckelregistret
 
 Nyckelregistret skiljer på **vilka kolumner en fil innehåller** och **vilka kodvärden som finns i filen**. `sok_nycklar` hjälper dig att hitta rätt fil utifrån dess rubriker eller namn. Med `hamta_nyckel` kan du sedan läsa innehållet eller söka efter en viss kod eller benämning.
 
