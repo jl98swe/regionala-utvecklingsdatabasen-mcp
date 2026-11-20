@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "756a18014162b678b114",
+  "register": "Longitudinell integrationsdatabas (LISA)",
+  "variant": "Individer, 16 år och äldre",
+  "bindings": [
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ANysDag",
+      "variable": "Antal dagar i nystartsjobb",
+      "register_version": "2009",
+      "source_task_id": "99474e8a7892b7382c44be395d723cb31697a4fefc160e00932705559b3881aa",
+      "id": "6ecf710589bee13ddc249b23b41f3f262ec160d782fc97b5c304d6f7d3a93c2e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ANysDag",
+          "ar_raw": "2007-2023",
+          "kallrad": 3474,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AStuDag",
+      "variable": "Antal dagar i \"åtgärdsstudier\"",
+      "register_version": "2009",
+      "source_task_id": "c9cc057d373a84247f487149c4fb97a46d077e72e2a2110bc51bd8ba1faf55d7",
+      "id": "b4f544683c1b54770c7ffe2a64391c1c113e02a2b5ff8f3ab2c07798794bae4a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AStuDag",
+          "ar_raw": "1997-2023",
+          "kallrad": 3475,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ASysDag",
+      "variable": "Antal dagar i \"åtgärdssysselsättning\"",
+      "register_version": "2009",
+      "source_task_id": "91d9b5205c289d1d290f5926edb29f48f335e58198d088692d81f61dad5ac1f9",
+      "id": "e426773548b41e171f44c95cddfca96733f40f0240b91b2371506b22ef1cbaab",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ASysDag",
+          "ar_raw": "1997-2023",
+          "kallrad": 3476,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ASysTyp",
+      "variable": "Antal dagar i \"åtgärdssysselsättning\", förekomst av",
+      "register_version": "2009",
+      "source_task_id": "b75596133632a56feeae61cb2b6d9505ab931590b0c158d7d0c144ba8c1cb15c",
+      "id": "01f008d96d2e6f1d10cd37f2f881bd704ea3c2af6867c35f221a0a4ca1085dc7",
+      "domain_id": "de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ASysTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 3477,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AldPens",
+      "variable": "Summa inkomst föranledd av åldersrelaterade pensioner",
+      "register_version": "2009",
+      "source_task_id": "9a36561d67ec8ac8799a4c414e4fd8139b574661c981c1c823920c5ff8dc2c27",
+      "id": "fc5809fc4949e43eca1cc368043ffd55b9c3d46702252bff3007c8620966d282",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AldPens",
+          "ar_raw": "1997-2023",
+          "kallrad": 3479,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AntAns",
+      "variable": "Antal förvärvskällor",
+      "register_version": "2009",
+      "source_task_id": "56412f2f631829c244ba1558aebb3d58c9717d7efd20e0841c61ff62edbeabfd",
+      "id": "d61f4b865f7917a934425a06acf1087e081351a11f0110aa214f031b6d53ce35",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:39:38+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AntAns",
+          "ar_raw": "1997-2021",
+          "kallrad": 3481,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    }
+  ],
+  "domains": [
+    {
+      "version": "Förekomst",
+      "level": "Ja/nej",
+      "data_type": "char(1)",
+      "id": "de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7",
+      "value_count": 2,
+      "path": "data/value-domain-values/de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "int",
+      "id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "value_count": 0,
+      "path": "data/value-domain-values/fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145.json"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "98411c8632db1e6651e31fa2fc4224c4fe6d4bc6200b0f6c57e985d5a1241de9",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "4f8101876e396627b8d65080235be96f4efd582f1fde3be4a9345e742843f1cf",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:39:38+00:00",
+    "task_count": 69,
+    "expected_bindings": 637,
+    "errors": [
+      "Fel variabel eller värdemängd i exporten"
+    ]
+  }
+}
