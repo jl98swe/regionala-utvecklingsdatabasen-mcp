@@ -1,0 +1,552 @@
+{
+  "version": "Universitet/högskolor",
+  "level": "Universitet/högskolor",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "001",
+      "label": "Umeå universitet"
+    },
+    {
+      "code": "002",
+      "label": "Luleå tekniska universitet"
+    },
+    {
+      "code": "003",
+      "label": "Högskolan i Östersund"
+    },
+    {
+      "code": "004",
+      "label": "Högskolan i Sundsvall/Härnösand"
+    },
+    {
+      "code": "005",
+      "label": "Uppsala universitet"
+    },
+    {
+      "code": "006",
+      "label": "Högskolan i Gävle"
+    },
+    {
+      "code": "007",
+      "label": "Högskolan Dalarna"
+    },
+    {
+      "code": "008",
+      "label": "Mälardalens högskola"
+    },
+    {
+      "code": "009",
+      "label": "Örebro universitet"
+    },
+    {
+      "code": "010",
+      "label": "Stockholms universitet"
+    },
+    {
+      "code": "011",
+      "label": "Karolinska institutet"
+    },
+    {
+      "code": "012",
+      "label": "Kungl. Tekniska högskolan"
+    },
+    {
+      "code": "013",
+      "label": "Kungl. Konsthögskolan"
+    },
+    {
+      "code": "014",
+      "label": "Lärarhögskolan i Stockholm"
+    },
+    {
+      "code": "015",
+      "label": "Linköpings universitet"
+    },
+    {
+      "code": "016",
+      "label": "Stiftelsen Högskolan i Jönköping"
+    },
+    {
+      "code": "017",
+      "label": "Göteborgs universitet"
+    },
+    {
+      "code": "018",
+      "label": "Chalmers tekniska högskola"
+    },
+    {
+      "code": "019",
+      "label": "Karlstads universitet"
+    },
+    {
+      "code": "020",
+      "label": "Högskolan i Skövde"
+    },
+    {
+      "code": "021",
+      "label": "Högskolan i Borås"
+    },
+    {
+      "code": "022",
+      "label": "Lunds universitet"
+    },
+    {
+      "code": "023",
+      "label": "Högskolan i Halmstad"
+    },
+    {
+      "code": "024",
+      "label": "Högskolan i Kalmar"
+    },
+    {
+      "code": "025",
+      "label": "Växjö universitet"
+    },
+    {
+      "code": "026",
+      "label": "Högskolan Kristianstad"
+    },
+    {
+      "code": "027",
+      "label": "Konstfack"
+    },
+    {
+      "code": "028",
+      "label": "Kungl. Musikhögskolan i Stockholm"
+    },
+    {
+      "code": "029",
+      "label": "Dramatiska institutet"
+    },
+    {
+      "code": "030",
+      "label": "Grafiska institutet"
+    },
+    {
+      "code": "031",
+      "label": "Dans och cirkushögskolan"
+    },
+    {
+      "code": "032",
+      "label": "Operahögskolan i Stockholm"
+    },
+    {
+      "code": "033",
+      "label": "Teaterhögskolan i Stockholm"
+    },
+    {
+      "code": "036",
+      "label": "Kommunal högskoleutbildning i Stockholm"
+    },
+    {
+      "code": "037",
+      "label": "Kommunal högskoleutbildning i Solna"
+    },
+    {
+      "code": "038",
+      "label": "Kommunal högskoleutbildning i Uppsala"
+    },
+    {
+      "code": "039",
+      "label": "Kommunal högskoleutbildning i Linköping"
+    },
+    {
+      "code": "040",
+      "label": "Kommunal högskoleutbildning i Norrköping"
+    },
+    {
+      "code": "042",
+      "label": "Kommunal högskoleutbildning i Växjö"
+    },
+    {
+      "code": "043",
+      "label": "Kommunal högskoleutbildning i Kalmar"
+    },
+    {
+      "code": "044",
+      "label": "Blekinge Internationella Hälsohögskola"
+    },
+    {
+      "code": "045",
+      "label": "Kommunal högskoleutbildning i Ängelholm"
+    },
+    {
+      "code": "046",
+      "label": "Kommunal högskoleutbildning i Malmö"
+    },
+    {
+      "code": "047",
+      "label": "Kommunal högskoleutbildning i Lund"
+    },
+    {
+      "code": "048",
+      "label": "Kommunal högskoleutbildning i Helsingborg"
+    },
+    {
+      "code": "049",
+      "label": "Kommunal högskoleutbildning i Göteborg"
+    },
+    {
+      "code": "050",
+      "label": "Kommunal högskoleutbildning i Borås"
+    },
+    {
+      "code": "051",
+      "label": "Hälsohögskolan i Värmland"
+    },
+    {
+      "code": "052",
+      "label": "Kommunal högskoleutbildning i Örebro"
+    },
+    {
+      "code": "053",
+      "label": "Kommunal högskoleutbildning i Västerås"
+    },
+    {
+      "code": "054",
+      "label": "Kommunal högskoleutbildning i Gävle"
+    },
+    {
+      "code": "055",
+      "label": "Kommunal högskoleutbildning i Härnösand"
+    },
+    {
+      "code": "056",
+      "label": "Kommunal högskoleutbildning i Sundsvall"
+    },
+    {
+      "code": "057",
+      "label": "Kommunal högskoleutbildning i Östersund"
+    },
+    {
+      "code": "058",
+      "label": "Kommunal högskoleutbildning i Umeå"
+    },
+    {
+      "code": "059",
+      "label": "Kommunal högskoleutbildning i Luleå"
+    },
+    {
+      "code": "060",
+      "label": "Vårdhögskolan Falun"
+    },
+    {
+      "code": "061",
+      "label": "Hälsohögskolan Väst, Skövde"
+    },
+    {
+      "code": "062",
+      "label": "Bohusläns vårdhögskola"
+    },
+    {
+      "code": "063",
+      "label": "Vårdhögskolan i Eskilstuna"
+    },
+    {
+      "code": "064",
+      "label": "Vårdhögskolan Kristianstad"
+    },
+    {
+      "code": "065",
+      "label": "Vårdhögskolan Boden"
+    },
+    {
+      "code": "066",
+      "label": "Sveriges lantbruksuniversitet"
+    },
+    {
+      "code": "067",
+      "label": "Handelshögskolan i Stockholm"
+    },
+    {
+      "code": "100",
+      "label": "Sjöbefälsskolan i Stockholm"
+    },
+    {
+      "code": "101",
+      "label": "Sjöbefälsskolan i Kalmar"
+    },
+    {
+      "code": "102",
+      "label": "Sjöbefälsskolan i Malmö"
+    },
+    {
+      "code": "103",
+      "label": "Sjöbefälsskolan i Göteborg"
+    },
+    {
+      "code": "104",
+      "label": "Sjöbefälsskolan i Härnösand"
+    },
+    {
+      "code": "105",
+      "label": "Socialpedagoginstitutet"
+    },
+    {
+      "code": "106",
+      "label": "Statens naturvårdsverk"
+    },
+    {
+      "code": "107",
+      "label": "Stiftelsen Stora Sköndal"
+    },
+    {
+      "code": "109",
+      "label": "Sophiahemmet Högskola"
+    },
+    {
+      "code": "110",
+      "label": "Röda Korsets Högskola"
+    },
+    {
+      "code": "111",
+      "label": "Ersta högskola"
+    },
+    {
+      "code": "134",
+      "label": "Kommunal högskoleutbildning i Värnamo"
+    },
+    {
+      "code": "138",
+      "label": "Musikhögskolan Ingesund"
+    },
+    {
+      "code": "141",
+      "label": "Hälsohögskolan Väst i Vänersborg"
+    },
+    {
+      "code": "142",
+      "label": "AMU-center i Lidköping"
+    },
+    {
+      "code": "147",
+      "label": "Vårdhögskolan i Örnsköldsvik"
+    },
+    {
+      "code": "150",
+      "label": "Stockholms Musikpedagogiska Institut"
+    },
+    {
+      "code": "151",
+      "label": "Gammelkroppa skogsskola"
+    },
+    {
+      "code": "152",
+      "label": "Ericastiftelsen"
+    },
+    {
+      "code": "154",
+      "label": "Kommunal högskoleutbildning i Ystad"
+    },
+    {
+      "code": "155",
+      "label": "Hälsohögskolan i Stockholm"
+    },
+    {
+      "code": "156",
+      "label": "Blekinge tekniska högskola"
+    },
+    {
+      "code": "157",
+      "label": "Högskolan Väst"
+    },
+    {
+      "code": "158",
+      "label": "Gymnastik- och idrottshögskolan"
+    },
+    {
+      "code": "159",
+      "label": "Hälsohögskolan i Jönköping"
+    },
+    {
+      "code": "160",
+      "label": "Hälsouniversitetet i Östergötland"
+    },
+    {
+      "code": "161",
+      "label": "Kalmar läns vårdhögskola"
+    },
+    {
+      "code": "162",
+      "label": "Vårdhögskolan i Halland"
+    },
+    {
+      "code": "163",
+      "label": "Vårdhögskolan Lund/Helsingborg"
+    },
+    {
+      "code": "164",
+      "label": "Hälsohögskolan i Umeå"
+    },
+    {
+      "code": "165",
+      "label": "Vårdhögskolan i Borås"
+    },
+    {
+      "code": "166",
+      "label": "Vårdhögskolan Gävle"
+    },
+    {
+      "code": "167",
+      "label": "Vårdhögskolan i Göteborg"
+    },
+    {
+      "code": "168",
+      "label": "Vårdhögskolan i Malmö"
+    },
+    {
+      "code": "169",
+      "label": "Vårdhögskolan i Sundsvall"
+    },
+    {
+      "code": "170",
+      "label": "Vårdhögskolan i Uppsala"
+    },
+    {
+      "code": "171",
+      "label": "Vårdhögskolan i Västerås"
+    },
+    {
+      "code": "172",
+      "label": "Vårdhögskolan i Växjö"
+    },
+    {
+      "code": "173",
+      "label": "Vårdhögskolan i Örebro"
+    },
+    {
+      "code": "174",
+      "label": "Vårdhögskolan i Östersund"
+    },
+    {
+      "code": "175",
+      "label": "Mittuniversitetet"
+    },
+    {
+      "code": "176",
+      "label": "Örebro Teologiska Högskola"
+    },
+    {
+      "code": "177",
+      "label": "Johannelunds teologiska högskola"
+    },
+    {
+      "code": "178",
+      "label": "Enskilda högskolan Stockholm"
+    },
+    {
+      "code": "179",
+      "label": "Vårdhögskolan i Sundsvall/Örnsköldsvik"
+    },
+    {
+      "code": "181",
+      "label": "Södertörns högskola"
+    },
+    {
+      "code": "182",
+      "label": "Högskolan på Gotland"
+    },
+    {
+      "code": "183",
+      "label": "Malmö universitet"
+    },
+    {
+      "code": "184",
+      "label": "Ersta Sköndal Bräcke högskola"
+    },
+    {
+      "code": "185",
+      "label": "Svenska psykoanalytiska institutet"
+    },
+    {
+      "code": "186",
+      "label": "Göteborgs Psykoterapi Institut"
+    },
+    {
+      "code": "187",
+      "label": "Svenska psykoanalytiska sällskapet"
+    },
+    {
+      "code": "188",
+      "label": "Psykoterapisällskapet i Stockholm AB"
+    },
+    {
+      "code": "189",
+      "label": "Svenska institutet för kognitiv psykoterapi"
+    },
+    {
+      "code": "190",
+      "label": "Evidens/Centrum för Cognitiv Psykoterapi "
+    },
+    {
+      "code": "191",
+      "label": "Linnéstadens Psykoterapi Institut"
+    },
+    {
+      "code": "192",
+      "label": "Beteendeterapeutiska Föreningen"
+    },
+    {
+      "code": "193",
+      "label": "Svenska föreningen för Klinisk Hypnos"
+    },
+    {
+      "code": "194",
+      "label": "Otterhällans institut"
+    },
+    {
+      "code": "195",
+      "label": "S:t Lukas"
+    },
+    {
+      "code": "196",
+      "label": "Stockholms akademi för psykoterapiutbildning"
+    },
+    {
+      "code": "197",
+      "label": "Beckmans Designhögskola"
+    },
+    {
+      "code": "198",
+      "label": "Försvarshögskolan"
+    },
+    {
+      "code": "199",
+      "label": "Linnéuniversitetet"
+    },
+    {
+      "code": "200",
+      "label": "Newmaninstitutet"
+    },
+    {
+      "code": "201",
+      "label": "Stockholms dramatiska högskola"
+    },
+    {
+      "code": "202",
+      "label": "Stockholms konstnärliga högskola"
+    },
+    {
+      "code": "203",
+      "label": "Världssjöfartsuniversitetet"
+    },
+    {
+      "code": "204",
+      "label": "Brunnsviks folkhögskola"
+    },
+    {
+      "code": "205",
+      "label": "Stiftelsen Sankt Ignatios"
+    },
+    {
+      "code": "999",
+      "label": "Okänd utbildningsanordnare"
+    },
+    {
+      "code": "IRF",
+      "label": "Institutet för rymdfysik (statligt forskningsinstitut)"
+    }
+  ],
+  "id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c"
+}

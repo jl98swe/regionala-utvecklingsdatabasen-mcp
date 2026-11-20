@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "807d1882419497ca0071",
+  "register": "Universitets- och högskoleregistret ",
+  "variant": "Grundutbildning, registrerade ",
+  "bindings": [
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "Ar",
+      "variable": "År för registreringen",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "8a570c8d18079344bab8b5253bbf69e32dc315bf013449dd932e4d199532ce3c",
+      "id": "7390d9ed41da3ef3bdeb8a4fb319047c31f6205772ed068ade18bf6ec963d1aa",
+      "domain_id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "Ar",
+          "ar_raw": null,
+          "kallrad": 3172,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "Ffgar",
+      "variable": "Första år i högskolan",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "bc9b9f92f1eb909f1e122e5aec397130c10e71f6642fc55d97d6a8dfbd05fdfb",
+      "id": "9c4493a8f33837bad02c61cbb4d9104733e175eb3dffaff29c94a1ee035d04c8",
+      "domain_id": "32e379aa2ad34aa177d4b1eee6040970395dfef70da2add3fd7128f3bfc72dd6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_forstaar",
+          "variabel": "Ffgar",
+          "ar_raw": null,
+          "kallrad": 3161,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "HsKod",
+      "variable": "Universitet/högskola",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "6e51558e509c05624cab556d072180608ed71b0237efcb2a08b1f43fb7304b0f",
+      "id": "509f11a7adc00874639b32d31efdbe6cbc0c0ec2cb51b9e60a51eb9ab7326da0",
+      "domain_id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "HsKod",
+          "ar_raw": null,
+          "kallrad": 3173,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "KursKod",
+      "variable": "Kurskod för högskolekurs",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "e2ce038a0e74e962c57e868ae7c7fd9e6cb8d017cd72cf4d64111315eb0439e3",
+      "id": "0049d9fdd68afd64d88a026eb211ad59d4671fc6eca728dd22d9762e7c1112e6",
+      "domain_id": "320a4d563415437bcab97a7d33afd752354c03d8545aa3d8f65add5694dea995",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "KursKod",
+          "ar_raw": null,
+          "kallrad": 3174,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "KursOrt",
+      "variable": "Kursort",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "bb3f92ca1e724f78860a6ac3945464b8b59722c6ae1cf508e6c683e050045a63",
+      "id": "3ddd20413ca6ee691271353f8eaa4abe11082abcc7de90fe225e47478f464a1e",
+      "domain_id": "69ccc214dace6838d9c6a7ed7d83fcf403309f019f62ace46e267722bb2b25a4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "KursOrt",
+          "ar_raw": null,
+          "kallrad": 3176,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "KurskodBen",
+      "variable": "Kursens benämning",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "42ad410be1d2a6b5a4ea393c08470dfe0e16ef45be9863b7857ee9405878119f",
+      "id": "e199cd9408e7464457fad8b672a6f75f6bd60ac8229d6cc347f047fa61f6f7a0",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "KursKodBen",
+          "ar_raw": null,
+          "kallrad": 3175,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "LProgBen",
+      "variable": "Programmets benämning",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "0ac58b54487ad97cd04099bb48a9008da8f5d03cc66e92419d10735971ce740d",
+      "id": "f6441b8e47c985cb96a00b880d574cee322add8d189edb1a849bc1f676e70038",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "LProgBen",
+          "ar_raw": null,
+          "kallrad": 3178,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "LasAr",
+      "variable": "Läsår ",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "a5b34ebda997fd47edd85a2df74d9e1a40f1adf44fb216e3d47c169815080247",
+      "id": "1f120eb12812fdffebd6bd728cec5098ed34878fd7c5663930d7ebebe54c13c4",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "LasAr",
+          "ar_raw": null,
+          "kallrad": 3179,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, registrerade ",
+      "column": "Termin",
+      "variable": "Termin för registreringen",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "75a855b0a720328963cf4d759f19c46cbc73461d4bfd153b9dcd7becc0c2714c",
+      "id": "eac0d0757e63f4114638c01b6edc65482f70bfcc0a20e039e3228c14981f352e",
+      "domain_id": "8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:46:01+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_registrerade",
+          "variabel": "Termin",
+          "ar_raw": null,
+          "kallrad": 3181,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "nvarchar(255)",
+      "id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "value_count": 0,
+      "path": "data/value-domain-values/1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "char(8)",
+      "id": "320a4d563415437bcab97a7d33afd752354c03d8545aa3d8f65add5694dea995",
+      "value_count": 0,
+      "path": "data/value-domain-values/320a4d563415437bcab97a7d33afd752354c03d8545aa3d8f65add5694dea995.json"
+    },
+    {
+      "version": "År för registrering",
+      "level": "Till och med år 2040",
+      "data_type": "char(4)",
+      "id": "32e379aa2ad34aa177d4b1eee6040970395dfef70da2add3fd7128f3bfc72dd6",
+      "value_count": 68,
+      "path": "data/value-domain-values/32e379aa2ad34aa177d4b1eee6040970395dfef70da2add3fd7128f3bfc72dd6.json"
+    },
+    {
+      "version": "Kursort",
+      "level": "Kursort",
+      "data_type": "char(4)",
+      "id": "69ccc214dace6838d9c6a7ed7d83fcf403309f019f62ace46e267722bb2b25a4",
+      "value_count": 554,
+      "path": "data/value-domain-values/69ccc214dace6838d9c6a7ed7d83fcf403309f019f62ace46e267722bb2b25a4.json"
+    },
+    {
+      "version": "Termin, alternativ 4",
+      "level": "Termin, alternativ 4",
+      "data_type": "char(1)",
+      "id": "8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb",
+      "value_count": 4,
+      "path": "data/value-domain-values/8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb.json"
+    },
+    {
+      "version": "År",
+      "level": "Årtal fr.o.m. 1900 och framåt",
+      "data_type": "char(4)",
+      "id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "value_count": 127,
+      "path": "data/value-domain-values/aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "char(4)",
+      "id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "value_count": 0,
+      "path": "data/value-domain-values/ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82.json"
+    },
+    {
+      "version": "Universitet/högskolor",
+      "level": "Universitet/högskolor",
+      "data_type": "char(3)",
+      "id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "value_count": 136,
+      "path": "data/value-domain-values/e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "086909ad4e797d3ecdf63126618a2d3af76f56ba99e41dd30c192564fbffb119",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:46:01+00:00",
+    "task_count": 9,
+    "expected_bindings": 9,
+    "errors": []
+  }
+}
