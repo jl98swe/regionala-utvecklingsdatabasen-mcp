@@ -1,18 +1,61 @@
 # Regionala utvecklingsdatabasen MCP
 
-Fristående, öppen MCP-server för att hitta register och variabler i SCB:s MONA-beställning Regionala utvecklingsdatabasen (P1481) och ta fram R-kod med mikrodataR.
+## Vad kan du använda den till?
 
-**Status 2026-11-14:** Publicerad på ägarens Cloudflare-konto, verifierad med den officiella MCP-klienten över publik HTTPS. Ingen tillfällig anspråkslänk behövs.
+Med den här tjänsten kan du få hjälp av en AI-assistent att planera analyser och skriva R-kod för Regionala utvecklingsdatabasen i SCB:s MONA. Du beskriver vad du vill undersöka med vanliga ord. AI-assistenten kan sedan söka i databasens variabelförteckning och använda dokumentationen för R-paketet mikrodataR som stöd.
 
-**Publik MCP-adress:** https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
+Tjänsten hjälper dig att:
 
-**Hälsokontroll:** https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/health
+- hitta register och variabler som kan vara relevanta för din fråga,
+- kontrollera vilka år eller månader en variabel finns för,
+- undersöka vilka register som kan kopplas samman och vilka nycklar som finns,
+- ta fram R-kod och anpassa kodmallar för din analys.
 
-Se [testresultaten](docs/TEST_RESULTS.md) för genomförda kontroller och återstående begränsningar.
+**Exempel på frågor att börja med:**
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jl98swe/regionala-utvecklingsdatabasen-mcp)
+> Vilka register och variabler kan jag använda för att följa personer efter högskolestudier?
 
-Servern innehåller en gemensam metadatasnapshot för alla. Den saknar MONA-anslutning, databasdrivrutiner, användarkonton, filuppladdning och funktioner för att köra R eller SQL. Ingen AI-modell eller avgiftsbelagd API-tjänst används av servern. Kodmallarna är text som användaren själv granskar och kör i MONA.
+> Kontrollera om variablerna jag behöver finns för åren 2020–2024 innan du skriver koden.
+
+> Hjälp mig att skriva ett R-skript som kopplar ihop de här registren. Förklara hur dubbletter ska hanteras.
+
+Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)**. Om uppgifter om en variabels år saknas kan tjänsten inte bekräfta att variabeln finns för det år du vill använda. Då behöver du kontrollera det i MONA.
+
+AI-assistenten får tillgång till en förteckning över register och variabler samt dokumentation och kodmallar. Själva personuppgifterna finns kvar i MONA. Du granskar R-koden och kör den där med din egen behörighet. Tjänsten kan inte hämta resultat ur MONA eller köra analysen åt dig.
+
+## Vad är en MCP?
+
+MCP står för *Model Context Protocol*. Det är en gemensam standard som gör att AI-program kan använda externa verktyg och informationskällor.
+
+I det här fallet fungerar MCP-anslutningen som en länk mellan din AI-assistent och dokumentationen för Regionala utvecklingsdatabasen. När du ställer en fråga kan assistenten söka efter rätt variabler, kontrollera år och hämta kodmallar under samtalet. Du behöver alltså inte själv kopiera in hela variabelförteckningen i varje ny chatt.
+
+AI-programmet du använder, till exempel Claude eller ChatGPT, kallas ibland för en *AI-klient*.
+
+## Vad behöver du för att använda den?
+
+Du behöver ett AI-program som stöder egna MCP-anslutningar över internet. **Tjänsten är gratis att använda och fungerar även i gratisversioner av AI-klienter som har det stödet.** Ett exempel är Claude, där gratisversionen tillåter en egen MCP-anslutning enligt [Claudes dokumentation](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp), kontrollerad den 20 november 2026. AI-programmets vanliga gränser för användning gäller fortfarande. Stödet kan skilja sig mellan program, abonnemang och organisationers inställningar.
+
+För att ansluta:
+
+1. Öppna AI-programmets inställningar för appar, anslutningar eller verktyg.
+2. Lägg till en egen MCP-anslutning med adressen nedan.
+3. Välj ingen autentisering eller inloggning om programmet frågar.
+4. Aktivera anslutningen i samtalet och beskriv vad du vill undersöka.
+
+**MCP-adress:**
+
+```text
+https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
+```
+
+Du behöver ingen API-nyckel och behöver inte installera servern på din dator. I en organisations gemensamma AI-miljö kan en administratör behöva lägga till eller godkänna anslutningen.
+
+Du behöver ingen MONA-behörighet för att söka i dokumentationen. För att köra den föreslagna R-koden och analysera data behöver du däremot tillgång till rätt MONA-beställning och de R-paket som koden använder, bland annat mikrodataR. Granska alltid att urval, kopplingar och beräkningar passar din analys.
+
+---
+
+<details>
+<summary>Teknisk dokumentation för den som utvecklar eller förvaltar tjänsten</summary>
 
 ## Funktioner
 
@@ -43,7 +86,7 @@ Använd den publika MCP-adressen ovan. Ingen API-nyckel behövs.
 
 ### ChatGPT
 
-Lägg till en anpassad app/MCP-anslutning i ChatGPTs inställningar. Ange serverns HTTPS-adress med `/mcp` och välj ingen autentisering. Anpassade appar kan kräva utvecklarläge och arbetsytans administratörsbehörighet; tillgång beror på abonnemang och policy. En publik MCP-adress gör inte klientens eget abonnemang gratis.
+Lägg till en anpassad app/MCP-anslutning i ChatGPTs inställningar. Ange serverns HTTPS-adress med `/mcp` och välj ingen autentisering. Anpassade appar kan kräva utvecklarläge och arbetsytans administratörsbehörighet; tillgång beror på abonnemang och policy. Se avsnittet ovan om stöd i gratisversioner. Tillgången till egna MCP-anslutningar varierar mellan klienter.
 
 Börja exempelvis med: **Exempel:** ”Hitta Kommun i RTB, kontrollera 2024 och 2025 och visa metadataunderlag innan du skriver R-kod.”
 
@@ -140,3 +183,5 @@ UTF-8-konvertering används vid textbearbetning. Identifierare ändras inte. Tex
 Den aktuella projektfilen `mikrodatabasen_metadata.xlsx` har också jämförts: alla 4 138 poster och deras fem metadatafält är identiska med den publicerade snapshoten. Arbetsböckerna har olika filhash men samma metadata; därför behålls befintlig snapshot och dess SHA.
 
 Se [kravgenomgången](docs/PROJECT_REVIEW.md). MCP-instruktioner hjälper klienten men garanterar inte att en AI alltid följer dem. R-kod behöver fortsatt granskas och provas i MONA.
+
+</details>
