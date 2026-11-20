@@ -1,0 +1,44 @@
+{
+  "version": "Klassificering av företag",
+  "level": "Klassificering av företag",
+  "data_type": "char(10)",
+  "values": [
+    {
+      "code": "01",
+      "label": "Nytt företag via uppdelning"
+    },
+    {
+      "code": "02",
+      "label": "Nytt företag"
+    },
+    {
+      "code": "03",
+      "label": "Nytt företag"
+    },
+    {
+      "code": "05",
+      "label": "Nytt företag via hopslagning"
+    },
+    {
+      "code": "10",
+      "label": "Nedlagt företag via hopslagning"
+    },
+    {
+      "code": "11",
+      "label": "Kvarvarande företag"
+    },
+    {
+      "code": "20",
+      "label": "Nedlagt företag"
+    },
+    {
+      "code": "30",
+      "label": "Nedlagt företag"
+    },
+    {
+      "code": "50",
+      "label": "Nedlagt företag via uppdelning"
+    }
+  ],
+  "id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3"
+}

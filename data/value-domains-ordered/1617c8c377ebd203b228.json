@@ -1,0 +1,4101 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "1617c8c377ebd203b228",
+  "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+  "variant": "FAD, Företag",
+  "bindings": [
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "1997",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "12e33f78d367312844572b4ae496f6cbe318da5e25443b42c4219c2213f51698",
+      "domain_id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "1998",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "37fec7278dc115af332617148c87899bf7b6fbaf31e71013c6ea7ddccd060a90",
+      "domain_id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "1999",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "d4fceb90fa9c9a42597ff3f9ba7cc5956fc069fd10a620b5b05a5a2f1f74eff3",
+      "domain_id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2000",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "85fbb1a0e57abf69fdc5cacded90959254a2d19a36586b281104fbdd2929727e",
+      "domain_id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2001",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "d0febf535b1d56bcf9f67670cc5fb0f9c765a731e7b41d345476ab9cf28ed9c9",
+      "domain_id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2002",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "79a11165c70eafb0de8846be70b1760e742d70014e6f80cf53811acd83e91c4c",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2003",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "bfc57443602da3e78dd6da3f11906089e9bdd6199873c5c36243f1f242245673",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2004",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "01a4a639d0479ed233350a933b5f800acf6c17992a37c0b67d91eb4e0ed0cf1f",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2005",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "ef8db3a2e545db5d8cdb389760e24c4702ae294b0db126af683c6db8ddb8e6d4",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2006",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "1bc475b4fcf1a535b529be7aa157a609edca6612833f215ca52bd21e9dfcbaf4",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2007",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "f14b9082976edfbd969eb36f4d34add63ce0b63f0be0026fe5040919b2fbc7b9",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2008",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "e51a92516e9dd0c7a09d20b232f3614cca72d855d8ffa98ca90b59600496080f",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2009",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "bae951ee6f147b55a3c352433f7be5a2113102da2361a0ae1fcc5e19e1799593",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2010",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "b7c7d06a74cad2f13babfb26c372f4d2ffe3d07971145fbdf1f5a981742d66c3",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2011",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "bcb3eb13102c936a53aa542a846ab6244fe4e1ed11a3a3e149fd28294b31c10a",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2012",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "b0ede66420705fc69c1f11dd7641dee515af2277ef7381b2d13c531840fa124f",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2013",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "fb69f1f40b7e11ad7f509df5157c3bbaa4530036ceede3df432e5cb20ea10f82",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2014",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "5dc3b2068c15f0c947d9e4fe067935495f7c6a4f6f3a6821d5ae2e8664e2ae1c",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2015",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "60604f0b4e2050a8f5cc61c18d58363b7393643085224613893aabefe5b1f46e",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2016",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "de4ef97efbdf4b668c6e79e1f4bcb037050af846625b81bc819fcb1d6081f02d",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2017",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "ab9a49c35ebe23ae85f258b2ef268028645779899a5e7bd1991382f61ed1e4d1",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2018",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "0655aadfda47c989a249cd1468e00a26e7ac01ab7ae8771afc6ffcd87d31eec5",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2019",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "24634be3eb75587788450eddedf4269b40d6d0a1fbb20994ce2eead0874a5c59",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2020",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "8c43748ed6dcbcd35c13a1de8fb7a067d82250ed5ef69ef711091f54e8a6b1c1",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2021",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "3f84f8d6c808d9d16fa8db2be82c55b72596146507e1db341ee49b45754c5067",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "AR_Ny",
+      "variable": "Startår, företag i FAD",
+      "register_version": "2022",
+      "source_task_id": "50454273d9cd07186d7157f80d73da1be9e24fd5d7b0533ca7bf6611c5256c74",
+      "id": "69960fb618e93a945a1f19043c5376f7e89979d939a3d468d856e3b9c4abebbd",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 264,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Ar_Ny",
+          "ar_raw": "1997-2024",
+          "kallrad": 282,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "1997",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "18c05d240280ebc2f8f1f5e1313d96fb83c573d8df7c5ea838f94706fec2762b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "1998",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "197d4f0e45c71488a8b335d5906a893b8a84bd4590c8dc240825b806391e7f4b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "1999",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "7b752c190a6fd71653b2c7f7f6469e289042777b03d49a0821e08b01d2905a1f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2000",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "857d239e99bfdad887833a2a2e3077cda7dfd77f00f3d002d9b23f41d0c7618f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2001",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "391419554ef66a48c72e889c22eea9b42a7fd18aa8f5c4b17e3d10d90d2f82cd",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2002",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "ea773fa602534d37dd8496f059df6204ef9beb97ff19cac97800ef2443c761d9",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2003",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "bc7a8f5845258482f9852c9ea95e93f73df1270cf2646bc3137dbd719f51fc56",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2004",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "cf2e532ace7937821f31b8403770462a33dc28d57eabb2a849b39d7186ea1c46",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2005",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "9dd9e43bb2f53a0eace68bdc82bce1e53397eca08796516c1a12ee5136d19371",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2006",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "cd4162209582b13653124afc5d644f4e871f464bd93c4fd2be6850c4d98a826b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2007",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "94f920b2f5cbe8f4a3a6a8c8a38bf9203b246b4c71ab33a08e68f0ba2c8a3ec2",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2008",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "b34384868446bf391c82bbcf300db080c3cc92c9d3e1c07fe3f4d3cb8ab8c9bc",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2009",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "d38b844e88285a024ce52867eeaa33fa83666b52d993402b30487a7d1ca770fc",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2010",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "78e0ddae9d400fc76b15d1fb397afea9c33360facbb2ead59034747eb1dfb706",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2011",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "82549b1bb7c4e67390b37d79bd50c373c8d80d7a89c931da63f958718b57345d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2012",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "6146c1c94560e66d756b4440e92d795fec2a245e24bfcad6fa0511c5ba864df4",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2013",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "47e4bf880d383d7500335bbf0d1941b0523c809bdceff98d87ae54ecf65b3fd2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2014",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "6d07b955f279e0da240fca6d67dbbd42fc0e0ea6a87f62af24dc494db32df64b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2015",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "1888c31c7698d13d89f5539117b73597de854d31f6ffc09c94afa7eb60f4c57d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2016",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "eaadb9500a280f6816eb561d7f68b82471b5eeaa5a75fe9212cf0e7b2377dc8f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2017",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "e20d32a18a7ef1a560ed4f65c55260f50d0d92f84e53a6cdec9c79bcf474e68f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2018",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "f5a5fdd29b9973a3301a451e558e127ab262b75179aaa3c90dad5ecd25f5fe44",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2019",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "ee54a03b0ba59de609b7b0ab235c5a056e7e9a90beade5755f0589c5487227f2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2020",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "0a4dca384a286be006b822d8626eddd4bc5aeff534ef8f32f850b932da8ea856",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2021",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "04d322b5068bb4fcbeff4e83540bcf143d9461c954e5068f12d11653d7f8b8cf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "G",
+      "variable": "Antal gemensamma sysselsatta",
+      "register_version": "2022",
+      "source_task_id": "14eaa8d9488c76712f0c4a3ab887dfacbdbe1e045f0c578b112df2342ed0c65d",
+      "id": "727bbcacf68211c8669fcfd8fbf76ca751c57bd283e1264a580a45c8b6033dc6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 265,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "G",
+          "ar_raw": "1997-2024",
+          "kallrad": 283,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "1997",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "5aa633c5886c1d4f9e15187cb72ac99df78e93436a0727d09d3b16025f5c960d",
+      "domain_id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "1998",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "f89d30bfc7f53843e86cd228deba9f98815b0584df16222debf6db7f55947ea3",
+      "domain_id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "1999",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "ab6ca9db563ca54529900634c1b2a93d7c94bab5011de14f387b16741aecd13a",
+      "domain_id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2000",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "1e2d348924873a815880c30694d4f3bf4bf3e47551d03b8876b1bbf023f313d6",
+      "domain_id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2001",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "4a3f94137668531f143cba61890662f59235562f7d05d2d53ddebb8361df08e1",
+      "domain_id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2002",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "88db6984685dc6ef4d41f88f033a2868844ed6b7ee8dcb89cfc43817a89fde95",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2003",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "947e4ae3c6eb26c002250573a8275a40bd11d03cb4bc58bad43f03fa6fce0632",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2004",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "001b8122412f17677c29a66ad72df7dfae51f6dfe4a314850e85326da120c498",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2005",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "c012b857e382bb74e74f050bc26a6084de7786056b5e429cfd04ec0fc0b367c5",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2006",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "3b831f95901e56e168f0ebb489901ce002dd347cce83b81f49f28a9d2730017e",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2007",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "e9d9f50dd938e462463bf2dd1a1950678a28d903c8e26b5e4224a9bc9dd3a3e9",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2008",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "d49e3ecc34da05e9532cacb8e05668505f46bd380f0dcf8a46ade6e6b856487f",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2009",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "64d0709a1a7513fcdab134f8c80943427e6d530650993a0e64d01205587b680c",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2010",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "18ec79bff080dc82049e9dd2b1eae7d538486d2d868239e5ad85de124eb77c01",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2011",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "084b8fd460d54a031d563b77eff3c71ee8212ca1f8557e5415d4d18e446af9bc",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2012",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "f661dfef195cb8efdde11bacb0728907eae0f7b91fd83848458e766f14e2ae65",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2013",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "66f097190ef08e5ac4dc890aef39b93821a4d1ffbf7ba852c8d2bdeac45290a4",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2014",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "a24b4700e2695ef68208d4b1cca713d37caa56fd79ed1700cd2f24c167d5ce63",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2015",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "1313ea54eebabe9ce0941cdb478affc47b3cf23b496162dd327053fe8df8a781",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2016",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "da74bd3b6463713284293de66da40c21a6ffa94c0f9610c6d9b4b486927d6275",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2017",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "a79c3780fe5fcff4c10ced4d247bed84e96e4031afad15733554c2e5ebae49c5",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2018",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "b1972799fdb50183dd25d024ea6402371c6d256b2c761304f62a48673a7d6328",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2019",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "ef543162f091a0c3477ac2a02baba2491f441276dc3b0b299c94cb5ed44a9862",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2020",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "347d589c97cf0c84f521db925fa98d76742d666c3cc2c45182d8f07f8b129476",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2021",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "3083925eb2f7514e1b6d024afb643a1efbf0acbeb87c7902d936427d62659cb9",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "KvaR",
+      "variable": "Klassificering av företag i FAD",
+      "register_version": "2022",
+      "source_task_id": "cf6aaa23b6120dec2a61c6cd0988fab4a840252067a25a59110f6d44403b2647",
+      "id": "202aee3c2c3b90808e967188a8715bd36abde79ca5a9c7b5e07e9ca385035901",
+      "domain_id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 266,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "Kvar",
+          "ar_raw": "1997-2024",
+          "kallrad": 284,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "1997",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "e686175b58ddacd719633033d0ec4cd1067f76e3c5409cbea781456312422ced",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "1998",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "2da14ce50278054c5123fcb0b19260413e8ea4333ddfca73020ba2e4bc40acf3",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "1999",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "87142a2634dc151437f3c501029de78bba5d431b1dc5857e89ec9c2a8c276857",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2000",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "10f54973a34ccd8521863a14d3ab29b95a1a49f73e8833d59d3cb9b376be637b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2001",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "cbeb67ba65f4520edcda6311d977a8c5d06fd796a21ca41841545bf1e743dc72",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2002",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "fd3a8ac5423165ae60bfec6a4a07b1c73f69efb5e118ad19f8476172bb6ab333",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2003",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "3f6aaed8d891e65d778f7f74087b756c54920a6460109af31175f667c458f56f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2004",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "8f83af89e9873aebdad742a012ff6da476b20950a22490ad646d9ef2fa1c7093",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2005",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "f6c311ea82026a0204de46c5da205b46e35f3c196bebe3fc4da276b037298430",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2006",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "9505371c4ac2e9c5b645a022b67d1f9799454b4f9dbe2d93de0a0530aa10cbc8",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2007",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "9b23da246387423653d66a46316538442792b3a4854faeb0ce54170c6707c175",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2008",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "716af100381a1e7e2ec1277327933cabeb5e9c6c399b0f0e6a521e788718417b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2009",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "4b075949fcff1f27ba75eaca07abbb317783a8ec072462a139543298c2926e71",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2010",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "ffb4d347b9957863e1ab0fc6a76c3271561ddb1cab150f123f17155629fb7d84",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2011",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "7b1f94c44e4ffd4675c3dc274325034d83bafdaae4c2f1c17e927cdc6f3c2c5d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2012",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "3ea4256a8e7ee9d2376c211d1569e41b0141f4a639ed7e1de6261ff6a8a815eb",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2013",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "5c0d3fc63c9885def90ae469f3aaa389c81c84da96a99786624845d31ad17ac6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2014",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "f14ad8e3cf8c9035306989d9ee8cc6d2d9c6e239da5684716e2b95dd58a804a8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2015",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "2853abbfcf34066f3a1d4dd749e923b6736a25ed5dccb83e55ff9c9574561b1a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2016",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "3486a12d8f5de33659c9c8258b50482996fbff49a7e5480401e7232700752730",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2017",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "a57b24e48e84fd4746787a7580b33379fba83d52aba0a23e1659ac39a4ae4ae5",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2018",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "8b1ff917c9d68bc71f836f41e0a511a5207707096039a3531955eebfa0fdf7f3",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2019",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "0fb63864433d118f458e98f2ec303e9e6af44a7388e0054a9e2333e230c43cd0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2020",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "78f9116c67280df689212fd19ff6b162c264443732206627370daefe2be9d996",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2021",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "f601772c19a7b97773fede4c1e465451641b52138f2d01e6d74c1825c4873f3d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T1",
+      "variable": "Antal sysselsatta år 1",
+      "register_version": "2022",
+      "source_task_id": "a2f058be83bba9eaef4d12da288cc25d5c77339336a981539e4d776236eb6961",
+      "id": "65859906a44873253af607cbd9a171f83c808a402aedbcac4e51536febb9654b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 270,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T1",
+          "ar_raw": "1997-2024",
+          "kallrad": 288,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "1997",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "e4e17988fe1068612e5484eb1e0c6ead83bc05095484662f9f6336500fb59383",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "1998",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "6da750bd8cb9acaa224736151ee9184f0f6bc62510e40c212157958ee67c6145",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "1999",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "75aadaeda6bd7782e8bfec54f1b30d450778242d6a108646eb23321d3b181fd8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2000",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "325570f9f7260cbde5c6eb28b9e7cfc2174a7caecbb4ed7106db6548f05d9d61",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2001",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "9cafc7bd25ecbe74b39f95319769f5cc7656ef0e5fb0aaa46385528253eb6a15",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2002",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "b689ec6f6912fd4368d9528cdd69770aba8b2ab297d6da2795f75844648eedef",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2003",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "3eded6fd635558825b736fe4b2139ba0c5759505f55be79534927181d14524cd",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2004",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "0c524c11013ecbc3d34894b4ab10481a7c015d03f812d37e3a9246c1e5449891",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2005",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "ca04357799673d8cf3afaf3940083e0aa7ebca60b78278bbe7a08c917f85867b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2006",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "99c92012db60cde5f4218c33c92f0ac48ee7f79867154205f4b24f43370496e7",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2007",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "60f749230f49bddcb73b2bbd25a047fac26752dfbeef629e95bb24dfacb479f3",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2008",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "461e76f29c8be0c6e0a3eef7cda18d92eb6ebc4c9da5bb3887fc9abc9082f21d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2009",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "eb509bef80f4e6e14c8fbf543a9531208029446339168346e62c9927c6b94f2b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2010",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "e9a52685b7627e21d7af775d50872ac451b2f6f30a8dc757334d6feb1f2ac0a1",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2011",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "db15fc5cda20e031fb0a4f35767228f12f2a756b45b99d8cc760aa22bd0b2fde",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2012",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "bdf2941cb656d2e476b7895a97fb30acb639d4abe28f81e5d9fb672c6f235a63",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2013",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "7424257ab5d2bce0e2a662984c0c462e5894c283cfb388b61d6716efcd1996ba",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2014",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "b534afd6373df78789e3be2b084b95e6142cd2d70685cf2374a2a4419c7a8857",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2015",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "b4bf6121ff4c09391d8cc33dc2bfd2370ff714cbb2b30631e5993e46a238b914",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2016",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "9e664a845b5bd701e47fc0245ecc706a4a90c90105d1a6ef974cd5d576faeac0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2017",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "b275c6a3db5826df8f07b70b106a39e94d72287d1dc537cedfc5cccb67b9b780",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2018",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "2a1bac114808f8bad1a25fc6eb617fe45e73fa313870a346a763fdf23ced744c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2019",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "ea34afb37a094d4ce168666ef10cd191490502b0c2a20d17e76a2e4048f57cdc",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2020",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "c00170386c061ad10cfa1ad76b59db49d6ac51b0e3b245eeffaabaf36bb837c1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2021",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "2c565222f10634d184290805e98350b97bed3377d84557373ae1f830e0399c10",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Registerbaserad arbetsmarkn.stat (RAMS)",
+      "variant": "FAD, Företag",
+      "column": "T2",
+      "variable": "Antal sysselsatta år 2",
+      "register_version": "2022",
+      "source_task_id": "87a8ecb48530862015dd6b57b02d70e80d2a019a42fedd7e8e3b0595fc99d378",
+      "id": "a0016aba9f2f3b562fc4d7abdbf58e9b2af75e332f3fcf591259d6023ab5b336",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T23:01:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fad_foretag",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 271,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fad_nedl_ftg",
+          "variabel": "T2",
+          "ar_raw": "1997-2024",
+          "kallrad": 289,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "char(10)",
+      "id": "0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72",
+      "value_count": 0,
+      "path": "data/value-domain-values/0eea21e73aa341e657b0f74f206dab8445968ba58bcf9d9abbbf7eb4fe334e72.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "varchar(4)",
+      "id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "value_count": 0,
+      "path": "data/value-domain-values/579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f.json"
+    },
+    {
+      "version": "Klassificering av företag",
+      "level": "Klassificering av företag",
+      "data_type": "char(10)",
+      "id": "770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3",
+      "value_count": 9,
+      "path": "data/value-domain-values/770a7393727408c311e98c9d976d928f6d68e5f1debc72dfe55dd24ffb35fba3.json"
+    },
+    {
+      "version": "Klassificering av företag",
+      "level": "Klassificering av företag",
+      "data_type": "varchar(2)",
+      "id": "c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d",
+      "value_count": 9,
+      "path": "data/value-domain-values/c2f81da9e71215c194326981bf7c6b2dc9d18e489825020e90b68874c6b6d53d.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "int",
+      "id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "value_count": 0,
+      "path": "data/value-domain-values/fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "cb033f6ec4c4bb2becc0e9018213ca245a94b710169b7d08d9962ae8cd103f96",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T23:01:51+00:00",
+    "task_count": 5,
+    "expected_bindings": 130,
+    "errors": []
+  }
+}
