@@ -19,9 +19,7 @@ Tjänsten hjälper dig att:
 
 > Hjälp mig att skriva ett R-skript som kopplar ihop de här registren. Förklara hur dubbletter ska hanteras.
 
-Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)**. Om uppgifter om en variabels år saknas kan tjänsten inte bekräfta att variabeln finns för det år du vill använda. Då behöver du kontrollera det i MONA.
-
-AI-assistenten får tillgång till en förteckning över register och variabler samt dokumentation och kodmallar. Själva personuppgifterna finns kvar i MONA. Du granskar R-koden och kör den där med din egen behörighet. Tjänsten kan inte hämta resultat ur MONA eller köra analysen åt dig.
+Underlaget gäller MONA-beställningen **Regionala utvecklingsdatabasen (P1481)**. AI-assistenten får tillgång till en förteckning över register och variabler samt dokumentation och kodmallar. Själva mikrodatan finns kvar i MONA. Du granskar R-koden och kör den i MONA med din egen behörighet. Tjänsten kan inte hämta resultat ur MONA eller köra analysen åt dig.
 
 ## Vad är en MCP?
 
@@ -29,11 +27,9 @@ MCP står för *Model Context Protocol*. Det är en gemensam standard som gör a
 
 I det här fallet fungerar MCP-anslutningen som en länk mellan din AI-assistent och dokumentationen för Regionala utvecklingsdatabasen. När du ställer en fråga kan assistenten söka efter rätt variabler, kontrollera år och hämta kodmallar under samtalet. Du behöver alltså inte själv kopiera in hela variabelförteckningen i varje ny chatt.
 
-AI-programmet du använder, till exempel Claude eller ChatGPT, kallas ibland för en *AI-klient*.
-
 ## Vad behöver du för att använda den?
 
-Du behöver ett AI-program som stöder egna MCP-anslutningar över internet. **Tjänsten är gratis att använda och fungerar även i gratisversioner av AI-klienter som har det stödet.** Ett exempel är Claude, där gratisversionen tillåter en egen MCP-anslutning enligt [Claudes dokumentation](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp), kontrollerad den 20 november 2026. AI-programmets vanliga gränser för användning gäller fortfarande. Stödet kan skilja sig mellan program, abonnemang och organisationers inställningar.
+Du behöver en AI-tjänst som stöder egna MCP-anslutningar över internet. **Tjänsten är gratis att använda och fungerar även i gratisversioner av AI-tjänster som har det stödet.** Ett exempel är Claude, där gratisversionen tillåter en egen MCP-anslutning enligt [Claudes dokumentation](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp), kontrollerad den 20 november 2026. AI-tjänstens vanliga gränser för användning gäller fortfarande. Stödet kan skilja sig mellan program, abonnemang och organisationers inställningar.
 
 För att ansluta:
 
@@ -50,7 +46,7 @@ https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
 
 Du behöver ingen API-nyckel och behöver inte installera servern på din dator. I en organisations gemensamma AI-miljö kan en administratör behöva lägga till eller godkänna anslutningen.
 
-Du behöver ingen MONA-behörighet för att söka i dokumentationen. För att köra den föreslagna R-koden och analysera data behöver du däremot tillgång till rätt MONA-beställning och de R-paket som koden använder, bland annat mikrodataR. Granska alltid att urval, kopplingar och beräkningar passar din analys.
+Du behöver ingen MONA-behörighet för att söka i dokumentationen. För att köra den föreslagna R-koden och analysera data behöver du däremot tillgång till beställningen P1481 och de R-paket som koden använder, bland annat mikrodataR. Granska alltid att urval, kopplingar och beräkningar passar din analys.
 
 ---
 
