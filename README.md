@@ -11,7 +11,7 @@ Tjänsten hjälper dig att:
 - undersöka vilka register som kan kopplas samman och vilka nycklar som finns,
 - ta fram R-kod och anpassa kodmallar för din analys.
 
-Med nyckelregistret i version 0.4.0 kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. **Nyckelregistret håller på att införas; de tre nya verktygen beskrivs nedan.**
+Med nyckelregistret i version 0.4.0 kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. De tre verktygen beskrivs nedan.
 
 **Exempel på frågor att börja med:**
 
@@ -83,7 +83,7 @@ npm ci
 npm run smoke -- https://regionala-utvecklingsdatabasen-mcp.jl98swe.workers.dev/mcp
 ```
 
-Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen, listar fyra verktyg och anropar samtliga. `tests/transport.test.ts` kör också en faktisk SDK-klient med HTTP-transport mot Worker-handlern utan nätverk. CI kör separat samma klient över lokal HTTP mot Wrangler/workerd.
+Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen, listar sju verktyg och anropar samtliga. `tests/transport.test.ts` kör också en faktisk SDK-klient med HTTP-transport mot Worker-handlern utan nätverk. CI kör separat samma klient över lokal HTTP mot Wrangler/workerd.
 
 </details>
 
@@ -104,7 +104,7 @@ Detta startar den officiella MCP TypeScript SDK-klienten, initierar anslutningen
 | `hamta_nyckel` *(0.4.0)* | Hämta en vald kodlista eller sök efter koder och klartext i den. |
 | `kontrollera_klartextkoppling` *(0.4.0)* | Utgå från datans kolumnnamn och visa möjliga nyckelfiler, tillkommande kolumner och risker vid koppling. |
 
-De tre verktygen märkta **0.4.0** finns i byggpaketet för nyckelregistret. De är ännu inte införda på `main` vid denna dokumentationsuppdatering.
+De tre verktygen märkta **0.4.0** ingår i nyckelregistret.
 
 Svar innehåller `structuredContent`, en textrepresentation och `metadata_sha256`. Servern använder stateless Streamable HTTP på **`/mcp`**, utan inloggning. `/health` visar laddad metadataversion. GET `/mcp` ger 405 eftersom servern inte erbjuder en separat SSE-ström; klienten ska använda Streamable HTTP POST.
 
@@ -204,5 +204,51 @@ UTF-8-konvertering används vid textbearbetning. Identifierare ändras inte. Tex
 Den aktuella projektfilen `mikrodatabasen_metadata.xlsx` har också jämförts: alla 4 138 poster och deras fem metadatafält är identiska med den publicerade snapshoten. Arbetsböckerna har olika filhash men samma metadata; därför behålls befintlig snapshot och dess SHA.
 
 Se [kravgenomgången](docs/PROJECT_REVIEW.md). MCP-instruktioner hjälper klienten men garanterar inte att en AI alltid följer dem. R-kod behöver fortsatt granskas och provas i MONA.
+
+
+## Nyckelregistrets underlag och uppdatering
+
+Nyckelfilernas rubriker och innehåll hanteras separat. `sok_nycklar` söker fil-
+och kolumnnamn; `hamta_nyckel` söker och hämtar kodvärden för ett valt nyckel-id.
+`kontrollera_klartextkoppling` tar emot datans kolumnnamn och redovisar vilka
+nyckelfiler som matchar, möjliga tillkommande kolumner och kopplingsrisker.
+Skicka endast kolumnnamn till kopplingskontrollen.
+
+Rubrikraden styr matchningen, inte filnamnet. Kontrollen beskriver möjliga
+kopplingar, inte en exakt simulering av `fjoin_klartext()`. Befintliga kolumner,
+bearbetningsordning, kolumnkollisioner och transitiva kopplingar kan påverka
+funktionen och måste verifieras mot installerad version.
+
+Registret från `nycklar_2026-11-20.zip` innehåller 86 filer och 71 412 rader.
+Originalfilerna ändras inte. Alla namngivna kolumner, grupperingar, dubbletter,
+tomma celler och särskilda kodvärden bevaras. Anteckningar utan kolumnrubrik
+redovisas separat; formler redovisas med deras sparade resultat och formel.
+Numeriska Excel-celler återges som text utan antagen nollutfyllnad. Snapshotdatum
+är inte ett belägg för klassifikationernas giltighetsår eller variablernas årstäckning.
+
+Exempel på anrop (syntetiskt arbetsflöde):
+
+```json
+{"name":"kontrollera_klartextkoppling","arguments":{"kolumner":["AstKommun"]}}
+{"name":"sok_nycklar","arguments":{"kolumn":"AstKommun"}}
+{"name":"hamta_nyckel","arguments":{"nyckel_id":"AstKommun.xlsx::BE0101N1","kolumn":"AstKommun","koder":["2580"]}}
+```
+
+För större listor: följ `next_offset` tills det är null. Varje innehållsrad har
+ursprungligt Excel-radnummer. Fil- och arkivkontrollsummor gör importen spårbar.
+Databasmetadata avgör fortfarande vilka vyer, variabler och år beställningen omfattar.
+
+Uppdatera från en ny arkivfil (kräver `openpyxl` i importmiljön):
+
+```bash
+python3 scripts/import-keys.py /path/to/nycklar.zip --snapshot YYYY-MM-DD
+npm run typecheck
+npm test
+npm run build
+```
+
+Importören skriver endast `data/keys.json`, inte till arbetsböckerna. Granska
+ändringar och kör publiceringsflödet efter kontrollerna. Serverdriften kräver
+varken Excel, Python, ny lagringstjänst eller anslutning till MONA.
 
 </details>

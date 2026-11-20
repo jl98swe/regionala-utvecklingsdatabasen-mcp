@@ -6,13 +6,16 @@ const endpoint='https://rud.example/mcp';
 // Real official MCP Client + Streamable HTTP transport; only network I/O is
 // routed to the exact Worker fetch handler for deterministic offline testing.
 const localFetch:typeof fetch=async(input,init)=>worker.fetch(new Request(input,init));
-test('actual SDK client initializes, discovers four tools and calls all four',async()=>{
+test('actual SDK client initializes, discovers seven tools and calls all seven',async()=>{
  const c=new Client({name:'rud-integration-client',version:'1.0.0'});
  await c.connect(new StreamableHTTPClientTransport(new URL(endpoint),{fetch:localFetch}));
  try{
-  assert.deepEqual((await c.listTools()).tools.map(t=>t.name).sort(),['sok_variabler','kontrollera_tillganglighet','hamta_registerstruktur','hamta_kodmall'].sort());
+  assert.deepEqual((await c.listTools()).tools.map(t=>t.name).sort(),['sok_variabler','kontrollera_tillganglighet','hamta_registerstruktur','hamta_kodmall','sok_nycklar','hamta_nyckel','kontrollera_klartextkoppling'].sort());
   for(const [name,args] of [
    ['sok_variabler',{sokterm:'folkbokföring'}],
+   ['sok_nycklar',{kolumn:'AstKommun'}],
+   ['hamta_nyckel',{nyckel_id:'AstKommun.xlsx::BE0101N1',kolumn:'AstKommun',koder:['2580']}],
+   ['kontrollera_klartextkoppling',{kolumner:['AstKommun']}],
    ['kontrollera_tillganglighet',{urval:[{databasvy:'rtb',variabler:['Kommun'],perioder:[2024,2025]}]}],
    ['hamta_registerstruktur',{databasvy:'bas'}],
    ['hamta_kodmall',{mall:'kombinera_register',urval:[{databasvy:'rtb',variabler:['Kommun'],period:2020},{databasvy:'bas',variabler:['BAS'],period:2020}]}]

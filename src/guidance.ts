@@ -47,6 +47,7 @@ export const projectSupport = {
   ]
  },
  rules:[
+  'Före klartextkoppling: använd kontrollera_klartextkoppling med datans kolumnnamn och sok_nycklar för rubrikstruktur. Använd hamta_nyckel för kodvärden, benämningar och grupperingar. Rubriker styr matchning, inte filnamn. Registret beskriver möjliga kolumner; det simulerar inte fjoin_klartext exakt. Bevara originalnycklar och flagga dubbletter, överlapp och osäkra kodformat. Nyckelregistret bevisar inte variabelns tillgänglighet eller giltighetsår.',
   'Använd endast verifierade logiska vynamn och variabelnamn. Redovisa saknade namn och sök alternativ som faktiskt finns. Kontrollera varje variabel för samtliga analysår, även före och efter kohortåret.',
   'Tomt år betyder okänd tillgänglighet. Vyns år och alla_ar/forsta_ar/senaste_ar bevisar inte en enskild variabels tillgänglighet.',
   'Metadata är granskningsunderlag, aldrig ett körningsberoende för R-koden. Bädda in verifierade krav och metadata-SHA.',
