@@ -1,0 +1,2415 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "f42ff157566cbf11639f",
+  "register": "Befolkningsregistret (RTB)",
+  "variant": "Folkbokförda personer",
+  "bindings": [
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "1998-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "71e90f8df89afb1a16b96aec8757445cbdd992bd8451375db03aef4372f8c0b3",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "1999-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "4679af66fa584e9ea2b6ca4f603d669ef002697427d0bb1d9ec50e168455ecfa",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2000-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "20369a89bdf21b68c80110193d89515eaf5cdd028a299ffe5539a212982aac2f",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2001-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "387c81d1c8d62fa3d070b604e5312c0e1f3a4cbc2514513edba0e422fe1cb3fc",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2002-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "ffa6a42bdf118a3df28b160cdf7b8802e379ea948051e204eb16dfeaffd43444",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2003-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "05c2c24cbc23ba36d83dc435a4a7d971e7905799219eefd022912e549738df3f",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2004-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "adf6da0833ea30aa9f067691c5a7e411ab08a411790cdf7714889f706466794b",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2005-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "d65507cfdd71e7f939019fd4687d1971caa2c5a023cd36a0b63295d6fb79a4e9",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2006-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "021f095b07699df88e95a94ca58e4ad2d0a2a8c95229034f61ec5a76e7324ae3",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2007-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "703c3a3c80963cdd842e7b2af45dd228d33b974e4d081a0e34e9e28ac33fd579",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2008-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "382dc326abc7218e0ad69abbcc8ed28a050a54acbf3a62f81dff7fb207b16a42",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2009-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "337fa19c80cb07b6ad0a2db6d98fb95b20c3f5548646440dd3320c77e3280131",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2010-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "63de68d935207bada32372e480d57a33c2a05fb170c054d28cf8439b1223e520",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2011-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "95fdf1bda4784d84d0f3d5fae9066e65f42e35dfe1ef41a013fa1f67cb4a509b",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2012-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "8944373ebb34df611b77df9a774f00482732c126ad83abd777a42350e8d0fe74",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2013-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "f770407646746876265ab5f28314159c14f93bd85d43345b9a137b90c346811c",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2014-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "029972537631244b61ab0ae433673e94755c49277359e448851d2223b3c22163",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseForsNamn",
+      "variable": "Födelseförsamling",
+      "register_version": "2015-12-31",
+      "source_task_id": "70e42cd0f4770979b8572331c68efbcea81e59eae7ee6921f0db1239a1d5a5e9",
+      "id": "c51e8a06e83bc18da9ad43c712d0aca62598b4e13ba6e338e22039463ddcfcd3",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseForsNamn",
+          "ar_raw": null,
+          "kallrad": 440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "1998-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "cfad3d41a6f828a90d44b11adf77da363332f19ce0ef61bd284b57e4f751fc75",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "1999-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "381d01f33f08d7ac6b447ad7fe324a3e24e87c58ff344360ed4f55f8a55fb45a",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2000-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "25f7be791859d3d44bd26d1a01d7da541c77b3217e534b2a0111a9a5f12ee233",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2001-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "48092b205ab16c2c039c74e33d3a92f0da1c853d434e1b0d884d237b782fe592",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2002-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "dae2c03d51e84a3b81d1027616c0b2d3342b0694a6636ded8bd218b4d0c9a9d2",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2003-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "b3c8675214907382a2701f8bf76b47e4512db62a5fa8907dc8d65af313d13430",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2004-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "d119f5c553ceece56b96056fe0048d7b8fd2d88642699f59d13cd40be87ea582",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2005-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "af900dca6f8317b821f86333dc7b0067afed5dc317665b535914432d45004ce3",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2006-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "4784c91d087eaee66527e02aabe4360ae6ff3c72aa88d34416d3343297fab0c5",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2007-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "3254aa130e6f3c2a7f62511c73cb006631ba9820293d72d7226c1a62b9757655",
+      "domain_id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2008-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "e6aaf79e9c19a00b494a36a5b7f9a095b15c685cec9dcbad8f752e3f9d7be715",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2009-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "8b78c1d9fcc03ec5875d7eb41ef40441ad984e5f91d804cc2688cbbebb5d1583",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2010-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "990a6f9eafab6d01d5d1aa3d4e30042e723b12464ea883af05c597192ebdf095",
+      "domain_id": "71cbb3223f46dd2561b08943f94af381b23f35e7651b4176d0bab72802fb2142",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2011-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "ef79062f376b809dfd824915676c487628f4facc7416baf897f22918014d9189",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2012-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "58f14de283c1d9239d15e0e53c9bb9e59ed76bbdfd978e5a244660887d5847b4",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2013-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "dc314e9d1b22e27860db90628881bcc98681e3674784385c47a517b4a51d0170",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2014-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "df9c7af33afe1be3701e1d096790db0b4a0c4e8f9316fa2d5a8e8402fa4bfd16",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2015-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "b4b1e8706643c78037ebd5e5583e963bfbdd6c2db397c347d16371d1bdba58bf",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2016-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "40ad2916c8d3f6d9451d608e6cd751885c909e6749fd0db93178f85ad74024fc",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2017-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "cd057de81cdf91e717243f32bdab6f57f48de0cc8760b86b209d2a5b29ffaacd",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2018-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "a4096fd08b9f7de11552d75327f39c23d3c883a793b64761f1b4c218abb74437",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2019-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "817ded7ad254ac5163ff089bc8f66e2e75f4cee9b83c6d59e52b87ae31b8ff1a",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2020-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "4fececd0d244e6514a0150be9bcf7115235698cc2e1477660a369340edc68041",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2021-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "bfb27ee35ec40766c31217303fa884d1a87755a1a14e7108365223e3d0f391d4",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2022-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "780f2ac9ac3958212e3bb17ba956d7111996a14f1a1098344007156c5f55d7fa",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2023-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "702280944c7ba489a1b1a884a515944d42094eeeecf76f2516c12ba63d47516b",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2024-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "7e96820f19ed169fd9558ab6208746028b2dd154f7262c9f84cf29a7b43266db",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2025-12-31",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "606048bbfa28633c3181cdb9359cedfa20abe76ef21077a441facb0dc2b23171",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "FodelseLan",
+      "variable": "Födelselän",
+      "register_version": "2026-09-30 preliminär",
+      "source_task_id": "8854c4d3ce04e9a35cba4923f7eae53c6dbe8d5d563a5389b07b788384f9a1d4",
+      "id": "026100343b01a212cdb86c46ec593ab30fd1b82cfb54a4667d8ebcee985147b3",
+      "domain_id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "FodelseLan",
+          "ar_raw": null,
+          "kallrad": 441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2002-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "3abcebf2617d22f44fd1dd9df47c7a22e0023a6ec350f8dbf1dcfcd04e384294",
+      "domain_id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2003-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "b49890038c21546b8e66bc658248a6106e3fcc5673b08acefffc9cb0ffaff425",
+      "domain_id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2004-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "c9b758e07664fe18d43dbbfd3d52acbb2e6a68299270070e230e7c9da57d8620",
+      "domain_id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2005-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "b42e3d9a27043f1e602601edb198b91758b749ae4eb53b4d5595c4b16d6ec1f1",
+      "domain_id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2006-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "4623973ef04fb9d085d2f9c92e5e8fd2f245f22a0635a8e0341dad8ab9fad5e8",
+      "domain_id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2007-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "b4d6365c75b9834d6f33ca594fa1c3148e7617286cc83eb8a81643e204f8c0c4",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2008-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "81de5aab2c51904153eceb3fd856874aa3fbe5da6e54e339ca8969d34cd3e0c2",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2009-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "a14e37b7f0d2d21b90b2169291ecd470edcd8a5d2301adf192e0cf2b07fb2a77",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2010-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "008564d80a349cd07c2796d0b0cbde64ba1e09530474393ddcf3044fadbee85a",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2011-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "6640150aaeaec972e0e1bbf5fa46c92a85616ab6beffed28cdff62f137d8c853",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2012-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "57b4011bc7d4fd8a1eeaa66f096bb2ca1310d30931d8cb805d3994f07e73f153",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2013-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "bc43589d39701e90899c13124d6801cd312fcf6621d2115de9334137510c5315",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2014-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "ccb2a20c952a48e5124c3caaf43b7674da15c1811c9cb972ab96d200310ccb3c",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2015-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "e12690708a67602889f34b59c2f5612c5ed2c5461dd032a0e9c625f41ae35f1d",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2016-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "691774b2bc45958b1994930307e97667c0032cd04ecb77a4d469f7c9f07cd8c8",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2017-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "98855c8b9d7e429c6749dfc6be380cc73088f27c1ff6ff9ab891f4b293ab6e21",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2018-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "a885d0b7f0b60a18855bf68b5ed27bf565c7248372aea125632549f57fb9cea6",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2019-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "7ce0b27caae31053c0fcbcc5b811cb8988af2f1c490529a888c57cc324a4f980",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2020-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "2c4218264d62df9a80900dbfa55004d84a32d0c9219715444eb0148e73d37b88",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2021-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "77835540eae93f6c484990bcce149433ad20833921f89491a9b6374e886f2a71",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2022-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "2b44d699e63a8e705eb22f2df69b1a32bb0ea6b13f836795672d74f3b7debd74",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2023-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "c409a1311b7e54c7cc3366b7773704edcadd27876456597e8a6d656f275bd772",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2024-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "5d1cad3383aacf8d04d34d8a1f56a72e227973eff3d6287cf46df50a03fb422a",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2025-12-31",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "c89f34e260aa51a256ac2de15b5a95d0ed81e0956b3ed3e6c65bde9d656f2d4c",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakg",
+      "variable": "Utländsk/svensk bakgrund",
+      "register_version": "2026-09-30 preliminär",
+      "source_task_id": "ef2b07387657de499d8bc5903ac9d57245047182fe27f349dfc9f2c3270bcb74",
+      "id": "49cce9b6a3cc07dbe02c8ea25aa3241ed2bc6429aa0e1376ca5fc5c92b83b29b",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakg",
+          "ar_raw": null,
+          "kallrad": 444,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2002-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "5041dfcafb199bb09f24597576524d9e1090dde3eb5f3a3ae2a3c4ec2f54911a",
+      "domain_id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2003-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "1073b8d7a3927ff11658eb606a9a7f0eca4b7a1e77ac11aa29cadb472d652820",
+      "domain_id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2004-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "96e4d7a97a797d1d2b8090a5adc7e03aae452a0b47efd81f408232fb777ff8ed",
+      "domain_id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2005-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "cfa7ae15cb19a3022101c35615514054e36cdbcc491e5624f85c6b7597f7f902",
+      "domain_id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2006-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "062a037b5bcbb1515e3e63a8a76b37d690982b5fac372c93163fce654bad0a9e",
+      "domain_id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2007-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "beafb1f99ade07f53ef1fa346ffd2d6476b5fb87bb1fbcb340aca1289aaed2c5",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2008-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "6e5335db1209e0068d381a4ee79d4def4df16517242cc12b5c76d6c6014bc810",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2009-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "3cc97c00ca6c28b859c958b9cbcb4d5711df7bc8e74fc14cb6eb896caa9be54f",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2010-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "38e65cff1f0c3eda76abf370d514a009e011629338524bbc52cd9e5644b27ef2",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2011-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "a938bca0df6a78b58baa8e407e9d7397bd9e7c7a4083096df548856bab1d1d11",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2012-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "aa15e110fe3dcd819f28b3583f3861bab39aa1d18bb3e3d6cf70e2efb395dc7a",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2013-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "03a845aa924cb27a3d79cb1188d0dec194cecbfa1ae8032854a0fa09f90150ba",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2014-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "edef2aa84170523938024b6f09b41dc4832f032cf4620a85ab3b1886f3645a7b",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2015-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "06d001f7f3ac68e0ac34ff1427194ba3577f468632f2a6baa4c69cac97bdd76b",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2016-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "02f5a08bd36ca2ad88ebfa918acaef524b0372a86be99974426f7fdc8cfaba44",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2017-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "647d7e59a6b2175625b3235607d72b40190b71befbd55afccd204cd15e166a13",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2018-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "55d37ebe4cab66520a81ec5ff0c8741a3fcab74284942c8a3321687a4e98efdd",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2019-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "525fd5c1eebe8f99cda7ff0d7f08f127888fbc81f03652d6f97aa4fb3b53d8d2",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2020-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "9a7786f06bae03aeaed995b4a6173d0bd092fc6f510fb5882ca2d5a78c6b3602",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2021-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "3790babd540a5a109ea5f6e069f8d759450926e495346e91de6c61c25517b177",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2022-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "5ee5e91c00c033135d2c3f2055529d6b9f632b171c7e106fc1bd2e900393a8a9",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2023-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "458e5bba2132bfc14be2458f4c6b0fdaf8095966a0fb2f427d68a0cc64cbb55d",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2024-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "29212c2a02520c6aa3a128120bd3cb41a7f0e051781c26c79e5aec98e4d9180f",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2025-12-31",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "78519c95d276601628ae2314b531af7fcde7bb32df3aa9d2a3109888807c64de",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Folkbokförda personer",
+      "column": "UtlSvBakgAlt",
+      "variable": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "register_version": "2026-09-30 preliminär",
+      "source_task_id": "7750395bdd27932bffaa0935b94f7b9b66dcac5b5497a82b1199988c4ef84b67",
+      "id": "fbedd30d03ae6711a931d1e10e46fde5541fe386cc0fbd7d6b014334d6a23c7a",
+      "domain_id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:37:20+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fodelseuppg",
+          "variabel": "UtlSvBakgAlt",
+          "ar_raw": null,
+          "kallrad": 445,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(30)",
+      "id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "value_count": 0,
+      "path": "data/value-domain-values/68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f.json"
+    },
+    {
+      "version": "Län historisk i befolkningsstatistiken",
+      "level": "Län historisk i befolkningsstatistiken",
+      "data_type": "varchar(2)",
+      "id": "6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc",
+      "value_count": 34,
+      "path": "data/value-domain-values/6c3c6b0fef8db9be4bb295b4d7d6dd1c2f5e67e1ecbf872a4efcdfcc170166fc.json"
+    },
+    {
+      "version": "Län historisk i befolkningsstatistiken",
+      "level": "Län historisk i befolkningsstatistiken",
+      "data_type": "varchar(2)",
+      "id": "71cbb3223f46dd2561b08943f94af381b23f35e7651b4176d0bab72802fb2142",
+      "value_count": 35,
+      "path": "data/value-domain-values/71cbb3223f46dd2561b08943f94af381b23f35e7651b4176d0bab72802fb2142.json"
+    },
+    {
+      "version": "Län historisk i befolkningsstatistiken",
+      "level": "Län historisk i befolkningsstatistiken",
+      "data_type": "char(2)",
+      "id": "860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da",
+      "value_count": 34,
+      "path": "data/value-domain-values/860990b699c13e7d7b559023f48997e8039259f8534fb5dd9b1167aeebd900da.json"
+    },
+    {
+      "version": "Utländsk/svensk bakgrund",
+      "level": "Nivå 2",
+      "data_type": "char(2)",
+      "id": "aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3",
+      "value_count": 4,
+      "path": "data/value-domain-values/aa4493011b66f3e1de9beabac01e30cf2adda58808d6e45186349fea13b4c0b3.json"
+    },
+    {
+      "version": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "level": "Nivå2",
+      "data_type": "varchar(2)",
+      "id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5",
+      "value_count": 5,
+      "path": "data/value-domain-values/b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5.json"
+    },
+    {
+      "version": "Utländsk/svensk bakgrund (alternativ indelning)",
+      "level": "Nivå2",
+      "data_type": "char(2)",
+      "id": "d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f",
+      "value_count": 5,
+      "path": "data/value-domain-values/d02acca48beabb133d18bc65e2cddc70af2fa7b969bd2c10237772b5cf15b10f.json"
+    },
+    {
+      "version": "Utländsk/svensk bakgrund",
+      "level": "Nivå 2",
+      "data_type": "varchar(2)",
+      "id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "value_count": 4,
+      "path": "data/value-domain-values/f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "98411c8632db1e6651e31fa2fc4224c4fe6d4bc6200b0f6c57e985d5a1241de9",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "48963cfdde1cbd7d9409ee77c1d841d8e96d8972b6af1e85a2e8a75f27538865",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:37:20+00:00",
+    "task_count": 8,
+    "expected_bindings": 97,
+    "errors": []
+  }
+}

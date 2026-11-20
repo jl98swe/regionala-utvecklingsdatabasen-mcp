@@ -1,0 +1,28 @@
+{
+  "version": "Utländsk/svensk bakgrund (alternativ indelning)",
+  "level": "Nivå2",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "11",
+      "label": "Utrikes född med två utrikes födda föräldrar"
+    },
+    {
+      "code": "12",
+      "label": "Inrikes född med två utrikes födda föräldrar"
+    },
+    {
+      "code": "21",
+      "label": "Utrikes född med minst en inrikes född förälder"
+    },
+    {
+      "code": "22",
+      "label": "Inrikes född med en  inrikes och en utrikes född förälder"
+    },
+    {
+      "code": "23",
+      "label": "Inrikes född med två inrikes födda föräldrar"
+    }
+  ],
+  "id": "b17dabe1248a118804a0e9cbe0e22034ca36ff04e231ef11cb92c468a013d8d5"
+}
