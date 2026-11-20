@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "161e9b54e64c9e630519",
+  "register": "Universitets- och högskoleregistret ",
+  "variant": "Grundutb, avklarade poäng",
+  "bindings": [
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutb, avklarade poäng",
+      "column": "Ar",
+      "variable": "År för avlagda poäng",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "994b2972c71f3ec3a866f1e78c1e3481fa164e3bdd5f4ba6bea0d4b30bfcf18f",
+      "id": "7c67c096afe7e15ebe6edf866c5115039c3e0efe6e242b03ea29ece4c23901b6",
+      "domain_id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:49:31+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_poang",
+          "variabel": "Ar",
+          "ar_raw": null,
+          "kallrad": 3163,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutb, avklarade poäng",
+      "column": "Hskod",
+      "variable": "Universitet/högskola",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "266fffa01650109793557cc32e898afb5c407a87c6ba1c9a407c388f15e7b189",
+      "id": "b2c539f5d532a7454da3d1cebd7ffbd42d62983da0b9d424778cb50a75873529",
+      "domain_id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:49:31+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_poang",
+          "variabel": "HsKod",
+          "ar_raw": null,
+          "kallrad": 3165,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutb, avklarade poäng",
+      "column": "Termin",
+      "variable": "Termin för avklarade poäng",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "fdb5336370ccb1ba6d6c601b6c6d8cf68bae6642f95e88beef9837ec5cb142fe",
+      "id": "2197f3e566fde446e65efd053e3e896aa508d64e5b5fa15b5ee2c2f54006e1b4",
+      "domain_id": "8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:49:31+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_poang",
+          "variabel": "Termin",
+          "ar_raw": null,
+          "kallrad": 3168,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutb, avklarade poäng",
+      "column": "TillGodo",
+      "variable": "Tillgodoräknande",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "c776437d9462cb7b38c6de0c398ccc71c780c4f1a5ee18254ab006f0a694e501",
+      "id": "564768ae2e92312e3b6235894abae3dea22b5d9b986f87c5b3a2b889f3fa3f54",
+      "domain_id": "8857fc8143dd8809f8a1e0d7f0761e9931a584beded53716628746304d21ce6d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:49:31+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_poang",
+          "variabel": "TillGodo",
+          "ar_raw": null,
+          "kallrad": 3169,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutb, avklarade poäng",
+      "column": "Ufo",
+      "variable": "Undervisningsform",
+      "register_version": "Läsåren 1993/1994 - 2025/2026",
+      "source_task_id": "b5616659d032a8a6ee3b68d082a1823b5862d086156d672d62c4ac06f50eedbe",
+      "id": "36d0a823449452f0e3f1d96b0a86c9d5727a65b969d8a5285f9bd39385d58cf2",
+      "domain_id": "84f17f495cbeed581b2d20acfcbebd6906823d9053364f432b5def33a071c46a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-20T22:49:31+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_poang",
+          "variabel": "Ufo",
+          "ar_raw": null,
+          "kallrad": 3171,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "Utbildningsform  ",
+      "level": "Undervisningsform",
+      "data_type": "char(3)",
+      "id": "84f17f495cbeed581b2d20acfcbebd6906823d9053364f432b5def33a071c46a",
+      "value_count": 3,
+      "path": "data/value-domain-values/84f17f495cbeed581b2d20acfcbebd6906823d9053364f432b5def33a071c46a.json"
+    },
+    {
+      "version": "Termin, alternativ 4",
+      "level": "Termin, alternativ 4",
+      "data_type": "char(1)",
+      "id": "8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb",
+      "value_count": 4,
+      "path": "data/value-domain-values/8856ad217a3b593e890390c36efbc0639c68b6c699c933163626f306099bc3cb.json"
+    },
+    {
+      "version": "Tillgodoräknade poäng",
+      "level": "Tillgodoräknade poäng",
+      "data_type": "char(1)",
+      "id": "8857fc8143dd8809f8a1e0d7f0761e9931a584beded53716628746304d21ce6d",
+      "value_count": 8,
+      "path": "data/value-domain-values/8857fc8143dd8809f8a1e0d7f0761e9931a584beded53716628746304d21ce6d.json"
+    },
+    {
+      "version": "År",
+      "level": "Årtal fr.o.m. 1900 och framåt",
+      "data_type": "char(4)",
+      "id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "value_count": 127,
+      "path": "data/value-domain-values/aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c.json"
+    },
+    {
+      "version": "Universitet/högskolor",
+      "level": "Universitet/högskolor",
+      "data_type": "char(3)",
+      "id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "value_count": 136,
+      "path": "data/value-domain-values/e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "557c121fdcf36ff23582bc1e230d5e0da231b8fa119c14cd658893a8c3b81b46",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-20T22:49:31+00:00",
+    "task_count": 5,
+    "expected_bindings": 5,
+    "errors": []
+  }
+}
