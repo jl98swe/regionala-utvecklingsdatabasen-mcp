@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "float"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Min andel som medhjälpande make (+)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Min andel som medhjälpande make (ökning av resulatet)\r\n"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Räkenskapsutdrag  (SRU) : Bilaga NE"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "SRU-uppgifer för enskilda näringsidkare år 2011"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga företag i Sverige vilka bedriver enskild näringsverksamhet"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Samtliga enskilda näringsidkare vilka lämnat in en deklaration för referensåret. \r\n\r\n\r\n"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2011-01-01 - 2011-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet består av uppgifter från Skatteverkets SRU-material (Standardiserade räkenskapsutdrag) samt uppgifter från andra administrativa källor inom SCB."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Företagsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "En företagsenhet (FE) är en organisatorisk enhet som producerar varor eller tjänster. Enheten har själv beslutanderätt, särskilt för hur den fördelar sina produktionsresurser. En företagsenhet bedriver en eller flera verksamheter vid en eller flera platser. Dessutom har företagsenhet en fullständig bokföring, om inte ska det vara möjligt och meningsfullt, både från ekonomisk och juridisk synpunkt, att sammanställa en fullständig bokföring om så krävs."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Deklarationsuppgifter för enskilda näringsidkare"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Enskilda näringsidkare"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Redovisar inkomna uppgifter från enskilda näringsidkares deklarationer och vissa individuppgifter som kan kopplas till dessa."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsregister och individdatabas (FRIDA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "FRIDA"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "FRIDA utgör en grund vid skatteeffekts- och prognosberäkningar. Databasen kan också användas till uttag av data för statistisk analys samt vid användandet av mikrosimuleringsmodeller. Modellerna ger information om hur företagen skulle kunna anpassa sina beteenden vid olika förändringar i skattelagstiftningen."
+    }
+  ],
+  "id": "539ef62e43e43ac6debbe26a6afd8de5af19d25a22c3ed26c9232540c2f56fc0"
+}
