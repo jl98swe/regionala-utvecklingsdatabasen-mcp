@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T11:23:54+00:00",
+  "checked_at": "2026-11-21T11:30:40+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 8770,
-    "documentation": 8515,
-    "nonempty_definition": 8515,
-    "nonempty_method": 8515,
-    "verified_domains": 8738,
-    "enumerated": 4252,
+    "bindings": 8817,
+    "documentation": 8562,
+    "nonempty_definition": 8562,
+    "nonempty_method": 8562,
+    "verified_domains": 8785,
+    "enumerated": 4299,
     "not_enumerated": 4486,
-    "complete_groups": 32,
-    "groups_with_source_errors": 16,
+    "complete_groups": 34,
+    "groups_with_source_errors": 14,
     "documentation_only": 32,
     "groups": 51,
-    "unique_domains": 787
+    "unique_domains": 805
   },
   "integrity_errors": [],
   "groups": [
@@ -593,20 +593,17 @@
       "views": [
         "elevgymn"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 231,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
+      "bindings": 231,
+      "documentation": 231,
+      "nonempty_definition": 231,
+      "nonempty_method": 231,
+      "verified_domains": 231,
       "not_enumerated": 36,
-      "enumerated": 164,
-      "source_errors": 5,
-      "source_error_examples": [
-        "Stvkod 15 oktober 2012: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Studievägskod 2, gymnasieskolan ', 'Vardemangdsniva': 'Studievägskod', 'Vardekod': 'EKEKNVS', 'Vardebenamning': 'Ekonomiprogrammet; Särskild variant, internationell ekonomi (spetsutbildning)', 'Kolumnnamn': None, 'Datatyp': None}",
-        "Stvkod 15 oktober 2011: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Studievägskod 2, gymnasieskolan ', 'Vardemangdsniva': 'Studievägskod', 'Vardekod': 'EKEKNVS', 'Vardebenamning': 'Ekonomiprogrammet; Särskild variant, internationell ekonomi (spetsutbildning)', 'Kolumnnamn': None, 'Datatyp': None}"
-      ]
+      "enumerated": 195,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "6e642322b112c54f06b1",
@@ -898,20 +895,17 @@
       "views": [
         "uhv"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 170,
-      "bindings": 154,
-      "documentation": 154,
-      "nonempty_definition": 154,
-      "nonempty_method": 154,
-      "verified_domains": 154,
+      "bindings": 170,
+      "documentation": 170,
+      "nonempty_definition": 170,
+      "nonempty_method": 170,
+      "verified_domains": 170,
       "not_enumerated": 92,
-      "enumerated": 62,
-      "source_errors": 16,
-      "source_error_examples": [
-        "Varukod 2016: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2016', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
-        "Varukod 2015: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2015    ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och"
-      ]
+      "enumerated": 78,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "32074cbb551b02aadec3",
@@ -953,7 +947,7 @@
       "documented_columns": 59
     },
     "elevgymn": {
-      "documented_versions": 200,
+      "documented_versions": 231,
       "documented_columns": 16
     },
     "esf": {
@@ -1157,7 +1151,7 @@
       "documented_columns": 304
     },
     "uhv": {
-      "documented_versions": 280,
+      "documented_versions": 296,
       "documented_columns": 6
     },
     "yh_stud": {
