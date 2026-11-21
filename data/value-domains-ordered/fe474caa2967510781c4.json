@@ -10695,15 +10695,16 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "da773338a3cd449c85795eac562c4e732b454add79a5576069f98910bca86dd3",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T10:10:58+00:00",
+    "retrieved_at": "2026-11-21T11:58:18+00:00",
     "task_count": 10,
     "expected_bindings": 286,
     "documented_bindings": 286,
-    "errors": []
+    "errors": [],
+    "stalled_passes": 1
   }
 }
