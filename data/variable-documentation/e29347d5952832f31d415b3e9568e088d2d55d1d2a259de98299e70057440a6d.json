@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "AST-nummer"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Identitetsnummer för AST-enheter. I kombination med PeOrgNr och CFAR-nummer bildar AST-nummer en unik identitet, där AST-numret måste vara unikt inom ett organisationsnummer. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Ett arbetsställe till flerarbetsställeföretag ska minst ha ett AST-nummer. Företagen avgör vilka AST-nummer som ska användas och anges på kontrolluppgifter till löntagare och skattemyndighet.\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Kontroll av uppgifter i SCB:s Företagsdatabas"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "ID-nummer"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "AST-enheten representerar ett företags arbetsställeindelning och måste entydigt kunna kopplas till endast ett arbetsställe. Däremot kan ett arbetsställe kan bestå av flera AST-enheter."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga administrativa arbetsställeenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "AST- enheten är företagets egen arbetsställeindelning. En AST- enhet måste entydigt kunna knytas till ett och endast ett arbetsställe, medan ett arbetsställe kan bestå av flera AST-enheter"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Samtliga administrativa arbetsställeenheter (AST) som var registrerade år 2023."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-11-24"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "En AST-enhet skapas av SCB när en juridisk enhet har fler än ett arbetställe. Ett arbetsställe kan ha en eller flera AST-enheter och varje AST-enhet får ett identitetsnummer som är unikt för den juridiska enhet den tillhör. Arbetsgivaren kan själv ange identitetsnummer för sina AST-enheter eller använda de som SCB skapar. \r\n\r\nStocken av AST-enheter kontrolleras årligen av SCB via undersökningen Kontroll av uppgifter i SCB:s Företagsdatabas. AST-enheternas identitetsnummer anges av arbetsgivarna i kontrolluppgifterna och SCB använder dem sedan för att knyta en anställd till rätt arbetsställe. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Administrativ arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Administrativ arbetsställeenhet"
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Administrativa arbetsställen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "AST-enheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "AST- enheten är företagets egen arbetsställeindelning. En AST- enhet måste entydigt kunna knytas till ett och endast ett arbetsställe, medan ett arbetsställe kan bestå av flera AST-enheter."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "e29347d5952832f31d415b3e9568e088d2d55d1d2a259de98299e70057440a6d"
+}

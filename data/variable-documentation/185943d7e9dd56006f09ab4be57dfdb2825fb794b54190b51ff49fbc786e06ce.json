@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(5)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Näringsgren"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Klassificering av produktionsenhetens näringsgren/bransch."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Näringsgren för AST-enheten. Det är inte en obligatorisk uppgift och används när det finns fler AST-enheter, främst för juridisk form 82 och 84."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Kontroll av uppgifter i SCB:s Företagsdatabas"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "AST-enheten representerar ett företags arbetsställeindelning och måste entydigt kunna kopplas till endast ett arbetsställe. Däremot kan ett arbetsställe kan bestå av flera AST-enheter."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga administrativa arbetsställeenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "AST- enheten är företagets egen arbetsställeindelning. En AST- enhet måste entydigt kunna knytas till ett och endast ett arbetsställe, medan ett arbetsställe kan bestå av flera AST-enheter"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Samtliga administrativa arbetsställeenheter (AST) som var registrerade år 2006."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2006-11-24"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "En AST-enhet skapas av SCB när en juridisk enhet har fler än ett arbetställe. Ett arbetsställe kan ha en eller flera AST-enheter och varje AST-enhet får ett identitetsnummer som är unikt för den juridiska enhet den tillhör. Arbetsgivaren kan själv ange identitetsnummer för sina AST-enheter eller använda de som SCB skapar. \r\n\r\nStocken av AST-enheter kontrolleras årligen av SCB via undersökningen Kontroll av uppgifter i SCB:s Företagsdatabas. AST-enheternas identitetsnummer anges av arbetsgivarna i kontrolluppgifterna och SCB använder dem sedan för att knyta en anställd till rätt arbetsställe. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Administrativ arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Administrativ arbetsställeenhet"
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Administrativa arbetsställen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "AST-enheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "AST- enheten är företagets egen arbetsställeindelning. En AST- enhet måste entydigt kunna knytas till ett och endast ett arbetsställe, medan ett arbetsställe kan bestå av flera AST-enheter."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "185943d7e9dd56006f09ab4be57dfdb2825fb794b54190b51ff49fbc786e06ce"
+}

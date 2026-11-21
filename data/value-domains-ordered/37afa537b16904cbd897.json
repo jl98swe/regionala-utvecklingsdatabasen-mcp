@@ -10,6 +10,238 @@
       "variant": "AST-enheter",
       "column": "ASTNr",
       "variable": "AST-nummer",
+      "register_version": "1999",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "3da362dbc24a1a4abb4d4fd953829fff415b30b8ba1e41ce2d68f30ffa80b045",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09021715cc870c9b57bec6c9d57f09eec523f46fb6dcd46334f17794e9933ee0",
+        "path": "data/variable-documentation/09021715cc870c9b57bec6c9d57f09eec523f46fb6dcd46334f17794e9933ee0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2000",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "55e1dffa17a7454a76b3afaeb82c21a67dc3a2a297f6964c69bc39b7455fa0b8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fedccb3e10a0bd7d97a7894484405b380e72fe533320a18d9d0f672f8cf3d741",
+        "path": "data/variable-documentation/fedccb3e10a0bd7d97a7894484405b380e72fe533320a18d9d0f672f8cf3d741.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2001",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "749a7083249a96a6899f74244a1552ba0332c55038e0e2e5ff6c9b1219257f34",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "30ded7a2a2f530d135cf537b8fc3a012d85d0db2aa83b14c472a6375d8af8208",
+        "path": "data/variable-documentation/30ded7a2a2f530d135cf537b8fc3a012d85d0db2aa83b14c472a6375d8af8208.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2002",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "70ee620495577d8783e90b9cc0d599a3c788ffc796dfaab48d3b6bce8ea58c5b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3ece27490c6540e42e6057d1bc5bd9b29d46ec264f758a10086ef8ae3a185bec",
+        "path": "data/variable-documentation/3ece27490c6540e42e6057d1bc5bd9b29d46ec264f758a10086ef8ae3a185bec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2003",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "42d7148cc6d22658069dd780e73f11e1b149eecfd5a4e5c17d7a8ebc2260067f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a7a8fe8476fdffbae3c8f00c842f22502532d7e606417d43fbc33a3703cda1b0",
+        "path": "data/variable-documentation/a7a8fe8476fdffbae3c8f00c842f22502532d7e606417d43fbc33a3703cda1b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2004",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "3206c252e7e2dc0f73e8f3f6878083fed2272bd0ef79612ad77931cd012c1811",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5df7b7e02fefe75fe2b68bac6d554de82f450cea034ef4e8d24f1a3919b432e3",
+        "path": "data/variable-documentation/5df7b7e02fefe75fe2b68bac6d554de82f450cea034ef4e8d24f1a3919b432e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2005",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "067cc22e814a47af7b75ad59282caf69cfaf5d2f5a58cca448c830915f1765b2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee4f900419d034be096ccd3d09f334f771f385d018a0e4cc59eadcdaf4c278e0",
+        "path": "data/variable-documentation/ee4f900419d034be096ccd3d09f334f771f385d018a0e4cc59eadcdaf4c278e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
+      "register_version": "2006",
+      "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
+      "id": "6456b81138f0bf6b267e4b10b615f48f23ec7592c9328edb6255eb14cfe9499f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstNr",
+          "ar_raw": "1999-2024",
+          "kallrad": 316,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cde22796aa3ce2a74f42b77d2865b6c4f929b40b5ef867313a54a38f66adc175",
+        "path": "data/variable-documentation/cde22796aa3ce2a74f42b77d2865b6c4f929b40b5ef867313a54a38f66adc175.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTNr",
+      "variable": "AST-nummer",
       "register_version": "2007",
       "source_task_id": "092cbbac08067d9156faf39bee590a7a4a88247861a7f926d3fef0340b559064",
       "id": "492af86fd3037573754a820940fa23199b8f0ae3fca44cbf5a47ce9c713646c5",
@@ -27,7 +259,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a6f974b0556ed9d76881462a2e61b550b47d5a3c007afbd0188f334bc16ba8bd",
+        "path": "data/variable-documentation/a6f974b0556ed9d76881462a2e61b550b47d5a3c007afbd0188f334bc16ba8bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -51,7 +288,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4cc0bbe1f6ad696548a52a8f7f22bf891de3ddc5a198f5131f117beea8faf3f1",
+        "path": "data/variable-documentation/4cc0bbe1f6ad696548a52a8f7f22bf891de3ddc5a198f5131f117beea8faf3f1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -75,7 +317,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ff5072f9029e0c2f6a535af5df18d082478f8f09b75c6e96d2f87dbbade02719",
+        "path": "data/variable-documentation/ff5072f9029e0c2f6a535af5df18d082478f8f09b75c6e96d2f87dbbade02719.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -99,7 +346,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01ddfa158b4cdce6153cce55afc2120eda2b6e1b213b127e726db4a26e41492d",
+        "path": "data/variable-documentation/01ddfa158b4cdce6153cce55afc2120eda2b6e1b213b127e726db4a26e41492d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -123,7 +375,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad92feff868bb65d1e0b62bf1b20641e04d222ad255703e6053f7af241551f99",
+        "path": "data/variable-documentation/ad92feff868bb65d1e0b62bf1b20641e04d222ad255703e6053f7af241551f99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -147,7 +404,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ae323195def1c55751c20f0cfe721d4cb2d9f5881ab392ac6726ac44f25c64cf",
+        "path": "data/variable-documentation/ae323195def1c55751c20f0cfe721d4cb2d9f5881ab392ac6726ac44f25c64cf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -171,7 +433,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "884454ee74af64becf3ff11b433b7aed254543350c5ac83683a7ad8c24e97e0c",
+        "path": "data/variable-documentation/884454ee74af64becf3ff11b433b7aed254543350c5ac83683a7ad8c24e97e0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -195,7 +462,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01ba97634ca16502c69aa6030dc5ae2aa0b9fbb0ba9c3d8cef52741c2ebd172b",
+        "path": "data/variable-documentation/01ba97634ca16502c69aa6030dc5ae2aa0b9fbb0ba9c3d8cef52741c2ebd172b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -219,7 +491,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2e7a0e98bde4d6d47721691e78b770ab1c935ade6f87c1b7734461786d7feceb",
+        "path": "data/variable-documentation/2e7a0e98bde4d6d47721691e78b770ab1c935ade6f87c1b7734461786d7feceb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -243,7 +520,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "23d09598cc35d1f975237d4303e04b0ba4bb28c4eec7d64dae9b1f708b1fdc96",
+        "path": "data/variable-documentation/23d09598cc35d1f975237d4303e04b0ba4bb28c4eec7d64dae9b1f708b1fdc96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -267,7 +549,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f2f99aaf12dd315f3e1fec44cb2c3886c6120f6642899d47bbe7a5ee8cb689a2",
+        "path": "data/variable-documentation/f2f99aaf12dd315f3e1fec44cb2c3886c6120f6642899d47bbe7a5ee8cb689a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -291,7 +578,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "686a4e16ea0d138c8b1dbe7e8fad33d4bb9d933ed0d12baceb4f8a5f06f9578b",
+        "path": "data/variable-documentation/686a4e16ea0d138c8b1dbe7e8fad33d4bb9d933ed0d12baceb4f8a5f06f9578b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -315,7 +607,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ff646789fd8e8896d6cbfc416799b87fe4fe000fde8adfb83b548cec0cc8747",
+        "path": "data/variable-documentation/2ff646789fd8e8896d6cbfc416799b87fe4fe000fde8adfb83b548cec0cc8747.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -339,7 +636,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c4e435b9a2af3562b6a90b807df8b15e5da2b49c1cdbd92fe247d48bb3f5334",
+        "path": "data/variable-documentation/1c4e435b9a2af3562b6a90b807df8b15e5da2b49c1cdbd92fe247d48bb3f5334.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -363,7 +665,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f32446032c799bbaac66b1951aef230f72afd034d01d036c3fadfdc0ae591c8a",
+        "path": "data/variable-documentation/f32446032c799bbaac66b1951aef230f72afd034d01d036c3fadfdc0ae591c8a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -387,7 +694,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "166f2eca09b2baac8b7f3d73105f9c64fae89400cfb4279fb29e27033fa716ca",
+        "path": "data/variable-documentation/166f2eca09b2baac8b7f3d73105f9c64fae89400cfb4279fb29e27033fa716ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -411,7 +723,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e29347d5952832f31d415b3e9568e088d2d55d1d2a259de98299e70057440a6d",
+        "path": "data/variable-documentation/e29347d5952832f31d415b3e9568e088d2d55d1d2a259de98299e70057440a6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -435,7 +752,244 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0ea19e1dcb415b595bf5319bbde8e92653223e4d5cbee2907cb51d7144cd8440",
+        "path": "data/variable-documentation/0ea19e1dcb415b595bf5319bbde8e92653223e4d5cbee2907cb51d7144cd8440.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "1999",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "f073c50a0a7a5567d989f8c12936ba969875c5fec05a1c37880a6f57485f1974",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1aeacaee6e38d2d1e8b845c9614015d69783b18b8c9ced60c725c665103a1eb5",
+        "path": "data/variable-documentation/1aeacaee6e38d2d1e8b845c9614015d69783b18b8c9ced60c725c665103a1eb5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2000",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "bba0f9c042527a04741fa7a2b987f32aa85979e9e457a720f37b1546d9e323c5",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a32514b3064c662ffb5a8e3c3ee030edcf44bb823c69e943526767aebbfe5371",
+        "path": "data/variable-documentation/a32514b3064c662ffb5a8e3c3ee030edcf44bb823c69e943526767aebbfe5371.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2001",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "c81d5ff30193c9764d8808749be84d0eda365f38bcde788e09e5da06c86df453",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd8e3f1589b4cb8420eb1fc36c510a642055d82aebe5f30a8b38c7c04cd627fe",
+        "path": "data/variable-documentation/dd8e3f1589b4cb8420eb1fc36c510a642055d82aebe5f30a8b38c7c04cd627fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2002",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "81dc00aec181de8279136d685e435c7124a5d00c8d4980fbdb0d1c89aa542748",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c5dc8d9926d20113fb58ecebed6357e4c885154c274eb5f704b9de1b9e593f3",
+        "path": "data/variable-documentation/1c5dc8d9926d20113fb58ecebed6357e4c885154c274eb5f704b9de1b9e593f3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2003",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "777557026a4236617bb5b5509e33eaf75877fff8aecac55b4783ed10eb319965",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "29c351dd77197d715bf4e0ddb595f9eac1a3a72fc7af29db7ec16e9e4ac85e0c",
+        "path": "data/variable-documentation/29c351dd77197d715bf4e0ddb595f9eac1a3a72fc7af29db7ec16e9e4ac85e0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2004",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "9eeff9a9fca6c2628f41637dba3a78212ba8f2975e8858c8e1a68eb8b250b005",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "596db3bb29b56b2175a16e2e76cfd31577f33f0ed5ad7856b35871fde03485f9",
+        "path": "data/variable-documentation/596db3bb29b56b2175a16e2e76cfd31577f33f0ed5ad7856b35871fde03485f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2005",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "c0ba3c82c59656b6f290634de33c4c8993a45a8f3daa108044688d70db54e762",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f42dc7601f1bd5579c755d941421916a19fde51de06615b99e7d8090e31eac21",
+        "path": "data/variable-documentation/f42dc7601f1bd5579c755d941421916a19fde51de06615b99e7d8090e31eac21.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "ASTStat",
+      "variable": "AST-status",
+      "register_version": "2006",
+      "source_task_id": "91747d3c62587b07b15419e6aa4fda9e74748c7894826280ba3662b9b4363fad",
+      "id": "d925c15d0e24b0ac6f3697ab84249c9e8d3cd2bc392e83bf401c5458686ff5cb",
+      "domain_id": "0623c6feff16d7d82c718a0e1c21512e9f6687a2779b78e3f9b2df882f983958",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "AstStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 317,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ecaae2a7ed0a4b754893e678ba073ed88ed8494f1441a8adee9be1ee3512814",
+        "path": "data/variable-documentation/1ecaae2a7ed0a4b754893e678ba073ed88ed8494f1441a8adee9be1ee3512814.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -459,7 +1013,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aafe70411602b91a36ea6c2850d7da823af2b687b64febc57294ed829e05b09e",
+        "path": "data/variable-documentation/aafe70411602b91a36ea6c2850d7da823af2b687b64febc57294ed829e05b09e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -483,7 +1042,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb5ff5e1a82a1ce99638ed58e0489efafede84b9f0ae7ef6dc2df7b37b2ff360",
+        "path": "data/variable-documentation/fb5ff5e1a82a1ce99638ed58e0489efafede84b9f0ae7ef6dc2df7b37b2ff360.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -507,7 +1071,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "62a4155a84904e8e141ed604ad461be18f99fa1a3e418aa521114f1c9ec0239e",
+        "path": "data/variable-documentation/62a4155a84904e8e141ed604ad461be18f99fa1a3e418aa521114f1c9ec0239e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -531,7 +1100,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d944323aa63b061bbd9aa5652d32744fef677df5bed4a32b5e2c0b037d893be5",
+        "path": "data/variable-documentation/d944323aa63b061bbd9aa5652d32744fef677df5bed4a32b5e2c0b037d893be5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -555,7 +1129,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f4ddee5433eacca32849ab4dcc86ef5bac890d7b8ef138882f0a303d2dec17df",
+        "path": "data/variable-documentation/f4ddee5433eacca32849ab4dcc86ef5bac890d7b8ef138882f0a303d2dec17df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -579,7 +1158,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "81995055e44dd60a90f32efb82d88e6b8b907a9d55b0950c7c9612882e03c16e",
+        "path": "data/variable-documentation/81995055e44dd60a90f32efb82d88e6b8b907a9d55b0950c7c9612882e03c16e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -603,7 +1187,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e57281887fa2721705dff97a782dd0042755f766e7768392b8a952aca5388b9e",
+        "path": "data/variable-documentation/e57281887fa2721705dff97a782dd0042755f766e7768392b8a952aca5388b9e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -627,7 +1216,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "61da96b9f53d0cdf326ad2b69f5baa311799644ec4b8136a918da57b7547d1f7",
+        "path": "data/variable-documentation/61da96b9f53d0cdf326ad2b69f5baa311799644ec4b8136a918da57b7547d1f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -651,7 +1245,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "793110a67e9221091cafca227cd0a432593d9033ccd421605b14d249cf116dfd",
+        "path": "data/variable-documentation/793110a67e9221091cafca227cd0a432593d9033ccd421605b14d249cf116dfd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -675,7 +1274,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b69d47d3f95e155782be2c01117377d0ccc529f3adab60b42d320dea2cdf53ac",
+        "path": "data/variable-documentation/b69d47d3f95e155782be2c01117377d0ccc529f3adab60b42d320dea2cdf53ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -699,7 +1303,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf170f34f045678cdfe56191f58e96358d44ad142102e95e6223ca3d81946d62",
+        "path": "data/variable-documentation/cf170f34f045678cdfe56191f58e96358d44ad142102e95e6223ca3d81946d62.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -723,7 +1332,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac95ba7ddc49d9672bc7c58b45ea4a734e859a1290a376c3acadf37e35b81ae2",
+        "path": "data/variable-documentation/ac95ba7ddc49d9672bc7c58b45ea4a734e859a1290a376c3acadf37e35b81ae2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -747,7 +1361,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a2ec861868d0d8c5be76500191291d69917ebd96d4ff9365f24b9b86745d17be",
+        "path": "data/variable-documentation/a2ec861868d0d8c5be76500191291d69917ebd96d4ff9365f24b9b86745d17be.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -771,7 +1390,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e1e2aab537dba139e2ab02522b653c7fc3690afafb37ca33115f1c6ec6c4aa2",
+        "path": "data/variable-documentation/8e1e2aab537dba139e2ab02522b653c7fc3690afafb37ca33115f1c6ec6c4aa2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -795,7 +1419,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9631bd56fadee977eb5ba830120981ea3adc3e6b11e06c66d45617652ab1d87d",
+        "path": "data/variable-documentation/9631bd56fadee977eb5ba830120981ea3adc3e6b11e06c66d45617652ab1d87d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -819,7 +1448,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "324f0f3c7f0f47596814a76f2c0f3a7aadfa758ad8c63e95fcb648fcd6dcc387",
+        "path": "data/variable-documentation/324f0f3c7f0f47596814a76f2c0f3a7aadfa758ad8c63e95fcb648fcd6dcc387.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -843,7 +1477,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4f9e930898a159525e1d55512ee04f4613d4ff3d06a83e1e7a4e833f2f0a0947",
+        "path": "data/variable-documentation/4f9e930898a159525e1d55512ee04f4613d4ff3d06a83e1e7a4e833f2f0a0947.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -867,7 +1506,70 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "24e33b08fc1fbaf6da8d4939aafcfd0e3181a136fc8a8a055c119afc7e73e0b5",
+        "path": "data/variable-documentation/24e33b08fc1fbaf6da8d4939aafcfd0e3181a136fc8a8a055c119afc7e73e0b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "KUAnt",
+      "variable": "Antal kontrolluppgifter",
+      "register_version": "1999",
+      "source_task_id": "ab3919a7cf521ba063bfecbd36dce21412cb3ec0d542f74f6a55d2879249ffaf",
+      "id": "c83ebcc8f764e7f6028f08e5452c913229512a42b9c41cb4a96b4a057591c664",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "KUAnt",
+          "ar_raw": "1999-2018",
+          "kallrad": 318,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5da0af9664d61fe2e8f51b38cac77e14d4d52d43b68154a5d7ef67f197398dce",
+        "path": "data/variable-documentation/5da0af9664d61fe2e8f51b38cac77e14d4d52d43b68154a5d7ef67f197398dce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "KUAnt",
+      "variable": "Antal kontrolluppgifter",
+      "register_version": "2000",
+      "source_task_id": "ab3919a7cf521ba063bfecbd36dce21412cb3ec0d542f74f6a55d2879249ffaf",
+      "id": "14b91480fef8059e845901954431d7fce28e9d0380433393aa070f78434897c2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "KUAnt",
+          "ar_raw": "1999-2018",
+          "kallrad": 318,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d2d0d0a87e38eb5eeb19e62a35d72e66837ee11119c146f022cfc00bc49256d7",
+        "path": "data/variable-documentation/d2d0d0a87e38eb5eeb19e62a35d72e66837ee11119c146f022cfc00bc49256d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -891,7 +1593,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9ee0cc0cc7e40bc2cdd01ca1910916095fe108a9548a0c13127eda0da0121133",
+        "path": "data/variable-documentation/9ee0cc0cc7e40bc2cdd01ca1910916095fe108a9548a0c13127eda0da0121133.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -915,7 +1622,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "120306f92f8ddffd9a6db983cb267618d57408acca98f3f1b8af8f5cfcb00db1",
+        "path": "data/variable-documentation/120306f92f8ddffd9a6db983cb267618d57408acca98f3f1b8af8f5cfcb00db1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -939,7 +1651,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bf381fd36c2bb525001c10bc69247299d1abfd5e2e92f73f8697b6b879316dc2",
+        "path": "data/variable-documentation/bf381fd36c2bb525001c10bc69247299d1abfd5e2e92f73f8697b6b879316dc2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -963,7 +1680,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e87c38988df73c429f3c521c031a37531e96f331fd66ba3c78e4058f18c7b91",
+        "path": "data/variable-documentation/6e87c38988df73c429f3c521c031a37531e96f331fd66ba3c78e4058f18c7b91.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -987,7 +1709,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f4d7c76260780cc3ce209c6dc00666d1c5494edc4224c8a742ec9da75d1d38b6",
+        "path": "data/variable-documentation/f4d7c76260780cc3ce209c6dc00666d1c5494edc4224c8a742ec9da75d1d38b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1011,7 +1738,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "82dac0ae62af09eb996fcc1af600b407a8078037419ab36eda1fe2fda7f94d4c",
+        "path": "data/variable-documentation/82dac0ae62af09eb996fcc1af600b407a8078037419ab36eda1fe2fda7f94d4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1035,7 +1767,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89f37890487cc5e04402acf169afe53f7d9e1b0c43cf6d7cf797cc31166bf5a9",
+        "path": "data/variable-documentation/89f37890487cc5e04402acf169afe53f7d9e1b0c43cf6d7cf797cc31166bf5a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1059,7 +1796,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "551a58f2ba6db7e963ff077828e2fbe3a37f895c148eee52b32a2a811b2ac1ad",
+        "path": "data/variable-documentation/551a58f2ba6db7e963ff077828e2fbe3a37f895c148eee52b32a2a811b2ac1ad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1083,7 +1825,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "803d502905658eb2f5dd5599882b25e997eea1caeafdea493d14766f0e29c25e",
+        "path": "data/variable-documentation/803d502905658eb2f5dd5599882b25e997eea1caeafdea493d14766f0e29c25e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1107,7 +1854,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "793fe247b0f5b5ab3358039a4d848cefd700715f58b2a93f278d2be1df5a1b8b",
+        "path": "data/variable-documentation/793fe247b0f5b5ab3358039a4d848cefd700715f58b2a93f278d2be1df5a1b8b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1131,7 +1883,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3510937ca0fb78a89a6e4d91205b4153d8945251b5be0e8f24730e88632491b",
+        "path": "data/variable-documentation/b3510937ca0fb78a89a6e4d91205b4153d8945251b5be0e8f24730e88632491b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1155,7 +1912,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ab0fb58bf8afcb617248c3fb22d5653b233a05def809a28ba53f86276bce96aa",
+        "path": "data/variable-documentation/ab0fb58bf8afcb617248c3fb22d5653b233a05def809a28ba53f86276bce96aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1179,7 +1941,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a25414b38646885fc38bba510a8bc888c6a0737f341482475ae54d5874fa612b",
+        "path": "data/variable-documentation/a25414b38646885fc38bba510a8bc888c6a0737f341482475ae54d5874fa612b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1203,7 +1970,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ef0160e4cfec3990a19fbcb8c857f73efa2dbcf995f5bf7db134d8672f55c15",
+        "path": "data/variable-documentation/8ef0160e4cfec3990a19fbcb8c857f73efa2dbcf995f5bf7db134d8672f55c15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1227,7 +1999,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "21c79b67a89cd527aaed06ead2a873fce837a064660adfedb6ef6e8c785fac0f",
+        "path": "data/variable-documentation/21c79b67a89cd527aaed06ead2a873fce837a064660adfedb6ef6e8c785fac0f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1251,7 +2028,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "678492d6c0d9c6c9cd06eac8c66e26f7f58aed9ee535e6c26b920350089dd712",
+        "path": "data/variable-documentation/678492d6c0d9c6c9cd06eac8c66e26f7f58aed9ee535e6c26b920350089dd712.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1275,7 +2057,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9cd47fe2d60f1a7609825066e47988cd4ba2b2f23af62c1bc44aa2aebd20eb3a",
+        "path": "data/variable-documentation/9cd47fe2d60f1a7609825066e47988cd4ba2b2f23af62c1bc44aa2aebd20eb3a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1299,7 +2086,70 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b32a2b8361fc8dce5dd6979ba72f4c51353b4e61932a9bfb5857de3140a9d525",
+        "path": "data/variable-documentation/b32a2b8361fc8dce5dd6979ba72f4c51353b4e61932a9bfb5857de3140a9d525.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "KUAr",
+      "variable": "KU-år",
+      "register_version": "1999",
+      "source_task_id": "9f4add019a340230a3e13520eaa74551c7e8b399c7834037d9676234375e86dd",
+      "id": "a46b8cb1535fc2dd49b4bc2e1ddb188954db42e7118796eb00ebf15f4e3ad612",
+      "domain_id": "9030915c19cdc2fa946eb7b645fe37349188fa74d1f59e80e05cd85e92e966be",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "KUAr",
+          "ar_raw": "1999-2018",
+          "kallrad": 319,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9fdac6850cc69f33261333c046d8af5175f308bd1be9d48ee532dabb2572e8f8",
+        "path": "data/variable-documentation/9fdac6850cc69f33261333c046d8af5175f308bd1be9d48ee532dabb2572e8f8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "KUAr",
+      "variable": "KU-år",
+      "register_version": "2000",
+      "source_task_id": "9f4add019a340230a3e13520eaa74551c7e8b399c7834037d9676234375e86dd",
+      "id": "8af2db8945f161dec46ff00b356989e132ba2aa235f2828a83192060f58bb3bc",
+      "domain_id": "9030915c19cdc2fa946eb7b645fe37349188fa74d1f59e80e05cd85e92e966be",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "KUAr",
+          "ar_raw": "1999-2018",
+          "kallrad": 319,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "005effd30c8fbb2f4a03791f7289325c3a377e88a21def2d64a25c7d806731b7",
+        "path": "data/variable-documentation/005effd30c8fbb2f4a03791f7289325c3a377e88a21def2d64a25c7d806731b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1323,7 +2173,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a66b52f9281573b4bf2aa0b5f60dbb9093d82d73fb306e91edecb6ee3e662e06",
+        "path": "data/variable-documentation/a66b52f9281573b4bf2aa0b5f60dbb9093d82d73fb306e91edecb6ee3e662e06.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1347,7 +2202,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "98fa0734db9c6837f69cc4118328c21e2315879ae64dc1c483e4327a69f1d761",
+        "path": "data/variable-documentation/98fa0734db9c6837f69cc4118328c21e2315879ae64dc1c483e4327a69f1d761.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1371,7 +2231,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "57d0bca077deeaa42398a1d17cd34967f978e5e87ac54b22f4d8be9f1b90e3c3",
+        "path": "data/variable-documentation/57d0bca077deeaa42398a1d17cd34967f978e5e87ac54b22f4d8be9f1b90e3c3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1395,7 +2260,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e925c709158dc7c214572d2b24abf1c21e1d2b29588fedf2a0bee0e0c28208d",
+        "path": "data/variable-documentation/8e925c709158dc7c214572d2b24abf1c21e1d2b29588fedf2a0bee0e0c28208d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1419,7 +2289,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d3baa0b5be1065399826ded34c90b00bf56966bc8d27f349eecd358a3fa711c",
+        "path": "data/variable-documentation/7d3baa0b5be1065399826ded34c90b00bf56966bc8d27f349eecd358a3fa711c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1443,7 +2318,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8288b6044da67e847e6d9c4d92a1626e959aa38ac79e161cc88861ab49e51cd3",
+        "path": "data/variable-documentation/8288b6044da67e847e6d9c4d92a1626e959aa38ac79e161cc88861ab49e51cd3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1467,7 +2347,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01de27f339c672c45f57f2ae783422643c20e02a66178ec928abbc96f78ece3b",
+        "path": "data/variable-documentation/01de27f339c672c45f57f2ae783422643c20e02a66178ec928abbc96f78ece3b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1491,7 +2376,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "65a9f943300226d8fbb0c11325691c6f942d99f2389a8dfad7bf0cf7d9e78745",
+        "path": "data/variable-documentation/65a9f943300226d8fbb0c11325691c6f942d99f2389a8dfad7bf0cf7d9e78745.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1515,7 +2405,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "98bc9d9304759a715ef2a0272fb772afd8de88b67da53c3da8e064b79c9e8d12",
+        "path": "data/variable-documentation/98bc9d9304759a715ef2a0272fb772afd8de88b67da53c3da8e064b79c9e8d12.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1539,7 +2434,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0e5fc2d3d5a3c90fb9a71b2bf431cb449dc717690fbf1135d400489d9582cdf4",
+        "path": "data/variable-documentation/0e5fc2d3d5a3c90fb9a71b2bf431cb449dc717690fbf1135d400489d9582cdf4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1563,7 +2463,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f116130ac9cc56efb72699eb4adfcaf85351bef7c94159394c8ef58aebd5007",
+        "path": "data/variable-documentation/0f116130ac9cc56efb72699eb4adfcaf85351bef7c94159394c8ef58aebd5007.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1587,7 +2492,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f4f1208d7a1aec0f84ee1f20526ac4ad8472d580aeba0c9beb8381c2310440c",
+        "path": "data/variable-documentation/9f4f1208d7a1aec0f84ee1f20526ac4ad8472d580aeba0c9beb8381c2310440c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1611,7 +2521,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4c12786eec4824d7278b8f50434451b1f938be54292edc8bff2aaa13dd2cdfa9",
+        "path": "data/variable-documentation/4c12786eec4824d7278b8f50434451b1f938be54292edc8bff2aaa13dd2cdfa9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1635,7 +2550,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d96880d137b55fd15e29e96cc23d1be4875599995e3fc4a09e5d1e6626c87841",
+        "path": "data/variable-documentation/d96880d137b55fd15e29e96cc23d1be4875599995e3fc4a09e5d1e6626c87841.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1659,7 +2579,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3e7a486ae8513f93129fd69da8a0e3b2d73c1a29c02f8751863e448a172c0182",
+        "path": "data/variable-documentation/3e7a486ae8513f93129fd69da8a0e3b2d73c1a29c02f8751863e448a172c0182.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1683,7 +2608,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "18ee02085cadb103414cea1cd58200801b678b4721a532a458007ed7e2deba18",
+        "path": "data/variable-documentation/18ee02085cadb103414cea1cd58200801b678b4721a532a458007ed7e2deba18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1707,7 +2637,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "519064fb1acc2b70d85c9ab8606dffe8cbbd7b57c815063122eb69ffb9aed978",
+        "path": "data/variable-documentation/519064fb1acc2b70d85c9ab8606dffe8cbbd7b57c815063122eb69ffb9aed978.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1731,7 +2666,128 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b0d1991299f19acd642ce2003a7a1bba1dff47d40db37f6106958cbd10dcc0fc",
+        "path": "data/variable-documentation/b0d1991299f19acd642ce2003a7a1bba1dff47d40db37f6106958cbd10dcc0fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "1999",
+      "source_task_id": "fe17ad9532566cfcfc445633e4e5ffd21ff0f5f51894810f211297a191670a53",
+      "id": "dc99f86a79dd0f105dd35c94e48f6c676da888f39be643276e0f693d7f63bbb8",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 320,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "88b692d780c865e73f01146e561fcf5b399eb282f684a4b754cd55eac6f47d2b",
+        "path": "data/variable-documentation/88b692d780c865e73f01146e561fcf5b399eb282f684a4b754cd55eac6f47d2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2000",
+      "source_task_id": "fe17ad9532566cfcfc445633e4e5ffd21ff0f5f51894810f211297a191670a53",
+      "id": "d4250607b9241d99c940cb3db1ec5d45e28f327ab5754357a6f738dd15d50700",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 320,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db5955416dfe98dcbde1eba533a4eaf0a439d0df9c603463c220c6917080105d",
+        "path": "data/variable-documentation/db5955416dfe98dcbde1eba533a4eaf0a439d0df9c603463c220c6917080105d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2001",
+      "source_task_id": "fe17ad9532566cfcfc445633e4e5ffd21ff0f5f51894810f211297a191670a53",
+      "id": "bea8b4f0bf2d3914f0b3dc55e0c97754c65f31e848b0b0173e8ed556b6b1566c",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 320,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eece14580485fcd10b3032c3552a7f61272bfd81e4757459890e29f5102324a1",
+        "path": "data/variable-documentation/eece14580485fcd10b3032c3552a7f61272bfd81e4757459890e29f5102324a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "AST-enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2002",
+      "source_task_id": "fe17ad9532566cfcfc445633e4e5ffd21ff0f5f51894810f211297a191670a53",
+      "id": "722410eec74927f8942c9b950728561cfab282e64f52424240536f4bb08e2608",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:36:34+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ast",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 320,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "33126b50cfe7f2b0719776a42a5f2dfaaaf01b1c97243845632016d68faf292b",
+        "path": "data/variable-documentation/33126b50cfe7f2b0719776a42a5f2dfaaaf01b1c97243845632016d68faf292b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1755,7 +2811,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc5aceb45f254a194b9bb7692cc5b558a1a8aa63e8607a9fa6d67f2e3bf61d90",
+        "path": "data/variable-documentation/cc5aceb45f254a194b9bb7692cc5b558a1a8aa63e8607a9fa6d67f2e3bf61d90.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1779,7 +2840,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a40f3a9414c7081cbf9b0f39945e64b7998f96923406704f718d71f985faf5b5",
+        "path": "data/variable-documentation/a40f3a9414c7081cbf9b0f39945e64b7998f96923406704f718d71f985faf5b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1803,7 +2869,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "83542fdd98ece22c147df5a61bfe997ae8273a3e4a95c9f819f3e624365fbeb7",
+        "path": "data/variable-documentation/83542fdd98ece22c147df5a61bfe997ae8273a3e4a95c9f819f3e624365fbeb7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1827,7 +2898,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41e3f3f72e009e89cd3cd551591ee1184233e5b4fc553a97de5bc0f41531fab5",
+        "path": "data/variable-documentation/41e3f3f72e009e89cd3cd551591ee1184233e5b4fc553a97de5bc0f41531fab5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1851,7 +2927,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8f515e0ad396ba7f9bbd816cd5cc6416fcba0ebae97d19f2f3689fa9c2b25cc7",
+        "path": "data/variable-documentation/8f515e0ad396ba7f9bbd816cd5cc6416fcba0ebae97d19f2f3689fa9c2b25cc7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1875,7 +2956,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e004f5e1b41e959081b9c37a1d67c4452fb862ebd20f61ff8aa8418f39b3f61f",
+        "path": "data/variable-documentation/e004f5e1b41e959081b9c37a1d67c4452fb862ebd20f61ff8aa8418f39b3f61f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1899,7 +2985,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a8a6517937de1f420ca8269026b656937da2bf670a4782736539704066895cc3",
+        "path": "data/variable-documentation/a8a6517937de1f420ca8269026b656937da2bf670a4782736539704066895cc3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1923,7 +3014,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "769bb2deea6081641823fabf43231c7c75102d780550ae23b4db5824b34b259c",
+        "path": "data/variable-documentation/769bb2deea6081641823fabf43231c7c75102d780550ae23b4db5824b34b259c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1947,7 +3043,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7b70cb60a0522cc2be7f334766549109f1e3cc0fdafaa5979d5487795b4268b1",
+        "path": "data/variable-documentation/7b70cb60a0522cc2be7f334766549109f1e3cc0fdafaa5979d5487795b4268b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1971,7 +3072,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ef7b3f6a767d0c93f9c6f0dd6b9bc5ee0d7b52fa5a0ccfaef66aaa9834667d0a",
+        "path": "data/variable-documentation/ef7b3f6a767d0c93f9c6f0dd6b9bc5ee0d7b52fa5a0ccfaef66aaa9834667d0a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1995,7 +3101,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c70500738b79eefcf85f083e20c3b59b0cd256451615d75c594b4758bf9cf02",
+        "path": "data/variable-documentation/9c70500738b79eefcf85f083e20c3b59b0cd256451615d75c594b4758bf9cf02.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2019,7 +3130,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "61da5444b6d0468d0f27214bcdeee96288b890cc5ff5ba82ce2a135e63a76779",
+        "path": "data/variable-documentation/61da5444b6d0468d0f27214bcdeee96288b890cc5ff5ba82ce2a135e63a76779.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2043,7 +3159,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "12388155df514ecf63259c6119116b802a7a495e194f2a27e64c5f6c96a9de24",
+        "path": "data/variable-documentation/12388155df514ecf63259c6119116b802a7a495e194f2a27e64c5f6c96a9de24.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2067,7 +3188,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "190ac31cda694c352d9497a29e654eeb482ad17c9e88657601c36312ec38e00b",
+        "path": "data/variable-documentation/190ac31cda694c352d9497a29e654eeb482ad17c9e88657601c36312ec38e00b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2091,7 +3217,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b20191b6549339739fa5961cc8d7eb0f7840f499cc00205c75cfd7cae7be0cd2",
+        "path": "data/variable-documentation/b20191b6549339739fa5961cc8d7eb0f7840f499cc00205c75cfd7cae7be0cd2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2115,7 +3246,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc19959662f439735f41c3e632dd2a55b6dedfde1e2f266fbf5703941078b8d5",
+        "path": "data/variable-documentation/cc19959662f439735f41c3e632dd2a55b6dedfde1e2f266fbf5703941078b8d5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2139,7 +3275,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c3253cbdf1647d82e1fbca32bc5ac36df30e6f11802508f048b77164a07789ff",
+        "path": "data/variable-documentation/c3253cbdf1647d82e1fbca32bc5ac36df30e6f11802508f048b77164a07789ff.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:36:34+00:00"
     }
   ],
   "domains": [
@@ -2176,6 +3317,14 @@
       "path": "data/value-domain-values/9503d27291e5b0143e2e80bf1e847c28a98a422e9fb31a507159c9e53dc2ed09.json"
     },
     {
+      "version": "Svensk standard för näringsgrensindelning, SNI 92, Aktiviteter",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "value_count": 756,
+      "path": "data/value-domain-values/dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf.json"
+    },
+    {
       "version": "SNI 2007, Aktiviteter, alternativ",
       "level": "Detaljgrupp",
       "data_type": "char(5)",
@@ -2194,16 +3343,21 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "03ee5b46e6d32d3248d2d18f3b669b4e58e1a87346c0d6759fb500af8581ca5f",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-20T23:06:03+00:00",
+    "retrieved_at": "2026-11-21T07:36:34+00:00",
     "task_count": 5,
     "expected_bindings": 118,
+    "documented_bindings": 113,
     "errors": [
-      "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
+      "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ]
   }
 }
