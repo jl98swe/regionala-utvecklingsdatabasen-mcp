@@ -6624,11 +6624,11 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 4,
+    "passes": 5,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "1cd40a74955c1066a61a32318880cd8661f620b0914e3b416accff280a60941d",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T12:54:46+00:00",
+    "retrieved_at": "2026-11-21T13:34:14+00:00",
     "task_count": 227,
     "expected_bindings": 225,
     "documented_bindings": 225,
@@ -6649,6 +6649,6 @@
       "v046x 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "v047x 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ],
-    "stalled_passes": 1
+    "stalled_passes": 2
   }
 }
