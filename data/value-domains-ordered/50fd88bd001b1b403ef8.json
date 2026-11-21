@@ -10,6 +10,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0153",
       "variable": "Uttag från skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2001",
+      "source_task_id": "c28f63e1369828a71a2b89019e8fb73ead7e529f514088bdc943d09074b3282d",
+      "id": "b053c76c9eb54e011b52a9839398c89f93616266bd606d8b5558e56ebcf7a992",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0153",
+          "ar_raw": "2000-2006",
+          "kallrad": 479,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8b1fe65073868d3fd4ad09e93e67105dfa56f7d7a38f4ced46ecf31fda9118e2",
+        "path": "data/variable-documentation/8b1fe65073868d3fd4ad09e93e67105dfa56f7d7a38f4ced46ecf31fda9118e2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0153",
+      "variable": "Uttag från skogs-/ skogsskade-/ upphovsmannakonto",
       "register_version": "2002",
       "source_task_id": "c28f63e1369828a71a2b89019e8fb73ead7e529f514088bdc943d09074b3282d",
       "id": "bc4090e6fb9d7e720fb4380fe4e8ce0285cd46ac789dabc507a505c8f97cd124",
@@ -27,7 +56,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "303368d0929b2c6a5c75aa414764323010d2254b45a135ef3db33e966bbd4870",
+        "path": "data/variable-documentation/303368d0929b2c6a5c75aa414764323010d2254b45a135ef3db33e966bbd4870.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -51,7 +85,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "71c926e9a1cd382aee8600d9bcde74db1d1bce5f7be3cec59b366e22a2bb2460",
+        "path": "data/variable-documentation/71c926e9a1cd382aee8600d9bcde74db1d1bce5f7be3cec59b366e22a2bb2460.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -75,7 +114,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b5d82c004ac56c58631ae78206cc064aed2b513c82fc86befcbc45c6aaa4c395",
+        "path": "data/variable-documentation/b5d82c004ac56c58631ae78206cc064aed2b513c82fc86befcbc45c6aaa4c395.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -123,7 +167,41 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b66800ed0ebfd89030f4c2db3d1c5f7a2e1d0c932844e5e088611b438f9c8bdc",
+        "path": "data/variable-documentation/b66800ed0ebfd89030f4c2db3d1c5f7a2e1d0c932844e5e088611b438f9c8bdc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0177",
+      "variable": "Inbetalning till skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2001",
+      "source_task_id": "c6c3d2ec35ba3b2db7ee42db1b5175e565051d5d9ea6a9280f97e006664fdd57",
+      "id": "34570d139b6939a40532e8e93ace805a39c9cc2e385aa8f29f708a652dae27bd",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0177",
+          "ar_raw": "2000-2006",
+          "kallrad": 480,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c51541969f0ad23ffdccf0b593d47ac930d504e8b5dff8a2e608440aae58aab1",
+        "path": "data/variable-documentation/c51541969f0ad23ffdccf0b593d47ac930d504e8b5dff8a2e608440aae58aab1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -147,7 +225,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3ed1331918cfed49bf45b561adba0a8ebd2b98d51880484c9ad28c4410477c8",
+        "path": "data/variable-documentation/b3ed1331918cfed49bf45b561adba0a8ebd2b98d51880484c9ad28c4410477c8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -171,7 +254,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "897591da04f07dd5daac74d38f99b05c990200cff9b1caeba8365ca6acc2623a",
+        "path": "data/variable-documentation/897591da04f07dd5daac74d38f99b05c990200cff9b1caeba8365ca6acc2623a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -195,7 +283,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69d1d12990698117e3e0391d375ab262a83158d29456d8ded8a8ebd97b298987",
+        "path": "data/variable-documentation/69d1d12990698117e3e0391d375ab262a83158d29456d8ded8a8ebd97b298987.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -243,7 +336,41 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd0f05d9b41a9911a0b71d81c65529848f65a8269691547524f77804c02a128f",
+        "path": "data/variable-documentation/dd0f05d9b41a9911a0b71d81c65529848f65a8269691547524f77804c02a128f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0799",
+      "variable": "Min andel av resultatet ",
+      "register_version": "2001",
+      "source_task_id": "8a7c385b839e4971f9d7b1aecf63d4c9f8c781884a2874c3bc575bd403c2167c",
+      "id": "a99fdc788b14ab8ddf7216601da1e8b78dc7f7783738d2c5aea79a9b4d3c36b5",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0799",
+          "ar_raw": "2000-2006",
+          "kallrad": 481,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c5b3dd6c6cfb2f3cee47a6c2620e036e5035c2ced20743bac4586bc19e5d92dd",
+        "path": "data/variable-documentation/c5b3dd6c6cfb2f3cee47a6c2620e036e5035c2ced20743bac4586bc19e5d92dd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -267,7 +394,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6005cc88e30e73077093af1266b3bd93a6e39e297ca908cca3a5f47d1127b532",
+        "path": "data/variable-documentation/6005cc88e30e73077093af1266b3bd93a6e39e297ca908cca3a5f47d1127b532.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -291,7 +423,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a86e6a11c5eab672b052bf560393ee82a2b565c72345eee437bee13c551c2670",
+        "path": "data/variable-documentation/a86e6a11c5eab672b052bf560393ee82a2b565c72345eee437bee13c551c2670.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -315,7 +452,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4e88bc9165689cafc6e2f5137671b7feaef747f2dc4d3f94df7f15218c76e1af",
+        "path": "data/variable-documentation/4e88bc9165689cafc6e2f5137671b7feaef747f2dc4d3f94df7f15218c76e1af.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -363,7 +505,41 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a3f51b92ca4e1fdf23e7f691e7f52c0dbab4670abc11b62b7d2d58c77b5f944d",
+        "path": "data/variable-documentation/a3f51b92ca4e1fdf23e7f691e7f52c0dbab4670abc11b62b7d2d58c77b5f944d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0802",
+      "variable": "Förmånsvärdet av fri bil",
+      "register_version": "2001",
+      "source_task_id": "3c4256551559ec6bf38d3034e9c3ec0152ae2c8f366ef09fcb19741122dbd9dc",
+      "id": "19cd0056f75a8d299caa0d34d195d4568209d3879f9c2a639454f720f318248f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0802",
+          "ar_raw": "2000-2006",
+          "kallrad": 482,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4d443c8823a99ff49accafb93adce71ea135aedc78ae533cd5b8cff1a426c87",
+        "path": "data/variable-documentation/a4d443c8823a99ff49accafb93adce71ea135aedc78ae533cd5b8cff1a426c87.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -387,7 +563,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d8adf61f3a3b7ab0a56c1b0f0f2e2ed4369f9f7d2ed413db821011afc7d41946",
+        "path": "data/variable-documentation/d8adf61f3a3b7ab0a56c1b0f0f2e2ed4369f9f7d2ed413db821011afc7d41946.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -411,7 +592,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9e361d3b29ef6c2018d05a0b69da1a9615f8b2c29d9c43e49ed2f007fac02839",
+        "path": "data/variable-documentation/9e361d3b29ef6c2018d05a0b69da1a9615f8b2c29d9c43e49ed2f007fac02839.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -435,7 +621,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7433f76116fa9964f524cfb3a4333ba129b16a35814681930dea8832e408b500",
+        "path": "data/variable-documentation/7433f76116fa9964f524cfb3a4333ba129b16a35814681930dea8832e408b500.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -483,7 +674,41 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f1b69e3feb43340ee4af1df92d1405ac88b21572cb7bf05b5c9ddb3f4153bd24",
+        "path": "data/variable-documentation/f1b69e3feb43340ee4af1df92d1405ac88b21572cb7bf05b5c9ddb3f4153bd24.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0802",
+      "variable": "Värde av fri bil, fri bostad m.m.",
+      "register_version": "2001",
+      "source_task_id": "ad2d7077400f9984e1fbc88b58268027e511a07a1dae8856a276575b56bb9784",
+      "id": "87358969e6c1112b7b8d20cc0125d91ae1c00c31f2dc63bb37d502d58d086831",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0802",
+          "ar_raw": "2000-2006",
+          "kallrad": 482,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8dbb60d9d7c92906469683ef7a281c2569ca07251ddcacd92c9a261db0d77abb",
+        "path": "data/variable-documentation/8dbb60d9d7c92906469683ef7a281c2569ca07251ddcacd92c9a261db0d77abb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -507,7 +732,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f9b20cdea0e00503613ada9862c3773c6de6ebe46a5b924e271ce8a5c4acf5c1",
+        "path": "data/variable-documentation/f9b20cdea0e00503613ada9862c3773c6de6ebe46a5b924e271ce8a5c4acf5c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -531,7 +761,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "de9b16d36c709c56adbbe36e12e463d8010f17df12c781b0e5da644fe02274a4",
+        "path": "data/variable-documentation/de9b16d36c709c56adbbe36e12e463d8010f17df12c781b0e5da644fe02274a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -555,7 +790,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f754f4c8941b7fe0a2e9388d7f2cb0f65333de1c687857e22602c0556161a04f",
+        "path": "data/variable-documentation/f754f4c8941b7fe0a2e9388d7f2cb0f65333de1c687857e22602c0556161a04f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -603,7 +843,41 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6034e059efa5512266a4149632e839f552716e42a0dc9470f53df63496d6aa2c",
+        "path": "data/variable-documentation/6034e059efa5512266a4149632e839f552716e42a0dc9470f53df63496d6aa2c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0806",
+      "variable": "Avdragsgilla kostnader för resor mellan bostad och arbetsplats över 7 000 kr m.m.",
+      "register_version": "2001",
+      "source_task_id": "e583173eb4889bc86f3a76065a006b0574cb6be6dbbc7cf7b5dff719b2866fe3",
+      "id": "6375e2f99e27ee08cef462d7939c8a8e5dfe9d300c1999c9b054d3f6340a6185",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0806",
+          "ar_raw": "2000-2006",
+          "kallrad": 483,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2631cb5c10ed6ae16bbf77ef5977ccb48fd37b0aaf595b0b29dc97295791e645",
+        "path": "data/variable-documentation/2631cb5c10ed6ae16bbf77ef5977ccb48fd37b0aaf595b0b29dc97295791e645.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -627,7 +901,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8cbf7bf8ad60000f344d8d07561ad41f0b605f1250ca8cbbe25f592d5251e2f2",
+        "path": "data/variable-documentation/8cbf7bf8ad60000f344d8d07561ad41f0b605f1250ca8cbbe25f592d5251e2f2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -651,7 +930,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "091ac6a95a2f5671d4de3726e4b9453a3ad015d47d4ef090cfc178acfe848c7d",
+        "path": "data/variable-documentation/091ac6a95a2f5671d4de3726e4b9453a3ad015d47d4ef090cfc178acfe848c7d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -675,7 +959,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5182e6492658c114ec72c1ee2ffd67be4dafd2ebdbdf9daf955137b6ae5ab9b1",
+        "path": "data/variable-documentation/5182e6492658c114ec72c1ee2ffd67be4dafd2ebdbdf9daf955137b6ae5ab9b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -730,6 +1019,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0806",
       "variable": "Kostnader för resor mellan bostad och arbetsplats till den del kostnaden överstiger 7 000 kr samt andra egna kostnader för verksamheten",
+      "register_version": "2001",
+      "source_task_id": "0f4fb846bc3882fdcd9694d4e18a562a1f79ca8474828fd6f4690efa845ebdb3",
+      "id": "e31bc34536e352390c07f1abcf0072ccaa5e7d2d591176de7bb14e61f72f59ea",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0806",
+          "ar_raw": "2000-2006",
+          "kallrad": 483,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8b3343e3fa829bc8bd34cf1a45ec7982407d8e6a0d7b1b059b92b95120ed338",
+        "path": "data/variable-documentation/b8b3343e3fa829bc8bd34cf1a45ec7982407d8e6a0d7b1b059b92b95120ed338.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0806",
+      "variable": "Kostnader för resor mellan bostad och arbetsplats till den del kostnaden överstiger 7 000 kr samt andra egna kostnader för verksamheten",
       "register_version": "2002",
       "source_task_id": "0f4fb846bc3882fdcd9694d4e18a562a1f79ca8474828fd6f4690efa845ebdb3",
       "id": "8147b59b056d236f8803fb1ffd57df4342436b325adcec80976b0d59228ae057",
@@ -747,7 +1065,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a75f134384954fd332bd6dc0a44fd487f4a03079ab0a489c00df08a76947ad85",
+        "path": "data/variable-documentation/a75f134384954fd332bd6dc0a44fd487f4a03079ab0a489c00df08a76947ad85.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -771,7 +1094,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ae73fa00dfd227eae5fd60a7122507029287470be8532b925119d97bcb06c9e3",
+        "path": "data/variable-documentation/ae73fa00dfd227eae5fd60a7122507029287470be8532b925119d97bcb06c9e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -795,7 +1123,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "99df1508feb6d54d72ec5e55e2627dd5f6b6567d525212f615bb573c1ac6de3a",
+        "path": "data/variable-documentation/99df1508feb6d54d72ec5e55e2627dd5f6b6567d525212f615bb573c1ac6de3a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -819,7 +1152,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eebc02c64b1fa3d7a069e433ac1e0ad293e0dabc357271655fa5fbd093fbc16c",
+        "path": "data/variable-documentation/eebc02c64b1fa3d7a069e433ac1e0ad293e0dabc357271655fa5fbd093fbc16c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -850,6 +1188,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0809",
       "variable": "Outnyttjat underskott från tidigare år",
+      "register_version": "2001",
+      "source_task_id": "9ecc4d52958d7d3860af881cbc190baeacae89df78d4d96178e255b3307bc707",
+      "id": "a15c358f243215f7f99edd6d1cb83f976d70457ff0124cb78a83b5dbccf25764",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0809",
+          "ar_raw": "2000-2006",
+          "kallrad": 484,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d214a495b3e473ff35cc12bd2548e4ebd6aa1bfbc94c5651e5b0b88755a25e99",
+        "path": "data/variable-documentation/d214a495b3e473ff35cc12bd2548e4ebd6aa1bfbc94c5651e5b0b88755a25e99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0809",
+      "variable": "Outnyttjat underskott från tidigare år",
       "register_version": "2002",
       "source_task_id": "9ecc4d52958d7d3860af881cbc190baeacae89df78d4d96178e255b3307bc707",
       "id": "56350929044deeb3b65cbc3b3874e79f124e1fbcc790041ef29bc5deff72f4e1",
@@ -867,7 +1234,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cd592d7d074692cf2f61e835ab48df5c054a4eab50caf089b05f821e4a4908e0",
+        "path": "data/variable-documentation/cd592d7d074692cf2f61e835ab48df5c054a4eab50caf089b05f821e4a4908e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -891,7 +1263,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2e65ce75d8da79f6df41998bb73272b1dd40d84ccb283fb174da75cff84c098a",
+        "path": "data/variable-documentation/2e65ce75d8da79f6df41998bb73272b1dd40d84ccb283fb174da75cff84c098a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -915,7 +1292,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f287d3a8c110f7f655bdfbefbe9bcd1a3b49873521092057cab3240893c184b",
+        "path": "data/variable-documentation/0f287d3a8c110f7f655bdfbefbe9bcd1a3b49873521092057cab3240893c184b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -939,7 +1321,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "87228dc4bf3c833b4d52e77582cccb8ebd5cef245fb93bb40a35aaa82f4898b4",
+        "path": "data/variable-documentation/87228dc4bf3c833b4d52e77582cccb8ebd5cef245fb93bb40a35aaa82f4898b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -970,6 +1357,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0813",
       "variable": "Tillkommer: Resultat av annan verksamhet som tillhör denna näringsverksamhet men redovisats på annan blankett N1A/N2A: Överskott",
+      "register_version": "2001",
+      "source_task_id": "fb97df7461b8332620903b45c2ef3053fbacd3317c5fa0d2ce8b0b001266f42a",
+      "id": "3772a0a360190300190e09af6efd5127226c418ec66644cfa55038b7e3c6a20e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0813",
+          "ar_raw": "2000-2006",
+          "kallrad": 485,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d29146c9306444ec57d39718039ff92dfe273bd3d601d268e687fdb5cac4e9b1",
+        "path": "data/variable-documentation/d29146c9306444ec57d39718039ff92dfe273bd3d601d268e687fdb5cac4e9b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0813",
+      "variable": "Tillkommer: Resultat av annan verksamhet som tillhör denna näringsverksamhet men redovisats på annan blankett N1A/N2A: Överskott",
       "register_version": "2002",
       "source_task_id": "fb97df7461b8332620903b45c2ef3053fbacd3317c5fa0d2ce8b0b001266f42a",
       "id": "30b593bf79f9b75479116b403cc1c8fc9a7121f8090e4ba5ade72484d0eaf636",
@@ -987,7 +1403,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a6a9c7ff065249b56bf4fc42f18178dfb59d8bcb7fa20e07d413d2d6dcad4f30",
+        "path": "data/variable-documentation/a6a9c7ff065249b56bf4fc42f18178dfb59d8bcb7fa20e07d413d2d6dcad4f30.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1011,7 +1432,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "338e86240acca985d2e18f2adfd1636a02cdaba1d71b68412a04dbb19ecc8af1",
+        "path": "data/variable-documentation/338e86240acca985d2e18f2adfd1636a02cdaba1d71b68412a04dbb19ecc8af1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1035,7 +1461,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "129455e3fc05a4b090a2a6040a36745da71e8176e40c0fea2e2d907608986cc5",
+        "path": "data/variable-documentation/129455e3fc05a4b090a2a6040a36745da71e8176e40c0fea2e2d907608986cc5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1059,7 +1490,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f8c9ea77ebe6865b0ec4eafd49aef60dd79d6af18078297cbeded064ed5aec8",
+        "path": "data/variable-documentation/7f8c9ea77ebe6865b0ec4eafd49aef60dd79d6af18078297cbeded064ed5aec8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1090,6 +1526,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0813",
       "variable": "Överskott av annan verksamhet från N1A/N2A och min andel som medhjälpande make",
+      "register_version": "2001",
+      "source_task_id": "13490023692be988d877eba2d9a79c1a8dc682de6941da5312e10b62f266db1b",
+      "id": "f04ff4b0d33a72c62497b35d3995a775d2e97be73e946b3b1f08f4403eebee8a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0813",
+          "ar_raw": "2000-2006",
+          "kallrad": 485,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5034129e40ec04ab8365d22ebe48b7772bf79804c2cf1363f87cd73aa3c37e89",
+        "path": "data/variable-documentation/5034129e40ec04ab8365d22ebe48b7772bf79804c2cf1363f87cd73aa3c37e89.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0813",
+      "variable": "Överskott av annan verksamhet från N1A/N2A och min andel som medhjälpande make",
       "register_version": "2002",
       "source_task_id": "13490023692be988d877eba2d9a79c1a8dc682de6941da5312e10b62f266db1b",
       "id": "7ff52d1bf917b965fb09e449791626b32d8f4f77bbc2af061590f2f1d6a0817a",
@@ -1107,7 +1572,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40b7e1ca09cd262d548583a7eaa72aadc6367325d15abf83c7c7923a7f0b56b9",
+        "path": "data/variable-documentation/40b7e1ca09cd262d548583a7eaa72aadc6367325d15abf83c7c7923a7f0b56b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1131,7 +1601,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1028f27b14567b8f180828658093e8b857d28c9298922c1dab42e050860036f3",
+        "path": "data/variable-documentation/1028f27b14567b8f180828658093e8b857d28c9298922c1dab42e050860036f3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1155,7 +1630,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9e7b0d4852d4e1bd439c697003580f04cff2d69b885148816d24e23c4e8a66de",
+        "path": "data/variable-documentation/9e7b0d4852d4e1bd439c697003580f04cff2d69b885148816d24e23c4e8a66de.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1179,7 +1659,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79791ed18696b84cb01dc2235ffbe35d2ba44f122a8bb4317d2c9ace393082ec",
+        "path": "data/variable-documentation/79791ed18696b84cb01dc2235ffbe35d2ba44f122a8bb4317d2c9ace393082ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1210,6 +1695,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0814",
       "variable": "Avgår: Resultat av annan verksamhet som tillhör denna näringsverksamhet men redovisats på annan blankett N1a/N2a: Underskott",
+      "register_version": "2001",
+      "source_task_id": "e4358de5597e640470e21ad330e79afd426a6a5035d440063d633bc66ec6f94e",
+      "id": "713dc8d375404f580ddb7d36c7bce6bd61a9749bf7824ee712a1da08ab41ce65",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0814",
+          "ar_raw": "2000-2006",
+          "kallrad": 486,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "533c890e05fbcb02ec96077ad6ec739e2c75c63c5008f7a0deac45a8f58a5aad",
+        "path": "data/variable-documentation/533c890e05fbcb02ec96077ad6ec739e2c75c63c5008f7a0deac45a8f58a5aad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0814",
+      "variable": "Avgår: Resultat av annan verksamhet som tillhör denna näringsverksamhet men redovisats på annan blankett N1a/N2a: Underskott",
       "register_version": "2002",
       "source_task_id": "e4358de5597e640470e21ad330e79afd426a6a5035d440063d633bc66ec6f94e",
       "id": "625be0641353f0c54d76000f49da4b376a29ced2a735893fd86aae47dde789e3",
@@ -1227,7 +1741,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f48dcd78109210a65a9ed4163f3f4b3f66ca53b97ac7056daba1c844ebb3571c",
+        "path": "data/variable-documentation/f48dcd78109210a65a9ed4163f3f4b3f66ca53b97ac7056daba1c844ebb3571c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1251,7 +1770,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8cba8caf22181072230ce268785084da2c4612d8529eb0ef30009a7b17f88381",
+        "path": "data/variable-documentation/8cba8caf22181072230ce268785084da2c4612d8529eb0ef30009a7b17f88381.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1275,7 +1799,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a14c782187285902a8fa40b9f67b5950fed220146153488005fa5d8dd8802b8d",
+        "path": "data/variable-documentation/a14c782187285902a8fa40b9f67b5950fed220146153488005fa5d8dd8802b8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1299,7 +1828,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "20870a4aba2b48bed115bbb22c003cd9b86560c27e81c16ed2b91e25b3939e49",
+        "path": "data/variable-documentation/20870a4aba2b48bed115bbb22c003cd9b86560c27e81c16ed2b91e25b3939e49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1330,6 +1864,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0814",
       "variable": "Underskott av annan verksamhet från N1A/N2A och andel till medhjälpande make",
+      "register_version": "2001",
+      "source_task_id": "80256b9708b28785210e553929cadf8e6509d6480738cdb698cf61ab8e05fee0",
+      "id": "be31b06aae19462f09f9898e0d58527ab3be7e80263d54516d269851479c153b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0814",
+          "ar_raw": "2000-2006",
+          "kallrad": 486,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "08405be5e47c15c8642aa6d2e49202634eb26db0decc7af5a66d83fcd3aa981e",
+        "path": "data/variable-documentation/08405be5e47c15c8642aa6d2e49202634eb26db0decc7af5a66d83fcd3aa981e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0814",
+      "variable": "Underskott av annan verksamhet från N1A/N2A och andel till medhjälpande make",
       "register_version": "2002",
       "source_task_id": "80256b9708b28785210e553929cadf8e6509d6480738cdb698cf61ab8e05fee0",
       "id": "e05088d98f6f24aa834ab97725934e3d191b5d61410043d433c8d3ebe20d2fe9",
@@ -1347,7 +1910,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d53f734e48f96b9b6592c8b32b8bc54f053f389477801e1873e71ebd2da4a60f",
+        "path": "data/variable-documentation/d53f734e48f96b9b6592c8b32b8bc54f053f389477801e1873e71ebd2da4a60f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1371,7 +1939,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "59c75e3f4b7b650afecf736ecfd5e5fc69f210a62ea40aba1b08e3c51f02f995",
+        "path": "data/variable-documentation/59c75e3f4b7b650afecf736ecfd5e5fc69f210a62ea40aba1b08e3c51f02f995.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1395,7 +1968,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "80c78fb5af5329ab9174becc7fe063cfb510ad9eb5cd45271e05839110d9176d",
+        "path": "data/variable-documentation/80c78fb5af5329ab9174becc7fe063cfb510ad9eb5cd45271e05839110d9176d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1450,6 +2028,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0816",
       "variable": "Sammanlagd inkomst av verksamheten/verksamheterna",
+      "register_version": "2001",
+      "source_task_id": "84c5100088fc0c8dd3ded23738e92d5e124030af90fba2cb04fe61d3519893bf",
+      "id": "99f57d39902e9b1766142e2f02b1c42c36a997beab4567205e64727233b1badb",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0816",
+          "ar_raw": "2000-2006",
+          "kallrad": 487,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1f1c89d83a8c6cabf6e06e9014f4399805e3f8f3972aa74d71f53b23821b0449",
+        "path": "data/variable-documentation/1f1c89d83a8c6cabf6e06e9014f4399805e3f8f3972aa74d71f53b23821b0449.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0816",
+      "variable": "Sammanlagd inkomst av verksamheten/verksamheterna",
       "register_version": "2002",
       "source_task_id": "84c5100088fc0c8dd3ded23738e92d5e124030af90fba2cb04fe61d3519893bf",
       "id": "314e4f8ac8510f4f78494f4a06c1367e4a437eb9f87b9cc62c10bb3497abc408",
@@ -1467,7 +2074,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3da413932fd62a9a3b4e6c511b0087b2b93e0663701e4114ce518d2ebfd67bf9",
+        "path": "data/variable-documentation/3da413932fd62a9a3b4e6c511b0087b2b93e0663701e4114ce518d2ebfd67bf9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1491,7 +2103,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4bc81820f2689d9390ed951d95f0d1e2c5cec626017f865063d48cfef85d03c6",
+        "path": "data/variable-documentation/4bc81820f2689d9390ed951d95f0d1e2c5cec626017f865063d48cfef85d03c6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1515,7 +2132,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d2818c7ede212ca09439c2ed4376528b19c619c742bf09fea33dd94b2dcd0454",
+        "path": "data/variable-documentation/d2818c7ede212ca09439c2ed4376528b19c619c742bf09fea33dd94b2dcd0454.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1539,7 +2161,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4b573149cd0ccfce8225e707de3795db64edde29c3bafa1e765411d5d6dcaff0",
+        "path": "data/variable-documentation/4b573149cd0ccfce8225e707de3795db64edde29c3bafa1e765411d5d6dcaff0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1570,6 +2197,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0817",
       "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Tillkommer, min andel av inkomst som medhjälpande make",
+      "register_version": "2001",
+      "source_task_id": "1a1f35c73c514040260a69525107402782b6cc6f1d9494b690f323101432681e",
+      "id": "88d652383fd6ebb50e84cb209ec2fae6e2e84bd1a1f35a6acc691e80e8620efa",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0817",
+          "ar_raw": "2000-2006",
+          "kallrad": 488,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ffaced484534389a31c15c54b21a1432f2320e4706e903a96bf5d4f4ec9d225f",
+        "path": "data/variable-documentation/ffaced484534389a31c15c54b21a1432f2320e4706e903a96bf5d4f4ec9d225f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0817",
+      "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Tillkommer, min andel av inkomst som medhjälpande make",
       "register_version": "2002",
       "source_task_id": "1a1f35c73c514040260a69525107402782b6cc6f1d9494b690f323101432681e",
       "id": "1df31a5e4232fbf474ac521ecd15c44e28c02b37d2b6e8cb60deb60ddddff6d3",
@@ -1587,7 +2243,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "700013c9d982a368f521ff25f185c6f5f482f1bca034b68392cfa13c3dd40420",
+        "path": "data/variable-documentation/700013c9d982a368f521ff25f185c6f5f482f1bca034b68392cfa13c3dd40420.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1611,7 +2272,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3bedf5549acab26855652398d419982d396cefcbbdbc36393fd4871317023ef7",
+        "path": "data/variable-documentation/3bedf5549acab26855652398d419982d396cefcbbdbc36393fd4871317023ef7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1635,7 +2301,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "83835d22f1a12bfdd85ad1d5d3aa2b5c354f84b2aaa218fc67ed16a03eb53dcd",
+        "path": "data/variable-documentation/83835d22f1a12bfdd85ad1d5d3aa2b5c354f84b2aaa218fc67ed16a03eb53dcd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1659,7 +2330,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "200f0b41b8866d2e0b242eb3b57ae983c4fe8f7043951d3428867d5bc8ebcd7e",
+        "path": "data/variable-documentation/200f0b41b8866d2e0b242eb3b57ae983c4fe8f7043951d3428867d5bc8ebcd7e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1690,6 +2366,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0822",
       "variable": "Positiv räntefördelning enligt beräkning på blankett N6, dock högst överskott vid punkt 23",
+      "register_version": "2002",
+      "source_task_id": "078d20c3f4118898666376dc601697d6b2a33042829ef247abc9f32de97c6928",
+      "id": "63630da1c5c6aab514896f52a0a64a31ecdcf8b905f611c78d9407a47bc86498",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "v0822",
+          "ar_raw": "2000-2006",
+          "kallrad": 517,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9233f7a4a72c8655ba3232382823b0fc6f3f5d5067830ec0c0daeeeed1551e83",
+        "path": "data/variable-documentation/9233f7a4a72c8655ba3232382823b0fc6f3f5d5067830ec0c0daeeeed1551e83.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0822",
+      "variable": "Positiv räntefördelning enligt beräkning på blankett N6, dock högst överskott vid punkt 23",
       "register_version": "2003",
       "source_task_id": "078d20c3f4118898666376dc601697d6b2a33042829ef247abc9f32de97c6928",
       "id": "89a11e4da36f9122edd0b5b529248ce9ef0213ef6525e59d9c29b86a675c1344",
@@ -1707,7 +2412,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "62a398a51aa66cc2aaf7c4ca5126895030f97aa6954b1c37cacf976cd80932ed",
+        "path": "data/variable-documentation/62a398a51aa66cc2aaf7c4ca5126895030f97aa6954b1c37cacf976cd80932ed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1731,7 +2441,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cba68247f33e914eeeb8325e7468184502ceb37cabc991aa52f6c00c4fa231a2",
+        "path": "data/variable-documentation/cba68247f33e914eeeb8325e7468184502ceb37cabc991aa52f6c00c4fa231a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1755,7 +2470,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f878f278a20cc953491a9f6232eb638ff180e2e431a1b74bdcfc43601be7d35",
+        "path": "data/variable-documentation/2f878f278a20cc953491a9f6232eb638ff180e2e431a1b74bdcfc43601be7d35.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1786,6 +2506,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0829",
       "variable": "Överskott. Överförs till INK1 sidan 2, kod 100 eller kod 102.",
+      "register_version": "2001",
+      "source_task_id": "c74634c26970cd76cf41f57ce02d9d5f77530e5bb421247199222e1e9c3f04d2",
+      "id": "a1cff6bd0db12889bdd9e69fbca8160b06b8e68d0f0d48a3f487d84dcdff3e1f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0829",
+          "ar_raw": "2000-2006",
+          "kallrad": 489,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09a2aae99aea959c35970e859e68ad81ecb7c9e82cce947d5841e608e175be30",
+        "path": "data/variable-documentation/09a2aae99aea959c35970e859e68ad81ecb7c9e82cce947d5841e608e175be30.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0829",
+      "variable": "Överskott. Överförs till INK1 sidan 2, kod 100 eller kod 102.",
       "register_version": "2002",
       "source_task_id": "c74634c26970cd76cf41f57ce02d9d5f77530e5bb421247199222e1e9c3f04d2",
       "id": "d1bbcea58df11c9145e16a60776eaf2675fda1bda212963734b9be8e34194576",
@@ -1803,7 +2552,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "570ab32b3e934f48c61c9db0850be2a113979b84fca138d20f98764555a7bc86",
+        "path": "data/variable-documentation/570ab32b3e934f48c61c9db0850be2a113979b84fca138d20f98764555a7bc86.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1827,7 +2581,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "12572c46f61134e3651c4aba5bb6823e96e7974e74c3f1f8b2375c7353df2ebe",
+        "path": "data/variable-documentation/12572c46f61134e3651c4aba5bb6823e96e7974e74c3f1f8b2375c7353df2ebe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1851,7 +2610,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "90e1f0d403fa1943e79e30c2c68630c5bdd239168f206544d1ff4ac781889d38",
+        "path": "data/variable-documentation/90e1f0d403fa1943e79e30c2c68630c5bdd239168f206544d1ff4ac781889d38.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1875,7 +2639,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a50fea632b61e2b51c5835d111542ffed6f35820b1ba247658a47105ec734fa9",
+        "path": "data/variable-documentation/a50fea632b61e2b51c5835d111542ffed6f35820b1ba247658a47105ec734fa9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1906,6 +2675,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0845",
       "variable": "Inbetalning till skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2001",
+      "source_task_id": "100cbf7a5948663b95ed572ca69f062b708b4a51d9e240149ad987e05a99e832",
+      "id": "96639f9f75b498253ecccb27b3bfcfacaeaedf13e506d24154c5d9c39567a7ed",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0845",
+          "ar_raw": "2000-2006",
+          "kallrad": 490,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c51541969f0ad23ffdccf0b593d47ac930d504e8b5dff8a2e608440aae58aab1",
+        "path": "data/variable-documentation/c51541969f0ad23ffdccf0b593d47ac930d504e8b5dff8a2e608440aae58aab1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0845",
+      "variable": "Inbetalning till skogs-/ skogsskade-/ upphovsmannakonto",
       "register_version": "2002",
       "source_task_id": "100cbf7a5948663b95ed572ca69f062b708b4a51d9e240149ad987e05a99e832",
       "id": "4a3be219dad87fdd65a664da0969a7ba6226f989386944e28762eadf492822e8",
@@ -1923,7 +2721,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3ed1331918cfed49bf45b561adba0a8ebd2b98d51880484c9ad28c4410477c8",
+        "path": "data/variable-documentation/b3ed1331918cfed49bf45b561adba0a8ebd2b98d51880484c9ad28c4410477c8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1947,7 +2750,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "897591da04f07dd5daac74d38f99b05c990200cff9b1caeba8365ca6acc2623a",
+        "path": "data/variable-documentation/897591da04f07dd5daac74d38f99b05c990200cff9b1caeba8365ca6acc2623a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1971,7 +2779,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69d1d12990698117e3e0391d375ab262a83158d29456d8ded8a8ebd97b298987",
+        "path": "data/variable-documentation/69d1d12990698117e3e0391d375ab262a83158d29456d8ded8a8ebd97b298987.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -1995,7 +2808,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "86ef493f98d90d9aafd0b5bc857c90542c64bd02260b6d52e2da426a0e5fba99",
+        "path": "data/variable-documentation/86ef493f98d90d9aafd0b5bc857c90542c64bd02260b6d52e2da426a0e5fba99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2026,6 +2844,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0854",
       "variable": "Kvarvarande underskott. Överförs till INK1 sidan 2, kod 125/126. Nästa år förs beloppet till kod 809.",
+      "register_version": "2001",
+      "source_task_id": "87ed4a3b2819b5ec4717428d3f6712b6aaf540a83d1bf492edbbb7fd7c85958a",
+      "id": "15990a4286ff279ac65eb783c4edb9614b17c5d3ccd4b6607588cd3f529a8dec",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0854",
+          "ar_raw": "2000-2006",
+          "kallrad": 491,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "262f5dcee0bf786d0673f19b7991e022994b5e07f5f71d5a0a8656b2af0b356a",
+        "path": "data/variable-documentation/262f5dcee0bf786d0673f19b7991e022994b5e07f5f71d5a0a8656b2af0b356a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0854",
+      "variable": "Kvarvarande underskott. Överförs till INK1 sidan 2, kod 125/126. Nästa år förs beloppet till kod 809.",
       "register_version": "2002",
       "source_task_id": "87ed4a3b2819b5ec4717428d3f6712b6aaf540a83d1bf492edbbb7fd7c85958a",
       "id": "3c0e1892abd7d718ad5e61755e48f17e8a6f96995b112082553ad1c721a3b7f5",
@@ -2043,7 +2890,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5e21961e553630039d5a0ca04c7484d0258e61b9417cf14fc95e6247610eb95b",
+        "path": "data/variable-documentation/5e21961e553630039d5a0ca04c7484d0258e61b9417cf14fc95e6247610eb95b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2067,7 +2919,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "03ce51603e25dbb7300e7e2ad94f4fe54d506c6d8e45a6d89d2ae134798449d2",
+        "path": "data/variable-documentation/03ce51603e25dbb7300e7e2ad94f4fe54d506c6d8e45a6d89d2ae134798449d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2091,7 +2948,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "36e4723bd478ea51b7448d4b58ee77857874f890723edf5ccbd03a964c9d3f80",
+        "path": "data/variable-documentation/36e4723bd478ea51b7448d4b58ee77857874f890723edf5ccbd03a964c9d3f80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2115,7 +2977,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1d5a27b758208f67c0f6139a3d89859608ef88d0cd160d1879d3ef93aa05f843",
+        "path": "data/variable-documentation/1d5a27b758208f67c0f6139a3d89859608ef88d0cd160d1879d3ef93aa05f843.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2146,6 +3013,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0874",
       "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Avgår, andel av inkomst som redovisas av medhjälpande make",
+      "register_version": "2001",
+      "source_task_id": "389c03728b2e5ff9200a303afb31b2334810c4be235c6947fe22dfc2ae199f27",
+      "id": "09461c5e4ade8db082f0765050c5d05466cfd0087e3fae16e3dddf7c0b23e674",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0874",
+          "ar_raw": "2000-2006",
+          "kallrad": 492,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dcbfd750944ed3eb5993856ba84e98654a0956ca323f8abd9ac01f9598816886",
+        "path": "data/variable-documentation/dcbfd750944ed3eb5993856ba84e98654a0956ca323f8abd9ac01f9598816886.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0874",
+      "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Avgår, andel av inkomst som redovisas av medhjälpande make",
       "register_version": "2002",
       "source_task_id": "389c03728b2e5ff9200a303afb31b2334810c4be235c6947fe22dfc2ae199f27",
       "id": "7dc1f9464f2da35bb3487f8cf2bd87c496270d2afa91072f344b81ffd2a355bb",
@@ -2163,7 +3059,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6d28de7ace9ca6f2fe037c8126d0491ae74e5814c02d0ef698d2ffad6093120",
+        "path": "data/variable-documentation/b6d28de7ace9ca6f2fe037c8126d0491ae74e5814c02d0ef698d2ffad6093120.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2187,7 +3088,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ee7a1b5a2a23331d97174d282ff57031d697d06c89b3ad6ac8e762969a2e45e",
+        "path": "data/variable-documentation/1ee7a1b5a2a23331d97174d282ff57031d697d06c89b3ad6ac8e762969a2e45e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2211,7 +3117,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15e414edc9748b4f433c31f5c0bb029f93d2a043d3f8da2d14ebfc431e7a3267",
+        "path": "data/variable-documentation/15e414edc9748b4f433c31f5c0bb029f93d2a043d3f8da2d14ebfc431e7a3267.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2235,7 +3146,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7c5caa02828217e4b12a5dffb8ab17cdbbdeca9e4515b967916e3b23d4d6eda9",
+        "path": "data/variable-documentation/7c5caa02828217e4b12a5dffb8ab17cdbbdeca9e4515b967916e3b23d4d6eda9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2266,6 +3182,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V0880",
       "variable": "Negativ räntefördelning enligt beräkning",
+      "register_version": "2001",
+      "source_task_id": "fadf3e0817b86e1e33b41e0d527963f17609a2e6cde0edfcdf791027795ee62c",
+      "id": "b4bf7ad772471fc8f66e0be98a8c1321bff00d86b963710c113c0394a5b39843",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V0880",
+          "ar_raw": "2000-2006",
+          "kallrad": 493,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b63d21864fbbf75bc9df11b48ee63cf791ce71f9eb52a9b068f39c2f913f9003",
+        "path": "data/variable-documentation/b63d21864fbbf75bc9df11b48ee63cf791ce71f9eb52a9b068f39c2f913f9003.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V0880",
+      "variable": "Negativ räntefördelning enligt beräkning",
       "register_version": "2002",
       "source_task_id": "fadf3e0817b86e1e33b41e0d527963f17609a2e6cde0edfcdf791027795ee62c",
       "id": "93fa94edf23d8e37f09d6046431ae689321cc5c498587b058dc381f4dde69406",
@@ -2283,7 +3228,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d6ee911ac7a4b3cfff2aa203066dcabe4518f7bf021c15160b2787b307ea24d2",
+        "path": "data/variable-documentation/d6ee911ac7a4b3cfff2aa203066dcabe4518f7bf021c15160b2787b307ea24d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2307,7 +3257,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "23cecae471d6e4c782f670955956edc78d67d8ebbbcd92f2ffcaa4174620678d",
+        "path": "data/variable-documentation/23cecae471d6e4c782f670955956edc78d67d8ebbbcd92f2ffcaa4174620678d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2331,7 +3286,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6b2636c29d1c2ac19014a27e0013ec0dcc2c771f68bc34230f2f0ee1395161e",
+        "path": "data/variable-documentation/b6b2636c29d1c2ac19014a27e0013ec0dcc2c771f68bc34230f2f0ee1395161e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2355,7 +3315,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9a3f7e69d12f7cf2ad288574cf06b06e52c56db47c2404a25a611b1416467ea0",
+        "path": "data/variable-documentation/9a3f7e69d12f7cf2ad288574cf06b06e52c56db47c2404a25a611b1416467ea0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2386,6 +3351,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7600",
       "variable": "Redovisat resultat",
+      "register_version": "2018",
+      "source_task_id": "eb649052422fe1864a17e32b0cb2cb5c41ce8e9b1cd1bfbeeeb5fe8d7ee5f509",
+      "id": "4d1a72e40f60ee5777597f0d41cf81fffcc14a97a01cb15416236bbf44b628d9",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7600",
+          "ar_raw": "2007-2023",
+          "kallrad": 494,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cb37fc03a7797dfa36d507a209505726d8880ab57364d563dfa7a8a2e5d61dec",
+        "path": "data/variable-documentation/cb37fc03a7797dfa36d507a209505726d8880ab57364d563dfa7a8a2e5d61dec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7600",
+      "variable": "Redovisat resultat",
       "register_version": "2019",
       "source_task_id": "eb649052422fe1864a17e32b0cb2cb5c41ce8e9b1cd1bfbeeeb5fe8d7ee5f509",
       "id": "046dee8e116f70c6b75a5d4c3713f069ec5135bd121f9fd65e5cf27c3c926a2e",
@@ -2403,7 +3397,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f441b8b79f3514deca7b55dd944df88605ba75a3c37a7e72e167ac442c23291d",
+        "path": "data/variable-documentation/f441b8b79f3514deca7b55dd944df88605ba75a3c37a7e72e167ac442c23291d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2427,7 +3426,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4394c11f6834458ae94eada37186fbbbd5641ca9cdfe9bc0bf35d989af29bb1c",
+        "path": "data/variable-documentation/4394c11f6834458ae94eada37186fbbbd5641ca9cdfe9bc0bf35d989af29bb1c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2451,7 +3455,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a718205b7b95477ad3c10e44952fe4e5300665409d0548670ba33c3136aea470",
+        "path": "data/variable-documentation/a718205b7b95477ad3c10e44952fe4e5300665409d0548670ba33c3136aea470.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2475,7 +3484,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "965dd47af0512ea31849f28fff2d0f678658032da355b88312ac276c49f20497",
+        "path": "data/variable-documentation/965dd47af0512ea31849f28fff2d0f678658032da355b88312ac276c49f20497.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2506,6 +3520,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7601",
       "variable": "Bokförda kostnader som inte ska dras av",
+      "register_version": "2018",
+      "source_task_id": "0cea0086b283c4a842ff734a219315da1fdac4d0c58dc3f8a71a855162fe2144",
+      "id": "2d4eb1e88bae0b1df0ff4c5a57773391bb11b6b340a915ab5e30bf1e6df480ee",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7601",
+          "ar_raw": "2007-2023",
+          "kallrad": 495,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3b803ab237994df861752e52691772e428274db4c38458bf5a694779c5a6dfc5",
+        "path": "data/variable-documentation/3b803ab237994df861752e52691772e428274db4c38458bf5a694779c5a6dfc5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7601",
+      "variable": "Bokförda kostnader som inte ska dras av",
       "register_version": "2019",
       "source_task_id": "0cea0086b283c4a842ff734a219315da1fdac4d0c58dc3f8a71a855162fe2144",
       "id": "99c8044015c05c27a6fbdd476cf732d09c75bda148e3ba8244a7328fab5d19d0",
@@ -2523,7 +3566,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cb2a69d2685a87acce42470383ed4e2fb741c0aa680709ffb9f5786c6c876a35",
+        "path": "data/variable-documentation/cb2a69d2685a87acce42470383ed4e2fb741c0aa680709ffb9f5786c6c876a35.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2547,7 +3595,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8a5e10b754b9d82612e37a4fd2305ba26e76b05988b053c67ecd6c58e341a61",
+        "path": "data/variable-documentation/e8a5e10b754b9d82612e37a4fd2305ba26e76b05988b053c67ecd6c58e341a61.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2571,7 +3624,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89506414c731e113be56a070d4e84a1eb4dfd502895bf5f3860254bd78a55f5a",
+        "path": "data/variable-documentation/89506414c731e113be56a070d4e84a1eb4dfd502895bf5f3860254bd78a55f5a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2595,7 +3653,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f87cfb95a5db2974c5d85a497129aeb105048a36decc4cddacb8e890240cfd4",
+        "path": "data/variable-documentation/0f87cfb95a5db2974c5d85a497129aeb105048a36decc4cddacb8e890240cfd4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2626,6 +3689,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7602",
       "variable": "Andra intäkter som ska tas upp men som inte bokförts på sådant sätt att de ingår i det redovisade resultatet",
+      "register_version": "2018",
+      "source_task_id": "c539a9dd7f2dfec976ef7c0d390eea7d5f0e109596d9e8756718a9a5a038f118",
+      "id": "6d30025bd380c6b2926b3fcc6b5a19559351bff7211e7c7cdab8fa02edb15027",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7602",
+          "ar_raw": "2007-2023",
+          "kallrad": 496,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "00326e2f703802b92f31bfaeae7c3300b4d6d453d125d7ee1abc70ca0f6a038e",
+        "path": "data/variable-documentation/00326e2f703802b92f31bfaeae7c3300b4d6d453d125d7ee1abc70ca0f6a038e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7602",
+      "variable": "Andra intäkter som ska tas upp men som inte bokförts på sådant sätt att de ingår i det redovisade resultatet",
       "register_version": "2019",
       "source_task_id": "c539a9dd7f2dfec976ef7c0d390eea7d5f0e109596d9e8756718a9a5a038f118",
       "id": "976d59bdc1f390819bb4144dfd12e7feee77a831a2eba62e40687322522be081",
@@ -2643,7 +3735,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3e1cee970b9c65dd5a2d2aef9908fd37348fad77a45717fa1d46bfd1a9e6b395",
+        "path": "data/variable-documentation/3e1cee970b9c65dd5a2d2aef9908fd37348fad77a45717fa1d46bfd1a9e6b395.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2667,7 +3764,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d856ace309294280b423f7dae0c5862b8ec24f0d619102a3f5d434e04769ecb",
+        "path": "data/variable-documentation/0d856ace309294280b423f7dae0c5862b8ec24f0d619102a3f5d434e04769ecb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2691,7 +3793,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "210ae38e8d63204d475a0e6827d02a5e5f7152fb2548a950ca6e70daca761b4c",
+        "path": "data/variable-documentation/210ae38e8d63204d475a0e6827d02a5e5f7152fb2548a950ca6e70daca761b4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2715,7 +3822,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "23e0ff4c5967a07d70b309e0cee31f962528f57eb0254726cd70f82a5907356c",
+        "path": "data/variable-documentation/23e0ff4c5967a07d70b309e0cee31f962528f57eb0254726cd70f82a5907356c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2746,6 +3858,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7603",
       "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Tillkommer, min andel av inkomst som medhjälpande make",
+      "register_version": "2018",
+      "source_task_id": "d4be1d3ca56aa46769211172168c5946e7ac23f87629d32b7ff0feddd7c1871e",
+      "id": "71b502c6189643b81a7beedb76000a9d22562b0bf7426c3920ccee123a86c8b4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7603",
+          "ar_raw": "2007-2023",
+          "kallrad": 497,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b049109eccf70c5e3dab6c13ea393ae1c7486bc45f10caa08cfb1c51145833b",
+        "path": "data/variable-documentation/2b049109eccf70c5e3dab6c13ea393ae1c7486bc45f10caa08cfb1c51145833b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7603",
+      "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Tillkommer, min andel av inkomst som medhjälpande make",
       "register_version": "2019",
       "source_task_id": "d4be1d3ca56aa46769211172168c5946e7ac23f87629d32b7ff0feddd7c1871e",
       "id": "8f10dbe369c4d5872934a6f49adabceeaf5a8c2823886d6f000aa98a3197adda",
@@ -2763,7 +3904,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f2a6f06fe00fc48aec843942e381d94d8b75fc83cc4aa70830d9fc7ad3ed6f4",
+        "path": "data/variable-documentation/0f2a6f06fe00fc48aec843942e381d94d8b75fc83cc4aa70830d9fc7ad3ed6f4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2787,7 +3933,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2bea285079df83ba3b1f9ad81f4dc5adc1bd0e3cb53f7c1b4d818510bc82c7e5",
+        "path": "data/variable-documentation/2bea285079df83ba3b1f9ad81f4dc5adc1bd0e3cb53f7c1b4d818510bc82c7e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2811,7 +3962,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9978582b52cf663d85a449843cc9840562e79f01d18576bb86a61f91f92b4e11",
+        "path": "data/variable-documentation/9978582b52cf663d85a449843cc9840562e79f01d18576bb86a61f91f92b4e11.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2835,7 +3991,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4480fe85b07bf51cc607a9b2b762012aeff3a1ae1df7b054f5cebe9c010843f9",
+        "path": "data/variable-documentation/4480fe85b07bf51cc607a9b2b762012aeff3a1ae1df7b054f5cebe9c010843f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2866,6 +4027,64 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7604",
       "variable": "Övriga intäkter min andel",
+      "register_version": "2018",
+      "source_task_id": "1197958a9e54e3224c92c36bf3adac3dffac86f9cf556ef1aa619bad9a006ea3",
+      "id": "4d93c71470de60a8c5ca9b7b3566968b7cb78ec1c650d6fbb349da5afc2f2efe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7604",
+          "ar_raw": "2007-2023",
+          "kallrad": 498,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6280388e4b10b2f8cd213d02dd6f23f6e68d6ce9021158bcf1552476302e68c",
+        "path": "data/variable-documentation/b6280388e4b10b2f8cd213d02dd6f23f6e68d6ce9021158bcf1552476302e68c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7604",
+      "variable": "Övriga intäkter min andel",
+      "register_version": "2019",
+      "source_task_id": "1197958a9e54e3224c92c36bf3adac3dffac86f9cf556ef1aa619bad9a006ea3",
+      "id": "6ef1e640af43e0c603d0696641b72b73e52f38183e52370907a3e264d089c658",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7604",
+          "ar_raw": "2007-2023",
+          "kallrad": 498,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bbecc2ad50fddff582322bdb53cfa844f7470fad6134c4a6509f64b0088fbe72",
+        "path": "data/variable-documentation/bbecc2ad50fddff582322bdb53cfa844f7470fad6134c4a6509f64b0088fbe72.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7604",
+      "variable": "Övriga intäkter min andel",
       "register_version": "2020",
       "source_task_id": "1197958a9e54e3224c92c36bf3adac3dffac86f9cf556ef1aa619bad9a006ea3",
       "id": "3eb1b24b134239139c878c204054b9ff33ee5899bc7b6a20d6fbadc90d4dd2f9",
@@ -2883,7 +4102,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "60f179bbe6eb5b3a78cb3530876813584240a6db2a4d79539f6108f4f62522c9",
+        "path": "data/variable-documentation/60f179bbe6eb5b3a78cb3530876813584240a6db2a4d79539f6108f4f62522c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2907,7 +4131,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67060bdc0fb057073a5ad2f795fd7dfa0170b7a85c12c38d5e6cc8975ef559f7",
+        "path": "data/variable-documentation/67060bdc0fb057073a5ad2f795fd7dfa0170b7a85c12c38d5e6cc8975ef559f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2931,7 +4160,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b4e2014614334e2d5ccfe6a1109784f50e16a4dce283c9beb486c7171f7380d8",
+        "path": "data/variable-documentation/b4e2014614334e2d5ccfe6a1109784f50e16a4dce283c9beb486c7171f7380d8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -2962,6 +4196,64 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7605",
       "variable": "Återföring av värdeminskningsavdrag m.m. vid försäljning av näringsfastighet och s.k. avskattning",
+      "register_version": "2018",
+      "source_task_id": "b31123273f6c5b52cf2e640eb19e21bb6b4d88d89cd66cb47ce54a1521c658a3",
+      "id": "fbbbdac4b38e002b53eb7a8f18b57b9a6f0618296aafa53a3ba58906c5ed8d05",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7605",
+          "ar_raw": "2007-2023",
+          "kallrad": 499,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e53e1bd4c5e9fa27aef091df2b5853ecb39b84425e012fbd7bd6f7593df89154",
+        "path": "data/variable-documentation/e53e1bd4c5e9fa27aef091df2b5853ecb39b84425e012fbd7bd6f7593df89154.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7605",
+      "variable": "Återföring av värdeminskningsavdrag m.m. vid försäljning av näringsfastighet och s.k. avskattning",
+      "register_version": "2019",
+      "source_task_id": "b31123273f6c5b52cf2e640eb19e21bb6b4d88d89cd66cb47ce54a1521c658a3",
+      "id": "a1b5fb8462a98123c969cb1287d15176a68398cd843c4754d718fcd1f2e25f78",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7605",
+          "ar_raw": "2007-2023",
+          "kallrad": 499,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "742c6184122dd3f14b0a38d53f66e596b540b92b94c58f4b5dcd0bf90f779421",
+        "path": "data/variable-documentation/742c6184122dd3f14b0a38d53f66e596b540b92b94c58f4b5dcd0bf90f779421.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7605",
+      "variable": "Återföring av värdeminskningsavdrag m.m. vid försäljning av näringsfastighet och s.k. avskattning",
       "register_version": "2020",
       "source_task_id": "b31123273f6c5b52cf2e640eb19e21bb6b4d88d89cd66cb47ce54a1521c658a3",
       "id": "6f520273e01e94f9744ce0f4b77ffb1831c10e7294bf65f156bf1b661900994c",
@@ -2979,7 +4271,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c253fb6b8142795a2e4a2f1229e64451a6de32ff74c0936bca2fcc6cfc9589be",
+        "path": "data/variable-documentation/c253fb6b8142795a2e4a2f1229e64451a6de32ff74c0936bca2fcc6cfc9589be.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3003,7 +4300,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fa8f32e4c834c7fa9b290389253925e62c75b22d4cfa9daa15357c23848a71e",
+        "path": "data/variable-documentation/1fa8f32e4c834c7fa9b290389253925e62c75b22d4cfa9daa15357c23848a71e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3027,7 +4329,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "05cb412e36c73da6d1e03bd6bfeb8e7304aaefbd0d0af88cdfc7abce711e63a0",
+        "path": "data/variable-documentation/05cb412e36c73da6d1e03bd6bfeb8e7304aaefbd0d0af88cdfc7abce711e63a0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3058,6 +4365,64 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7606",
       "variable": "Uttag från skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2018",
+      "source_task_id": "da9feb87c9fbdec9bf7f20931b346b7ccd3fe8c1d6dd7351d7dd5ef19db741ae",
+      "id": "ffdbf9f69d6a73a96ffa3bff50216b31ee8daa67017ac125e87c9f2016bc9f7b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7606",
+          "ar_raw": "2007-2023",
+          "kallrad": 500,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eaefc01654e04add223ab0530f63600dae0154f6bfeb73502aa381d0d3e9a1fd",
+        "path": "data/variable-documentation/eaefc01654e04add223ab0530f63600dae0154f6bfeb73502aa381d0d3e9a1fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7606",
+      "variable": "Uttag från skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2019",
+      "source_task_id": "da9feb87c9fbdec9bf7f20931b346b7ccd3fe8c1d6dd7351d7dd5ef19db741ae",
+      "id": "c9bbdbc270d58f253fd441b18ce426d0cfa26feab575c0e32138fb7ece599822",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7606",
+          "ar_raw": "2007-2023",
+          "kallrad": 500,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f7dc9f2ed4edf1a131729b1a0adb4c00974bc8f1888fccc088d1bb0e6a83dfe",
+        "path": "data/variable-documentation/2f7dc9f2ed4edf1a131729b1a0adb4c00974bc8f1888fccc088d1bb0e6a83dfe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7606",
+      "variable": "Uttag från skogs-/ skogsskade-/ upphovsmannakonto",
       "register_version": "2020",
       "source_task_id": "da9feb87c9fbdec9bf7f20931b346b7ccd3fe8c1d6dd7351d7dd5ef19db741ae",
       "id": "cee169c167c155879058b92e15b69edb1b905232d0c67e9e847537186fe73993",
@@ -3075,7 +4440,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "34302bfedf2cf4050e1235aa0ad7c771547db392942dee52712fbe87e91e726c",
+        "path": "data/variable-documentation/34302bfedf2cf4050e1235aa0ad7c771547db392942dee52712fbe87e91e726c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3099,7 +4469,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4e70e7d414ebf9578a9276197cdbd517fde724d64fb5613a5742e7c1b3a8cfd1",
+        "path": "data/variable-documentation/4e70e7d414ebf9578a9276197cdbd517fde724d64fb5613a5742e7c1b3a8cfd1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3123,7 +4498,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6003d50316bd78605dfb147b984c63f17c728b82aad64abc4bd0d185325e5a91",
+        "path": "data/variable-documentation/6003d50316bd78605dfb147b984c63f17c728b82aad64abc4bd0d185325e5a91.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3154,6 +4534,64 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7607",
       "variable": "Negativ räntefördelning enligt beräkning",
+      "register_version": "2018",
+      "source_task_id": "a352bd8a71b17bbd4bdf7d9db425ca9ceb9c7801450594b016020cf737c19b1d",
+      "id": "5f2fd34d9ffd44afacbe04e81465ce13841cba660b4dd7de05a6d512219357e1",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7607",
+          "ar_raw": "2007-2023",
+          "kallrad": 501,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "351d2f1df833e9b00c29575cfc2e17e3f312e57772ff6855146f4cdb9c295a26",
+        "path": "data/variable-documentation/351d2f1df833e9b00c29575cfc2e17e3f312e57772ff6855146f4cdb9c295a26.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7607",
+      "variable": "Negativ räntefördelning enligt beräkning",
+      "register_version": "2019",
+      "source_task_id": "a352bd8a71b17bbd4bdf7d9db425ca9ceb9c7801450594b016020cf737c19b1d",
+      "id": "88462a7f8276b96c46fb75b35c9a9f13a88c4ceaecc137e15a93ac89d2d2a9b7",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7607",
+          "ar_raw": "2007-2023",
+          "kallrad": 501,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f183697d47f26fc328a9b46ed33ef7bb3cb50af970f201b37abe2e90520d1845",
+        "path": "data/variable-documentation/f183697d47f26fc328a9b46ed33ef7bb3cb50af970f201b37abe2e90520d1845.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7607",
+      "variable": "Negativ räntefördelning enligt beräkning",
       "register_version": "2020",
       "source_task_id": "a352bd8a71b17bbd4bdf7d9db425ca9ceb9c7801450594b016020cf737c19b1d",
       "id": "25a6610b698e2da71f7dad32ee7f5a6c4f4c87dec9dbdcb78dce8c20ef45bfec",
@@ -3171,7 +4609,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9ec0f7160dd8624b99604699f66fc8eb7893cd8fef923ae080ea52e9f389c0c5",
+        "path": "data/variable-documentation/9ec0f7160dd8624b99604699f66fc8eb7893cd8fef923ae080ea52e9f389c0c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3195,7 +4638,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d26b01c3d120f2234eae05e222bd94b35c10bc8365dba3510cf81a93b2b7113",
+        "path": "data/variable-documentation/5d26b01c3d120f2234eae05e222bd94b35c10bc8365dba3510cf81a93b2b7113.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3219,7 +4667,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01f271bec3e343db381a7e03e536a45bb681874fb6417fd9864fce7fb88b0376",
+        "path": "data/variable-documentation/01f271bec3e343db381a7e03e536a45bb681874fb6417fd9864fce7fb88b0376.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3250,6 +4703,64 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7614",
       "variable": "Min andel av resultatet ",
+      "register_version": "2018",
+      "source_task_id": "1ec179c1c4ee22305e407a811690cdfead5a44973cb0ca5bde9873de6fe1b196",
+      "id": "1c6cf7013479f5b13de6401902afa3e638a0f71e5f99066a878095c8e1b88be8",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7614",
+          "ar_raw": "2008-2023",
+          "kallrad": 502,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48db95199d55b778cef93f6551594490c2eda7b4732dbfa67d6aaec6c8f57487",
+        "path": "data/variable-documentation/48db95199d55b778cef93f6551594490c2eda7b4732dbfa67d6aaec6c8f57487.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7614",
+      "variable": "Min andel av resultatet ",
+      "register_version": "2019",
+      "source_task_id": "1ec179c1c4ee22305e407a811690cdfead5a44973cb0ca5bde9873de6fe1b196",
+      "id": "addb68efbb3795c8b013139f0caba85546f5cfcf22c2b078bcc1f996b815620d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7614",
+          "ar_raw": "2008-2023",
+          "kallrad": 502,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f6e089bb3d6e2c16d35e8ab84ff913a3d74745b45917744519da475486db0e68",
+        "path": "data/variable-documentation/f6e089bb3d6e2c16d35e8ab84ff913a3d74745b45917744519da475486db0e68.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7614",
+      "variable": "Min andel av resultatet ",
       "register_version": "2020",
       "source_task_id": "1ec179c1c4ee22305e407a811690cdfead5a44973cb0ca5bde9873de6fe1b196",
       "id": "33f1d76b9f9323579c9648ff1ca8d78481b18e87cf1601a2f96a6791e4d4beac",
@@ -3267,7 +4778,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b23c7919a242cf592cad9d61be98ae70696aa0a1a4f5698ac1d459e81628450a",
+        "path": "data/variable-documentation/b23c7919a242cf592cad9d61be98ae70696aa0a1a4f5698ac1d459e81628450a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3291,7 +4807,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5965da3cdd284cfbd5c016c4cd91d388cc59c6aaecde6117e0fd0bf048b21ebc",
+        "path": "data/variable-documentation/5965da3cdd284cfbd5c016c4cd91d388cc59c6aaecde6117e0fd0bf048b21ebc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3315,7 +4836,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "341e25ca9f0a6fec9f9072227ac82dbff2fc4bdc741e506c04018f999fbc957f",
+        "path": "data/variable-documentation/341e25ca9f0a6fec9f9072227ac82dbff2fc4bdc741e506c04018f999fbc957f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3363,7 +4889,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "050045a7ada2c1395e403cc607097e42d37d08742a856ec21f0e8e858a6e4677",
+        "path": "data/variable-documentation/050045a7ada2c1395e403cc607097e42d37d08742a856ec21f0e8e858a6e4677.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3387,7 +4918,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "abd59135885bba42960fe667288f8cc8fe85511e79d7c095b86da5291e99dfa4",
+        "path": "data/variable-documentation/abd59135885bba42960fe667288f8cc8fe85511e79d7c095b86da5291e99dfa4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3411,7 +4947,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ba51f2d5badae7b8b36a4e9fc7b5381b4dad0bf7ef30cfa31a8e3835f9d98d2e",
+        "path": "data/variable-documentation/ba51f2d5badae7b8b36a4e9fc7b5381b4dad0bf7ef30cfa31a8e3835f9d98d2e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3442,6 +4983,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7630",
       "variable": "Överskott. Överförs till INK1 sidan 2, kod 100 eller kod 102.",
+      "register_version": "2019",
+      "source_task_id": "e0ec3ba608b1a7a7d9f3126a2c8cc037e0f51bb10e6807f523dd7ff05fd7885f",
+      "id": "f2f84b24f7abd35c73c479203bc20f6eefcec179a51e568805b2e5c4c91cbfb1",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7630",
+          "ar_raw": "2007-2023",
+          "kallrad": 504,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "274731a935eb551f2eb510d2a19afc6eba4aefc34b064e777d227346185172a7",
+        "path": "data/variable-documentation/274731a935eb551f2eb510d2a19afc6eba4aefc34b064e777d227346185172a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7630",
+      "variable": "Överskott. Överförs till INK1 sidan 2, kod 100 eller kod 102.",
       "register_version": "2020",
       "source_task_id": "e0ec3ba608b1a7a7d9f3126a2c8cc037e0f51bb10e6807f523dd7ff05fd7885f",
       "id": "9ae9b6c247fc5b7ff71e7ac4ad355eca04a7e17dcb253f657d7aa06877923ae1",
@@ -3459,7 +5029,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d0db57d736e4f802adb882f21c66b0799b1b05883fca0341380a0720458ccbc",
+        "path": "data/variable-documentation/7d0db57d736e4f802adb882f21c66b0799b1b05883fca0341380a0720458ccbc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3483,7 +5058,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79a7720b9f5a765c08c29e7f58b03c41d513fd9ae86bd77551f624665d6d5654",
+        "path": "data/variable-documentation/79a7720b9f5a765c08c29e7f58b03c41d513fd9ae86bd77551f624665d6d5654.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3507,7 +5087,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b4f98eca3659061867e9691f13e8fb1305c6618be5dfb94d161b1ed2ba9c5494",
+        "path": "data/variable-documentation/b4f98eca3659061867e9691f13e8fb1305c6618be5dfb94d161b1ed2ba9c5494.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3538,6 +5123,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7680",
       "variable": "Överskott från NEA-blanketten",
+      "register_version": "2019",
+      "source_task_id": "da4a05e3aa24d4c29c4d2288944b4020fb9865a87bd211e12f2b8f62f57b6d5a",
+      "id": "f0e286aa43fc76e656133229799d7df2225d59e6cdfafe1a52d17f3571699af4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7680",
+          "ar_raw": "2007-2023",
+          "kallrad": 505,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "07ab8d932928a8cbd56d29442d7ad1ff3bfea5bb0bdb7eefb179567b0f461efa",
+        "path": "data/variable-documentation/07ab8d932928a8cbd56d29442d7ad1ff3bfea5bb0bdb7eefb179567b0f461efa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7680",
+      "variable": "Överskott från NEA-blanketten",
       "register_version": "2020",
       "source_task_id": "da4a05e3aa24d4c29c4d2288944b4020fb9865a87bd211e12f2b8f62f57b6d5a",
       "id": "4ad00695b3718c34c692234635c43f21c4e7434df0f2e0f86a77fb3d407733e5",
@@ -3555,7 +5169,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "613f3a918caa9108505b776a2bb83ee420d11471bacaf93921dfb689fe8b84c6",
+        "path": "data/variable-documentation/613f3a918caa9108505b776a2bb83ee420d11471bacaf93921dfb689fe8b84c6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3579,7 +5198,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "044004b820220308809b6759793a91a3742b442e4b568d96e9bc88dcf1a03c13",
+        "path": "data/variable-documentation/044004b820220308809b6759793a91a3742b442e4b568d96e9bc88dcf1a03c13.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3603,7 +5227,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dff46d1a5882c35d05beb056843624a13e1bcd1364a6adb2ebcae2e098aa1c6d",
+        "path": "data/variable-documentation/dff46d1a5882c35d05beb056843624a13e1bcd1364a6adb2ebcae2e098aa1c6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3634,6 +5263,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7700",
       "variable": "Bokförda intäkter som inte ska tas upp",
+      "register_version": "2019",
+      "source_task_id": "ddb9f4fab4eb5c9e842be1341a5284243ee37bc1fd47534ec51f1756028da1c6",
+      "id": "1fc84299795018a20a06479c80cfaf0816f60a054a5ad18c370cb70a71a958dc",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7700",
+          "ar_raw": "2007-2023",
+          "kallrad": 506,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40feb082c7cc04497ce5e36a30f849999b7bac9fddd14ba2976066f7db9e8dcf",
+        "path": "data/variable-documentation/40feb082c7cc04497ce5e36a30f849999b7bac9fddd14ba2976066f7db9e8dcf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7700",
+      "variable": "Bokförda intäkter som inte ska tas upp",
       "register_version": "2020",
       "source_task_id": "ddb9f4fab4eb5c9e842be1341a5284243ee37bc1fd47534ec51f1756028da1c6",
       "id": "139a86eea3e281d3278b2c5c4acf9aa86654eb4d230bfc14da4cf0eb04bdda45",
@@ -3651,7 +5309,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "725ad803b7351f02ea951a8f3fba788f25939f27fd1c82e216b7f3d5adbc9e99",
+        "path": "data/variable-documentation/725ad803b7351f02ea951a8f3fba788f25939f27fd1c82e216b7f3d5adbc9e99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3675,7 +5338,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3a330acc57037ff3f82b8bb2e2c17a0404ca801052453c2e9edff1b8fac57f3",
+        "path": "data/variable-documentation/e3a330acc57037ff3f82b8bb2e2c17a0404ca801052453c2e9edff1b8fac57f3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3699,7 +5367,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0554eaf896494e9c6421e2688fbccb89e5fffa3d9d907ba8f379a87c6c90170b",
+        "path": "data/variable-documentation/0554eaf896494e9c6421e2688fbccb89e5fffa3d9d907ba8f379a87c6c90170b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3730,6 +5403,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7701",
       "variable": "Andra kostnader som ska dras av men som inte bokförts på sådant sätt att de ingår i det redovisade resultatet",
+      "register_version": "2019",
+      "source_task_id": "eec8397f5de08e7cda415c2e58513b7be6c31dbebad15b2688b280b917fc05d0",
+      "id": "5235349859f981fa324f3062c13b59097e9cbefdaba92114433eff4d2e104f2d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7701",
+          "ar_raw": "2007-2023",
+          "kallrad": 507,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1113453ae39b403ff9cc5cb9d9173f57063f9f203f189169977ea2d0cfd898f0",
+        "path": "data/variable-documentation/1113453ae39b403ff9cc5cb9d9173f57063f9f203f189169977ea2d0cfd898f0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7701",
+      "variable": "Andra kostnader som ska dras av men som inte bokförts på sådant sätt att de ingår i det redovisade resultatet",
       "register_version": "2020",
       "source_task_id": "eec8397f5de08e7cda415c2e58513b7be6c31dbebad15b2688b280b917fc05d0",
       "id": "a44d00ee08daadcb777bf86778fbd8a4cb5473cd97171ed7d1607f55ef1dac3b",
@@ -3747,7 +5449,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "adf68f1339cd5077f90fe56d59699bc972abae13a27e0217c15c020321acfbc6",
+        "path": "data/variable-documentation/adf68f1339cd5077f90fe56d59699bc972abae13a27e0217c15c020321acfbc6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3771,7 +5478,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d3abdf018a8793e02f433f920188cc1cd11bc989e7fe812eb8b30555f735771",
+        "path": "data/variable-documentation/3d3abdf018a8793e02f433f920188cc1cd11bc989e7fe812eb8b30555f735771.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3795,7 +5507,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d76e1125405a2da058f841853b5d326dca19bc4c5985597b805e831d7db154a9",
+        "path": "data/variable-documentation/d76e1125405a2da058f841853b5d326dca19bc4c5985597b805e831d7db154a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3826,6 +5543,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7702",
       "variable": "Vid gemensam verksamhet/redovisning. Avgår annans andel av resultatet",
+      "register_version": "2019",
+      "source_task_id": "04c3e52b282c25748d0a750fcf19ab8120d125b270383f2384f9f66e5a842db4",
+      "id": "2ca7bb9182ec18c0f424e4f9ca81888dffb7fa67ca7cc2349dc91d8fa12fed39",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7702",
+          "ar_raw": "2007-2023",
+          "kallrad": 508,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c7732de415cc67b1b88e212011b77f12b13669af3392742088a962bf2979b520",
+        "path": "data/variable-documentation/c7732de415cc67b1b88e212011b77f12b13669af3392742088a962bf2979b520.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7702",
+      "variable": "Vid gemensam verksamhet/redovisning. Avgår annans andel av resultatet",
       "register_version": "2020",
       "source_task_id": "04c3e52b282c25748d0a750fcf19ab8120d125b270383f2384f9f66e5a842db4",
       "id": "1edef3763ad8736968939d6b69696a16996f72f8c341493c026856819b4f82fd",
@@ -3843,7 +5589,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc3b054fc9aadb661216d12a8bc275e71b5c85ce31c786b83b56ab51c6068006",
+        "path": "data/variable-documentation/dc3b054fc9aadb661216d12a8bc275e71b5c85ce31c786b83b56ab51c6068006.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3867,7 +5618,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c300bcba72f5c7354bd7620b1fc6768e80f74fdeb8633ad2cafdd9a68f123b4",
+        "path": "data/variable-documentation/9c300bcba72f5c7354bd7620b1fc6768e80f74fdeb8633ad2cafdd9a68f123b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3891,7 +5647,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3680bf6c0b406a5b29b186ab856e251389ee3e7883d9c76415a79a2346b25dd",
+        "path": "data/variable-documentation/e3680bf6c0b406a5b29b186ab856e251389ee3e7883d9c76415a79a2346b25dd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3922,6 +5683,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7703",
       "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Avgår, andel av inkomst som redovisas av medhjälpande make",
+      "register_version": "2019",
+      "source_task_id": "586735576df84912b2bc061657eda0d1e143a53ed52d32f4db02420c710b708d",
+      "id": "097a76339d01497032c0e67d756e68475af71d917ee69e64879d040f6878d7e8",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7703",
+          "ar_raw": "2007-2023",
+          "kallrad": 509,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "50f971a80689a42aed857f98bd9f26af7991ae3b1bc69d717275fafa2429f186",
+        "path": "data/variable-documentation/50f971a80689a42aed857f98bd9f26af7991ae3b1bc69d717275fafa2429f186.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7703",
+      "variable": "Inkomstfördelning mellan makar vid s.k. medhjälparfall: Avgår, andel av inkomst som redovisas av medhjälpande make",
       "register_version": "2020",
       "source_task_id": "586735576df84912b2bc061657eda0d1e143a53ed52d32f4db02420c710b708d",
       "id": "635017912ca6d1e0a527738f0a8a290358ce8591a558f39b7f5ede10d9a60eae",
@@ -3939,7 +5729,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "be38a18faaa9cffe6990568a326d39206f8ab1d0185b0f587690da6e05061cf3",
+        "path": "data/variable-documentation/be38a18faaa9cffe6990568a326d39206f8ab1d0185b0f587690da6e05061cf3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3963,7 +5758,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc80e5ab71e8d9320533dd1631c0878e8fe734df0b5555ebf2087d1012d3c9d8",
+        "path": "data/variable-documentation/dc80e5ab71e8d9320533dd1631c0878e8fe734df0b5555ebf2087d1012d3c9d8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -3987,7 +5787,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bf2c7c1f5e666104a2cb85602bef3ba38f731cabbda1ed3cdd8746b02302b356",
+        "path": "data/variable-documentation/bf2c7c1f5e666104a2cb85602bef3ba38f731cabbda1ed3cdd8746b02302b356.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4059,7 +5864,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "df9bd04722906f4d48dc6831a72b5e8625d66d8517f3e354350701a7336ff1e4",
+        "path": "data/variable-documentation/df9bd04722906f4d48dc6831a72b5e8625d66d8517f3e354350701a7336ff1e4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4083,7 +5893,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8808c1a1db44308194dbd3327a3c90f0d7905d4d0661cbd4e2079e15c699ab61",
+        "path": "data/variable-documentation/8808c1a1db44308194dbd3327a3c90f0d7905d4d0661cbd4e2079e15c699ab61.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4107,7 +5922,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbfc2f6b5a708e1a0a4728877718d7f43fe8f7b7d5c3fc0073f4732d816a0598",
+        "path": "data/variable-documentation/dbfc2f6b5a708e1a0a4728877718d7f43fe8f7b7d5c3fc0073f4732d816a0598.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4138,6 +5958,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7704",
       "variable": "Övriga kostnader min andel",
+      "register_version": "2019",
+      "source_task_id": "a8ecb3922a98a9113eadd354321e5653dee35507060ceeaed5576e0a98d13fee",
+      "id": "b30f3939f32640303718ee9bae1c8fd68bc7c9094a36c0b02bdd72111fa14390",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7704",
+          "ar_raw": "2007-2023",
+          "kallrad": 510,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c8e2e9ab16a407c267111a9fe62aac37dd030e7583e8f26af1701075cbabc00",
+        "path": "data/variable-documentation/1c8e2e9ab16a407c267111a9fe62aac37dd030e7583e8f26af1701075cbabc00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7704",
+      "variable": "Övriga kostnader min andel",
       "register_version": "2020",
       "source_task_id": "a8ecb3922a98a9113eadd354321e5653dee35507060ceeaed5576e0a98d13fee",
       "id": "90965fd5187a4dfe7dfc7dceffdf42c631ba322c8d93b44ef34c661b751f8854",
@@ -4155,7 +6004,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "756ae810e8b5777f9c2ed1496207d2a781a6544f72f0827ed11e1661c40fc210",
+        "path": "data/variable-documentation/756ae810e8b5777f9c2ed1496207d2a781a6544f72f0827ed11e1661c40fc210.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4179,7 +6033,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "793d55c7231f1ae8628976a02db0c7f97f7783175631f5fccb0f2e5a0c613f8c",
+        "path": "data/variable-documentation/793d55c7231f1ae8628976a02db0c7f97f7783175631f5fccb0f2e5a0c613f8c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4203,7 +6062,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "177feeb968c02d80c6f34cdd43c7b74dc7d06e76b925324f8a6d45fb8da0aa6b",
+        "path": "data/variable-documentation/177feeb968c02d80c6f34cdd43c7b74dc7d06e76b925324f8a6d45fb8da0aa6b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4234,6 +6098,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7705",
       "variable": "Outnyttjat underskott från tidigare år",
+      "register_version": "2019",
+      "source_task_id": "ff896d749634632b022e47c69478e8428e6dbb1503805711a37fcbccf886c7db",
+      "id": "9659728a94c0a8795cec802970c0c3fbe5b2d7d4a5f0c3b03783f1c8478b6e32",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7705",
+          "ar_raw": "2007-2023",
+          "kallrad": 511,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "91026e7bdde77543fbb6e3f615b3058a4ae3ee1dfda7951a8e53288e63c7d55d",
+        "path": "data/variable-documentation/91026e7bdde77543fbb6e3f615b3058a4ae3ee1dfda7951a8e53288e63c7d55d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7705",
+      "variable": "Outnyttjat underskott från tidigare år",
       "register_version": "2020",
       "source_task_id": "ff896d749634632b022e47c69478e8428e6dbb1503805711a37fcbccf886c7db",
       "id": "3df0c468c83a75d2ff4d493331a1468a6f38df823f37eb003676a1cb315cfbea",
@@ -4251,7 +6144,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e09d718d875ac4e822fa77256e1c6369904ceb71a3b724d9a1b2c710c165bd5f",
+        "path": "data/variable-documentation/e09d718d875ac4e822fa77256e1c6369904ceb71a3b724d9a1b2c710c165bd5f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4275,7 +6173,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0fa936edd50d1db08e18cd7ffad1129b6d0a76bd9e78aa6f687ff035d31ff66f",
+        "path": "data/variable-documentation/0fa936edd50d1db08e18cd7ffad1129b6d0a76bd9e78aa6f687ff035d31ff66f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4299,7 +6202,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "584a58d80d383b4eaef82498a7618a5adc0e197580e409c646edec1b4f1cc768",
+        "path": "data/variable-documentation/584a58d80d383b4eaef82498a7618a5adc0e197580e409c646edec1b4f1cc768.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4330,6 +6238,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7706",
       "variable": "Skogsavdrag, substansminskningsavdrag",
+      "register_version": "2019",
+      "source_task_id": "67c91f2e0e67ee4db3393d136078c53fea2e8f08e8dca6a06a32bed50c3e0561",
+      "id": "0425a65d441f0eff2b92429e2789565474242bb437df1a7501d2d8a7f328ff6c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7706",
+          "ar_raw": "2007-2023",
+          "kallrad": 512,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2775a0aebb53435bd841f25ecb50d0449d6011b2dcee68ef3f6b432711bef8df",
+        "path": "data/variable-documentation/2775a0aebb53435bd841f25ecb50d0449d6011b2dcee68ef3f6b432711bef8df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7706",
+      "variable": "Skogsavdrag, substansminskningsavdrag",
       "register_version": "2020",
       "source_task_id": "67c91f2e0e67ee4db3393d136078c53fea2e8f08e8dca6a06a32bed50c3e0561",
       "id": "373afdafd338ea4203732c352859f3b4b04f617efbc54d47628434e3e913332e",
@@ -4347,7 +6284,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4358a89c39d1e3666bcd855ac280d28e5acce6511f81c8c34ad112b1ddc2272b",
+        "path": "data/variable-documentation/4358a89c39d1e3666bcd855ac280d28e5acce6511f81c8c34ad112b1ddc2272b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4371,7 +6313,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd85a3a27d808e8f33283377773b2312ece4b2684b0006e2208c30db1e8d4b33",
+        "path": "data/variable-documentation/fd85a3a27d808e8f33283377773b2312ece4b2684b0006e2208c30db1e8d4b33.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4395,7 +6342,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd7518fd5e2c1cd4e7e35906b6e90e77694dbf75d52cad5ee2fc56f9db3c2bac",
+        "path": "data/variable-documentation/dd7518fd5e2c1cd4e7e35906b6e90e77694dbf75d52cad5ee2fc56f9db3c2bac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4426,6 +6378,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7707",
       "variable": "Inbetalning till skogs-/ skogsskade-/ upphovsmannakonto",
+      "register_version": "2019",
+      "source_task_id": "b106c72d1ab15bab8cb979d1c27b6327ec092a41236a2cf56e6ad5bf1c278ec0",
+      "id": "4713769a88c1ba9fba354001ed2c8665116aee511313072f590b9faf68b889d6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7707",
+          "ar_raw": "2007-2023",
+          "kallrad": 513,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97b69e4ee935478a2af0756246a23fe554fc1c0adb8e5c1060c239a32ae5970e",
+        "path": "data/variable-documentation/97b69e4ee935478a2af0756246a23fe554fc1c0adb8e5c1060c239a32ae5970e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7707",
+      "variable": "Inbetalning till skogs-/ skogsskade-/ upphovsmannakonto",
       "register_version": "2020",
       "source_task_id": "b106c72d1ab15bab8cb979d1c27b6327ec092a41236a2cf56e6ad5bf1c278ec0",
       "id": "e6e4600b240dd8ad4a37c4de006f67a178ec5a3279f514ffb75db10c30fb59c5",
@@ -4443,7 +6424,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d7e74794889a46354662d44d099b70c09f9cf66f5641610e2cc7d4de9247eca",
+        "path": "data/variable-documentation/7d7e74794889a46354662d44d099b70c09f9cf66f5641610e2cc7d4de9247eca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4467,7 +6453,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68db9b01a5217cd53a81fccd9206d4732cd7b9e4cf36cf6ba2898652fa05e5d5",
+        "path": "data/variable-documentation/68db9b01a5217cd53a81fccd9206d4732cd7b9e4cf36cf6ba2898652fa05e5d5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4491,7 +6482,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "783e2e6ffca4fada655de0899d7b0f7ef0d302c9312aa02f325c10bbf41b1e3d",
+        "path": "data/variable-documentation/783e2e6ffca4fada655de0899d7b0f7ef0d302c9312aa02f325c10bbf41b1e3d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4522,6 +6518,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7708",
       "variable": "Positiv räntefördelning enligt beräkning på blankett N6, dock högst överskott vid punkt 23",
+      "register_version": "2019",
+      "source_task_id": "bdc90c103b65029eb6323647e9d7652e25ddaaa3625b24b0cc1072d2bec889fe",
+      "id": "872603a02b835ec8e792a55fdacfbc1e9b30bce50244b30fe51b33faa37e04ee",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7708",
+          "ar_raw": "2007-2023",
+          "kallrad": 514,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0a1eca169a334ece5d48eb3e9fd0e291d02594364aa36e95485b956e6e078c8b",
+        "path": "data/variable-documentation/0a1eca169a334ece5d48eb3e9fd0e291d02594364aa36e95485b956e6e078c8b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7708",
+      "variable": "Positiv räntefördelning enligt beräkning på blankett N6, dock högst överskott vid punkt 23",
       "register_version": "2020",
       "source_task_id": "bdc90c103b65029eb6323647e9d7652e25ddaaa3625b24b0cc1072d2bec889fe",
       "id": "51b200516103edee802684a037b15fd8f54dc78e4085844a7882c3b15872b200",
@@ -4539,7 +6564,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0a9a05cf2370138a865209817d63aee98b6f785b14ee3a0eeeb38511fe9a3dd8",
+        "path": "data/variable-documentation/0a9a05cf2370138a865209817d63aee98b6f785b14ee3a0eeeb38511fe9a3dd8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4563,7 +6593,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b5cb1f66ef5c631e9299cf3f98f3c8cd65d25bae82510724a698e6214b6c823",
+        "path": "data/variable-documentation/6b5cb1f66ef5c631e9299cf3f98f3c8cd65d25bae82510724a698e6214b6c823.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4587,7 +6622,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d4c7c43e9adaf46ea2cb476bc61f3665d1972e9d0253ad2874fb4ff384b119e",
+        "path": "data/variable-documentation/3d4c7c43e9adaf46ea2cb476bc61f3665d1972e9d0253ad2874fb4ff384b119e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4618,6 +6658,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7730",
       "variable": "Kvarvarande underskott. Överförs till INK1 sidan 2, kod 125/126. Nästa år förs beloppet till kod 809.",
+      "register_version": "2019",
+      "source_task_id": "5383615bd0289eaa4f9ff4c83d5175b1c86109dd2c6039e5672ff19e14f2aa8a",
+      "id": "cc8b34c10711efd9a4b7a9a490d699fd934db3d442958de7fc76565694623871",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7730",
+          "ar_raw": "2007-2023",
+          "kallrad": 515,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3e87c930171d73937708e1c7c97cc42589a8dd9ddb88e44bd56f78fb3aa7b62e",
+        "path": "data/variable-documentation/3e87c930171d73937708e1c7c97cc42589a8dd9ddb88e44bd56f78fb3aa7b62e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7730",
+      "variable": "Kvarvarande underskott. Överförs till INK1 sidan 2, kod 125/126. Nästa år förs beloppet till kod 809.",
       "register_version": "2020",
       "source_task_id": "5383615bd0289eaa4f9ff4c83d5175b1c86109dd2c6039e5672ff19e14f2aa8a",
       "id": "a69837270b3b85f9395134d77223d180d4d4d89e03c08bf42f9759ad6f6aa350",
@@ -4635,7 +6704,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e2c1e3babe64944cbc5d88aa2002335f4b3a09918593a7fbe3a84dbffaa5aa56",
+        "path": "data/variable-documentation/e2c1e3babe64944cbc5d88aa2002335f4b3a09918593a7fbe3a84dbffaa5aa56.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4659,7 +6733,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a690a078994e18c4bd103691688feae0126d12525955eb0770dd11b99422409b",
+        "path": "data/variable-documentation/a690a078994e18c4bd103691688feae0126d12525955eb0770dd11b99422409b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4683,7 +6762,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "94f02f8417fbcdd7adff6c24e96949f00665f844fd17837e2ffbcef97c8fc0c2",
+        "path": "data/variable-documentation/94f02f8417fbcdd7adff6c24e96949f00665f844fd17837e2ffbcef97c8fc0c2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4714,6 +6798,35 @@
       "variant": "Enskilda näringsidkare",
       "column": "V7780",
       "variable": "Underskott från NEA-blanketten",
+      "register_version": "2019",
+      "source_task_id": "8905d102bc560ea8961660bf156ae9e8251f5030dd29160eaeae88d64a316093",
+      "id": "5d6850030e8c6d8732751d1e8eeee6d89acbcda3c466c54ffabdf6cfc01fe5e5",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:44:11+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "frida_ne",
+          "variabel": "V7780",
+          "ar_raw": "2007-2023",
+          "kallrad": 516,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "135ab41125fdf78ec769eaca47a85b80df943829da9eb915f5ee0e603c77486d",
+        "path": "data/variable-documentation/135ab41125fdf78ec769eaca47a85b80df943829da9eb915f5ee0e603c77486d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Enskilda näringsidkare",
+      "column": "V7780",
+      "variable": "Underskott från NEA-blanketten",
       "register_version": "2020",
       "source_task_id": "8905d102bc560ea8961660bf156ae9e8251f5030dd29160eaeae88d64a316093",
       "id": "619b3822c1f59cd8bf3639087732e5ce21c886a60a5b5e4103d511714944243e",
@@ -4731,7 +6844,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cdd189c1c3b0c9e067c00c13fa45858b034b893a8df1c9ae2c42d976c09eccf2",
+        "path": "data/variable-documentation/cdd189c1c3b0c9e067c00c13fa45858b034b893a8df1c9ae2c42d976c09eccf2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4755,7 +6873,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "949755758caa9e060e766f6bd8e118955cdb656a1e1a292b91940a36467a2ef8",
+        "path": "data/variable-documentation/949755758caa9e060e766f6bd8e118955cdb656a1e1a292b91940a36467a2ef8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4779,7 +6902,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8853e59ca6015f4b62727ffa08f3df7592f737d12736562feef224ef32684355",
+        "path": "data/variable-documentation/8853e59ca6015f4b62727ffa08f3df7592f737d12736562feef224ef32684355.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:11+00:00"
     },
     {
       "register": "FRIDA",
@@ -4826,14 +6954,63 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "f6e9475bec6e202a0ba8b50e1663c62d2d65de55cf9c720fa281051e25eecf7d",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "054cde2178cb586a7e1cc33b51d11aac98d4e8385485724aa0930c1617651e72",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:12:41+00:00",
+    "retrieved_at": "2026-11-21T07:44:11+00:00",
     "task_count": 45,
     "expected_bindings": 519,
-    "errors": []
+    "documented_bindings": 200,
+    "errors": [
+      "V0806 2006: Locator expected to have class 're.compile('\\\\bmud-theme-primary\\\\b')'\nActual value: mud-table-row mud-table-row-stripe\nError: element(s) not found \nCall log:\n  - Expect \"to_have_class\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"V0806\", exact=True)).filter(has=get_by_role(\"cell\", name=\"FRIDA\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Enskilda näringsidkare\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Avdragsgilla kostnader för resor mellan bostad och arbetsplats över 7 000 kr m.m.\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2000\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2006\", exact=True))\n    3 × locator resolved to <tr class=\"mud-table-row mud-table-row-stripe\">…</tr>\n      - unexpected value \"mud-table-row mud-table-row-stripe\"\n",
+      "V0806 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0809 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0813 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0813 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0814 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0814 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0816 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0817 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0829 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0845 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0854 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0874 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0880 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7600 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7601 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7602 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7603 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7604 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7605 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7606 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7607 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7614 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7614 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7630 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7680 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7700 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7701 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7702 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7703 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7703 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7703 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7704 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7705 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7706 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7707 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7708 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7730 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V7780 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0822 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0153 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0177 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0799 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0802 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0802 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "V0806 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n    2 × waiting for\" https://mikrometadata.scb.se/\" navigation to finish...\n      - navigated to \"https://mikrometadata.scb.se/\"\n",
+      "V0814 2005: Locator.click: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"V0814\", exact=True)).filter(has=get_by_role(\"cell\", name=\"FRIDA\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Enskilda näringsidkare\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Underskott av annan verksamhet från N1A/N2A och andel till medhjälpande make\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2000\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2006\", exact=True)).locator(\"td[data-label=\\\"Kolumn\\\"]\")\n    - locator resolved to <td data-label=\"Kolumn\" class=\"mud-table-cell cursor-pointer\">V0814</td>\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <svg viewBox=\"22.5 22.5 43 43\" class=\"mud-progress-circular-svg\">…</svg> from <div id=\"reconnect-modal\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"mud-paper mud-elevation-0 d-flex justify-center align-center mud-theme-transparent\">…</div> from <div id=\"reconnect-modal\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <svg viewBox=\"22.5 22.5 43 43\" class=\"mud-progress-circular-svg\">…</svg> from <div id=\"reconnect-modal\">…</div> subtree intercepts pointer events\n  2 × retrying click action\n      - waiting 100ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"mud-paper mud-elevation-0 d-flex justify-center align-center mud-theme-transparent\">…</div> from <div id=\"reconnect-modal\">…</div> subtree intercepts pointer events\n  2 × retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"mud-paper mud-elevation-0 d-flex justify-center align-center mud-theme-transparent\">…</div> from <div id=\"reconnect-modal\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for\" https://mikrometadata.scb.se/\" navigation to finish...\n    - navigated to \"https://mikrometadata.scb.se/\"\n    - waiting for element to be visible, enabled and stable\n  - element was detached from the DOM, retrying\n"
+    ]
   }
 }
