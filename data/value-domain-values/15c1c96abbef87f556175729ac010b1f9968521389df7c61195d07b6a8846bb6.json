@@ -1,0 +1,56 @@
+{
+  "version": "Avslutningsorsak, ESF",
+  "level": "Avslutningsorsak",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "Fullföljt projekt i arbete - A.1"
+    },
+    {
+      "code": "10",
+      "label": "Avbrutit av okänd orsak"
+    },
+    {
+      "code": "2",
+      "label": "Fullföljt projekt i studier - skolprojekt"
+    },
+    {
+      "code": "3",
+      "label": "Avslutat för sysselsättning: anställd"
+    },
+    {
+      "code": "4",
+      "label": "Avslutad för sysselsättning: egenföretagare"
+    },
+    {
+      "code": "5",
+      "label": "Avslutat för studier"
+    },
+    {
+      "code": "6",
+      "label": "Avslutat för lärlings-/praktikplats"
+    },
+    {
+      "code": "7",
+      "label": "Avslutat för att söka arbete"
+    },
+    {
+      "code": "8",
+      "label": "Avslutat för annat"
+    },
+    {
+      "code": "9",
+      "label": "Avbrutit av känd orsak"
+    },
+    {
+      "code": "NULL",
+      "label": "Okänt värde"
+    }
+  ],
+  "id": "15c1c96abbef87f556175729ac010b1f9968521389df7c61195d07b6a8846bb6"
+}

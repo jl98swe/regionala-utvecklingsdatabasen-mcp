@@ -1,0 +1,489 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "f7c4aef688d8ccabf19c",
+  "register": "Europeiska socialfonden (ESF)",
+  "variant": "Deltagare i ESF-projekt",
+  "bindings": [
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "AntalTim",
+      "variable": "Antal timmar i projektet",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "25b8b07cc5bc821466062865ce985e38fa554744183256ca79afb97ca1824da2",
+      "id": "b0e639c25a6d0b6798ac14891c5cdb63c114fffe8b08305e88bdd86d6a3368de",
+      "domain_id": "f8f47e7971729860db3e1d14af90e0091bf9f5373d9e24d49948be6f68d0102d",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "AntalTim",
+          "ar_raw": null,
+          "kallrad": 214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8f7614cfc4f4aaf372469da24be3ca37e17047967989dd539b2ec3a68baeef33",
+        "path": "data/variable-documentation/8f7614cfc4f4aaf372469da24be3ca37e17047967989dd539b2ec3a68baeef33.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "AnvFran",
+      "variable": "Anvisad från",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "334b44bc4eb757f9926bd7ad52b1218eae7e864be3a0e4e0228e516bc3640030",
+      "id": "b40e0fca529a4b8c2dcf8371dffe9a4bcd4a587b8971b61b608c44e5a362c645",
+      "domain_id": "00773abc81a91c0f85c1d75dc068cda2aca64f5072846a57f23ac715167c98de",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "AnvFran",
+          "ar_raw": null,
+          "kallrad": 215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "67252db43db3766c5d032b07f613d968fceff526ea9c94a3685f397a078a6130",
+        "path": "data/variable-documentation/67252db43db3766c5d032b07f613d968fceff526ea9c94a3685f397a078a6130.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "AnvFran",
+      "variable": "Anvisad från",
+      "register_version": "Programperiod 2021-2027",
+      "source_task_id": "334b44bc4eb757f9926bd7ad52b1218eae7e864be3a0e4e0228e516bc3640030",
+      "id": "4f8f1b2d7ee760bd7044951a122acdf86883df8aa4633cf1073b9fa69b8d73eb",
+      "domain_id": "0f782f903a94027c780f4df62068d291e15a306fb9f2b71de16ab2f5abc1883c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "AnvFran",
+          "ar_raw": null,
+          "kallrad": 215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "755eaa3742c8e0a24130956139b5687d94a06b7b3763c61f74fdc2a3eba6eef1",
+        "path": "data/variable-documentation/755eaa3742c8e0a24130956139b5687d94a06b7b3763c61f74fdc2a3eba6eef1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "AvslOrsak",
+      "variable": "Avslutningsorsak",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "9f3abb5b8f1a2e9775dc1307fb13b34e1ccedbd991928f3f543b2ba4db47371e",
+      "id": "5f66b81dec270efe46e42716be6da7b9762a227a7e48857ccd2e386c0ff12f2f",
+      "domain_id": "7ead0b6ab7f07346b720cc4cef306929e2d539cf8fd4b696cccf7209c7d9b77a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "AvslOrsak",
+          "ar_raw": null,
+          "kallrad": 216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2027308fe2e987728a772ba416777532d51171eb8dd276264c47d56be996f655",
+        "path": "data/variable-documentation/2027308fe2e987728a772ba416777532d51171eb8dd276264c47d56be996f655.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "AvslOrsak",
+      "variable": "Avslutningsorsak",
+      "register_version": "Programperiod 2021-2027",
+      "source_task_id": "9f3abb5b8f1a2e9775dc1307fb13b34e1ccedbd991928f3f543b2ba4db47371e",
+      "id": "a0251b1e1e07fa71b6f553f6f05452fb52afa42f70db1f87fd1ea7f65e509bc3",
+      "domain_id": "15c1c96abbef87f556175729ac010b1f9968521389df7c61195d07b6a8846bb6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "AvslOrsak",
+          "ar_raw": null,
+          "kallrad": 216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "77c9d6104f2c6b4b9104b8a329061c056d6831f2f32f3c19f341aa9aaec01b1a",
+        "path": "data/variable-documentation/77c9d6104f2c6b4b9104b8a329061c056d6831f2f32f3c19f341aa9aaec01b1a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "DeltPo",
+      "variable": "Deltagit",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "42eaa8a12cfd1fd9385fa3269b1a6db3250a67211beabebb001907a4ef92b323",
+      "id": "08f17edbbbd09e0cc7cc950d9cd3e301da2f71393d522e47fae45a9dfbb869c7",
+      "domain_id": "fd9a37499c4d4a3d32af90847606ac135580d5adc6a67b57e7b689391e3041e6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "DeltPo",
+          "ar_raw": null,
+          "kallrad": 217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ed941ee2b44923223da339c77a830e5984b895bf801d72de6906e4923da0fb5d",
+        "path": "data/variable-documentation/ed941ee2b44923223da339c77a830e5984b895bf801d72de6906e4923da0fb5d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "ProjektNamn",
+      "variable": "Projektnamn",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "c57180451cfa65ac182eeb3fd8ff1f4a51a31e541a0638ccbe0add43c2190452",
+      "id": "4052dd115fc8e2f0828dc36696e830e886ec8603b3bb9487c6d685c0a1318b70",
+      "domain_id": "d125933d4788cf0508649adc312d9ca779dcfd1ddc54968eb5ca05b586df1ca4",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "ProjektNamn",
+          "ar_raw": null,
+          "kallrad": 220,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2d662d08695f9c67d15cd09321e932b3b969670add06d3246196ad8f4fe6f69e",
+        "path": "data/variable-documentation/2d662d08695f9c67d15cd09321e932b3b969670add06d3246196ad8f4fe6f69e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "ProjektNamn",
+      "variable": "Projektnamn",
+      "register_version": "Programperiod 2021-2027",
+      "source_task_id": "c57180451cfa65ac182eeb3fd8ff1f4a51a31e541a0638ccbe0add43c2190452",
+      "id": "17c864df0cb33a4405a57b5fa56b631e18d673f46d47ee403318b580e338571a",
+      "domain_id": "d125933d4788cf0508649adc312d9ca779dcfd1ddc54968eb5ca05b586df1ca4",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "ProjektNamn",
+          "ar_raw": null,
+          "kallrad": 220,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4fac686ba0cfa2fe9e6c4c419acc0fdd3bce27c1d0715b604236f25a202803d2",
+        "path": "data/variable-documentation/4fac686ba0cfa2fe9e6c4c419acc0fdd3bce27c1d0715b604236f25a202803d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "Region",
+      "variable": "Projektets region",
+      "register_version": "Programperiod 2021-2027",
+      "source_task_id": "74944086e62506f4b9aa9e6ccaccfce58b5852e83643049fa628a5d8b7931c20",
+      "id": "add196ce1f6da4e67bb15ac01443341f69ec21d375bba7c853dc037b64131d25",
+      "domain_id": "7018225074b0cb87d00426bdc8dd04b40191dbf8b9a2a925f4159bb8a8f322da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "Region",
+          "ar_raw": null,
+          "kallrad": 221,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ac9f6314363936c3b54ad0c9a409f48cc8c4b385131240133948359a41fcb0f8",
+        "path": "data/variable-documentation/ac9f6314363936c3b54ad0c9a409f48cc8c4b385131240133948359a41fcb0f8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "Slutdatum",
+      "variable": "Slutdatum",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "24f83746b3d4e116fcec9b127ff0e82813cb3716f5747303125981394797dc33",
+      "id": "ad18a074a1a36301d400e007d16ce4abe2bac962a3caaf3ae9cfaad46ad9dc69",
+      "domain_id": "2486e48d159309a43241e219c34bb6d0ffd4180500237c90e438311a98306a0a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "Slutdatum",
+          "ar_raw": null,
+          "kallrad": 222,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a6df68ee44975b3e5ab467b35c212b8cd8fab7b630f4a1b87f0b971fe4ae4f18",
+        "path": "data/variable-documentation/a6df68ee44975b3e5ab467b35c212b8cd8fab7b630f4a1b87f0b971fe4ae4f18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "Startdatum",
+      "variable": "Startdatum",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "5e0ab562452e6929710486a6bdf01deca6c18270f39b47ede7addb791c6313b0",
+      "id": "ddf90967691cc61720ab9a0f82bc7b44b262341af2aed440f84f28e31f9a5a61",
+      "domain_id": "2486e48d159309a43241e219c34bb6d0ffd4180500237c90e438311a98306a0a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "Startdatum",
+          "ar_raw": null,
+          "kallrad": 223,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "525f18316e369fd5de56281c7a1ab0e879c248715427ecb28d40e49a26c7ce88",
+        "path": "data/variable-documentation/525f18316e369fd5de56281c7a1ab0e879c248715427ecb28d40e49a26c7ce88.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "kval",
+      "variable": "Kvalifikation",
+      "register_version": "Programperiod 2014-2020 ",
+      "source_task_id": "995d4e4e159cff5115500b1cb6e8651edf6da2985de8f259cef622e85f9ecb43",
+      "id": "9ca301422a9c9d68d1a9dde7d489bab9f833d46073f1663d38725c806f0a9b6e",
+      "domain_id": "10c39f91e92ec3bba372b36ed8d429b87f32fb7d8b4cda95e4ae1ae69e359fbe",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "Kval",
+          "ar_raw": null,
+          "kallrad": 218,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "d13232ef20c79e7926cfe9e6a6c2f71b4206a537321b089a05ffb4626086fc14",
+        "path": "data/variable-documentation/d13232ef20c79e7926cfe9e6a6c2f71b4206a537321b089a05ffb4626086fc14.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    },
+    {
+      "register": "Europeiska socialfonden (ESF)",
+      "variant": "Deltagare i ESF-projekt",
+      "column": "kval",
+      "variable": "Kvalifikation",
+      "register_version": "Programperiod 2021-2027",
+      "source_task_id": "995d4e4e159cff5115500b1cb6e8651edf6da2985de8f259cef622e85f9ecb43",
+      "id": "fd5871b98ea37a14e9152c70541f3706123bd543452af078891d479245af6569",
+      "domain_id": "4d836983359fa885f97805daa561f451826807c1379ca555c807b06515dd41fe",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:04:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "esf",
+          "variabel": "Kval",
+          "ar_raw": null,
+          "kallrad": 218,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "67c7536158283b64da829d93d9811f3d294cb37b325be32900ee784ed1c8eb00",
+        "path": "data/variable-documentation/67c7536158283b64da829d93d9811f3d294cb37b325be32900ee784ed1c8eb00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:04:50+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Anvisning deltagare",
+      "level": "Anvisning deltagare",
+      "data_type": "char(1)",
+      "id": "00773abc81a91c0f85c1d75dc068cda2aca64f5072846a57f23ac715167c98de",
+      "value_count": 4,
+      "path": "data/value-domain-values/00773abc81a91c0f85c1d75dc068cda2aca64f5072846a57f23ac715167c98de.json"
+    },
+    {
+      "version": "Anvisning ESF+ ",
+      "level": "Anvisning, ESF+",
+      "data_type": "char(1)",
+      "id": "0f782f903a94027c780f4df62068d291e15a306fb9f2b71de16ab2f5abc1883c",
+      "value_count": 9,
+      "path": "data/value-domain-values/0f782f903a94027c780f4df62068d291e15a306fb9f2b71de16ab2f5abc1883c.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(3)",
+      "id": "10c39f91e92ec3bba372b36ed8d429b87f32fb7d8b4cda95e4ae1ae69e359fbe",
+      "value_count": 0,
+      "path": "data/value-domain-values/10c39f91e92ec3bba372b36ed8d429b87f32fb7d8b4cda95e4ae1ae69e359fbe.json"
+    },
+    {
+      "version": "Avslutningsorsak, ESF",
+      "level": "Avslutningsorsak",
+      "data_type": "char(2)",
+      "id": "15c1c96abbef87f556175729ac010b1f9968521389df7c61195d07b6a8846bb6",
+      "value_count": 12,
+      "path": "data/value-domain-values/15c1c96abbef87f556175729ac010b1f9968521389df7c61195d07b6a8846bb6.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "date",
+      "id": "2486e48d159309a43241e219c34bb6d0ffd4180500237c90e438311a98306a0a",
+      "value_count": 0,
+      "path": "data/value-domain-values/2486e48d159309a43241e219c34bb6d0ffd4180500237c90e438311a98306a0a.json"
+    },
+    {
+      "version": "Alternativ  ",
+      "level": "Ja/nej-alternativ",
+      "data_type": "char(1)",
+      "id": "4d836983359fa885f97805daa561f451826807c1379ca555c807b06515dd41fe",
+      "value_count": 4,
+      "path": "data/value-domain-values/4d836983359fa885f97805daa561f451826807c1379ca555c807b06515dd41fe.json"
+    },
+    {
+      "version": "Regionala indikatorer, ESF",
+      "level": "Regionala indikatorer, ESF",
+      "data_type": "char(1)",
+      "id": "7018225074b0cb87d00426bdc8dd04b40191dbf8b9a2a925f4159bb8a8f322da",
+      "value_count": 9,
+      "path": "data/value-domain-values/7018225074b0cb87d00426bdc8dd04b40191dbf8b9a2a925f4159bb8a8f322da.json"
+    },
+    {
+      "version": "Avslutning projekt",
+      "level": "Avslutning projekt",
+      "data_type": "char(1)",
+      "id": "7ead0b6ab7f07346b720cc4cef306929e2d539cf8fd4b696cccf7209c7d9b77a",
+      "value_count": 5,
+      "path": "data/value-domain-values/7ead0b6ab7f07346b720cc4cef306929e2d539cf8fd4b696cccf7209c7d9b77a.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(255)",
+      "id": "d125933d4788cf0508649adc312d9ca779dcfd1ddc54968eb5ca05b586df1ca4",
+      "value_count": 0,
+      "path": "data/value-domain-values/d125933d4788cf0508649adc312d9ca779dcfd1ddc54968eb5ca05b586df1ca4.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "varchar(50)",
+      "id": "f8f47e7971729860db3e1d14af90e0091bf9f5373d9e24d49948be6f68d0102d",
+      "value_count": 0,
+      "path": "data/value-domain-values/f8f47e7971729860db3e1d14af90e0091bf9f5373d9e24d49948be6f68d0102d.json"
+    },
+    {
+      "version": "Projekt",
+      "level": "Projektområde",
+      "data_type": "char(1)",
+      "id": "fd9a37499c4d4a3d32af90847606ac135580d5adc6a67b57e7b689391e3041e6",
+      "value_count": 2,
+      "path": "data/value-domain-values/fd9a37499c4d4a3d32af90847606ac135580d5adc6a67b57e7b689391e3041e6.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "6e44755f299ea7c1ca811c54c5d363ece1272fa66e3a417b3f95f3483d8b76bb",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:04:50+00:00",
+    "task_count": 9,
+    "expected_bindings": 13,
+    "documented_bindings": 13,
+    "errors": []
+  }
+}
