@@ -1,0 +1,464 @@
+{
+  "version": "Standard för svensk yrkesklassificering 1996",
+  "level": "Yrkesgrupp",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "***",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "011",
+      "label": "Militärer"
+    },
+    {
+      "code": "111",
+      "label": "Högre ämbetsmän och politiker"
+    },
+    {
+      "code": "112",
+      "label": "Chefstjänstemän i intresseorganisationer"
+    },
+    {
+      "code": "121",
+      "label": "Verkställande direktörer, verkschefer m.fl."
+    },
+    {
+      "code": "122",
+      "label": "Drift- och verksamhetschefer"
+    },
+    {
+      "code": "123",
+      "label": "Chefer för särskilda funktioner"
+    },
+    {
+      "code": "131",
+      "label": "Chefer för mindre företag och enheter"
+    },
+    {
+      "code": "211",
+      "label": "Fysiker, kemister m.fl."
+    },
+    {
+      "code": "212",
+      "label": "Matematiker och statistiker"
+    },
+    {
+      "code": "213",
+      "label": "Dataspecialister"
+    },
+    {
+      "code": "214",
+      "label": "Civilingenjörer, arkitekter m.fl."
+    },
+    {
+      "code": "221",
+      "label": "Specialister inom biologi, jord- och skogsbruk m.m."
+    },
+    {
+      "code": "222",
+      "label": "Hälso - och sjukvårdsspecialister"
+    },
+    {
+      "code": "223",
+      "label": "Barnmorskor; sjuksköterskor med särskild kompetens"
+    },
+    {
+      "code": "231",
+      "label": "Universitets- och högskollärare"
+    },
+    {
+      "code": "232",
+      "label": "Gymnasielärare m.fl."
+    },
+    {
+      "code": "233",
+      "label": "Grundskollärare"
+    },
+    {
+      "code": "234",
+      "label": "Speciallärare"
+    },
+    {
+      "code": "235",
+      "label": "Andra pedagoger med teoretisk specialistkompetens"
+    },
+    {
+      "code": "241",
+      "label": "Företagsekonomer, marknadsförare och personaltjänstemän"
+    },
+    {
+      "code": "242",
+      "label": "Jurister"
+    },
+    {
+      "code": "243",
+      "label": "Arkivarier, bibliotekarier m.fl."
+    },
+    {
+      "code": "244",
+      "label": "Samhälls- och språkvetare"
+    },
+    {
+      "code": "245",
+      "label": "Journalister, konstnärer, skådespelare m.fl."
+    },
+    {
+      "code": "246",
+      "label": "Präster"
+    },
+    {
+      "code": "247",
+      "label": "Administratörer i offentlig förvaltning"
+    },
+    {
+      "code": "248",
+      "label": "Administratörer i intresseorganisationer"
+    },
+    {
+      "code": "249",
+      "label": "Psykologer, socialsekreterare m.fl."
+    },
+    {
+      "code": "311",
+      "label": "Ingenjörer och tekniker"
+    },
+    {
+      "code": "312",
+      "label": "Datatekniker och dataoperatörer"
+    },
+    {
+      "code": "313",
+      "label": "Fotografer; ljud- och bildtekniker, sjukhustekniker m.fl."
+    },
+    {
+      "code": "314",
+      "label": "Piloter, fartygsbefäl m.fl."
+    },
+    {
+      "code": "315",
+      "label": "Säkerhets- och kvalitetsinpektörer"
+    },
+    {
+      "code": "321",
+      "label": "Lantmästare, skogsmästare m.fl."
+    },
+    {
+      "code": "322",
+      "label": "Sjukgymnaster, tandhygienister m.fl."
+    },
+    {
+      "code": "323",
+      "label": "Sjuksköterskor"
+    },
+    {
+      "code": "324",
+      "label": "Biomedicinska analytiker"
+    },
+    {
+      "code": "331",
+      "label": "Förskollärare och fritidspedagoger"
+    },
+    {
+      "code": "332",
+      "label": "Andra lärare och instruktörer"
+    },
+    {
+      "code": "341",
+      "label": "Säljare, inköpare, mäklare m.fl."
+    },
+    {
+      "code": "342",
+      "label": "Agenter, förmedlare m.fl."
+    },
+    {
+      "code": "343",
+      "label": "Redovisningsekonomer, administrativa assistenter m.fl."
+    },
+    {
+      "code": "344",
+      "label": "Tull-, taxerings- och socialförsäkringstjänstemän"
+    },
+    {
+      "code": "345",
+      "label": "Poliser"
+    },
+    {
+      "code": "346",
+      "label": "Behandlingsassistenter, fritidsledare m.fl."
+    },
+    {
+      "code": "347",
+      "label": "Tecknare, underhållare, professionella idrottsutövare m.fl."
+    },
+    {
+      "code": "348",
+      "label": "Pastorer"
+    },
+    {
+      "code": "411",
+      "label": "Kontorssekreterare och dataregistrerare"
+    },
+    {
+      "code": "412",
+      "label": "Bokförings- och redovisningsassistenter"
+    },
+    {
+      "code": "413",
+      "label": "Lager- och transportassistenter"
+    },
+    {
+      "code": "414",
+      "label": "Biblioteksassistenter m.fl."
+    },
+    {
+      "code": "415",
+      "label": "Brevbärare m.fl."
+    },
+    {
+      "code": "419",
+      "label": "Övrig kontorspersonal"
+    },
+    {
+      "code": "421",
+      "label": "Kassapersonal m.fl."
+    },
+    {
+      "code": "422",
+      "label": "Kundinformatörer"
+    },
+    {
+      "code": "511",
+      "label": "Resevärdar m.fl."
+    },
+    {
+      "code": "512",
+      "label": "Storhushålls- och restaurangpersonal"
+    },
+    {
+      "code": "513",
+      "label": "Vård- och omsorgspersonal"
+    },
+    {
+      "code": "514",
+      "label": "Frisörer och annan servicepersonal, personliga tjänster"
+    },
+    {
+      "code": "515",
+      "label": "Säkerhetspersonal"
+    },
+    {
+      "code": "521",
+      "label": "Fotomodeller m.fl."
+    },
+    {
+      "code": "522",
+      "label": "Försäljare, detaljhandel; demonstratörer m.fl."
+    },
+    {
+      "code": "611",
+      "label": "Växtodlare inom jordbruk och trädgård"
+    },
+    {
+      "code": "612",
+      "label": "Djuruppfödare och djurskötare"
+    },
+    {
+      "code": "613",
+      "label": "Växtodlare och djuruppfödare, blandad drift"
+    },
+    {
+      "code": "614",
+      "label": "Skogsbrukare"
+    },
+    {
+      "code": "615",
+      "label": "Fiskare och jägare"
+    },
+    {
+      "code": "711",
+      "label": "Gruv- och bergarbetare, stenhuggare"
+    },
+    {
+      "code": "712",
+      "label": "Byggnads- och anläggningsarbetare"
+    },
+    {
+      "code": "713",
+      "label": "Byggnadshantverkare"
+    },
+    {
+      "code": "714",
+      "label": "Målare, lackerare, skorstensfejare m.fl."
+    },
+    {
+      "code": "721",
+      "label": "Gjutare, svetsare, plåtslagare m.fl."
+    },
+    {
+      "code": "722",
+      "label": "Smeder, verktygsmakare m.fl."
+    },
+    {
+      "code": "723",
+      "label": "Maskin- och motorreparatörer"
+    },
+    {
+      "code": "724",
+      "label": "Elmontörer, tele- och elektronikreparatörer m.fl."
+    },
+    {
+      "code": "731",
+      "label": "Finmekaniker m.fl."
+    },
+    {
+      "code": "732",
+      "label": "Drejare, glashyttearbetare, dekorationsmålare m.fl."
+    },
+    {
+      "code": "733",
+      "label": "Konsthantverkare i trä, textil, läder m.m."
+    },
+    {
+      "code": "734",
+      "label": "Grafiker m.fl."
+    },
+    {
+      "code": "741",
+      "label": "Slaktare, bagare, konditorer m.fl."
+    },
+    {
+      "code": "742",
+      "label": "Möbelsnickare, modellsnickare m.fl."
+    },
+    {
+      "code": "743",
+      "label": "Skräddare, tillskärare, tapetserare m.fl."
+    },
+    {
+      "code": "744",
+      "label": "Garvare, skinnberedare och skomakare"
+    },
+    {
+      "code": "811",
+      "label": "Malmförädlingsoperatörer, brunnsborrare m.fl."
+    },
+    {
+      "code": "812",
+      "label": "Processoperatörer vid stål- och metallverk"
+    },
+    {
+      "code": "813",
+      "label": "Processoperatörer, glas och keramiska produkter"
+    },
+    {
+      "code": "814",
+      "label": "Processoperatörer, trä- och pappersindustri"
+    },
+    {
+      "code": "815",
+      "label": "Processoperatörer, kemisk basindustri"
+    },
+    {
+      "code": "816",
+      "label": "Driftmaskinister m.fl."
+    },
+    {
+      "code": "817",
+      "label": "Industrirobotoperatörer m.fl."
+    },
+    {
+      "code": "821",
+      "label": "Maskinoperatörer, metall- och mineralbehandling"
+    },
+    {
+      "code": "822",
+      "label": "Maskinoperatörer, kemisk-teknisk industri"
+    },
+    {
+      "code": "823",
+      "label": "Maskinoperatörer, gummi- och plastindustri"
+    },
+    {
+      "code": "824",
+      "label": "Maskinoperatörer, trävaruindustri"
+    },
+    {
+      "code": "825",
+      "label": "Maskinoperatörer, grafisk industri, pappersvaruindustri"
+    },
+    {
+      "code": "826",
+      "label": "Maskinoperatörer, textil-, skinn- och läderindustri"
+    },
+    {
+      "code": "827",
+      "label": "Maskinoperatörer, livsmedelsindustri m.m."
+    },
+    {
+      "code": "828",
+      "label": "Montörer"
+    },
+    {
+      "code": "829",
+      "label": "Övriga maskinoperatörer och montörer"
+    },
+    {
+      "code": "831",
+      "label": "Lokförare m.fl."
+    },
+    {
+      "code": "832",
+      "label": "Fordonsförare"
+    },
+    {
+      "code": "833",
+      "label": "Maskinförare"
+    },
+    {
+      "code": "834",
+      "label": "Däckspersonal"
+    },
+    {
+      "code": "911",
+      "label": "Torg- och marknadsförsäljare"
+    },
+    {
+      "code": "912",
+      "label": "Städare m.fl."
+    },
+    {
+      "code": "913",
+      "label": "Köks- och restaurangbiträden"
+    },
+    {
+      "code": "914",
+      "label": "Tidningsdistributörer, vaktmästare m.fl."
+    },
+    {
+      "code": "915",
+      "label": "Renhållnings- och återvinningsarbetare"
+    },
+    {
+      "code": "919",
+      "label": "Övriga servicearbetare"
+    },
+    {
+      "code": "921",
+      "label": "Medhjälpare inom jordbruk, trädgård, skogsbruk och fiske"
+    },
+    {
+      "code": "931",
+      "label": "Grovarbetare inom bygg och anläggning"
+    },
+    {
+      "code": "932",
+      "label": "Handpaketerare och andra fabriksarbetare"
+    },
+    {
+      "code": "933",
+      "label": "Godshanterare och expressbud"
+    }
+  ],
+  "id": "3498f5bc20b9f9284c43311a407566208b8d918d4ddccadb80e7e754d451808a"
+}

@@ -1,0 +1,540 @@
+{
+  "version": "SUN 2020 - Gruppering - Detaljerad",
+  "level": "SUN2020 Gruppering",
+  "data_type": "char(4)",
+  "values": [
+    {
+      "code": "01ZA",
+      "label": "Folkskoleutbildning och motsvarande"
+    },
+    {
+      "code": "02ZA",
+      "label": "Grundskoleutbildning och motsvarande"
+    },
+    {
+      "code": "03AA",
+      "label": "Samhällsvetenskaplig, social och humanistisk gymnasieutbildning"
+    },
+    {
+      "code": "03NA",
+      "label": "Naturvetenskaplig gymnasieutbildning"
+    },
+    {
+      "code": "13ZA",
+      "label": "Gymnasieutbildning inom pedagogik och lärarutbildning"
+    },
+    {
+      "code": "14PH",
+      "label": "180 eller fler högskolepoäng inom pedagogik och lärarutbildning, ej examen"
+    },
+    {
+      "code": "14PL",
+      "label": "30-179 högskolepoäng inom pedagogik och lärarutbildning, ej examen"
+    },
+    {
+      "code": "15BA",
+      "label": "Förskollärarutbildning"
+    },
+    {
+      "code": "15FA",
+      "label": "Fritidspedagogutbildning"
+    },
+    {
+      "code": "15GA",
+      "label": "Lärarutbildning för grundskolans tidiga åldrar"
+    },
+    {
+      "code": "15HA",
+      "label": "Ämneslärarutbildning, allmänna ämnen"
+    },
+    {
+      "code": "15PA",
+      "label": "Lärarutbildning i praktisk-estetiska ämnen"
+    },
+    {
+      "code": "15SA",
+      "label": "Speciallärar- och specialpedagogutbildning"
+    },
+    {
+      "code": "15VA",
+      "label": "Yrkeslärarutbildning"
+    },
+    {
+      "code": "15XA",
+      "label": "Övrig eftergymnasial utbildning inom pedagogik och lärarutbildning"
+    },
+    {
+      "code": "23EA",
+      "label": "Gymnasieutbildning, estetisk"
+    },
+    {
+      "code": "23MA",
+      "label": "Gymnasieutbildning inom medieproduktion"
+    },
+    {
+      "code": "23XA",
+      "label": "Övrig gymnasial utbildning inom humaniora och konst"
+    },
+    {
+      "code": "24PH",
+      "label": "180 eller fler högskolepoäng inom humaniora och konst, ej examen"
+    },
+    {
+      "code": "24PL",
+      "label": "30-179 högskolepoäng inom humaniora och konst, ej examen"
+    },
+    {
+      "code": "25HA",
+      "label": "Eftergymnasial utbildning inom historia och filosofi, minst 3 år"
+    },
+    {
+      "code": "25HB",
+      "label": "Eftergymnasial språk- och litteraturvetenskaplig utbildning, minst 3 år"
+    },
+    {
+      "code": "25KA",
+      "label": "Eftergymnasial konstnärlig utbildning"
+    },
+    {
+      "code": "25MA",
+      "label": "Eftergymnasial utbildning inom medieproduktion"
+    },
+    {
+      "code": "25TA",
+      "label": "Eftergymnasial teologisk utbildning, minst 3 år"
+    },
+    {
+      "code": "25XA",
+      "label": "Övrig eftergymnasial utbildning inom humaniora och konst"
+    },
+    {
+      "code": "33EA",
+      "label": "Gymnasieutbildning inom ekonomi"
+    },
+    {
+      "code": "33HA",
+      "label": "Gymnasieutbildning inom handel och administration"
+    },
+    {
+      "code": "33XA",
+      "label": "Övrig gymnasial utbildning inom samhällsvetenskap, juridik, handel och administration"
+    },
+    {
+      "code": "34PH",
+      "label": "180 eller fler högskolepoäng inom samhällsvetenskap, ekonomi och juridik, ej examen"
+    },
+    {
+      "code": "34PL",
+      "label": "30-179 högskolepoäng inom samhällsvetenskap, ekonomi och juridik, ej examen"
+    },
+    {
+      "code": "34YA",
+      "label": "Eftergymnasial yrkesutbildning inom ekonomi kortare än 3 år"
+    },
+    {
+      "code": "34YB",
+      "label": "Eftergymnasial yrkesutbildning inom administration kortare än 3 år"
+    },
+    {
+      "code": "35BA",
+      "label": "Eftergymnasial utbildning inom biblioteks- och informationsvetenskap, minst 3 år"
+    },
+    {
+      "code": "35EA",
+      "label": "Eftergymnasial ekonomutbildning, minst 3 år"
+    },
+    {
+      "code": "35FA",
+      "label": "Eftergymnasial utbildning inom organisation, administration och förvaltning, minst 3 år"
+    },
+    {
+      "code": "35JA",
+      "label": "Eftergymnasial utbildning inom juridik och rättsvetenskap, minst 3 år"
+    },
+    {
+      "code": "35MA",
+      "label": "Eftergymnasial journalist- och medieutbildning"
+    },
+    {
+      "code": "35PA",
+      "label": "Psykolog- och psykoterapeututbildning"
+    },
+    {
+      "code": "35PB",
+      "label": "Annan eftergymnasial utbildning inom psykologi och psykoterapi, minst 3 år"
+    },
+    {
+      "code": "35SA",
+      "label": "Eftergymnasial utbildning inom samhälls- och beteendevetenskap, minst 3 år"
+    },
+    {
+      "code": "35XA",
+      "label": "Övrig eftergymnasial utbildning inom samhällsvetenskap, juridik, handel och administration"
+    },
+    {
+      "code": "43ZA",
+      "label": "Yrkesinriktad gymnasieutbildning inom naturvetenskap, matematik och IKT"
+    },
+    {
+      "code": "44PH",
+      "label": "180 eller fler högskolepoäng inom naturvetenskap, matematik och IKT ej examen"
+    },
+    {
+      "code": "44PL",
+      "label": "30-179 högskolepoäng inom naturvetenskap, matematik och IKT ej examen"
+    },
+    {
+      "code": "45DA",
+      "label": "Eftergymnasial utbildning inom IKT, kortare än 3 år"
+    },
+    {
+      "code": "45DB",
+      "label": "Eftergymnasial utbildning inom IKT, minst 3 år"
+    },
+    {
+      "code": "45NA",
+      "label": "Eftergymnasial utbildning inom biologi och miljövetenskap, minst 3 år"
+    },
+    {
+      "code": "45NB",
+      "label": "Eftergymnasial utbildning inom fysik, matematik och statistik, minst 3 år"
+    },
+    {
+      "code": "45NC",
+      "label": "Eftergymnasial utbildning inom geovetenskap, minst 3 år"
+    },
+    {
+      "code": "45ND",
+      "label": "Eftergymnasial utbildning inom kemi, minst 3 år"
+    },
+    {
+      "code": "45XA",
+      "label": "Övrig eftergymnasial utbildning inom naturvetenskap, matematik och IKT"
+    },
+    {
+      "code": "53AA",
+      "label": "Tekniskt gymnasium, 1-3 år"
+    },
+    {
+      "code": "53BA",
+      "label": "Gymnasieutbildning inom bygg"
+    },
+    {
+      "code": "53EA",
+      "label": "Gymnasieutbildning inom elektro- och datateknik"
+    },
+    {
+      "code": "53FA",
+      "label": "Gymnasieutbildning inom fordonsteknik"
+    },
+    {
+      "code": "53KA",
+      "label": "Gymnasieutbildning inom textil- och konfektionsteknik"
+    },
+    {
+      "code": "53LA",
+      "label": "Gymnasieutbildning inom livsmedel"
+    },
+    {
+      "code": "53PA",
+      "label": "Gymnasieutbildning inom processteknik"
+    },
+    {
+      "code": "53RA",
+      "label": "Gymnasieutbildning inom energi och VVS"
+    },
+    {
+      "code": "53TA",
+      "label": "Gymnasieutbildning inom träteknik"
+    },
+    {
+      "code": "53VA",
+      "label": "Gymnasieutbildning inom industriteknik"
+    },
+    {
+      "code": "53XA",
+      "label": "Övrig gymnasial utbildning inom teknik och tillverkning"
+    },
+    {
+      "code": "54PH",
+      "label": "180 eller fler högskolepoäng inom teknik och tillverkning, ej examen"
+    },
+    {
+      "code": "54PL",
+      "label": "30-179 högskolepoäng inom teknik och tillverkning, ej examen"
+    },
+    {
+      "code": "54YA",
+      "label": "Eftergymnasial yrkesutbildning inom bygg- och anläggningsteknik kortare än 3 år"
+    },
+    {
+      "code": "54YB",
+      "label": "Eftergymnasial yrkesutbildning inom industriteknik kortare än 3 år"
+    },
+    {
+      "code": "54YC",
+      "label": "Eftergymnasial yrkesutbildning inom elektroteknik och datateknik kortare än 3 år"
+    },
+    {
+      "code": "55AA",
+      "label": "Arkitekt- och landskapsarkitektutbildning"
+    },
+    {
+      "code": "55CA",
+      "label": "Civilingenjörsutbildning inom samhällsbyggnad, byggnadsteknik och miljöteknik"
+    },
+    {
+      "code": "55DA",
+      "label": "Civilingenjörsutbildning, industriell ekonomi"
+    },
+    {
+      "code": "55DB",
+      "label": "Civilingenjörsutbildning inom maskin, fordon och farkost"
+    },
+    {
+      "code": "55EA",
+      "label": "Civilingenjörsutbildning inom elektroteknik, teknisk fysik och datateknik"
+    },
+    {
+      "code": "55FA",
+      "label": "Civilingenjörsutbildning inom kemi- och bioteknik, material- och geoteknik"
+    },
+    {
+      "code": "55GA",
+      "label": "Övrig civilingenjörsutbildning"
+    },
+    {
+      "code": "55HA",
+      "label": "Ingenjörsutbildning inom samhällsbyggnad, byggnadsteknik och miljöteknik (eftergymnasial)"
+    },
+    {
+      "code": "55IA",
+      "label": "Ingenjörsutbildning inom maskin, fordon, farkost och industriell ekonomi(eftergymnasial)"
+    },
+    {
+      "code": "55JA",
+      "label": "Ingenjörsutbildning inom elektroteknik, teknisk fysik och datateknik (eftergymnasial)"
+    },
+    {
+      "code": "55KA",
+      "label": "Ingenjörsutbildning inom kemi- och bioteknik, material- och geoteknik (eftergymnasial)"
+    },
+    {
+      "code": "55LA",
+      "label": "Övrig ingenjörsutbildning (eftergymnasial)"
+    },
+    {
+      "code": "55XA",
+      "label": "Övrig eftergymnasial utbildning inom teknik och tillverkning"
+    },
+    {
+      "code": "63AA",
+      "label": "Gymnasieutbildning inom lantbruk"
+    },
+    {
+      "code": "63XA",
+      "label": "Övrig gymnasial utbildning inom lant- och skogsbruk samt djursjukvård"
+    },
+    {
+      "code": "64PH",
+      "label": "180 eller fler högskolepoäng inom lant- och skogsbruk samt djursjukvård, ej examen"
+    },
+    {
+      "code": "64PL",
+      "label": "30-179 högskolepoäng inom lant- och skogsbruk samt djursjukvård, ej examen"
+    },
+    {
+      "code": "65JA",
+      "label": "Eftergymnasial utbildning inom lantbruk och trädgård, minst 3 år"
+    },
+    {
+      "code": "65SA",
+      "label": "Eftergymnasial utbildning inom skogsbruksvetenskap, minst 3 år"
+    },
+    {
+      "code": "65VA",
+      "label": "Veterinärutbildning"
+    },
+    {
+      "code": "65XA",
+      "label": "Övrig eftergymnasial utbildning inom lant- och skogsbruk, samt djursjukvård"
+    },
+    {
+      "code": "73BA",
+      "label": "Gymnasieutbildning inom barn och ungdom"
+    },
+    {
+      "code": "73OA",
+      "label": "Gymnasieutbildning inom omvårdnad och social omsorg"
+    },
+    {
+      "code": "73TA",
+      "label": "Gymnasieutbildning inom tandvård"
+    },
+    {
+      "code": "73XA",
+      "label": "Övrig gymnasial utbildning inom hälso- och sjukvård och social omsorg"
+    },
+    {
+      "code": "74PH",
+      "label": "180 eller fler högskolepoäng inom hälso- och sjukvård och social omsorg, ej examen"
+    },
+    {
+      "code": "74PL",
+      "label": "30-179 högskolepoäng inom hälso- och sjukvård och social omsorg, ej examen"
+    },
+    {
+      "code": "74YA",
+      "label": "Eftergymnasial yrkesutbildning inom omvårdnad kortare än 3 år"
+    },
+    {
+      "code": "74YB",
+      "label": "Eftergymnasial yrkesutbildning inom tandvård kortare än 3 år"
+    },
+    {
+      "code": "75AA",
+      "label": "Apotekarutbildning"
+    },
+    {
+      "code": "75BA",
+      "label": "Arbetsterapeututbildning"
+    },
+    {
+      "code": "75DA",
+      "label": "Biomedicinsk analytikerutbildning"
+    },
+    {
+      "code": "75FA",
+      "label": "Fritidsledarutbildning (eftergymnasial)"
+    },
+    {
+      "code": "75HA",
+      "label": "Läkarutbildning"
+    },
+    {
+      "code": "75JA",
+      "label": "Receptarieutbildning"
+    },
+    {
+      "code": "75LA",
+      "label": "Fysioterapeututbildning"
+    },
+    {
+      "code": "75NA",
+      "label": "Sjuksköterskeutbildning"
+    },
+    {
+      "code": "75NB",
+      "label": "Specialistsjuksköterskeutbildning, anestesi"
+    },
+    {
+      "code": "75ND",
+      "label": "Specialistsjuksköterskeutbildning, barnsjukvård"
+    },
+    {
+      "code": "75NE",
+      "label": "Specialistsjuksköterskeutbildning, distriktssköterska"
+    },
+    {
+      "code": "75NF",
+      "label": "Specialistsjuksköterskeutbildning, intensivvård"
+    },
+    {
+      "code": "75NG",
+      "label": "Specialistsjuksköterskeutbildning, operation"
+    },
+    {
+      "code": "75NH",
+      "label": "Specialistsjuksköterskeutbildning, psykiatri"
+    },
+    {
+      "code": "75NO",
+      "label": "Övrig specialistsjuksköterskeutbildning"
+    },
+    {
+      "code": "75NP",
+      "label": "Barnmorskeutbildning"
+    },
+    {
+      "code": "75NR",
+      "label": "Röntgensjuksköterskeutbildning"
+    },
+    {
+      "code": "75OA",
+      "label": "Eftergymnasial social service- och omsorgsutbildning"
+    },
+    {
+      "code": "75PA",
+      "label": "Socionomutbildning"
+    },
+    {
+      "code": "75TA",
+      "label": "Tandhygienistutbildning"
+    },
+    {
+      "code": "75VA",
+      "label": "Tandläkarutbildning"
+    },
+    {
+      "code": "75XA",
+      "label": "Övrig eftergymnasial utbildning inom hälso- och sjukvård och social omsorg"
+    },
+    {
+      "code": "83HA",
+      "label": "Gymnasieutbildning inom hår- och skönhetsvård"
+    },
+    {
+      "code": "83RA",
+      "label": "Gymnasieutbildning inom hotell, restaurang och turism"
+    },
+    {
+      "code": "83TA",
+      "label": "Gymnasieutbildning inom transport"
+    },
+    {
+      "code": "83XA",
+      "label": "Övrig gymnasial utbildning inom tjänster"
+    },
+    {
+      "code": "84PH",
+      "label": "180 eller fler högskolepoäng inom tjänster, ej examen"
+    },
+    {
+      "code": "84PL",
+      "label": "30-179 högskolepoäng inom tjänster, ej examen"
+    },
+    {
+      "code": "84YA",
+      "label": "Eftergymnasial yrkesutbildning inom personliga tjänster kortare än 3 år"
+    },
+    {
+      "code": "85MA",
+      "label": "Eftergymnasial militär utbildning"
+    },
+    {
+      "code": "85PA",
+      "label": "Polisutbildning"
+    },
+    {
+      "code": "85TA",
+      "label": "Eftergymnasial utbildning inom transport"
+    },
+    {
+      "code": "85XA",
+      "label": "Övrig eftergymnasial utbildning inom tjänster"
+    },
+    {
+      "code": "93ZA",
+      "label": "Gymnasieutbildning, okänd inriktning"
+    },
+    {
+      "code": "95ZA",
+      "label": "Eftergymnasial utbildning, okänd inriktning"
+    },
+    {
+      "code": "99ZA",
+      "label": "Okänd"
+    }
+  ],
+  "id": "9b65b45f4be1d31182ed3b6ddce3ea25eee5c5d08eb150367795d35dd08f97fb"
+}

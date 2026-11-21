@@ -1,0 +1,1432 @@
+{
+  "version": "Standard för svensk yrkesklassificering 1996",
+  "level": "Undergrupp",
+  "data_type": "char(4)",
+  "values": [
+    {
+      "code": "****",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "0110",
+      "label": "Militärer"
+    },
+    {
+      "code": "1110",
+      "label": "Högre ämbetsmän och politiker"
+    },
+    {
+      "code": "1120",
+      "label": "Chefstjänstemän i intresseorganisationer"
+    },
+    {
+      "code": "1210",
+      "label": "Verkställande direktörer, verkschefer m.fl."
+    },
+    {
+      "code": "1221",
+      "label": "Driftchefer inom jordbruk, trädgård, skogsbruk och fiske"
+    },
+    {
+      "code": "1222",
+      "label": "Driftchefer inom tillverkning, el-, värme- och vattenförsörjning        m.m."
+    },
+    {
+      "code": "1223",
+      "label": "Driftchefer inom byggverksamhet"
+    },
+    {
+      "code": "1224",
+      "label": "Driftchefer inom handel, hotell och restaurang, transport och   kommunikation"
+    },
+    {
+      "code": "1225",
+      "label": "Driftchefer inom finansiell verksamhet, fastighetsbolag,    företagstjänster m.m."
+    },
+    {
+      "code": "1226",
+      "label": "Verksamhetschefer inom offentlig förvaltning m.m."
+    },
+    {
+      "code": "1227",
+      "label": "Verksamhetschefer inom utbildning"
+    },
+    {
+      "code": "1228",
+      "label": "Verksamhetschefer inom vård och omsorg"
+    },
+    {
+      "code": "1229",
+      "label": "Övriga drift- och verksamhetschefer"
+    },
+    {
+      "code": "1231",
+      "label": "Ekonomichefer och administrativa chefer"
+    },
+    {
+      "code": "1232",
+      "label": "Personalchefer"
+    },
+    {
+      "code": "1233",
+      "label": "Försäljnings- och marknadschefer"
+    },
+    {
+      "code": "1234",
+      "label": "Reklam- och PR-chefer"
+    },
+    {
+      "code": "1235",
+      "label": "Inköps- och distributionschefer"
+    },
+    {
+      "code": "1236",
+      "label": "IT-chefer"
+    },
+    {
+      "code": "1237",
+      "label": "Forsknings- och utvecklingschefer"
+    },
+    {
+      "code": "1239",
+      "label": "Övriga chefer inom specialområden"
+    },
+    {
+      "code": "1311",
+      "label": "Chefer för mindre företag inom jordbruk, trädgård, skogsbruk och fiske"
+    },
+    {
+      "code": "1312",
+      "label": "Chefer för mindre företag inom tillverkning, el-, värme- och vattenförsörjning m.m."
+    },
+    {
+      "code": "1313",
+      "label": "Chefer för mindre byggföretag"
+    },
+    {
+      "code": "1314",
+      "label": "Chefer för mindre företag inom handel, hotell och restaurang, transport och kommunikation"
+    },
+    {
+      "code": "1315",
+      "label": "Chefer för mindre företag inom finansiell verksamhet, fastighetsbolag, företagstjänster m.m."
+    },
+    {
+      "code": "1316",
+      "label": "Chefer för mindre enheter inom offentlig förvaltning m.m."
+    },
+    {
+      "code": "1317",
+      "label": "Chefer för mindre enheter inom utbildning"
+    },
+    {
+      "code": "1318",
+      "label": "Chefer för mindre enheter inom vård och omsorg"
+    },
+    {
+      "code": "1319",
+      "label": "Chefer för övriga mindre företag och enheter"
+    },
+    {
+      "code": "2111",
+      "label": "Fysiker och astronomer"
+    },
+    {
+      "code": "2112",
+      "label": "Meteorologer"
+    },
+    {
+      "code": "2113",
+      "label": "Kemister"
+    },
+    {
+      "code": "2114",
+      "label": "Geologer, geofysiker m.fl."
+    },
+    {
+      "code": "2121",
+      "label": "Matematiker"
+    },
+    {
+      "code": "2122",
+      "label": "Statistiker"
+    },
+    {
+      "code": "2131",
+      "label": "Systemerare och programmerare"
+    },
+    {
+      "code": "2139",
+      "label": "Övriga dataspecialister"
+    },
+    {
+      "code": "2141",
+      "label": "Arkitekter och stadsplanerare"
+    },
+    {
+      "code": "2142",
+      "label": "Civilingenjörer m.fl., bygg och anläggning"
+    },
+    {
+      "code": "2143",
+      "label": "Civilingenjörer m.fl., elkraft"
+    },
+    {
+      "code": "2144",
+      "label": "Civilingenjörer m.fl., elektronik och teleteknik"
+    },
+    {
+      "code": "2145",
+      "label": "Civilingenjörer m.fl., maskin"
+    },
+    {
+      "code": "2146",
+      "label": "Civilingenjörer m.fl., kemi"
+    },
+    {
+      "code": "2147",
+      "label": "Civilingenjörer m.fl., gruvteknik och metallurgi"
+    },
+    {
+      "code": "2148",
+      "label": "Lantmätare"
+    },
+    {
+      "code": "2149",
+      "label": "Övriga civilingenjörer m.fl."
+    },
+    {
+      "code": "2211",
+      "label": "Biologer"
+    },
+    {
+      "code": "2212",
+      "label": "Farmakologer m.fl."
+    },
+    {
+      "code": "2213",
+      "label": "Agronomer och hortonomer"
+    },
+    {
+      "code": "2214",
+      "label": "Jägmästare m.fl."
+    },
+    {
+      "code": "2221",
+      "label": "Läkare"
+    },
+    {
+      "code": "2222",
+      "label": "Tandläkare"
+    },
+    {
+      "code": "2223",
+      "label": "Veterinärer"
+    },
+    {
+      "code": "2224",
+      "label": "Apotekare"
+    },
+    {
+      "code": "2225",
+      "label": "Logopeder"
+    },
+    {
+      "code": "2229",
+      "label": "Övriga hälso- och sjukvårdsspecialister"
+    },
+    {
+      "code": "2231",
+      "label": "Barnmorskor"
+    },
+    {
+      "code": "2232",
+      "label": "Avdelningschefer, vårdavdelning/mottagning"
+    },
+    {
+      "code": "2233",
+      "label": "Akutsjuksköterskor m.fl."
+    },
+    {
+      "code": "2234",
+      "label": "Barnsjuksköterskor"
+    },
+    {
+      "code": "2235",
+      "label": "Distriktssköterskor"
+    },
+    {
+      "code": "2236",
+      "label": "Andra sjuksköterskor med särskild kompetens"
+    },
+    {
+      "code": "2310",
+      "label": "Universitets- och högskollärare"
+    },
+    {
+      "code": "2321",
+      "label": "Gymnasielärare i allmänna ämnen"
+    },
+    {
+      "code": "2322",
+      "label": "Gymnasielärare i yrkesämnen"
+    },
+    {
+      "code": "2323",
+      "label": "Lärare i estetiska och praktiska ämnen"
+    },
+    {
+      "code": "2330",
+      "label": "Grundskollärare"
+    },
+    {
+      "code": "2340",
+      "label": "Speciallärare"
+    },
+    {
+      "code": "2351",
+      "label": "Skol- och utbildningskonsulenter m.fl."
+    },
+    {
+      "code": "2359",
+      "label": "Övriga pedagoger med teoretisk specialistkompetens"
+    },
+    {
+      "code": "2411",
+      "label": "Revisorer m.fl."
+    },
+    {
+      "code": "2412",
+      "label": "Personaltjänstemän och yrkesvägledare"
+    },
+    {
+      "code": "2413",
+      "label": "Marknadsanalytiker och marknadsförare"
+    },
+    {
+      "code": "2414",
+      "label": "Organisationsutvecklare"
+    },
+    {
+      "code": "2419",
+      "label": "Övriga företagsekonomer"
+    },
+    {
+      "code": "2421",
+      "label": "Advokater och åklagare"
+    },
+    {
+      "code": "2422",
+      "label": "Domare"
+    },
+    {
+      "code": "2423",
+      "label": "Företags-, förvaltnings- och organisationsjurister"
+    },
+    {
+      "code": "2429",
+      "label": "Övriga jurister"
+    },
+    {
+      "code": "2431",
+      "label": "Arkivarier, museitjänstemän m.fl."
+    },
+    {
+      "code": "2432",
+      "label": "Bibliotekarier m.fl."
+    },
+    {
+      "code": "2441",
+      "label": "Nationalekonomer"
+    },
+    {
+      "code": "2442",
+      "label": "Sociologer, arkeologer m.fl."
+    },
+    {
+      "code": "2443",
+      "label": "Filosofer, historiker och statsvetare"
+    },
+    {
+      "code": "2444",
+      "label": "Språkvetare, översättare och tolkar"
+    },
+    {
+      "code": "2451",
+      "label": "Journalister, författare, informatörer m.fl."
+    },
+    {
+      "code": "2452",
+      "label": "Skulptörer, målare m.fl."
+    },
+    {
+      "code": "2453",
+      "label": "Kompositörer, musiker och sångare inom klassisk musik"
+    },
+    {
+      "code": "2454",
+      "label": "Koreografer och dansare"
+    },
+    {
+      "code": "2455",
+      "label": "Regissörer och skådespelare"
+    },
+    {
+      "code": "2456",
+      "label": "Formgivare"
+    },
+    {
+      "code": "2460",
+      "label": "Präster"
+    },
+    {
+      "code": "2470",
+      "label": "Administratörer i offentlig förvaltning"
+    },
+    {
+      "code": "2480",
+      "label": "Administratörer i intresseorganisationer"
+    },
+    {
+      "code": "2491",
+      "label": "Psykologer m.fl."
+    },
+    {
+      "code": "2492",
+      "label": "Socialsekreterare och kuratorer"
+    },
+    {
+      "code": "3111",
+      "label": "Laboratorieingenjörer"
+    },
+    {
+      "code": "3112",
+      "label": "Byggnadsingenjörer och byggnadstekniker"
+    },
+    {
+      "code": "3113",
+      "label": "Elingenjörer och eltekniker"
+    },
+    {
+      "code": "3114",
+      "label": "Ingenjörer och tekniker inom elektronik och teleteknik"
+    },
+    {
+      "code": "3115",
+      "label": "Maskiningenjörer och maskintekniker"
+    },
+    {
+      "code": "3116",
+      "label": "Kemiingenjörer och kemitekniker"
+    },
+    {
+      "code": "3117",
+      "label": "Ingenjörer och tekniker inom gruvteknik och metallurgi"
+    },
+    {
+      "code": "3118",
+      "label": "Kartingenjörer m.fl."
+    },
+    {
+      "code": "3119",
+      "label": "Övriga ingenjörer och tekniker"
+    },
+    {
+      "code": "3121",
+      "label": "Datatekniker"
+    },
+    {
+      "code": "3122",
+      "label": "Dataoperatörer"
+    },
+    {
+      "code": "3131",
+      "label": "Fotografer"
+    },
+    {
+      "code": "3132",
+      "label": "Ljud- och bildtekniker"
+    },
+    {
+      "code": "3133",
+      "label": "Kopplingstekniker, radioassistenter m.fl."
+    },
+    {
+      "code": "3134",
+      "label": "Sjukhusingenjörer och sjukhustekniker"
+    },
+    {
+      "code": "3141",
+      "label": "Maskinbefäl"
+    },
+    {
+      "code": "3142",
+      "label": "Fartygsbefäl m.fl."
+    },
+    {
+      "code": "3143",
+      "label": "Piloter m.fl."
+    },
+    {
+      "code": "3144",
+      "label": "Flygledare"
+    },
+    {
+      "code": "3145",
+      "label": "Flygtekniker"
+    },
+    {
+      "code": "3151",
+      "label": "Byggnads- och brandinspektörer"
+    },
+    {
+      "code": "3152",
+      "label": "Säkerhetsinspektörer m.fl."
+    },
+    {
+      "code": "3211",
+      "label": "Lantmästare, trädgårdsingenjörer m.fl."
+    },
+    {
+      "code": "3212",
+      "label": "Skogsmästare m.fl."
+    },
+    {
+      "code": "3221",
+      "label": "Arbetsterapeuter"
+    },
+    {
+      "code": "3222",
+      "label": "Miljö- och hälsoskyddsinspektörer m.fl."
+    },
+    {
+      "code": "3223",
+      "label": "Dietister"
+    },
+    {
+      "code": "3224",
+      "label": "Optiker"
+    },
+    {
+      "code": "3225",
+      "label": "Tandhygienister"
+    },
+    {
+      "code": "3226",
+      "label": "Sjukgymnaster m.fl."
+    },
+    {
+      "code": "3227",
+      "label": "Djursjukvårdare"
+    },
+    {
+      "code": "3228",
+      "label": "Receptarier"
+    },
+    {
+      "code": "3229",
+      "label": "Övriga terapeuter"
+    },
+    {
+      "code": "3231",
+      "label": "Sjuksköterskor, medicin/kirurgi"
+    },
+    {
+      "code": "3232",
+      "label": "Operationssjuksköterskor"
+    },
+    {
+      "code": "3233",
+      "label": "Geriatriksjuksköterskor"
+    },
+    {
+      "code": "3234",
+      "label": "Sjuksköterskor, psykiatrisk vård"
+    },
+    {
+      "code": "3235",
+      "label": "Röntgensjuksköterskor"
+    },
+    {
+      "code": "3239",
+      "label": "Övriga sjuksköterskor"
+    },
+    {
+      "code": "3240",
+      "label": "Biomedicinska analytiker"
+    },
+    {
+      "code": "3310",
+      "label": "Förskollärare och fritidspedagoger"
+    },
+    {
+      "code": "3320",
+      "label": "Andra lärare och instruktörer"
+    },
+    {
+      "code": "3411",
+      "label": "Värdepappersmäklare"
+    },
+    {
+      "code": "3412",
+      "label": "Försäkringsrepresentanter"
+    },
+    {
+      "code": "3413",
+      "label": "Fastighetsmäklare, fastighetsförvaltare m.fl."
+    },
+    {
+      "code": "3414",
+      "label": "Reseproducenter"
+    },
+    {
+      "code": "3415",
+      "label": "Företagssäljare"
+    },
+    {
+      "code": "3416",
+      "label": "Inköpare"
+    },
+    {
+      "code": "3417",
+      "label": "Värderare och auktionister"
+    },
+    {
+      "code": "3418",
+      "label": "Banktjänstemän och kreditrådgivare"
+    },
+    {
+      "code": "3419",
+      "label": "Övriga säljare, inköpare, mäklare m.fl."
+    },
+    {
+      "code": "3421",
+      "label": "Agenter"
+    },
+    {
+      "code": "3422",
+      "label": "Speditörer"
+    },
+    {
+      "code": "3423",
+      "label": "Platsförmedlare och arbetsvägledare"
+    },
+    {
+      "code": "3429",
+      "label": "Övriga agenter m.fl."
+    },
+    {
+      "code": "3431",
+      "label": "Administrativa assistenter"
+    },
+    {
+      "code": "3432",
+      "label": "Boutredare"
+    },
+    {
+      "code": "3433",
+      "label": "Redovisningsekonomer m.fl."
+    },
+    {
+      "code": "3441",
+      "label": "Tulltjänstemän"
+    },
+    {
+      "code": "3442",
+      "label": "Taxeringstjänstemän"
+    },
+    {
+      "code": "3443",
+      "label": "Socialförsäkringstjänstemän"
+    },
+    {
+      "code": "3449",
+      "label": "Övriga tull-, taxerings- och socialförsäkringstjänstemän"
+    },
+    {
+      "code": "3450",
+      "label": "Poliser"
+    },
+    {
+      "code": "3461",
+      "label": "Behandlingsassistenter m.fl."
+    },
+    {
+      "code": "3462",
+      "label": "Fritidsledare m.fl."
+    },
+    {
+      "code": "3471",
+      "label": "Tecknare, illustratörer, dekoratörer m.fl."
+    },
+    {
+      "code": "3472",
+      "label": "Presentatörer i radio, TV m.m."
+    },
+    {
+      "code": "3473",
+      "label": "Musiker, sångare, dansare m.fl. inom underhållning"
+    },
+    {
+      "code": "3474",
+      "label": "Cirkus- och varietéartister m.fl."
+    },
+    {
+      "code": "3475",
+      "label": "Idrottstränare, professionella idrottsutövare m.fl."
+    },
+    {
+      "code": "3476",
+      "label": "Inspicienter, rekvisitörer m.fl."
+    },
+    {
+      "code": "3480",
+      "label": "Pastorer"
+    },
+    {
+      "code": "4111",
+      "label": "Dataregistrerare"
+    },
+    {
+      "code": "4112",
+      "label": "Kontorssekreterare, läkarsekreterare m.fl."
+    },
+    {
+      "code": "4120",
+      "label": "Bokförings- och redovisningsassistenter"
+    },
+    {
+      "code": "4131",
+      "label": "Lagerassistenter m.fl."
+    },
+    {
+      "code": "4132",
+      "label": "Transportassistenter"
+    },
+    {
+      "code": "4140",
+      "label": "Biblioteksassistenter m.fl."
+    },
+    {
+      "code": "4150",
+      "label": "Brevbärare m.fl."
+    },
+    {
+      "code": "4190",
+      "label": "Övrig kontorspersonal"
+    },
+    {
+      "code": "4211",
+      "label": "Butikskassörer, biljettförsäljare m.fl."
+    },
+    {
+      "code": "4212",
+      "label": "Bank- och postkassörer"
+    },
+    {
+      "code": "4213",
+      "label": "Croupierer m.fl."
+    },
+    {
+      "code": "4214",
+      "label": "Pantlånare"
+    },
+    {
+      "code": "4215",
+      "label": "Inkasserare m.fl."
+    },
+    {
+      "code": "4221",
+      "label": "Resebyrå- och turistbyråtjänstemän"
+    },
+    {
+      "code": "4222",
+      "label": "Receptionister m.fl."
+    },
+    {
+      "code": "4223",
+      "label": "Telefonister"
+    },
+    {
+      "code": "4224",
+      "label": "Trafikinformatörer m.fl."
+    },
+    {
+      "code": "5111",
+      "label": "Flygvärdinnor m.fl."
+    },
+    {
+      "code": "5112",
+      "label": "Tågmästare m.fl."
+    },
+    {
+      "code": "5113",
+      "label": "Guider och reseledare"
+    },
+    {
+      "code": "5121",
+      "label": "Storhushållsföreståndare m.fl."
+    },
+    {
+      "code": "5122",
+      "label": "Kockar och kokerskor"
+    },
+    {
+      "code": "5123",
+      "label": "Hovmästare, servitörer och bartendrar"
+    },
+    {
+      "code": "5131",
+      "label": "Barnskötare m.fl."
+    },
+    {
+      "code": "5132",
+      "label": "Undersköterskor, sjukvårdsbiträden m.fl."
+    },
+    {
+      "code": "5133",
+      "label": "Vårdbiträden, personliga assistenter m.fl."
+    },
+    {
+      "code": "5134",
+      "label": "Skötare och vårdare"
+    },
+    {
+      "code": "5135",
+      "label": "Tandsköterskor"
+    },
+    {
+      "code": "5139",
+      "label": "Övrig vård- och omsorgspersonal"
+    },
+    {
+      "code": "5141",
+      "label": "Frisörer, hudterapeuter m.fl."
+    },
+    {
+      "code": "5142",
+      "label": "Begravningsentreprenörer"
+    },
+    {
+      "code": "5149",
+      "label": "Övrig servicepersonal, personliga tjänster"
+    },
+    {
+      "code": "5151",
+      "label": "Brandmän"
+    },
+    {
+      "code": "5152",
+      "label": "Väktare och ordningsvakter"
+    },
+    {
+      "code": "5153",
+      "label": "Kriminalvårdare"
+    },
+    {
+      "code": "5159",
+      "label": "Övrig säkerhetspersonal"
+    },
+    {
+      "code": "5210",
+      "label": "Fotomodeller m.fl."
+    },
+    {
+      "code": "5221",
+      "label": "Försäljare, dagligvaror"
+    },
+    {
+      "code": "5222",
+      "label": "Försäljare, fackhandel"
+    },
+    {
+      "code": "5223",
+      "label": "Kaféföreståndare"
+    },
+    {
+      "code": "5224",
+      "label": "Kioskföreståndare"
+    },
+    {
+      "code": "5225",
+      "label": "Bensinstationsföreståndare m.fl."
+    },
+    {
+      "code": "5226",
+      "label": "Bil, båt- och husvagnsförsäljare"
+    },
+    {
+      "code": "5227",
+      "label": "Demonstratörer, uthyrare m.fl."
+    },
+    {
+      "code": "6111",
+      "label": "Odlare av jordbruksväxter, frukt- och bärodlare"
+    },
+    {
+      "code": "6112",
+      "label": "Trädgårdsodlare"
+    },
+    {
+      "code": "6113",
+      "label": "Trädgårdsanläggare m.fl."
+    },
+    {
+      "code": "6121",
+      "label": "Husdjursuppfödare och husdjursskötare"
+    },
+    {
+      "code": "6122",
+      "label": "Fjäderfäuppfödare"
+    },
+    {
+      "code": "6129",
+      "label": "Övriga djuruppfödare och djurskötare"
+    },
+    {
+      "code": "6130",
+      "label": "Växtodlare och djuruppfödare, blandad drift"
+    },
+    {
+      "code": "6140",
+      "label": "Skogsbrukare"
+    },
+    {
+      "code": "6151",
+      "label": "Fiskodlare"
+    },
+    {
+      "code": "6152",
+      "label": "Fiskare"
+    },
+    {
+      "code": "6153",
+      "label": "Jägare"
+    },
+    {
+      "code": "7111",
+      "label": "Gruv- och bergarbetare"
+    },
+    {
+      "code": "7112",
+      "label": "Stenhuggare m.fl."
+    },
+    {
+      "code": "7121",
+      "label": "Murare m.fl."
+    },
+    {
+      "code": "7122",
+      "label": "Betongarbetare"
+    },
+    {
+      "code": "7123",
+      "label": "Byggnadsträarbetare, inredningssnickare m.fl."
+    },
+    {
+      "code": "7124",
+      "label": "Anläggningsarbetare"
+    },
+    {
+      "code": "7129",
+      "label": "Övriga byggnads- och anläggningsarbetare"
+    },
+    {
+      "code": "7131",
+      "label": "Takmontörer"
+    },
+    {
+      "code": "7132",
+      "label": "Golvläggare"
+    },
+    {
+      "code": "7133",
+      "label": "Isoleringsmontörer"
+    },
+    {
+      "code": "7134",
+      "label": "Glasmästare"
+    },
+    {
+      "code": "7135",
+      "label": "VVS-montörer m.fl."
+    },
+    {
+      "code": "7136",
+      "label": "Installationselektriker"
+    },
+    {
+      "code": "7137",
+      "label": "Fastighetsskötare"
+    },
+    {
+      "code": "7139",
+      "label": "Övriga byggnadshantverkare"
+    },
+    {
+      "code": "7141",
+      "label": "Målare"
+    },
+    {
+      "code": "7142",
+      "label": "Lackerare"
+    },
+    {
+      "code": "7143",
+      "label": "Skorstensfejare och saneringsarbetare"
+    },
+    {
+      "code": "7211",
+      "label": "Gjutare"
+    },
+    {
+      "code": "7212",
+      "label": "Svetsare och gasskärare"
+    },
+    {
+      "code": "7213",
+      "label": "Tunnplåtslagare"
+    },
+    {
+      "code": "7214",
+      "label": "Stålkonstruktionsmontörer och grovplåtslagare"
+    },
+    {
+      "code": "7215",
+      "label": "Riggare och kabelsplitsare"
+    },
+    {
+      "code": "7216",
+      "label": "Dykare"
+    },
+    {
+      "code": "7221",
+      "label": "Smeder"
+    },
+    {
+      "code": "7222",
+      "label": "Verktygsmakare m.fl."
+    },
+    {
+      "code": "7223",
+      "label": "Verktygsuppsättare"
+    },
+    {
+      "code": "7224",
+      "label": "Slipare m.fl."
+    },
+    {
+      "code": "7231",
+      "label": "Motorfordonsmekaniker och motorfordonsreparatörer"
+    },
+    {
+      "code": "7232",
+      "label": "Flygmekaniker och flygreparatörer"
+    },
+    {
+      "code": "7233",
+      "label": "Maskinmekaniker, maskinmontörer och maskinreparatörer"
+    },
+    {
+      "code": "7241",
+      "label": "Elmontörer och elreparatörer"
+    },
+    {
+      "code": "7242",
+      "label": "Tele- och elektronikreparatörer m.fl."
+    },
+    {
+      "code": "7243",
+      "label": "Distributionselektriker"
+    },
+    {
+      "code": "7311",
+      "label": "Finmekaniker"
+    },
+    {
+      "code": "7312",
+      "label": "Musikinstrumentmakare m.fl."
+    },
+    {
+      "code": "7313",
+      "label": "Guld- och silversmeder"
+    },
+    {
+      "code": "7321",
+      "label": "Drejare m.fl."
+    },
+    {
+      "code": "7322",
+      "label": "Glashyttearbetare m.fl."
+    },
+    {
+      "code": "7323",
+      "label": "Glasgravörer"
+    },
+    {
+      "code": "7324",
+      "label": "Dekorationsmålare"
+    },
+    {
+      "code": "7330",
+      "label": "Konsthantverkare i trä, textil, läder m.m."
+    },
+    {
+      "code": "7341",
+      "label": "Text- och bildoperatörer m.fl."
+    },
+    {
+      "code": "7342",
+      "label": "Etsare och gravörer, tryckmedier"
+    },
+    {
+      "code": "7343",
+      "label": "Privatbokbindare"
+    },
+    {
+      "code": "7344",
+      "label": "Screen- och schablontryckare"
+    },
+    {
+      "code": "7411",
+      "label": "Slaktare, styckare m.fl."
+    },
+    {
+      "code": "7412",
+      "label": "Bagare och konditorer"
+    },
+    {
+      "code": "7413",
+      "label": "Provsmakare och kvalitetsbedömare"
+    },
+    {
+      "code": "7421",
+      "label": "Möbelsnickare m.fl."
+    },
+    {
+      "code": "7422",
+      "label": "Korgmakare och borstbindare"
+    },
+    {
+      "code": "7431",
+      "label": "Skräddare, modister och ateljésömmerskor"
+    },
+    {
+      "code": "7432",
+      "label": "Körsnärer"
+    },
+    {
+      "code": "7433",
+      "label": "Tillskärare"
+    },
+    {
+      "code": "7434",
+      "label": "Sömmare"
+    },
+    {
+      "code": "7435",
+      "label": "Tapetserare"
+    },
+    {
+      "code": "7441",
+      "label": "Garvare och skinnberedare"
+    },
+    {
+      "code": "7442",
+      "label": "Skomakare m.fl."
+    },
+    {
+      "code": "8111",
+      "label": "Operatörer, stenkross- och malmförädlingsanläggning"
+    },
+    {
+      "code": "8112",
+      "label": "Brunnsborrare m.fl."
+    },
+    {
+      "code": "8121",
+      "label": "Ugnsoperatörer m.fl."
+    },
+    {
+      "code": "8122",
+      "label": "Valsverksoperatörer"
+    },
+    {
+      "code": "8123",
+      "label": "Värmebehandlingsoperatörer"
+    },
+    {
+      "code": "8124",
+      "label": "Tråddragare m.fl."
+    },
+    {
+      "code": "8125",
+      "label": "Gjuterioperatörer"
+    },
+    {
+      "code": "8130",
+      "label": "Processoperatörer, glas och keramiska produkter"
+    },
+    {
+      "code": "8141",
+      "label": "Sågverksoperatörer"
+    },
+    {
+      "code": "8142",
+      "label": "Processoperatörer, träfiberindustri"
+    },
+    {
+      "code": "8143",
+      "label": "Processoperatörer, pappersmassa"
+    },
+    {
+      "code": "8144",
+      "label": "Processoperatörer, papper"
+    },
+    {
+      "code": "8150",
+      "label": "Processoperatörer, kemisk basindustri"
+    },
+    {
+      "code": "8160",
+      "label": "Driftmaskinister m.fl."
+    },
+    {
+      "code": "8170",
+      "label": "Industrirobotoperatörer"
+    },
+    {
+      "code": "8211",
+      "label": "Verktygsmaskinoperatörer"
+    },
+    {
+      "code": "8212",
+      "label": "Maskinoperatörer, sten-, cement- och betongvaror"
+    },
+    {
+      "code": "8221",
+      "label": "Maskinoperatörer, läkemedelsindustri och hygienteknisk industri"
+    },
+    {
+      "code": "8222",
+      "label": "Maskinoperatörer, ammunitions- och sprängämnesindustri"
+    },
+    {
+      "code": "8223",
+      "label": "Maskinoperatörer, ytbehandling"
+    },
+    {
+      "code": "8224",
+      "label": "Maskinoperatörer, fotografiska produkter"
+    },
+    {
+      "code": "8229",
+      "label": "Övriga maskinoperatörer, kemisk-teknisk industri"
+    },
+    {
+      "code": "8231",
+      "label": "Maskinoperatörer, gummiindustri"
+    },
+    {
+      "code": "8232",
+      "label": "Maskinoperatörer, plastindustri"
+    },
+    {
+      "code": "8240",
+      "label": "Maskinoperatörer, trävaruindustri"
+    },
+    {
+      "code": "8251",
+      "label": "Maskinoperatörer, tryckeri"
+    },
+    {
+      "code": "8252",
+      "label": "Maskinoperatörer, bokbinderi"
+    },
+    {
+      "code": "8253",
+      "label": "Maskinoperatörer, pappersvaruindustri"
+    },
+    {
+      "code": "8261",
+      "label": "Maskinoperatörer, garnberedning"
+    },
+    {
+      "code": "8262",
+      "label": "Maskinoperatörer, vävning och stickning"
+    },
+    {
+      "code": "8263",
+      "label": "Symaskinoperatörer"
+    },
+    {
+      "code": "8264",
+      "label": "Maskinoperatörer, blekning, färgning och tvättning"
+    },
+    {
+      "code": "8265",
+      "label": "Maskinoperatörer, skoindustri m.m."
+    },
+    {
+      "code": "8269",
+      "label": "Övriga maskinoperatörer, textil-, skinn- och läderindustri"
+    },
+    {
+      "code": "8271",
+      "label": "Maskinoperatörer, kött- och fiskberedning"
+    },
+    {
+      "code": "8272",
+      "label": "Maskinoperatörer, mejeri"
+    },
+    {
+      "code": "8273",
+      "label": "Maskinoperatörer, kvarnindustri"
+    },
+    {
+      "code": "8274",
+      "label": "Maskinoperatörer, bageri och konfektyrindustri"
+    },
+    {
+      "code": "8275",
+      "label": "Maskinoperatörer, frukt- och grönsaksberedning"
+    },
+    {
+      "code": "8276",
+      "label": "Maskinoperatörer, sockerindustri"
+    },
+    {
+      "code": "8277",
+      "label": "Maskinoperatörer, te-, kaffe- och kakaoberedning"
+    },
+    {
+      "code": "8278",
+      "label": "Maskinoperatörer, bryggeri m.m."
+    },
+    {
+      "code": "8279",
+      "label": "Maskinoperatörer, tobaksindustri"
+    },
+    {
+      "code": "8281",
+      "label": "Fordonsmontörer m.fl."
+    },
+    {
+      "code": "8282",
+      "label": "Montörer, el- och teleutrustning"
+    },
+    {
+      "code": "8283",
+      "label": "Montörer, metall-, gummi- och plastprodukter"
+    },
+    {
+      "code": "8284",
+      "label": "Montörer, träprodukter m.m."
+    },
+    {
+      "code": "8285",
+      "label": "Montörer, papp- och textilprodukter m.m."
+    },
+    {
+      "code": "8290",
+      "label": "Övriga maskinoperatörer och montörer"
+    },
+    {
+      "code": "8311",
+      "label": "Lokförare"
+    },
+    {
+      "code": "8312",
+      "label": "Bangårdspersonal"
+    },
+    {
+      "code": "8321",
+      "label": "Bil- och taxiförare"
+    },
+    {
+      "code": "8322",
+      "label": "Buss- och spårvagnsförare"
+    },
+    {
+      "code": "8323",
+      "label": "Lastbils- och långtradarförare"
+    },
+    {
+      "code": "8331",
+      "label": "Förare av jordbruks- och skogsmaskiner"
+    },
+    {
+      "code": "8332",
+      "label": "Anläggningsmaskinförare m.fl."
+    },
+    {
+      "code": "8333",
+      "label": "Kranförare m.fl."
+    },
+    {
+      "code": "8334",
+      "label": "Truckförare"
+    },
+    {
+      "code": "8340",
+      "label": "Däckspersonal"
+    },
+    {
+      "code": "9110",
+      "label": "Torg- och marknadsförsäljare"
+    },
+    {
+      "code": "9121",
+      "label": "Hembiträden m.fl."
+    },
+    {
+      "code": "9122",
+      "label": "Hotell- och kontorsstädare m.fl."
+    },
+    {
+      "code": "9123",
+      "label": "Fönsterputsare"
+    },
+    {
+      "code": "9130",
+      "label": "Köks- och restaurangbiträden"
+    },
+    {
+      "code": "9141",
+      "label": "Tidningsdistributörer m.fl."
+    },
+    {
+      "code": "9142",
+      "label": "Vaktmästare m.fl."
+    },
+    {
+      "code": "9143",
+      "label": "Mätaravläsare"
+    },
+    {
+      "code": "9150",
+      "label": "Renhållnings- och återvinningsarbetare"
+    },
+    {
+      "code": "9190",
+      "label": "Övriga servicearbetare"
+    },
+    {
+      "code": "9210",
+      "label": "Medhjälpare inom jordbruk, trädgård, skogsbruk och fiske"
+    },
+    {
+      "code": "9310",
+      "label": "Grovarbetare inom bygg och anläggning"
+    },
+    {
+      "code": "9320",
+      "label": "Handpaketerare och andra fabriksarbetare"
+    },
+    {
+      "code": "9330",
+      "label": "Godshanterare och expressbud"
+    }
+  ],
+  "id": "cdcfe8c17b9cbd83888280a4c3d24d35677a2c2f557ddda0f1b91ca96b695ff2"
+}

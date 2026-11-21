@@ -1,0 +1,1412 @@
+{
+  "version": "SUN 2000 - Utbildningsinriktning",
+  "level": "Utbildningsinriktning, 4 positioner",
+  "data_type": "char(4)",
+  "values": [
+    {
+      "code": "010a",
+      "label": "Bred, generell utbildning, allmän inriktning"
+    },
+    {
+      "code": "010b",
+      "label": "Bred, generell utbildning, samhällsvetenskaplig och humanistisk inriktning"
+    },
+    {
+      "code": "010c",
+      "label": "Bred, generell utbildning, naturvetenskaplig inriktning"
+    },
+    {
+      "code": "010x",
+      "label": "Bred, generell utbildning, annan inriktning"
+    },
+    {
+      "code": "080z",
+      "label": "Läs- och skrivinlärning för vuxna"
+    },
+    {
+      "code": "090z",
+      "label": "Personlig utveckling"
+    },
+    {
+      "code": "140z",
+      "label": "Pedagogik och lärarutbildning, allmän utbildning"
+    },
+    {
+      "code": "142z",
+      "label": "Pedagogik"
+    },
+    {
+      "code": "143a",
+      "label": "Lärarutbildning, inriktning förskola"
+    },
+    {
+      "code": "143b",
+      "label": "Lärarutbildning, inriktning fritidsverksamhet"
+    },
+    {
+      "code": "143x",
+      "label": "Annan lärarutbildning för förskola och fritidsverksamhet"
+    },
+    {
+      "code": "144a",
+      "label": "Lärarutbildning, grundskolans lägre åldrar, allmän ämnesinriktning"
+    },
+    {
+      "code": "144b",
+      "label": "Lärarutbildning, grundskolans lägre åldrar, matematik och naturorienterande ämnen"
+    },
+    {
+      "code": "144c",
+      "label": "Lärarutbildning, grundskolans lägre åldrar, svenska och samhällsorienterade ämnen"
+    },
+    {
+      "code": "144x",
+      "label": "Annan lärarutbildning för grundskolans lägre åldrar"
+    },
+    {
+      "code": "145a",
+      "label": "Ämneslärarutbildning, matematik, data och naturvetenskap"
+    },
+    {
+      "code": "145b",
+      "label": "Ämneslärarutbildning, historia, samhällsvetenskap och ekonomi"
+    },
+    {
+      "code": "145c",
+      "label": "Ämneslärarutbildning, språk"
+    },
+    {
+      "code": "145d",
+      "label": "Ämneslärarutbildning, matematik, data, och naturvetenskap i kombination med historia, samhällsvetenskap och ekonomi"
+    },
+    {
+      "code": "145e",
+      "label": "Ämneslärarutbildning, matematik, data, och naturvetenskap i kombination med språk"
+    },
+    {
+      "code": "145f",
+      "label": "Ämneslärarutbildning, historia, samhällsvetenskap och ekonomi i kombination med språk"
+    },
+    {
+      "code": "145g",
+      "label": "Ämneslärarutbildning, matematik, data och naturvetenskap i kombination praktisk-estetiska ämnen"
+    },
+    {
+      "code": "145h",
+      "label": "Ämneslärarutbildning, historia, samhällsvetenskap och ekonomi i kombination med praktisk-estetiska ämnen"
+    },
+    {
+      "code": "145i",
+      "label": "Ämneslärarutbildning, språk, i kombination med praktisk-estetiska ämnen"
+    },
+    {
+      "code": "145x",
+      "label": "Annan ämneslärarutbildning"
+    },
+    {
+      "code": "146a",
+      "label": "Lärarutbildning, industri och hantverk"
+    },
+    {
+      "code": "146b",
+      "label": "Lärarutbildning, handel och administration"
+    },
+    {
+      "code": "146c",
+      "label": "Lärarutbildning, hotell och restaurang"
+    },
+    {
+      "code": "146d",
+      "label": "Lärarutbildning, livsmedel och konditori"
+    },
+    {
+      "code": "146e",
+      "label": "Lärarutbildning, naturbruk"
+    },
+    {
+      "code": "146f",
+      "label": "Lärarutbildning, vård och omsorg"
+    },
+    {
+      "code": "146g",
+      "label": "Lärarutbildning, medieproduktion"
+    },
+    {
+      "code": "146h",
+      "label": "Lärarutbildning, musik"
+    },
+    {
+      "code": "146i",
+      "label": "Lärarutbildning, bild och formkonst"
+    },
+    {
+      "code": "146j",
+      "label": "Lärarutbildning, dans och teater"
+    },
+    {
+      "code": "146k",
+      "label": "Lärarutbildning, trä- och metallslöjd samt textilslöjd"
+    },
+    {
+      "code": "146l",
+      "label": "Lärarutbildning, idrott och hälsa"
+    },
+    {
+      "code": "146m",
+      "label": "Lärarutbildning, hushållsvetenskap"
+    },
+    {
+      "code": "146x",
+      "label": "Lärarutbildning i annat yrkesämne och praktisk-estetiska ämnen"
+    },
+    {
+      "code": "149a",
+      "label": "Specialpedagogutbildning"
+    },
+    {
+      "code": "149b",
+      "label": "Hemspråks- och modersmålslärarutbildning"
+    },
+    {
+      "code": "149c",
+      "label": "Skolledarutbildning"
+    },
+    {
+      "code": "149x",
+      "label": "Annan utbildning inom pedagogik och lärarutbildning"
+    },
+    {
+      "code": "210z",
+      "label": "Konst och media, allmän utbildning"
+    },
+    {
+      "code": "211a",
+      "label": "Bild- och formkonstnärlig utbildning"
+    },
+    {
+      "code": "211b",
+      "label": "Konstvetenskap och konsthistoria"
+    },
+    {
+      "code": "211x",
+      "label": "Annan utbildning inom bild- och formkonst"
+    },
+    {
+      "code": "212a",
+      "label": "Musik"
+    },
+    {
+      "code": "212b",
+      "label": "Dans, teater och dramatik"
+    },
+    {
+      "code": "212c",
+      "label": "Musik-, dans-, film- och teatervetenskap samt -historia"
+    },
+    {
+      "code": "212x",
+      "label": "Annan utbildning inom musik, dans och dramatik"
+    },
+    {
+      "code": "213a",
+      "label": "Medieproduktion, allmän utbildning"
+    },
+    {
+      "code": "213b",
+      "label": "Film-, radio- och TV-produktion"
+    },
+    {
+      "code": "213c",
+      "label": "Grafisk teknik och bokbinderi"
+    },
+    {
+      "code": "213d",
+      "label": "Illustration, reklam, grafisk formgivning och foto"
+    },
+    {
+      "code": "213x",
+      "label": "Annan utbildning inom medieproduktion"
+    },
+    {
+      "code": "214a",
+      "label": "Modedesign"
+    },
+    {
+      "code": "214b",
+      "label": "Inredningsdesign"
+    },
+    {
+      "code": "214c",
+      "label": "Industri- och produktdesign"
+    },
+    {
+      "code": "214x",
+      "label": "Annan utbildning inom formgivning"
+    },
+    {
+      "code": "215z",
+      "label": "Konsthantverk"
+    },
+    {
+      "code": "219z",
+      "label": "Konst och media, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "220z",
+      "label": "Humaniora, allmän inriktning"
+    },
+    {
+      "code": "221a",
+      "label": "Teologie kandidatutbildning och motsvarande"
+    },
+    {
+      "code": "221b",
+      "label": "Pastors-, missionärs- och diakonutbildning"
+    },
+    {
+      "code": "221x",
+      "label": "Annan utbildning i religion"
+    },
+    {
+      "code": "222a",
+      "label": "Allmän språkkunskap och allmänt språkliga utbildningar"
+    },
+    {
+      "code": "222b",
+      "label": "Engelska"
+    },
+    {
+      "code": "222c",
+      "label": "Tyska"
+    },
+    {
+      "code": "222d",
+      "label": "Franska"
+    },
+    {
+      "code": "222e",
+      "label": "Spanska"
+    },
+    {
+      "code": "222f",
+      "label": "Ryska"
+    },
+    {
+      "code": "222g",
+      "label": "Svenska som främmande språk"
+    },
+    {
+      "code": "222x",
+      "label": "Annan utbildning i främmande språk"
+    },
+    {
+      "code": "223a",
+      "label": "Svenska och nordiska språk"
+    },
+    {
+      "code": "223b",
+      "label": "Andra modersmål och teckenspråk"
+    },
+    {
+      "code": "223c",
+      "label": "Litteraturvetenskap och litteraturhistoria"
+    },
+    {
+      "code": "223x",
+      "label": "Annan utbildning i svenska och litteraturvetenskap"
+    },
+    {
+      "code": "225a",
+      "label": "Historia"
+    },
+    {
+      "code": "225b",
+      "label": "Arkeologi"
+    },
+    {
+      "code": "225c",
+      "label": "Kulturvård, kulturadministration och museivetenskap"
+    },
+    {
+      "code": "225x",
+      "label": "Annan utbildning inom historia och arkeologi"
+    },
+    {
+      "code": "226z",
+      "label": "Filosofi och logik"
+    },
+    {
+      "code": "229z",
+      "label": "Humaniora, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "310a",
+      "label": "Beteendevetenskap, allmän utbildning"
+    },
+    {
+      "code": "310b",
+      "label": "Samhällsvetenskap, allmän utbildning"
+    },
+    {
+      "code": "310x",
+      "label": "Annan bred utbildning i samhälls- och beteendevetenskap"
+    },
+    {
+      "code": "311a",
+      "label": "Psykologutbildning"
+    },
+    {
+      "code": "311b",
+      "label": "Psykologutbildning, inklusive fullgjord praktiktjänstgöring (PTP)"
+    },
+    {
+      "code": "311c",
+      "label": "Psykoterapeututbildning"
+    },
+    {
+      "code": "311x",
+      "label": "Annan utbildning i psykologi"
+    },
+    {
+      "code": "312a",
+      "label": "Sociologi"
+    },
+    {
+      "code": "312b",
+      "label": "Socialantropologi och etnologi"
+    },
+    {
+      "code": "312c",
+      "label": "Kultur- och samhällsgeografi"
+    },
+    {
+      "code": "312x",
+      "label": "Annan utbildning i sociologi, etnologi och kulturgeografi"
+    },
+    {
+      "code": "313z",
+      "label": "Statsvetenskap"
+    },
+    {
+      "code": "314z",
+      "label": "Nationalekonomi och ekonomisk historia"
+    },
+    {
+      "code": "319z",
+      "label": "Samhälls- och beteendevetenskap, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "320z",
+      "label": "Journalistik och information, allmän utbildning"
+    },
+    {
+      "code": "321a",
+      "label": "Journalistik"
+    },
+    {
+      "code": "321b",
+      "label": "Medie- och kommunikationsvetenskap"
+    },
+    {
+      "code": "321x",
+      "label": "Annan utbildning i journalistik och medievetenskap"
+    },
+    {
+      "code": "322a",
+      "label": "Bibliotekarieutbildning samt biblioteks- och informationsvetenskap"
+    },
+    {
+      "code": "322b",
+      "label": "Dokumentations- och informationsvetenskap"
+    },
+    {
+      "code": "322x",
+      "label": "Annan utbildning i biblioteks- och dokumentationsvetenskap"
+    },
+    {
+      "code": "329z",
+      "label": "Journalistik och information, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "340a",
+      "label": "Ekonomutbildning och företagsekonomi"
+    },
+    {
+      "code": "340b",
+      "label": "Handel och administration"
+    },
+    {
+      "code": "340x",
+      "label": "Annan bred utbildning i företagsekonomi, handel och administration"
+    },
+    {
+      "code": "341z",
+      "label": "Inköp, försäljning och distribution"
+    },
+    {
+      "code": "342z",
+      "label": "Marknadsföring"
+    },
+    {
+      "code": "343z",
+      "label": "Bank, försäkring och finansiering"
+    },
+    {
+      "code": "344z",
+      "label": "Redovisning och beskattning"
+    },
+    {
+      "code": "345a",
+      "label": "Ledarskap, organisation och styrning"
+    },
+    {
+      "code": "345b",
+      "label": "Administration och förvaltning"
+    },
+    {
+      "code": "345c",
+      "label": "Personaladministration"
+    },
+    {
+      "code": "345x",
+      "label": "Annan utbildning i ledning och administration"
+    },
+    {
+      "code": "346a",
+      "label": "Läkarsekreterarutbildning"
+    },
+    {
+      "code": "346x",
+      "label": "Annan utbildning i kontorsservice och sekreterartjänster"
+    },
+    {
+      "code": "347z",
+      "label": "Arbetsplatsrelaterad utbildning"
+    },
+    {
+      "code": "349z",
+      "label": "Företagsekonomi, handel, administration, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "380a",
+      "label": "Juristutbildning (juris kand och motsvarande)"
+    },
+    {
+      "code": "380b",
+      "label": "Juristutbildning inklusive fullgjord tingsmeritering"
+    },
+    {
+      "code": "380x",
+      "label": "Annan utbildning i juridik och rättsvetenskap"
+    },
+    {
+      "code": "420z",
+      "label": "Biologi och miljövetenskap, allmän utbildning"
+    },
+    {
+      "code": "421a",
+      "label": "Biologi"
+    },
+    {
+      "code": "421b",
+      "label": "Biokemi, toxikologi, farmakologi och nutrition"
+    },
+    {
+      "code": "421x",
+      "label": "Annan utbildning i biologi och biokemi"
+    },
+    {
+      "code": "422z",
+      "label": "Miljövetenskap"
+    },
+    {
+      "code": "429z",
+      "label": "Biologi och miljövetenskap, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "440z",
+      "label": "Fysik, kemi och geovetenskap, allmän utbildning"
+    },
+    {
+      "code": "441z",
+      "label": "Fysik"
+    },
+    {
+      "code": "442z",
+      "label": "Kemi"
+    },
+    {
+      "code": "443z",
+      "label": "Geovetenskap och naturgeografi"
+    },
+    {
+      "code": "449z",
+      "label": "Fysik, kemi och geovetenskap, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "460z",
+      "label": "Matematik och naturvetenskap, allmän utbildning"
+    },
+    {
+      "code": "461z",
+      "label": "Matematik"
+    },
+    {
+      "code": "462z",
+      "label": "Statistik"
+    },
+    {
+      "code": "469z",
+      "label": "Matematik och naturvetenskap, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "480z",
+      "label": "Data, allmän utbildning"
+    },
+    {
+      "code": "481a",
+      "label": "Systemvetenskap och programvaruteknik"
+    },
+    {
+      "code": "481b",
+      "label": "Datavetenskap och datalogi"
+    },
+    {
+      "code": "481x",
+      "label": "Annan utbildning inom datavetenskap och systemvetenskap"
+    },
+    {
+      "code": "482z",
+      "label": "Datoranvändning"
+    },
+    {
+      "code": "489z",
+      "label": "Data, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "520a",
+      "label": "Civilingenjörsutbildning, generell teknik och teknisk fysik"
+    },
+    {
+      "code": "520b",
+      "label": "Ingenjörsutbildning, generell teknik och teknisk fysik"
+    },
+    {
+      "code": "520x",
+      "label": "Annan bred utbildning i teknik och teknisk industri"
+    },
+    {
+      "code": "521a",
+      "label": "Civilingenjörsutbildning, inriktning maskinteknik"
+    },
+    {
+      "code": "521b",
+      "label": "Ingenjörsutbildning, inriktning maskinteknik"
+    },
+    {
+      "code": "521c",
+      "label": "Industri och verkstadsteknik"
+    },
+    {
+      "code": "521x",
+      "label": "Annan utbildning i maskinteknik och verkstadsteknik"
+    },
+    {
+      "code": "522a",
+      "label": "Civilingenjörsutbildning, inriktning energi- och elektroteknik"
+    },
+    {
+      "code": "522b",
+      "label": "Ingenjörsutbildning, inriktning energi- och elektroteknik"
+    },
+    {
+      "code": "522c",
+      "label": "Elektrisk installation och elmekanik"
+    },
+    {
+      "code": "522d",
+      "label": "Energi, drift och underhåll"
+    },
+    {
+      "code": "522x",
+      "label": "Annan utbildning i energi- och elektroteknik"
+    },
+    {
+      "code": "523a",
+      "label": "Civilingenjörsutbildning, inriktning elektronik, datateknik och automation"
+    },
+    {
+      "code": "523b",
+      "label": "Ingenjörsutbildning, inriktning elektronik, datateknik och automation"
+    },
+    {
+      "code": "523c",
+      "label": "Elektronik-, tele- och datatekniskt arbete"
+    },
+    {
+      "code": "523d",
+      "label": "Automation, styr- och reglerteknik"
+    },
+    {
+      "code": "523x",
+      "label": "Annan utbildning i elektronik, datateknik och automation"
+    },
+    {
+      "code": "524a",
+      "label": "Civilingenjörsutbildning, inriktning kemi- och bioteknik"
+    },
+    {
+      "code": "524b",
+      "label": "Ingenjörsutbildning, inriktning kemi- och bioteknik"
+    },
+    {
+      "code": "524c",
+      "label": "Laboratorieteknik"
+    },
+    {
+      "code": "524d",
+      "label": "Processindustriteknik"
+    },
+    {
+      "code": "524x",
+      "label": "Annan utbildning i kemi- och bioteknik"
+    },
+    {
+      "code": "525a",
+      "label": "Civilingenjörsutbildning, inriktning fordons- och farkostteknik"
+    },
+    {
+      "code": "525b",
+      "label": "Ingenjörsutbildning, inriktning fordons- och farkostteknik"
+    },
+    {
+      "code": "525c",
+      "label": "Fordonsteknik"
+    },
+    {
+      "code": "525d",
+      "label": "Fartygs- och flygteknik"
+    },
+    {
+      "code": "525x",
+      "label": "Annan utbildning i fordons- och farkostteknik"
+    },
+    {
+      "code": "526a",
+      "label": "Civilingenjörsutbildning, inriktning industriell ekonomi och organisation"
+    },
+    {
+      "code": "526b",
+      "label": "Ingenjörsutbildning, inriktning industriell ekonomi och organisation"
+    },
+    {
+      "code": "526x",
+      "label": "Annan utbildning i industriell ekonomi och organisation"
+    },
+    {
+      "code": "529a",
+      "label": "Civilingenjörsutbildning, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "529b",
+      "label": "Ingenjörsutbildning, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "529x",
+      "label": "Annan utbildning inom teknik och teknisk industri"
+    },
+    {
+      "code": "540a",
+      "label": "Civilingenjörsutbildning, inriktning materialteknik"
+    },
+    {
+      "code": "540b",
+      "label": "Ingenjörsutbildning, inriktning materialteknik"
+    },
+    {
+      "code": "540x",
+      "label": "Annan bred utbildning i material och tillverkning"
+    },
+    {
+      "code": "541a",
+      "label": "Civilingenjörsutbildning, inriktning livsmedel"
+    },
+    {
+      "code": "541b",
+      "label": "Ingenjörsutbildning, inriktning livsmedel"
+    },
+    {
+      "code": "541c",
+      "label": "Tillverkning och hantering av livsmedel, allmän utbildning"
+    },
+    {
+      "code": "541d",
+      "label": "Kött och charkuteri"
+    },
+    {
+      "code": "541e",
+      "label": "Bageri och konditori"
+    },
+    {
+      "code": "541x",
+      "label": "Annan utbildning i tillverkning och hantering av livsmedel"
+    },
+    {
+      "code": "542a",
+      "label": "Civilingenjörsutbildning, inriktning textilteknologi"
+    },
+    {
+      "code": "542b",
+      "label": "Ingenjörsutbildning, inriktning textilteknologi"
+    },
+    {
+      "code": "542c",
+      "label": "Tillverkning av textilier och konfektion"
+    },
+    {
+      "code": "542d",
+      "label": "Sko- och läderarbete"
+    },
+    {
+      "code": "542x",
+      "label": "Annan utbildning inom textilier, konfektion och läder"
+    },
+    {
+      "code": "543a",
+      "label": "Civilingenjörsutbildning, inriktning trä, papper, glas, porslin och plast"
+    },
+    {
+      "code": "543b",
+      "label": "Ingenjörsutbildning, inriktning trä, papper, glas, porslin och plast"
+    },
+    {
+      "code": "543c",
+      "label": "Trätekniskt arbete"
+    },
+    {
+      "code": "543d",
+      "label": "Pappersmassa- och papperstillverkning"
+    },
+    {
+      "code": "543e",
+      "label": "Glas- och porslinstillverkning"
+    },
+    {
+      "code": "543f",
+      "label": "Tillverkning av plast- och gummiprodukter"
+    },
+    {
+      "code": "543x",
+      "label": "Annan utbildning i tillverkning i specifikt material"
+    },
+    {
+      "code": "544a",
+      "label": "Civilingenjörsutbildning, inriktning berg- och mineralteknik"
+    },
+    {
+      "code": "544b",
+      "label": "Ingenjörsutbildning, inriktning berg- och mineralteknik"
+    },
+    {
+      "code": "544c",
+      "label": "Gruv- och järnbruksarbete"
+    },
+    {
+      "code": "544x",
+      "label": "Annan utbildning inom berg- och mineralteknik"
+    },
+    {
+      "code": "549z",
+      "label": "Material och tillverkning, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "580a",
+      "label": "Civilingenjörsutbildning, bred inriktning mot byggande, bl.a. lantmäteri"
+    },
+    {
+      "code": "580b",
+      "label": "Ingenjörsutbildning, bred inriktning mot byggande, bl.a. lantmäteri"
+    },
+    {
+      "code": "580x",
+      "label": "Annan bred utbildning inom samhällsbyggnad och byggnadsteknik"
+    },
+    {
+      "code": "581a",
+      "label": "Civilingenjörsutbildning, inriktning samhällsbyggnad och samhällsmiljö"
+    },
+    {
+      "code": "581b",
+      "label": "Ingenjörsutbildning, inriktning samhällsbyggnad och samhällsmiljö"
+    },
+    {
+      "code": "581c",
+      "label": "Arkitektutbildning"
+    },
+    {
+      "code": "581d",
+      "label": "Landskapsarkitekts- och landskapsingenjörsutbildning"
+    },
+    {
+      "code": "581x",
+      "label": "Annan utbildning inom samhällsbyggnad och arkitektur"
+    },
+    {
+      "code": "582a",
+      "label": "Civilingenjörsutbildning, inriktning byggnadsteknik"
+    },
+    {
+      "code": "582b",
+      "label": "Ingenjörsutbildning, inriktning byggnadsteknik"
+    },
+    {
+      "code": "582c",
+      "label": "Byggnadsarbete, allmän utbildning"
+    },
+    {
+      "code": "582d",
+      "label": "Byggnadssnickeri"
+    },
+    {
+      "code": "582e",
+      "label": "Måleri"
+    },
+    {
+      "code": "582f",
+      "label": "VVS-utbildning"
+    },
+    {
+      "code": "582g",
+      "label": "Betong-, anläggnings- och vägarbete"
+    },
+    {
+      "code": "582h",
+      "label": "Murarutbildning"
+    },
+    {
+      "code": "582i",
+      "label": "Plåtslageri"
+    },
+    {
+      "code": "582x",
+      "label": "Annan utbildning inom byggnads- och anläggningsteknik"
+    },
+    {
+      "code": "589z",
+      "label": "Samhällsbyggnad och byggnadsteknik, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "620z",
+      "label": "Lantbruk, trädgård, skog och fiske, allmän utbildning"
+    },
+    {
+      "code": "621a",
+      "label": "Agronomutbildning"
+    },
+    {
+      "code": "621b",
+      "label": "Lantmästarutbildning"
+    },
+    {
+      "code": "621c",
+      "label": "Utbildning i lantbruk, allmän"
+    },
+    {
+      "code": "621d",
+      "label": "Utbildning i jordbruk och växtodling"
+    },
+    {
+      "code": "621e",
+      "label": "Utbildning i djurhållning"
+    },
+    {
+      "code": "621f",
+      "label": "Utbildning i hästhållning och hippologutbildning"
+    },
+    {
+      "code": "621g",
+      "label": "Utbildning i djurvård"
+    },
+    {
+      "code": "621x",
+      "label": "Annan utbildning inom lantbruk"
+    },
+    {
+      "code": "622a",
+      "label": "Hortonomutbildning"
+    },
+    {
+      "code": "622b",
+      "label": "Trädgårdsingenjörs- och trädgårdsteknikerutbildning"
+    },
+    {
+      "code": "622c",
+      "label": "Utbildning i trädgårdsbruk"
+    },
+    {
+      "code": "622x",
+      "label": "Annan utbildning inom trädgård"
+    },
+    {
+      "code": "623a",
+      "label": "Jägmästar- och skogsvetarutbildning"
+    },
+    {
+      "code": "623b",
+      "label": "Skogsmästar-, skogstekniker- och skogsingenjörsutbildning"
+    },
+    {
+      "code": "623c",
+      "label": "Utbildning i skogsbruk"
+    },
+    {
+      "code": "623x",
+      "label": "Annan utbildning inom skog"
+    },
+    {
+      "code": "624z",
+      "label": "Fiske och vattenbruk"
+    },
+    {
+      "code": "629z",
+      "label": "Lantbruk, trädgård, skog och fiske, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "640a",
+      "label": "Veterinärutbildning"
+    },
+    {
+      "code": "640x",
+      "label": "Annan utbildning inom djursjukvård"
+    },
+    {
+      "code": "720z",
+      "label": "Hälso- och sjukvård, allmän utbildning"
+    },
+    {
+      "code": "721a",
+      "label": "Läkarutbildning"
+    },
+    {
+      "code": "721b",
+      "label": "Läkarutbildning, inklusive fullgjord allmäntjänstgöring (AT)"
+    },
+    {
+      "code": "721c",
+      "label": "Läkarutbildning, specialistkompetens inom kirurgi, anestesi- och intensivvård"
+    },
+    {
+      "code": "721d",
+      "label": "Läkarutbildning, specialistkompetens inom invärtes medicin"
+    },
+    {
+      "code": "721e",
+      "label": "Läkarutbildning, specialistkompetens inom barnmedicin"
+    },
+    {
+      "code": "721f",
+      "label": "Läkarutbildning, specialistkompetens inom geriatrik"
+    },
+    {
+      "code": "721g",
+      "label": "Läkarutbildning, specialistkompetens inom allmänmedicin"
+    },
+    {
+      "code": "721h",
+      "label": "Läkarutbildning, specialistkompetens inom psykiatri"
+    },
+    {
+      "code": "721i",
+      "label": "Läkarutbildning, specialistkompetens inom radiologi"
+    },
+    {
+      "code": "721j",
+      "label": "Läkarutbildning, kliniska laboratoriespecialiteter"
+    },
+    {
+      "code": "721k",
+      "label": "Läkarutbildning, annan specialistkompetens"
+    },
+    {
+      "code": "721x",
+      "label": "Annan utbildning inom medicin"
+    },
+    {
+      "code": "723a",
+      "label": "Sjuksköterskeutbildning, grundutbildning"
+    },
+    {
+      "code": "723b",
+      "label": "Sjuksköterskeutbildning, allmän hälso- och sjukvård"
+    },
+    {
+      "code": "723c",
+      "label": "Sjuksköterskeutbildning, anestesi, intensivvård, akut, olycksfall, operation"
+    },
+    {
+      "code": "723d",
+      "label": "Sjuksköterskeutbildning, barn och ungdom"
+    },
+    {
+      "code": "723e",
+      "label": "Sjuksköterskeutbildning, geriatrisk vård"
+    },
+    {
+      "code": "723f",
+      "label": "Sjuksköterskeutbildning, psykiatrisk vård"
+    },
+    {
+      "code": "723g",
+      "label": "Sjuksköterskeutbildning, distriktssköterskeverksamhet"
+    },
+    {
+      "code": "723h",
+      "label": "Sjuksköterskeutbildning, barnmorskeverksamhet"
+    },
+    {
+      "code": "723i",
+      "label": "Sjuksköterskeutbildning, diagnostisk radiologi och onkologi"
+    },
+    {
+      "code": "723j",
+      "label": "Sjuksköterskeutbildning, annan specialisering"
+    },
+    {
+      "code": "723m",
+      "label": "Annan omvårdnadsutbildning, allmän vård och omsorg"
+    },
+    {
+      "code": "723n",
+      "label": "Annan omvårdnadsutbildning, inriktning mot sjukvård"
+    },
+    {
+      "code": "723o",
+      "label": "Annan omvårdnadsutbildning, inriktning mot psykiatrisk vård"
+    },
+    {
+      "code": "723p",
+      "label": "Annan omvårdnadsutbildning, inriktning mot äldreomsorg"
+    },
+    {
+      "code": "723q",
+      "label": "Annan omvårdnadsutbildning, inriktning mot psykiskt utvecklingsstörda"
+    },
+    {
+      "code": "723r",
+      "label": "Annan omvårdnadsutbildning, inriktning mot funktionshindrade"
+    },
+    {
+      "code": "723s",
+      "label": "Annan omvårdnadsutbildning, övriga inriktningar"
+    },
+    {
+      "code": "723x",
+      "label": "Annan utbildning inom omvårdnad"
+    },
+    {
+      "code": "724a",
+      "label": "Tandläkarutbildning"
+    },
+    {
+      "code": "724b",
+      "label": "Tandläkarutbildning, inklusive specialisering"
+    },
+    {
+      "code": "724c",
+      "label": "Tandhygienistutbildning"
+    },
+    {
+      "code": "724d",
+      "label": "Tandsköterskeutbildning"
+    },
+    {
+      "code": "724e",
+      "label": "Tandteknikerutbildning"
+    },
+    {
+      "code": "724x",
+      "label": "Annan utbildning inom tandvård"
+    },
+    {
+      "code": "725a",
+      "label": "Optikerutbildning"
+    },
+    {
+      "code": "725b",
+      "label": "Audionomutbildning"
+    },
+    {
+      "code": "725c",
+      "label": "Ortopedingenjörsutbildning"
+    },
+    {
+      "code": "725d",
+      "label": "Biomedicinsk analytikerutbildning"
+    },
+    {
+      "code": "725e",
+      "label": "Sjukhusfysikerutbildning"
+    },
+    {
+      "code": "725f",
+      "label": "Röntgensjuksköterskeutbildning"
+    },
+    {
+      "code": "725x",
+      "label": "Annan tekniskt inriktad vårdutbildning"
+    },
+    {
+      "code": "726a",
+      "label": "Sjukgymnastutbildning"
+    },
+    {
+      "code": "726b",
+      "label": "Arbetsterapeututbildning"
+    },
+    {
+      "code": "726c",
+      "label": "Logopedutbildning"
+    },
+    {
+      "code": "726d",
+      "label": "Dietistutbildning"
+    },
+    {
+      "code": "726x",
+      "label": "Annan utbildning inom terapi, rehabilitering och kostbehandling"
+    },
+    {
+      "code": "727a",
+      "label": "Apotekarutbildning"
+    },
+    {
+      "code": "727b",
+      "label": "Receptarieutbildning"
+    },
+    {
+      "code": "727x",
+      "label": "Annan utbildning inom farmaci"
+    },
+    {
+      "code": "729z",
+      "label": "Hälso- och sjukvård, övrig eller ospecificerad utbildning"
+    },
+    {
+      "code": "760z",
+      "label": "Socialt arbete och omsorg, allmän utbildning"
+    },
+    {
+      "code": "761a",
+      "label": "Barn och ungdom, allmän utbildning"
+    },
+    {
+      "code": "761b",
+      "label": "Barnomsorg"
+    },
+    {
+      "code": "761c",
+      "label": "Fritidsverksamhet för barn och ungdom"
+    },
+    {
+      "code": "761x",
+      "label": "Annan utbildning inom barn och ungdom"
+    },
+    {
+      "code": "762a",
+      "label": "Social service och omsorg, allmän utbildning"
+    },
+    {
+      "code": "762b",
+      "label": "Social omsorgsutbildning, äldre och handikappade"
+    },
+    {
+      "code": "762c",
+      "label": "Social omsorgsutbildning, socialpedagogisk behandling"
+    },
+    {
+      "code": "762d",
+      "label": "Socionomutbildning"
+    },
+    {
+      "code": "762e",
+      "label": "Socionomutbildning, äldre och handikappade"
+    },
+    {
+      "code": "762f",
+      "label": "Socionomutbildning, socialpedagogisk behandling"
+    },
+    {
+      "code": "762g",
+      "label": "Studie- och yrkesvägledarutbildning"
+    },
+    {
+      "code": "762x",
+      "label": "Annan utbildning inom socialt arbete och vägledning"
+    },
+    {
+      "code": "769z",
+      "label": "Socialt arbete och omsorg, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "810z",
+      "label": "Personliga tjänster, allmän utbildning"
+    },
+    {
+      "code": "811a",
+      "label": "Hotell, restaurang och storhushåll, allmän utbildning"
+    },
+    {
+      "code": "811b",
+      "label": "Utbildning för hotell"
+    },
+    {
+      "code": "811c",
+      "label": "Utbildning för restaurang"
+    },
+    {
+      "code": "811d",
+      "label": "Utbildning för storhushåll"
+    },
+    {
+      "code": "811x",
+      "label": "Annan utbildning inom hotell, restaurang och storhushåll"
+    },
+    {
+      "code": "812z",
+      "label": "Turism, resor och fritid"
+    },
+    {
+      "code": "813z",
+      "label": "Idrott och friskvård"
+    },
+    {
+      "code": "814a",
+      "label": "Hem- och hushållsvetenskap, allmän utbildning"
+    },
+    {
+      "code": "814b",
+      "label": "Utbildning för lokalvård"
+    },
+    {
+      "code": "814x",
+      "label": "Annan utbildning inom hushållstjänster och lokalvård"
+    },
+    {
+      "code": "815a",
+      "label": "Utbildning för hårvård"
+    },
+    {
+      "code": "815x",
+      "label": "Annan utbildning inom hår- och skönhetsvård"
+    },
+    {
+      "code": "819z",
+      "label": "Personliga tjänster, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "840a",
+      "label": "Transporttjänster, allmän utbildning"
+    },
+    {
+      "code": "840b",
+      "label": "Utbildning för landtransporter"
+    },
+    {
+      "code": "840c",
+      "label": "Utbildning för sjöfart"
+    },
+    {
+      "code": "840d",
+      "label": "Utbildning för luftfart"
+    },
+    {
+      "code": "840e",
+      "label": "Utbildning för postservice"
+    },
+    {
+      "code": "840x",
+      "label": "Annan utbildning inom transporttjänster"
+    },
+    {
+      "code": "850z",
+      "label": "Miljövård och miljöskydd, allmän utbildning"
+    },
+    {
+      "code": "851z",
+      "label": "Miljövårdsteknik och miljökontroll"
+    },
+    {
+      "code": "852z",
+      "label": "Naturvård och djurskydd"
+    },
+    {
+      "code": "853z",
+      "label": "Renhållning och avfallshantering"
+    },
+    {
+      "code": "859z",
+      "label": "Miljövård och miljöskydd, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "860z",
+      "label": "Säkerhetstjänster, allmän utbildning"
+    },
+    {
+      "code": "861a",
+      "label": "Polisutbildning"
+    },
+    {
+      "code": "861b",
+      "label": "Utbildning för brandskydd och annan räddningstjänst"
+    },
+    {
+      "code": "861c",
+      "label": "Civilförsvarsutbildning"
+    },
+    {
+      "code": "861x",
+      "label": "Annan utbildning inom säkerhet i samhället"
+    },
+    {
+      "code": "862z",
+      "label": "Arbetsmiljö och arbetarskydd"
+    },
+    {
+      "code": "863a",
+      "label": "Yrkesofficersutbildning"
+    },
+    {
+      "code": "863b",
+      "label": "Reservofficersutbildning"
+    },
+    {
+      "code": "863c",
+      "label": "Taktisk utbildning för militärer"
+    },
+    {
+      "code": "863d",
+      "label": "Fackutbildning för militärer"
+    },
+    {
+      "code": "863e",
+      "label": "Stabsutbildning för militärer"
+    },
+    {
+      "code": "863f",
+      "label": "Högre chefsutbildning för militärer"
+    },
+    {
+      "code": "863x",
+      "label": "Annan militär utbildning"
+    },
+    {
+      "code": "869z",
+      "label": "Säkerhetstjänster, övrig och ospecificerad utbildning"
+    },
+    {
+      "code": "999z",
+      "label": "Okänd"
+    }
+  ],
+  "id": "1269577f2faa3419ff72724e8fd8fec507911217777d83fcea22e187dd19a8e5"
+}

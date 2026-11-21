@@ -1,0 +1,24 @@
+{
+  "version": "Termin för registrering",
+  "level": "Termin för registrering",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Ej aktuellt"
+    },
+    {
+      "code": "1",
+      "label": "Registrerad vårterminen"
+    },
+    {
+      "code": "2",
+      "label": "Registrerad hösttermin"
+    },
+    {
+      "code": "3",
+      "label": "Registrerad vår- och hösttermin"
+    }
+  ],
+  "id": "3ab36b47b3425b83196e44cabd91995713c66c9bf6c1d2c36a80d871ac7462c2"
+}

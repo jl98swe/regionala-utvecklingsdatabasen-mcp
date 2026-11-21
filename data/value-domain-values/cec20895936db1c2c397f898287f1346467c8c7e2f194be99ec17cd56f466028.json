@@ -1,0 +1,396 @@
+{
+  "version": "SUN 2020 - Gruppering",
+  "level": "SUN2020 Gruppering",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "01Z",
+      "label": "Folkskoleutbildning och motsvarande"
+    },
+    {
+      "code": "02Z",
+      "label": "Grundskoleutbildning och motsvarande"
+    },
+    {
+      "code": "03A",
+      "label": "Samhällsvetenskaplig, social och humanistisk gymnasieutbildning"
+    },
+    {
+      "code": "03N",
+      "label": "Naturvetenskaplig gymnasieutbildning"
+    },
+    {
+      "code": "13Z",
+      "label": "Gymnasial utbildning inom pedagogik och lärarutbildning"
+    },
+    {
+      "code": "14P",
+      "label": "Minst 30 högskolepoäng inom pedagogik och lärarutbildning, ej examen"
+    },
+    {
+      "code": "15B",
+      "label": "Förskollärarutbildning"
+    },
+    {
+      "code": "15F",
+      "label": "Fritidspedagogutbildning"
+    },
+    {
+      "code": "15G",
+      "label": "Lärarutbildning för grundskolans tidiga åldrar"
+    },
+    {
+      "code": "15H",
+      "label": "Ämneslärarutbildning, allmänna ämnen"
+    },
+    {
+      "code": "15P",
+      "label": "Lärarutbildning i praktisk-estetiska ämnen"
+    },
+    {
+      "code": "15S",
+      "label": "Speciallärar- och specialpedagogutbildning"
+    },
+    {
+      "code": "15V",
+      "label": "Yrkeslärarutbildning"
+    },
+    {
+      "code": "15X",
+      "label": "Övrig eftergymnasial utbildning inom pedagogik och lärarutbildning"
+    },
+    {
+      "code": "23E",
+      "label": "Estetisk utbildning på gymnasial nivå"
+    },
+    {
+      "code": "23M",
+      "label": "Gymnasial utbildning för medieproduktion"
+    },
+    {
+      "code": "24P",
+      "label": "Minst 30 högskolepoäng inom humaniora och konst, ej examen"
+    },
+    {
+      "code": "25H",
+      "label": "Humanistisk högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "25K",
+      "label": "Konstnärlig eftergymnasial utbildning"
+    },
+    {
+      "code": "25M",
+      "label": "Medieproduktion, eftergymnasial utbildning"
+    },
+    {
+      "code": "25T",
+      "label": "Teologisk eftergymnasial utbildning (minst 3 år)"
+    },
+    {
+      "code": "25X",
+      "label": "Övrig eftergymnasial utbildning inom humaniora och konst"
+    },
+    {
+      "code": "33E",
+      "label": "Ekonomisk gymnasieutbildning"
+    },
+    {
+      "code": "33H",
+      "label": "Yrkesinriktad utbildning på gymnasial nivå inom handel och administration"
+    },
+    {
+      "code": "34P",
+      "label": "Minst 30 högskolepoäng inom samhällsvetenskap, ekonomi och juridik, ej examen"
+    },
+    {
+      "code": "35B",
+      "label": "Biblioteks- och informationsvetenskaplig högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "35E",
+      "label": "Ekonomutbildning (högskoleutbildning minst 3 år)"
+    },
+    {
+      "code": "35F",
+      "label": "Högskoleutbildning inom organisation, administration och förvaltning (minst 3 år)"
+    },
+    {
+      "code": "35J",
+      "label": "Juridisk högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "35M",
+      "label": "Journalist- och medieutbildning (eftergymnasial)"
+    },
+    {
+      "code": "35P",
+      "label": "Högskoleutbildning i psykologi och psykoterapi (minst 3 år)"
+    },
+    {
+      "code": "35S",
+      "label": "Samhälls- och beteendevetenskaplig högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "35X",
+      "label": "Övrig eftergymnasial utbildning inom samhällsvetenskap, juridik, handel och administration"
+    },
+    {
+      "code": "43Z",
+      "label": "Yrkesinriktad gymnasieutbildning inom naturvetenskap, matematik och IKT"
+    },
+    {
+      "code": "44P",
+      "label": "Minst 30 högskolepoäng inom naturvetenskap, matematik och IKT ej examen"
+    },
+    {
+      "code": "45D",
+      "label": "Programmerar- och systemerarutbildning (eftergymnasial)"
+    },
+    {
+      "code": "45N",
+      "label": "Naturvetenskaplig högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "45X",
+      "label": "Övrig eftergymnasial utbildning inom naturvetenskap, matematik och IKT"
+    },
+    {
+      "code": "53A",
+      "label": "Tekniskt gymnasium, 1-3 år"
+    },
+    {
+      "code": "53B",
+      "label": "Gymnasieutbildning inom bygg"
+    },
+    {
+      "code": "53E",
+      "label": "Gymnasieutbildning inom elektro- och datateknik"
+    },
+    {
+      "code": "53F",
+      "label": "Gymnasieutbildning inom fordonsteknik"
+    },
+    {
+      "code": "53K",
+      "label": "Gymnasieutbildning inom textil- och konfektionsteknik"
+    },
+    {
+      "code": "53L",
+      "label": "Gymnasieutbildning inom livsmedel"
+    },
+    {
+      "code": "53P",
+      "label": "Gymnasieutbildning inom processteknik"
+    },
+    {
+      "code": "53R",
+      "label": "Gymnasieutbildning inom energi och VVS"
+    },
+    {
+      "code": "53T",
+      "label": "Gymnasieutbildning inom träteknik"
+    },
+    {
+      "code": "53V",
+      "label": "Gymnasieutbildning inom verkstadsteknik"
+    },
+    {
+      "code": "53X",
+      "label": "Övrig gymnasial utbildning inom teknik och tillverkning"
+    },
+    {
+      "code": "54P",
+      "label": "Minst 30 högskolepoäng inom teknik och tillverkning, ej examen"
+    },
+    {
+      "code": "55A",
+      "label": "Arkitekt- och landskapsarkitektutbildning"
+    },
+    {
+      "code": "55C",
+      "label": "Civilingenjörsutbildning inom samhällsbyggnad, byggnadsteknik och miljöteknik"
+    },
+    {
+      "code": "55D",
+      "label": "Civilingenjörsutbildning inom maskin, fordon, farkost och industriell ekonomi"
+    },
+    {
+      "code": "55E",
+      "label": "Civilingenjörsutbildning inom elektroteknik, teknisk fysik och datateknik"
+    },
+    {
+      "code": "55F",
+      "label": "Civilingenjörsutbildning inom kemi- och bioteknik, material- och geoteknik"
+    },
+    {
+      "code": "55G",
+      "label": "Övrig civilingenjörsutbildning"
+    },
+    {
+      "code": "55H",
+      "label": "Ingenjörsutbildning inom samhällsbyggnad, byggnadsteknik och miljöteknik (eftergymnasial)"
+    },
+    {
+      "code": "55I",
+      "label": "Ingenjörsutbildning inom maskin, fordon, farkost och industriell ekonomi(eftergymnasial)"
+    },
+    {
+      "code": "55J",
+      "label": "Ingenjörsutbildning inom elektroteknik, teknisk fysik och datateknik (eftergymnasial)"
+    },
+    {
+      "code": "55K",
+      "label": "Ingenjörsutbildning inom kemi- och bioteknik, material- och geoteknik (eftergymnasial)"
+    },
+    {
+      "code": "55L",
+      "label": "Övrig ingenjörsutbildning (eftergymnasial)"
+    },
+    {
+      "code": "55X",
+      "label": "Övrig eftergymnasial utbildning inom teknik och tillverkning"
+    },
+    {
+      "code": "63Z",
+      "label": "Gymnasial utbildning inom lant- och skogsbruk samt djursjukvård"
+    },
+    {
+      "code": "64P",
+      "label": "Minst 30 högskolepoäng inom lant- och skogsbruk samt djursjukvård, ej examen"
+    },
+    {
+      "code": "65J",
+      "label": "Lantbruksvetenskaplig högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "65S",
+      "label": "Skogsbruksvetenskaplig högskoleutbildning (minst 3 år)"
+    },
+    {
+      "code": "65V",
+      "label": "Veterinärutbildning"
+    },
+    {
+      "code": "65X",
+      "label": "Övrig eftergymnasial utbildning inom lant- och skogsbruk, samt djursjukvård"
+    },
+    {
+      "code": "73B",
+      "label": "Gymnasial utbildning med inriktning mot barn och ungdom"
+    },
+    {
+      "code": "73O",
+      "label": "Omvårdnads- och omsorgsutbildning på gymnasial nivå"
+    },
+    {
+      "code": "73T",
+      "label": "Tandvårdsutbildning på gymnasial nivå"
+    },
+    {
+      "code": "73X",
+      "label": "Övrig gymnasial utbildning inom hälso- och sjukvård och social omsorg"
+    },
+    {
+      "code": "74P",
+      "label": "Minst 30 högskolepoäng inom hälso- och sjukvård och social omsorg, ej examen"
+    },
+    {
+      "code": "75A",
+      "label": "Apotekarutbildning"
+    },
+    {
+      "code": "75B",
+      "label": "Arbetsterapeututbildning"
+    },
+    {
+      "code": "75D",
+      "label": "Biomedicinsk analytikerutbildning"
+    },
+    {
+      "code": "75F",
+      "label": "Fritidsledarutbildning (eftergymnasial)"
+    },
+    {
+      "code": "75H",
+      "label": "Läkarutbildning"
+    },
+    {
+      "code": "75J",
+      "label": "Receptarieutbildning"
+    },
+    {
+      "code": "75L",
+      "label": "Fysioterapeututbildning"
+    },
+    {
+      "code": "75N",
+      "label": "Sjuksköterskeutbildning"
+    },
+    {
+      "code": "75O",
+      "label": "Social service- och omsorgsutbildning"
+    },
+    {
+      "code": "75P",
+      "label": "Socionomutbildning"
+    },
+    {
+      "code": "75T",
+      "label": "Tandhygienistutbildning"
+    },
+    {
+      "code": "75V",
+      "label": "Tandläkarutbildning"
+    },
+    {
+      "code": "75X",
+      "label": "Övrig eftergymnasial utbildning inom hälso- och sjukvård och social omsorg"
+    },
+    {
+      "code": "83R",
+      "label": "Hotell- och restaurangutbildning på gymnasial nivå"
+    },
+    {
+      "code": "83T",
+      "label": "Transportutbildning på gymnasial nivå"
+    },
+    {
+      "code": "83X",
+      "label": "Övrig gymnasial utbildning inom tjänster"
+    },
+    {
+      "code": "84P",
+      "label": "Minst 30 högskolepoäng inom tjänster, ej examen"
+    },
+    {
+      "code": "85M",
+      "label": "Militär utbildning på eftergymnasial nivå"
+    },
+    {
+      "code": "85P",
+      "label": "Polisutbildning"
+    },
+    {
+      "code": "85T",
+      "label": "Transportutbildning på eftergymnasial nivå"
+    },
+    {
+      "code": "85X",
+      "label": "Övrig eftergymnasial utbildning inom tjänster"
+    },
+    {
+      "code": "93Z",
+      "label": "Gymnasial utbildning, okänd inriktning"
+    },
+    {
+      "code": "95Z",
+      "label": "Eftergymnasial utbildning, okänd inriktning"
+    },
+    {
+      "code": "99Z",
+      "label": "Uppgift saknas"
+    }
+  ],
+  "id": "cec20895936db1c2c397f898287f1346467c8c7e2f194be99ec17cd56f466028"
+}

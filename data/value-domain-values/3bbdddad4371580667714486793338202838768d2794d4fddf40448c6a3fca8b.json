@@ -1,0 +1,68 @@
+{
+  "version": "Studiedeltagande",
+  "level": "Studiedeltagande",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Ej i Utbildning"
+    },
+    {
+      "code": "1",
+      "label": "Gymnasieskola"
+    },
+    {
+      "code": "2",
+      "label": "KOMVUX"
+    },
+    {
+      "code": "3",
+      "label": "Tekniskt basår vid univ/högskola"
+    },
+    {
+      "code": "4",
+      "label": "Grundläggande Högskoleutbildning"
+    },
+    {
+      "code": "5",
+      "label": "Forskarutbildning"
+    },
+    {
+      "code": "6",
+      "label": "Kvalificerad yrkesutbildning/yrkeshögskoleutbildning"
+    },
+    {
+      "code": "7",
+      "label": "Folkhögskola"
+    },
+    {
+      "code": "8",
+      "label": "Studiemedel för utlandsstudier"
+    },
+    {
+      "code": "9",
+      "label": "Övriga med studiemedel"
+    },
+    {
+      "code": "A",
+      "label": "Arbetsmarknadsutbildning"
+    },
+    {
+      "code": "G",
+      "label": "Grundskola"
+    },
+    {
+      "code": "K",
+      "label": "Kompletterande utbildning/konst- och kulturutbildningar"
+    },
+    {
+      "code": "S",
+      "label": "Utbildning i svenska för invandrare (SFI)"
+    },
+    {
+      "code": "U",
+      "label": "Uppdragsutbildning i universitet/högskola"
+    }
+  ],
+  "id": "3bbdddad4371580667714486793338202838768d2794d4fddf40448c6a3fca8b"
+}

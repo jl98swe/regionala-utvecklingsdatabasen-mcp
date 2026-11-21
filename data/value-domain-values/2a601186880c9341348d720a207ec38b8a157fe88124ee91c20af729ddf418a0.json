@@ -1,0 +1,56 @@
+{
+  "version": "Sektor 2000",
+  "level": "Sektorkod",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "00",
+      "label": "Ej aktuellt"
+    },
+    {
+      "code": "11",
+      "label": "Statlig förvaltning"
+    },
+    {
+      "code": "12",
+      "label": "Statliga affärsverk"
+    },
+    {
+      "code": "13",
+      "label": "Kommunal förvaltning"
+    },
+    {
+      "code": "14",
+      "label": "Landsting"
+    },
+    {
+      "code": "14",
+      "label": "Region"
+    },
+    {
+      "code": "15",
+      "label": "Övriga offentliga institutioner"
+    },
+    {
+      "code": "21",
+      "label": "Aktiebolag, ej offentligt ägda"
+    },
+    {
+      "code": "22",
+      "label": "Övriga företag, ej offentligt ägda"
+    },
+    {
+      "code": "23",
+      "label": "Statligt ägda företag och organisationer"
+    },
+    {
+      "code": "24",
+      "label": "Kommunalt ägda företag och organisationer"
+    },
+    {
+      "code": "25",
+      "label": "Övriga organisationer"
+    }
+  ],
+  "id": "2a601186880c9341348d720a207ec38b8a157fe88124ee91c20af729ddf418a0"
+}

@@ -1,0 +1,44 @@
+{
+  "version": "Huvudsaklig inkomstkälla",
+  "level": "Huvudsaklig inkomstkälla",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Ersättning för arbete"
+    },
+    {
+      "code": "2",
+      "label": "Ersättning vid arbetslöshet"
+    },
+    {
+      "code": "3",
+      "label": "Ersättning för studier"
+    },
+    {
+      "code": "4",
+      "label": "Pension"
+    },
+    {
+      "code": "5",
+      "label": "Ersättning vid långvarigt nedsatt arbetsförmåga"
+    },
+    {
+      "code": "6",
+      "label": "Ersättning vid sjukdom"
+    },
+    {
+      "code": "7",
+      "label": "Ersättning vid föräldraledighet eller närståendeomvårdnad"
+    },
+    {
+      "code": "8",
+      "label": "Ekonomiskt stöd"
+    },
+    {
+      "code": "99",
+      "label": "Saknar ersättningar"
+    }
+  ],
+  "id": "f13f7d016daad08954c261fe9986d9085a45055e03b922b150e1f83c406f7ebf"
+}
