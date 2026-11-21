@@ -723,14 +723,34 @@
       }
     ],
     "identified_register": "Företagens ekonomi (FEK)",
-    "evidence": "Granskning 2026-11-21 i Mikrometadata: lgr6101 benämns Medelantal anställda, definieras som årsanställda omräknade till heltid och har måttenhet Antal. lhar6103 benämns Sysselsatta (RAMS), definieras som antal sysselsatta enligt RAMS och har måttenhet Antal. Objekttypen är Lokal verksamhetsenhet. Dessa används som dokumentationsalias för de två motsvarande beställningsnamnen; de bevisar inte numerisk skala eller bearbetning i MONA. Endast dokumenterade källversioner används: 2003–2024 respektive 2003–2021. Beställningens tidigare år blir inte verifierade av dessa källversioner.",
+    "evidence": "Granskning 2026-11-21 i Mikrometadata: lgr6101 benämns Medelantal anställda, definieras som årsanställda omräknade till heltid och har måttenhet Antal. lhar6103 benämns Sysselsatta (RAMS), definieras som antal sysselsatta enligt RAMS och har måttenhet Antal. Objekttypen är Lokal verksamhetsenhet. Dessa används som dokumentationsalias för de två motsvarande beställningsnamnen; de bevisar inte numerisk skala eller bearbetning i MONA. Endast dokumenterade källversioner används: 2003–2024 respektive 2003–2021. Beställningens tidigare år blir inte verifierade av dessa källversioner. Användarbeslut 2026-11-21: samma definition antas gälla för MedeltalAnstallda 1998–2002 och SysselsattaRAMS 2002. Detta är ett uttryckligt antagande; inga SCB-versioner eller kodlistor skapas för dessa tidigare år.",
     "references": [
       "https://mikrometadata.scb.se/"
     ],
     "column_aliases": {
       "MedeltalAnstallda": "lgr6101",
       "SysselsattaRAMS": "lhar6103"
-    }
+    },
+    "definition_assumptions": [
+      {
+        "ordered_column": "MedeltalAnstallda",
+        "period": "1998–2002",
+        "source_column": "lgr6101",
+        "reference_source_period": "2003–2024",
+        "assumption": "Samma variabeldefinition som i den dokumenterade källan antas gälla för beställningens tidigare år.",
+        "basis": "Godkänt av användaren 2026-11-21",
+        "verification": "user_approved_assumption_not_independently_verified"
+      },
+      {
+        "ordered_column": "SysselsattaRAMS",
+        "period": "2002",
+        "source_column": "lhar6103",
+        "reference_source_period": "2003–2021",
+        "assumption": "Samma variabeldefinition som i den dokumenterade källan antas gälla för beställningens tidigare år.",
+        "basis": "Godkänt av användaren 2026-11-21",
+        "verification": "user_approved_assumption_not_independently_verified"
+      }
+    ]
   },
   "ureg_ky_yh_fhsk": {
     "status": "register_identified_variant_unresolved",
