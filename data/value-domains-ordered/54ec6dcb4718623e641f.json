@@ -1,0 +1,528 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "54ec6dcb4718623e641f",
+  "register": "FRIDA",
+  "variant": "Forskning och utveckling",
+  "bindings": [
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_FTEXI_F",
+      "variable": "Årsverken av extern understödjande personal inom AI",
+      "register_version": "2021",
+      "source_task_id": "bd2feeeca039c2ac42babb7c478fea38abc0702ec7c2f742727fb8db7e71242e",
+      "id": "b92d660e74a94d6df14fa6c3655bc7209418c3eb334235e83d14f69a8731379b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTEXI_F",
+          "ar_raw": "2019-2021",
+          "kallrad": 526,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8cb167b3406444126f6bc036889329b41efff6b34b17930d8979522a66bcc10",
+        "path": "data/variable-documentation/e8cb167b3406444126f6bc036889329b41efff6b34b17930d8979522a66bcc10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_FTEXI_M",
+      "variable": "Årsverken av extern understödjande personal inom AI",
+      "register_version": "2021",
+      "source_task_id": "41c2f90401480d6662eb41fdfcb2c7c9dcb1cba89df65263e58730e906a7aaf1",
+      "id": "4436c67d7f7c7408995b5caaef085be354c503cc09897e21ae78a73603d2c55a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTEXI_M",
+          "ar_raw": "2019-2021",
+          "kallrad": 527,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "13ce5278075b1ba060a1cfecb6145fddd454d18fe745dabe4be65440b4583016",
+        "path": "data/variable-documentation/13ce5278075b1ba060a1cfecb6145fddd454d18fe745dabe4be65440b4583016.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_FTE_F",
+      "variable": "Årsverken av understödjande personal inom AI",
+      "register_version": "2021",
+      "source_task_id": "c4c5f9efd2c9ba1ca060cefdf6c6cbb15715b3e79f72876933ad54dbf8bd970d",
+      "id": "c8f1e4182ff8a09d6fcd0eb8cdc7c76b7e62242effa1e9d9229c8aaf0eb335fb",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTE_F",
+          "ar_raw": "2019-2021",
+          "kallrad": 528,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "551177228988211a413712605a9231b42dc315930701ba1d32a2dab113b07adb",
+        "path": "data/variable-documentation/551177228988211a413712605a9231b42dc315930701ba1d32a2dab113b07adb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_FTE_M",
+      "variable": "Årsverken av understödjande personal inom AI",
+      "register_version": "2021",
+      "source_task_id": "26d54d32bde6f03087f64c09de9a9be5247d0d425bf580ee59a4d692a88ed365",
+      "id": "10edf593125c1f8214eac432858bd60d070a3cd26471e30af86902ff970de22c",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTE_M",
+          "ar_raw": "2019-2021",
+          "kallrad": 529,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d3a28abb09e3401c967fb580bc7c181b750be1259f520d59ebbc18fbab47a33f",
+        "path": "data/variable-documentation/d3a28abb09e3401c967fb580bc7c181b750be1259f520d59ebbc18fbab47a33f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_IRD_CAP",
+      "variable": "Investeringar inom AI",
+      "register_version": "2021",
+      "source_task_id": "981429d0b9365302e003bafaee8eb67a58af8ec1eb42e83ab300b32159677cde",
+      "id": "ad9375745bdaeb492395754dd2b667b4ec3b7ce1c2bb4e6a7e67fadf07a8ba24",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CAP",
+          "ar_raw": "2019-2021",
+          "kallrad": 530,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc3f8218981000a55e8b9575c9d9890f87148fa32f0dad14bf91f6a541330a25",
+        "path": "data/variable-documentation/bc3f8218981000a55e8b9575c9d9890f87148fa32f0dad14bf91f6a541330a25.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_IRD_CUR_LC",
+      "variable": "Ersättning till anställda inom AI",
+      "register_version": "2021",
+      "source_task_id": "4c6cc5ac29d19570ae682a4fdab23accecb1fabb934b4bf2998c8820c08f44f2",
+      "id": "a4dd763ef160d43258143355d3e49a91ce079a00a3a138af4d4099785312b377",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_LC",
+          "ar_raw": "2019-2021",
+          "kallrad": 531,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e1502e7eed3785d0cf8d04174240b2454e679a06163d1ff272c52dc98f4fffc9",
+        "path": "data/variable-documentation/e1502e7eed3785d0cf8d04174240b2454e679a06163d1ff272c52dc98f4fffc9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_IRD_CUR_LC_EXT",
+      "variable": "Kostnader för konsulter och inhyrd personal inom AI",
+      "register_version": "2021",
+      "source_task_id": "37b32e823df67a14511500560a9604c9dbc1c245a7266703a5124694d29c53df",
+      "id": "51f36edc3c454b393cb98a1ad1df7fd9d1684ecfa4adc9b45ff8966929cd0f94",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_LC_EXT",
+          "ar_raw": "2019-2021",
+          "kallrad": 532,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0524a014667757a888991b159cbb408cc0ef7563ef6c0d812a175db97c6671ea",
+        "path": "data/variable-documentation/0524a014667757a888991b159cbb408cc0ef7563ef6c0d812a175db97c6671ea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "AI_IRD_CUR_O",
+      "variable": "Andra rörelsekostnader inom AI",
+      "register_version": "2021",
+      "source_task_id": "69d39cbe441e4574b8c35e1ac635691730007b564c462183a0e28b3e43415148",
+      "id": "a5a67bf4bd7d27016205de64b3d232f74d941cef764adb3c34bfd87c047b81a4",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_O",
+          "ar_raw": "2019-2021",
+          "kallrad": 533,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "19b31656514565e795288e39de4fde61f76892c2717468ed1b602ae7e6b3fd3c",
+        "path": "data/variable-documentation/19b31656514565e795288e39de4fde61f76892c2717468ed1b602ae7e6b3fd3c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "FTEXI_OCCUP_RSE_T",
+      "variable": "Årsverken av externa forskare, produktutvecklare eller motsvarande  i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "0e996cfa2958831ace87bf5911d5ca2270e37afec6a8276af95b783b9296e46d",
+      "id": "84aa442ad94ebcc28e299be8f0a9b5d130890ea2c537146d14453e702813af37",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_RSE_T",
+          "ar_raw": "2021",
+          "kallrad": 558,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e4b77aea8e4bc8099d855c239581ea137af74a88cfd427220ee48ed6c935832a",
+        "path": "data/variable-documentation/e4b77aea8e4bc8099d855c239581ea137af74a88cfd427220ee48ed6c935832a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "FTEXI_OCCUP_TXRSE_T",
+      "variable": "Årsverken av extern understödjande personal i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "3d42e1807ca88cc4f70b88eb5801998941b2614f800587b5a112ac48b9c85076",
+      "id": "d07ca5c7045847d00dd641b890d99679fb18aa3f41903d874c684fd0d9066aa4",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_TXRSE_T",
+          "ar_raw": "2021",
+          "kallrad": 561,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e550ebba346b88baf3f5d63ba15faec7ac389a66f3e893453f5bb34a6dfcce16",
+        "path": "data/variable-documentation/e550ebba346b88baf3f5d63ba15faec7ac389a66f3e893453f5bb34a6dfcce16.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "FTEXI_OCCUP_T_T",
+      "variable": "Årsverken av extern personal i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "515c1480d96bed034eeb4e743e62d308dc2db35930b1c48f11dc2206e03313e7",
+      "id": "3115980ec68285c1294ca2a1da2ec1c2634ee6e715e2865813b0b60ec08f92e6",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_T_T",
+          "ar_raw": "2021",
+          "kallrad": 562,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8e812f3635bb14825ee480a076592a2965e029889d4b9b78ec85d5f3ff248ec",
+        "path": "data/variable-documentation/c8e812f3635bb14825ee480a076592a2965e029889d4b9b78ec85d5f3ff248ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "FTE_OCCUP_T_T",
+      "variable": "Årsverken i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "af3661332bac062cb0124b1d440d629473581c717deaa86a7e688b217bb8274d",
+      "id": "3a2a016e5558acc7974a1993ad3a0e09ab3f68f56f2c2b699a6cecb22b7e0685",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTE_OCCUP_T_T",
+          "ar_raw": "2019-2021",
+          "kallrad": 569,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fba1af27249f24e36f2a2ca928c4634bee8c1f656799352368b0a7a364e21d0f",
+        "path": "data/variable-documentation/fba1af27249f24e36f2a2ca928c4634bee8c1f656799352368b0a7a364e21d0f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "HCXI_OCCUP_RSE_T",
+      "variable": "Antal externa forskare, produktutvecklare eller motsvarande i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "c0a3f577bea19c86fb8436a77c38c0587c4aebda8ec24f98ca0f2616996af0c9",
+      "id": "11815574f754149418778d2ffb1283201637ae05e66b00848ab3219fae765028",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_RSE_T",
+          "ar_raw": "2021",
+          "kallrad": 615,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "05c6ac124e02c588f5aee7005a5a8262fe0111fcea0a75e920c57179f12712b4",
+        "path": "data/variable-documentation/05c6ac124e02c588f5aee7005a5a8262fe0111fcea0a75e920c57179f12712b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "HCXI_OCCUP_TXRSE_T",
+      "variable": "Antal externa understödjande personal i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "3d7e886168c59830b8db17dffcef7a819e6f975f42d013b9aed0d280edbdc6fb",
+      "id": "17c3582c4cec0d67f81b68375dbb97a89a6514a867941a7e776e2f5eda4be1a6",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_TXRSE_T",
+          "ar_raw": "2021",
+          "kallrad": 618,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01c298277d9879b38c252fc27bad034af3c23b45403d3b88af42585a3e94637e",
+        "path": "data/variable-documentation/01c298277d9879b38c252fc27bad034af3c23b45403d3b88af42585a3e94637e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "HCXI_OCCUP_T_T",
+      "variable": "Antal extern personal i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "5f71596bdc880ae8d8cd1c9efb7eaaaf334e3cc98502897bdc9ea1580ea23604",
+      "id": "03f8dcb575499b0f926fc422e847fd92a8ff3f1da5d0ad41bf47cca77f1657a6",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_T_T",
+          "ar_raw": "2021",
+          "kallrad": 619,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "980952b9bfb808df28955f73ce7dd13e278b7789e26f528afd94ce45e2810586",
+        "path": "data/variable-documentation/980952b9bfb808df28955f73ce7dd13e278b7789e26f528afd94ce45e2810586.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    },
+    {
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "column": "HC_OCCUP_T_T",
+      "variable": "Antal personer i FoU-verksamheten",
+      "register_version": "2021",
+      "source_task_id": "342d42746af9cd8ed15c38efb4fda7996a93c09ff206e7d12d2f7e16f6072173",
+      "id": "90d08bdf96c9366acf8a8e0b4a6d1755873e689f7d7a9e365626c64d8d2cbe52",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:13+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HC_OCCUP_T_T",
+          "ar_raw": "2019-2021",
+          "kallrad": 628,
+          "method": "exact",
+          "source_scope": "definition_support_only",
+          "source_note": "Källvarianten avser företagsenheter; population minst 10 anställda samt industriforskningsinstitut oavsett storlek. Utgör inte bevis för beställningens population."
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fc0ff551cdd96d7ab7b04d11f21721b88d424acfbfc23fca5cf380ced42d2af8",
+        "path": "data/variable-documentation/fc0ff551cdd96d7ab7b04d11f21721b88d424acfbfc23fca5cf380ced42d2af8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:13+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "33f319c79eea6305eb4d0f65a4cfd7386f0d765b1381573f0c55dd9ee56ccb77",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:46:13+00:00",
+    "task_count": 16,
+    "expected_bindings": 16,
+    "documented_bindings": 16,
+    "errors": []
+  }
+}
