@@ -532,6 +532,93 @@
       "variant": "Inrikes flyttningar",
       "column": "FlyttGrans",
       "variable": "Flyttningsgräns",
+      "register_version": "1998",
+      "source_task_id": "94c262a4bee1c2d1849d602cee1c14fb14e8a976299c9d0f88f992fa1688b47a",
+      "id": "c6ae08e762a2d895585ec716500b88f82fe20cee611424b7d5b0276fcfbf2fab",
+      "domain_id": "d1a336230561cf9b5e5c379fe6761ce362f236bf276accfb3310c29e44489c22",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Flyttgrans",
+          "ar_raw": "1998-2024",
+          "kallrad": 3240,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "227b3800b19295a7929463364bb8753dfcdea47d09a70c719ebfa35cc0bd6432",
+        "path": "data/variable-documentation/227b3800b19295a7929463364bb8753dfcdea47d09a70c719ebfa35cc0bd6432.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "FlyttGrans",
+      "variable": "Flyttningsgräns",
+      "register_version": "1999",
+      "source_task_id": "94c262a4bee1c2d1849d602cee1c14fb14e8a976299c9d0f88f992fa1688b47a",
+      "id": "3b8b4d4a9f1dfaabec117396489971058efb06dc8cc3b733260c907b51ac2631",
+      "domain_id": "d1a336230561cf9b5e5c379fe6761ce362f236bf276accfb3310c29e44489c22",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Flyttgrans",
+          "ar_raw": "1998-2024",
+          "kallrad": 3240,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "504893221292579dc31e5e8db4cf31f11591ba5d7600184772291e21ebefdc38",
+        "path": "data/variable-documentation/504893221292579dc31e5e8db4cf31f11591ba5d7600184772291e21ebefdc38.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "FlyttGrans",
+      "variable": "Flyttningsgräns",
+      "register_version": "2000",
+      "source_task_id": "94c262a4bee1c2d1849d602cee1c14fb14e8a976299c9d0f88f992fa1688b47a",
+      "id": "08df1ca34b516fa89fdde9e981613d765de41b42aaf5c3caf92e4d1cb31240ed",
+      "domain_id": "d1a336230561cf9b5e5c379fe6761ce362f236bf276accfb3310c29e44489c22",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Flyttgrans",
+          "ar_raw": "1998-2024",
+          "kallrad": 3240,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf32957ab6b8aeb67ea94f6e45a3891c5f5de4ad10f64356014b214298aeeab5",
+        "path": "data/variable-documentation/cf32957ab6b8aeb67ea94f6e45a3891c5f5de4ad10f64356014b214298aeeab5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "FlyttGrans",
+      "variable": "Flyttningsgräns",
       "register_version": "2001",
       "source_task_id": "94c262a4bee1c2d1849d602cee1c14fb14e8a976299c9d0f88f992fa1688b47a",
       "id": "20a37ac49871e99d0176c701eeeb16f1311710e7720a140972f8fa580e07e90f",
@@ -1222,6 +1309,870 @@
         "path": "data/variable-documentation/7536b5a688070df931c7b76debbc14e3ceed48209b551770f2e9c6c935019ab8.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:06:34+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1968",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "e7d7e450babc282c0656c0b4e646815c9209c2af0d078798e93e30ba19689752",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "68bfa0dc91944cf16fcfd6fa83bb20f90b3378ef7c355bd14070193428f7bb00",
+        "path": "data/variable-documentation/68bfa0dc91944cf16fcfd6fa83bb20f90b3378ef7c355bd14070193428f7bb00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1969",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "8ccd1d779ba03ca54aa883c07ebd66e179db710f2d5e3751b530aaee5bcbc419",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "00ce938db71ac892e38441b1684aad98e5bd5cf6f11e042cfc30289d6769adc7",
+        "path": "data/variable-documentation/00ce938db71ac892e38441b1684aad98e5bd5cf6f11e042cfc30289d6769adc7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1970",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "63e41aea05f790118b606b1e5c0301bf2a66c0c33b75c6be421e1a671b324af0",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0df71ebc1b49fdcb280f3921c3b32dc20e687e8bbc790a0f079b68788b681454",
+        "path": "data/variable-documentation/0df71ebc1b49fdcb280f3921c3b32dc20e687e8bbc790a0f079b68788b681454.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1971",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "264f7015acfdd8a69cf226a16aef2d1cef409828e961ed459fc14312adf55a3c",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "11dbf46af47e21a6dc4a8281298725abc1dc309cf96aa76e158c1abce4234355",
+        "path": "data/variable-documentation/11dbf46af47e21a6dc4a8281298725abc1dc309cf96aa76e158c1abce4234355.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1972",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "7791648cff089cc5f1c00271f61e1745985a3cb31c391a1669997f823e022210",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "3fe7aedf1d5e8981db7d5947ec12ca913902e4bca9235d2eebf1693ee1e9acde",
+        "path": "data/variable-documentation/3fe7aedf1d5e8981db7d5947ec12ca913902e4bca9235d2eebf1693ee1e9acde.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1973",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "f0e2495556a064db7e6707932e1d2ba9d3f24cf417eb569d495dcd0930f42e93",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "027f6b04b8c99ca0879527b871c21f145821731f66cb674282c9cfbd88b5be5e",
+        "path": "data/variable-documentation/027f6b04b8c99ca0879527b871c21f145821731f66cb674282c9cfbd88b5be5e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1974",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "5e1ef4b03c93e39d86d3c439305a504f509d3eaab09b53c3e6c1c41c77232a35",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b4c19f52e5754c3764571d4bba115ff1e338a93221963ea813050162851aad91",
+        "path": "data/variable-documentation/b4c19f52e5754c3764571d4bba115ff1e338a93221963ea813050162851aad91.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1975",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "22de9733b19551f00de0549d4e3942d094f3cf63e45b1dba3246386c091763a7",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "201ea2dee65c9fe63f465afc4c2e52aa31ea858e29d7878114d63d8434bd4658",
+        "path": "data/variable-documentation/201ea2dee65c9fe63f465afc4c2e52aa31ea858e29d7878114d63d8434bd4658.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1976",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "88ad8cc54f02f2255fd8351e095b490b4682318c4ad9b2480da16d201f39f673",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f476f31b2507ea19af105233687aeb24ba69095b9605f3df4843745c1b457a84",
+        "path": "data/variable-documentation/f476f31b2507ea19af105233687aeb24ba69095b9605f3df4843745c1b457a84.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1977",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "e500c72201693c2f94d6167eef51de2fc8d3bc73620dd76263ecee20b12f5094",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "d396a5571d4f6fba50fc55369aa8dbc5b3757dfe0e21a933e627b3ba736c5690",
+        "path": "data/variable-documentation/d396a5571d4f6fba50fc55369aa8dbc5b3757dfe0e21a933e627b3ba736c5690.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1978",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "290be6217e83059e9fcfcdcd07b04868b258c1f87bfcfdebf6d7aab5b4b03dd0",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0361c4cf8a789d23ba0f20520ada0fc9a83c8b22381a6e4852297f7b74230a79",
+        "path": "data/variable-documentation/0361c4cf8a789d23ba0f20520ada0fc9a83c8b22381a6e4852297f7b74230a79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1979",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "67415f7be6e3be5307b300a66b916f365b5ff2c76239e382e8e5cf73aaec684c",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e49d14299a31f2d6e6fb11126f77d897733bfae97fb1198ddefd09dcdf5759bf",
+        "path": "data/variable-documentation/e49d14299a31f2d6e6fb11126f77d897733bfae97fb1198ddefd09dcdf5759bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1980",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "f5798a5355ad919bd6fc2f2581c194a75bd95818491965edc55c8280452f4bfe",
+      "domain_id": "6bf78e4e7f6e822cf6d5bd9ce7e08af07da6ce90ff07ccd509ad4211c8e174e3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ec6f7324c05a488cd1a1fa7c1083965639668e954beee3142152c5f236a60175",
+        "path": "data/variable-documentation/ec6f7324c05a488cd1a1fa7c1083965639668e954beee3142152c5f236a60175.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1981",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "18e588d888183c0f1530dd3386ca92a4308dbdbd05aac1336ea73f16caa2a210",
+      "domain_id": "1e2108a5ab7090a9f294eb5056bbf3253dad4ff7f8adc4fa2fc05a17b993b68e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "fa6b6adb9e0afde08c6fd4d9fbc7bee04c2f7d80c49065b3e137f1b2c8c0cdd3",
+        "path": "data/variable-documentation/fa6b6adb9e0afde08c6fd4d9fbc7bee04c2f7d80c49065b3e137f1b2c8c0cdd3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1982",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "5ad6790d0700b7c86c3a80386a81a61acdd4dc73c710bc6dcc0fd48956f4487c",
+      "domain_id": "27b39334f748b48dcccbd70702e683c17c1ad7a5a906bc4ba845615f140abaab",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f2b0edf9c424eec755610acc20f137a3d6cc03ad723f9e6896fbe684448ef872",
+        "path": "data/variable-documentation/f2b0edf9c424eec755610acc20f137a3d6cc03ad723f9e6896fbe684448ef872.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1983",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "ba5c0045723e518e412415461baff7bdffee0c0cb0a1c209d03fdf2a5c9f1125",
+      "domain_id": "0ed02a4f9c882b53d31821d2d6bb63fcf8a80fe819ea2eccf1fd89f0267eb500",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "64efef8497b60a6ce237238b3dfe19a829566f85b005328a9babd3ba19d153a3",
+        "path": "data/variable-documentation/64efef8497b60a6ce237238b3dfe19a829566f85b005328a9babd3ba19d153a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1984",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "0414fb90146ac2c54fd0a5a0caddb68493dd7e8d53fa56c5c608318eb5854db4",
+      "domain_id": "89ca70f5ccdbef92ee6ec7c1e06b5d1b4e6f0268a96780d901cd73de53c312a4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8068a3f2e376dee8866bd18ef68dbbc819bca9ff4d7ac0da4549f64b29ac8895",
+        "path": "data/variable-documentation/8068a3f2e376dee8866bd18ef68dbbc819bca9ff4d7ac0da4549f64b29ac8895.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1985",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "4674b828d849fdc724300263ce4c8a15bec1d7b50f3cbd88b6aa3f53730ad4f8",
+      "domain_id": "3e468d371df19158445633dab430b3a4fe9f6208474076916b747bfa749259af",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e69c684f553c634188b0944466a9a0baa528d3e8651637b0597a6d7c57de73cd",
+        "path": "data/variable-documentation/e69c684f553c634188b0944466a9a0baa528d3e8651637b0597a6d7c57de73cd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1986",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "f48f76b09c5c88310fcb93c3f756a341b236a9746c02ae392c9ad10337239e02",
+      "domain_id": "7c4847e474079bfebf6568000031924ccba1a7a64c19869d9a167ea114d16068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "14e82654b10e0eb1b070188a41a7b189851160d4aac9359e8158f1dfd9141e7d",
+        "path": "data/variable-documentation/14e82654b10e0eb1b070188a41a7b189851160d4aac9359e8158f1dfd9141e7d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1987",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "122e868a466dd937bcf621e2a70578c1a983dca0ed57f5dafbb869b9e3ab9fb4",
+      "domain_id": "46672a1696da2011d06a8aa440b0c1813b2e739804dac6cdf8f98baab3b43dc2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2b913150ef5d38302ab2c914b73a7b1ff992f541761d0d2b4077494d3e2ed6eb",
+        "path": "data/variable-documentation/2b913150ef5d38302ab2c914b73a7b1ff992f541761d0d2b4077494d3e2ed6eb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1988",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "8ca09bdd13b2b4cbdd6026d48638f16d9a27c3f3a5dfcec9f0f6c6c2f2d00ff4",
+      "domain_id": "1bb900247d725e1ea3f81a34440b539d6e106db953ada4b905ed937c45ab1a9a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5aecad986d0a94ce5d204eff0edd02daea409cb127590b4d45f1d228ef1acde4",
+        "path": "data/variable-documentation/5aecad986d0a94ce5d204eff0edd02daea409cb127590b4d45f1d228ef1acde4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1989",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "d32eaae846df8cf3e0346cca952ab594eed1eb75e1e799b35ad4d57c097c89b8",
+      "domain_id": "22a178d7cf7323ca0a74e3bcd0be2ae831c09a5184ea0060b689d43720ad3a37",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "6fa7324d6b42fa728544bd8080fed4319e7e93b78501cd1fa1cb2a42e829a98f",
+        "path": "data/variable-documentation/6fa7324d6b42fa728544bd8080fed4319e7e93b78501cd1fa1cb2a42e829a98f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1990",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "a4555480b95dbe7dd51bd2adab7f5e34c804db8901b92a393e177cfc709bb379",
+      "domain_id": "284f93c39f16c5fe204e17f18e2f3704f574315b05bb82bc2c534c11a806a7a1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a1b58d9e9ca67a04a780bacb89f5fb0584bb92cbaf8fede2c16530e3d3ce5184",
+        "path": "data/variable-documentation/a1b58d9e9ca67a04a780bacb89f5fb0584bb92cbaf8fede2c16530e3d3ce5184.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Forsamling",
+      "variable": "Församling",
+      "register_version": "1991",
+      "source_task_id": "ddd2470144b9e58a552dfa83559feb5beb3f6010e27c829cb5f7dd9644298ccd",
+      "id": "120e83418ec2161c963e148fc89bb81d9a3609b6e8aaa04ed3224a7298c87a9e",
+      "domain_id": "55060cd7b25b3e77021a5e8487e9b6cd2303c0b159febf1264d3bc1b134003db",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3249,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Forsamling",
+          "ar_raw": null,
+          "kallrad": 3256,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "1a3311bba5d9e0d8064fe361ca9fc59bd198ad93afacdcccbb78aac7855a7fa9",
+        "path": "data/variable-documentation/1a3311bba5d9e0d8064fe361ca9fc59bd198ad93afacdcccbb78aac7855a7fa9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -2212,6 +3163,258 @@
         "path": "data/variable-documentation/5cd5c2068abf4e0f2e27223921ca4323e43455adb13cca3e489dbdc0b3b404f5.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:06:34+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1968",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "cc7fbd80c0b89f2a0e5e0d30d44ffe851ac5829914ac64c7dd3a0ae98f634bce",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "626c302fb04a7aeb2344ad6b373e5d7551d33bb11b9fde2fe6e414c7bf467e59",
+        "path": "data/variable-documentation/626c302fb04a7aeb2344ad6b373e5d7551d33bb11b9fde2fe6e414c7bf467e59.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1969",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "7ca1faadd9a71e35c283814d6dc6aa70fb110f0ccd90e9b22c8ad7e471f9a411",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5c6b5af93e59d7dd062ce440de1af3c9137c8b8af3729f7b63abd0844bbd3b06",
+        "path": "data/variable-documentation/5c6b5af93e59d7dd062ce440de1af3c9137c8b8af3729f7b63abd0844bbd3b06.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1970",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "b24cc90593949b41597fdd1e86c27fc9726569f697de6e1f3cb0253bc603ad60",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ec3ad8f1c043026d912c78b6f301ade4d2213c1c269cac4a5c523e1b643ebe85",
+        "path": "data/variable-documentation/ec3ad8f1c043026d912c78b6f301ade4d2213c1c269cac4a5c523e1b643ebe85.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1971",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "951c7edf850f9e23c4b5dacb6bc4e92fc8d9fd9ce5d48b6b5494266c6743f563",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "d10d1a9e1d7e534eb4401310c5d246702e1dcdebf92f060491904ffbd527df94",
+        "path": "data/variable-documentation/d10d1a9e1d7e534eb4401310c5d246702e1dcdebf92f060491904ffbd527df94.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1972",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "5f84a4364425a81a9d158289cdc50668a6029d4cc310a06140600aaef9354fd5",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f75344b4b653c8be296492875bfe0f87041d39f985d3107e16634a4399a43da0",
+        "path": "data/variable-documentation/f75344b4b653c8be296492875bfe0f87041d39f985d3107e16634a4399a43da0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1973",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "69019fe0510498fd0230da298fb9d9caf4dc0be1815a722f7ece8ce3d91451ab",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e4c7d19cc3bc0cab7a5fe07c52224929008c3025aafdc1c6d65277350bf98b71",
+        "path": "data/variable-documentation/e4c7d19cc3bc0cab7a5fe07c52224929008c3025aafdc1c6d65277350bf98b71.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "ForsamlingFg",
+      "variable": "Församling tidigare",
+      "register_version": "1974",
+      "source_task_id": "cb808ace71db3bee392177744bd659b6bcdce9ee138b00e692feae4ab2cfea4a",
+      "id": "a5a7fe858936eeabfe40eb63a307a1d6557f9c7d1d153eee941305e4402f1f51",
+      "domain_id": "a5807c967c120811cf60df28cd743681383cdde2b39015e18c47fca1993b2a62",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3250,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "ForsamlingFg",
+          "ar_raw": null,
+          "kallrad": 3257,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "91b160373930c04ef8c469baa14784f567278c64d48c8db2aa1819f0ac270a4f",
+        "path": "data/variable-documentation/91b160373930c04ef8c469baa14784f567278c64d48c8db2aa1819f0ac270a4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -3568,6 +4771,1258 @@
       "variant": "Inrikes flyttningar",
       "column": "Kommun",
       "variable": "Kommun",
+      "register_version": "1968",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "9cee1c5ecd39dfcf4242e0a05dd74c4d17d272cbab85a6da94c11988470a3c4b",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "906631c03f13aded1c109ef71cb9535a5174c46633bdf740fabba62d79fac78e",
+        "path": "data/variable-documentation/906631c03f13aded1c109ef71cb9535a5174c46633bdf740fabba62d79fac78e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1969",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "2c6ec96821dc9f5d58b0f19d7e7552eda76597fdbedcf2e43abc96916d2165be",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4b3a94db6fd9157c6df576c13429697ad324c5647a482b927cc42d86e5a39f1b",
+        "path": "data/variable-documentation/4b3a94db6fd9157c6df576c13429697ad324c5647a482b927cc42d86e5a39f1b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1970",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "40c74aedd69a3d816f78aa5b316b47774b88f4aa757a2ab4e01b398e959d44f5",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2d6f5bb34a37eea78074c68543ac8fae3e33fa068799569edcb75584cf3ab890",
+        "path": "data/variable-documentation/2d6f5bb34a37eea78074c68543ac8fae3e33fa068799569edcb75584cf3ab890.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1971",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "cd2680b2feb539629c752dfa012bca0246630f04eaf3ede444bac7777d6e123b",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2ad67d0bca5b3f1a6023c76162373431ed4bbabfb7991804105ec2fc0c505a64",
+        "path": "data/variable-documentation/2ad67d0bca5b3f1a6023c76162373431ed4bbabfb7991804105ec2fc0c505a64.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1972",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "b431c351e71d2d31f40758524dd7253deac7873e2e47ba81d651d106acefea14",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "16c7d21af27b1442eb7725f8ce03ec16a49b883bcadc8a5dc87a61f16f1e4cc3",
+        "path": "data/variable-documentation/16c7d21af27b1442eb7725f8ce03ec16a49b883bcadc8a5dc87a61f16f1e4cc3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1973",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "696e23f3e3c670fca83f9227218d17dcfe86cc8e9b67a40409bfd61e9c001e36",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b0d6de0f1eba6a1e620437a84bce4514fb55bb0aba60013ea4e40ba62637e403",
+        "path": "data/variable-documentation/b0d6de0f1eba6a1e620437a84bce4514fb55bb0aba60013ea4e40ba62637e403.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1974",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "974732b6e3aa16c5c2498b2c9f5b1c9b7cdb94c6aa7df229d93421fdf9ffa5d5",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "51d27472b94f0490ad4173ebb43e6a74ec8c94de086ae954f1c567f38b963275",
+        "path": "data/variable-documentation/51d27472b94f0490ad4173ebb43e6a74ec8c94de086ae954f1c567f38b963275.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1975",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "7d3ec6e981d7d3f5cd55a646a65b525ab7a84febe1be1d6c7ee497cf2f93d8af",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "47b21ddf36031c8c165a86b5d1cfc23efe78a2d592ca3c8ab97e0a8f68ab9e1a",
+        "path": "data/variable-documentation/47b21ddf36031c8c165a86b5d1cfc23efe78a2d592ca3c8ab97e0a8f68ab9e1a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1976",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "3b52ccb3306542d2770d5c8a450835c5d5050f714871777f718d285dd7aa8552",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "c71a23866d929d32c8e81cd714d94787a3e3e52fd2d84bf27399b1951cf67fb5",
+        "path": "data/variable-documentation/c71a23866d929d32c8e81cd714d94787a3e3e52fd2d84bf27399b1951cf67fb5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1977",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "27ed285f9c9fe98a3934c3b73ae3c115d3730cb9216400985df6bfceeae05cdd",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "6874f128563271ba3659c3d923fbbce848158cdd8223e6c1b821bc9432cabfed",
+        "path": "data/variable-documentation/6874f128563271ba3659c3d923fbbce848158cdd8223e6c1b821bc9432cabfed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1978",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "9f56aa9f7cb051dddd9ef554cc03ff1bd7757992352ca2888b00c75d42f74163",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "cb948d732cca6542506c50a5b432da75fa5cd9ebd9da272c3c3e610744b1464c",
+        "path": "data/variable-documentation/cb948d732cca6542506c50a5b432da75fa5cd9ebd9da272c3c3e610744b1464c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1979",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "4818f6dea7f143e26e3a1ad2e6d1b3447d2ab5d91bf153bd93424c3a0c439591",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ccf740ed62fe968698d795247e39f0db9504ba01f6fe29bb0ff3891e7650ed4f",
+        "path": "data/variable-documentation/ccf740ed62fe968698d795247e39f0db9504ba01f6fe29bb0ff3891e7650ed4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1980",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "c127e50a45cb761052890e3fdf449cf10fead0fe600b3e3fd444d16e78b559c2",
+      "domain_id": "f8fc2793f005b7f92a12e8e1e16b504a250307a5168cb17615dc4ab94279c30f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a50e526da070f8aca33d93102f9ebb7d042f90559921c95bbc13f3fda1e3d04c",
+        "path": "data/variable-documentation/a50e526da070f8aca33d93102f9ebb7d042f90559921c95bbc13f3fda1e3d04c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1981",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "c4d9ac495b2e45568f7396a98bdf7b68d88951623342aa561461ee622002630e",
+      "domain_id": "f3e950df1b60f8e9cacef8b49a7996bebdd2805984ea8046959813b9a832e842",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "977d03eefeaaa0ae5b8c221b0c908c3ac2fa62b46903cf9cc777290f50071b11",
+        "path": "data/variable-documentation/977d03eefeaaa0ae5b8c221b0c908c3ac2fa62b46903cf9cc777290f50071b11.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1982",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "a3dda3ad67fd6dbb19d55ee9e1bc42f3f61065089f7d8e44f7169433f83c0a30",
+      "domain_id": "e7cca7af6f9d9b146cb29fd45e0e19c3708147e5f98e5a84702647334a37413f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b22153ae929d8fab25d7cffd451556a1afee6f35baa5ddc1071bca7fc1b50ef8",
+        "path": "data/variable-documentation/b22153ae929d8fab25d7cffd451556a1afee6f35baa5ddc1071bca7fc1b50ef8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1983",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "83b54b247c8b46986a1d1636df615e8de5f49b42b33e105bb8b0a84f5004323d",
+      "domain_id": "c0ecdda2cc6b1b06c0d2e22d21c024909ddc14d61f4206647dcd82182467c9bf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "29e813d1b5b3d3b8fa19df2459a58971ed8acc433ac5742eb604fd4b39b649be",
+        "path": "data/variable-documentation/29e813d1b5b3d3b8fa19df2459a58971ed8acc433ac5742eb604fd4b39b649be.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1984",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "dea5c42e5971cfa197303e794198b6872fc6a3e2ac451e9dab5af52c01ba1103",
+      "domain_id": "ac122aaab3d1774e995026a46ab6921a8dbc63852c9d930db40501d7fbf98297",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "601d931809bcd6f666d932116425df47ebadd7eddaf34dde4ac0b91e821dd8c7",
+        "path": "data/variable-documentation/601d931809bcd6f666d932116425df47ebadd7eddaf34dde4ac0b91e821dd8c7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1985",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "6d24f2a906b675561e5115533eaa52175d3fdd4f72de51614fa01011d7acf532",
+      "domain_id": "3ec71ff093e33c9f75ab5057b5eabf28e5695925e9dfa23c1eb9adb8fb1ed023",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "336476db7471a2ef3d5d84b969e43b772219301302fa39040ed220b43255d3ef",
+        "path": "data/variable-documentation/336476db7471a2ef3d5d84b969e43b772219301302fa39040ed220b43255d3ef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1986",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "e8c69891b168d96edf45dddaa9f182764bf07020f048b430ba6995032aa757a5",
+      "domain_id": "36391890bb0c632c91a70526f19e4c868721326c24b2bf388590ff97d10a575f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "da6c5b94b16a4fbcddd664134a5748116f1b01b605744a814a9821c863785c08",
+        "path": "data/variable-documentation/da6c5b94b16a4fbcddd664134a5748116f1b01b605744a814a9821c863785c08.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1987",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "30a2c0e8aabc78e7336c50b23be31e27514eb53f8b5db42ab1f8858b484e5c44",
+      "domain_id": "37ad5876ff63a9047cfa13c9d1f66f9bd48f100ea96450d43650eba3e8657d49",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b70eff0c38cae612aa34635454939c13365d61801715f3deb04ec21f856e9cc5",
+        "path": "data/variable-documentation/b70eff0c38cae612aa34635454939c13365d61801715f3deb04ec21f856e9cc5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1988",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "6065494cd5e6b294d7c272a211383eae377c38f5d11015edeebc2057555cdd18",
+      "domain_id": "a2167cbaaccf928e58a9c93e86f421943b041399a0d3588d24fdd4e3c64cf2b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "c8db556e2511c88ca6f3c2c52bc6c4b2c34481a179ba1bd0e722fa69860813e6",
+        "path": "data/variable-documentation/c8db556e2511c88ca6f3c2c52bc6c4b2c34481a179ba1bd0e722fa69860813e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1989",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "2b45b092a13b82cea3e405da287d9f84cbae687a4c03c6efca2e0baeb1940233",
+      "domain_id": "2b2b176eaf74b492e0912a8df6add5ff942f2888eda615c36fcc066c3b1262b9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "7f78b8c482018cf0f92bf0a175f0fd3daf0113cafa6fb8aab23db580de7f098a",
+        "path": "data/variable-documentation/7f78b8c482018cf0f92bf0a175f0fd3daf0113cafa6fb8aab23db580de7f098a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1990",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "b2871d63fb0e3a1f146ca315cd5d0bf53f9e985c683fc7da593dde81b729021d",
+      "domain_id": "6af6c94290d0c09981249a300821bf8661cf692d7ec73a888a18bcae4a58d39d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "9b78d84cd40ebffd11f15cfb608225aeaa233f6a1fbed56a7fe0a22801e26c83",
+        "path": "data/variable-documentation/9b78d84cd40ebffd11f15cfb608225aeaa233f6a1fbed56a7fe0a22801e26c83.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1991",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "0957eeeee4963de4c712f41eab16cc3cc28c8f869f6cda43062ac67e95478461",
+      "domain_id": "9a2e08e97486501bec544b68222c29d350178016903b53e059dba10cd900c8c1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b65e4d73fce39af64258826d565c5dd5ea2478fbffadebff0e78ebedb6d91511",
+        "path": "data/variable-documentation/b65e4d73fce39af64258826d565c5dd5ea2478fbffadebff0e78ebedb6d91511.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1992",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "6c4cf04a292c6d1c76c99aa1c82d573c29d4e742c129613cb5ed76a6daea8ba4",
+      "domain_id": "a6084d1ca4216919775c8d2544c7a694b5be17d7e0fe1494fa9035f721536d2b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e90dd8c7e14266cd10699e2739711e0c6738b83e0ada486772962cd2196c3dc2",
+        "path": "data/variable-documentation/e90dd8c7e14266cd10699e2739711e0c6738b83e0ada486772962cd2196c3dc2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1993",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "a47e74891bed30cbbbb3102139b7c0a6725747a2397ddc007297af8884dc7c2b",
+      "domain_id": "24b8439ffed75ca3bd9c3e0ac614988a254f4a489f6b6f363f8d2347f45060e9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "afb86024a1f0a12d4cfb24d8f3c6b6954c59b604895d229a88a2ff1f5ba03792",
+        "path": "data/variable-documentation/afb86024a1f0a12d4cfb24d8f3c6b6954c59b604895d229a88a2ff1f5ba03792.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1994",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "039fa33fc2eca1649185e14600006878509d1d5dea02f1c0f072a5bd558ad239",
+      "domain_id": "49ffe9c9116d4fa8d50483549f1d6db51fc44281c7ab2f909846cb47b19db113",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "20141c9fe2dc73e9e85ec1048c3e0844488c92ce80dbea9371a6d5c3e56c4b49",
+        "path": "data/variable-documentation/20141c9fe2dc73e9e85ec1048c3e0844488c92ce80dbea9371a6d5c3e56c4b49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1995",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "3d2b6981e35d0d5cf3a691a839aec2531517c7547ad06f6f3910ff3a119a2091",
+      "domain_id": "2247e7b3380ea33696569981eefbc76428165e84b61a55820531268c6375c609",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "71f347debd5321703bb6997be43192040f186a304d37e89e979d02ad0d233da8",
+        "path": "data/variable-documentation/71f347debd5321703bb6997be43192040f186a304d37e89e979d02ad0d233da8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1996",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "7afc72c4aab247a80766c754b644d9d0fd81188cc85d286906f16c1b80db597d",
+      "domain_id": "48368fde4fc186e1870e58f78942fe3c37cbace7e3d923063e619ffb5c1659da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b08640e66e7ea1e6d6afb5daae8f7683c1494d2cdbd8e6b2a082ea24e1803739",
+        "path": "data/variable-documentation/b08640e66e7ea1e6d6afb5daae8f7683c1494d2cdbd8e6b2a082ea24e1803739.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1997",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "3e7a6972f2dea28d81b4e274ae5d27ede33f03916aeefa1d87055bdb1113b5c2",
+      "domain_id": "fb628d0da9fc7cc98fac21dae26e0c302b0481775b64183da3d49796706ca49e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "dc48af97b5ec686bceb939867b0f59211cd7986054176850fd544753450c2bc3",
+        "path": "data/variable-documentation/dc48af97b5ec686bceb939867b0f59211cd7986054176850fd544753450c2bc3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1998",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "a751a5af9f7f6f0c7a56a93a1688ce90d62ab90b94e351e228e6cf44e7bf8798",
+      "domain_id": "0157bb1bee9438e010c210710debacdba3277bfa34656ed42455ed84ba6f6507",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Kommun",
+          "ar_raw": "1998-2024",
+          "kallrad": 3245,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "65bf5a396a13702f04b406ab2992eab947c65aca441c43d9af5b50098523ca05",
+        "path": "data/variable-documentation/65bf5a396a13702f04b406ab2992eab947c65aca441c43d9af5b50098523ca05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1999",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "ba9b6e8da80cc22f97179c81bac3536338060315e6060b50482460733b9ec7cf",
+      "domain_id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Kommun",
+          "ar_raw": "1998-2024",
+          "kallrad": 3245,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "3f679c6d86a479616787532f61faefa23f434ed26477a4c740886a7a9b6936b8",
+        "path": "data/variable-documentation/3f679c6d86a479616787532f61faefa23f434ed26477a4c740886a7a9b6936b8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2000",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "6fb5cff34ca212079bbd8f97df843196680fab6818050dc99fb19c51c5ed530d",
+      "domain_id": "0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Kommun",
+          "ar_raw": "1998-2024",
+          "kallrad": 3245,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "44d8b771c9e81d6255643e16b3b5e95f8e42f818cd3d1c2165ac51dd5040005c",
+        "path": "data/variable-documentation/44d8b771c9e81d6255643e16b3b5e95f8e42f818cd3d1c2165ac51dd5040005c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2001",
+      "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
+      "id": "0ddfdde2886d8507b28ba0a89381d26b7302adbeccfbd2a1c560a49ec6da59e0",
+      "domain_id": "5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "Kommun",
+          "ar_raw": "1998-2024",
+          "kallrad": 3245,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3251,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3258,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "fb4b63234f6af9dee6806b38227a7f25bdc32be99771af6be3c64a49d9941f5b",
+        "path": "data/variable-documentation/fb4b63234f6af9dee6806b38227a7f25bdc32be99771af6be3c64a49d9941f5b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Kommun",
+      "variable": "Kommun",
       "register_version": "2002",
       "source_task_id": "8dcb5dcc3dc451818001f51e7dfebd74d52e588e8f8d18f6a5ce38f12239f29b",
       "id": "50373368569190508f8b6b768cd0c719266931613b7d44e385673c8cfe6ddb32",
@@ -4593,6 +7048,258 @@
       "variant": "Inrikes flyttningar",
       "column": "KommunFg",
       "variable": "Kommun tidigare",
+      "register_version": "1968",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "5fff651126afad631f00519a081421cc9902a69d0832536c867200f89b8841f0",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "cd8da9101dcf8bae2f0a56973a6ef8f289f80490fd61be9d9713cca1739b33f0",
+        "path": "data/variable-documentation/cd8da9101dcf8bae2f0a56973a6ef8f289f80490fd61be9d9713cca1739b33f0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1969",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "9764698cb907bd11c66a03b1ef7077bd401f727f85a162298ca19a5c596d99bf",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e2704c4fa2ed04274834cfb319193fb12812047b2ef32084dcbb4313cd202eab",
+        "path": "data/variable-documentation/e2704c4fa2ed04274834cfb319193fb12812047b2ef32084dcbb4313cd202eab.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1970",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "062c5b9d0b304c8930cff89e122e8df41db589ebd93508bbc75cad17e4589ae5",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "01a00f545e4c534ea2cf46467770a85ed8e898765fa2dd8f58e302b3b4c4935b",
+        "path": "data/variable-documentation/01a00f545e4c534ea2cf46467770a85ed8e898765fa2dd8f58e302b3b4c4935b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1971",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "4fbb4404951773743c4c33772d9c396c9a11db7df0b759ccb566f6603ada1a9f",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f0fac15ddf7021a6f7b33b6f05dc29e2c6ed0546de29ff6f7d4ef3a354ae11b0",
+        "path": "data/variable-documentation/f0fac15ddf7021a6f7b33b6f05dc29e2c6ed0546de29ff6f7d4ef3a354ae11b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1972",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "e26510592ddfa217271178fa8a865dde1c36d004967a2b95071196f5880e19c3",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f337c351733dd3aabfbf3016737a2a5d0ca65b91c625cf9ff899ddc0eee8df2e",
+        "path": "data/variable-documentation/f337c351733dd3aabfbf3016737a2a5d0ca65b91c625cf9ff899ddc0eee8df2e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1973",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "d893782a86358f9e3fb6b1afbfb8b88b8bbac2d65d5ea5b07b1d09387040b8df",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "54dba27369d4eca25af40a042e73782b697ed693002f6e244436edaabb69c960",
+        "path": "data/variable-documentation/54dba27369d4eca25af40a042e73782b697ed693002f6e244436edaabb69c960.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
+      "register_version": "1974",
+      "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
+      "id": "812c557bafbd8aa6409dbf151b4990f5dbcb396fb5495b20f2dbd836251480f2",
+      "domain_id": "5258fb1146c8753af83a3597d67512067ed9d85811735828e772adf24f5e3868",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3252,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "KommunFg",
+          "ar_raw": null,
+          "kallrad": 3259,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "7de82d43006a60000cf26a76799eb3379f6513dce1181a0a68ee621724ea2526",
+        "path": "data/variable-documentation/7de82d43006a60000cf26a76799eb3379f6513dce1181a0a68ee621724ea2526.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunFg",
+      "variable": "Kommun tidigare",
       "register_version": "1975",
       "source_task_id": "7430148b545f3e36ffb60424cd7e7da409c101a6ec059f6bceedaea4e3e9725f",
       "id": "b071257a98c82066c316bb4afb81fcccfc0ffadd1ecf6e493032121a7d67c04e",
@@ -5421,6 +8128,122 @@
       "variant": "Inrikes flyttningar",
       "column": "KommunG",
       "variable": "Kommun tidigare",
+      "register_version": "1998",
+      "source_task_id": "c36e77e26fff1ae54121efb5bbeb36597fd5e58ed95f000d50ff4a17df2a9f49",
+      "id": "7e8314c29a65a91eb919f1311029a60e1660209cfa150b70dcf202f8e7dd0595",
+      "domain_id": "0157bb1bee9438e010c210710debacdba3277bfa34656ed42455ed84ba6f6507",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "KommunG",
+          "ar_raw": "1998-2024",
+          "kallrad": 3246,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b60b94f3a8cdd34847f2faf18f9a9ce7c9a3cdd25b37da6ea14f97e01dbaf27",
+        "path": "data/variable-documentation/6b60b94f3a8cdd34847f2faf18f9a9ce7c9a3cdd25b37da6ea14f97e01dbaf27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunG",
+      "variable": "Kommun tidigare",
+      "register_version": "1999",
+      "source_task_id": "c36e77e26fff1ae54121efb5bbeb36597fd5e58ed95f000d50ff4a17df2a9f49",
+      "id": "48f434718c5136aca20c6edb346811aa832872641b742b0a191ffc0a78df2d8c",
+      "domain_id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "KommunG",
+          "ar_raw": "1998-2024",
+          "kallrad": 3246,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd19864dacc492067ec9748b0c130a131dd47b9232804fb252a0e40dbe5044c8",
+        "path": "data/variable-documentation/bd19864dacc492067ec9748b0c130a131dd47b9232804fb252a0e40dbe5044c8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunG",
+      "variable": "Kommun tidigare",
+      "register_version": "2000",
+      "source_task_id": "c36e77e26fff1ae54121efb5bbeb36597fd5e58ed95f000d50ff4a17df2a9f49",
+      "id": "22a74dcf8d0b82b8aca8940b7d17b7cadb7282e71974acef5edaeafbaca312ca",
+      "domain_id": "0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "KommunG",
+          "ar_raw": "1998-2024",
+          "kallrad": 3246,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "403aa3c88d36e1f8f5eedfc38ce842c5e7052eb329598efc8d0aad16a181b7a4",
+        "path": "data/variable-documentation/403aa3c88d36e1f8f5eedfc38ce842c5e7052eb329598efc8d0aad16a181b7a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunG",
+      "variable": "Kommun tidigare",
+      "register_version": "2001",
+      "source_task_id": "c36e77e26fff1ae54121efb5bbeb36597fd5e58ed95f000d50ff4a17df2a9f49",
+      "id": "a8a015a51d8c9927a61b8d91630377c389f3c204c8b5c3fe994c1359f6763863",
+      "domain_id": "5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrflyttflode",
+          "variabel": "KommunG",
+          "ar_raw": "1998-2024",
+          "kallrad": 3246,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "464aa3df37f8fc1374877c1f457964da6b20c1181bc854c7095102ae673635ef",
+        "path": "data/variable-documentation/464aa3df37f8fc1374877c1f457964da6b20c1181bc854c7095102ae673635ef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "KommunG",
+      "variable": "Kommun tidigare",
       "register_version": "2002",
       "source_task_id": "c36e77e26fff1ae54121efb5bbeb36597fd5e58ed95f000d50ff4a17df2a9f49",
       "id": "912c1ba7f85aeb30e1c4e869ddb6c4ad37260ce91d8034950b41eca3c8b4fef1",
@@ -6082,6 +8905,258 @@
         "path": "data/variable-documentation/f8257e660a1b4601b5af8fc8ccf84d9e0feeb4f61c285d81a919e8bf4313c6f7.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:06:34+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1968",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "ebe633daeae95474f5bd261d3b255cfd1f6209b91d7ea531d288dbf1cb84800c",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "accc85b1ac183d833e55bdc2fe6604d7cd5e6984b281be8024c21c9daf958d88",
+        "path": "data/variable-documentation/accc85b1ac183d833e55bdc2fe6604d7cd5e6984b281be8024c21c9daf958d88.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1969",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "2f01dcf3a3144cde79191bc60c3f75dbf5aa5dbf4ec3ed2c58f3b6ec1898add0",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8b69531533f3aa38bf41f469ca533f371120b04dde64b8d715b1dac89585798a",
+        "path": "data/variable-documentation/8b69531533f3aa38bf41f469ca533f371120b04dde64b8d715b1dac89585798a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1970",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "08aea09dada4b29ea7e5ddec110ea241fbdfd1cf1d875a4096bb47b40c5f739d",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "3031dbc59c5d0bb96e46ac59953a56801b2eb9f99e243edc12bc96ffd7c8c22b",
+        "path": "data/variable-documentation/3031dbc59c5d0bb96e46ac59953a56801b2eb9f99e243edc12bc96ffd7c8c22b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1971",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "6eb8cb9773a6aadd6fc47706a619177f451b8b2cd955ce4f0bbfddff4a6f6e1f",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8984de3907fea2b2f20c58991e100e5472b569940be059fc105868c8b49b35f7",
+        "path": "data/variable-documentation/8984de3907fea2b2f20c58991e100e5472b569940be059fc105868c8b49b35f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1972",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "683b582690a81cc5b66d60e56b7c49606db2b74744479aeda3b673d2cb81085d",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0fd1f215e720ad2b292003030d6bcdf07c36319227f6b0c8ddcc0ac6b8fd3e0a",
+        "path": "data/variable-documentation/0fd1f215e720ad2b292003030d6bcdf07c36319227f6b0c8ddcc0ac6b8fd3e0a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1973",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "15a81e4fae51cd1f136826e0d4403bb635176e1fef0b4f3e4f5b7cc0ae7fb329",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4cc3ecf264ae4e9f8ff99034e56eabcf874e149429d4cc9a4c4b394345f30f32",
+        "path": "data/variable-documentation/4cc3ecf264ae4e9f8ff99034e56eabcf874e149429d4cc9a4c4b394345f30f32.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Inrikes flyttningar",
+      "column": "Posttyp",
+      "variable": "Flyttningsgräns",
+      "register_version": "1974",
+      "source_task_id": "83643f0450d164a8096864cda721d75c206a4ed1217704e002c3b2b44e4a4adc",
+      "id": "f9380f77b4ab3e3775489c80b258da3aaff5533ac110fc8b3e13c7cb13aee026",
+      "domain_id": "b904243faf6aa9e0aa617fa0dbc2ed4cab884a8a64b842dfb18ecc127c47fb9d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:10:58+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "inrikesflytt_1968_1997",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3254,
+          "method": "exact"
+        },
+        {
+          "databasvy": "inrikesflytt_tidiga_1998",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3261,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "59f568f6ddd300e87e7fa97b3e3d3577143da90f3a741bff1274371c95a9d547",
+        "path": "data/variable-documentation/59f568f6ddd300e87e7fa97b3e3d3577143da90f3a741bff1274371c95a9d547.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:10:58+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -6914,6 +9989,14 @@
   ],
   "domains": [
     {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "0157bb1bee9438e010c210710debacdba3277bfa34656ed42455ed84ba6f6507",
+      "value_count": 288,
+      "path": "data/value-domain-values/0157bb1bee9438e010c210710debacdba3277bfa34656ed42455ed84ba6f6507.json"
+    },
+    {
       "version": "LKF 2005-01-01/ Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6936,6 +10019,14 @@
       "id": "0ed02a4f9c882b53d31821d2d6bb63fcf8a80fe819ea2eccf1fd89f0267eb500",
       "value_count": 2605,
       "path": "data/value-domain-values/0ed02a4f9c882b53d31821d2d6bb63fcf8a80fe819ea2eccf1fd89f0267eb500.json"
+    },
+    {
+      "version": "LKF 2000-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796",
+      "value_count": 289,
+      "path": "data/value-domain-values/0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796.json"
     },
     {
       "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
@@ -7242,6 +10333,14 @@
       "path": "data/value-domain-values/55060cd7b25b3e77021a5e8487e9b6cd2303c0b159febf1264d3bc1b134003db.json"
     },
     {
+      "version": "LKF 2001-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4",
+      "value_count": 289,
+      "path": "data/value-domain-values/5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4.json"
+    },
+    {
       "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
       "level": "Församling",
       "data_type": "char(6)",
@@ -7530,6 +10629,14 @@
       "path": "data/value-domain-values/e7cca7af6f9d9b146cb29fd45e0e19c3708147e5f98e5a84702647334a37413f.json"
     },
     {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "value_count": 289,
+      "path": "data/value-domain-values/ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2.json"
+    },
+    {
       "version": "LKF 2007-01-01/ Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -7587,16 +10694,16 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
-    "passes": 1,
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "da773338a3cd449c85795eac562c4e732b454add79a5576069f98910bca86dd3",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T06:06:34+00:00",
+    "retrieved_at": "2026-11-21T10:10:58+00:00",
     "task_count": 10,
     "expected_bindings": 286,
-    "documented_bindings": 200,
+    "documented_bindings": 286,
     "errors": []
   }
 }

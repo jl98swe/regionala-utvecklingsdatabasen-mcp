@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(6)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Församling"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Regional indelning i församlingar."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Församling som personen flyttar till."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige som har flyttat inom landet"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer som en eller flera gånger inom populationens tidsram har flyttat inom landet."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1973-01-01 - 1973-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. För dessa görs viss rättning och härledningar av nya variabler."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller inrikes flyttningar för kalenderår och som inrapporterats under tidsperioden 1 januari aktuellt kalenderår till och med 31 januari året efter aktuellt kalenderår. (Händelser som inrapporterats efter 13-månaderperioden kommer inte med i någon registerversion, däremot tas de hänsyn till i statistikredovisningen.)\r\n\r\nRegional indelning avser 1 januari aktuellt kalenderår."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    }
+  ],
+  "id": "027f6b04b8c99ca0879527b871c21f145821731f66cb674282c9cfbd88b5be5e"
+}
