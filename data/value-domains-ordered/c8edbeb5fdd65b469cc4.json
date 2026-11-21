@@ -648,6 +648,122 @@
       "variant": "Grundskolan: betyg åk 9",
       "column": "Beh_Gymn",
       "variable": "Behörighet till gymnasieskolans nationella program",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "db2f63c181432a44a1933c4b06a99d9ec540fa2197b345820203ac54f123db66",
+      "id": "b0b7d33a4116abc621c4ff652d7c0a535280439b4e26a9f44927ab1ae9c82aeb",
+      "domain_id": "fadb4fad12c8c0ce0f6d9298244bfeee5407f0173e53e42a991ca3d7b7be130b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Beh_Gymn",
+          "ar_raw": "1998-2025",
+          "kallrad": 3756,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c61ae4a783eb5cbbb9a16e78d58424a67656dd51dddcea349f9624d2c43b8dc8",
+        "path": "data/variable-documentation/c61ae4a783eb5cbbb9a16e78d58424a67656dd51dddcea349f9624d2c43b8dc8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Beh_Gymn",
+      "variable": "Behörighet till gymnasieskolans nationella program",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "db2f63c181432a44a1933c4b06a99d9ec540fa2197b345820203ac54f123db66",
+      "id": "5ef1c30bd3b1148e303c44c0d2b54fca69f94b93b23603583e41a912034fc604",
+      "domain_id": "fadb4fad12c8c0ce0f6d9298244bfeee5407f0173e53e42a991ca3d7b7be130b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Beh_Gymn",
+          "ar_raw": "1998-2025",
+          "kallrad": 3756,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d314ad8d6cc577feaafa00192fe1676934fce31521c3d521cd83d4412e9d7c79",
+        "path": "data/variable-documentation/d314ad8d6cc577feaafa00192fe1676934fce31521c3d521cd83d4412e9d7c79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Beh_Gymn",
+      "variable": "Behörighet till gymnasieskolans nationella program",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "db2f63c181432a44a1933c4b06a99d9ec540fa2197b345820203ac54f123db66",
+      "id": "18206e479130122a8c10a816787b954ff949565cf10245f1e477ef0628ff4a64",
+      "domain_id": "fadb4fad12c8c0ce0f6d9298244bfeee5407f0173e53e42a991ca3d7b7be130b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Beh_Gymn",
+          "ar_raw": "1998-2025",
+          "kallrad": 3756,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "35b99cb163756c48623f5749d96798621a2460a964b38f686c0cc0d4ff1b69a0",
+        "path": "data/variable-documentation/35b99cb163756c48623f5749d96798621a2460a964b38f686c0cc0d4ff1b69a0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Beh_Gymn",
+      "variable": "Behörighet till gymnasieskolans nationella program",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "db2f63c181432a44a1933c4b06a99d9ec540fa2197b345820203ac54f123db66",
+      "id": "474dc94653147994b0a6a362bc7f552d29a5e2e03371c404260b827000ccb187",
+      "domain_id": "fadb4fad12c8c0ce0f6d9298244bfeee5407f0173e53e42a991ca3d7b7be130b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Beh_Gymn",
+          "ar_raw": "1998-2025",
+          "kallrad": 3756,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8f78ce266a0d8a11aaa7e6f4160908ede96ce3e7bca54356391c0a16125c412f",
+        "path": "data/variable-documentation/8f78ce266a0d8a11aaa7e6f4160908ede96ce3e7bca54356391c0a16125c412f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Beh_Gymn",
+      "variable": "Behörighet till gymnasieskolans nationella program",
       "register_version": "Läsåret 2001/2002",
       "source_task_id": "db2f63c181432a44a1933c4b06a99d9ec540fa2197b345820203ac54f123db66",
       "id": "1974e0d8efa12cec6502c3d3904739254347b43235db39bb6350bd8c2f4c5b14",
@@ -1338,6 +1454,151 @@
         "path": "data/variable-documentation/01e229dc4b3faa180ce3dde3b159fb8f7735a4b0bb97722eb6146b08c4efc95b.json"
       },
       "documentation_retrieved_at": "2026-11-21T11:48:25+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "En",
+      "variable": "Betyg i ämnet engelska",
+      "register_version": "Läsåret 1996/1997",
+      "source_task_id": "9bc87263730b073c51bfe38f4e5937d236062c480d06f9322bb83fc0a6dc7129",
+      "id": "7ae7b66d8974f2b44d503f387a1844bc486aa538f66e90bbb45cb093f5279422",
+      "domain_id": "ad97305095a2b44b70b1339cf1997d25f56a2db7fc2beb891420184338c4ec1c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "En",
+          "ar_raw": "1997-2025",
+          "kallrad": 3757,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41854131016212ec45d0d0dab8d6c0507764cef808b33cf88f7f41fc5ce56a83",
+        "path": "data/variable-documentation/41854131016212ec45d0d0dab8d6c0507764cef808b33cf88f7f41fc5ce56a83.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "En",
+      "variable": "Betyg i ämnet engelska",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "9bc87263730b073c51bfe38f4e5937d236062c480d06f9322bb83fc0a6dc7129",
+      "id": "6756259cf11988e740cbe22d8b5167b8c13555bf75caf6964d4855d595cf9e31",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "En",
+          "ar_raw": "1997-2025",
+          "kallrad": 3757,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "83ced08e39f73e34b701e5dcc4e28fd78ffe221dc186a603875b8c03d3103175",
+        "path": "data/variable-documentation/83ced08e39f73e34b701e5dcc4e28fd78ffe221dc186a603875b8c03d3103175.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "En",
+      "variable": "Betyg i ämnet engelska",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "9bc87263730b073c51bfe38f4e5937d236062c480d06f9322bb83fc0a6dc7129",
+      "id": "47cb6bee6f10ac5d3f0f005d3232d9e379a52121dd50222233f19af6eb5c0ced",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "En",
+          "ar_raw": "1997-2025",
+          "kallrad": 3757,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f538ede70c324565baacf0baabd157b80fddecf83684d836e6393add235e06da",
+        "path": "data/variable-documentation/f538ede70c324565baacf0baabd157b80fddecf83684d836e6393add235e06da.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "En",
+      "variable": "Betyg i ämnet engelska",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "9bc87263730b073c51bfe38f4e5937d236062c480d06f9322bb83fc0a6dc7129",
+      "id": "d5384a7e8fc773fd5a81908d02100e36f24259dbbc6a49081b258bcfc5de4eda",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "En",
+          "ar_raw": "1997-2025",
+          "kallrad": 3757,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c77e6f75596dff01520e406db9f754556ac519876a856d1bf1bb1bb5192c3416",
+        "path": "data/variable-documentation/c77e6f75596dff01520e406db9f754556ac519876a856d1bf1bb1bb5192c3416.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "En",
+      "variable": "Betyg i ämnet engelska",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "9bc87263730b073c51bfe38f4e5937d236062c480d06f9322bb83fc0a6dc7129",
+      "id": "dfd1d785ac170ec5a615454f399197f57a570f21986403279468a0f5ef96fbe7",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "En",
+          "ar_raw": "1997-2025",
+          "kallrad": 3757,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c1b5b943d7d7050c3ee2eedd1b6980f9f81910c2d4a1d214b055f8c9fad3d2a1",
+        "path": "data/variable-documentation/c1b5b943d7d7050c3ee2eedd1b6980f9f81910c2d4a1d214b055f8c9fad3d2a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
     },
     {
       "register": "Grundskola: betyg åk 9",
@@ -2040,6 +2301,122 @@
       "variant": "Grundskolan: betyg åk 9",
       "column": "Kommun",
       "variable": "Kommun",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "58adef75239246af8941e86dcf1fca9e103d94aced548936ce066f626d0ddc68",
+      "id": "cd82b3f4042be0f77671c5bec81215ee944c6e3fd9cc62d4afdc22005db84171",
+      "domain_id": "4a10c632229034ddf1fb65dc40583a74f328d06d9b49acbf81c475dd0ac76e12",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2025",
+          "kallrad": 3758,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "baf530795fa8032b92153933fa0232fae469423cb4b898f137a2da0fd182c321",
+        "path": "data/variable-documentation/baf530795fa8032b92153933fa0232fae469423cb4b898f137a2da0fd182c321.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "58adef75239246af8941e86dcf1fca9e103d94aced548936ce066f626d0ddc68",
+      "id": "eb9a20f8319879d5e6bf72ffb619e3ba48ce0b247e23455353b59cb01c77af8c",
+      "domain_id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2025",
+          "kallrad": 3758,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0ade6dc53783b8e1181d08975cc90ed07f0be21f08f6403a380b6cf34c7e1432",
+        "path": "data/variable-documentation/0ade6dc53783b8e1181d08975cc90ed07f0be21f08f6403a380b6cf34c7e1432.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "58adef75239246af8941e86dcf1fca9e103d94aced548936ce066f626d0ddc68",
+      "id": "4642875825142cb1d3ef8c9484c9fa13490cf1eef78e7c8460aabff7ad7cb1a5",
+      "domain_id": "0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2025",
+          "kallrad": 3758,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d706bc190fb226576f740776cf272d6355fa8ea0985fdbf97256c567e0ee644",
+        "path": "data/variable-documentation/3d706bc190fb226576f740776cf272d6355fa8ea0985fdbf97256c567e0ee644.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "58adef75239246af8941e86dcf1fca9e103d94aced548936ce066f626d0ddc68",
+      "id": "d7cee5fa6e81de03854b89ebfe329d3fcf405f95b8ee6143f1f3fe5284c9ce6a",
+      "domain_id": "5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2025",
+          "kallrad": 3758,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "66f998b5b1462b2e381d9e044a4c5590b1705b49b2d1733ea24b501011d7034b",
+        "path": "data/variable-documentation/66f998b5b1462b2e381d9e044a4c5590b1705b49b2d1733ea24b501011d7034b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Kommun",
+      "variable": "Kommun",
       "register_version": "Läsåret 2001/2002",
       "source_task_id": "58adef75239246af8941e86dcf1fca9e103d94aced548936ce066f626d0ddc68",
       "id": "386d5a4aa9a580082569486774f9f37237b705c424a9b5a7e7db7c2b6310debb",
@@ -2730,6 +3107,151 @@
         "path": "data/variable-documentation/7bc5ff3572cf378f8ba34b5a5e866a4ac90dfe1576688d218d1046cfbdf46ed5.json"
       },
       "documentation_retrieved_at": "2026-11-21T11:48:25+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "MA",
+      "variable": "Betyg i ämnet matematik",
+      "register_version": "Läsåret 1996/1997",
+      "source_task_id": "2664ba0c40858bc260e9d20ac9a3c7aa4882bec9f0495b234db919c8fb58ab98",
+      "id": "48213b88ba38a770b88c6d35bbe0df88450a927b5ce05341853dce355aa563a3",
+      "domain_id": "ad97305095a2b44b70b1339cf1997d25f56a2db7fc2beb891420184338c4ec1c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Ma",
+          "ar_raw": "1997-2025",
+          "kallrad": 3759,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f3f86b862028cc3d58e2a4cd4e97ca757019ca1b0c02461e64ac5fd24a23e71e",
+        "path": "data/variable-documentation/f3f86b862028cc3d58e2a4cd4e97ca757019ca1b0c02461e64ac5fd24a23e71e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "MA",
+      "variable": "Betyg i ämnet matematik",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "2664ba0c40858bc260e9d20ac9a3c7aa4882bec9f0495b234db919c8fb58ab98",
+      "id": "868c7935edbf77766a2834bcfd0a8b689078ed5290dcb912aeddfc5a27072019",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Ma",
+          "ar_raw": "1997-2025",
+          "kallrad": 3759,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a53cf216bda9c413c1870b3dc7d8b560a2b63887c08d15f1ffe749ac522fe885",
+        "path": "data/variable-documentation/a53cf216bda9c413c1870b3dc7d8b560a2b63887c08d15f1ffe749ac522fe885.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "MA",
+      "variable": "Betyg i ämnet matematik",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "2664ba0c40858bc260e9d20ac9a3c7aa4882bec9f0495b234db919c8fb58ab98",
+      "id": "dc0b87647e7d8653b0bb8448049ba3bcdb34b23ad8a7fb5e925991ab5998c1f4",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Ma",
+          "ar_raw": "1997-2025",
+          "kallrad": 3759,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "248b5d01b3a7c3741db3b663ed232b9a1b69377284d568f5d18cacb32f308878",
+        "path": "data/variable-documentation/248b5d01b3a7c3741db3b663ed232b9a1b69377284d568f5d18cacb32f308878.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "MA",
+      "variable": "Betyg i ämnet matematik",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "2664ba0c40858bc260e9d20ac9a3c7aa4882bec9f0495b234db919c8fb58ab98",
+      "id": "d42663c0459d959f1e435a88d80cfc8d0bb5af3bcaaaa071db967b5270c29c29",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Ma",
+          "ar_raw": "1997-2025",
+          "kallrad": 3759,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9ed50d8fa3f5d69652bf9d3522dd9054a9eec9204cee1d663e883785cf0d0420",
+        "path": "data/variable-documentation/9ed50d8fa3f5d69652bf9d3522dd9054a9eec9204cee1d663e883785cf0d0420.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "MA",
+      "variable": "Betyg i ämnet matematik",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "2664ba0c40858bc260e9d20ac9a3c7aa4882bec9f0495b234db919c8fb58ab98",
+      "id": "6d4d805e55dc7017769720dea1cf2dc30bd5b0887f30eac133f90c66e0ed462e",
+      "domain_id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Ma",
+          "ar_raw": "1997-2025",
+          "kallrad": 3759,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc0fb106b1484b619e4e0812e423dcf05420176e75ba72b0799fe5930ad02bed",
+        "path": "data/variable-documentation/dc0fb106b1484b619e4e0812e423dcf05420176e75ba72b0799fe5930ad02bed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
     },
     {
       "register": "Grundskola: betyg åk 9",
@@ -3780,6 +4302,151 @@
       "variant": "Grundskolan: betyg åk 9",
       "column": "Meritvarde",
       "variable": "Meritvärde",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
+      "id": "eec475dd47aaa3feb7e3f0f1e32a60dfe21eb41c7f0c3b1035b05d447cf9d59d",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "MeritVarde",
+          "ar_raw": "1998-2025",
+          "kallrad": 3760,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4fecc9f2e38fa975ff5ea4758967e61527c7ed2ef4fc9cb188d19efcc9b20187",
+        "path": "data/variable-documentation/4fecc9f2e38fa975ff5ea4758967e61527c7ed2ef4fc9cb188d19efcc9b20187.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Meritvarde",
+      "variable": "Meritvärde",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
+      "id": "4e2b2ad3bae45b0dd24b1054e71a18ddbbe098259cc2be3bb635837a8715b7c7",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "MeritVarde",
+          "ar_raw": "1998-2025",
+          "kallrad": 3760,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bcb1414c1931bb5a33160d9511e50f19245e1c6ccce4860bec3d1824de6f91db",
+        "path": "data/variable-documentation/bcb1414c1931bb5a33160d9511e50f19245e1c6ccce4860bec3d1824de6f91db.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Meritvarde",
+      "variable": "Meritvärde",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
+      "id": "3a0fe9261e2142de2ee2c2f1e11c5114106a4576f02b2571b04f11ffe7442013",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "MeritVarde",
+          "ar_raw": "1998-2025",
+          "kallrad": 3760,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd8524ad55538925a81b37f6394dda9f78c1d64e2972364a09273bf04c8f7f33",
+        "path": "data/variable-documentation/bd8524ad55538925a81b37f6394dda9f78c1d64e2972364a09273bf04c8f7f33.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Meritvarde",
+      "variable": "Meritvärde",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
+      "id": "ad39fa8e9db7bc9fcedc3e7d700d955f5b86cbe56a2360d130e781a491f55858",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "MeritVarde",
+          "ar_raw": "1998-2025",
+          "kallrad": 3760,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eed4a77b170fa92d3d6aa3730665bfcbda739f0378459fd1e87657cc32fb15a8",
+        "path": "data/variable-documentation/eed4a77b170fa92d3d6aa3730665bfcbda739f0378459fd1e87657cc32fb15a8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Meritvarde",
+      "variable": "Meritvärde",
+      "register_version": "Läsåret 2001/2002",
+      "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
+      "id": "4ebd811181264a97ea026164125081373f6d9ad106b4218b3f6d95376eca3d9d",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "MeritVarde",
+          "ar_raw": "1998-2025",
+          "kallrad": 3760,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2efd0c5af728ab4c3fdf653a54f439580d902845285635c8e6da0e5ec070c8d3",
+        "path": "data/variable-documentation/2efd0c5af728ab4c3fdf653a54f439580d902845285635c8e6da0e5ec070c8d3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Meritvarde",
+      "variable": "Meritvärde",
       "register_version": "Läsåret 2002/2003",
       "source_task_id": "f86e7a5348d58dc6f4cf973c964300860167a9a260b28c6a15d3d5d87cd2dfe2",
       "id": "3f70bd1e9093dfce5c6b74bf4ac8a3ab269ed5dff1c5d9135afd7f75fcd6eb7f",
@@ -4476,6 +5143,180 @@
       "variant": "Grundskolan: betyg åk 9",
       "column": "Sv",
       "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 1996/1997",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "b58aa21d1396393049af4587d4fd944d6d483cf49bd3038eaf1ef4e9954782a8",
+      "domain_id": "ad97305095a2b44b70b1339cf1997d25f56a2db7fc2beb891420184338c4ec1c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95af151c8775e8bbb4f031e51213a43944929152eeb4623799573449492ee8b7",
+        "path": "data/variable-documentation/95af151c8775e8bbb4f031e51213a43944929152eeb4623799573449492ee8b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "46fb5f7912e3737061c864a24a0aa5e055257eb5cd52cddd34013f7491e9277d",
+      "domain_id": "c2d144d1ce063bc912c05b08ebeaf7533725668142d50ee45b3d1f69f7b907f6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f0af5c041240defdb1f9cd05ab0bdf779baee9e8ced08ec1bc771581e9905aeb",
+        "path": "data/variable-documentation/f0af5c041240defdb1f9cd05ab0bdf779baee9e8ced08ec1bc771581e9905aeb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "5c7ee365954d0f19a51708d867ee835cd07fd9baa5e85d5b5a0bd9af0c383d7b",
+      "domain_id": "c2d144d1ce063bc912c05b08ebeaf7533725668142d50ee45b3d1f69f7b907f6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "664304d8799354678b1e5e5fe19f875a181c23a7e781e5f237ffe4be8f8f2642",
+        "path": "data/variable-documentation/664304d8799354678b1e5e5fe19f875a181c23a7e781e5f237ffe4be8f8f2642.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "4b2b1fc138c9595e1d49912f756e8bf0806b612d208a5ea4ec77aa0e993ae06f",
+      "domain_id": "c2d144d1ce063bc912c05b08ebeaf7533725668142d50ee45b3d1f69f7b907f6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "10b6610c2ab6a1bcd5c1def6bfe9a104c0994c7b2f8a1bb9040e68c021673d00",
+        "path": "data/variable-documentation/10b6610c2ab6a1bcd5c1def6bfe9a104c0994c7b2f8a1bb9040e68c021673d00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "28a8b9e4c0543b6167c7692d4b30b6b0f498ddfb465bd0d691896b38f80a891e",
+      "domain_id": "c2d144d1ce063bc912c05b08ebeaf7533725668142d50ee45b3d1f69f7b907f6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb29b63046595f1c7a3f6e9587130a8f4fb98d49c78c0f39effa33fa7a3822d9",
+        "path": "data/variable-documentation/fb29b63046595f1c7a3f6e9587130a8f4fb98d49c78c0f39effa33fa7a3822d9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
+      "register_version": "Läsåret 2001/2002",
+      "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
+      "id": "fd630208ac80ab42d897cff1d4193e35482c2465660fb995c6b51b734a899bbf",
+      "domain_id": "c2d144d1ce063bc912c05b08ebeaf7533725668142d50ee45b3d1f69f7b907f6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sv",
+          "ar_raw": "1997-2025",
+          "kallrad": 3766,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f6a3d2b40d832918eba7447a97f39ceb4ba319985a710c85633b3fbe945c373e",
+        "path": "data/variable-documentation/f6a3d2b40d832918eba7447a97f39ceb4ba319985a710c85633b3fbe945c373e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sv",
+      "variable": "Betyg i ämnet svenska",
       "register_version": "Läsåret 2002/2003",
       "source_task_id": "be0e34bbba94def5d11d8f81ac34d80dfcbcc69fd1b94fe3c9eccb05158b8607",
       "id": "91404e807d516cf45e0dccdf4397e45dbaa579b4e2c57914639997ff40395903",
@@ -5137,6 +5978,151 @@
         "path": "data/variable-documentation/40d4ff4219e852ace0e044ea4940d5b09c39e9163dcf07070fca59f4bb5ed8c4.json"
       },
       "documentation_retrieved_at": "2026-11-21T11:48:25+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sva",
+      "variable": "Betyg i ämnet svenska som andraspråk",
+      "register_version": "Läsåret 1997/1998",
+      "source_task_id": "7d0ac8cd792480b23c93791e0cc614d59b00ae47cc89752e773982f1120012fe",
+      "id": "2587c58b1ef861819a719ad43ca49ba155c8128310159d3db416bea5823e1ba7",
+      "domain_id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sva",
+          "ar_raw": "1998-2025",
+          "kallrad": 3767,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6a082c1b35466f6f0406501c6d8a8eb44e0d1bbb8e8e9f9df91785abdd6056c9",
+        "path": "data/variable-documentation/6a082c1b35466f6f0406501c6d8a8eb44e0d1bbb8e8e9f9df91785abdd6056c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sva",
+      "variable": "Betyg i ämnet svenska som andraspråk",
+      "register_version": "Läsåret 1998/1999",
+      "source_task_id": "7d0ac8cd792480b23c93791e0cc614d59b00ae47cc89752e773982f1120012fe",
+      "id": "f8bc4f9a60113de3fd93745d41c28e171b0685ea17bd60aab300ba92ef97703b",
+      "domain_id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sva",
+          "ar_raw": "1998-2025",
+          "kallrad": 3767,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7a705f7609002d2cc56b55d2b98fa2f362b154529290e726e83c26c3ebfa1955",
+        "path": "data/variable-documentation/7a705f7609002d2cc56b55d2b98fa2f362b154529290e726e83c26c3ebfa1955.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sva",
+      "variable": "Betyg i ämnet svenska som andraspråk",
+      "register_version": "Läsåret 1999/2000",
+      "source_task_id": "7d0ac8cd792480b23c93791e0cc614d59b00ae47cc89752e773982f1120012fe",
+      "id": "3c1c88412585544b48ec1b296304d820251e348f46cf1c48df2b0844c7b0245b",
+      "domain_id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sva",
+          "ar_raw": "1998-2025",
+          "kallrad": 3767,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa4501747663f611d1b898a5eda5b44fe877293d44989d55aac332d5c7ded208",
+        "path": "data/variable-documentation/fa4501747663f611d1b898a5eda5b44fe877293d44989d55aac332d5c7ded208.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sva",
+      "variable": "Betyg i ämnet svenska som andraspråk",
+      "register_version": "Läsåret 2000/2001",
+      "source_task_id": "7d0ac8cd792480b23c93791e0cc614d59b00ae47cc89752e773982f1120012fe",
+      "id": "c386ca76a693c7cb3b6b91b258cfe08953d02681d6d6cd8ec81d5554cb90ab08",
+      "domain_id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sva",
+          "ar_raw": "1998-2025",
+          "kallrad": 3767,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7de15b6954549dc95552e70e957f6344de0c747a10feac09fac69f07af80ece5",
+        "path": "data/variable-documentation/7de15b6954549dc95552e70e957f6344de0c747a10feac09fac69f07af80ece5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
+    },
+    {
+      "register": "Grundskola: betyg åk 9",
+      "variant": "Grundskolan: betyg åk 9",
+      "column": "Sva",
+      "variable": "Betyg i ämnet svenska som andraspråk",
+      "register_version": "Läsåret 2001/2002",
+      "source_task_id": "7d0ac8cd792480b23c93791e0cc614d59b00ae47cc89752e773982f1120012fe",
+      "id": "77dfb9cf8ce3eaaa868ec6987752b745f0227d9b22ff526004a5bd4ec5d632cd",
+      "domain_id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:52:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "slutbetyg_ak9",
+          "variabel": "Sva",
+          "ar_raw": "1998-2025",
+          "kallrad": 3767,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68abc42804af22a93463a2e442c8a6ed540083e9bcfbf72bf3f00709817a1660",
+        "path": "data/variable-documentation/68abc42804af22a93463a2e442c8a6ed540083e9bcfbf72bf3f00709817a1660.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:52:14+00:00"
     },
     {
       "register": "Grundskola: betyg åk 9",
@@ -5816,6 +6802,14 @@
       "path": "data/value-domain-values/0b0e733d0b69dd3f22075309836aa5c0a87924a9bcfdc89b0ca3fc664ae35ff2.json"
     },
     {
+      "version": "LKF 2000-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796",
+      "value_count": 289,
+      "path": "data/value-domain-values/0f5065033ebf9fc23679da4d7c9dd138d799e9c1c5cc57613eab47babb0c2796.json"
+    },
+    {
       "version": "2024-01-01 /Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -5920,12 +6914,28 @@
       "path": "data/value-domain-values/4616cfc0c83bd937419af10a47b8fe9d10341e9e0d7780b9e50419b9f9f1e0a8.json"
     },
     {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "4a10c632229034ddf1fb65dc40583a74f328d06d9b49acbf81c475dd0ac76e12",
+      "value_count": 290,
+      "path": "data/value-domain-values/4a10c632229034ddf1fb65dc40583a74f328d06d9b49acbf81c475dd0ac76e12.json"
+    },
+    {
       "version": "Betyg",
       "level": "Godkänt eller ej, inkl gradering",
       "data_type": "char(1)",
       "id": "5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7",
       "value_count": 9,
       "path": "data/value-domain-values/5834791b96fee8feecfb2ec1411e58850920d9dbb3d93cb6a92f6729549f72e7.json"
+    },
+    {
+      "version": "LKF 2001-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4",
+      "value_count": 289,
+      "path": "data/value-domain-values/5c969ae63854011d06400c4f12b465102c7055e7c6c6e9ec523735a3724a27c4.json"
     },
     {
       "version": "Betyg",
@@ -6056,6 +7066,14 @@
       "path": "data/value-domain-values/e1654de8dc0ad17b22de34431a41d50a12402eacf4bfb67e30aeb27ebe59b93c.json"
     },
     {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "value_count": 289,
+      "path": "data/value-domain-values/ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2.json"
+    },
+    {
       "version": "Betyg",
       "level": "Godkänt eller ej, inkl mer gradering",
       "data_type": "char(1)",
@@ -6089,16 +7107,16 @@
     }
   ],
   "coverage": {
-    "complete": false,
+    "complete": true,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 3,
+    "passes": 4,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "c4ba7942ea590d7f080fd435396891dd5e4f847f5ac6000c0ef7e0e551a2ed62",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T11:48:25+00:00",
+    "retrieved_at": "2026-11-21T12:52:14+00:00",
     "task_count": 12,
     "expected_bindings": 234,
-    "documented_bindings": 200,
+    "documented_bindings": 234,
     "errors": [],
     "stalled_passes": 0
   }
