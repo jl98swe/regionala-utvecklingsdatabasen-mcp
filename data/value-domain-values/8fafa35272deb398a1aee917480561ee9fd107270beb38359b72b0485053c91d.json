@@ -1,0 +1,32 @@
+{
+  "version": "VEStat ",
+  "level": "Verksamhetsenhetsstatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "0",
+      "label": "Har aldrig varit verksam"
+    },
+    {
+      "code": "1",
+      "label": "Verksam"
+    },
+    {
+      "code": "2",
+      "label": "Tillhör företag som har stor ekonomisk betydelse"
+    },
+    {
+      "code": "7",
+      "label": "Ej verksam, \"dublett\""
+    },
+    {
+      "code": "8",
+      "label": "Ej verksam, \"icke-VE\""
+    },
+    {
+      "code": "9",
+      "label": "Ej verksam, enligt regler"
+    }
+  ],
+  "id": "8fafa35272deb398a1aee917480561ee9fd107270beb38359b72b0485053c91d"
+}
