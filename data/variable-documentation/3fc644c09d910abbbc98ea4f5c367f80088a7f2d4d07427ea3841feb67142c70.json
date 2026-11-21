@@ -1,0 +1,114 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "bigint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Kontant bruttolön"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Kontant bruttolön."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Nordisk inkomst av tjänst, utländskt beskattad.\r\n\r\nInkomsterna som levereras från respektive lands skattemyndighet är redovisade på ett id-nummer (TIN) kompletterat med bland annat namn och adress. Dessa uppgifter personnummermatchas för att identifiera folkbokförda i Sverige genom en modell för att koppla på det svenska personnumret. Denna hantering ger en viss osäkerhet på mikrodatanivå, det kan i undantagsfall därför förekomma att nordiska inkomster har kopplats till fel person."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett slutligt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i december."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda samt dödsbon"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Urval av inkomsttagare för åren 1960-1966"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Perssoner som är födda den 5, 15 eller 25 dagen i månaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda samt dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av skatteskyldiga personer enligt skattelagstiftningen i Sverige. Från och med 1999 ingår även ett antal personer med, av Skatteverket tilldelat, samordningsnummer. Denna grupp utgörs av ej folkbokförda personer som betalar skatt i Sverige. Utöver dessa grupper ingår resterande folkbokförda personer den 31/12 samt dödsbon."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-01-01 - 2020-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av taxeringsuppgifter, underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa skatter och taxerade inkomster på individnivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "3fc644c09d910abbbc98ea4f5c367f80088a7f2d4d07427ea3841feb67142c70"
+}

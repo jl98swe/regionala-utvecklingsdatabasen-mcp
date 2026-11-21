@@ -1,0 +1,110 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "bigint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Delkomponent till disponibel inkomst"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Individens disponibla inkomst, som utgör en delkomponent vid beräkning av familjens disponibla inkomst."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Disponibel inkomst är summan av alla inkomster och positiva transfereringar (t.ex. barn-, social- och bostadsbidrag) minus slutlig skatt."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Variabeln beräknas som disp. ink enligt 1991 års def. med skillnaden att kapitalvinsten räknas bort.\r\nSammanräknad inkomst + sjöinkomst \r\n- Ink av annan fastighet\r\n+ Extra avdr under ink av kap \r\n+ Dekl resekostn.avdr\r\n+ Avdrag för fördyrade levnadskostn o resor i tjänsten till den del de överstiger erh ers \r\n+ Övr dekl kostnadsavdrag \r\n-  Slutlig skatt (exkl egenavgifter, löneavgift, skogsvårdsavg och avdragsgill fastighetsskatt) och sjömansskatt \r\n+ Skattefri livränta \r\n+ AGS-ersättning \r\n+ Bostadsbidr och kom. bostadstillägg \r\n+ Handikappers\r\n+ Studiebidr\r\n+ Återbetalningspliktiga studielån \r\n-  Återbet belopp studielån under året \r\n+ Skattefri sjukpenning \r\n+ Skattefri frivillig pension \r\n+ Dagers för värnpliktiga \r\n+ Utryckningsbidr för värnpliktiga \r\n+ Bidragsförskott, erhållet belopp \r\n-  Underhållsbidr, utgivet belopp \r\n+ Allmänt och förlängt barnb\r\n+ Flerbarnstillägg \r\n+ Socialbidrag\r\n"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett preliminärt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i september. \r\nSyftet med att framställa ett preliminärt register är att kunna redovisa inkomstuppgifter tidigare."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda samt dödsbon"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Urval av inkomsttagare för åren 1960-1966"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Perssoner som är födda den 5, 15 eller 25 dagen i månaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda samt dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av skatteskyldiga personer enligt skattelagstiftningen i Sverige. Från och med 1999 ingår även ett antal personer med, av Skatteverket tilldelat, samordningsnummer. Denna grupp utgörs av ej folkbokförda personer som betalar skatt i Sverige. Utöver dessa grupper ingår resterande folkbokförda personer den 31/12 samt dödsbon."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-01-01 - 2020-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av taxeringsuppgifter, underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa skatter och taxerade inkomster på individnivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "792353dfe73ecb28809023866748cc1bb271aeb6ed2b0de8571a7c9eb44071d8"
+}

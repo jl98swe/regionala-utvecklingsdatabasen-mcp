@@ -1,0 +1,114 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Kommunalskattesats"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Kommunalskattesats."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Procent"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett preliminärt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i september. \r\nSyftet med att framställa ett preliminärt register är att kunna redovisa inkomstuppgifter tidigare."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda samt dödsbon"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Urval av inkomsttagare för åren 1960-1966"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Perssoner som är födda den 5, 15 eller 25 dagen i månaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda samt dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av skatteskyldiga personer enligt skattelagstiftningen i Sverige. Från och med 1999 ingår även ett antal personer med, av Skatteverket tilldelat, samordningsnummer. Denna grupp utgörs av ej folkbokförda personer som betalar skatt i Sverige. Utöver dessa grupper ingår resterande folkbokförda personer den 31/12 samt dödsbon."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-01-01 - 2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av taxeringsuppgifter, underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa skatter och taxerade inkomster på individnivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "8b45a5b069cf820f1b37118bee74ff764562e195ed11c7d03456863edc0b1499"
+}
