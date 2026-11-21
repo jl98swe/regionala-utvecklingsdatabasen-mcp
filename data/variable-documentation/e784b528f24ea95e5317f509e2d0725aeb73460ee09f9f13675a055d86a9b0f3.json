@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Utbildningsnivå (aggregat Old)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Utbildningens nivå aggregerad till sju nivåer, anpassade till det svensk utbildningssystemet. Dessa nivåer är jämförbara med äldre nivåer före år 2000."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Klassificering av nivån för en persons genomförda utbildning. Tillhörande klassifikation är Svensk utbildningsnomenklatur (SUN). SUN är en standard för klassificering av enskilda utbildningar samtidigt som den utgör ett system för aggregering av utbildningar till större grupper. Gruppering i 4 nivåer."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS) : Individer"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12, 2000."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige 16 år och äldre"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 16 år och äldre per den 31/12 härrörande år"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2000-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika SCB-register. Externa data kommer från Försäkringskassan och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer, 16 år och äldre"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer, 16 år och äldre"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller samtliga personer 16 år och äldre, som varit folkbokförda i Sverige den 31/12 respektive år.\r\n\r\nSe LISA:s Bakgrundsfakta för mer information om respektive variabel, www.scb.se/LISA"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "e784b528f24ea95e5317f509e2d0725aeb73460ee09f9f13675a055d86a9b0f3"
+}
