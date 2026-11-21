@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Utbildningsnivå (aggregat Old)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Utbildningens nivå aggregerad till sju nivåer, anpassade till det svensk utbildningssystemet. Dessa nivåer är jämförbara med äldre nivåer före år 2000."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Klassificering av nivån för en persons genomförda utbildning. Tillhörande klassifikation är Svensk utbildningsnomenklatur (SUN). SUN är en standard för klassificering av enskilda utbildningar samtidigt som den utgör ett system för aggregering av utbildningar till större grupper. Gruppering i 4 nivåer."
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "Vårterminen 2010"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Utbildningsregistret : Personens högsta utbildning"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 1999."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1999-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "306f18d44725493d2f0c928952ed010f3ce764ed0b8cc74687782d430246a753"
+}

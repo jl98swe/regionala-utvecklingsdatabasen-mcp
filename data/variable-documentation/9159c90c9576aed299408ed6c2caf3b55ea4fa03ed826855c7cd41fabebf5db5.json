@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Arbetsskadesjukpenning, ersättningsbelopp"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Utbetalt belopp under året relaterat till brutto- och nettodagarna för arbetskadesjukpenning.\r\nBeloppet avser händelser som skett under året."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Summan av alla belopp under året för ersättningsslaget arbetskadesjukpenning."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Longitudinell integrationsdatabas (LISA) : Individer, 16 år och äldre"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 1997."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1997-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "9159c90c9576aed299408ed6c2caf3b55ea4fa03ed826855c7cd41fabebf5db5"
+}
