@@ -1,0 +1,36 @@
+{
+  "version": "Sökandekategori 2006",
+  "level": "Sökandekategori gruppering",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "",
+      "label": "Ej relevant/Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "Arbetslösa"
+    },
+    {
+      "code": "2",
+      "label": "Sökande i program med aktivitetsstöd"
+    },
+    {
+      "code": "3",
+      "label": "Sökande som har arbete utan stöd"
+    },
+    {
+      "code": "4",
+      "label": "Sökande som har arbete med stöd"
+    },
+    {
+      "code": "5",
+      "label": "Övriga inskrivna vid Af"
+    },
+    {
+      "code": "6",
+      "label": "Nystartsjobb"
+    }
+  ],
+  "id": "c5b42e1960d13ed09a36063dcc60b3ef2d1e6c93e2f16fe40e9bdb2bdbe9a75a"
+}

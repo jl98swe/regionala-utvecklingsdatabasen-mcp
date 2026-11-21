@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(4)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Senaste invandringsår moder"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "År för senaste invandring till Sverige för individens moder."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd från RTB. Variabeln gäller individens biologiska mor eller individens adoptivmor vid adoption. Adoptivförälderns uppgifter hämtas alltid i första hand. "
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "31/12"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Årtal"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "I RTB-registren före 1998 saknas i allmänhet uppgift om invandringsår för personer som invandrat före 1968. \r\n\r\nFrån och med 1998, d.v.s. då det nya RTB-systemet togs i drift, ökade täckningsgraden för uppgiften om invandringsår. Nu finns i långt större utsträckning än tidigare information om vilket år invandringen ägde rum för personer som invandrat före 1968. \r\n\r\nDå året är okänt består fältet av nollor (0000).\r\n\r\nSenInvArMor och SenInvArAdBioMor inneåller samma uppgift.SenInvArAdBioMor är endast för att klargöra att adoptivförälder prioriteras före biologisk förälder."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "0aeb20f3d84a180726f731b0b182b14ea7048e2ed7ef78115f6bcefbdc2ad5f0"
+}
