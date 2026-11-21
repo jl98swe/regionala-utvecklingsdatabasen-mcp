@@ -501,6 +501,35 @@
     {
       "register": "Yrkeshögskolan",
       "variant": "Studerande och examinerade",
+      "column": "SUN5Inr_Utb",
+      "variable": "Utbildningsinriktning MYH",
+      "register_version": "2005-2025",
+      "source_task_id": "a6233946dacbf2f78aa1fa55ab457308bf30f8c62f6aeb033cf5ad5cd7e05ded",
+      "id": "9bc3c73ce8081b57fb5a15ae5958f4a90ff3c7acdf73ad6a93f1172963f618ff",
+      "domain_id": "f9b988ddbaf63eb0ce1636a9eb05be0c4a59d6f6bae23e693ab83c954b7aa97c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:11:48+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "SUN5Inr_Utb",
+          "ar_raw": "2012-2024",
+          "kallrad": 4121,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "58c22a40faff2339b01b7a7813fb5f76698d07391dd48f9e90c29bfaae45e47b",
+        "path": "data/variable-documentation/58c22a40faff2339b01b7a7813fb5f76698d07391dd48f9e90c29bfaae45e47b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:11:48+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
       "column": "StartArManad_Utb",
       "variable": "Startår månad",
       "register_version": "2005-2025",
@@ -1151,6 +1180,14 @@
       "path": "data/value-domain-values/dcecf9461fbd06839749348d91ba00c1a6b1e27ed1e9bd13f09236064c4e6842.json"
     },
     {
+      "version": "Utbildningsinriktning MYH",
+      "level": "Utbildningsinriktning MYH",
+      "data_type": "nvarchar(255)",
+      "id": "f9b988ddbaf63eb0ce1636a9eb05be0c4a59d6f6bae23e693ab83c954b7aa97c",
+      "value_count": 351,
+      "path": "data/value-domain-values/f9b988ddbaf63eb0ce1636a9eb05be0c4a59d6f6bae23e693ab83c954b7aa97c.json"
+    },
+    {
       "version": "Kommun historisk",
       "level": "Kommun historisk",
       "data_type": "varchar(4)",
@@ -1160,18 +1197,17 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "complete": true,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "89de84c809f4139d5c1cfbfef4bfb7a25ed5ec94f805c9184265e365ec04799b",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T07:34:22+00:00",
+    "retrieved_at": "2026-11-21T11:11:48+00:00",
     "task_count": 36,
     "expected_bindings": 36,
-    "documented_bindings": 35,
-    "errors": [
-      "SUN5Inr_Utb 2005-2025: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Utbildningsinriktning MYH', 'Vardemangdsniva': 'Utbildningsinriktning MYH', 'Vardekod': '211xy', 'Vardebenamning': 'Övriga utbildningar inom bild- och formkonst', 'Kolumnnamn': None, 'Datatyp': None}"
-    ]
+    "documented_bindings": 36,
+    "errors": [],
+    "stalled_passes": 0
   }
 }
