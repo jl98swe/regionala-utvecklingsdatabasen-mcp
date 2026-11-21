@@ -1,0 +1,28 @@
+{
+  "version": "LVEStat ",
+  "level": "Lokalaverksamhetsenhetens verksamhetsstatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "1",
+      "label": "Verksam"
+    },
+    {
+      "code": "2",
+      "label": "Tillhör företag som har stor ekonomisk betydelse"
+    },
+    {
+      "code": "7",
+      "label": "Ej verksam, \"dublett\""
+    },
+    {
+      "code": "8",
+      "label": "Ej verksam, \"icke-LVE\""
+    },
+    {
+      "code": "9",
+      "label": "Ej verksam, enligt regler"
+    }
+  ],
+  "id": "12a83fa4da8ee748b01c6dd6869756b15c4fd5d3ce661e598653d022ce5afcc0"
+}

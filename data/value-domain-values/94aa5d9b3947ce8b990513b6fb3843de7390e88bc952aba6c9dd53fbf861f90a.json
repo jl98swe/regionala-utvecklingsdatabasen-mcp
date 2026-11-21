@@ -1,0 +1,24 @@
+{
+  "version": "LVEStat_2019",
+  "level": "Lokalaverksamhetsenhetens verksamhetsstatus",
+  "data_type": "int",
+  "values": [
+    {
+      "code": "0",
+      "label": "Har aldrig varit verksam"
+    },
+    {
+      "code": "1",
+      "label": "Är verksam"
+    },
+    {
+      "code": "4",
+      "label": "Ej verksam – lösning för saknat huvudAE"
+    },
+    {
+      "code": "9",
+      "label": "Är ej längre verksam, enligt regler"
+    }
+  ],
+  "id": "94aa5d9b3947ce8b990513b6fb3843de7390e88bc952aba6c9dd53fbf861f90a"
+}
