@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Annan kvantitet"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger annan kvantitet än vikt för vissa  KN8 varukoder."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Kvantiteten som avses är exempelvis styck, antal, par, liter.\r\nVilka varukoder där annan kvantitet redovisas, samt vilken måttenhet som används, finns redovisat under Intrastasts hemsida, \r\nwww.scb.se/intrastat."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Alla tillåtna kvantitesenheter"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Utrikeshandel med varor är ett register över in- och utförsel av varor i handeln med EUs medlemsländer."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Varuhandel med EU-länder"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Varor som har införts från eller utförts till annat EU-land. Med vara avses lös egendom inklusive elektrisk ström."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1999-01-01 - 1999-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Mätinstrument är enkät som kan skickas in som blankett eller elektroniskt."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Vara"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Materiell företeelse som är eller kan vara föremål för handel eller ägande"
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Varu- och landfördelad i löpande priser, Intrastat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Intrastat, löpande priser"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder inom EU. Intrastat är en cut-off-undersökning som genomförs av SCB. Företag med handel över ett visst tröskelvärde är skyldiga att lämna införsel- och utförseluppgifter när de för in varor från annat EG-land (EU:s skatteområde) eller ut varor till annat EG-land. Sveriges medlemskap i EU har medfört att SCB infört helt nya system jämfört med åren före 1995 för att kunna publicera uppgifter över utrikeshandeln fr.o.m. januari 1995. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder. "
+    }
+  ],
+  "id": "3c20447c89930b0763241004eb003c8d1b0ecc0d33037b4b23f80f1778ad3092"
+}

@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Vikt (kg)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Varupostens vikt i kilogram."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Intrastat"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "kg"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Intrastat är ett register över in- och utförsel av varor i handeln med EU:s medlemsländer."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Varuhandel med EU-länder"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Varor som har införts från eller utförts till annat EU-land. Med vara avses lös egendom inklusive elektrisk ström."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2017-01-01 - 2017-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om varuhandeln med EU-länder (Intrastat) samlas in via en totalundersökning med cut off-gräns, vilket innebär att de minsta företagen inte ingår i datainsamlingen. I Intrastat ingår företag som har en årlig varuutförsel till EU om minst 4,5 miljoner kronor eller varuinförsel från EU om minst 9,0 miljoner kronor. Insamlingen sker via elektroniska mätinstrument."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Vara"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Materiell företeelse som är eller kan vara föremål för handel eller ägande"
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Varu- och landfördelad i löpande priser, Intrastat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Intrastat, löpande priser"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder inom EU. Intrastat är en cut-off-undersökning som genomförs av SCB. Företag med handel över ett visst tröskelvärde är skyldiga att lämna införsel- och utförseluppgifter när de för in varor från annat EG-land (EU:s skatteområde) eller ut varor till annat EG-land. Sveriges medlemskap i EU har medfört att SCB infört helt nya system jämfört med åren före 1995 för att kunna publicera uppgifter över utrikeshandeln fr.o.m. januari 1995. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder. "
+    }
+  ],
+  "id": "a415950c2d3c9572cda75f364b36aa0e1b761063f4affafbee15f67c1655b781"
+}

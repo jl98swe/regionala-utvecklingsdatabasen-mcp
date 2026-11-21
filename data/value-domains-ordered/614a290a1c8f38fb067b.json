@@ -1,0 +1,4619 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "614a290a1c8f38fb067b",
+  "register": "Utrikeshandel med varor",
+  "variant": "Intrastat, löpande priser",
+  "bindings": [
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "1999",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "ca9547fac5c16319f5e39d573bbca338b30240f1bc06346ed8f8dc42c0be2f5b",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3c20447c89930b0763241004eb003c8d1b0ecc0d33037b4b23f80f1778ad3092",
+        "path": "data/variable-documentation/3c20447c89930b0763241004eb003c8d1b0ecc0d33037b4b23f80f1778ad3092.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2000",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "1d62fa8d738d5f066467db45df8e217c4823c04251dce23737a4dc0d870a0807",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6ba3c283731814ba213cd1db2d2bd5d48bf9188775d89973a3d69176e0e7d29c",
+        "path": "data/variable-documentation/6ba3c283731814ba213cd1db2d2bd5d48bf9188775d89973a3d69176e0e7d29c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2001",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "5e101157d80efafbabe02c256644134dcf1950ad6015fd43d67fe214eef6b50c",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8b1ff5ceab34bfcff3877a0a372c730a3f6ae6b66e8d54eba5da987f6867dbbe",
+        "path": "data/variable-documentation/8b1ff5ceab34bfcff3877a0a372c730a3f6ae6b66e8d54eba5da987f6867dbbe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2002",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "0237805dbda65ceb31215af51f25aeea7e5f74f0378cea0df4d859cbf19a8c27",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c422a538843b91d7f11da8b481cab8ccd8b92cdec873bfb2414e7459bf46590b",
+        "path": "data/variable-documentation/c422a538843b91d7f11da8b481cab8ccd8b92cdec873bfb2414e7459bf46590b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2003",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "80cecb4f45e615ca79402a583de258448d0b1820ff59ecba3e31d58582edebd1",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "38f5744310d5b4a58b91cefe94ac2c5382f9b08e4d3bc19d7c893fe7428a8a20",
+        "path": "data/variable-documentation/38f5744310d5b4a58b91cefe94ac2c5382f9b08e4d3bc19d7c893fe7428a8a20.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2004",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "8dedbc1294517bdff8c1856b4f34ff30621d77bb69d2543896bc5374dda6df36",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4af090482350fd46b6d967976316fbd6e07f1f1ccec7929d52c76bf087b6056b",
+        "path": "data/variable-documentation/4af090482350fd46b6d967976316fbd6e07f1f1ccec7929d52c76bf087b6056b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2005",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "4bc2df6b3c8fe78f8dc29ab9f1f580dab9b2dd6fddf76193c62ada1aa82b78c4",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc408d63e999157d00b457ca2a858abc6f86512a53947b12f09a9279a3369261",
+        "path": "data/variable-documentation/cc408d63e999157d00b457ca2a858abc6f86512a53947b12f09a9279a3369261.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2006",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "dc2c09ef90edee4f0c802569c4aaa6c54a1c232e7a03d86e35f2edbf9311f0bb",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d96d114805a3493fe882034fd336372cd43a8545e10d4673b60d898ba474baf8",
+        "path": "data/variable-documentation/d96d114805a3493fe882034fd336372cd43a8545e10d4673b60d898ba474baf8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2007",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "8c16b8f5811d6e3687a7d2fe29a9ced38d4dd401d2204099e82fd4fe6df217bf",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ea60da60580a8716eec7b4645f21443b892d68b5e5425a1deaca7fedfd3aba8e",
+        "path": "data/variable-documentation/ea60da60580a8716eec7b4645f21443b892d68b5e5425a1deaca7fedfd3aba8e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2008",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "01f5bf9a7f13d5e3c3cfea05e4ee5ffe2d37d172f486a46b3468ad38427a9002",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d06036a1eef054ef3d49abe85a734af152ec45253b17067908dcc71e55d26a6",
+        "path": "data/variable-documentation/5d06036a1eef054ef3d49abe85a734af152ec45253b17067908dcc71e55d26a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2009",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "b337b40857a69b1e0ba1d9007e2431bd032a5898df639e36ab7e3120bd026ab1",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3b1742ae780b7e5209891a0f5cc3121c8ae43e6c672372fde9169c15389aa1b",
+        "path": "data/variable-documentation/b3b1742ae780b7e5209891a0f5cc3121c8ae43e6c672372fde9169c15389aa1b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2010",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "0f0202d8f095a33cf93c475e907536bb28a06210ce27569451649f584b2e523f",
+      "domain_id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc71da6ee2371674f92ba955653d656b5ebdaad04689a2e1bc29572a64ba22f9",
+        "path": "data/variable-documentation/bc71da6ee2371674f92ba955653d656b5ebdaad04689a2e1bc29572a64ba22f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2011",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "50eaace022975e1c6bf7932f6b8fc6009f8501cc31af084f3054c047284d7482",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d7f752b50be0119d9b2e4cb01572d918dfaaf8b9289d127b705cb3065e96cd28",
+        "path": "data/variable-documentation/d7f752b50be0119d9b2e4cb01572d918dfaaf8b9289d127b705cb3065e96cd28.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2012",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "4e0c3475853ea76470b3452c2e0b259c1a523971a5ea706ec5b7f0bd23ba3b80",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c66383879b0cb5b36b7c3696e3a48b33e1f7a0d688fad438d45dcb5fb083face",
+        "path": "data/variable-documentation/c66383879b0cb5b36b7c3696e3a48b33e1f7a0d688fad438d45dcb5fb083face.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2013",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "b6357d167f4050fb04e71111c2f5e75d4453dde1ce76d4c7d82c68d48c4ffd31",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d21b55734897a90718cf50970dd841599a0a6d7edb927999523e223e89884cf4",
+        "path": "data/variable-documentation/d21b55734897a90718cf50970dd841599a0a6d7edb927999523e223e89884cf4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2014",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "01b78644d0c92babe26f79efb8741d3b51b19c264a1241ea74610f1e1a951be3",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fd5f4d71cd004e397fe7179f21fb4fa431ce116d571a93e7f99cf5c07958c60",
+        "path": "data/variable-documentation/1fd5f4d71cd004e397fe7179f21fb4fa431ce116d571a93e7f99cf5c07958c60.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2015",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "1fc962385683dff98d66118bf401b36a37bfb712e1fa9f9cd7ff9afa63886f44",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3c22870f259211ceb53a5adb8bba36195db154eb89b10be1a9501db1b8aeb5d8",
+        "path": "data/variable-documentation/3c22870f259211ceb53a5adb8bba36195db154eb89b10be1a9501db1b8aeb5d8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2016",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "ef533e3e77e9b1b5c3b5fb01e26a796825cc7764b8db2496a9bc851a346f54f8",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bef50ad63180f1f6953b4567006f108ed5359c79e3451b9289d2bd9e42a03f05",
+        "path": "data/variable-documentation/bef50ad63180f1f6953b4567006f108ed5359c79e3451b9289d2bd9e42a03f05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2017",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "e8a2aa2d6a8996ec28868f6113d6dd2800096f0fe117758c93e4704ae5a013de",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "416a8af45641e880ea349fd3b8e0773047e48c3c6d4a18a7f9f01b8645b3bd76",
+        "path": "data/variable-documentation/416a8af45641e880ea349fd3b8e0773047e48c3c6d4a18a7f9f01b8645b3bd76.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2018",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "42df19b72bb1b122daccaf371aa5a7dcc97aeb3dc22fb4757834a82ef6458361",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee3aa5a76d493958ac11fe421d44e42a26a991bbfbeffe0fbd878fcce5481d03",
+        "path": "data/variable-documentation/ee3aa5a76d493958ac11fe421d44e42a26a991bbfbeffe0fbd878fcce5481d03.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2019",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "b898601a989fe06c3282138b5e2152fcf512b9c2c5fb4547f55eb2c2288da8ec",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ca1af4aa13b45f523414f4a4c6e79fdb2baa61e88de56b903154c7f4423a1111",
+        "path": "data/variable-documentation/ca1af4aa13b45f523414f4a4c6e79fdb2baa61e88de56b903154c7f4423a1111.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2020",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "a82bd6b2f59a90e9af5273d5765d295dcc3819d1706a774b54077eacdd1ab202",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2682f1bacc91eafe37b6daf2adcc739fa5e800b8673e489cae73916b5e765cee",
+        "path": "data/variable-documentation/2682f1bacc91eafe37b6daf2adcc739fa5e800b8673e489cae73916b5e765cee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2021",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "45c3afca33985aea780347188920eba16562bf37b910867c293b828548afed6c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "865ad2950f49e662f6cd76b0790800797a41f8645f122c03309be9990bd4c29c",
+        "path": "data/variable-documentation/865ad2950f49e662f6cd76b0790800797a41f8645f122c03309be9990bd4c29c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2022",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "d2fa4ada063579757652afd5d2aaee363a10f2d87d701687a8de68478c25c5ca",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "50f44402548adbd1f9fb83dd726e1552e653c32dce7612e76d5864c85725335d",
+        "path": "data/variable-documentation/50f44402548adbd1f9fb83dd726e1552e653c32dce7612e76d5864c85725335d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2023",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "90b873812abbf96d1789ae5ae948f91fa19dbed9e0edd7a35cdbae13eaf3781b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "754f0217f0efb208b5a25c710c35ac7290189553ec3f55ed1d5ebcd8d8c17e7e",
+        "path": "data/variable-documentation/754f0217f0efb208b5a25c710c35ac7290189553ec3f55ed1d5ebcd8d8c17e7e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "AnnanKvant",
+      "variable": "Annan kvantitet",
+      "register_version": "2024",
+      "source_task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "id": "81f836a6af9a59aad81d653251a38844a55b1fc17906b39aff2aab551fd2dbc1",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "616924de0aa89bf0ddba4afbbcb81be1ef551d732b7b5b421d236308c12bf6c2",
+        "path": "data/variable-documentation/616924de0aa89bf0ddba4afbbcb81be1ef551d732b7b5b421d236308c12bf6c2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "1999",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "435b2bcba1855eefeb3ef9dcfced78166dbb5ade8366624b0942513663de1ea8",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0a1bf21cdac35608c28bdd643391d68d3bd1b227311c37b81bf04f8714ae6ca8",
+        "path": "data/variable-documentation/0a1bf21cdac35608c28bdd643391d68d3bd1b227311c37b81bf04f8714ae6ca8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2000",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "1373428f216c33970fcf24e4efe1fa3efc45787ee2aa7912c7bbbab21ed9cd7b",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c295d42c0666a99a2e63bb2cc79039faead6d52b585e78f677b1fb3a090fa26",
+        "path": "data/variable-documentation/0c295d42c0666a99a2e63bb2cc79039faead6d52b585e78f677b1fb3a090fa26.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2001",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "f1bb04223fd679794cc42d09d9dbaf00680fa9015223e6e67f3b290fb40d8490",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c8415cb5192170f02913e8aad98b12961d13735db57aa4eef169ed3d0a4a088",
+        "path": "data/variable-documentation/0c8415cb5192170f02913e8aad98b12961d13735db57aa4eef169ed3d0a4a088.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2002",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "4e8292baf069e559c19abe70dafb67c1f087bcad8e559cf5d95f248d254497ff",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3dcd8bcd16aee3da662fc9e25ecb08181168606fc8733fcf3830393caa4fad1e",
+        "path": "data/variable-documentation/3dcd8bcd16aee3da662fc9e25ecb08181168606fc8733fcf3830393caa4fad1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2003",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "93b62e7306dd6be2bac11f284b980a1b199d9d9b220a6e2829cd24f31c1ba337",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c5298484ba4319b7390f2c48ecb5e2a8f2187957a6ba7ad6cd5bff41e30fa938",
+        "path": "data/variable-documentation/c5298484ba4319b7390f2c48ecb5e2a8f2187957a6ba7ad6cd5bff41e30fa938.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2004",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "b3cf6b0607c8315f94cc5be25a4a02e33ae1a34c873e6b578ab1c4b71e930e29",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d1a3fc096d69f2ef088b93580be603c5537007b00de1fddfc124c11f588fde81",
+        "path": "data/variable-documentation/d1a3fc096d69f2ef088b93580be603c5537007b00de1fddfc124c11f588fde81.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2005",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "20ef2f67c989a5fbf24e943017c5b52118869ff682a51f59868f70156ed701ed",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1f52aca77f550aeb7a18f07ae5a268393ca63a69a64e6a149a442aebbbfba441",
+        "path": "data/variable-documentation/1f52aca77f550aeb7a18f07ae5a268393ca63a69a64e6a149a442aebbbfba441.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2006",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "78e92ee49bf4d86ba90f138c58d270e9426e7debbab6a473abde44a8161172de",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8e9998c4b72285d824c7f544c89ec64246500742b27376597d29b0b24a62c85",
+        "path": "data/variable-documentation/b8e9998c4b72285d824c7f544c89ec64246500742b27376597d29b0b24a62c85.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2007",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "b7b6e6c6e6da6aa898ddb77865f025773856cea67a0f75e0dc4f445111be5134",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d60bf2ad45efbeaa6e62e66cac8bf701c89897c34ecbb329f1f6d3a8ce1b3c73",
+        "path": "data/variable-documentation/d60bf2ad45efbeaa6e62e66cac8bf701c89897c34ecbb329f1f6d3a8ce1b3c73.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2008",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "285660cfc2dbf0f3644686424c43740f0534945d310ee2e171baf0d1e0b95611",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "181bd55add13b8e62a60281e6d901029fb49f24291392d3c66efee6f1b87f926",
+        "path": "data/variable-documentation/181bd55add13b8e62a60281e6d901029fb49f24291392d3c66efee6f1b87f926.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2009",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "e109b994ff13e497824e99ad7b067cbdb4468e38c5aab9706adef4ee95ed74cc",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ef818416ed5995cd9cb56f6c3c5d2878d1613599cd32f5ba656a17d8eb7c0b1",
+        "path": "data/variable-documentation/2ef818416ed5995cd9cb56f6c3c5d2878d1613599cd32f5ba656a17d8eb7c0b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2010",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "d04713d79e1b1586a6e2976e98d37f83380b244b904a32d8f85be964c1f7a2c3",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d80c5a84d64699061854a79df09c12b19b1a817bea887fb41c343bc08f4a934c",
+        "path": "data/variable-documentation/d80c5a84d64699061854a79df09c12b19b1a817bea887fb41c343bc08f4a934c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2011",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "fd0ccd7a502da8c250a2a73b1ecc23936b11056c82c842f9bcd4f21073373768",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "64973ef111eabfc50568a0059b82a756d9b9969a4054c17c244dfa94d3a04987",
+        "path": "data/variable-documentation/64973ef111eabfc50568a0059b82a756d9b9969a4054c17c244dfa94d3a04987.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2012",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "2e58c19cc79540c7dd883535f1827bde403bdd75dbaf19fe5ed316fddcd2ffd4",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c04be70b0e4c2e10ec632fa351f0a3a19788ff5fd29665165e275548db365d6",
+        "path": "data/variable-documentation/6c04be70b0e4c2e10ec632fa351f0a3a19788ff5fd29665165e275548db365d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2013",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "eb3861a49d1076b4f7203ae588702f5f47dfc3e119b5449ca9ebf1ffa0097c57",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f6be4d4f148a7be1beb402a97742987b1b2e162340632399bfbe3025ba5aaa4f",
+        "path": "data/variable-documentation/f6be4d4f148a7be1beb402a97742987b1b2e162340632399bfbe3025ba5aaa4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2014",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "c0adae46a2b69d84335d814db03c661b46e4b170aff195e17d5c0dcba3124274",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c35db89b7d7164fe0620b64380cb1c17ad9a767d5d82f6194680aca0856d9a4e",
+        "path": "data/variable-documentation/c35db89b7d7164fe0620b64380cb1c17ad9a767d5d82f6194680aca0856d9a4e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2015",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "b6c0fcb6752434a9029f4edb4fc2e8f981553d7d500af06c829618e5cf86fb31",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0b0830a10f2592c88e98e9d081695cd94feefae13bfc6b1d09d3be1c8d6bda4",
+        "path": "data/variable-documentation/e0b0830a10f2592c88e98e9d081695cd94feefae13bfc6b1d09d3be1c8d6bda4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2016",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "88539d7c5388a4ab2378991b0a308a6f4fd43f49b9bcb3eaa37b0076a86d70ae",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3601307828e18924360b5d84f647dbc122b208d7a9611cf38a4434a23f05ad01",
+        "path": "data/variable-documentation/3601307828e18924360b5d84f647dbc122b208d7a9611cf38a4434a23f05ad01.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2017",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "a897cde95adb696ef14c0f3f510ff4abfa56ec680c94dfe3109790c2c8b7aa02",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9e62f7b2d722ab4e70548a95508c9e6cf6fa3e21c08c8e58f4259a8ee42a56f6",
+        "path": "data/variable-documentation/9e62f7b2d722ab4e70548a95508c9e6cf6fa3e21c08c8e58f4259a8ee42a56f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2018",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "73f8731e8ba4d89d7d236cbbf7af13b584c43f0a9e75c589d92e0d179130b4a4",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "309c2fb055e1112e5988def9a1b56eb199f301c0961a5897290a2575c00bc7e8",
+        "path": "data/variable-documentation/309c2fb055e1112e5988def9a1b56eb199f301c0961a5897290a2575c00bc7e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2019",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "128dd17a49aec3a488c666e1d04e9b806bf42d4bc92d654ba655fd8a6e9a784a",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b10ab1ffa2fe5abd5f94092bca98a5484f2aad922075a838fb81b3a7e15445fc",
+        "path": "data/variable-documentation/b10ab1ffa2fe5abd5f94092bca98a5484f2aad922075a838fb81b3a7e15445fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2020",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "d1011e85e2184dbc2f69c4385844fd47da4c9d4c5bda0a1abd6ac24d6024c8fd",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "54838f26197852e5ff076c8711d64259cd96bfdaa0b5474edf23b5d7fe492b48",
+        "path": "data/variable-documentation/54838f26197852e5ff076c8711d64259cd96bfdaa0b5474edf23b5d7fe492b48.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2021",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "d5d93b14e55e9e3942f89c207fd2c29b452103202ec3452ed92e670626556d63",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c2d824a2a84af297a28feab8ceea992ae6e76c6bed4b688e914345601d68e80",
+        "path": "data/variable-documentation/0c2d824a2a84af297a28feab8ceea992ae6e76c6bed4b688e914345601d68e80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2022",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "2a5a0d2816523f4bfb5a3bbd2494dd273bc20fce5adf8ea8cd201c49f3dcb88b",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac6831dfcaf31d42a4ac9c6cca431489f02ed34fcd4e7b3345244333f612ca8f",
+        "path": "data/variable-documentation/ac6831dfcaf31d42a4ac9c6cca431489f02ed34fcd4e7b3345244333f612ca8f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2023",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "ff99c2d259878605f8ee727cdc31c10c0fd2eefe3612840b6c685a8dcf171a3d",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cd456c48f359e472c3b80c1a971ca987175f93ad76961c668eb5deee23b20bf",
+        "path": "data/variable-documentation/1cd456c48f359e472c3b80c1a971ca987175f93ad76961c668eb5deee23b20bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "InfUtf",
+      "variable": "Flöde",
+      "register_version": "2024",
+      "source_task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "id": "bc3327992f5c9bdb612a91225ccddab8900357ad740d8a14b15c89bf75f1b9e2",
+      "domain_id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4df0317df36e8029f71bfb8b2a2d1fd1212d0685d53f5706d9b42e99f3ee7d10",
+        "path": "data/variable-documentation/4df0317df36e8029f71bfb8b2a2d1fd1212d0685d53f5706d9b42e99f3ee7d10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2017",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "3c1ade125e68dc0f11234c357619fed1737b5bfca84762161d3a60d875cedc5b",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf985a51b6ccfe1e40a8ff56d3ab4bcf7b322f83e56559e5484c5e0a8994556b",
+        "path": "data/variable-documentation/cf985a51b6ccfe1e40a8ff56d3ab4bcf7b322f83e56559e5484c5e0a8994556b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2018",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "f439b8f50de98abf54c4738fedac9002c17eac41104272af7bcffb56af0cba2e",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a46786678fb05c8ce890629c278cb87f5b78b3b9ce4439119a76fa557eb6c48b",
+        "path": "data/variable-documentation/a46786678fb05c8ce890629c278cb87f5b78b3b9ce4439119a76fa557eb6c48b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2019",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "906a80527ac33521d507d0374b579626761ac2881793e856c47d41d511f71d13",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d59aef4a18d13e1eebd02c1ccb3c503bc36cdd224e31619f9180bef11aeaf66e",
+        "path": "data/variable-documentation/d59aef4a18d13e1eebd02c1ccb3c503bc36cdd224e31619f9180bef11aeaf66e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2020",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "183d213fbed33e8e82b1d8c0b245cc48bcf8ac8e67d3370cb5d57426bdcc6e41",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c28de4fde7ed7c190d85ae19f18e5039bbe2b3e55b9b378104b09e8c368d3b7",
+        "path": "data/variable-documentation/9c28de4fde7ed7c190d85ae19f18e5039bbe2b3e55b9b378104b09e8c368d3b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2021",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "2e6d4c9c84ccdf1b32a6517ea32da6d7802a7e268094164600a6bc46a0a107cc",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db152631a291ca1526ae030c172dc8b1296dbaa3926991a73dc36ecc1dc53d82",
+        "path": "data/variable-documentation/db152631a291ca1526ae030c172dc8b1296dbaa3926991a73dc36ecc1dc53d82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2022",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "cc3853f7cab4e9cee9cb402facf83aa086cf76c5c800673289b5575abdc417f4",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "521b73789f4559b09f6efbfe2be991130c393cbc39f00a0be4bb671df1d59fb1",
+        "path": "data/variable-documentation/521b73789f4559b09f6efbfe2be991130c393cbc39f00a0be4bb671df1d59fb1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2023",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "45396b813c017c59dafefad15c2911a8d1e010a10b367a72922f4b26707661e6",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d842e62143787b2dc802ed1296b26f64251d964fa7de596346d097bfe4d93798",
+        "path": "data/variable-documentation/d842e62143787b2dc802ed1296b26f64251d964fa7de596346d097bfe4d93798.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Land",
+      "register_version": "2024",
+      "source_task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "id": "2cc3b7574eb4d8736fe40609d84232891f9d3e2346e08cfa7d4488341ed0c6e0",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "82ffde7aa4d9107fcfa0b29ccd7c21f6f41818ff7e749ca3fcac84001414622f",
+        "path": "data/variable-documentation/82ffde7aa4d9107fcfa0b29ccd7c21f6f41818ff7e749ca3fcac84001414622f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "1999",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "ee8ff3755d5247fe9e1f83151bb1674444a61ba5cab53c976d51a034ac680c7d",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8223a7ae4b968e954b36978763097f7d7588fb092f8f2d497820f784bc583ca5",
+        "path": "data/variable-documentation/8223a7ae4b968e954b36978763097f7d7588fb092f8f2d497820f784bc583ca5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2000",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "809acd4b097f7db84bec04d56898b549e5202931abc0618c68e3c339bb2a3db5",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b0d3ea24e062996011e1b72b57e684a99227c71e91c4fc731986af963e0ce600",
+        "path": "data/variable-documentation/b0d3ea24e062996011e1b72b57e684a99227c71e91c4fc731986af963e0ce600.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2001",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "78aabd0e8de27bde73c5a159ca7b1125b2897fb9adba14a39ddf0a25c57936a0",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "52a958242bb1531c5a7f8e764977bedc37c46ca6e1f847b0036b5c4eb1cdb60b",
+        "path": "data/variable-documentation/52a958242bb1531c5a7f8e764977bedc37c46ca6e1f847b0036b5c4eb1cdb60b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2002",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "79cba85993886322534b532b04de2b1b4c5ebbd884ce1caf15f7bddf19b7319c",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9263b18d038158f9e66b569aaff471ad9c045b6d2190c71a47b61b2d8e573fd9",
+        "path": "data/variable-documentation/9263b18d038158f9e66b569aaff471ad9c045b6d2190c71a47b61b2d8e573fd9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2003",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "e348e74cb3719cd503697d7163ad3b24e3064fbad4e97d39d708f5c781788c8a",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "93d8e84dced1c593b83662053b2cb244c3ea023b2e421e61ff1ff878672112b4",
+        "path": "data/variable-documentation/93d8e84dced1c593b83662053b2cb244c3ea023b2e421e61ff1ff878672112b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2004",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "88d979cec5abb6484c0bc190cadb076fa387434afd054c42f267b1c436d4b285",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e36747d38d1a91d95fbf8abb7d91ed23588762d2b94072ecb2bd04cde4fde9fc",
+        "path": "data/variable-documentation/e36747d38d1a91d95fbf8abb7d91ed23588762d2b94072ecb2bd04cde4fde9fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2005",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "738b26a75806f02f581d5df050316f93acfcf2159fd5fbd2d49865bbc31d5e9a",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d53529ce44e275eecdeee440f11104c3c1c84bd2ce7d1818fb40f8ef0e19a40",
+        "path": "data/variable-documentation/7d53529ce44e275eecdeee440f11104c3c1c84bd2ce7d1818fb40f8ef0e19a40.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2006",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "408ee2244b87770e34bef12f781b7fb9de85b649b365587c9334dd3e9a8650b3",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cd4a0ff5c557d51bccaf63b8ecca55177f28117432b439e3d9127548fac65874",
+        "path": "data/variable-documentation/cd4a0ff5c557d51bccaf63b8ecca55177f28117432b439e3d9127548fac65874.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2007",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "9ecb7459bd5af52d583d7da7201b523c2e51b40c2511e70c31b3c0834398dcbd",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f4237062600a24e2a137e458f733b2330d9567e576b9d5ae92de361e8cbc6d73",
+        "path": "data/variable-documentation/f4237062600a24e2a137e458f733b2330d9567e576b9d5ae92de361e8cbc6d73.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2008",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "3620ef67c0f286c19bdd093b04ae98514aff244d8e6655cacbf046a756103c20",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e7abb671f4973244ac3419fad499face807763d4230e706f4b60624d24b2cb1c",
+        "path": "data/variable-documentation/e7abb671f4973244ac3419fad499face807763d4230e706f4b60624d24b2cb1c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2009",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "aa16bec58eec65f7c632ce728787fc4775402bb595492c42fcec0cb05245c440",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fb0238187d4918b224d21c98c13b6ca3f40f630a2acb7e38836cc2785e2c2d4",
+        "path": "data/variable-documentation/1fb0238187d4918b224d21c98c13b6ca3f40f630a2acb7e38836cc2785e2c2d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2010",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "dd96f350617155466c6a7f8d133b0e4d4c863f030bfb96a71f0772dc61f9d4f0",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3b7da63cde1e38ec7d7aeba41e3a5f0bcc60a2edd8557f3b471de9b6fcf35344",
+        "path": "data/variable-documentation/3b7da63cde1e38ec7d7aeba41e3a5f0bcc60a2edd8557f3b471de9b6fcf35344.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2011",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "6dd89405a98dc22b602f888b422cec52a436bab6f73f39b8380d27d1446259ce",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "24c36e49d54f0a84c28060a1dfac4249cd8ad63318f226d24a5c4d6babe0c696",
+        "path": "data/variable-documentation/24c36e49d54f0a84c28060a1dfac4249cd8ad63318f226d24a5c4d6babe0c696.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2012",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "cccee1606c4e563396786233c79a31a2b64e918c15868999505fdae9d7c523c3",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b2db06f7b95896764c7051a4838ac4799a3510ef4cf51b3172ecbb36d3063bdc",
+        "path": "data/variable-documentation/b2db06f7b95896764c7051a4838ac4799a3510ef4cf51b3172ecbb36d3063bdc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2013",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "8a32fc22c51e5fe4c1ed1ea17391ef9e5876443ea8d80a9de33bb8bb8a764781",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "39845e0c1814b451eacbe5fc7fc971eba3087be2e5d34bac4642cfbd8b7303e3",
+        "path": "data/variable-documentation/39845e0c1814b451eacbe5fc7fc971eba3087be2e5d34bac4642cfbd8b7303e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2014",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "bcdc1d157c1b194bb0f47787e9b3cc23f3fb76180e0cca47784b08b8e91b01fb",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d8b1424e8e95e99971d8d0b56601289e0b9b619a79f6b4e2fb6deab39ec19e0d",
+        "path": "data/variable-documentation/d8b1424e8e95e99971d8d0b56601289e0b9b619a79f6b4e2fb6deab39ec19e0d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2015",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "343c3a84d02fbebf2a14fd839c8c357a23a08087cdebb0f38d890440fa72cc36",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e480f9759544b79cfb16c20577eb9612c1110232881499232fee252e6a23f1d7",
+        "path": "data/variable-documentation/e480f9759544b79cfb16c20577eb9612c1110232881499232fee252e6a23f1d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Landskod",
+      "variable": "Landskod utrikeshandel",
+      "register_version": "2016",
+      "source_task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "id": "df07ac5aa9793419450c62e3dd7703d2a60e51742478312e2badb8103d83176c",
+      "domain_id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad66a7dcd8dcfd8dc7633533321b1fca41b812144c324cf44c3450b319e89996",
+        "path": "data/variable-documentation/ad66a7dcd8dcfd8dc7633533321b1fca41b812144c324cf44c3450b319e89996.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "1999",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "1313bd2f2e906fc3e16415f7231049649b5ffaf4605036efa24efb60e30c009f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "751df8443bb3276e21bbd30f4582314891e0b305f0fcb817324c07a112f528e7",
+        "path": "data/variable-documentation/751df8443bb3276e21bbd30f4582314891e0b305f0fcb817324c07a112f528e7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2000",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "9d0ca6e143e3f975244ca53143ab59b20983f916821723c251578c34d7cf3046",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1d6c7bd70b65256e368fbd0fabd6d77ace4a1318992389f00c6dc5376333d792",
+        "path": "data/variable-documentation/1d6c7bd70b65256e368fbd0fabd6d77ace4a1318992389f00c6dc5376333d792.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2001",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "b393ef8b0e930bc72a6daa73d206e7bdd9702ba79353b4f2327a0da0ffcd810a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dfd2f8caa9aad151516cf84d6be5f2854d43acabb526def9fe23fa52496d8203",
+        "path": "data/variable-documentation/dfd2f8caa9aad151516cf84d6be5f2854d43acabb526def9fe23fa52496d8203.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2002",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "26a1305e7768900c17b802f92aca394412fddba8a3dcf223e863b2bb7de4c559",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5978c88aadd74081c5f1f726a29c1d3d3a24476a12b4ae63de20a2a3593cd202",
+        "path": "data/variable-documentation/5978c88aadd74081c5f1f726a29c1d3d3a24476a12b4ae63de20a2a3593cd202.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2003",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "820ec1fbda5f877af402f03a6c4583baff9478718326dbe0d6ca78fafee10e2d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c5c4b5ac736ae542ed97d776c951f788b16b33ee67a65dd0ae02a3e1ca7aca8f",
+        "path": "data/variable-documentation/c5c4b5ac736ae542ed97d776c951f788b16b33ee67a65dd0ae02a3e1ca7aca8f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2004",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "49e9cef0723d11ca3de104f93ba9d30b9c4ad7f6714e9a5523d6675a14302d74",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "13b80ada8c8d1fbca4b848e9311af3c1739bd00224a84f84731a5d5596a22dd2",
+        "path": "data/variable-documentation/13b80ada8c8d1fbca4b848e9311af3c1739bd00224a84f84731a5d5596a22dd2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2005",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "63faf4af343a7bbf356cc1690c8dc043a9555cbb6712a86ac9f95fc998eb69f2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "891094d263907be68a22185776e42f226744abb6e3c52b3b54730e24fb8cd871",
+        "path": "data/variable-documentation/891094d263907be68a22185776e42f226744abb6e3c52b3b54730e24fb8cd871.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2006",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "01816a7cdb5ce497d4548c487689ae8abf190a432117ddbd0a20c6a43bd71aec",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cdbf88d24b3dbf180eb10d910e70b73d0b58652672436f77dfa271edeb2abf3c",
+        "path": "data/variable-documentation/cdbf88d24b3dbf180eb10d910e70b73d0b58652672436f77dfa271edeb2abf3c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2007",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "8f0da601ecfcd42638dac7c66cbf197b731278a92cfa27476d1894048530a1ec",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "189a437af50f2372c40beb346106e45f6c5c3895c35e54795b082d257cdf5c24",
+        "path": "data/variable-documentation/189a437af50f2372c40beb346106e45f6c5c3895c35e54795b082d257cdf5c24.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2008",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "46c66bf2c30f3be70a84e55a8b96ec55e547b3ff94ca5445920960fd6f7d2b41",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0fa00eae0b6ba8e73f5789ee1c6552f0cf0a47543eb6fb9d8671141e92c115ce",
+        "path": "data/variable-documentation/0fa00eae0b6ba8e73f5789ee1c6552f0cf0a47543eb6fb9d8671141e92c115ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2009",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "13156a1f682f0bfb95883b065c092cd0d5f86d27cf0c4109a85fa9822931f23b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e5e30eaff71acd084f4a4d2e7ee9729fb3487407c7d3d26d9f079c3745560b0",
+        "path": "data/variable-documentation/6e5e30eaff71acd084f4a4d2e7ee9729fb3487407c7d3d26d9f079c3745560b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2010",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "abeef7b3867cdd1e64edee7b3bfbdebc87c79b44918e8778e5c906e6ca5f05fe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dff4fede260f9891da9683126f2930d1928770122e3479a3bb067a96769cebfb",
+        "path": "data/variable-documentation/dff4fede260f9891da9683126f2930d1928770122e3479a3bb067a96769cebfb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2011",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "770e07448e182dae93aaa67840762fa09f3aa690f9f15b36907dfc48c83a05db",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79a0d9b30171829db7f48f54fff32eb96602eff585f30e3f753f12ecd800d130",
+        "path": "data/variable-documentation/79a0d9b30171829db7f48f54fff32eb96602eff585f30e3f753f12ecd800d130.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2012",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "4df177fbe3c5faa8aeaccfb5653cf68626fe0af8fb7a0d632c97b9e66676269b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1967324fa8df2e1072139015f3f80c6bb3a096d2c7ba7e13c16f76f6b81eee09",
+        "path": "data/variable-documentation/1967324fa8df2e1072139015f3f80c6bb3a096d2c7ba7e13c16f76f6b81eee09.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2013",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "55950ed086a571fe3720769cfd59275bfd83a125835239cc013001f8f50a31e2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "21ea0bb8674ae5460d41992abb0dac25d750cff957ecacf8d124c5c60736eca9",
+        "path": "data/variable-documentation/21ea0bb8674ae5460d41992abb0dac25d750cff957ecacf8d124c5c60736eca9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2014",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "459c84aafb9ddec05108249ea5611ee9f1cf91c21d637617667544ba2559181f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41e25a537080f15ee98b9e517be366272e69967a5fde989962f27d0e0dff539c",
+        "path": "data/variable-documentation/41e25a537080f15ee98b9e517be366272e69967a5fde989962f27d0e0dff539c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2015",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "6de06d01145214867216967f957dfe642d404f0a52ff0dc3213a713d5750978e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6687e43b5c4951d2a5f9a430d15c8ba41880c7ca75a60d3bd18c2f028245b06d",
+        "path": "data/variable-documentation/6687e43b5c4951d2a5f9a430d15c8ba41880c7ca75a60d3bd18c2f028245b06d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2016",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "3c6b75084bf95665e69bd3b0cd3496ef8bf0857b66775f38abecf8a3690f0f4a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a8c7591a3ec8cfe71b29d3f148212273b6be9560dfdf52ff7763e7460050c1e2",
+        "path": "data/variable-documentation/a8c7591a3ec8cfe71b29d3f148212273b6be9560dfdf52ff7763e7460050c1e2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2017",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "6ffe6d11662ec8d6bf964931abc00693788fe6b9a2c25984686b6f4f6d9b4753",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "85958c78e9270538f13868a0988cfd792bbd31180edf77f15e4b4991b48da109",
+        "path": "data/variable-documentation/85958c78e9270538f13868a0988cfd792bbd31180edf77f15e4b4991b48da109.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2018",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "718b5123ac93623973f335370ac2060bf377c808133cb9bcfea310f4a0cee4d4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c635b7edfa33dd53340c5086afc2339df6902e1ae9ee1f93407ed9d9fa8a853a",
+        "path": "data/variable-documentation/c635b7edfa33dd53340c5086afc2339df6902e1ae9ee1f93407ed9d9fa8a853a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2019",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "9c096bfc9b82f7552f58a7ff8a132a57c950a5d3392f7a87b000971b7b6dedd4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e4a2338dff8553b9a58921b86ed48fb5eb1f4f2f79c21f5a07259c002642608",
+        "path": "data/variable-documentation/6e4a2338dff8553b9a58921b86ed48fb5eb1f4f2f79c21f5a07259c002642608.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2020",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "0dfa42102583c5c7b1a4aeab11902035f2ffcc41f7e99f51da881406f45add80",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8778c54e593cb48008e80fd43c24b4748f8c58eccff9182edf03b0928e2a4b3",
+        "path": "data/variable-documentation/c8778c54e593cb48008e80fd43c24b4748f8c58eccff9182edf03b0928e2a4b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2021",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "48d9d4c32a60f3b164a6ff8bad9958e38cc4fea9fead22b747c139e64848cafe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40ab2efd7df62ddca8cc8c7029997da8c6e30facc57df1ca8cd383d54bd64df1",
+        "path": "data/variable-documentation/40ab2efd7df62ddca8cc8c7029997da8c6e30facc57df1ca8cd383d54bd64df1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2022",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "3d16a1ec535a871e512f4961985d6f907c82ecbcb7f3c6e03fdff63616f311b7",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3156866099fba00af678ad5f31d1d30c66793e524aa6a7ba819f653d2a72fcce",
+        "path": "data/variable-documentation/3156866099fba00af678ad5f31d1d30c66793e524aa6a7ba819f653d2a72fcce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2023",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "b71811ba636026e396b095465a19f38b9695e432cef1c517f5722fae99df1df6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ca74cde8c432e4f739ee1e0e4f300c5adeb0a3b8e260fdead808ad56dd53f74b",
+        "path": "data/variable-documentation/ca74cde8c432e4f739ee1e0e4f300c5adeb0a3b8e260fdead808ad56dd53f74b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Fakturerat värde",
+      "register_version": "2024",
+      "source_task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "id": "5ac1931d1700dc7a9910b45ed75cbd2edd1d1f6d4af941b2d26eba1cb71b1f68",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d26c2a00e32e96a793c639649893658c24cd150a8753e8f5c8da9928275dfdf0",
+        "path": "data/variable-documentation/d26c2a00e32e96a793c639649893658c24cd150a8753e8f5c8da9928275dfdf0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2011",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "a74ac428eab4c09d51f6b152b3e6b617f15afe13354834ac645286cc520667b4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb692643b71d8e098cc0b6ee282fe14fe6c642e6973a718d1f040b139c004e5c",
+        "path": "data/variable-documentation/fb692643b71d8e098cc0b6ee282fe14fe6c642e6973a718d1f040b139c004e5c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2012",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "b464e74da62d154998a5042e59b2a93ac78998da90898b5173ab86172b9dadc4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6191d9548e4933177141bd7b06e701582531f383285152f6dcf856ea4f1b090d",
+        "path": "data/variable-documentation/6191d9548e4933177141bd7b06e701582531f383285152f6dcf856ea4f1b090d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2013",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "55a43af365ce02821b1c58c55343fab3c9afce6d11290632cf337606b81dd600",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "192be76d1d3045a58690dda4c31f8d3631845fcd3f0cf004d2a6ff5ed8b9a7ec",
+        "path": "data/variable-documentation/192be76d1d3045a58690dda4c31f8d3631845fcd3f0cf004d2a6ff5ed8b9a7ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2014",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "6791711e4cd23ccf3f30911f113bb75fd1a06cf41518712da71b961984357653",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "075543fd389c21a06ec89bd495a4701b3400586157d4be5db48d1f112f843517",
+        "path": "data/variable-documentation/075543fd389c21a06ec89bd495a4701b3400586157d4be5db48d1f112f843517.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2015",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "5f56bca5e4b074d9e726e1a1b2c830b6de211d083b23ff310e613347e31d00c6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "693bc7fff2d29cac40de83dc4fc8c476ce3121ec9599b32ebf9e8a3f5effe315",
+        "path": "data/variable-documentation/693bc7fff2d29cac40de83dc4fc8c476ce3121ec9599b32ebf9e8a3f5effe315.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2016",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "6bcffaede5fb1eb2e5f3933e4641bf57d55a89fa5982cb7958b4fe5d9ad0a5cf",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8537432f2ac05c8903077f859418a7a95d68ef9d2947469897aec5e4ffc8e2d",
+        "path": "data/variable-documentation/b8537432f2ac05c8903077f859418a7a95d68ef9d2947469897aec5e4ffc8e2d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2017",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "3bdfe8d5204128abdffae224ee56b5099a4cdd0f4193302627f117fdd9131903",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c31ed15c31ad9faae4ec566afaf97be17a9a23834a221c81342c2bd58f9ffed",
+        "path": "data/variable-documentation/6c31ed15c31ad9faae4ec566afaf97be17a9a23834a221c81342c2bd58f9ffed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2018",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "bcaf4893041b2efd4c176b3a106ad1b9e794de1528bbebb7e29d71bfb1815492",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c1cc271315bb77d1f2005e03802e552eb8580744aa13d8c1f4c7de90cf84854b",
+        "path": "data/variable-documentation/c1cc271315bb77d1f2005e03802e552eb8580744aa13d8c1f4c7de90cf84854b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2019",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "f4f0062b4fdcfd7a09a531d8ac39d1f21f0de35bccfaa587a582d0678925f416",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4ea6281b17449bda4df41a357da8bf33d31aba0b8567dd8df90549cbd1f4c9b1",
+        "path": "data/variable-documentation/4ea6281b17449bda4df41a357da8bf33d31aba0b8567dd8df90549cbd1f4c9b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2020",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "c9fcc2ede81667e9fb0e4ed5cca3bc803214a71f537a7e3c874177707fe2f9ce",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ccf7c308eb0e68d7b74a05148f6c366a519ccef4368258b6ee9fb1f1fff9a6fd",
+        "path": "data/variable-documentation/ccf7c308eb0e68d7b74a05148f6c366a519ccef4368258b6ee9fb1f1fff9a6fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2021",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "5ac991c782463b44e8a046fc4cb2e1d89d5997a8d330867c43a570ba63ffa767",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b14f83af4c3b185a59cb9be8326b1c851c9840fe0aa9282b7c423b51d674cff2",
+        "path": "data/variable-documentation/b14f83af4c3b185a59cb9be8326b1c851c9840fe0aa9282b7c423b51d674cff2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2022",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "78d267b65a7ce8cd256dbd9f4c61d4f269a88071d947155849d8af7caef858c4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c9ba7a057c05bd219aec498494ecd1800c35b806a03105653108df3f3226fb70",
+        "path": "data/variable-documentation/c9ba7a057c05bd219aec498494ecd1800c35b806a03105653108df3f3226fb70.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2023",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "9926ce2f07407cdf5f9640c351a612507bd94eaae0a06fc0b2082f3f403a607e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3ca15d4b402c18ee2e07bafbe8e6d03d7c89325fe50b9b81b25838a0b93b5bc6",
+        "path": "data/variable-documentation/3ca15d4b402c18ee2e07bafbe8e6d03d7c89325fe50b9b81b25838a0b93b5bc6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varde",
+      "variable": "Statistiskt värde",
+      "register_version": "2024",
+      "source_task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "id": "b481ea2de44a201587dc288a70bec6ed7450029eb6edb4c0af310a74c5b50ebe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8b53317a2989c0a0551cbc6d29fde1a34024666b89d6dfdeaddecce2e1482a2a",
+        "path": "data/variable-documentation/8b53317a2989c0a0551cbc6d29fde1a34024666b89d6dfdeaddecce2e1482a2a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2018",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "392e1222edde4c6e52595005a651334c3e4d4605afbd8068ee8edb3d8fad025f",
+      "domain_id": "9f80250856b894cb269327415bedab9a1c37aed4c5c9723d82c609c8947774ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4d62b166967e2acfd32fe0f34f36d4407e07f0ebfab07c18a96e194d06e64578",
+        "path": "data/variable-documentation/4d62b166967e2acfd32fe0f34f36d4407e07f0ebfab07c18a96e194d06e64578.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2019",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "13dc123a8af20b6220083b8f64bd6427662cc90ecc66806cb73746db42f4b9ec",
+      "domain_id": "1c43c327abd8ba9b46c5bc831cff8a3185a04e86d2eade7d0ef20cdd3789cd18",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad30c4c79e2664961dd9cca0ed9f02451899c10a65b0baaa300b47ac8a01fad8",
+        "path": "data/variable-documentation/ad30c4c79e2664961dd9cca0ed9f02451899c10a65b0baaa300b47ac8a01fad8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2020",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "1619a4a74d0b787964c4ce63845947ad3102f875d296655dbd80c202ea937ca9",
+      "domain_id": "07071ca4384a3428b28b799dee21d1f7d0c917460aabe8f6c1c9d54ade0ee6f3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b2b59bebcb3b731bfdc13e53aba016c5ee2deff7d12b484be4c801acf8b25fae",
+        "path": "data/variable-documentation/b2b59bebcb3b731bfdc13e53aba016c5ee2deff7d12b484be4c801acf8b25fae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2021",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "6867af9f4fb5b887d4168c6bb6166234f9c0de4e394d84281970ba47fbe6c27f",
+      "domain_id": "60399d7b14bb2192610238534a8ed2374dc875b83975426a59647e00693333ee",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c99b90db802b2d8319525e1c8eaa024a8af5d5e2c82589ef28de1fb7b1bff66a",
+        "path": "data/variable-documentation/c99b90db802b2d8319525e1c8eaa024a8af5d5e2c82589ef28de1fb7b1bff66a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2022",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "9c9c526b18031d54d9fdeed696bbb39ab56217ab5ea2367e07fc32a24fad180b",
+      "domain_id": "9e986a2fa38f13d52c14c2206a10660b9e460c4a1d50128e00ff63feca133453",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c7956e11f2cd0ca150b78868a822b4f799aa8a8da33def5b26cfed05df1844da",
+        "path": "data/variable-documentation/c7956e11f2cd0ca150b78868a822b4f799aa8a8da33def5b26cfed05df1844da.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2023",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "565e61144acae2be1cdd7a8b332a548710bfa0095849d6ed08ec6a01e888fe70",
+      "domain_id": "1d57ba65964b1ed7470465e2597e7ccb3783a7457ae4980148574d8f20bb4910",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "685aad9bbe33e46e1f2333f794a63e0bb0e87db8447331b85e4dbe4460666c9b",
+        "path": "data/variable-documentation/685aad9bbe33e46e1f2333f794a63e0bb0e87db8447331b85e4dbe4460666c9b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
+      "register_version": "2024",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "2ba23877a6b875e621a455085ea3a27d8da32dcff37e96cdea483a6e9dc77a92",
+      "domain_id": "66e2018e5905c2c926641eea1d79b5519970e42b921a46806a9fa88c8add061b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "addefdff23b8a42efbbd5a1a3d0c7a45f38bfb5a0a10dd037c93efd5d0cf5e4e",
+        "path": "data/variable-documentation/addefdff23b8a42efbbd5a1a3d0c7a45f38bfb5a0a10dd037c93efd5d0cf5e4e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "1999",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "22ef24968bb8a3141ea223e12ce75bdc38f6ad08e80340f13951643d9fd6e7e7",
+      "domain_id": "fac760047d2fe580c753f7ccb36c58cce924e10bd8ff2ebd957a01f09cadab2c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c90e57a5da294e66dd03a5b00d12eabc4ff8a75d4c780d75260c4b925b596901",
+        "path": "data/variable-documentation/c90e57a5da294e66dd03a5b00d12eabc4ff8a75d4c780d75260c4b925b596901.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2000",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "dde5f8b6e0d9623adb04fe013cb60b9ab1050db5dcdb7ef343e45779a28bdaa4",
+      "domain_id": "b2c94410046643dd839350e054021f31abc35106f9da0de6443b0af3039de0c5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "91a61ac20b73e4434f9b9e3c5ff24f4ceed7b00e42dbe6c4781918d0d24fa252",
+        "path": "data/variable-documentation/91a61ac20b73e4434f9b9e3c5ff24f4ceed7b00e42dbe6c4781918d0d24fa252.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2001",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "a3bf975a9f5661a28f4f7b8acdb3be8e811e7e36c069da0d4db210f39b03a6ac",
+      "domain_id": "4a3575b156a9166828a755a64f0e8b92708995e34711451c45b67683be3fc8f2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c5cce9f7cc7e92025f9b67259c1f5e833ecb6d7f3e7004da69e71f8b560c6e14",
+        "path": "data/variable-documentation/c5cce9f7cc7e92025f9b67259c1f5e833ecb6d7f3e7004da69e71f8b560c6e14.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "1999",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "d982060110dee98c8d3446c40d0c9275d4d748e6b8f86c9eacb2a46eb10ddc74",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69b4799f45be4740a6ff6b991a307a1376eb7a9305d39763c2788c6bfdaae474",
+        "path": "data/variable-documentation/69b4799f45be4740a6ff6b991a307a1376eb7a9305d39763c2788c6bfdaae474.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2000",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "5504324279de6a9496ddaa5f594c39dc613443f79cf7076277182f1fccd11ab2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7637a127fe41da8bee5ccc6a1d17f92547fdcd6756d9d61577b486824fa7e8bf",
+        "path": "data/variable-documentation/7637a127fe41da8bee5ccc6a1d17f92547fdcd6756d9d61577b486824fa7e8bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2001",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "6ddfe3822160e50d684154cc324c3b0891c9043023930cadb78688601b5f7c05",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "151faf5b7da4884867b496593aeca7105b6c8f2b6e7813a9fac962c9b5664575",
+        "path": "data/variable-documentation/151faf5b7da4884867b496593aeca7105b6c8f2b6e7813a9fac962c9b5664575.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2002",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "2ab255a221a2d57af7de437137547c8d14be27c22d65ac9df29bc52d4664632e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ec8128bab802d0da295ec090964b47f07cf7c279db948836ed9347d4495e63e",
+        "path": "data/variable-documentation/2ec8128bab802d0da295ec090964b47f07cf7c279db948836ed9347d4495e63e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2003",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "8798fea5a19a44e8953c256d00328c58e6ebe0da5b4c7825ef8b6d5082078217",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cdd85654a483ac137d9521f511d00044ff2d0a99d3ddac9faa7068b0bba57168",
+        "path": "data/variable-documentation/cdd85654a483ac137d9521f511d00044ff2d0a99d3ddac9faa7068b0bba57168.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2004",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "735c7dafb19b458cba6e836a72780254124e325fc1ae9ffb066c751e77886861",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8575e72abfea2ab1151d4e95a4dec62d76c5cdface5c23172437fb6d06cd73b",
+        "path": "data/variable-documentation/c8575e72abfea2ab1151d4e95a4dec62d76c5cdface5c23172437fb6d06cd73b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2005",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "57a01506ad4eda53a38d0116c0ab362fdcfeb371fbf74eef8559d46dca8aacfc",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "498186e4d6837b6d492db332379b95b7f1800c351fee516a66adb13d1cf83197",
+        "path": "data/variable-documentation/498186e4d6837b6d492db332379b95b7f1800c351fee516a66adb13d1cf83197.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2006",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "1f9e9195fe2cc23d906557589a741fa8fc0d66229425e45676e44dc30812b758",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d10c00d840b5e364297e6423225850c83d9b1a5ee5ca996ded89119a9eeb23e1",
+        "path": "data/variable-documentation/d10c00d840b5e364297e6423225850c83d9b1a5ee5ca996ded89119a9eeb23e1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2007",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "b74da2bab7dcf646f65c173c7f35414328cc62436151fc564e5d2f941b4dab92",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a8792aed4aacac8faf1dd69dc5a9a81f512647a8283e064b3e610bddf2d7e9bd",
+        "path": "data/variable-documentation/a8792aed4aacac8faf1dd69dc5a9a81f512647a8283e064b3e610bddf2d7e9bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2008",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "dfa1942c8355c025c390f23a5f0dfc53526b782eb36924ea83d4edeb04989095",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c7b7d3e05e281972d7965e695000aaf97e2e98109afe4dab95b04754b454b127",
+        "path": "data/variable-documentation/c7b7d3e05e281972d7965e695000aaf97e2e98109afe4dab95b04754b454b127.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2009",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "cd1a6a69d8171c61c368327923629d8347eecc8f106e748fd9292fe1b7d83d24",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e05b5a29a5ea6d0fcde9fd3ae070b06eb8e4925fdfc2ee0cf4dddf12a7783504",
+        "path": "data/variable-documentation/e05b5a29a5ea6d0fcde9fd3ae070b06eb8e4925fdfc2ee0cf4dddf12a7783504.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2010",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "3aecb7da285a6b46dde4b7ccaf44d0ce8fd7caa81e1358a9b4bf7ded099bf0cd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5f4987295fd11073c05307888be3f0669f4667df3dfe452ed0463479b108813",
+        "path": "data/variable-documentation/d5f4987295fd11073c05307888be3f0669f4667df3dfe452ed0463479b108813.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2011",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "93c78525d852fe850ee6b997ab54825c60c9f648ae128e810e980f409bfa2b15",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "00397bc71c20cc4f6e5da6b250329cdb17fbd83d2fb1ac753bedaa26e3d296ec",
+        "path": "data/variable-documentation/00397bc71c20cc4f6e5da6b250329cdb17fbd83d2fb1ac753bedaa26e3d296ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2012",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "5f5db6f042027ca62b2d198f634f1d7df38d04e1ad24cbdaea2842580945c3ea",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a9471947788f4e0ed80db9ad0fd3ed7dd6a323625356164c44ba8d47aecab326",
+        "path": "data/variable-documentation/a9471947788f4e0ed80db9ad0fd3ed7dd6a323625356164c44ba8d47aecab326.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2013",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "631d4aa99cb484d575a5ff285d1eb58f2abc661b98181fa749282b3005239a3f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f229c8ba9d4d93ad3011687c2695d244487760d2881e84c7dab6cc0d390c3444",
+        "path": "data/variable-documentation/f229c8ba9d4d93ad3011687c2695d244487760d2881e84c7dab6cc0d390c3444.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2014",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "00c23710ea06938289cff3d7de9e3a6d6c0b6448f5b5eb93e4f3fd2092fd554c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd419ccd1100238a2cd90026bd15717ac2e0f6125d7340cc419dbacb1a682d04",
+        "path": "data/variable-documentation/fd419ccd1100238a2cd90026bd15717ac2e0f6125d7340cc419dbacb1a682d04.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2015",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "6cfc20fefadacb273034ad972b4d7532c39887eb64a1fd60ca03f172f34d2ba0",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f1484cc2f0561d9e09a099cb8a60dd93dc260d3b27ca6d28e3378272b40956d",
+        "path": "data/variable-documentation/0f1484cc2f0561d9e09a099cb8a60dd93dc260d3b27ca6d28e3378272b40956d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2016",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "419289ec51d9799ad45057fd53a5e5173327a5ad7b511100299bcef83dd2b9b9",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "99cc81cbca9682c79bd93dd950a7a0ddb13ca6a88d88b7118f8cc5fc9c2dd146",
+        "path": "data/variable-documentation/99cc81cbca9682c79bd93dd950a7a0ddb13ca6a88d88b7118f8cc5fc9c2dd146.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2017",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "4f6e7bcadbc7d258889245da84629d729539df6d42675a4082338e404ce967bd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a415950c2d3c9572cda75f364b36aa0e1b761063f4affafbee15f67c1655b781",
+        "path": "data/variable-documentation/a415950c2d3c9572cda75f364b36aa0e1b761063f4affafbee15f67c1655b781.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2018",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "f17313ace67980190b6c6404b69b81a05ad8788a51cdece3829e38c6bdae2406",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "796101fcd55fdf096052425468145dbf42a2f76b390c9f8969af15160f8894da",
+        "path": "data/variable-documentation/796101fcd55fdf096052425468145dbf42a2f76b390c9f8969af15160f8894da.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2019",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "e40891f53ef38d6fab17cad2a0a45ce3f84158528ada48b0e1c21389913e1fa6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c496a90a7cfc5e1f55200fff2e0a07229d31eadc5c54af0ac1da17be8fc45e19",
+        "path": "data/variable-documentation/c496a90a7cfc5e1f55200fff2e0a07229d31eadc5c54af0ac1da17be8fc45e19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2020",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "b70a2e2b16593b8a97b8d7d02d87b2411116dce260d0858103c059af160b5c31",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0584da044f9c106d8eef7efd85ad35f35ea7d5e03b9c94f1f6ce66a9da8252e4",
+        "path": "data/variable-documentation/0584da044f9c106d8eef7efd85ad35f35ea7d5e03b9c94f1f6ce66a9da8252e4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2021",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "42421be44c9eddea410f8ce9d269eb16a2fbf7860dd00dac935d45e32b7bf992",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b0decf4c77e40ebd51e1789537397a2900a15dde2c2287d269db7948762201e",
+        "path": "data/variable-documentation/5b0decf4c77e40ebd51e1789537397a2900a15dde2c2287d269db7948762201e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2022",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "99e968bf2573083cb1d817a43d9e2b81dfbe14d6becb915298d67e20334feef0",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed0c58fdb7e79c438e32e1f7fe13b652ab73b2e7c03293d515fde3d9e75dabdd",
+        "path": "data/variable-documentation/ed0c58fdb7e79c438e32e1f7fe13b652ab73b2e7c03293d515fde3d9e75dabdd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2023",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "335021bca2b1bb8f494059f93b4ee30bbdde151937ed1e863371a1d4945373b4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "afe165b71e637163dcd1426d27eeb95bb33b328ced1f5e0c4ad75eb9d558ce39",
+        "path": "data/variable-documentation/afe165b71e637163dcd1426d27eeb95bb33b328ced1f5e0c4ad75eb9d558ce39.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Vikt",
+      "variable": "Vikt (kg)",
+      "register_version": "2024",
+      "source_task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "id": "ee5c710fb97862d7c795e989e49add57c5fa2ffda60b83a90f7c2c8e17eca253",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:19:14+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "459a8697814930101c46b8bb1e9a6f35fd2efb560859077daa10f13fbb4e5c14",
+        "path": "data/variable-documentation/459a8697814930101c46b8bb1e9a6f35fd2efb560859077daa10f13fbb4e5c14.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Kombinerade nomenklaturen 2020",
+      "level": "8-siffer KN 2020",
+      "data_type": "int",
+      "id": "07071ca4384a3428b28b799dee21d1f7d0c917460aabe8f6c1c9d54ade0ee6f3",
+      "value_count": 9483,
+      "path": "data/value-domain-values/07071ca4384a3428b28b799dee21d1f7d0c917460aabe8f6c1c9d54ade0ee6f3.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2019",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "1c43c327abd8ba9b46c5bc831cff8a3185a04e86d2eade7d0ef20cdd3789cd18",
+      "value_count": 9533,
+      "path": "data/value-domain-values/1c43c327abd8ba9b46c5bc831cff8a3185a04e86d2eade7d0ef20cdd3789cd18.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2023",
+      "level": "8-siffer KN 2023",
+      "data_type": "int",
+      "id": "1d57ba65964b1ed7470465e2597e7ccb3783a7457ae4980148574d8f20bb4910",
+      "value_count": 9860,
+      "path": "data/value-domain-values/1d57ba65964b1ed7470465e2597e7ccb3783a7457ae4980148574d8f20bb4910.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2001",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "4a3575b156a9166828a755a64f0e8b92708995e34711451c45b67683be3fc8f2",
+      "value_count": 10278,
+      "path": "data/value-domain-values/4a3575b156a9166828a755a64f0e8b92708995e34711451c45b67683be3fc8f2.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2021",
+      "level": "8-siffer KN 2021",
+      "data_type": "int",
+      "id": "60399d7b14bb2192610238534a8ed2374dc875b83975426a59647e00693333ee",
+      "value_count": 9494,
+      "path": "data/value-domain-values/60399d7b14bb2192610238534a8ed2374dc875b83975426a59647e00693333ee.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2024",
+      "level": "8-siffer KN 2024",
+      "data_type": "int",
+      "id": "66e2018e5905c2c926641eea1d79b5519970e42b921a46806a9fa88c8add061b",
+      "value_count": 9763,
+      "path": "data/value-domain-values/66e2018e5905c2c926641eea1d79b5519970e42b921a46806a9fa88c8add061b.json"
+    },
+    {
+      "version": "Landsbeteckningar enligt ISO3166-1:1997, tvåbokstavskoder, anpassad version",
+      "level": "Nivå 1",
+      "data_type": "char(2)",
+      "id": "8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879",
+      "value_count": 281,
+      "path": "data/value-domain-values/8522a883a09ac092940e2f461e3a78c672c49babd75faedb728e1d07c8ed2879.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "numeric",
+      "id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "value_count": 0,
+      "path": "data/value-domain-values/8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2022",
+      "level": "8-siffer KN 2022",
+      "data_type": "int",
+      "id": "9e986a2fa38f13d52c14c2206a10660b9e460c4a1d50128e00ff63feca133453",
+      "value_count": 9736,
+      "path": "data/value-domain-values/9e986a2fa38f13d52c14c2206a10660b9e460c4a1d50128e00ff63feca133453.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2018",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "9f80250856b894cb269327415bedab9a1c37aed4c5c9723d82c609c8947774ce",
+      "value_count": 9533,
+      "path": "data/value-domain-values/9f80250856b894cb269327415bedab9a1c37aed4c5c9723d82c609c8947774ce.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "numeric",
+      "id": "aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab",
+      "value_count": 0,
+      "path": "data/value-domain-values/aebf4bb550cf6cd89f5e50b73967cc4fe5a12affe0d98a74e34f89a7f7f8e2ab.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2000",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "b2c94410046643dd839350e054021f31abc35106f9da0de6443b0af3039de0c5",
+      "value_count": 10315,
+      "path": "data/value-domain-values/b2c94410046643dd839350e054021f31abc35106f9da0de6443b0af3039de0c5.json"
+    },
+    {
+      "version": "Handelsflöde",
+      "level": "Flöde",
+      "data_type": "char(1)",
+      "id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
+      "value_count": 2,
+      "path": "data/value-domain-values/c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 1999",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "fac760047d2fe580c753f7ccb36c58cce924e10bd8ff2ebd957a01f09cadab2c",
+      "value_count": 10429,
+      "path": "data/value-domain-values/fac760047d2fe580c753f7ccb36c58cce924e10bd8ff2ebd957a01f09cadab2c.json"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "80a07d3ce284a4a15f39cf820edf32776160ba5e6a10437356f776193bfd0542",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "1b4d58b46c4d862df82661617720f995f0c334f37505dddceb5d99457a1a8cf8",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:19:14+00:00",
+    "task_count": 9,
+    "expected_bindings": 170,
+    "documented_bindings": 154,
+    "errors": [
+      "Varukod 2016: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2016', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
+      "Varukod 2015: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2015    ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och",
+      "Varukod 2014: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2014', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
+      "Varukod 2013: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2013', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
+      "Varukod 2012: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2012', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
+      "Varukod 2011: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2011', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
+      "Varukod 2010: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2010', 'Vardemangdsniva': 'KN 8', 'Vardekod': '29339980', 'Vardebenamning': 'Föreningar, heterocykliska, med enbart kväve som heteroatom[er] (exkl. föreningar som i sin struktur har en icke-kondenserad pyrazol-, imidazol-, pyridin- eller triazinring, även hydrogenerade, ett kinolin- eller isokinolinringsystem, även hydrogenerade, inte vidare konde",
+      "Varukod 2017: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2017 ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
+      "Varukod 2009: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2009', 'Vardemangdsniva': 'KN 8', 'Vardekod': '29339980', 'Vardebenamning': 'Föreningar, heterocykliska, med enbart kväve som heteroatom[er] (exkl. föreningar som i sin struktur har en icke-kondenserad pyrazol-, imidazol-, pyridin- eller triazinring, även hydrogenerade, ett kinolin- eller isokinolinringsystem, även hydrogenerade, inte vidare konde",
+      "Varukod 2008: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2008', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
+      "Varukod 2007: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2007', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
+      "Varukod 2006: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2006', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
+      "Varukod 2005: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2005', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
+      "Varukod 2004: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2004', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
+      "Varukod 2003: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2003', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
+      "Varukod 2002: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2002', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j"
+    ]
+  }
+}
