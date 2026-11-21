@@ -1,0 +1,5296 @@
+{
+  "version": "AMSYK, alternativ ",
+  "level": "AMSYK, alternativ omfattande fler nivåer",
+  "data_type": "varchar(7)",
+  "values": [
+    {
+      "code": "0110",
+      "label": "Militärer"
+    },
+    {
+      "code": "011010",
+      "label": "Yrkesofficer, armén"
+    },
+    {
+      "code": "011020",
+      "label": "Yrkesofficer, flygvapnet"
+    },
+    {
+      "code": "011030",
+      "label": "Yrkesofficer, marinen"
+    },
+    {
+      "code": "011090",
+      "label": "Andra inom 0110"
+    },
+    {
+      "code": "1110",
+      "label": "Högre ämbetsmän och politiker"
+    },
+    {
+      "code": "111010",
+      "label": "Förvaltningsdirektör, statlig"
+    },
+    {
+      "code": "111020",
+      "label": "Högre juridiska ämbetsmän"
+    },
+    {
+      "code": "111030",
+      "label": "Biblioteksråd"
+    },
+    {
+      "code": "111040",
+      "label": "Kommunchef"
+    },
+    {
+      "code": "1120",
+      "label": "Chefstjänstemän i intresseorganisationer"
+    },
+    {
+      "code": "112010",
+      "label": "Organisationschef"
+    },
+    {
+      "code": "1210",
+      "label": "Verkställande direktörer, verkschefer m. fl."
+    },
+    {
+      "code": "121010",
+      "label": "Företagsledare"
+    },
+    {
+      "code": "121020",
+      "label": "Chefredaktör"
+    },
+    {
+      "code": "121030",
+      "label": "Universitetsrektor"
+    },
+    {
+      "code": "121040",
+      "label": "Sjukhuschef"
+    },
+    {
+      "code": "1221",
+      "label": "Driftch. jordbruk, trädgård, skogsbruk o. fiske"
+    },
+    {
+      "code": "122110",
+      "label": "Skogschef"
+    },
+    {
+      "code": "1222",
+      "label": "Driftch. tillverkn., el-, värme- o vattenförsörj"
+    },
+    {
+      "code": "122210",
+      "label": "Produktionschef, tillverkning"
+    },
+    {
+      "code": "122220",
+      "label": "Driftchef, energi"
+    },
+    {
+      "code": "1223",
+      "label": "Driftchefer, byggverksamhet"
+    },
+    {
+      "code": "122310",
+      "label": "Produktionschef, bygg"
+    },
+    {
+      "code": "1224",
+      "label": "Driftch. handel, hotell o. rest., transp. o. kommunikation"
+    },
+    {
+      "code": "122410",
+      "label": "Postområdeschef"
+    },
+    {
+      "code": "122420",
+      "label": "Teleområdeschef"
+    },
+    {
+      "code": "122430",
+      "label": "Trafikchef"
+    },
+    {
+      "code": "122440",
+      "label": "Restaurangchef"
+    },
+    {
+      "code": "122450",
+      "label": "Butikschef"
+    },
+    {
+      "code": "1225",
+      "label": "Driftchefer inom finansiellverksamhet,fastighetsbolag, företagstjänster m.m."
+    },
+    {
+      "code": "122510",
+      "label": "Fastighetschef"
+    },
+    {
+      "code": "122520",
+      "label": "Finanschef"
+    },
+    {
+      "code": "1226",
+      "label": "Verks.chefer off. förv. m.m."
+    },
+    {
+      "code": "122610",
+      "label": "Avdelningschef, statlig förv."
+    },
+    {
+      "code": "122620",
+      "label": "Avdelningschef, kommunal förv."
+    },
+    {
+      "code": "1227",
+      "label": "Verks.chefer inom utbildning"
+    },
+    {
+      "code": "122710",
+      "label": "Skolledare"
+    },
+    {
+      "code": "1228",
+      "label": "Verksamhetschefer inom vård o. omsorg"
+    },
+    {
+      "code": "122810",
+      "label": "Vårdföreståndare"
+    },
+    {
+      "code": "1229",
+      "label": "Övr. drift- o. verksamhetschefer"
+    },
+    {
+      "code": "122910",
+      "label": "Bibliotekschef"
+    },
+    {
+      "code": "122920",
+      "label": "Teaterproducent"
+    },
+    {
+      "code": "122930",
+      "label": "Hallföreståndare"
+    },
+    {
+      "code": "1231",
+      "label": "Ekonomichefer o. adm. chefer"
+    },
+    {
+      "code": "123110",
+      "label": "Ekonomichef"
+    },
+    {
+      "code": "1232",
+      "label": "Personalchefer"
+    },
+    {
+      "code": "123210",
+      "label": "Personalchef"
+    },
+    {
+      "code": "1233",
+      "label": "Försäljnings- o.  markn.chefer"
+    },
+    {
+      "code": "123310",
+      "label": "Försäljningschef"
+    },
+    {
+      "code": "1234",
+      "label": "Reklam- och PR-chefer"
+    },
+    {
+      "code": "123410",
+      "label": "Mediachef"
+    },
+    {
+      "code": "1235",
+      "label": "Inköps- och distributionschefer"
+    },
+    {
+      "code": "123510",
+      "label": "Inköpschef"
+    },
+    {
+      "code": "123520",
+      "label": "Fraktchef"
+    },
+    {
+      "code": "1236",
+      "label": "ADB-chefer"
+    },
+    {
+      "code": "123610",
+      "label": "Datachef"
+    },
+    {
+      "code": "123620",
+      "label": "Driftchef, ADB"
+    },
+    {
+      "code": "1237",
+      "label": "Forsknings- och utveckl.chefer"
+    },
+    {
+      "code": "123710",
+      "label": "Forskningschef"
+    },
+    {
+      "code": "1239",
+      "label": "Övr. chefer inom spec.områden"
+    },
+    {
+      "code": "123910",
+      "label": "Städchef"
+    },
+    {
+      "code": "123920",
+      "label": "Säkerhetschef"
+    },
+    {
+      "code": "1311",
+      "label": "Chefer för mindre företag inom jordbruk, trädgård, skogsbruk och fiske"
+    },
+    {
+      "code": "131110",
+      "label": "Förvaltare, lantbruk"
+    },
+    {
+      "code": "131120",
+      "label": "Driftchef, trädgård"
+    },
+    {
+      "code": "131130",
+      "label": "Skogsförvaltare"
+    },
+    {
+      "code": "1312",
+      "label": "Chefer för mindre företag inom tillverkning, el-, värme- och vattenförsörjning m.m."
+    },
+    {
+      "code": "131210",
+      "label": "Chefer för mindre företag"
+    },
+    {
+      "code": "1313",
+      "label": "Chefer för mindre byggföretag"
+    },
+    {
+      "code": "131310",
+      "label": "Byggmästare"
+    },
+    {
+      "code": "1314",
+      "label": "Chefer för mindre företag inom handel, hotell o. restaurang, transport och kommunikation"
+    },
+    {
+      "code": "131410",
+      "label": "Butiksföreståndare"
+    },
+    {
+      "code": "1315",
+      "label": "Chefer för mindre företag inom finansiell verksamhet, fastighetsbolag, företagstjänster m.m."
+    },
+    {
+      "code": "131510",
+      "label": "Kontorschef, bank"
+    },
+    {
+      "code": "1316",
+      "label": "Chefer för mindre enheter inom offentlig förvaltning m.m."
+    },
+    {
+      "code": "131610",
+      "label": "Kontorschef, offentlig förv."
+    },
+    {
+      "code": "1317",
+      "label": "Chefer för mindre enheter inom utbildning"
+    },
+    {
+      "code": "131710",
+      "label": "Kontorschef, utbildningsföretag"
+    },
+    {
+      "code": "1318",
+      "label": "Chefer för mindre enheter inom vård o. omsorg"
+    },
+    {
+      "code": "131810",
+      "label": "Boendeföreståndare, kommunal"
+    },
+    {
+      "code": "1319",
+      "label": "Chefer för övriga mindre företag o. enheter"
+    },
+    {
+      "code": "131910",
+      "label": "Andra inom 1311-1318"
+    },
+    {
+      "code": "2111",
+      "label": "Fysiker och astronomer"
+    },
+    {
+      "code": "211110",
+      "label": "Fysiker"
+    },
+    {
+      "code": "211120",
+      "label": "Strålskyddsinspektör"
+    },
+    {
+      "code": "211190",
+      "label": "Andra inom 2111"
+    },
+    {
+      "code": "2112",
+      "label": "Meteorologer"
+    },
+    {
+      "code": "211210",
+      "label": "Meteorolog"
+    },
+    {
+      "code": "2113",
+      "label": "Kemister"
+    },
+    {
+      "code": "211310",
+      "label": "Kemist"
+    },
+    {
+      "code": "211320",
+      "label": "Farmacevt, industri"
+    },
+    {
+      "code": "211390",
+      "label": "Andra inom 2113"
+    },
+    {
+      "code": "2114",
+      "label": "Geologer, geofysiker m.fl."
+    },
+    {
+      "code": "211410",
+      "label": "Geofysiker"
+    },
+    {
+      "code": "211420",
+      "label": "Geolog"
+    },
+    {
+      "code": "211430",
+      "label": "Hydrolog"
+    },
+    {
+      "code": "211440",
+      "label": "Oceanograf"
+    },
+    {
+      "code": "2121",
+      "label": "Matematiker"
+    },
+    {
+      "code": "212110",
+      "label": "Aktuarie"
+    },
+    {
+      "code": "2122",
+      "label": "Statistiker"
+    },
+    {
+      "code": "212210",
+      "label": "Statistiker"
+    },
+    {
+      "code": "2131",
+      "label": "Systemerare och programmerare"
+    },
+    {
+      "code": "213110",
+      "label": "Systemchef"
+    },
+    {
+      "code": "213120",
+      "label": "Systemansvarig"
+    },
+    {
+      "code": "213130",
+      "label": "Systemerare"
+    },
+    {
+      "code": "213140",
+      "label": "Databasadministratör"
+    },
+    {
+      "code": "213150",
+      "label": "Programmerare"
+    },
+    {
+      "code": "2139",
+      "label": "Övriga dataspecialister"
+    },
+    {
+      "code": "213910",
+      "label": "Datasäkerhetsansvarig"
+    },
+    {
+      "code": "213920",
+      "label": "ADB-strateg"
+    },
+    {
+      "code": "2141",
+      "label": "Arkitekter och stadsplanerare"
+    },
+    {
+      "code": "214110",
+      "label": "Arkitekt"
+    },
+    {
+      "code": "214120",
+      "label": "Landskapsarkitekt"
+    },
+    {
+      "code": "214130",
+      "label": "Inredningsarkitekt"
+    },
+    {
+      "code": "2142",
+      "label": "Civilingenjörer m.fl., bygg o.anläggning"
+    },
+    {
+      "code": "214210",
+      "label": "Byggnadskonstruktör"
+    },
+    {
+      "code": "214220",
+      "label": "Produktionsingenjör, bygg"
+    },
+    {
+      "code": "214230",
+      "label": "Kvalitetsingenjör, bygg"
+    },
+    {
+      "code": "214240",
+      "label": "Väg- och vattenbyggnadsingenjör"
+    },
+    {
+      "code": "214290",
+      "label": "Andra inom 2142"
+    },
+    {
+      "code": "2143",
+      "label": "Civilingenjörer m.fl., elkraft"
+    },
+    {
+      "code": "214310",
+      "label": "Konstruktör, elkraft"
+    },
+    {
+      "code": "214320",
+      "label": "Produktionsingenjör, elkraft"
+    },
+    {
+      "code": "214330",
+      "label": "Kvalitetsingenjör, elkraft"
+    },
+    {
+      "code": "214390",
+      "label": "Andra inom 2143"
+    },
+    {
+      "code": "2144",
+      "label": "Civilingenjör m.fl., elektronik o. teletekn."
+    },
+    {
+      "code": "214410",
+      "label": "Konstruktör, el-tele"
+    },
+    {
+      "code": "214420",
+      "label": "Produktionsingenjör, el-tele"
+    },
+    {
+      "code": "214430",
+      "label": "Kvalitetsingenjör, el-tele"
+    },
+    {
+      "code": "214440",
+      "label": "Teleingenjör"
+    },
+    {
+      "code": "214490",
+      "label": "Andra inom 2144"
+    },
+    {
+      "code": "2145",
+      "label": "Civilingenjörer m.fl., maskin"
+    },
+    {
+      "code": "214510",
+      "label": "Maskinkonstruktör"
+    },
+    {
+      "code": "214520",
+      "label": "Produktionsingenjör, maskin"
+    },
+    {
+      "code": "214530",
+      "label": "Kvalitetsingenjör, maskin"
+    },
+    {
+      "code": "214540",
+      "label": "Fordonsingenjör"
+    },
+    {
+      "code": "214550",
+      "label": "VVS-ingenjör"
+    },
+    {
+      "code": "214590",
+      "label": "Andra inom 2145"
+    },
+    {
+      "code": "2146",
+      "label": "Civilingenjörer m.fl., kemi"
+    },
+    {
+      "code": "214610",
+      "label": "Processingenjör, kemiteknik"
+    },
+    {
+      "code": "214620",
+      "label": "Kvalitetsingenjör, kemiteknik"
+    },
+    {
+      "code": "214630",
+      "label": "Livsmedelsingenjör"
+    },
+    {
+      "code": "214690",
+      "label": "Andra inom 2146"
+    },
+    {
+      "code": "2147",
+      "label": "Civilingenjör, gruvteknik o. metallurgi"
+    },
+    {
+      "code": "214710",
+      "label": "Metallurg"
+    },
+    {
+      "code": "214720",
+      "label": "Gruvingenjör"
+    },
+    {
+      "code": "214730",
+      "label": "Produktionsingenjör, metallurgi"
+    },
+    {
+      "code": "214740",
+      "label": "Geotekniker"
+    },
+    {
+      "code": "214790",
+      "label": "Andra inom 2147"
+    },
+    {
+      "code": "2148",
+      "label": "Lantmätare"
+    },
+    {
+      "code": "214810",
+      "label": "Lantmätare"
+    },
+    {
+      "code": "214820",
+      "label": "Geodet"
+    },
+    {
+      "code": "2149",
+      "label": "Övriga civilingenjörer m.fl."
+    },
+    {
+      "code": "214910",
+      "label": "Konstruktör, textil, trä, keramik, papper"
+    },
+    {
+      "code": "214920",
+      "label": "Produktionsing., textil, trä, keramik, papper"
+    },
+    {
+      "code": "214930",
+      "label": "Kvalitetsingenjör, textil, trä, keramik, papper"
+    },
+    {
+      "code": "214940",
+      "label": "Patentingenjör"
+    },
+    {
+      "code": "214950",
+      "label": "Yrkeshygieniker"
+    },
+    {
+      "code": "214960",
+      "label": "Logistiker"
+    },
+    {
+      "code": "214990",
+      "label": "Andra inom 2149"
+    },
+    {
+      "code": "2211",
+      "label": "Biologer"
+    },
+    {
+      "code": "221110",
+      "label": "Biolog"
+    },
+    {
+      "code": "2212",
+      "label": "Farmakologer"
+    },
+    {
+      "code": "221210",
+      "label": "Farmakolog"
+    },
+    {
+      "code": "2213",
+      "label": "Agronomer och hortonomer"
+    },
+    {
+      "code": "221310",
+      "label": "Agronom"
+    },
+    {
+      "code": "221320",
+      "label": "Hortonom"
+    },
+    {
+      "code": "2214",
+      "label": "Jägmästare m.fl."
+    },
+    {
+      "code": "221410",
+      "label": "Jägmästare"
+    },
+    {
+      "code": "2221",
+      "label": "Läkare"
+    },
+    {
+      "code": "222110",
+      "label": "Läkare, opererande specialist"
+    },
+    {
+      "code": "222115",
+      "label": "Läkare, invärtesmedicinsk specialist"
+    },
+    {
+      "code": "222120",
+      "label": "Barnläkare"
+    },
+    {
+      "code": "222125",
+      "label": "Läkare, allmänmedicinsk specialist"
+    },
+    {
+      "code": "222130",
+      "label": "Psykiater"
+    },
+    {
+      "code": "222135",
+      "label": "Röntgenläkare"
+    },
+    {
+      "code": "222140",
+      "label": "Läkare, klinisk laboratoriespecialist"
+    },
+    {
+      "code": "222145",
+      "label": "Läkare, socialmedicinsk specialist"
+    },
+    {
+      "code": "222150",
+      "label": "Företagsläkare"
+    },
+    {
+      "code": "222155",
+      "label": "Skolläkare"
+    },
+    {
+      "code": "222160",
+      "label": "Läkare, hud- o. könssjukdomar"
+    },
+    {
+      "code": "222165",
+      "label": "Neurolog"
+    },
+    {
+      "code": "222170",
+      "label": "Infektionsläkare"
+    },
+    {
+      "code": "222175",
+      "label": "Rehabiliteringsläkare"
+    },
+    {
+      "code": "222180",
+      "label": "Onkolog"
+    },
+    {
+      "code": "222185",
+      "label": "Läkare, klinisk näringslära"
+    },
+    {
+      "code": "222190",
+      "label": "Andra inom 2221"
+    },
+    {
+      "code": "2222",
+      "label": "Tandläkare"
+    },
+    {
+      "code": "222210",
+      "label": "Tandläkare"
+    },
+    {
+      "code": "2223",
+      "label": "Veterinärer"
+    },
+    {
+      "code": "222310",
+      "label": "Veterinär"
+    },
+    {
+      "code": "2224",
+      "label": "Apotekare"
+    },
+    {
+      "code": "222410",
+      "label": "Apotekare"
+    },
+    {
+      "code": "2225",
+      "label": "Logopeder"
+    },
+    {
+      "code": "222510",
+      "label": "Logoped"
+    },
+    {
+      "code": "2229",
+      "label": "Övriga hälso- och sjukvårdsspecialister"
+    },
+    {
+      "code": "222910",
+      "label": "Nutritionist"
+    },
+    {
+      "code": "2231",
+      "label": "Barnmorskor"
+    },
+    {
+      "code": "223110",
+      "label": "Barnmorska"
+    },
+    {
+      "code": "2232",
+      "label": "Avdelningschefer, vårdavdelning/mottagning"
+    },
+    {
+      "code": "223210",
+      "label": "Avdelningschef, vårdavdelning/mottagning"
+    },
+    {
+      "code": "2233",
+      "label": "Akutsjuksköterskor"
+    },
+    {
+      "code": "223310",
+      "label": "Akutsjuksköterska"
+    },
+    {
+      "code": "2234",
+      "label": "Barnsjuksköterskor"
+    },
+    {
+      "code": "223410",
+      "label": "Barnsjuksköterska"
+    },
+    {
+      "code": "2235",
+      "label": "Distriktssköterskor"
+    },
+    {
+      "code": "223510",
+      "label": "Distriktssköterska"
+    },
+    {
+      "code": "2236",
+      "label": "Övriga sjuksköterskor med särskild kompetens"
+    },
+    {
+      "code": "223610",
+      "label": "Klinikföreståndare"
+    },
+    {
+      "code": "223620",
+      "label": "MAS, medicinskt ansvarig sjuksköterska"
+    },
+    {
+      "code": "223630",
+      "label": "Ortoptist"
+    },
+    {
+      "code": "2310",
+      "label": "Universitets-,  högskolelärare"
+    },
+    {
+      "code": "231010",
+      "label": "Högskolelärare, tekniska ämnen"
+    },
+    {
+      "code": "231015",
+      "label": "Högskolelärare, matematik, fysik"
+    },
+    {
+      "code": "231020",
+      "label": "Högskolelärare, data, systemvetenskap"
+    },
+    {
+      "code": "231025",
+      "label": "Högskolelärare, biologi, kemi, geologi."
+    },
+    {
+      "code": "231030",
+      "label": "Högskolelärare, ekonomi, administration"
+    },
+    {
+      "code": "231035",
+      "label": "Högskolelärare, psykologi, sociala ämnen"
+    },
+    {
+      "code": "231040",
+      "label": "Högskolelärare, språkvetenskapliga ämnen"
+    },
+    {
+      "code": "231045",
+      "label": "Högskolelärare, pedagogik"
+    },
+    {
+      "code": "231050",
+      "label": "Högskolelärare, kultur, information"
+    },
+    {
+      "code": "231055",
+      "label": "Högskolelärare, musik"
+    },
+    {
+      "code": "231060",
+      "label": "Högskolelärare, konstnärliga ämnen"
+    },
+    {
+      "code": "231065",
+      "label": "Högskolelärare, historia, filosofiska ämnen"
+    },
+    {
+      "code": "231070",
+      "label": "Högskolelärare, juridik, samhällsvetenskap"
+    },
+    {
+      "code": "231075",
+      "label": "Högskolelärare, medicinska ämnen"
+    },
+    {
+      "code": "231080",
+      "label": "Högskolelärare, vårdämnen"
+    },
+    {
+      "code": "2321",
+      "label": "Gymnasielärare  i allmänna ämnen"
+    },
+    {
+      "code": "232110",
+      "label": "Gymnasielärare, matematik, naturvetenskapliga äm"
+    },
+    {
+      "code": "232120",
+      "label": "Gymnasielärare, ekonomiska ämnen"
+    },
+    {
+      "code": "232130",
+      "label": "Gymnasielärare, historia, samhällskunskap"
+    },
+    {
+      "code": "232140",
+      "label": "Gymnasielärare, språk"
+    },
+    {
+      "code": "232150",
+      "label": "Folkhögskolelärare"
+    },
+    {
+      "code": "2322",
+      "label": "Gymnasielärare i yrkesämnen"
+    },
+    {
+      "code": "232210",
+      "label": "Lärare, handel, administration"
+    },
+    {
+      "code": "232215",
+      "label": "Lärare, naturbruksprogrammet"
+    },
+    {
+      "code": "232220",
+      "label": "Lärare, energiprogrammet"
+    },
+    {
+      "code": "232225",
+      "label": "Lärare, byggprogrammet"
+    },
+    {
+      "code": "232230",
+      "label": "Lärare, hantverksprogrammet"
+    },
+    {
+      "code": "232235",
+      "label": "Lärare, elprogrammet"
+    },
+    {
+      "code": "232240",
+      "label": "Lärare, fordonsprogrammet"
+    },
+    {
+      "code": "232245",
+      "label": "Lärare, industriprogrammet"
+    },
+    {
+      "code": "232250",
+      "label": "Lärare, livsmedelsprogrammet"
+    },
+    {
+      "code": "232255",
+      "label": "Lärare, hotell, restaurang"
+    },
+    {
+      "code": "232260",
+      "label": "Lärare, omvårdnadsprogrammet"
+    },
+    {
+      "code": "232265",
+      "label": "Lärare, barn-, fritidsprogrammet"
+    },
+    {
+      "code": "232270",
+      "label": "Lärare, medieprogrammet"
+    },
+    {
+      "code": "2323",
+      "label": "Lärare i praktiska-estetiska ämnen"
+    },
+    {
+      "code": "232310",
+      "label": "Bildlärare"
+    },
+    {
+      "code": "232320",
+      "label": "Musiklärare"
+    },
+    {
+      "code": "232330",
+      "label": "Slöjdlärare"
+    },
+    {
+      "code": "232340",
+      "label": "Idrottslärare"
+    },
+    {
+      "code": "232350",
+      "label": "Hemkunskapslärare"
+    },
+    {
+      "code": "232360",
+      "label": "Lärare, barn- o. ungdomskunsk."
+    },
+    {
+      "code": "232390",
+      "label": "Andra inom 2323"
+    },
+    {
+      "code": "2330",
+      "label": "Grundskollärare"
+    },
+    {
+      "code": "233010",
+      "label": "Grundskollärare årskurs 1-7"
+    },
+    {
+      "code": "233020",
+      "label": "Grundskollärare årskurs 4-9"
+    },
+    {
+      "code": "233030",
+      "label": "Hemspråkslärare"
+    },
+    {
+      "code": "233090",
+      "label": "Andra inom 2330"
+    },
+    {
+      "code": "2340",
+      "label": "Speciallärare m.fl."
+    },
+    {
+      "code": "234010",
+      "label": "Specialpedagog"
+    },
+    {
+      "code": "234020",
+      "label": "Synpedagog"
+    },
+    {
+      "code": "234030",
+      "label": "Hörselpedagog"
+    },
+    {
+      "code": "234040",
+      "label": "Talpedagog"
+    },
+    {
+      "code": "234090",
+      "label": "Andra inom 2340"
+    },
+    {
+      "code": "2351",
+      "label": "Skol- och utbildningskonsulenter m.fl."
+    },
+    {
+      "code": "235110",
+      "label": "Utbildningskonsulent"
+    },
+    {
+      "code": "2359",
+      "label": "Övriga pedagoger med teoretisk specialistkompetens"
+    },
+    {
+      "code": "235910",
+      "label": "Musiklärare, musikskola"
+    },
+    {
+      "code": "235920",
+      "label": "Danspedagog"
+    },
+    {
+      "code": "235930",
+      "label": "Teaterpedagog"
+    },
+    {
+      "code": "235940",
+      "label": "Museipedagog"
+    },
+    {
+      "code": "235950",
+      "label": "Personalutvecklare"
+    },
+    {
+      "code": "235990",
+      "label": "Andra inom 2359"
+    },
+    {
+      "code": "2411",
+      "label": "Revisorer m.fl."
+    },
+    {
+      "code": "241110",
+      "label": "Revisor"
+    },
+    {
+      "code": "241120",
+      "label": "Controller"
+    },
+    {
+      "code": "2412",
+      "label": "Personaltjänstemän och yrkesvägledare"
+    },
+    {
+      "code": "241210",
+      "label": "Personaladministratör"
+    },
+    {
+      "code": "241220",
+      "label": "Personalkonsulent"
+    },
+    {
+      "code": "241230",
+      "label": "Studievägledare"
+    },
+    {
+      "code": "241240",
+      "label": "Syokonsulent"
+    },
+    {
+      "code": "2413",
+      "label": "Marknadsanalytiker, marknadsförare m.fl."
+    },
+    {
+      "code": "241310",
+      "label": "Marknadsförare"
+    },
+    {
+      "code": "241320",
+      "label": "Marknadsanalytiker"
+    },
+    {
+      "code": "2414",
+      "label": "Organisationsutvecklare"
+    },
+    {
+      "code": "241410",
+      "label": "Organisationsutvecklare"
+    },
+    {
+      "code": "2419",
+      "label": "Övriga företagsekonomer"
+    },
+    {
+      "code": "241910",
+      "label": "Företagsekonom"
+    },
+    {
+      "code": "241920",
+      "label": "Finansekonom"
+    },
+    {
+      "code": "241930",
+      "label": "Konsumentvägledare"
+    },
+    {
+      "code": "2421",
+      "label": "Advokater, åklagare m.fl."
+    },
+    {
+      "code": "242110",
+      "label": "Åklagare"
+    },
+    {
+      "code": "242120",
+      "label": "Advokat"
+    },
+    {
+      "code": "2422",
+      "label": "Domare"
+    },
+    {
+      "code": "242210",
+      "label": "Domare"
+    },
+    {
+      "code": "2423",
+      "label": "Företags-, förvaltnings- o. organisationsjurister"
+    },
+    {
+      "code": "242310",
+      "label": "Skattejurist"
+    },
+    {
+      "code": "242320",
+      "label": "Miljöjurist"
+    },
+    {
+      "code": "242330",
+      "label": "Bolagsjurist"
+    },
+    {
+      "code": "242340",
+      "label": "Immaterialrättsjurist"
+    },
+    {
+      "code": "242350",
+      "label": "Förvaltningsjurist"
+    },
+    {
+      "code": "242360",
+      "label": "Bankjurist"
+    },
+    {
+      "code": "242370",
+      "label": "Familjerättsjurist"
+    },
+    {
+      "code": "242380",
+      "label": "Arbetsrättsjurist"
+    },
+    {
+      "code": "242390",
+      "label": "Andra inom 2423"
+    },
+    {
+      "code": "2429",
+      "label": "Övriga jurister"
+    },
+    {
+      "code": "242910",
+      "label": "Kronofogde"
+    },
+    {
+      "code": "242920",
+      "label": "Auditör"
+    },
+    {
+      "code": "242990",
+      "label": "Andra inom 2429"
+    },
+    {
+      "code": "2431",
+      "label": "Arkivarier, museitjänstemän m.fl."
+    },
+    {
+      "code": "243110",
+      "label": "Arkivarie"
+    },
+    {
+      "code": "243120",
+      "label": "Museitjänsteman"
+    },
+    {
+      "code": "2432",
+      "label": "Bibliotekarier m.fl."
+    },
+    {
+      "code": "243210",
+      "label": "Bibliotekarie"
+    },
+    {
+      "code": "243220",
+      "label": "Dokumentalist"
+    },
+    {
+      "code": "2441",
+      "label": "Nationalekonomer"
+    },
+    {
+      "code": "244110",
+      "label": "Nationalekonom"
+    },
+    {
+      "code": "2442",
+      "label": "Sociologer, arkeologer m.fl."
+    },
+    {
+      "code": "244210",
+      "label": "Arkeolog"
+    },
+    {
+      "code": "244220",
+      "label": "Sociolog"
+    },
+    {
+      "code": "244230",
+      "label": "Socialantropolog"
+    },
+    {
+      "code": "244240",
+      "label": "Geograf"
+    },
+    {
+      "code": "2443",
+      "label": "Filosofer, historiker, statsvetare"
+    },
+    {
+      "code": "244310",
+      "label": "Statsvetare"
+    },
+    {
+      "code": "244320",
+      "label": "Kulturvetare"
+    },
+    {
+      "code": "244390",
+      "label": "Andra inom 2443"
+    },
+    {
+      "code": "2444",
+      "label": "Språkvetare, översättare o. tolkar"
+    },
+    {
+      "code": "244410",
+      "label": "Tolk"
+    },
+    {
+      "code": "244420",
+      "label": "Lingvist"
+    },
+    {
+      "code": "2451",
+      "label": "Journalister, författare, informatörer m.fl."
+    },
+    {
+      "code": "245110",
+      "label": "Journalist"
+    },
+    {
+      "code": "245115",
+      "label": "Redigerare"
+    },
+    {
+      "code": "245120",
+      "label": "Förlagsredaktör"
+    },
+    {
+      "code": "245125",
+      "label": "Teknisk redaktör"
+    },
+    {
+      "code": "245130",
+      "label": "Copywriter"
+    },
+    {
+      "code": "245135",
+      "label": "Korrektör"
+    },
+    {
+      "code": "245140",
+      "label": "Författare"
+    },
+    {
+      "code": "245145",
+      "label": "Informatör"
+    },
+    {
+      "code": "245150",
+      "label": "Teknikinformatör"
+    },
+    {
+      "code": "245155",
+      "label": "Radioproducent"
+    },
+    {
+      "code": "245160",
+      "label": "TV-producent"
+    },
+    {
+      "code": "245165",
+      "label": "Multimediaproducent"
+    },
+    {
+      "code": "245190",
+      "label": "Andra inom 2451"
+    },
+    {
+      "code": "2452",
+      "label": "Skulptörer, målare m.fl."
+    },
+    {
+      "code": "245210",
+      "label": "Skulptör"
+    },
+    {
+      "code": "245220",
+      "label": "Målare, konstnär"
+    },
+    {
+      "code": "245230",
+      "label": "Konstgrafiker"
+    },
+    {
+      "code": "245240",
+      "label": "Konservator, konst"
+    },
+    {
+      "code": "2453",
+      "label": "Kompositörer, musiker o. sångare inom klassisk musik"
+    },
+    {
+      "code": "245310",
+      "label": "Sångare"
+    },
+    {
+      "code": "245320",
+      "label": "Kompositör"
+    },
+    {
+      "code": "245330",
+      "label": "Dirigent"
+    },
+    {
+      "code": "245340",
+      "label": "Kyrkomusiker"
+    },
+    {
+      "code": "245350",
+      "label": "Musiker, klaverinstrument"
+    },
+    {
+      "code": "245355",
+      "label": "Musiker, slagverksinstrument"
+    },
+    {
+      "code": "245360",
+      "label": "Musiker, stråkinstrument"
+    },
+    {
+      "code": "245365",
+      "label": "Musiker, knäppinstrument"
+    },
+    {
+      "code": "245370",
+      "label": "Musiker, träblåsinstrument"
+    },
+    {
+      "code": "245375",
+      "label": "Musiker, bleckblåsarinstrument"
+    },
+    {
+      "code": "245380",
+      "label": "Musiker, bälginstrument"
+    },
+    {
+      "code": "245390",
+      "label": "Andra inom 2453"
+    },
+    {
+      "code": "2454",
+      "label": "Koreografer och dansare"
+    },
+    {
+      "code": "245410",
+      "label": "Dansare"
+    },
+    {
+      "code": "245420",
+      "label": "Koreograf"
+    },
+    {
+      "code": "2455",
+      "label": "Regissörer och skådespelare"
+    },
+    {
+      "code": "245510",
+      "label": "Skådespelare"
+    },
+    {
+      "code": "245520",
+      "label": "Mimartist"
+    },
+    {
+      "code": "245530",
+      "label": "Dockspelare"
+    },
+    {
+      "code": "245540",
+      "label": "Regissör"
+    },
+    {
+      "code": "245550",
+      "label": "Scenograf"
+    },
+    {
+      "code": "245590",
+      "label": "Andra inom 2455"
+    },
+    {
+      "code": "2456",
+      "label": "Formgivare"
+    },
+    {
+      "code": "245610",
+      "label": "Art Director"
+    },
+    {
+      "code": "245620",
+      "label": "Formgivare"
+    },
+    {
+      "code": "245630",
+      "label": "Industriformgivare"
+    },
+    {
+      "code": "245690",
+      "label": "Andra inom 2456"
+    },
+    {
+      "code": "2460",
+      "label": "Präster m.fl."
+    },
+    {
+      "code": "246010",
+      "label": "Präst, svenska kyrkan"
+    },
+    {
+      "code": "246020",
+      "label": "Präst, romersk-katolsk kyrka"
+    },
+    {
+      "code": "246030",
+      "label": "Präst, grekisk-ortodox kyrka"
+    },
+    {
+      "code": "246040",
+      "label": "Rabbin"
+    },
+    {
+      "code": "246050",
+      "label": "Präst, annat trossamfund"
+    },
+    {
+      "code": "2470",
+      "label": "Administratörer i offentlig förvaltning"
+    },
+    {
+      "code": "247010",
+      "label": "Utredare, offentlig förvaltning"
+    },
+    {
+      "code": "247020",
+      "label": "Handikappkonsulent"
+    },
+    {
+      "code": "2480",
+      "label": "Administratörer i intresseorganisationer"
+    },
+    {
+      "code": "248010",
+      "label": "Förbundssekreterare"
+    },
+    {
+      "code": "248020",
+      "label": "Ombudsman"
+    },
+    {
+      "code": "2491",
+      "label": "Psykologer m.fl."
+    },
+    {
+      "code": "249110",
+      "label": "Psykolog"
+    },
+    {
+      "code": "249120",
+      "label": "Psykoterapeut"
+    },
+    {
+      "code": "2492",
+      "label": "Socialsekreterare o. kuratorer"
+    },
+    {
+      "code": "249210",
+      "label": "Socialsekreterare"
+    },
+    {
+      "code": "249220",
+      "label": "Kurator"
+    },
+    {
+      "code": "249230",
+      "label": "Familjerådgivare"
+    },
+    {
+      "code": "249240",
+      "label": "Frivårdsinspektör"
+    },
+    {
+      "code": "249250",
+      "label": "Flyktingsekreterare"
+    },
+    {
+      "code": "249260",
+      "label": "Socialkonsulent, Ami"
+    },
+    {
+      "code": "249270",
+      "label": "Diakon"
+    },
+    {
+      "code": "249290",
+      "label": "Andra inom 2492"
+    },
+    {
+      "code": "3111",
+      "label": "Laboratorieingenjörer"
+    },
+    {
+      "code": "311110",
+      "label": "Laboratorieingenjör, kemi"
+    },
+    {
+      "code": "311120",
+      "label": "Laboratorieingenjör, fysik"
+    },
+    {
+      "code": "311190",
+      "label": "Andra inom 3111"
+    },
+    {
+      "code": "3112",
+      "label": "Byggnadsingenjörer och byggnadstekniker"
+    },
+    {
+      "code": "311210",
+      "label": "Byggnadskonstruktör"
+    },
+    {
+      "code": "311220",
+      "label": "Produktionsingenjör, bygg"
+    },
+    {
+      "code": "311230",
+      "label": "Kvalitetsingenjör, bygg"
+    },
+    {
+      "code": "311240",
+      "label": "Väg- och vattenbyggnadsingenjörer"
+    },
+    {
+      "code": "311250",
+      "label": "Mätningsingenjör"
+    },
+    {
+      "code": "311290",
+      "label": "Andra inom 3112"
+    },
+    {
+      "code": "3113",
+      "label": "Elingenjörer och eltekniker"
+    },
+    {
+      "code": "311310",
+      "label": "Konstruktör, elkraft"
+    },
+    {
+      "code": "311320",
+      "label": "Produktionsingenjör, elkraft"
+    },
+    {
+      "code": "311330",
+      "label": "Kontrollingenjör, elkraft"
+    },
+    {
+      "code": "311390",
+      "label": "Andra inom 3113"
+    },
+    {
+      "code": "3114",
+      "label": "Ingenjörer o tekniker inom elektronik"
+    },
+    {
+      "code": "311410",
+      "label": "Elektronikkonstruktör"
+    },
+    {
+      "code": "311420",
+      "label": "Produktionsingenjör, elektronik"
+    },
+    {
+      "code": "311430",
+      "label": "Kontrollingenjör, elektronik"
+    },
+    {
+      "code": "311440",
+      "label": "Serviceingenjör, elektronik"
+    },
+    {
+      "code": "311450",
+      "label": "Teleingenjör"
+    },
+    {
+      "code": "311490",
+      "label": "Andra inom 3114"
+    },
+    {
+      "code": "3115",
+      "label": "Maskiningenjör och maskintekniker"
+    },
+    {
+      "code": "311510",
+      "label": "Maskinkonstruktör"
+    },
+    {
+      "code": "311520",
+      "label": "Produktionsingenjör, maskin"
+    },
+    {
+      "code": "311530",
+      "label": "Kontrollingenjör, maskin"
+    },
+    {
+      "code": "311540",
+      "label": "Serviceingenjör, maskin"
+    },
+    {
+      "code": "311550",
+      "label": "Fordonsingenjör"
+    },
+    {
+      "code": "311560",
+      "label": "VVS-ingenjör"
+    },
+    {
+      "code": "311590",
+      "label": "Andra inom 3115"
+    },
+    {
+      "code": "3116",
+      "label": "Kemiingenjör och kemitekniker"
+    },
+    {
+      "code": "311620",
+      "label": "Processingenjör, kemiteknik"
+    },
+    {
+      "code": "311630",
+      "label": "Kontrollingenjör, kemiteknik"
+    },
+    {
+      "code": "311640",
+      "label": "Serviceingenjör, kemiteknik"
+    },
+    {
+      "code": "311690",
+      "label": "Andra inom 3116"
+    },
+    {
+      "code": "3117",
+      "label": "Ingenjörer o. tekniker inom gruvteknik o metallurgi"
+    },
+    {
+      "code": "311720",
+      "label": "Produktionsingenjör, gruv, metallurgi"
+    },
+    {
+      "code": "311730",
+      "label": "Kontrollingenjör, gruv, metallurgi"
+    },
+    {
+      "code": "311790",
+      "label": "Andra inom 3117"
+    },
+    {
+      "code": "3118",
+      "label": "Kartingenjörer m.fl."
+    },
+    {
+      "code": "311810",
+      "label": "Kartingenjör"
+    },
+    {
+      "code": "3119",
+      "label": "Övriga ingenjörer och tekniker"
+    },
+    {
+      "code": "311910",
+      "label": "Konstruktör, textil m.m."
+    },
+    {
+      "code": "311920",
+      "label": "Produktionsingenjör, textil, trä m.m."
+    },
+    {
+      "code": "311930",
+      "label": "Kontrollingenjör, textil, trä m.m."
+    },
+    {
+      "code": "311940",
+      "label": "Livsmedelstekniker"
+    },
+    {
+      "code": "311990",
+      "label": "Andra inom 3119"
+    },
+    {
+      "code": "3121",
+      "label": "Datatekniker"
+    },
+    {
+      "code": "312110",
+      "label": "Nätverkstekniker"
+    },
+    {
+      "code": "312120",
+      "label": "PC-samordnare"
+    },
+    {
+      "code": "312130",
+      "label": "Drifttekniker, ADB"
+    },
+    {
+      "code": "3122",
+      "label": "Dataoperatörer m.fl."
+    },
+    {
+      "code": "312210",
+      "label": "Dataoperatör"
+    },
+    {
+      "code": "3131",
+      "label": "Fotografer"
+    },
+    {
+      "code": "313110",
+      "label": "Stillbildsfotograf"
+    },
+    {
+      "code": "313120",
+      "label": "Filmfotograf"
+    },
+    {
+      "code": "313130",
+      "label": "Filmredigerare"
+    },
+    {
+      "code": "3132",
+      "label": "Ljud- och bildtekniker"
+    },
+    {
+      "code": "313210",
+      "label": "Ljudtekniker"
+    },
+    {
+      "code": "313220",
+      "label": "Ljussättare"
+    },
+    {
+      "code": "313230",
+      "label": "Ljustekniker"
+    },
+    {
+      "code": "313240",
+      "label": "TOM, Technical Operation Manager"
+    },
+    {
+      "code": "313250",
+      "label": "Scannertekniker"
+    },
+    {
+      "code": "313260",
+      "label": "Bildingenjör"
+    },
+    {
+      "code": "313270",
+      "label": "Bildmixer"
+    },
+    {
+      "code": "313290",
+      "label": "Andra inom 3132"
+    },
+    {
+      "code": "3133",
+      "label": "Kopplingstekniker, radioassistent m.fl."
+    },
+    {
+      "code": "313310",
+      "label": "Radiotelegrafist"
+    },
+    {
+      "code": "313320",
+      "label": "Larmoperatör"
+    },
+    {
+      "code": "313330",
+      "label": "Kopplingstekniker"
+    },
+    {
+      "code": "313340",
+      "label": "OB-assistent"
+    },
+    {
+      "code": "313350",
+      "label": "Biografmaskinist"
+    },
+    {
+      "code": "3134",
+      "label": "Sjukhusingenjör o. sjukhustekniker"
+    },
+    {
+      "code": "313410",
+      "label": "Medicinteknisk ingenjör"
+    },
+    {
+      "code": "313420",
+      "label": "Ortopedingenjör"
+    },
+    {
+      "code": "313430",
+      "label": "Tandtekniker"
+    },
+    {
+      "code": "3141",
+      "label": "Maskinbefäl"
+    },
+    {
+      "code": "314110",
+      "label": "Maskinbefäl, fartyg"
+    },
+    {
+      "code": "3142",
+      "label": "Fartygsbefäl m.fl."
+    },
+    {
+      "code": "314210",
+      "label": "Fartygsbefäl"
+    },
+    {
+      "code": "314220",
+      "label": "Lots"
+    },
+    {
+      "code": "3143",
+      "label": "Piloter m.fl."
+    },
+    {
+      "code": "314310",
+      "label": "Pilot"
+    },
+    {
+      "code": "314320",
+      "label": "Ballongflygare"
+    },
+    {
+      "code": "3144",
+      "label": "Flygledare"
+    },
+    {
+      "code": "314410",
+      "label": "Flygtrafikledare"
+    },
+    {
+      "code": "314420",
+      "label": "Flygtrafikledarassistent"
+    },
+    {
+      "code": "3145",
+      "label": "Flygtekniker m.fl."
+    },
+    {
+      "code": "314510",
+      "label": "Flygtekniker"
+    },
+    {
+      "code": "314520",
+      "label": "Flygmaskinist"
+    },
+    {
+      "code": "314530",
+      "label": "Flygplanselektriker"
+    },
+    {
+      "code": "3151",
+      "label": "Byggnads- och brandinspektörer"
+    },
+    {
+      "code": "315110",
+      "label": "Brandingenjör"
+    },
+    {
+      "code": "315120",
+      "label": "Byggnadsinspektör"
+    },
+    {
+      "code": "3152",
+      "label": "Säkerhetsinspektörer m.fl."
+    },
+    {
+      "code": "315210",
+      "label": "Yrkesinspektör"
+    },
+    {
+      "code": "315220",
+      "label": "Skyddsingenjör"
+    },
+    {
+      "code": "315230",
+      "label": "Ergonom"
+    },
+    {
+      "code": "315240",
+      "label": "Bilinspektör"
+    },
+    {
+      "code": "315250",
+      "label": "Trafikinspektör"
+    },
+    {
+      "code": "315260",
+      "label": "Bilbesiktningsman"
+    },
+    {
+      "code": "315270",
+      "label": "Fartygsinspektör"
+    },
+    {
+      "code": "315290",
+      "label": "Andra inom 3152"
+    },
+    {
+      "code": "3211",
+      "label": "Lantmästare, trädgårdsingenjör"
+    },
+    {
+      "code": "321110",
+      "label": "Lantmästare"
+    },
+    {
+      "code": "321120",
+      "label": "Lantbruksinspektor"
+    },
+    {
+      "code": "321130",
+      "label": "Trädgårdsingenjör"
+    },
+    {
+      "code": "321140",
+      "label": "Landskapsingenjör"
+    },
+    {
+      "code": "321150",
+      "label": "Kyrkogårdsföreståndare"
+    },
+    {
+      "code": "321160",
+      "label": "Fiskerikonsulent"
+    },
+    {
+      "code": "3212",
+      "label": "Skogsmästare m.fl."
+    },
+    {
+      "code": "321210",
+      "label": "Skogsmästare"
+    },
+    {
+      "code": "321220",
+      "label": "Skogsinspektor"
+    },
+    {
+      "code": "321230",
+      "label": "Jaktvårdare"
+    },
+    {
+      "code": "3221",
+      "label": "Arbetsterapeuter"
+    },
+    {
+      "code": "322110",
+      "label": "Arbetsterapeut"
+    },
+    {
+      "code": "3222",
+      "label": "Miljö- och hälsoskyddsinspektör"
+    },
+    {
+      "code": "322210",
+      "label": "Miljö- o. hälsoskyddsinspektör"
+    },
+    {
+      "code": "322220",
+      "label": "Miljörevisor"
+    },
+    {
+      "code": "322230",
+      "label": "Hygiensköterska"
+    },
+    {
+      "code": "322240",
+      "label": "Skadedjursinspektör"
+    },
+    {
+      "code": "3223",
+      "label": "Dietister m.fl."
+    },
+    {
+      "code": "322310",
+      "label": "Dietist"
+    },
+    {
+      "code": "322320",
+      "label": "Kostekonom"
+    },
+    {
+      "code": "3224",
+      "label": "Optiker"
+    },
+    {
+      "code": "322410",
+      "label": "Optiker"
+    },
+    {
+      "code": "3225",
+      "label": "Tandhygienister"
+    },
+    {
+      "code": "322510",
+      "label": "Tandhygienist"
+    },
+    {
+      "code": "3226",
+      "label": "Sjukgymnaster"
+    },
+    {
+      "code": "322610",
+      "label": "Sjukgymnast"
+    },
+    {
+      "code": "322620",
+      "label": "Naprapat"
+    },
+    {
+      "code": "322630",
+      "label": "Kiropraktor"
+    },
+    {
+      "code": "3227",
+      "label": "Djursjukvårdare"
+    },
+    {
+      "code": "322710",
+      "label": "Djursjukvårdare"
+    },
+    {
+      "code": "3228",
+      "label": "Receptarier"
+    },
+    {
+      "code": "322810",
+      "label": "Receptarie"
+    },
+    {
+      "code": "3229",
+      "label": "Övriga terapeuter"
+    },
+    {
+      "code": "322910",
+      "label": "Audionom"
+    },
+    {
+      "code": "322990",
+      "label": "Andra inom 3229"
+    },
+    {
+      "code": "3231",
+      "label": "Sjuksköterskor, medicin o. kirurgi"
+    },
+    {
+      "code": "323110",
+      "label": "Sjuksköterska, medicin o. kirurgi"
+    },
+    {
+      "code": "3232",
+      "label": "Operationssjuksköterskor"
+    },
+    {
+      "code": "323210",
+      "label": "Operationssjuksköterska"
+    },
+    {
+      "code": "3233",
+      "label": "Geriatriksjuksköterskor"
+    },
+    {
+      "code": "323310",
+      "label": "Geriatriksjuksköterska"
+    },
+    {
+      "code": "3234",
+      "label": "Sjuksköterskor, psykiatrisk vård"
+    },
+    {
+      "code": "323410",
+      "label": "Sjuksköterska, psykiatrisk vård"
+    },
+    {
+      "code": "3235",
+      "label": "Röntgensjuksköterskor"
+    },
+    {
+      "code": "323510",
+      "label": "Röntgensjuksköterska"
+    },
+    {
+      "code": "3239",
+      "label": "Övriga sjuksköterskor"
+    },
+    {
+      "code": "323910",
+      "label": "Ögonsjuksköterska"
+    },
+    {
+      "code": "323920",
+      "label": "Onkologisjuksköterska"
+    },
+    {
+      "code": "323930",
+      "label": "Företagssköterska"
+    },
+    {
+      "code": "323940",
+      "label": "Kommunsjuksköterska"
+    },
+    {
+      "code": "3240",
+      "label": "Biomedicinska analytiker"
+    },
+    {
+      "code": "324010",
+      "label": "Biomedicinsk analytiker"
+    },
+    {
+      "code": "3310",
+      "label": "Förskollärare o. fritidspedagoger"
+    },
+    {
+      "code": "331010",
+      "label": "Förskollärare"
+    },
+    {
+      "code": "331020",
+      "label": "Fritidspedagog"
+    },
+    {
+      "code": "3320",
+      "label": "Andra lärare och instruktörer"
+    },
+    {
+      "code": "332010",
+      "label": "Naturskoleföreståndare"
+    },
+    {
+      "code": "332020",
+      "label": "Trafiklärare"
+    },
+    {
+      "code": "332030",
+      "label": "Cirkelledare"
+    },
+    {
+      "code": "332040",
+      "label": "Hemslöjdskonsulent"
+    },
+    {
+      "code": "332050",
+      "label": "Dramapedagog"
+    },
+    {
+      "code": "332060",
+      "label": "Mediepedagog"
+    },
+    {
+      "code": "332070",
+      "label": "Flyglärare"
+    },
+    {
+      "code": "332080",
+      "label": "Datautbildare"
+    },
+    {
+      "code": "3411",
+      "label": "Värdepappersmäklare"
+    },
+    {
+      "code": "341110",
+      "label": "Värdepappersmäklare"
+    },
+    {
+      "code": "3412",
+      "label": "Försäkringsrepresentanter"
+    },
+    {
+      "code": "341210",
+      "label": "Besiktningsman, försäkring"
+    },
+    {
+      "code": "341220",
+      "label": "Skadereglerare"
+    },
+    {
+      "code": "341230",
+      "label": "Kundtjänsteman, försäkring"
+    },
+    {
+      "code": "341240",
+      "label": "Försäkringssäljare"
+    },
+    {
+      "code": "341250",
+      "label": "Underwriter"
+    },
+    {
+      "code": "341260",
+      "label": "Riskbedömare"
+    },
+    {
+      "code": "3413",
+      "label": "Fastighetsmäklare, fastighetsförvaltare m.fl."
+    },
+    {
+      "code": "341310",
+      "label": "Fastighetsmäklare"
+    },
+    {
+      "code": "341320",
+      "label": "Fastighetsförvaltare"
+    },
+    {
+      "code": "3414",
+      "label": "Reseproducenter"
+    },
+    {
+      "code": "341410",
+      "label": "Reseproducent"
+    },
+    {
+      "code": "3415",
+      "label": "Företagssäljare"
+    },
+    {
+      "code": "341510",
+      "label": "Säljare"
+    },
+    {
+      "code": "3416",
+      "label": "Inköpare"
+    },
+    {
+      "code": "341610",
+      "label": "Inköpare"
+    },
+    {
+      "code": "3417",
+      "label": "Värderare och auktionister"
+    },
+    {
+      "code": "341710",
+      "label": "Värderingsman"
+    },
+    {
+      "code": "341720",
+      "label": "Auktionist"
+    },
+    {
+      "code": "3418",
+      "label": "Banktjänstem., kreditrådgivare"
+    },
+    {
+      "code": "341810",
+      "label": "Kredithandläggare"
+    },
+    {
+      "code": "341820",
+      "label": "Privatekonomisk rådgivare"
+    },
+    {
+      "code": "341830",
+      "label": "Företagsekonomisk rådgivare"
+    },
+    {
+      "code": "341840",
+      "label": "Bankkamrer"
+    },
+    {
+      "code": "3419",
+      "label": "Övriga säljare, inköpare, mäklare m.fl."
+    },
+    {
+      "code": "341910",
+      "label": "Orderadministratör"
+    },
+    {
+      "code": "341920",
+      "label": "Kalkylator"
+    },
+    {
+      "code": "341930",
+      "label": "Kundmottagare, bilverkstad"
+    },
+    {
+      "code": "341940",
+      "label": "Butikskonsulent"
+    },
+    {
+      "code": "341950",
+      "label": "Marknadsassistent"
+    },
+    {
+      "code": "3421",
+      "label": "Agenter"
+    },
+    {
+      "code": "342110",
+      "label": "Partihandelsagent"
+    },
+    {
+      "code": "3422",
+      "label": "Speditörer"
+    },
+    {
+      "code": "342210",
+      "label": "Speditör"
+    },
+    {
+      "code": "342220",
+      "label": "Skeppsklarerare"
+    },
+    {
+      "code": "3423",
+      "label": "Platsförmedlare o. arbetsvägledare"
+    },
+    {
+      "code": "342310",
+      "label": "Platsförmedlare"
+    },
+    {
+      "code": "342320",
+      "label": "Arbetsvägledare"
+    },
+    {
+      "code": "342330",
+      "label": "Arbetskonsulent"
+    },
+    {
+      "code": "3429",
+      "label": "Övriga agenter m.fl."
+    },
+    {
+      "code": "342910",
+      "label": "Transportplanerare"
+    },
+    {
+      "code": "342920",
+      "label": "Skeppsmäklare"
+    },
+    {
+      "code": "342930",
+      "label": "Artistförmedlare"
+    },
+    {
+      "code": "3431",
+      "label": "Administrativa assistenter"
+    },
+    {
+      "code": "343110",
+      "label": "Utbildningsadministratör"
+    },
+    {
+      "code": "343120",
+      "label": "Chefssekreterare"
+    },
+    {
+      "code": "343130",
+      "label": "Institutionssekreterare"
+    },
+    {
+      "code": "343140",
+      "label": "Riksdagsstenograf"
+    },
+    {
+      "code": "343150",
+      "label": "Klockare"
+    },
+    {
+      "code": "3432",
+      "label": "Boutredare m.fl."
+    },
+    {
+      "code": "343210",
+      "label": "Boupptecknare"
+    },
+    {
+      "code": "3433",
+      "label": "Redovisningsekonomer m.fl."
+    },
+    {
+      "code": "343310",
+      "label": "Revisorsassistent"
+    },
+    {
+      "code": "343320",
+      "label": "Redovisningsekonom"
+    },
+    {
+      "code": "3441",
+      "label": "Tulltjänstemän"
+    },
+    {
+      "code": "344110",
+      "label": "Tulltjänsteman"
+    },
+    {
+      "code": "344120",
+      "label": "Kustbevakningstjänsteman"
+    },
+    {
+      "code": "3442",
+      "label": "Taxeringstjänstemän"
+    },
+    {
+      "code": "344210",
+      "label": "Skattehandläggare"
+    },
+    {
+      "code": "3443",
+      "label": "Socialförsäkringstjänstemän"
+    },
+    {
+      "code": "344310",
+      "label": "Försäkringskassetjänsteman"
+    },
+    {
+      "code": "344320",
+      "label": "Handläggare-arbetslöshetskassa"
+    },
+    {
+      "code": "3449",
+      "label": "Övriga tull, taxerings- och socialförsäkringstjänstemän"
+    },
+    {
+      "code": "344910",
+      "label": "Kammarskrivare"
+    },
+    {
+      "code": "3450",
+      "label": "Poliser"
+    },
+    {
+      "code": "345010",
+      "label": "Polis"
+    },
+    {
+      "code": "3461",
+      "label": "Behandlingsassistenter m.fl."
+    },
+    {
+      "code": "346110",
+      "label": "Behandlingsassistent"
+    },
+    {
+      "code": "346120",
+      "label": "Barnomsorgsassistent"
+    },
+    {
+      "code": "346130",
+      "label": "Hemtjänstassistent"
+    },
+    {
+      "code": "3462",
+      "label": "Fritidsledare m.fl."
+    },
+    {
+      "code": "346210",
+      "label": "Fritidsledare"
+    },
+    {
+      "code": "346220",
+      "label": "Friskvårdskonsulent"
+    },
+    {
+      "code": "346230",
+      "label": "Föreningskonsulent"
+    },
+    {
+      "code": "346240",
+      "label": "Församlingspedagog"
+    },
+    {
+      "code": "3471",
+      "label": "Tecknare, illustratörer, dekoratörer, aktörer m."
+    },
+    {
+      "code": "347110",
+      "label": "Originalare"
+    },
+    {
+      "code": "347120",
+      "label": "Illustratör"
+    },
+    {
+      "code": "347130",
+      "label": "Dekoratör"
+    },
+    {
+      "code": "347140",
+      "label": "Kostymtecknare"
+    },
+    {
+      "code": "347150",
+      "label": "Teatermålare"
+    },
+    {
+      "code": "347160",
+      "label": "Webdesigner"
+    },
+    {
+      "code": "347190",
+      "label": "Andra inom 3471"
+    },
+    {
+      "code": "3472",
+      "label": "Presentatörer i radio, TV m.m."
+    },
+    {
+      "code": "347210",
+      "label": "Inläsare"
+    },
+    {
+      "code": "347220",
+      "label": "Programvärd"
+    },
+    {
+      "code": "3473",
+      "label": "Musiker, sångare, dans. m.fl."
+    },
+    {
+      "code": "347310",
+      "label": "Sångare, populärmusik"
+    },
+    {
+      "code": "347320",
+      "label": "Musiker, populärmusik"
+    },
+    {
+      "code": "347330",
+      "label": "Dansare, show"
+    },
+    {
+      "code": "3474",
+      "label": "Cirkus- o. varietéart.  m.fl."
+    },
+    {
+      "code": "347410",
+      "label": "Cirkusartist"
+    },
+    {
+      "code": "347420",
+      "label": "Varietéartist"
+    },
+    {
+      "code": "3475",
+      "label": "Idrottstränare o. professionella idrottsutövare"
+    },
+    {
+      "code": "347510",
+      "label": "Idrottskonsulent"
+    },
+    {
+      "code": "347520",
+      "label": "Professionell idrottsutövare"
+    },
+    {
+      "code": "3476",
+      "label": "Inspicient., rekvisitör. m.fl."
+    },
+    {
+      "code": "347610",
+      "label": "Rekvisitör"
+    },
+    {
+      "code": "347620",
+      "label": "Inspicient"
+    },
+    {
+      "code": "347630",
+      "label": "Scenmästare"
+    },
+    {
+      "code": "347640",
+      "label": "Scripta"
+    },
+    {
+      "code": "347650",
+      "label": "Produktionsassistent"
+    },
+    {
+      "code": "347660",
+      "label": "Kostymmästare"
+    },
+    {
+      "code": "347670",
+      "label": "Sufflör"
+    },
+    {
+      "code": "3480",
+      "label": "Pastorer m.fl."
+    },
+    {
+      "code": "348010",
+      "label": "Pastor, frikyrkoförsamling"
+    },
+    {
+      "code": "348020",
+      "label": "Officer, Frälsningsarmén"
+    },
+    {
+      "code": "348030",
+      "label": "Missionär"
+    },
+    {
+      "code": "4111",
+      "label": "Dataregistrerare m.fl."
+    },
+    {
+      "code": "411110",
+      "label": "Dataregistrerare"
+    },
+    {
+      "code": "4112",
+      "label": "Sekreterare, läkarsekr."
+    },
+    {
+      "code": "411210",
+      "label": "Sekreterare"
+    },
+    {
+      "code": "411220",
+      "label": "Läkarsekreterare"
+    },
+    {
+      "code": "411230",
+      "label": "Registrator"
+    },
+    {
+      "code": "411240",
+      "label": "Traffic"
+    },
+    {
+      "code": "4120",
+      "label": "Bokförings- och redovisningsassistenter m.fl."
+    },
+    {
+      "code": "412010",
+      "label": "Ekonomiassistent"
+    },
+    {
+      "code": "412020",
+      "label": "Lönekontorist"
+    },
+    {
+      "code": "412030",
+      "label": "Kontorskassör"
+    },
+    {
+      "code": "4131",
+      "label": "Lagerassistenter m.fl."
+    },
+    {
+      "code": "413110",
+      "label": "Logistikassistent"
+    },
+    {
+      "code": "413120",
+      "label": "Materialman"
+    },
+    {
+      "code": "413130",
+      "label": "Lagerchef"
+    },
+    {
+      "code": "413140",
+      "label": "Lagerarbetare"
+    },
+    {
+      "code": "4132",
+      "label": "Transportassistenter"
+    },
+    {
+      "code": "413210",
+      "label": "Speditionsassistent"
+    },
+    {
+      "code": "413220",
+      "label": "Fraktassistent, flyg"
+    },
+    {
+      "code": "413230",
+      "label": "Tågklarerare"
+    },
+    {
+      "code": "413240",
+      "label": "Flygklarerare"
+    },
+    {
+      "code": "413250",
+      "label": "Stationsföreståndare, järnväg"
+    },
+    {
+      "code": "413260",
+      "label": "Transportledare, vägtrafik"
+    },
+    {
+      "code": "413270",
+      "label": "Slussvakt"
+    },
+    {
+      "code": "413280",
+      "label": "Hamnvakt"
+    },
+    {
+      "code": "413290",
+      "label": "Andra inom 4132"
+    },
+    {
+      "code": "4140",
+      "label": "Biblioteksassistenter m.fl."
+    },
+    {
+      "code": "414010",
+      "label": "Biblioteksassistent"
+    },
+    {
+      "code": "414020",
+      "label": "Arkivassistent"
+    },
+    {
+      "code": "414030",
+      "label": "Museiassistent"
+    },
+    {
+      "code": "4150",
+      "label": "Brevbärare m.fl."
+    },
+    {
+      "code": "415010",
+      "label": "Brevbärare"
+    },
+    {
+      "code": "4190",
+      "label": "Övrig kontorspersonal"
+    },
+    {
+      "code": "419010",
+      "label": "Skolassistent"
+    },
+    {
+      "code": "419020",
+      "label": "Kontorist"
+    },
+    {
+      "code": "419030",
+      "label": "Bostadsförmedlare"
+    },
+    {
+      "code": "419040",
+      "label": "Soliditetsupplysare"
+    },
+    {
+      "code": "419050",
+      "label": "Ordermottagare"
+    },
+    {
+      "code": "419090",
+      "label": "Andra inom 4190"
+    },
+    {
+      "code": "4211",
+      "label": "Kassörer, biljettförsäljare m.fl."
+    },
+    {
+      "code": "421110",
+      "label": "Biljettförsäljare"
+    },
+    {
+      "code": "421120",
+      "label": "Butikskassör"
+    },
+    {
+      "code": "421130",
+      "label": "Restaurangkassör"
+    },
+    {
+      "code": "4212",
+      "label": "Bank- och postkassörer"
+    },
+    {
+      "code": "421210",
+      "label": "Bankkassör"
+    },
+    {
+      "code": "421220",
+      "label": "Postkassör"
+    },
+    {
+      "code": "4213",
+      "label": "Croupierer m.fl."
+    },
+    {
+      "code": "421310",
+      "label": "Bingovärd"
+    },
+    {
+      "code": "421320",
+      "label": "Croupier"
+    },
+    {
+      "code": "4214",
+      "label": "Pantlånare m.fl."
+    },
+    {
+      "code": "421410",
+      "label": "Pantlånare"
+    },
+    {
+      "code": "4215",
+      "label": "Inkasserare m.fl."
+    },
+    {
+      "code": "421510",
+      "label": "Delgivningsman"
+    },
+    {
+      "code": "421520",
+      "label": "Inkassohandläggare"
+    },
+    {
+      "code": "421530",
+      "label": "Kronoinspektör"
+    },
+    {
+      "code": "4221",
+      "label": "Resebyråtjänstemän m.fl."
+    },
+    {
+      "code": "422110",
+      "label": "Resebyråtjänsteman"
+    },
+    {
+      "code": "422120",
+      "label": "Turistbyråtjänsteman"
+    },
+    {
+      "code": "4222",
+      "label": "Receptionister m.fl."
+    },
+    {
+      "code": "422210",
+      "label": "Receptionschef"
+    },
+    {
+      "code": "422220",
+      "label": "Hotellreceptionist"
+    },
+    {
+      "code": "422230",
+      "label": "Receptionist/telefonist"
+    },
+    {
+      "code": "422240",
+      "label": "Studiovärdinna"
+    },
+    {
+      "code": "4223",
+      "label": "Telefonister"
+    },
+    {
+      "code": "422310",
+      "label": "Växeltelefonist"
+    },
+    {
+      "code": "4224",
+      "label": "Trafikinformatörer m.fl."
+    },
+    {
+      "code": "422410",
+      "label": "Trafikassistent"
+    },
+    {
+      "code": "422420",
+      "label": "Trafikinformatör"
+    },
+    {
+      "code": "5111",
+      "label": "Flygvärdinnor m.fl."
+    },
+    {
+      "code": "511110",
+      "label": "Flygvärdinna"
+    },
+    {
+      "code": "511120",
+      "label": "Stationsvärd"
+    },
+    {
+      "code": "5112",
+      "label": "Tågmästare m.fl."
+    },
+    {
+      "code": "511210",
+      "label": "Tågmästare"
+    },
+    {
+      "code": "511290",
+      "label": "Andra konduktörer"
+    },
+    {
+      "code": "5113",
+      "label": "Guider och reseledare"
+    },
+    {
+      "code": "511310",
+      "label": "Reseledare"
+    },
+    {
+      "code": "511320",
+      "label": "Guide"
+    },
+    {
+      "code": "5121",
+      "label": "Storhushållsföreståndare m.fl."
+    },
+    {
+      "code": "512110",
+      "label": "Ekonomiföreståndare"
+    },
+    {
+      "code": "512120",
+      "label": "Skolmåltidsföreståndare"
+    },
+    {
+      "code": "512130",
+      "label": "Internatföreståndare"
+    },
+    {
+      "code": "512140",
+      "label": "Husfru, hotell och restaurang"
+    },
+    {
+      "code": "512190",
+      "label": "Andra inom 5121"
+    },
+    {
+      "code": "5122",
+      "label": "Kockar och kokerskor"
+    },
+    {
+      "code": "512210",
+      "label": "Kock och kokerska"
+    },
+    {
+      "code": "512220",
+      "label": "Specialkock"
+    },
+    {
+      "code": "512230",
+      "label": "Kocksteward"
+    },
+    {
+      "code": "512240",
+      "label": "Kallskänka"
+    },
+    {
+      "code": "512290",
+      "label": "Andra inom 5122"
+    },
+    {
+      "code": "5123",
+      "label": "Hovmästare, servitörer o bartender"
+    },
+    {
+      "code": "512310",
+      "label": "Hovmästare"
+    },
+    {
+      "code": "512320",
+      "label": "Servitör o. servitris"
+    },
+    {
+      "code": "512330",
+      "label": "Bartender"
+    },
+    {
+      "code": "512340",
+      "label": "Servitris, kafé och konditori"
+    },
+    {
+      "code": "512350",
+      "label": "Mässman"
+    },
+    {
+      "code": "512390",
+      "label": "Andra inom 5123"
+    },
+    {
+      "code": "5131",
+      "label": "Barnskötare m.fl."
+    },
+    {
+      "code": "513110",
+      "label": "Barnskötare"
+    },
+    {
+      "code": "513120",
+      "label": "Dagbarnvårdare"
+    },
+    {
+      "code": "513130",
+      "label": "Elevassistent"
+    },
+    {
+      "code": "513140",
+      "label": "Skolvärdinna"
+    },
+    {
+      "code": "513150",
+      "label": "Lärarassistent"
+    },
+    {
+      "code": "5132",
+      "label": "Undersköterskor, sjukvårdsbiträden m.fl."
+    },
+    {
+      "code": "513210",
+      "label": "Undersköterska"
+    },
+    {
+      "code": "513220",
+      "label": "Sjukvårdsbiträde"
+    },
+    {
+      "code": "513230",
+      "label": "Ambulanssjukvårdare"
+    },
+    {
+      "code": "513290",
+      "label": "Andra inom 5132"
+    },
+    {
+      "code": "5133",
+      "label": "Vårdbiträden, personliga assistenter m.fl."
+    },
+    {
+      "code": "513310",
+      "label": "Personlig assistent"
+    },
+    {
+      "code": "513320",
+      "label": "Vårdbiträde"
+    },
+    {
+      "code": "513330",
+      "label": "Hemvårdare"
+    },
+    {
+      "code": "5134",
+      "label": "Skötare, vårdare m.fl."
+    },
+    {
+      "code": "513410",
+      "label": "Skötare, psykiatrisk vård"
+    },
+    {
+      "code": "513420",
+      "label": "Vårdare, omsorgsverksamhet"
+    },
+    {
+      "code": "513430",
+      "label": "Vårdare, behandlingsarbete"
+    },
+    {
+      "code": "5135",
+      "label": "Tandsköterskor"
+    },
+    {
+      "code": "513510",
+      "label": "Tandsköterska"
+    },
+    {
+      "code": "5139",
+      "label": "Övrig vård- och omsorgspersonal"
+    },
+    {
+      "code": "513910",
+      "label": "Apotekstekniker"
+    },
+    {
+      "code": "513920",
+      "label": "Tandvårdsassistent"
+    },
+    {
+      "code": "513930",
+      "label": "Obduktionsassistent"
+    },
+    {
+      "code": "513990",
+      "label": "Andra inom 5139"
+    },
+    {
+      "code": "5141",
+      "label": "Frisörer, hudterapeuter m.fl."
+    },
+    {
+      "code": "514110",
+      "label": "Frisör"
+    },
+    {
+      "code": "514120",
+      "label": "Maskör"
+    },
+    {
+      "code": "514130",
+      "label": "Hudterapeut"
+    },
+    {
+      "code": "514140",
+      "label": "Fotvårdsspecialist"
+    },
+    {
+      "code": "514150",
+      "label": "Badmästare"
+    },
+    {
+      "code": "514160",
+      "label": "Massör"
+    },
+    {
+      "code": "514190",
+      "label": "Andra inom 5141"
+    },
+    {
+      "code": "5142",
+      "label": "Begravningsentreprenörer m.fl."
+    },
+    {
+      "code": "514210",
+      "label": "Begravningsentreprenör"
+    },
+    {
+      "code": "514220",
+      "label": "Krematoriemästare"
+    },
+    {
+      "code": "5149",
+      "label": "Övriga serviceyrken"
+    },
+    {
+      "code": "514910",
+      "label": "Betjänt"
+    },
+    {
+      "code": "5151",
+      "label": "Brandmän"
+    },
+    {
+      "code": "515110",
+      "label": "Brandman"
+    },
+    {
+      "code": "515120",
+      "label": "Brandbefäl"
+    },
+    {
+      "code": "5152",
+      "label": "Väktare, ordningsvakter m.fl."
+    },
+    {
+      "code": "515210",
+      "label": "Väktare"
+    },
+    {
+      "code": "515220",
+      "label": "Parkeringsvakt"
+    },
+    {
+      "code": "5153",
+      "label": "Kriminalvårdare"
+    },
+    {
+      "code": "515310",
+      "label": "Vårdare, kriminalvård"
+    },
+    {
+      "code": "5159",
+      "label": "Övrig säkerhetspersonal"
+    },
+    {
+      "code": "515910",
+      "label": "Badvakt"
+    },
+    {
+      "code": "515920",
+      "label": "Privatdetektiv"
+    },
+    {
+      "code": "515990",
+      "label": "Övriga inom 5159"
+    },
+    {
+      "code": "5210",
+      "label": "Fotomodeller m.fl."
+    },
+    {
+      "code": "521010",
+      "label": "Fotomodell"
+    },
+    {
+      "code": "521020",
+      "label": "Modell"
+    },
+    {
+      "code": "5221",
+      "label": "Försäljare, dagligvaror"
+    },
+    {
+      "code": "522110",
+      "label": "Försäljare, dagligvaror"
+    },
+    {
+      "code": "5222",
+      "label": "Försäljare, fackhandel"
+    },
+    {
+      "code": "522210",
+      "label": "Försäljare, fackhandel"
+    },
+    {
+      "code": "522220",
+      "label": "Florist"
+    },
+    {
+      "code": "5223",
+      "label": "Kaféföreståndare m.fl."
+    },
+    {
+      "code": "522310",
+      "label": "Kaféföreståndare"
+    },
+    {
+      "code": "5224",
+      "label": "Kioskägare m.fl."
+    },
+    {
+      "code": "522410",
+      "label": "Kioskägare"
+    },
+    {
+      "code": "5225",
+      "label": "Bensinstationsföreståndare,  reservdelsförsäljare"
+    },
+    {
+      "code": "522510",
+      "label": "Bensinstationsföreståndare"
+    },
+    {
+      "code": "522520",
+      "label": "Bensinstationsbiträde"
+    },
+    {
+      "code": "522530",
+      "label": "Reservdelsförsäljare"
+    },
+    {
+      "code": "5226",
+      "label": "Bil-, båt- o. husvagnsförsäljare"
+    },
+    {
+      "code": "522610",
+      "label": "Bilförsäljare"
+    },
+    {
+      "code": "5227",
+      "label": "Demonstratörer, uthyrare m.fl."
+    },
+    {
+      "code": "522710",
+      "label": "Intervjuare"
+    },
+    {
+      "code": "522720",
+      "label": "Annonssäljare"
+    },
+    {
+      "code": "522730",
+      "label": "Uthyrare"
+    },
+    {
+      "code": "522740",
+      "label": "Demonstratör"
+    },
+    {
+      "code": "522750",
+      "label": "Telefonförsäljare"
+    },
+    {
+      "code": "6111",
+      "label": "Odlare jordbruksväxter, frukt o. bär"
+    },
+    {
+      "code": "611110",
+      "label": "Lantbrukare, växtodling"
+    },
+    {
+      "code": "611120",
+      "label": "Gårdsmästare, växtodling"
+    },
+    {
+      "code": "6112",
+      "label": "Trädgårdsodlare"
+    },
+    {
+      "code": "611210",
+      "label": "Trädgårdsmästare, odling"
+    },
+    {
+      "code": "611220",
+      "label": "Trädgårdsarbetare"
+    },
+    {
+      "code": "611290",
+      "label": "Andra inom 6112"
+    },
+    {
+      "code": "6113",
+      "label": "Trädgårdsanläggare m.fl."
+    },
+    {
+      "code": "611310",
+      "label": "Trädgårdsanläggare"
+    },
+    {
+      "code": "611320",
+      "label": "Parkarbetare"
+    },
+    {
+      "code": "611390",
+      "label": "Andra inom 6113"
+    },
+    {
+      "code": "6121",
+      "label": "Husdjursuppfödare. o husdjursskötare."
+    },
+    {
+      "code": "612110",
+      "label": "Lantbrukare, djuruppfödning"
+    },
+    {
+      "code": "612120",
+      "label": "Ladugårdsförman"
+    },
+    {
+      "code": "612130",
+      "label": "Djurskötare, djuruppfödning"
+    },
+    {
+      "code": "612140",
+      "label": "Avbytare, jordbruk"
+    },
+    {
+      "code": "612150",
+      "label": "Hästskötare"
+    },
+    {
+      "code": "612160",
+      "label": "Husdjurstekniker"
+    },
+    {
+      "code": "6122",
+      "label": "Fjäderfäuppfödare"
+    },
+    {
+      "code": "612210",
+      "label": "Fjäderfäskötare"
+    },
+    {
+      "code": "6129",
+      "label": "Övriga djuruppfödare och djursskötare"
+    },
+    {
+      "code": "612910",
+      "label": "Renskötare"
+    },
+    {
+      "code": "612920",
+      "label": "Pälsdjursskötare"
+    },
+    {
+      "code": "612930",
+      "label": "Djurskötare, djurpark"
+    },
+    {
+      "code": "612940",
+      "label": "Hundskötare"
+    },
+    {
+      "code": "612950",
+      "label": "Försöksdjurskötare"
+    },
+    {
+      "code": "612990",
+      "label": "Andra inom 6129"
+    },
+    {
+      "code": "6130",
+      "label": "Växtodlare och djuruppfödare"
+    },
+    {
+      "code": "613010",
+      "label": "Lantbrukare, blandad drift"
+    },
+    {
+      "code": "613020",
+      "label": "Gårdsmästare, blandad drift"
+    },
+    {
+      "code": "613030",
+      "label": "Djurskötare, blandad drift"
+    },
+    {
+      "code": "613090",
+      "label": "Andra inom 6130"
+    },
+    {
+      "code": "6140",
+      "label": "Skogsbrukare"
+    },
+    {
+      "code": "614010",
+      "label": "Skogsbrukare"
+    },
+    {
+      "code": "614020",
+      "label": "Skogsförman"
+    },
+    {
+      "code": "614030",
+      "label": "Skogsarbetare"
+    },
+    {
+      "code": "614040",
+      "label": "Virkesmätare"
+    },
+    {
+      "code": "614090",
+      "label": "Andra inom 6140"
+    },
+    {
+      "code": "6151",
+      "label": "Fiskodlare m.fl."
+    },
+    {
+      "code": "615110",
+      "label": "Fiskodlare"
+    },
+    {
+      "code": "6152",
+      "label": "Fiskare"
+    },
+    {
+      "code": "615210",
+      "label": "Fiskare"
+    },
+    {
+      "code": "6153",
+      "label": "Jägare"
+    },
+    {
+      "code": "615310",
+      "label": "Jägare"
+    },
+    {
+      "code": "7111",
+      "label": "Gruv- och bergarbetare"
+    },
+    {
+      "code": "711110",
+      "label": "Gruvarbetare"
+    },
+    {
+      "code": "711120",
+      "label": "Bergarbetare"
+    },
+    {
+      "code": "711130",
+      "label": "Grustagsarbetare"
+    },
+    {
+      "code": "7112",
+      "label": "Stenhuggare m.fl."
+    },
+    {
+      "code": "711210",
+      "label": "Stenbrottsarbetare"
+    },
+    {
+      "code": "711220",
+      "label": "Stengravör"
+    },
+    {
+      "code": "7121",
+      "label": "Murare m.fl."
+    },
+    {
+      "code": "712110",
+      "label": "Murare"
+    },
+    {
+      "code": "712120",
+      "label": "Plattsättare"
+    },
+    {
+      "code": "712130",
+      "label": "Stuckatör"
+    },
+    {
+      "code": "7122",
+      "label": "Betongarbetare m.fl."
+    },
+    {
+      "code": "712210",
+      "label": "Betongarbetare"
+    },
+    {
+      "code": "712220",
+      "label": "Håltagare"
+    },
+    {
+      "code": "7123",
+      "label": "Byggnadsträarb., inredn. snickare m.fl."
+    },
+    {
+      "code": "712310",
+      "label": "Båtbyggare"
+    },
+    {
+      "code": "712320",
+      "label": "Inredningssnickare"
+    },
+    {
+      "code": "712330",
+      "label": "Byggnadsträarbetare"
+    },
+    {
+      "code": "712340",
+      "label": "Ställningsbyggare"
+    },
+    {
+      "code": "712350",
+      "label": "Gruvbyggare"
+    },
+    {
+      "code": "7124",
+      "label": "Anläggningsarbetare m.fl."
+    },
+    {
+      "code": "712410",
+      "label": "Utsättarbiträde"
+    },
+    {
+      "code": "712420",
+      "label": "Anläggningsarbetare"
+    },
+    {
+      "code": "712430",
+      "label": "Banreparatör"
+    },
+    {
+      "code": "712440",
+      "label": "Rörläggare"
+    },
+    {
+      "code": "712450",
+      "label": "Stensättare"
+    },
+    {
+      "code": "7129",
+      "label": "Övriga byggnads- och anläggningsarbetare"
+    },
+    {
+      "code": "712910",
+      "label": "Byggnadsarbetare, allround"
+    },
+    {
+      "code": "7131",
+      "label": "Takmontörer"
+    },
+    {
+      "code": "713110",
+      "label": "Undertaksmontör"
+    },
+    {
+      "code": "713120",
+      "label": "Takmontör"
+    },
+    {
+      "code": "7132",
+      "label": "Golvläggare m.fl."
+    },
+    {
+      "code": "713210",
+      "label": "Golvslipare"
+    },
+    {
+      "code": "713220",
+      "label": "Golvläggare"
+    },
+    {
+      "code": "7133",
+      "label": "Isoleringsmontörer"
+    },
+    {
+      "code": "713310",
+      "label": "VVS-isolerare"
+    },
+    {
+      "code": "713320",
+      "label": "Industriisolerare"
+    },
+    {
+      "code": "713330",
+      "label": "Tak- och fasadisolerare"
+    },
+    {
+      "code": "713390",
+      "label": "Andra inom 7133"
+    },
+    {
+      "code": "7134",
+      "label": "Glasmästare"
+    },
+    {
+      "code": "713410",
+      "label": "Glasmästare"
+    },
+    {
+      "code": "7135",
+      "label": "VVS-montörer m.fl."
+    },
+    {
+      "code": "713510",
+      "label": "VVS-montör"
+    },
+    {
+      "code": "713520",
+      "label": "Industrirörmontör"
+    },
+    {
+      "code": "713530",
+      "label": "Kylmontör"
+    },
+    {
+      "code": "7136",
+      "label": "Installationselektriker m.fl."
+    },
+    {
+      "code": "713610",
+      "label": "Installationselektriker"
+    },
+    {
+      "code": "7137",
+      "label": "Fastighetsskötare"
+    },
+    {
+      "code": "713710",
+      "label": "Fastighetsmaskinist"
+    },
+    {
+      "code": "713720",
+      "label": "Fastighetsskötare"
+    },
+    {
+      "code": "713730",
+      "label": "Skolvaktmästare"
+    },
+    {
+      "code": "713740",
+      "label": "Idrottsplatsvaktmästare"
+    },
+    {
+      "code": "713750",
+      "label": "Mätaruppsättare"
+    },
+    {
+      "code": "7139",
+      "label": "Övriga byggnadshantverkare"
+    },
+    {
+      "code": "713910",
+      "label": "Stenmontör"
+    },
+    {
+      "code": "7141",
+      "label": "Målare"
+    },
+    {
+      "code": "714110",
+      "label": "Byggnadsmålare"
+    },
+    {
+      "code": "714120",
+      "label": "Servicearbetare, måleri"
+    },
+    {
+      "code": "7142",
+      "label": "Lackerare"
+    },
+    {
+      "code": "714210",
+      "label": "Industrilackerare"
+    },
+    {
+      "code": "714220",
+      "label": "Billackerare"
+    },
+    {
+      "code": "714230",
+      "label": "Brännare, lack, emalj"
+    },
+    {
+      "code": "714240",
+      "label": "Blästrare"
+    },
+    {
+      "code": "7143",
+      "label": "Skorstensfejare, saneringsarb."
+    },
+    {
+      "code": "714310",
+      "label": "Skorstensfejare"
+    },
+    {
+      "code": "714320",
+      "label": "Saneringsarbetare"
+    },
+    {
+      "code": "7211",
+      "label": "Gjutare"
+    },
+    {
+      "code": "721110",
+      "label": "Gjutare"
+    },
+    {
+      "code": "7212",
+      "label": "Svetsare och gasskärare"
+    },
+    {
+      "code": "721210",
+      "label": "Svetsare"
+    },
+    {
+      "code": "721220",
+      "label": "Gasskärare"
+    },
+    {
+      "code": "721230",
+      "label": "Lödare"
+    },
+    {
+      "code": "7213",
+      "label": "Tunnplåtslagare"
+    },
+    {
+      "code": "721310",
+      "label": "Industriplåtslagare"
+    },
+    {
+      "code": "721320",
+      "label": "Byggnadsplåtslagare"
+    },
+    {
+      "code": "721330",
+      "label": "Ventilationsplåtslagare"
+    },
+    {
+      "code": "721340",
+      "label": "Flygplansplåtslagare"
+    },
+    {
+      "code": "721350",
+      "label": "Bilplåtslagare"
+    },
+    {
+      "code": "721360",
+      "label": "Cisternreparatör"
+    },
+    {
+      "code": "7214",
+      "label": "Stålkonstruktionsmontörer och"
+    },
+    {
+      "code": "721410",
+      "label": "Grovplåtslagare"
+    },
+    {
+      "code": "721420",
+      "label": "Stålkonstruktionsmontör"
+    },
+    {
+      "code": "7215",
+      "label": "Riggare och kabelsplitsare"
+    },
+    {
+      "code": "721510",
+      "label": "Riggare, kranar m.m."
+    },
+    {
+      "code": "7216",
+      "label": "Dykare"
+    },
+    {
+      "code": "721610",
+      "label": "Dykare"
+    },
+    {
+      "code": "721620",
+      "label": "Dykledare"
+    },
+    {
+      "code": "7221",
+      "label": "Smeder"
+    },
+    {
+      "code": "722110",
+      "label": "Smed"
+    },
+    {
+      "code": "722120",
+      "label": "Hovslagare"
+    },
+    {
+      "code": "7222",
+      "label": "Verktygsmakare m.fl."
+    },
+    {
+      "code": "722210",
+      "label": "Verktygsmakare"
+    },
+    {
+      "code": "722220",
+      "label": "Filare"
+    },
+    {
+      "code": "722290",
+      "label": "Andra inom 7222"
+    },
+    {
+      "code": "7223",
+      "label": "Verktygsuppsättare"
+    },
+    {
+      "code": "722310",
+      "label": "Verktygsuppsättare"
+    },
+    {
+      "code": "7224",
+      "label": "Slipare m.fl."
+    },
+    {
+      "code": "722410",
+      "label": "Hyvlare, metall"
+    },
+    {
+      "code": "722420",
+      "label": "Slipare, metall"
+    },
+    {
+      "code": "722430",
+      "label": "Polerare, metall"
+    },
+    {
+      "code": "722440",
+      "label": "Avsynare, metallprodukter"
+    },
+    {
+      "code": "7231",
+      "label": "Motorfordonsmek. och motorrep."
+    },
+    {
+      "code": "723110",
+      "label": "Bilmekaniker"
+    },
+    {
+      "code": "723120",
+      "label": "Lastbils- o. maskinmekaniker"
+    },
+    {
+      "code": "723130",
+      "label": "Cykelreparatör"
+    },
+    {
+      "code": "7232",
+      "label": "Flygmek. och flygreparatörer"
+    },
+    {
+      "code": "723210",
+      "label": "Flygmekaniker"
+    },
+    {
+      "code": "7233",
+      "label": "Maskinmekaniker, maskinmontörer o. maskinreparatörer"
+    },
+    {
+      "code": "723310",
+      "label": "Maskinreparatör"
+    },
+    {
+      "code": "723320",
+      "label": "Lokreparatör"
+    },
+    {
+      "code": "723330",
+      "label": "Motorman"
+    },
+    {
+      "code": "7241",
+      "label": "Elmontörer och elreparatörer"
+    },
+    {
+      "code": "724110",
+      "label": "Industrielektriker"
+    },
+    {
+      "code": "724120",
+      "label": "Hissmontör"
+    },
+    {
+      "code": "724130",
+      "label": "Fordonselektriker"
+    },
+    {
+      "code": "724140",
+      "label": "Vitvarureparatör"
+    },
+    {
+      "code": "724150",
+      "label": "Fartygselektriker"
+    },
+    {
+      "code": "7242",
+      "label": "Tele- och elektronikreparatöre"
+    },
+    {
+      "code": "724210",
+      "label": "Styr- och reglermekaniker"
+    },
+    {
+      "code": "724220",
+      "label": "Servicetekniker, data"
+    },
+    {
+      "code": "724230",
+      "label": "Telereparatör"
+    },
+    {
+      "code": "724240",
+      "label": "Larminstallatör"
+    },
+    {
+      "code": "724250",
+      "label": "Hemelektronikreparatör"
+    },
+    {
+      "code": "7243",
+      "label": "Distributionselektriker"
+    },
+    {
+      "code": "724310",
+      "label": "Distributionselektriker"
+    },
+    {
+      "code": "724320",
+      "label": "Ställverksmontör"
+    },
+    {
+      "code": "7311",
+      "label": "Finmekaniker"
+    },
+    {
+      "code": "731110",
+      "label": "Låssmed"
+    },
+    {
+      "code": "731120",
+      "label": "Urmakare"
+    },
+    {
+      "code": "731130",
+      "label": "Instrumenttekniker, finmekanik"
+    },
+    {
+      "code": "731140",
+      "label": "Hjälpmedelstekniker"
+    },
+    {
+      "code": "731150",
+      "label": "Vapenmekaniker"
+    },
+    {
+      "code": "731190",
+      "label": "Andra inom 7311"
+    },
+    {
+      "code": "7312",
+      "label": "Musikinstrumentmakare m.fl."
+    },
+    {
+      "code": "731210",
+      "label": "Stränginstrumentmakare"
+    },
+    {
+      "code": "731220",
+      "label": "Blåsinstrumentmakare"
+    },
+    {
+      "code": "731230",
+      "label": "Dragspelsbyggare"
+    },
+    {
+      "code": "731240",
+      "label": "Pianotekniker"
+    },
+    {
+      "code": "731250",
+      "label": "Trumtillverkare"
+    },
+    {
+      "code": "731260",
+      "label": "Orgelbyggare"
+    },
+    {
+      "code": "731290",
+      "label": "Andra inom 7312"
+    },
+    {
+      "code": "7313",
+      "label": "Guld- och silversmeder"
+    },
+    {
+      "code": "731310",
+      "label": "Guldsmed"
+    },
+    {
+      "code": "731320",
+      "label": "Ciselör"
+    },
+    {
+      "code": "731330",
+      "label": "Gemmolog"
+    },
+    {
+      "code": "731340",
+      "label": "Kopparslagare"
+    },
+    {
+      "code": "731390",
+      "label": "Andra inom 7313"
+    },
+    {
+      "code": "7321",
+      "label": "Drejare m.fl."
+    },
+    {
+      "code": "732110",
+      "label": "Formare, keramik"
+    },
+    {
+      "code": "7322",
+      "label": "Glashyttearbetare m.fl."
+    },
+    {
+      "code": "732210",
+      "label": "Glashyttearbetare"
+    },
+    {
+      "code": "7323",
+      "label": "Glasgravörer m.fl."
+    },
+    {
+      "code": "732310",
+      "label": "Glasgravör"
+    },
+    {
+      "code": "7324",
+      "label": "Dekorationsmålare"
+    },
+    {
+      "code": "732410",
+      "label": "Gravör"
+    },
+    {
+      "code": "732420",
+      "label": "Glas- och porslinsmålare"
+    },
+    {
+      "code": "7330",
+      "label": "Konsthantv., trä, textil,läder m.m."
+    },
+    {
+      "code": "733010",
+      "label": "Konsthantverkare, trä"
+    },
+    {
+      "code": "733020",
+      "label": "Konsthantverkare, textil, läder"
+    },
+    {
+      "code": "733030",
+      "label": "Attributmakare"
+    },
+    {
+      "code": "7341",
+      "label": "Text- och bildoperatörer m.fl."
+    },
+    {
+      "code": "734110",
+      "label": "Text- och bildoperatör"
+    },
+    {
+      "code": "7342",
+      "label": "Etsare o gravörer, tryckmedier"
+    },
+    {
+      "code": "734210",
+      "label": "Etsare, tryckmedium"
+    },
+    {
+      "code": "734220",
+      "label": "Gravör, tryckmedier"
+    },
+    {
+      "code": "7343",
+      "label": "Privatbokbindare"
+    },
+    {
+      "code": "734310",
+      "label": "Privatbokbindare"
+    },
+    {
+      "code": "7344",
+      "label": "Screen- och schablontryckare"
+    },
+    {
+      "code": "734410",
+      "label": "Screentryckare"
+    },
+    {
+      "code": "7411",
+      "label": "Slaktare, styckare m.fl."
+    },
+    {
+      "code": "741110",
+      "label": "Slaktare"
+    },
+    {
+      "code": "741120",
+      "label": "Styckare"
+    },
+    {
+      "code": "741130",
+      "label": "Charkuterist"
+    },
+    {
+      "code": "7412",
+      "label": "Bagare och konditorer"
+    },
+    {
+      "code": "741210",
+      "label": "Konditor"
+    },
+    {
+      "code": "741220",
+      "label": "Bagare"
+    },
+    {
+      "code": "741230",
+      "label": "Pizzabagare"
+    },
+    {
+      "code": "7413",
+      "label": "Provsmakare och kvalitetsbedömare"
+    },
+    {
+      "code": "741310",
+      "label": "Kvalitetsbedömare, livsmedel"
+    },
+    {
+      "code": "741320",
+      "label": "Köttklassificerare"
+    },
+    {
+      "code": "7421",
+      "label": "Möbelsnickare m.fl."
+    },
+    {
+      "code": "742110",
+      "label": "Möbelsnickare"
+    },
+    {
+      "code": "742120",
+      "label": "Modellsnickare"
+    },
+    {
+      "code": "742130",
+      "label": "Träförgyllare"
+    },
+    {
+      "code": "7422",
+      "label": "Korgmakare och borstbindare"
+    },
+    {
+      "code": "742210",
+      "label": "Korgmakeriarbetare"
+    },
+    {
+      "code": "742220",
+      "label": "Borstbinderiarbetare"
+    },
+    {
+      "code": "7431",
+      "label": "Skräddare, modister och ateljésömmerskor"
+    },
+    {
+      "code": "743110",
+      "label": "Modist"
+    },
+    {
+      "code": "743120",
+      "label": "Skräddare"
+    },
+    {
+      "code": "7432",
+      "label": "Körsnärer m.fl."
+    },
+    {
+      "code": "743210",
+      "label": "Körsnär"
+    },
+    {
+      "code": "7433",
+      "label": "Tillskärare"
+    },
+    {
+      "code": "743310",
+      "label": "Tillskärare, konfektion"
+    },
+    {
+      "code": "7434",
+      "label": "Sömmare m.fl."
+    },
+    {
+      "code": "743410",
+      "label": "Segelmakare"
+    },
+    {
+      "code": "743420",
+      "label": "Övriga sömmare"
+    },
+    {
+      "code": "7435",
+      "label": "Tapetserare"
+    },
+    {
+      "code": "743510",
+      "label": "Tapetserare"
+    },
+    {
+      "code": "743520",
+      "label": "Tapetserare, fordon"
+    },
+    {
+      "code": "7441",
+      "label": "Garvare, skinnberedare"
+    },
+    {
+      "code": "744110",
+      "label": "Garvare, skinnberedare"
+    },
+    {
+      "code": "744120",
+      "label": "Garveriarbetare"
+    },
+    {
+      "code": "7442",
+      "label": "Skomakare m.fl."
+    },
+    {
+      "code": "744210",
+      "label": "Skomakare"
+    },
+    {
+      "code": "744220",
+      "label": "Sadelmakare"
+    },
+    {
+      "code": "8111",
+      "label": "Operatörer, sten-, kross- och malmförädlingsanläggning"
+    },
+    {
+      "code": "811110",
+      "label": "Stenkrosskötare"
+    },
+    {
+      "code": "811120",
+      "label": "Processoperatör, malmanrikning"
+    },
+    {
+      "code": "8112",
+      "label": "Brunnsborrare m.fl."
+    },
+    {
+      "code": "811210",
+      "label": "Brunnsborrare"
+    },
+    {
+      "code": "811220",
+      "label": "Diamantborrare"
+    },
+    {
+      "code": "811230",
+      "label": "Oljeborrare"
+    },
+    {
+      "code": "8121",
+      "label": "Ugnsoperatörer m.fl."
+    },
+    {
+      "code": "812110",
+      "label": "Reglerare, masugn"
+    },
+    {
+      "code": "812120",
+      "label": "Processoperatör, stålverk"
+    },
+    {
+      "code": "8122",
+      "label": "Valsverksoperatörer"
+    },
+    {
+      "code": "812210",
+      "label": "Valsverksoperatör"
+    },
+    {
+      "code": "8123",
+      "label": "Värmebehandlingsoperatörer"
+    },
+    {
+      "code": "812310",
+      "label": "Processoperatör, värmebehandl."
+    },
+    {
+      "code": "8124",
+      "label": "Tråddragare m.fl."
+    },
+    {
+      "code": "812410",
+      "label": "Tråddragare"
+    },
+    {
+      "code": "812490",
+      "label": "Andra inom 8124"
+    },
+    {
+      "code": "8125",
+      "label": "Gjuterioperatörer"
+    },
+    {
+      "code": "812510",
+      "label": "Gjuterioperatör"
+    },
+    {
+      "code": "8130",
+      "label": "Processoperatör, glas- och  keramiska produkter"
+    },
+    {
+      "code": "813010",
+      "label": "Tegelbruksarbetare"
+    },
+    {
+      "code": "813020",
+      "label": "Processoperatör, glas"
+    },
+    {
+      "code": "813090",
+      "label": "Andra inom 8130"
+    },
+    {
+      "code": "8141",
+      "label": "Sågverksoperatörer"
+    },
+    {
+      "code": "814110",
+      "label": "Sågverksoperatör"
+    },
+    {
+      "code": "814120",
+      "label": "Virkessorterare"
+    },
+    {
+      "code": "8142",
+      "label": "Processoperatörer, träfiberindustri"
+    },
+    {
+      "code": "814210",
+      "label": "Maskinförare, träfiberskivor"
+    },
+    {
+      "code": "8143",
+      "label": "Processoperatörer, pappersmassa"
+    },
+    {
+      "code": "814310",
+      "label": "Processoperatör, pappersmassa"
+    },
+    {
+      "code": "8144",
+      "label": "Processoperatörer, papper"
+    },
+    {
+      "code": "814410",
+      "label": "Processoperatör, papper"
+    },
+    {
+      "code": "8150",
+      "label": "Processoperatörer, kemisk ind."
+    },
+    {
+      "code": "815010",
+      "label": "Processoperatör, kemisk ind."
+    },
+    {
+      "code": "8160",
+      "label": "Driftmaskinister m.fl."
+    },
+    {
+      "code": "816010",
+      "label": "Driftmaskinist,värmeverk"
+    },
+    {
+      "code": "816020",
+      "label": "Driftpersonal, vattenrening"
+    },
+    {
+      "code": "816090",
+      "label": "Andra inom 8161"
+    },
+    {
+      "code": "8170",
+      "label": "Industrirobotoperatörer"
+    },
+    {
+      "code": "817010",
+      "label": "Industrirobotoperatör"
+    },
+    {
+      "code": "8211",
+      "label": "Verktygsmaskinoperatörer"
+    },
+    {
+      "code": "821105",
+      "label": "Verkstadmekaniker, allround"
+    },
+    {
+      "code": "821110",
+      "label": "CNC-operatör"
+    },
+    {
+      "code": "821115",
+      "label": "FMS-operatör"
+    },
+    {
+      "code": "821120",
+      "label": "Fräsare"
+    },
+    {
+      "code": "821130",
+      "label": "Svarvare"
+    },
+    {
+      "code": "821140",
+      "label": "Borrare, metall"
+    },
+    {
+      "code": "821145",
+      "label": "Arborrare"
+    },
+    {
+      "code": "821150",
+      "label": "Automatmaskinskötare"
+    },
+    {
+      "code": "821155",
+      "label": "Gnistare"
+    },
+    {
+      "code": "821160",
+      "label": "Automatsvetsare"
+    },
+    {
+      "code": "821170",
+      "label": "Metallpressare"
+    },
+    {
+      "code": "821175",
+      "label": "Metalltryckare"
+    },
+    {
+      "code": "821180",
+      "label": "Metallsågare"
+    },
+    {
+      "code": "821185",
+      "label": "Plåtskärare"
+    },
+    {
+      "code": "821190",
+      "label": "Andra inom 8211"
+    },
+    {
+      "code": "8212",
+      "label": "Maskinoperatörer, sten-, cement- och betongvaror"
+    },
+    {
+      "code": "821210",
+      "label": "Betongblandare"
+    },
+    {
+      "code": "821220",
+      "label": "Processoperatör, cementtillv."
+    },
+    {
+      "code": "821230",
+      "label": "Asfaltverksskötare"
+    },
+    {
+      "code": "821240",
+      "label": "Betongvaruarbetare"
+    },
+    {
+      "code": "821250",
+      "label": "Stenmaskinskötare"
+    },
+    {
+      "code": "821290",
+      "label": "Andra inom 8212"
+    },
+    {
+      "code": "8221",
+      "label": "Maskinoperatörer, läkemedelsindustri o. hygienteknisk industri"
+    },
+    {
+      "code": "822110",
+      "label": "Farmacevtisk operatör"
+    },
+    {
+      "code": "822120",
+      "label": "Hygienteknisk operatör"
+    },
+    {
+      "code": "8222",
+      "label": "Maskinoperatörer, ammunitions- o. sprängämnesindustri"
+    },
+    {
+      "code": "822210",
+      "label": "Ammunitionsarbetare"
+    },
+    {
+      "code": "8223",
+      "label": "Maskinoperatörer, ytbehandling"
+    },
+    {
+      "code": "822310",
+      "label": "Ytbehandlare, metall"
+    },
+    {
+      "code": "822320",
+      "label": "Förgyllare, metall"
+    },
+    {
+      "code": "8224",
+      "label": "Maskinoperatörer, fotografiska produkter"
+    },
+    {
+      "code": "822410",
+      "label": "Fotoframkallare"
+    },
+    {
+      "code": "822420",
+      "label": "Kopieringsmaskinskötare"
+    },
+    {
+      "code": "8229",
+      "label": "Övriga maskinoperatörer, kemisk-teknisk industri"
+    },
+    {
+      "code": "822910",
+      "label": "Andra inom 822"
+    },
+    {
+      "code": "8231",
+      "label": "Maskinoperatörer, gummiindustri"
+    },
+    {
+      "code": "823110",
+      "label": "Gummivaruarbetare"
+    },
+    {
+      "code": "823120",
+      "label": "Däcksbyggare"
+    },
+    {
+      "code": "8232",
+      "label": "Maskinoperatörer, plastindustr"
+    },
+    {
+      "code": "823210",
+      "label": "Formsprutställare"
+    },
+    {
+      "code": "823220",
+      "label": "Plastarbetare"
+    },
+    {
+      "code": "8240",
+      "label": "Maskinoperatörer, trävaruind."
+    },
+    {
+      "code": "824010",
+      "label": "Maskinsnickare"
+    },
+    {
+      "code": "8251",
+      "label": "Maskinoperatörer, tryckeri"
+    },
+    {
+      "code": "825110",
+      "label": "Tryckare, grafisk industri"
+    },
+    {
+      "code": "8252",
+      "label": "Maskinoperatörer, bokbinderi"
+    },
+    {
+      "code": "825210",
+      "label": "Maskinbokbindare"
+    },
+    {
+      "code": "8253",
+      "label": "Maskinoperatörer, pappersvar."
+    },
+    {
+      "code": "825310",
+      "label": "Pappersvaruarbetare"
+    },
+    {
+      "code": "8261",
+      "label": "Maskinoperatörer, garnberednin"
+    },
+    {
+      "code": "826110",
+      "label": "Spinnmaskinställare"
+    },
+    {
+      "code": "826120",
+      "label": "Spinnmaskinoperatör"
+    },
+    {
+      "code": "8262",
+      "label": "Maskinoperatörer, vävning och stickning"
+    },
+    {
+      "code": "826210",
+      "label": "Vävmaskinställare"
+    },
+    {
+      "code": "826220",
+      "label": "Maskinvävare"
+    },
+    {
+      "code": "826230",
+      "label": "Trikåstickare"
+    },
+    {
+      "code": "8263",
+      "label": "Symaskinoperatörer"
+    },
+    {
+      "code": "826310",
+      "label": "Sömmerska"
+    },
+    {
+      "code": "8264",
+      "label": "Maskinoperatörer, blekning, färgning och tvättning"
+    },
+    {
+      "code": "826410",
+      "label": "Textilfärgare"
+    },
+    {
+      "code": "826420",
+      "label": "Tvättare"
+    },
+    {
+      "code": "826430",
+      "label": "Vävavsynare"
+    },
+    {
+      "code": "8265",
+      "label": "Maskinoperatörer, skoindustri"
+    },
+    {
+      "code": "826510",
+      "label": "Skoarbetare"
+    },
+    {
+      "code": "826520",
+      "label": "Lädervaruarbetare"
+    },
+    {
+      "code": "8269",
+      "label": "Övriga maskinoperatörer. textil-, skinn- o. läderindustri"
+    },
+    {
+      "code": "826910",
+      "label": "Nättillverkare o. övriga maskinoperatörer inom t"
+    },
+    {
+      "code": "8271",
+      "label": "Maskinoperatörer, kött och fiskberedning"
+    },
+    {
+      "code": "827110",
+      "label": "Livsmedelsarbetare, råvaruberedare"
+    },
+    {
+      "code": "8272",
+      "label": "Maskinoperatörer, mejeri"
+    },
+    {
+      "code": "827210",
+      "label": "Mejeriarbetare"
+    },
+    {
+      "code": "8273",
+      "label": "Maskinoperatörer, kvarnindustri"
+    },
+    {
+      "code": "827310",
+      "label": "Kvarnarbetare"
+    },
+    {
+      "code": "8274",
+      "label": "Maskinoperatörer, bageri och konfektyrindustri"
+    },
+    {
+      "code": "827410",
+      "label": "Bageriarbetare"
+    },
+    {
+      "code": "827420",
+      "label": "Chokladarbetare"
+    },
+    {
+      "code": "8275",
+      "label": "Maskinoperatörer, frukt och grönsaksberedning"
+    },
+    {
+      "code": "827510",
+      "label": "Maskinskötare, margarintillverkning"
+    },
+    {
+      "code": "827520",
+      "label": "Musteriarbetare"
+    },
+    {
+      "code": "827590",
+      "label": "Andra maskinop. inom 8275"
+    },
+    {
+      "code": "8276",
+      "label": "Maskinoperatörer, sockerindustrin"
+    },
+    {
+      "code": "827610",
+      "label": "Processoperatör, socker"
+    },
+    {
+      "code": "8277",
+      "label": "Maskinoperatörer, te-, kaffe- och kakaoberedning"
+    },
+    {
+      "code": "827710",
+      "label": "Maskinförare, rosteri"
+    },
+    {
+      "code": "8278",
+      "label": "Maskinoperatörer, bryggeri m.m."
+    },
+    {
+      "code": "827810",
+      "label": "Bryggeriarbetare"
+    },
+    {
+      "code": "827820",
+      "label": "Kolonnarbetare"
+    },
+    {
+      "code": "8279",
+      "label": "Maskinoperatörer, tobaksindustrin"
+    },
+    {
+      "code": "827910",
+      "label": "Tobaksarbetare"
+    },
+    {
+      "code": "8281",
+      "label": "Fordonsmontörer"
+    },
+    {
+      "code": "828110",
+      "label": "Fordonsmontör"
+    },
+    {
+      "code": "8282",
+      "label": "Montörer, el- och teleutrustn."
+    },
+    {
+      "code": "828210",
+      "label": "Montör, el- och teleutrustning"
+    },
+    {
+      "code": "828290",
+      "label": "Andra inom 8282"
+    },
+    {
+      "code": "8283",
+      "label": "Montörer, metall-, gummi- o. plastprodukter"
+    },
+    {
+      "code": "828310",
+      "label": "Montör, metall-, gummi- o. plastprodukter"
+    },
+    {
+      "code": "8284",
+      "label": "Montörer, träprodukter m.m."
+    },
+    {
+      "code": "828410",
+      "label": "Montör, träprodukter"
+    },
+    {
+      "code": "8285",
+      "label": "Montörer, papp- o. textilprodukter m.m."
+    },
+    {
+      "code": "828510",
+      "label": "Montör, papp- och textilprodukter"
+    },
+    {
+      "code": "8290",
+      "label": "Övriga maskinoperatörer och montörer"
+    },
+    {
+      "code": "829010",
+      "label": "Vågskötare"
+    },
+    {
+      "code": "829020",
+      "label": "Maskinpaketerare"
+    },
+    {
+      "code": "829090",
+      "label": "Andra inom 8290"
+    },
+    {
+      "code": "8311",
+      "label": "Lokförare"
+    },
+    {
+      "code": "831110",
+      "label": "Lokförare"
+    },
+    {
+      "code": "831120",
+      "label": "Tunneltågsförare"
+    },
+    {
+      "code": "8312",
+      "label": "Bangårdspersonal"
+    },
+    {
+      "code": "831210",
+      "label": "Bangårdsarbetare"
+    },
+    {
+      "code": "8321",
+      "label": "Bil- och taxiförare"
+    },
+    {
+      "code": "832110",
+      "label": "Personbilsförare"
+    },
+    {
+      "code": "832120",
+      "label": "Taxiförare"
+    },
+    {
+      "code": "8322",
+      "label": "Buss- och spårvagnsförare"
+    },
+    {
+      "code": "832210",
+      "label": "Bussförare"
+    },
+    {
+      "code": "832220",
+      "label": "Spårvagnsförare"
+    },
+    {
+      "code": "8323",
+      "label": "Lastbils- och långtradarförare"
+    },
+    {
+      "code": "832310",
+      "label": "Lastbilsförare"
+    },
+    {
+      "code": "832320",
+      "label": "Bilbärgare"
+    },
+    {
+      "code": "832330",
+      "label": "Bokbussförare"
+    },
+    {
+      "code": "8331",
+      "label": "Förare av jordbruks- och skogsmaskiner"
+    },
+    {
+      "code": "833110",
+      "label": "Maskinförare, lantbruk"
+    },
+    {
+      "code": "833120",
+      "label": "Skogsmaskinförare"
+    },
+    {
+      "code": "8332",
+      "label": "Anläggningsmaskinförare m.fl."
+    },
+    {
+      "code": "833210",
+      "label": "Maskinförare"
+    },
+    {
+      "code": "833290",
+      "label": "Andra inom 8332"
+    },
+    {
+      "code": "8333",
+      "label": "Kranförare m.fl."
+    },
+    {
+      "code": "833310",
+      "label": "Kranförare"
+    },
+    {
+      "code": "833320",
+      "label": "Skidliftskötare"
+    },
+    {
+      "code": "8334",
+      "label": "Truckförare"
+    },
+    {
+      "code": "833410",
+      "label": "Truckförare"
+    },
+    {
+      "code": "8340",
+      "label": "Däckspersonal m.fl."
+    },
+    {
+      "code": "834010",
+      "label": "Matros"
+    },
+    {
+      "code": "9110",
+      "label": "Torg- och marknadsförsäljare"
+    },
+    {
+      "code": "911010",
+      "label": "Torg- och marknadsförsäljare"
+    },
+    {
+      "code": "9121",
+      "label": "Hembiträden m.fl."
+    },
+    {
+      "code": "912110",
+      "label": "Hembiträde"
+    },
+    {
+      "code": "9122",
+      "label": "Hotell- och kontorsstädare"
+    },
+    {
+      "code": "912210",
+      "label": "Städledare"
+    },
+    {
+      "code": "912220",
+      "label": "Lokalvårdare"
+    },
+    {
+      "code": "9123",
+      "label": "Fönsterputsare"
+    },
+    {
+      "code": "912310",
+      "label": "Fönsterputsare"
+    },
+    {
+      "code": "9130",
+      "label": "Köks- och restaurangbiträden"
+    },
+    {
+      "code": "913010",
+      "label": "Restaurangbiträde"
+    },
+    {
+      "code": "913020",
+      "label": "Diskare"
+    },
+    {
+      "code": "9141",
+      "label": "Tidningsdistributörer, caterin"
+    },
+    {
+      "code": "914110",
+      "label": "Tidningsdistributör"
+    },
+    {
+      "code": "914120",
+      "label": "Reklamutdelare"
+    },
+    {
+      "code": "914130",
+      "label": "Cateringarbetare"
+    },
+    {
+      "code": "9142",
+      "label": "Vaktmästare m.fl."
+    },
+    {
+      "code": "914210",
+      "label": "Vaktmästare"
+    },
+    {
+      "code": "914220",
+      "label": "Garderobiär"
+    },
+    {
+      "code": "914230",
+      "label": "Tivoliarbetare"
+    },
+    {
+      "code": "914240",
+      "label": "Kundvagnsuppsamlare"
+    },
+    {
+      "code": "9143",
+      "label": "Mätaravläsare m.fl."
+    },
+    {
+      "code": "914310",
+      "label": "Väderobservatör"
+    },
+    {
+      "code": "914320",
+      "label": "Automatskötare"
+    },
+    {
+      "code": "914330",
+      "label": "Licenskontrollant"
+    },
+    {
+      "code": "9150",
+      "label": "Renhållnings- o. återvinningsarb. m.fl."
+    },
+    {
+      "code": "915010",
+      "label": "Renhållningsarbetare"
+    },
+    {
+      "code": "915020",
+      "label": "Återvinningsarbetare"
+    },
+    {
+      "code": "915030",
+      "label": "Diversearbetare"
+    },
+    {
+      "code": "9190",
+      "label": "Övrigt servicearbete utan krav på särskild yrkeskompetens"
+    },
+    {
+      "code": "919010",
+      "label": "Garagearbetare"
+    },
+    {
+      "code": "9210",
+      "label": "Medhjälpare inom jordbruk, trädgård, skogsbruk o"
+    },
+    {
+      "code": "921010",
+      "label": "Skördearbetare"
+    },
+    {
+      "code": "9310",
+      "label": "Grovarbetare, bygg och anläggning"
+    },
+    {
+      "code": "931010",
+      "label": "Torvarbetare"
+    },
+    {
+      "code": "931020",
+      "label": "Grovarbetare, bygg och anläggning"
+    },
+    {
+      "code": "9320",
+      "label": "Handpaketerare o. andra fabriksarbetare."
+    },
+    {
+      "code": "932010",
+      "label": "Handpaketerare"
+    },
+    {
+      "code": "932090",
+      "label": "Andra inom 9320"
+    },
+    {
+      "code": "9330",
+      "label": "Godshanterare, expr.bud m.fl."
+    },
+    {
+      "code": "933010",
+      "label": "Bud"
+    },
+    {
+      "code": "933020",
+      "label": "Lastare"
+    },
+    {
+      "code": "933090",
+      "label": "Andra inom 9330"
+    },
+    {
+      "code": "999999",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "X21",
+      "label": "Personer med ej identifierbara yrken"
+    },
+    {
+      "code": "X33",
+      "label": "Personer som ej kan återgå till tidigare yrke"
+    }
+  ],
+  "id": "f55ab3d83b9d53a2d5667a5b136f6986a657cfd3ded203c87ee4c93908ee4b44"
+}
