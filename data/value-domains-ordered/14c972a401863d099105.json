@@ -4811,15 +4811,16 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "7c91ea1021768c7e8f9f1f21a14b7764830f0f39c49103108bc771c8f3a5be2a",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T07:27:00+00:00",
+    "retrieved_at": "2026-11-21T11:02:49+00:00",
     "task_count": 22,
     "expected_bindings": 165,
     "documented_bindings": 165,
-    "errors": []
+    "errors": [],
+    "stalled_passes": 1
   }
 }
