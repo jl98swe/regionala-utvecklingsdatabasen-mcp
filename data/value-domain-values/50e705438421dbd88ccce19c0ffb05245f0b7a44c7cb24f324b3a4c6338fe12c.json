@@ -1,0 +1,44 @@
+{
+  "version": "Klassificering av arbetsställen",
+  "level": "Klassificering av arbetsställen",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "01",
+      "label": "Nytt arbetsställe via uppdelning"
+    },
+    {
+      "code": "02",
+      "label": "Nytt arbetsställe"
+    },
+    {
+      "code": "03",
+      "label": "Nytt arbetsställe"
+    },
+    {
+      "code": "05",
+      "label": "Nytt arbetsställe via hopslagning"
+    },
+    {
+      "code": "10",
+      "label": "Nedlagt arbetsställe via hopslagning"
+    },
+    {
+      "code": "11",
+      "label": "Kvarvarande arbetsställe"
+    },
+    {
+      "code": "20",
+      "label": "Nedlagt arbetsställe"
+    },
+    {
+      "code": "30",
+      "label": "Nedlagt arbetsställe"
+    },
+    {
+      "code": "50",
+      "label": "Nedlagt arbetsställe via uppdelning"
+    }
+  ],
+  "id": "50e705438421dbd88ccce19c0ffb05245f0b7a44c7cb24f324b3a4c6338fe12c"
+}
