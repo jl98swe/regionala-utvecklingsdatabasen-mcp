@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Land"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Indelning i länder."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Socioekonomisk mål enligt nomenklaturen \"Nomenclature for the analysis and comparison of scientific programmes and budgets (NABS 2007)\""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "För Extrastat avses endast handel med länder utanför EU"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Tullverket"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Extrastat är ett register över tulldeklarerade export- och importvaror med länder utanför EU (tredje land)."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Varuhandel med tredje land"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Varor som har importerats från eller exporterats till länder utanför EU (tredje land). Med vara avses lös egendom inklusive elektrisk ström."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-01-01 - 2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Undersökningen om varuhandeln med länder utanför EU (Extrastat) baseras på uppgifter från Tullverket. Uppgifterna har sitt ursprung i de import- och exportdeklarationer som lämnas avseende import av varor från eller export av varor till ett icke EU-land. SCB får leveranser från Tullverket två gånger i månaden."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Vara"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Materiell företeelse som är eller kan vara föremål för handel eller ägande"
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Varu- och landfördelad i löpande priser, Extrastat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Extrastat, löpande priser"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder utanför EU. Extrastat är registerbaserade statistikuppgifter som vi erhåller från Tullverket. Uppgifterna har sitt ursprung i de import- och exportdeklarationer som ska redovisas av den som importerar varor från eller exporterar varor till icke EG-länder (tredje land). SCB får data från Tullverket 2 gånger per månad. SCB publicerar en gång per månad."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Utrikeshandel med varor"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistiken syftar till att belysa Sveriges utrikeshandel med varor och länder. "
+    }
+  ],
+  "id": "27f7416396d004cba6b6d3574391820fedcf36f9fcbdccf10dcedd2100cb603b"
+}
