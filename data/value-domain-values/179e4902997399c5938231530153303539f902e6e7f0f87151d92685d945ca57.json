@@ -1,0 +1,28 @@
+{
+  "version": "Erfarenhet i sökt yrke",
+  "level": "Erfarenhet i sökt yrke",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "0",
+      "label": "Ingen erfarenhet"
+    },
+    {
+      "code": "1",
+      "label": "Erfarenhet "
+    },
+    {
+      "code": "10",
+      "label": "Liten erfarenhet "
+    },
+    {
+      "code": "11",
+      "label": "Stor erfarenhet "
+    }
+  ],
+  "id": "179e4902997399c5938231530153303539f902e6e7f0f87151d92685d945ca57"
+}

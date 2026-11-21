@@ -1,0 +1,32 @@
+{
+  "version": "Yrkesställning",
+  "level": "Yrkesställning",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Person utan lön eller företagarinkomst"
+    },
+    {
+      "code": "1",
+      "label": "Sjöman"
+    },
+    {
+      "code": "2",
+      "label": "Övrig anställd"
+    },
+    {
+      "code": "3",
+      "label": "Jordbrukare"
+    },
+    {
+      "code": "4",
+      "label": "Egen företagare"
+    },
+    {
+      "code": "5",
+      "label": "Företagare i eget aktiebolag"
+    }
+  ],
+  "id": "5f049e97e3fc6148e6e9c67f149bef2137f9866b1bb2d3f67ad99ccc1c5a920e"
+}
