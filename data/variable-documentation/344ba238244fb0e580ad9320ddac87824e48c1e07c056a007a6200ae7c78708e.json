@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(8)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Lägenhetstyp"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Lägenhetstyp. Antal rum och kök"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Lägenhetstypen härleds utifrån variablerna Antal rum och Kökstyp"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Bostadsbestånd : Bostadsbestånd"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna omfattar hela Sveriges folkbokförda befolkning och avser förhållandet 31 december 2019."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda befolkningen 31/12 aktuellt år"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda befolkningen 31/12 aktuellt år "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Sammanställning och bearbetning av uppgifter från Registret över totalbefolkningen (RTB) och SCB:s Lägenhetsregister."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken om hushållens boende är en årlig undersökning som omfattar hela Sveriges befolkning. Statistiken ger dig information om till exempel boendeform och utrymmesstandard för hushåll och individer. Uppgifterna redovisas bland annat efter kön, ålder, hushållstyp, län och kommun."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Hushållens boende"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Hushållens boende"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistiken om hushållens boende är en årlig undersökning som omfattar hela Sveriges befolkning. Statistiken ger dig information om till exempel boendeform och utrymmesstandard för hushåll och individer. Uppgifterna redovisas bland annat efter kön, ålder, hushållstyp, län och kommun."
+    }
+  ],
+  "id": "344ba238244fb0e580ad9320ddac87824e48c1e07c056a007a6200ae7c78708e"
+}
