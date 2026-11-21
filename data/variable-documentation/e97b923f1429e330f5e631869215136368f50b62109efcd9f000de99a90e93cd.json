@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Kassalikviditet (intäkts-/kostnadsstruktur)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Kassalikviditet"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Omsättningstillgångar exklusive lager och pågående arbeten i procent av kortfristiga skulder."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Företagens ekonomi (FEK) : FEK Slutdata (FE)"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Procent"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12 2006. Till detta kan man koppla egenskaper för det företag där individer har haft sin huvudsakliga sysselsättning."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Juridiska enheter i Sverige med förvärvsarbetande enligt RAMS"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE) i FDB: juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade kopplade till Registerbaserad arbetsmarknadsstatistik (RAMS). Från 2022 avgränsas företagstabellen utifrån Befolkningens arbetsmarknadsstatus (BAS)."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2006-01-01 - 2006-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från flera olika SCB-register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Företag"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Företag"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller information om de företag som förekommer i den longitudinella integrationsdatabasen."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "e97b923f1429e330f5e631869215136368f50b62109efcd9f000de99a90e93cd"
+}
