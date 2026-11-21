@@ -13,6 +13,8 @@ Tjänsten hjälper dig att:
 
 Med nyckelregistret kan du också hitta förklaringar till kodvärden och se vilka namn- eller gruppkolumner som kan läggas till i dina data. Du kan kontrollera möjliga kopplingar innan du använder `fjoin_klartext()` i R. De tre verktygen beskrivs nedan.
 
+Alla 88 vyer i beställningen finns i variabelförteckningen. För 63 av dem (72 procent) finns granskade kopplingar till SCB:s registerdokumentation, men alla variabler och årgångar är ännu inte täckta. Definitioner och värdemängder fylls på löpande. *(Uppdaterat 21 november 2026.)*
+
 **Exempel på frågor att börja med:**
 
 > Vilka register och variabler kan jag använda för att följa personer efter högskolestudier?
