@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "tinyint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Rangordning av statistiska näringsgrenar"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Rangordnar de statistiska näringsgrenarna efter deras relativa storlek med avseende på näringsgrenens procentuella andel av antingen AE,VE,VE eller LVE efter tid eller omsättning."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Rangordning av variabeln näringsgren enligt statistikens mått\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Rangordnar de statistiska näringsgrenarna efter relativ storlek för den lokala verksamhetsenheten, vilket baseras på en härledning av den statistiska näringsgrenens procentuella andel av verksamheten för arbetsställeenheten, grundad på tid eller omsättning. \r\n\r\n"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Relativstorlek"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Den lokala verksamhetsenheten (LVE) är den del av en verksamhetsenhet som ingår i en lokal enhet. Ett arbetsställe kan behöva delas upp i flera lokala verksamhetsenheter, vilket innebär att ett arbetsställe kan omfatta en eller flera LVE.\r\n\r\nLVE behövs för att funktionell statistik ska kunna redovisas med geografiska uppdelningar."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga lokala verksamhetsenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Lokala verksamheter i Sverige, både verksamma och ej verksamma."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2014-11-21"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Lokala verksamhetsenheter skapas av SCB och får ett unikt identitetsnummer i FDB när en juridisk enhet blir verksam."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Lokal verksamhetsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Lokal verksamhetsenhet är den \"matematiska\" skärningsmängden av arbetsställeenhet och verksamhetsenhet. Dvs när endast en del av en arbetsställeenhet tillhör en viss verksamhetsenhet så är den delen en lokal verksamhetsenhet. I de allra flesta fall (med något 100-tal undantag) är arbetsställeenhet odelade och då gäller lokal verksamhetsenhet = arbetsställeenhet. Inkluderar lantbruksföretag, institution m.fl."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Lokala verksamhetsenheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Lokala verksamhetsenheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Lokala verksamhetsenheter (LVE) bildas genom geografiska och branschmässiga indelningar av företag. En lokal verksamhetsenhet tillhör en enda arbetsställeenhet och en enda verksamhetsenhet i en företagsenhet."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    },
+    {
+      "name": "Relaterat dokument - Registervariant",
+      "value": "NV0101 SCBDOK 2010.docx"
+    }
+  ],
+  "id": "941d3e6ba669272248f19a150e54de82101bd27a26e464b750d35b02eba26a4b"
+}
