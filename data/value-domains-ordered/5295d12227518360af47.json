@@ -27,7 +27,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "652ef598daf29e06a14aecc3d12d2f131a84245b1f3ec243431d1eba42cfc0ec",
+        "path": "data/variable-documentation/652ef598daf29e06a14aecc3d12d2f131a84245b1f3ec243431d1eba42cfc0ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -51,7 +56,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "96b1c98f14ae53adde236771abcfd08509bad7f79ad37f961f89134d8596b7c1",
+        "path": "data/variable-documentation/96b1c98f14ae53adde236771abcfd08509bad7f79ad37f961f89134d8596b7c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -75,7 +85,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b778534fade6896b3c1bebf7632340e86d5ea8c94b5c6fc1bf12ac6ab29f6091",
+        "path": "data/variable-documentation/b778534fade6896b3c1bebf7632340e86d5ea8c94b5c6fc1bf12ac6ab29f6091.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -99,7 +114,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b760f32bfeec9b6e6e31f12a9013e9320018c19c957d5ae0192c5262b53f049a",
+        "path": "data/variable-documentation/b760f32bfeec9b6e6e31f12a9013e9320018c19c957d5ae0192c5262b53f049a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -123,7 +143,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4f377a6d1e25c9e4fcad760694a7429ddde489e9c8e4714d8beb72eb64f0748a",
+        "path": "data/variable-documentation/4f377a6d1e25c9e4fcad760694a7429ddde489e9c8e4714d8beb72eb64f0748a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -147,7 +172,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "25dd024a8051963c2434dc2750a7458ff65d5e24cf8ee4a6953544f07d92231f",
+        "path": "data/variable-documentation/25dd024a8051963c2434dc2750a7458ff65d5e24cf8ee4a6953544f07d92231f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:44:12+00:00"
     }
   ],
   "domains": [
@@ -202,14 +232,15 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "c7733b3d0b4f87302eacf2ba1a079e7468649a14e97a7519945d7913242311d8",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:13:24+00:00",
+    "retrieved_at": "2026-11-21T07:44:12+00:00",
     "task_count": 6,
     "expected_bindings": 6,
+    "documented_bindings": 6,
     "errors": []
   }
 }

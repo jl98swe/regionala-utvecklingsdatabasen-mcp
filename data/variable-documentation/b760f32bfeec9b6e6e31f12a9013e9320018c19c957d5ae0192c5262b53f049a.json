@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(4)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Inriktning för examen"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Inriktning för examen enligt examensordningens bestämmelser. Endast vissa examina har inriktning."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "SCB kodar examensinriktning med hjälp av identiteten för lärosätet och den av lärosätet angivna externkoden för examensinriktning (Lexainr). Endast vissa examina har inriktning."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "SCB kodar examensinriktning med hjälp av identiteten för lärosätet och den av lärosätet angivna koden för examensinriktning. Endast vissa examina har inriktning."
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifter om examina inom högskolans grundutbildning fr.o.m. läsåret 1977/1978 t.o.m. läsåret 2025/2026. Med grundutbildning avses även grundnivå och avancerad nivå enligt 2007 års examensordning."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Personer med examina inom högskolans grundutbildning"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Personer som fått examens-/utbildningsbevis inom högskolans grundutbildning."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1977-07-01 - 2026-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om examinerade levereras på individnivå från högskolorna till SCB. Vilka uppgifter som får samlas in regleras genom förordning om redovisning av studier m.m. vid universitet och högskolor (SFS 1993:1153). De flesta högskolor är anslutna till det studieadministrativa systemet Ladok och gör uttag via ett gemensamt uttagsprogram. Överföring från Ladok till SCB sker som filer via sftp. Högskolor som inte är anslutna till Ladok lämnar uppgifter via elektroniska blanketter i SCB:s webbapplikation SIV. Uttagen görs halvårsvis."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Examina inom grundläggande högskoleutbildning"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Grundutbildning, examina"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller uppgifter om examina inom högskolans grundutbildning från och med läsåret 1977/78.\r\n\r\nSyftet är att beskriva omfattning och inriktning av avlagda examina i grundläggande högskoleutbildning."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Universitets- och högskoleregistret (HREG)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Universitets- och högskoleregistret "
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Universitets- och högskoleregistret är en sammanfattande benämning för den högskolestatistik över studerande och examina i grund- och forskarutbildning som regleras i SFS 1993:1153 (föregången av SFS1981:516). Registret omfattar även sökande till grundutbildningen.\r\n\r\nRegistret ska även vara en urvalsram för enkätundersökningar och kunna sambearbetas med annan statistik."
+    },
+    {
+      "name": "Tidsseriebrott - Register",
+      "value": "Den 1 juli 2007 infördes en ny utbildnings- och examensstruktur i högskolan. All högre utbildning delas in i tre nivåer: - grundnivå - avancerad nivå - forskarnivå. Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning. Samtidigt infördes ett nytt poängsystem. Den nya poängen kallas högskolepoäng (hp). Ett heltidsstudieår motsvarar 60 hp."
+    }
+  ],
+  "id": "b760f32bfeec9b6e6e31f12a9013e9320018c19c957d5ae0192c5262b53f049a"
+}
