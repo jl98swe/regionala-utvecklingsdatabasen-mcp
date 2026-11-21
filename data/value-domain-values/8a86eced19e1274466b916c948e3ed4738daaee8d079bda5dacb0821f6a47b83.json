@@ -1,0 +1,56 @@
+{
+  "version": "Inriktning gymnasium",
+  "level": "Inriktning fristående skolor",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Ej fristående gymnasieskola"
+    },
+    {
+      "code": "00",
+      "label": "Okänt värde"
+    },
+    {
+      "code": "01",
+      "label": "Fristående skola"
+    },
+    {
+      "code": "02",
+      "label": "Kompletterande skolor med statsbidrag"
+    },
+    {
+      "code": "03",
+      "label": "Riksinternat"
+    },
+    {
+      "code": "04",
+      "label": "Övriga skolor med statlig tillsyn"
+    },
+    {
+      "code": "05",
+      "label": "Internationella skolor"
+    },
+    {
+      "code": "11",
+      "label": "Allmän"
+    },
+    {
+      "code": "12",
+      "label": "Konfessionell"
+    },
+    {
+      "code": "13",
+      "label": "Waldorf"
+    },
+    {
+      "code": "14",
+      "label": "Internationell"
+    },
+    {
+      "code": "15",
+      "label": "Riksinternat"
+    }
+  ],
+  "id": "8a86eced19e1274466b916c948e3ed4738daaee8d079bda5dacb0821f6a47b83"
+}

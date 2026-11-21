@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(3)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Utbildningsform gymnasieskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Utbildningsform, dvs högskoleförberedande program, yrkesprogram eller introduktionsprogram för elever på program enligt Gy11 (Läroplan, examensmål och gymnasiegemensamma ämnen för gymnasieskola 2011) samt nationellt, specialutformat, individuellt eller fristående program för elever som läser enligt Lpf94 (Läroplan för de frivilliga skolformerna). \r\n\r\nAvser den utbildningsform som eleven är inskriven vid."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Avser den utbildningsform som eleven avslutade gymnasiestudierna med. Skapad utifrån variabeln \"Studieväg i gymnasieskolan\"."
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Insamlingen av uppgifter om slutbetyg i gymnasieskolan är en totalundersökning med SCB:s register över skolenheter som ram. Populationen är samtliga elever som aktuellt läsår gått i avgångsklassen i gymnasieskolan."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever som erhållit slutbetyg från gymnasieskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Elever som erhållit slutbetyg från gymnasieskolan samt övriga elever som ej tagit ut slutbetyg men som återfanns i årskurs 3 i gymnasieskolan föregående höst."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2024-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker i samarbete med Universitets- och högskolerådet (UHR) samt via webbenkät i Excel eller textfil för skolor som ej är anslutna till UHR."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Slutbetyg"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Slutbetyg"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Innehåller uppgifter på individnivå om slutbetyg och samlat betygsdokument från gymnasieskolan. Från och med läsåret 2013/2014 ingår även examensbevis och studiebevis.\r\n\r\nExempel på variabler är skola, studieväg, gymnasieprogram samt kurs och betyg för de vanligaste kurserna."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Gymnasieskola: betyg"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Gymnasieskola: betyg"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter på individnivå om betyg från gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram, kurs och betyg i respektive kurs samt slutbetyg för gymnasieutbildningen."
+    }
+  ],
+  "id": "393b8750c0046f5181d9c7b00b47f50fd03d55665fdad9736bc1a692cc562ab3"
+}

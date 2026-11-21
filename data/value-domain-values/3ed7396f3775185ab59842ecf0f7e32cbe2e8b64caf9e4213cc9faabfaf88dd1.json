@@ -1,0 +1,536 @@
+{
+  "version": "Gymnasieprogram",
+  "level": "Gymnasieprogram",
+  "data_type": "varchar(5)",
+  "values": [
+    {
+      "code": "BA",
+      "label": "Bygg- och anläggningsprogrammet"
+    },
+    {
+      "code": "BF",
+      "label": "Barn- och fritidsprogrammet                                                     "
+    },
+    {
+      "code": "BP",
+      "label": "Byggprogrammet                                                                  "
+    },
+    {
+      "code": "EC",
+      "label": "Elprogrammet                                                                    "
+    },
+    {
+      "code": "EE",
+      "label": "El- och energiprogrammet"
+    },
+    {
+      "code": "EK",
+      "label": "Ekonomiprogrammet"
+    },
+    {
+      "code": "EN",
+      "label": "Energiprogrammet                                                                "
+    },
+    {
+      "code": "ES",
+      "label": "Estetiska programmet                                                            "
+    },
+    {
+      "code": "FP",
+      "label": "Fordonsprogrammet                                                               "
+    },
+    {
+      "code": "FR",
+      "label": "Utbildning vid fristående skola"
+    },
+    {
+      "code": "FS",
+      "label": "Försäljnings- och serviceprogrammet"
+    },
+    {
+      "code": "FT",
+      "label": "Fordons- och transportprogrammet"
+    },
+    {
+      "code": "FX",
+      "label": "Flygteknikutbildningen"
+    },
+    {
+      "code": "HA",
+      "label": "Handels- och administrationsprogrammet"
+    },
+    {
+      "code": "HP",
+      "label": "Handels- och adm programmet"
+    },
+    {
+      "code": "HR",
+      "label": "Hotell- o restaurangprogrammet"
+    },
+    {
+      "code": "HT",
+      "label": "Hotell- och turismprogrammet"
+    },
+    {
+      "code": "HU",
+      "label": "Humanistiska programmet"
+    },
+    {
+      "code": "HV",
+      "label": "Hantverksprogrammet                                                             "
+    },
+    {
+      "code": "IB",
+      "label": "International Baccalaureate"
+    },
+    {
+      "code": "IM",
+      "label": "Introduktionsprogram"
+    },
+    {
+      "code": "IMA",
+      "label": "Introduktionsprogram; Individuellt alternativ"
+    },
+    {
+      "code": "IMA00",
+      "label": "Introduktionsprogram; Individuellt alternativ"
+    },
+    {
+      "code": "IMIND",
+      "label": "Introduktionsprogram; Individuellt alternativ"
+    },
+    {
+      "code": "IMP",
+      "label": "Introduktionsprogram; Preparandutbildning"
+    },
+    {
+      "code": "IMPRE",
+      "label": "Introduktionsprogram; Preparandutbildning"
+    },
+    {
+      "code": "IMPRO",
+      "label": "Introduktionsprogram; Programinriktat individuellt val"
+    },
+    {
+      "code": "IMR",
+      "label": "Introduktionsprogram; Programinriktat individuellt val"
+    },
+    {
+      "code": "IMRBA",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Bygg- och anläggningsprogrammet"
+    },
+    {
+      "code": "IMRBF",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Barn- och fritidsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRBF",
+      "label": "Programinriktat individuellt val; mot Barn- och fritidsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRBF0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Barn- och fritidsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMREE",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot El och energiprogrammet"
+    },
+    {
+      "code": "IMREE0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot El och energiprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRFT",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Fordons- och transportprogrammet"
+    },
+    {
+      "code": "IMRHA",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Handels- och administrationsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRHA0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Handels- och administrationsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRHT",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Hotell- och turismprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRHT0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Hotell- och turismprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRHV",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Hantverksprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRHV0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Hantverksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRIN",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Industritekniska programmet"
+    },
+    {
+      "code": "IMRIN0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Industritekniska programmet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRNB",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Naturbruksprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRRL",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Restaurang- och livsmedelsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRRL0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Restaurang- och livsmedelsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMRVF",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot VVS- och fastighetsprogrammet"
+    },
+    {
+      "code": "IMRVO",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Vård- och omsorgsprogrammet"
+    },
+    {
+      "code": "IMRVO0L",
+      "label": "Introduktionsprogram; Programinriktat individuellt val; mot Vård- och omsorgsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMS",
+      "label": "Introduktionsprogram; Språkintroduktion"
+    },
+    {
+      "code": "IMSPR",
+      "label": "Introduktionsprogram; Språkintroduktion"
+    },
+    {
+      "code": "IMV",
+      "label": "Introduktionsprogram; Programinriktat val"
+    },
+    {
+      "code": "IMV00",
+      "label": "Introduktionsprogram; Programinriktat val"
+    },
+    {
+      "code": "IMVBA",
+      "label": "Introduktionsprogram; Programinriktat val; mot Bygg- och anläggningsprogrammet"
+    },
+    {
+      "code": "IMVBF",
+      "label": "Introduktionsprogram; Programinriktat val; mot Barn- och fritidsprogrammet"
+    },
+    {
+      "code": "IMVEE",
+      "label": "Introduktionsprogram; Programinriktat val; mot El- och energiprogrammet"
+    },
+    {
+      "code": "IMVEK",
+      "label": "Introduktionsprogram; Programinriktat val; mot Ekonomiprogrammet (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVES",
+      "label": "Introduktionsprogram; Programinriktat val; mot Estetiska programmet"
+    },
+    {
+      "code": "IMVFS",
+      "label": "Introduktionsprogram; Programinriktat val; mot Försäljnings- och serviceprogrammet"
+    },
+    {
+      "code": "IMVFT",
+      "label": "Introduktionsprogram; Programinriktat val; mot Fordons- och transportprogrammet"
+    },
+    {
+      "code": "IMVFT0L",
+      "label": "Introduktionsprogram; Programinriktat val; mot Fordons- och transportprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVHA",
+      "label": "Introduktionsprogram; Programinriktat val; mot Handels- och administrationsprogrammet"
+    },
+    {
+      "code": "IMVHT",
+      "label": "Introduktionsprogram; Programinriktat val; mot Hotell- och turismprogrammet"
+    },
+    {
+      "code": "IMVHU",
+      "label": "Introduktionsprogram; Programinriktat val; mot Humanistiska programmet"
+    },
+    {
+      "code": "IMVHV",
+      "label": "Introduktionsprogram; Programinriktat val; mot Hantverksprogrammet (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVIN",
+      "label": "Introduktionsprogram; Programinriktat val; mot Industritekniska programmet"
+    },
+    {
+      "code": "IMVNA",
+      "label": "Introduktionsprogram; Programinriktat val; mot Naturvetenskapsprogrammet (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVNB",
+      "label": "Introduktionsprogram; Programinriktat val; mot Naturbruksprogrammet (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVRL",
+      "label": "Introduktionsprogram; Programinriktat val; mot Restaurang- och livsmedelsprogrammet"
+    },
+    {
+      "code": "IMVSA",
+      "label": "Introduktionsprogram; Programinriktat val; mot Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "IMVTE",
+      "label": "Introduktionsprogram; Programinriktat val; mot Teknikprogrammet"
+    },
+    {
+      "code": "IMVVF",
+      "label": "Introduktionsprogram; Programinriktat val; mot VVS- och fastighetsprogrammet (gäller fr o m 2019-07-01)"
+    },
+    {
+      "code": "IMVVO",
+      "label": "Introduktionsprogram; Programinriktat val; mot Vård- och omsorgsprogrammet"
+    },
+    {
+      "code": "IMY",
+      "label": "Introduktionsprogram; Yrkesintroduktion"
+    },
+    {
+      "code": "IMY00",
+      "label": "Introduktionsprogram; Yrkesintroduktion"
+    },
+    {
+      "code": "IMY000L",
+      "label": "Introduktionsprogram; Yrkesintroduktion, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYBA",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Bygg- och anläggningsprogrammet"
+    },
+    {
+      "code": "IMYBA0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Bygg- och anläggningsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYBF",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Barn- och fritidsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYBF0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Barn- och fritidsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYEE",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot El- och energiprogrammet"
+    },
+    {
+      "code": "IMYEE",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot El- och energiprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYFS",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Försäljnings- och serviceprogrammet"
+    },
+    {
+      "code": "IMYFT",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Fordons- och transportprogrammet"
+    },
+    {
+      "code": "IMYFT0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Fordons- och transportprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYHA",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Handels- och administrationsprogrammet"
+    },
+    {
+      "code": "IMYHA0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Handels- och administrationsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)b"
+    },
+    {
+      "code": "IMYHT",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Hotell- och turismprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYHT0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Hotell- och turismprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYHV",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Hantverksprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYHV0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Hantverksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYIN",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Industritekniska programmet"
+    },
+    {
+      "code": "IMYNB",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Naturbruksprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYNB0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Naturbruksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYRK",
+      "label": "Introduktionsprogram; Yrkesintroduktion"
+    },
+    {
+      "code": "IMYRL",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Restaurang- och livsmedelsprogrammet (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYRL0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Restaurang- och livsmedelsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IMYVF",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot VVS- och fastighetsprogrammet"
+    },
+    {
+      "code": "IMYVO",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Vård- och omsorgsprogrammet"
+    },
+    {
+      "code": "IMYVO0L",
+      "label": "Introduktionsprogram; Yrkesintroduktion; mot Vård- och omsorgsprogrammet,lärlingsliknande utbildning (gäller fr o m 2018-07-01)"
+    },
+    {
+      "code": "IN",
+      "label": "Industritekniska programmet"
+    },
+    {
+      "code": "IP",
+      "label": "Industriprogrammet                                                              "
+    },
+    {
+      "code": "IV",
+      "label": "Individuella program"
+    },
+    {
+      "code": "IVIK",
+      "label": "Invandrarintroduktion"
+    },
+    {
+      "code": "LP",
+      "label": "Livsmedelsprogrammet                                                            "
+    },
+    {
+      "code": "MP",
+      "label": "Medieprogrammet                                                                 "
+    },
+    {
+      "code": "MX",
+      "label": "Marinteknikutbildningen"
+    },
+    {
+      "code": "NA",
+      "label": "Naturvetenskapsprogrammet"
+    },
+    {
+      "code": "NB",
+      "label": "Naturbruksprogrammet"
+    },
+    {
+      "code": "NP",
+      "label": "Naturbruksprogrammet                                                            "
+    },
+    {
+      "code": "NV",
+      "label": "Naturvetenskapsprogrammet"
+    },
+    {
+      "code": "OP",
+      "label": "Omvårdnadsprogrammet                                                            "
+    },
+    {
+      "code": "PE",
+      "label": "Samhällsvetarprogrammet/Ekonomisk"
+    },
+    {
+      "code": "PR",
+      "label": "FORDONSPROGRAMMET/FORDONSTEKNIK"
+    },
+    {
+      "code": "RL",
+      "label": "Restaurang- och livsmedelsprogrammet"
+    },
+    {
+      "code": "RX",
+      "label": "RX-utbildningen"
+    },
+    {
+      "code": "S9",
+      "label": "Utbildning vid fristående skola"
+    },
+    {
+      "code": "SA",
+      "label": "Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "SJ",
+      "label": "Sjöfartsutbildningen"
+    },
+    {
+      "code": "SM",
+      "label": "Specialutformade program"
+    },
+    {
+      "code": "SMR",
+      "label": "Specialutformade program, riksrekryterande "
+    },
+    {
+      "code": "SP",
+      "label": "Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "SX",
+      "label": "Sjöfartsutbildningen"
+    },
+    {
+      "code": "T4",
+      "label": "Teknikprogrammet, Gymnasieingenjörsexamen, fjärde tekniskt år"
+    },
+    {
+      "code": "TE",
+      "label": "Teknikprogrammet                                                                "
+    },
+    {
+      "code": "TX",
+      "label": "RX-Tågteknikerutbildningen"
+    },
+    {
+      "code": "UX",
+      "label": "RX-Utbildningen samiska näringar"
+    },
+    {
+      "code": "W",
+      "label": "Waldorfelev"
+    },
+    {
+      "code": "VF",
+      "label": "VVS- och fastighetsprogrammet"
+    },
+    {
+      "code": "VI",
+      "label": "Teknikprogrammet"
+    },
+    {
+      "code": "VO",
+      "label": "Vård- och omsorgsprogrammet"
+    },
+    {
+      "code": "YX",
+      "label": "Yrkesdansarutbildningen"
+    }
+  ],
+  "id": "3ed7396f3775185ab59842ecf0f7e32cbe2e8b64caf9e4213cc9faabfaf88dd1"
+}
