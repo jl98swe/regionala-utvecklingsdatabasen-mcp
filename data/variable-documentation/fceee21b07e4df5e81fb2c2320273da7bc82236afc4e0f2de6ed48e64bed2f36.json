@@ -1,0 +1,98 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "float"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Positiv räntefördelning enligt punkt 45, dock högst positivt överskott vid punkt 14.   (822)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Positiv räntefördelning enligt punkt 45, dock högst positivt överskott vid punkt 14. Beloppet förs till INK 1 kod 52\r\n"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Beskriver uppgifter från inkomståret 2014 taxeringsåret 2015"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga handelsbolag i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Samtliga aktiva handelsbolag i Sverige vilka lämnat in en deklarationsblankett\r\n"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2014-01-01 - 2014-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet består av uppgifter från Skatteverkets SRU-material (Standardiserade räkenskapsutdrag) samt uppgifter från andra administrativa källor inom SCB.\r\nBlanketten som ligger till grund för uppgifterna återfinns under relaterad information."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Företagsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "En företagsenhet (FE) är en organisatorisk enhet som producerar varor eller tjänster. Enheten har själv beslutanderätt, särskilt för hur den fördelar sina produktionsresurser. En företagsenhet bedriver en eller flera verksamheter vid en eller flera platser. Dessutom har företagsenhet en fullständig bokföring, om inte ska det vara möjligt och meningsfullt, både från ekonomisk och juridisk synpunkt, att sammanställa en fullständig bokföring om så krävs."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Bilaga N3A"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Bilaga N3A"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller uppgifter från SKV bilaga N3A Andel i handelsbolga fysiska personer"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsregister och individdatabas (FRIDA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "FRIDA"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "FRIDA utgör en grund vid skatteeffekts- och prognosberäkningar. Databasen kan också användas till uttag av data för statistisk analys samt vid användandet av mikrosimuleringsmodeller. Modellerna ger information om hur företagen skulle kunna anpassa sina beteenden vid olika förändringar i skattelagstiftningen."
+    },
+    {
+      "name": "Relaterat dokument - Registerversion",
+      "value": "Bilaga N3A.pdf"
+    }
+  ],
+  "id": "fceee21b07e4df5e81fb2c2320273da7bc82236afc4e0f2de6ed48e64bed2f36"
+}
