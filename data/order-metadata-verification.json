@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T11:58:56+00:00",
+  "checked_at": "2026-11-21T12:25:23+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 9612,
-    "documentation": 9476,
-    "nonempty_definition": 9476,
-    "nonempty_method": 9476,
-    "verified_domains": 9563,
-    "enumerated": 4682,
-    "not_enumerated": 4881,
-    "complete_groups": 35,
-    "groups_with_source_errors": 10,
-    "documentation_only": 49,
+    "bindings": 10220,
+    "documentation": 10084,
+    "nonempty_definition": 10084,
+    "nonempty_method": 10084,
+    "verified_domains": 10152,
+    "enumerated": 5019,
+    "not_enumerated": 5133,
+    "complete_groups": 36,
+    "groups_with_source_errors": 9,
+    "documentation_only": 68,
     "groups": 51,
-    "unique_domains": 834
+    "unique_domains": 858
   },
   "integrity_errors": [],
   "groups": [
@@ -42,13 +42,13 @@
       ],
       "complete": false,
       "expected_bindings": 957,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 397,
-      "enumerated": 241,
-      "not_enumerated": 156,
+      "bindings": 597,
+      "documentation": 597,
+      "nonempty_definition": 597,
+      "nonempty_method": 597,
+      "verified_domains": 594,
+      "enumerated": 360,
+      "not_enumerated": 234,
       "documentation_only": 3,
       "source_errors": 3,
       "source_error_examples": [
@@ -63,15 +63,15 @@
       ],
       "complete": false,
       "expected_bindings": 637,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 380,
-      "not_enumerated": 135,
-      "enumerated": 245,
-      "documentation_only": 20,
-      "source_errors": 20,
+      "bindings": 580,
+      "documentation": 580,
+      "nonempty_definition": 580,
+      "nonempty_method": 580,
+      "verified_domains": 556,
+      "not_enumerated": 199,
+      "enumerated": 357,
+      "documentation_only": 24,
+      "source_errors": 24,
       "source_error_examples": [
         "KU1AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
         "KU2AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []"
@@ -136,18 +136,18 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 397,
-      "not_enumerated": 194,
-      "enumerated": 203,
+      "bindings": 600,
+      "documentation": 600,
+      "nonempty_definition": 600,
+      "nonempty_method": 600,
+      "verified_domains": 597,
+      "not_enumerated": 304,
+      "enumerated": 293,
       "documentation_only": 3,
       "source_errors": 4,
       "source_error_examples": [
         "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
-        "AstSNI2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -420,13 +420,14 @@
       ],
       "complete": false,
       "expected_bindings": 333,
-      "bindings": 318,
-      "documentation": 318,
-      "nonempty_definition": 318,
-      "nonempty_method": 318,
+      "bindings": 333,
+      "documentation": 333,
+      "nonempty_definition": 333,
+      "nonempty_method": 333,
       "verified_domains": 318,
       "enumerated": 162,
       "not_enumerated": 156,
+      "documentation_only": 15,
       "source_errors": 15,
       "source_error_examples": [
         "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
@@ -872,20 +873,17 @@
       "views": [
         "uhv"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 156,
-      "bindings": 140,
-      "documentation": 140,
-      "nonempty_definition": 140,
-      "nonempty_method": 140,
-      "verified_domains": 140,
+      "bindings": 156,
+      "documentation": 156,
+      "nonempty_definition": 156,
+      "nonempty_method": 156,
+      "verified_domains": 156,
       "not_enumerated": 78,
-      "enumerated": 62,
-      "source_errors": 16,
-      "source_error_examples": [
-        "Varukod 2016: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2016', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
-        "Varukod 2015: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2015    ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och"
-      ]
+      "enumerated": 78,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "614a290a1c8f38fb067b",
@@ -968,15 +966,15 @@
       "documented_columns": 5
     },
     "fdb_ae": {
-      "documented_versions": 212,
+      "documented_versions": 217,
       "documented_columns": 11
     },
     "fdb_ae_ng": {
-      "documented_versions": 73,
+      "documented_versions": 78,
       "documented_columns": 3
     },
     "fdb_ae_ngs": {
-      "documented_versions": 73,
+      "documented_versions": 78,
       "documented_columns": 3
     },
     "fdb_ast": {
@@ -1112,7 +1110,7 @@
       "documented_columns": 68
     },
     "lisa_individ": {
-      "documented_versions": 800,
+      "documented_versions": 1177,
       "documented_columns": 151
     },
     "moms": {
@@ -1148,11 +1146,11 @@
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 400,
+      "documented_versions": 600,
       "documented_columns": 304
     },
     "uhv": {
-      "documented_versions": 296,
+      "documented_versions": 312,
       "documented_columns": 6
     },
     "yh_stud": {
