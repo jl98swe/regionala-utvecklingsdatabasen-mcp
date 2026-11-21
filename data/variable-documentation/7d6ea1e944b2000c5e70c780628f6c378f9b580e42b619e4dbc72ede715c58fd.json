@@ -1,0 +1,110 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Konsumtionsenheter, familj"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Summan av alla konsumtionsenheter, i enlighet med Socialstyrelsens normer, för familjen enligt den koppling (familjeidentitet) som finns i Registret över totalbefolkningen (RTB)."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Familjens totala konsumtionsvikt byggs upp enligt:\r\n0,56: Barn 0 - 3 år\r\n0,66: Barn 4 - 10 år\r\n0,76: Barn 11 - 17 år\r\n1,16: En vuxen\r\n1,92: Två vuxna\r\n0,96: Ytterligare en vuxen (18 år-)\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "2007-12-31"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal konsumtionsenheter"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett slutgiltigt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i december."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda samt dödsbon"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Urval av inkomsttagare för åren 1960-1966"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Perssoner som är födda den 5, 15 eller 25 dagen i månaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda samt dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av skatteskyldiga personer enligt skattelagstiftningen i Sverige. Från och med 1999 ingår även ett antal personer med, av Skatteverket tilldelat, samordningsnummer. Denna grupp utgörs av ej folkbokförda personer som betalar skatt i Sverige. Utöver dessa grupper ingår resterande folkbokförda personer den 31/12 samt dödsbon."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2007-01-01 - 2007-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av taxeringsuppgifter, underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa skatter och taxerade inkomster på individnivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "7d6ea1e944b2000c5e70c780628f6c378f9b580e42b619e4dbc72ede715c58fd"
+}
