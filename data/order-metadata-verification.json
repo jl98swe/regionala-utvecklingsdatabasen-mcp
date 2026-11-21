@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T12:25:23+00:00",
+  "checked_at": "2026-11-21T12:50:59+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 10220,
-    "documentation": 10084,
-    "nonempty_definition": 10084,
-    "nonempty_method": 10084,
-    "verified_domains": 10152,
-    "enumerated": 5019,
-    "not_enumerated": 5133,
-    "complete_groups": 36,
+    "bindings": 11192,
+    "documentation": 11127,
+    "nonempty_definition": 11127,
+    "nonempty_method": 11127,
+    "verified_domains": 11114,
+    "enumerated": 5472,
+    "not_enumerated": 5642,
+    "complete_groups": 37,
     "groups_with_source_errors": 9,
-    "documentation_only": 68,
+    "documentation_only": 78,
     "groups": 51,
-    "unique_domains": 858
+    "unique_domains": 894
   },
   "integrity_errors": [],
   "groups": [
@@ -292,16 +292,16 @@
       ],
       "complete": false,
       "expected_bindings": 519,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 399,
-      "not_enumerated": 399,
+      "bindings": 519,
+      "documentation": 519,
+      "nonempty_definition": 519,
+      "nonempty_method": 519,
+      "verified_domains": 518,
+      "not_enumerated": 518,
       "documentation_only": 1,
       "source_errors": 1,
       "source_error_examples": [
-        "V7600 2017: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "V7600 2017: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -407,8 +407,8 @@
       "documentation_only": 5,
       "source_errors": 5,
       "source_error_examples": [
-        "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "Ng 2006: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "Ng 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ng 2006: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -460,14 +460,15 @@
       ],
       "complete": false,
       "expected_bindings": 469,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 400,
-      "not_enumerated": 175,
-      "enumerated": 225,
-      "source_errors": 6,
+      "bindings": 469,
+      "documentation": 469,
+      "nonempty_definition": 469,
+      "nonempty_method": 469,
+      "verified_domains": 459,
+      "not_enumerated": 203,
+      "enumerated": 256,
+      "documentation_only": 10,
+      "source_errors": 10,
       "source_error_examples": [
         "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
         "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
@@ -579,15 +580,15 @@
       "views": [
         "avggymn"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 354,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 57,
-      "enumerated": 143,
+      "bindings": 354,
+      "documentation": 354,
+      "nonempty_definition": 354,
+      "nonempty_method": 354,
+      "verified_domains": 354,
+      "not_enumerated": 100,
+      "enumerated": 254,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -665,13 +666,13 @@
       ],
       "complete": false,
       "expected_bindings": 770,
-      "bindings": 342,
-      "verified_domains": 342,
-      "enumerated": 308,
-      "documentation": 206,
-      "nonempty_definition": 206,
-      "nonempty_method": 206,
-      "not_enumerated": 34,
+      "bindings": 471,
+      "verified_domains": 471,
+      "enumerated": 420,
+      "documentation": 406,
+      "nonempty_definition": 406,
+      "nonempty_method": 406,
+      "not_enumerated": 51,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -682,14 +683,14 @@
         "sfi_kursdelt_vt"
       ],
       "complete": false,
-      "expected_bindings": 411,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 400,
-      "enumerated": 318,
-      "not_enumerated": 82,
+      "expected_bindings": 998,
+      "bindings": 600,
+      "documentation": 600,
+      "nonempty_definition": 600,
+      "nonempty_method": 600,
+      "verified_domains": 600,
+      "enumerated": 478,
+      "not_enumerated": 122,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -700,18 +701,18 @@
       ],
       "complete": false,
       "expected_bindings": 501,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 391,
-      "not_enumerated": 307,
-      "enumerated": 84,
+      "bindings": 501,
+      "documentation": 501,
+      "nonempty_definition": 501,
+      "nonempty_method": 501,
+      "verified_domains": 492,
+      "not_enumerated": 390,
+      "enumerated": 102,
       "documentation_only": 9,
       "source_errors": 9,
       "source_error_examples": [
-        "Ast_Sni2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "Ast_Sni2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "Ast_Sni2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ast_Sni2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -721,13 +722,13 @@
       ],
       "complete": false,
       "expected_bindings": 1541,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 400,
-      "not_enumerated": 347,
-      "enumerated": 53,
+      "bindings": 600,
+      "documentation": 600,
+      "nonempty_definition": 600,
+      "nonempty_method": 600,
+      "verified_domains": 600,
+      "not_enumerated": 526,
+      "enumerated": 74,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -926,7 +927,7 @@
       "documented_columns": 6
     },
     "avggymn": {
-      "documented_versions": 200,
+      "documented_versions": 354,
       "documented_columns": 20
     },
     "bas": {
@@ -990,11 +991,11 @@
       "documented_columns": 3
     },
     "fdb_je": {
-      "documented_versions": 376,
+      "documented_versions": 424,
       "documented_columns": 23
     },
     "fdb_je_ng": {
-      "documented_versions": 57,
+      "documented_versions": 78,
       "documented_columns": 3
     },
     "fdb_lve": {
@@ -1034,7 +1035,7 @@
       "documented_columns": 8
     },
     "frida_ne": {
-      "documented_versions": 371,
+      "documented_versions": 482,
       "documented_columns": 38
     },
     "ftg_fou": {
@@ -1094,19 +1095,19 @@
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
-      "documented_versions": 206,
+      "documented_versions": 406,
       "documented_columns": 13
     },
     "kvx_kursdelt_vt": {
-      "documented_versions": 206,
+      "documented_versions": 404,
       "documented_columns": 13
     },
     "lisa_arbst": {
-      "documented_versions": 400,
+      "documented_versions": 501,
       "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 400,
+      "documented_versions": 600,
       "documented_columns": 68
     },
     "lisa_individ": {
@@ -1130,11 +1131,11 @@
       "documented_columns": 3
     },
     "sfi_kursdelt_ht": {
-      "documented_versions": 400,
+      "documented_versions": 596,
       "documented_columns": 17
     },
     "sfi_kursdelt_vt": {
-      "documented_versions": 397,
+      "documented_versions": 595,
       "documented_columns": 17
     },
     "sivstock": {
