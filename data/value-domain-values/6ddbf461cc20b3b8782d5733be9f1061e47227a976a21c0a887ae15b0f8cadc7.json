@@ -1,0 +1,848 @@
+{
+  "version": "Huvudområdesgrupp",
+  "level": "Huvudområdesgrupp",
+  "data_type": "char(5)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Ej relevant"
+    },
+    {
+      "code": "14210",
+      "label": "Pedagogik"
+    },
+    {
+      "code": "14220",
+      "label": "Idrotts- och friskvårdspedagogik"
+    },
+    {
+      "code": "14230",
+      "label": "Specialpedagogik"
+    },
+    {
+      "code": "14240",
+      "label": "Vårdpedagogik"
+    },
+    {
+      "code": "14250",
+      "label": "Pedagogik med annan särskild inriktning"
+    },
+    {
+      "code": "14260",
+      "label": "Utbildningsvetenskap/Didaktik/Lärande"
+    },
+    {
+      "code": "21110",
+      "label": "Fri konst"
+    },
+    {
+      "code": "21120",
+      "label": "Konstvetenskap"
+    },
+    {
+      "code": "21210",
+      "label": "Cirkus"
+    },
+    {
+      "code": "21220",
+      "label": "Dans"
+    },
+    {
+      "code": "21230",
+      "label": "Dramatik och scenframställning"
+    },
+    {
+      "code": "21240",
+      "label": "Filmvetenskap"
+    },
+    {
+      "code": "21250",
+      "label": "Musik"
+    },
+    {
+      "code": "21260",
+      "label": "Musikdramatisk scenframställning"
+    },
+    {
+      "code": "21270",
+      "label": "Musikvetenskap"
+    },
+    {
+      "code": "21280",
+      "label": "Teatervetenskap"
+    },
+    {
+      "code": "21310",
+      "label": "Medieproduktion"
+    },
+    {
+      "code": "21410",
+      "label": "Design"
+    },
+    {
+      "code": "21510",
+      "label": "Konsthantverk"
+    },
+    {
+      "code": "21910",
+      "label": "Övrigt inom konst och media"
+    },
+    {
+      "code": "22110",
+      "label": "Religionsvetenskap och teologi"
+    },
+    {
+      "code": "22202",
+      "label": "Allmän språkvetenskap och lingvistik"
+    },
+    {
+      "code": "22204",
+      "label": "Datalingvistik"
+    },
+    {
+      "code": "22206",
+      "label": "Fonetik"
+    },
+    {
+      "code": "22208",
+      "label": "Retorik"
+    },
+    {
+      "code": "22210",
+      "label": "Arabiska"
+    },
+    {
+      "code": "22211",
+      "label": "Arameiska/syriska"
+    },
+    {
+      "code": "22213",
+      "label": "Baltiska språk"
+    },
+    {
+      "code": "22215",
+      "label": "Bosniska/kroatiska/serbiska"
+    },
+    {
+      "code": "22217",
+      "label": "Bulgariska"
+    },
+    {
+      "code": "22219",
+      "label": "Danska"
+    },
+    {
+      "code": "22221",
+      "label": "Engelska"
+    },
+    {
+      "code": "22223",
+      "label": "Estniska"
+    },
+    {
+      "code": "22225",
+      "label": "Finska"
+    },
+    {
+      "code": "22226",
+      "label": "Finsk-ugriska språk"
+    },
+    {
+      "code": "22228",
+      "label": "Franska"
+    },
+    {
+      "code": "22230",
+      "label": "Grekiska"
+    },
+    {
+      "code": "22232",
+      "label": "Hebreiska"
+    },
+    {
+      "code": "22234",
+      "label": "Hindi"
+    },
+    {
+      "code": "22236",
+      "label": "Indologi och sanskrit"
+    },
+    {
+      "code": "22237",
+      "label": "Indonesiska"
+    },
+    {
+      "code": "22239",
+      "label": "Iranska språk"
+    },
+    {
+      "code": "22241",
+      "label": "Italienska"
+    },
+    {
+      "code": "22243",
+      "label": "Japanska"
+    },
+    {
+      "code": "22245",
+      "label": "Keltiska språk"
+    },
+    {
+      "code": "22247",
+      "label": "Kinesiska"
+    },
+    {
+      "code": "22249",
+      "label": "Koreanska"
+    },
+    {
+      "code": "22251",
+      "label": "Kurdiska"
+    },
+    {
+      "code": "22253",
+      "label": "Latin"
+    },
+    {
+      "code": "22255",
+      "label": "Lettiska"
+    },
+    {
+      "code": "22257",
+      "label": "Litauiska"
+    },
+    {
+      "code": "22259",
+      "label": "Nederländska"
+    },
+    {
+      "code": "22261",
+      "label": "Nygrekiska"
+    },
+    {
+      "code": "22263",
+      "label": "Persiska"
+    },
+    {
+      "code": "22265",
+      "label": "Polska"
+    },
+    {
+      "code": "22266",
+      "label": "Portugisiska"
+    },
+    {
+      "code": "22268",
+      "label": "Romanska språk"
+    },
+    {
+      "code": "22270",
+      "label": "Rumänska"
+    },
+    {
+      "code": "22271",
+      "label": "Ryska"
+    },
+    {
+      "code": "22273",
+      "label": "Samiska"
+    },
+    {
+      "code": "22275",
+      "label": "Semitiska språk"
+    },
+    {
+      "code": "22277",
+      "label": "Slaviska språk"
+    },
+    {
+      "code": "22279",
+      "label": "Spanska"
+    },
+    {
+      "code": "22281",
+      "label": "Svenska som främmande språk"
+    },
+    {
+      "code": "22282",
+      "label": "Swahili"
+    },
+    {
+      "code": "22284",
+      "label": "Tamil"
+    },
+    {
+      "code": "22286",
+      "label": "Teckenspråk"
+    },
+    {
+      "code": "22288",
+      "label": "Thai"
+    },
+    {
+      "code": "22290",
+      "label": "Tibetanska"
+    },
+    {
+      "code": "22291",
+      "label": "Tjeckiska"
+    },
+    {
+      "code": "22293",
+      "label": "Turkiska språk"
+    },
+    {
+      "code": "22294",
+      "label": "Tyska"
+    },
+    {
+      "code": "22296",
+      "label": "Ungerska"
+    },
+    {
+      "code": "22298",
+      "label": "Översättning och tolkning"
+    },
+    {
+      "code": "22299",
+      "label": "Övriga språk"
+    },
+    {
+      "code": "22310",
+      "label": "Litteraturvetenskap"
+    },
+    {
+      "code": "22320",
+      "label": "Litterärt skapande"
+    },
+    {
+      "code": "22330",
+      "label": "Svenska/Nordiska Språk"
+    },
+    {
+      "code": "22510",
+      "label": "Antikens kultur och samhällsliv"
+    },
+    {
+      "code": "22520",
+      "label": "Arkeologi"
+    },
+    {
+      "code": "22530",
+      "label": "Historia"
+    },
+    {
+      "code": "22540",
+      "label": "Kulturvetenskap"
+    },
+    {
+      "code": "22550",
+      "label": "Kulturvård"
+    },
+    {
+      "code": "22610",
+      "label": "Estetik"
+    },
+    {
+      "code": "22620",
+      "label": "Filosofi"
+    },
+    {
+      "code": "22630",
+      "label": "Idé- och lärdomshistoria/Idéhistoria"
+    },
+    {
+      "code": "22910",
+      "label": "Övrig humaniora"
+    },
+    {
+      "code": "31110",
+      "label": "Psykologi"
+    },
+    {
+      "code": "31120",
+      "label": "Psykoterapi"
+    },
+    {
+      "code": "31130",
+      "label": "Socialpsykologi"
+    },
+    {
+      "code": "31210",
+      "label": "Etnologi"
+    },
+    {
+      "code": "31220",
+      "label": "Kriminologi"
+    },
+    {
+      "code": "31230",
+      "label": "Kultur-, samhälls-, och ekonomisk geografi"
+    },
+    {
+      "code": "31240",
+      "label": "Länderkunskap/länderstudier"
+    },
+    {
+      "code": "31250",
+      "label": "Socialantropologi"
+    },
+    {
+      "code": "31260",
+      "label": "Sociologi"
+    },
+    {
+      "code": "31310",
+      "label": "Freds- och utvecklingsstudier"
+    },
+    {
+      "code": "31320",
+      "label": "Mänskliga rättigheter"
+    },
+    {
+      "code": "31330",
+      "label": "Statsvetenskap"
+    },
+    {
+      "code": "31410",
+      "label": "Ekonomisk historia"
+    },
+    {
+      "code": "31420",
+      "label": "Nationalekonomi"
+    },
+    {
+      "code": "31910",
+      "label": "Genusvetenskap"
+    },
+    {
+      "code": "31920",
+      "label": "Handikappvetenskap"
+    },
+    {
+      "code": "31930",
+      "label": "Övrig beteendevetenskap"
+    },
+    {
+      "code": "31940",
+      "label": "Övrig samhällsvetenskap"
+    },
+    {
+      "code": "32110",
+      "label": "Journalistik"
+    },
+    {
+      "code": "32120",
+      "label": "Medie- och kommunikationsvetenskap"
+    },
+    {
+      "code": "32210",
+      "label": "Arkivvetenskap"
+    },
+    {
+      "code": "32220",
+      "label": "Biblioteks- och informationsvetenskap"
+    },
+    {
+      "code": "32910",
+      "label": "Övrigt inom journalistik, kommunikation och information"
+    },
+    {
+      "code": "34010",
+      "label": "Företagsekonomi"
+    },
+    {
+      "code": "34020",
+      "label": "Entreprenörskap och innovationsteknik"
+    },
+    {
+      "code": "34510",
+      "label": "Administration och förvaltning"
+    },
+    {
+      "code": "34520",
+      "label": "Ledarskap, organisation och styrning"
+    },
+    {
+      "code": "34530",
+      "label": "Personaladministration och arbetsliv"
+    },
+    {
+      "code": "34910",
+      "label": "Övrigt inom ekonomi, handel och administration"
+    },
+    {
+      "code": "38010",
+      "label": "Juridik och rättsvetenskap"
+    },
+    {
+      "code": "42110",
+      "label": "Biokemi"
+    },
+    {
+      "code": "42120",
+      "label": "Biologi"
+    },
+    {
+      "code": "42130",
+      "label": "Farmakologi"
+    },
+    {
+      "code": "42140",
+      "label": "Medicinsk biologi"
+    },
+    {
+      "code": "42150",
+      "label": "Molekylärbiologi"
+    },
+    {
+      "code": "42160",
+      "label": "Nutrition"
+    },
+    {
+      "code": "42210",
+      "label": "Miljövetenskap"
+    },
+    {
+      "code": "44110",
+      "label": "Fysik"
+    },
+    {
+      "code": "44210",
+      "label": "Kemi"
+    },
+    {
+      "code": "44310",
+      "label": "Geografi"
+    },
+    {
+      "code": "44320",
+      "label": "Geovetenskap och naturgeografi"
+    },
+    {
+      "code": "44330",
+      "label": "Markvetenskap"
+    },
+    {
+      "code": "46110",
+      "label": "Matematik"
+    },
+    {
+      "code": "46210",
+      "label": "Statistik"
+    },
+    {
+      "code": "46910",
+      "label": "Övrig naturvetenskap"
+    },
+    {
+      "code": "48110",
+      "label": "Datavetenskap och systemvetenskap"
+    },
+    {
+      "code": "48120",
+      "label": "Informatik"
+    },
+    {
+      "code": "48910",
+      "label": "Kognitionsvetenskap"
+    },
+    {
+      "code": "48920",
+      "label": "Medieteknik"
+    },
+    {
+      "code": "48930",
+      "label": "Övrigt inom dataområdet"
+    },
+    {
+      "code": "52010",
+      "label": "Teknisk fysik"
+    },
+    {
+      "code": "52020",
+      "label": "Teknik"
+    },
+    {
+      "code": "52110",
+      "label": "Maskinteknik"
+    },
+    {
+      "code": "52120",
+      "label": "Produktutveckling"
+    },
+    {
+      "code": "52210",
+      "label": "Elektroteknik"
+    },
+    {
+      "code": "52220",
+      "label": "Energiteknik"
+    },
+    {
+      "code": "52310",
+      "label": "Automatiseringsteknik"
+    },
+    {
+      "code": "52320",
+      "label": "Datateknik"
+    },
+    {
+      "code": "52330",
+      "label": "Elektronik"
+    },
+    {
+      "code": "52410",
+      "label": "Bioteknik"
+    },
+    {
+      "code": "52420",
+      "label": "Kemiteknik"
+    },
+    {
+      "code": "52510",
+      "label": "Fordons- och farkostteknik"
+    },
+    {
+      "code": "52610",
+      "label": "Industriell ekonomi, organisation och ledning"
+    },
+    {
+      "code": "52620",
+      "label": "Logistik"
+    },
+    {
+      "code": "52910",
+      "label": "Rymdteknik"
+    },
+    {
+      "code": "52930",
+      "label": "Övrigt inom teknikområdet"
+    },
+    {
+      "code": "54010",
+      "label": "Materialvetenskap och materialteknik"
+    },
+    {
+      "code": "54210",
+      "label": "Textilteknologi"
+    },
+    {
+      "code": "54310",
+      "label": "Trä- och pappersteknik"
+    },
+    {
+      "code": "54410",
+      "label": "Berg- och mineralteknik"
+    },
+    {
+      "code": "54910",
+      "label": "Övrigt inom material och tillverkning"
+    },
+    {
+      "code": "58010",
+      "label": "Geografisk informationsteknik"
+    },
+    {
+      "code": "58020",
+      "label": "Lantmäteri"
+    },
+    {
+      "code": "58110",
+      "label": "Arkitektur"
+    },
+    {
+      "code": "58120",
+      "label": "Fastighetsvetenskap"
+    },
+    {
+      "code": "58130",
+      "label": "Fysisk planering"
+    },
+    {
+      "code": "58140",
+      "label": "Samhällsbyggnadsteknik"
+    },
+    {
+      "code": "58210",
+      "label": "Byggteknik"
+    },
+    {
+      "code": "58220",
+      "label": "Väg- och vattenbyggnad"
+    },
+    {
+      "code": "62110",
+      "label": "Husdjursvetenskap"
+    },
+    {
+      "code": "62120",
+      "label": "Lantbruksvetenskap"
+    },
+    {
+      "code": "62210",
+      "label": "Trädgårdsvetenskap"
+    },
+    {
+      "code": "62310",
+      "label": "Skogsvetenskap"
+    },
+    {
+      "code": "62910",
+      "label": "Övrigt inom lantbruk, trädgård, skog och fiske"
+    },
+    {
+      "code": "64010",
+      "label": "Djuromvårdnad"
+    },
+    {
+      "code": "64020",
+      "label": "Veterinärmedicin"
+    },
+    {
+      "code": "72010",
+      "label": "Folkhälsovetenskap"
+    },
+    {
+      "code": "72020",
+      "label": "Hälsovetenskap"
+    },
+    {
+      "code": "72110",
+      "label": "Medicin/Biomedicin"
+    },
+    {
+      "code": "72310",
+      "label": "Vårdvetenskap och omvårdnad"
+    },
+    {
+      "code": "72410",
+      "label": "Odontologi"
+    },
+    {
+      "code": "72420",
+      "label": "Tandteknik och oral hälsa"
+    },
+    {
+      "code": "72510",
+      "label": "Biomedicinsk laboratorievetenskap"
+    },
+    {
+      "code": "72520",
+      "label": "Medicinska tekniker"
+    },
+    {
+      "code": "72610",
+      "label": "Arbetsterapi"
+    },
+    {
+      "code": "72620",
+      "label": "Kostbehandling"
+    },
+    {
+      "code": "72630",
+      "label": "Logopedi"
+    },
+    {
+      "code": "72640",
+      "label": "Rehabiliteringsvetenskap"
+    },
+    {
+      "code": "72650",
+      "label": "Sjukgymnastik"
+    },
+    {
+      "code": "72710",
+      "label": "Farmaci"
+    },
+    {
+      "code": "72910",
+      "label": "Övrigt inom hälso- och sjukvård"
+    },
+    {
+      "code": "76110",
+      "label": "Barn- och ungdomsstudier"
+    },
+    {
+      "code": "76210",
+      "label": "Social omsorg"
+    },
+    {
+      "code": "76220",
+      "label": "Socialt arbete"
+    },
+    {
+      "code": "76230",
+      "label": "Studie- och yrkesvägledning"
+    },
+    {
+      "code": "76910",
+      "label": "Övrigt inom socialt arbete och omsorg"
+    },
+    {
+      "code": "81110",
+      "label": "Måltids- och  hushållskunskap"
+    },
+    {
+      "code": "81210",
+      "label": "Turism- och fritidsvetenskap"
+    },
+    {
+      "code": "81310",
+      "label": "Idrott/idrottsvetenskap"
+    },
+    {
+      "code": "81910",
+      "label": "Övrigt inom tjänstesektorn"
+    },
+    {
+      "code": "84010",
+      "label": "Luftfart"
+    },
+    {
+      "code": "84020",
+      "label": "Sjöfart"
+    },
+    {
+      "code": "84030",
+      "label": "Övriga transporttjänster"
+    },
+    {
+      "code": "85010",
+      "label": "Miljövård och miljöskydd"
+    },
+    {
+      "code": "85110",
+      "label": "Miljöteknik"
+    },
+    {
+      "code": "85210",
+      "label": "Naturvård och naturskydd"
+    },
+    {
+      "code": "86110",
+      "label": "Säkerhetsutbildningar"
+    },
+    {
+      "code": "86120",
+      "label": "Polisiärt arbete"
+    },
+    {
+      "code": "86210",
+      "label": "Arbetsvetenskap"
+    },
+    {
+      "code": "86220",
+      "label": "Ergonomi"
+    },
+    {
+      "code": "86310",
+      "label": "Krigsvetenskap"
+    },
+    {
+      "code": "99999",
+      "label": "Okodat"
+    }
+  ],
+  "id": "6ddbf461cc20b3b8782d5733be9f1061e47227a976a21c0a887ae15b0f8cadc7"
+}

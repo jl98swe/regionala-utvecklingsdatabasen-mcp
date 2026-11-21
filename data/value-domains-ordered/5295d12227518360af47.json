@@ -1,0 +1,215 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "5295d12227518360af47",
+  "register": "Universitets- och högskoleregistret ",
+  "variant": "Grundutbildning, examina",
+  "bindings": [
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "HPoa",
+      "variable": "Examens omfattning i högskolepoäng",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "79fd5d721cc425a5e4a44132acce76a88f080652d54b87cf1d9c08405a2ec3de",
+      "id": "cb45c385dfd57a13a09efc68fd9479bd9858855bbf2ffa910d064f618b17e4cc",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "Hpoa",
+          "ar_raw": null,
+          "kallrad": 3141,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "HsKod",
+      "variable": "Universitet/högskola",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "57336e14553882cc165031603d7478e9d04e10373cbe94d547d57b5fb1cccd4c",
+      "id": "eef4d39375f82414dbabfaa86c4ba1b46971b0b1c4f9037560e23494da8f824a",
+      "domain_id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "HsKod",
+          "ar_raw": null,
+          "kallrad": 3142,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "HuvOmGrp",
+      "variable": "Huvudområdesgrupp för examen",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "c1f25de8b298f169a3a5e3b4890681e4739ff297bb2ee397761bb223d4468aa3",
+      "id": "5351b83c564571582d96a2868a2fbe69d1ceb07650b9f40630dae8333e58f013",
+      "domain_id": "6ddbf461cc20b3b8782d5733be9f1061e47227a976a21c0a887ae15b0f8cadc7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "Huvomgrp",
+          "ar_raw": null,
+          "kallrad": 3143,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "Inr",
+      "variable": "Inriktning för examen",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "a69ca2753543402a3ec412ccf492c78291d9f19b6c8e66b51c6c04126d05b669",
+      "id": "85be79d44042c3f72efe0a396538210f2de4ea6c52971d87e30fd4a112ded358",
+      "domain_id": "2bf23fb3ef9d43b936c9dee73e97c622c1f80e6338a0e78815fed021f99449b7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "Inr",
+          "ar_raw": null,
+          "kallrad": 3144,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "Kar",
+      "variable": "År för examensbevis",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "85c786d4433c9228c89e768620e37465092c08479c3e787e2d69ac0aca866fd7",
+      "id": "f3b6dc09a2d19f846449bc5bf2f81335e8f0e2c0f3fa865790f62546360e97cc",
+      "domain_id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "KAr",
+          "ar_raw": null,
+          "kallrad": 3146,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Grundutbildning, examina",
+      "column": "Lar",
+      "variable": "Läsår ",
+      "register_version": "Läsåren 1977/1978 - 2025/2026",
+      "source_task_id": "2272a8e633fec5cc289e10598c517bc843107fb866802fcfbc486e686e498015",
+      "id": "ba513663aeb10027d1b6e634066a79974f0df4e79b65b889557964f89ad2c067",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:13:24+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_examen",
+          "variabel": "LAr",
+          "ar_raw": null,
+          "kallrad": 3147,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "Inriktning för examen",
+      "level": "Inriktning för examen",
+      "data_type": "char(4)",
+      "id": "2bf23fb3ef9d43b936c9dee73e97c622c1f80e6338a0e78815fed021f99449b7",
+      "value_count": 3751,
+      "path": "data/value-domain-values/2bf23fb3ef9d43b936c9dee73e97c622c1f80e6338a0e78815fed021f99449b7.json"
+    },
+    {
+      "version": "Huvudområdesgrupp",
+      "level": "Huvudområdesgrupp",
+      "data_type": "char(5)",
+      "id": "6ddbf461cc20b3b8782d5733be9f1061e47227a976a21c0a887ae15b0f8cadc7",
+      "value_count": 210,
+      "path": "data/value-domain-values/6ddbf461cc20b3b8782d5733be9f1061e47227a976a21c0a887ae15b0f8cadc7.json"
+    },
+    {
+      "version": "År",
+      "level": "Årtal fr.o.m. 1900 och framåt",
+      "data_type": "char(4)",
+      "id": "aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c",
+      "value_count": 127,
+      "path": "data/value-domain-values/aa2c4f9238a165d2648ff0d0b79ac62edefdd2d103222263c04ff6e2cebb902c.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "smallint",
+      "id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "value_count": 0,
+      "path": "data/value-domain-values/b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "char(4)",
+      "id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "value_count": 0,
+      "path": "data/value-domain-values/ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82.json"
+    },
+    {
+      "version": "Universitet/högskolor",
+      "level": "Universitet/högskolor",
+      "data_type": "char(3)",
+      "id": "e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c",
+      "value_count": 136,
+      "path": "data/value-domain-values/e87c4388548249bd1b6f322de0272c1ebccd1d97861494a4c5659f7ff1308d8c.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "c7733b3d0b4f87302eacf2ba1a079e7468649a14e97a7519945d7913242311d8",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:13:24+00:00",
+    "task_count": 6,
+    "expected_bindings": 6,
+    "errors": []
+  }
+}
