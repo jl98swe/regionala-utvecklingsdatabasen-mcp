@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(3)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Studieförmåga att studera vidare"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Bedömning av den studerandes förmåga till vidare studier."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Studieomdöme ska sättas och rapporteras årligen för deltagare på allmän kurs på gymnasienivå som är minst 30 veckor långa. Studieomdöme kan också sättas och rapporteras årligen för deltagare på allmän kurs på grundskolenivå som är minst 30 veckor långa."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Studiedokumentationssystemet Schoolsoft, alt. rapportering via Excel"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser angivet kalenderår och beskriver bl.a. kursdeltagares utbildningsbakgrund, studieomfattning, kurs och uppnådda behörigheter till ytterligare studier."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Deltagare i kurser anordnade av folkhögskolor"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Omfattar samtliga deltagare på kurser anordnade av folkhögskolor. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "\r\n\r\n"
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-01-01 - 2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker genom att skolorna skickar in uttag från de administrativa systemen. Folkhögskolor som inte är anslutna till ett administrativt system kan lämna uppgifter via Excel. Under insamlingen skickar SCB påminnelser till folkhögskolor som inte har skickat in uppgifter eller behöver komplettera uppgifter. Vid granskning där fel upptäcks kontaktas uppgiftslämnaren för justering av uppgifterna."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Deltagarregistret innehåller bl.a. uppgifter om kursdeltagares utbildningsbakgrund, studieomfattning, kurs som studeras och uppnådda behörigheter. Uppgifter om deltagare i folkhögskolans används som underlag till Registret över befolkningens utbildning (UREG) samt Registret över befolkningens studiedeltagande. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Registret innehåller uppgifter om folkhögskolans verksamhet, deltagare, pedagogisk personal och ekonomi. "
+    }
+  ],
+  "id": "3b84d6bed4f36b064e60ce8b6d7bd729c2972e69ac93053e1fa79b003b091776"
+}

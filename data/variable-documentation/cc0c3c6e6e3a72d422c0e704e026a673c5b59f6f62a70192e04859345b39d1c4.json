@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Avbrott folkhögskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om kursdeltagare har gjort avbrott i sina studier på kursen. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Ange avbrott om deltagare på:\r\n-  allmän kurs, särskild kurs, etableringskurs eller bristyrkeskurs avbryter studier på 16 kursdagen eller därefter.\r\n- studiemotiverande kurs avbryter studier på 11:e kursdagen eller därefter.\r\n\r\nFör övriga kurser med lokalt avtalad uppdragsverksamhet bedömer skolorna själva när avbrott ska sättas. Avbrott rapporteras inte för kort kurs (kurstyp 03)."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Studiedokumentationssystemet Schoolsoft, alt. rapportering via Excel"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser angivet kalenderår och beskriver bl.a. kursdeltagares utbildningsbakgrund, studieomfattning, kurs och uppnådda behörigheter till ytterligare studier."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Deltagare i kurser anordnade av folkhögskolor"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Omfattar samtliga deltagare på kurser anordnade av folkhögskolor. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "\r\n\r\n"
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-01-01 - 2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker genom att skolorna skickar in uttag från de administrativa systemen. Folkhögskolor som inte är anslutna till ett administrativt system kan lämna uppgifter via Excel. Under insamlingen skickar SCB påminnelser till folkhögskolor som inte har skickat in uppgifter eller behöver komplettera uppgifter. Vid granskning där fel upptäcks kontaktas uppgiftslämnaren för justering av uppgifterna."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Deltagarregistret innehåller bl.a. uppgifter om kursdeltagares utbildningsbakgrund, studieomfattning, kurs som studeras och uppnådda behörigheter. Uppgifter om deltagare i folkhögskolans används som underlag till Registret över befolkningens utbildning (UREG) samt Registret över befolkningens studiedeltagande. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Registret innehåller uppgifter om folkhögskolans verksamhet, deltagare, pedagogisk personal och ekonomi. "
+    }
+  ],
+  "id": "cc0c3c6e6e3a72d422c0e704e026a673c5b59f6f62a70192e04859345b39d1c4"
+}

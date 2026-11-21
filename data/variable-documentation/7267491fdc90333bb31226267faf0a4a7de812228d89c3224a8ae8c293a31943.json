@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Omfattning folkhögskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om kursen på folkhögskolan har genomförts på heltid eller deltid."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "1 timme = 60 minuters planerat studiearbete. Heltid omfattar minst 20 timmar/vecka. Deltid 0,75 = minst 15 timmar/vecka. Deltid 0,50 = minst 10 timmar/vecka. Deltid 0,25 = mindre än 10 timmar/vecka."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Studiedokumentationssystemet Schoolsoft, alt. rapportering via Excel"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser angivet kalenderår och beskriver bl.a. kursdeltagares utbildningsbakgrund, studieomfattning, kurs och uppnådda behörigheter till ytterligare studier."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Deltagare i kurser anordnade av folkhögskolor"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Omfattar samtliga deltagare på kurser anordnade av folkhögskolor. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "\r\n\r\n"
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2017-01-01 - 2017-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker genom att skolorna skickar in uttag från de administrativa systemen. Folkhögskolor som inte är anslutna till ett administrativt system kan lämna uppgifter via Excel. Under insamlingen skickar SCB påminnelser till folkhögskolor som inte har skickat in uppgifter eller behöver komplettera uppgifter. Vid granskning där fel upptäcks kontaktas uppgiftslämnaren för justering av uppgifterna."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Deltagarregistret innehåller bl.a. uppgifter om kursdeltagares utbildningsbakgrund, studieomfattning, kurs som studeras och uppnådda behörigheter. Uppgifter om deltagare i folkhögskolans används som underlag till Registret över befolkningens utbildning (UREG) samt Registret över befolkningens studiedeltagande. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Registret innehåller uppgifter om folkhögskolans verksamhet, deltagare, pedagogisk personal och ekonomi. "
+    }
+  ],
+  "id": "7267491fdc90333bb31226267faf0a4a7de812228d89c3224a8ae8c293a31943"
+}
