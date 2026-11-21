@@ -1,0 +1,98 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "float"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Vinst som ska tas upp i inkomstslaget kapital"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Vinst som ska tas upp i inkomstslaget kapital "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Räkenskapsutdrag  (SRU) : Bilaga K10"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller SRU-uppgifter inlämnade på bilaga K10 för inkomståret 2008"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Fåmansbolagsdelägare"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Fysik- eller juridisk person som är delägare i ett aktiebolag"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2008-01-01 - 2008-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet består av uppgifter från Skatteverkets SRU-material (Standardiserade räkenskapsutdrag) samt uppgifter från andra administrativa källor inom SCB.\r\nBlanketten som ligger till grund för uppgifterna återfinns under relaterad information."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Aktör"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Påverkande, aktivt objekt. Används när det inte är möjligt att entydigt hänföra aktören till någon av huvudtyperna person eller organisation."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Bilaga K10"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Bilaga K10"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller SRU-uppgifter för fåmansbolagsdelägare"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsregister och individdatabas (FRIDA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "FRIDA"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "FRIDA utgör en grund vid skatteeffekts- och prognosberäkningar. Databasen kan också användas till uttag av data för statistisk analys samt vid användandet av mikrosimuleringsmodeller. Modellerna ger information om hur företagen skulle kunna anpassa sina beteenden vid olika förändringar i skattelagstiftningen."
+    },
+    {
+      "name": "Relaterat dokument - Registerversion",
+      "value": "K10 2015.pdf"
+    }
+  ],
+  "id": "5ab4101363bb27fb642bf8bdcbd8cf255eef4f82cfee81e5b067bb9c9169a8e3"
+}
