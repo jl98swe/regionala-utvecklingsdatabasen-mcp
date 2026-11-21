@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(6)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Distrikt"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Distriktsindelningen baseras på en justerad version av den församlingsindelning som gällde den 31 december 1999. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Distriktsindelningen infördes i folkbokföringsdatabasen den 1 januari 2016. \r\n\r\nDistriktsindelningen är stabil såtillvida att den inte kommer att ändras i framtiden. Distriktsgränserna behöver inte följa vare sig fastighets- eller kommungränser."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Hämtas från Fastighetsregistrets distriktsregister. Matchningsbegrepp är s.k. adressplatsnyckel, dvs. den unika identiteten för adressen. Detta medför att distriktskod saknas för personer som saknar adressplatsnyckel, t.ex. de som är \"på kommunen skriven\" eller utan känd hemvist."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Fastighetsregistret : Distriktsinformation"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. För dessa görs viss rättning och härledningar av nya variabler."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Folkbokförda personer"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Folkbokförda personer"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Folkbokförda personer innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige.\r\n\r\nRegional indelning avser 1 jan året efter aktuellt år."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    }
+  ],
+  "id": "0f7f9dd19f57300d40d1748ec5f9fab85a126b913b678b333c05834b6e097362"
+}
