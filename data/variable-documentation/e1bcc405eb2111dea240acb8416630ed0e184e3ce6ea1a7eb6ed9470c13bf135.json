@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(10)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Institutionell sektor"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Klassificering av en institutionell enhets sektor. Tillhörande klassifikationen är Standard för klassificering av institutionella enheter efter institutionell sektor. Tidigare hette standarden Standard för klassificering av institutionella enheter med avseende på institutionell sektortillhörighet, ägarkategori och juridisk form."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Koden bildas utifrån företagets samhällssektor, ägare och juridiska form. De sex första positionerna anger samhällssektor, den sjunde och åttonde positionen anger ägarkontroll medan den juridiska formen anges i variabelns\r\nnionde och tionde position.\r\n"
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "November"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS) : Individer"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2014."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2014-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "e1bcc405eb2111dea240acb8416630ed0e184e3ce6ea1a7eb6ed9470c13bf135"
+}

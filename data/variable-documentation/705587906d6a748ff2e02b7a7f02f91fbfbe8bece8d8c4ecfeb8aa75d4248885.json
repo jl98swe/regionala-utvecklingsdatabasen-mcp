@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Etableringstillägg, utbetalt belopp"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Personer som är nya i Sverige kan utöver etableringsersättning få etableringstillägg från Försäkringskassan."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Årsuppgiften för utbetalningar för det aktuella året inkluderar inte bara de ordinarie utbetalningarna som gjorts under året, utan även korrigeringar och retroaktiva utbetalningar som hänför sig till tidigare år. Detta innebär att summan kan påverkas av justeringar och efterhandsutbetalningar som har gjorts för att rätta till tidigare fel eller för att betala ut belopp som har ackumulerats över tid."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Försäkringskassan"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Etableringstillägget ges:\r\n• till nyanlända som har hemmavarande barn under 20 år (vid sidan om bl.a. barnbidrag) som inte är självförsörjande\r\n• per hushåll och månadsvis med 800 kronor per barn som inte har fyllt 11 år, och 1 500 kronor per barn som har fyllt 11 men inte 20 år\r\n• för högst tre barn\r\n"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2017."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2017-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "705587906d6a748ff2e02b7a7f02f91fbfbe8bece8d8c4ecfeb8aa75d4248885"
+}
