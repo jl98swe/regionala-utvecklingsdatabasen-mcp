@@ -1,0 +1,28 @@
+{
+  "version": "Antal betyg minst godkänt - grupperat",
+  "level": "Antal betyg minst godkänt - grupperat",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Eleven har inte betygsatts enligt Skolförordningen"
+    },
+    {
+      "code": "0",
+      "label": "Har godkänt betyg i alla ämnen"
+    },
+    {
+      "code": "1",
+      "label": "Saknar godkänt betyg i ett ämne"
+    },
+    {
+      "code": "100",
+      "label": "Saknar godkänt betyg i alla ämnen"
+    },
+    {
+      "code": "2",
+      "label": "Saknar godkänt betyg i två eller flera ämnen"
+    }
+  ],
+  "id": "865d9ee846549ecd26a99ea7743b71adfb27e0b039894f06afeee9d3815c7b89"
+}

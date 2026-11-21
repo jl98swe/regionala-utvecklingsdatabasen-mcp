@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(4)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Kommun"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Regional indelning i kommuner. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Kommunkod för kommunen i vilken skolan är placerad. Härleds ur skolkoden"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna innehåller betyg som är satta under läsåret 2016/2017. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever i årskurs 6, grundskola"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Populationen utgörs av samtliga elever i årskurs 6 under vårterminen."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "I populationen ingår inte uppgifter om elever i särskola och specialskola."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2016-07-01 - 2017-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna har samlats in direkt från skolenheter eller via en central kontaktperson på kommuner. Insamlingen genomförs genom att SCB skickar ut inloggningsuppgifter till berörda uppgiftslämnare, som lämnar efterfrågade uppgifter via SCB:s webbplats, genom att fylla i en Excelfil eller skicka in en textfil."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Grundskolan: betyg årskurs 6"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Grundskola, betyg åk 6"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Betygstatistiken är ett av flera kvalitetsmått på grundskoleutbildningen, lokalt och nationellt. Resultaten används också för att belysa likvärdigheten i betygssättningen. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Grundskolan: betyg årskurs 6"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Grundskola: betyg åk 6"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Registret innehåller uppgifter om betyg i årskurs 6. Betygstatistiken är ett av flera kvalitetsmått på utbildningen, lokalt och nationellt. Resultaten används också för att belysa likvärdigheten i betygssättningen. "
+    }
+  ],
+  "id": "bb0473727ff3a1a60801d466574c5da4fadc206cf6daabda66c78e4527a37c77"
+}

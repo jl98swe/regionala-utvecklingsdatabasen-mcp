@@ -1,0 +1,76 @@
+{
+  "version": "Betyg",
+  "level": "Godkänt eller ej, inkl mer gradering",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "",
+      "label": "Eleven är inte betygsatt enligt Grf, Grundskoleförordningen"
+    },
+    {
+      "code": "0",
+      "label": "Eleven är inte betygsatt enligt Grf, Grundskoleförordningen"
+    },
+    {
+      "code": "1",
+      "label": "Ej uppnåt målen enligt Lpo 94 (Läroplan för det obligatoriska skolväsendet, förskoleklassen och fritidshemmet)"
+    },
+    {
+      "code": "2",
+      "label": "Ämne/ämnesblock ingår ej i elevens utbildning"
+    },
+    {
+      "code": "3",
+      "label": "Anpassad studiegång enligt 3 kap. 12 § skollagen. Endast aktuellt för obligatoriskt ämne."
+    },
+    {
+      "code": "9",
+      "label": "Bedömningsunderlag saknas, (-) i betygskatalogen"
+    },
+    {
+      "code": "A",
+      "label": "Betyg A"
+    },
+    {
+      "code": "B",
+      "label": "Betyg B"
+    },
+    {
+      "code": "C",
+      "label": "Betyg C"
+    },
+    {
+      "code": "D",
+      "label": "Betyg D"
+    },
+    {
+      "code": "E",
+      "label": "Betyg E"
+    },
+    {
+      "code": "F",
+      "label": "Betyg F, dvs ej godkänt betyg"
+    },
+    {
+      "code": "G",
+      "label": "Godkänd enligt Lpo 94 (Läroplan för det obligatoriska skolväsendet, förskoleklassen och fritidshemmet)"
+    },
+    {
+      "code": "M",
+      "label": "Mycket väl godkänd enligt Lpo 94 (Läroplan för det obligatoriska skolväsendet, förskoleklassen och fritidshemmet)"
+    },
+    {
+      "code": "V",
+      "label": "Väl godkänd enligt Lpo 94 (Läroplan för det obligatoriska skolväsendet, förskoleklassen och fritidshemmet)"
+    },
+    {
+      "code": "X",
+      "label": "Saknar godkänt betyg i alla ämnen"
+    },
+    {
+      "code": "Y",
+      "label": "Ej fått kunskapsrelaterade betyg"
+    }
+  ],
+  "id": "edf9a56799945cfa20d8b4a19b6c02ec8f1111e79f0a29161c4b5c35b9658f84"
+}
