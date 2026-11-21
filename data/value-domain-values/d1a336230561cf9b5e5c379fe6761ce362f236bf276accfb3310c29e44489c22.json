@@ -1,0 +1,36 @@
+{
+  "version": "Flyttningskod tom 2015",
+  "level": "Flyttningskod",
+  "data_type": "int",
+  "values": [
+    {
+      "code": "1",
+      "label": "Inom fastighet"
+    },
+    {
+      "code": "2",
+      "label": "Inom församling utom fastighet"
+    },
+    {
+      "code": "3",
+      "label": "Inom kommun utom församling, fastighet"
+    },
+    {
+      "code": "4",
+      "label": "Inom län utom kommun, församling, fastighet"
+    },
+    {
+      "code": "5",
+      "label": "Inom landet utom län, kommun, församling, fastighet"
+    },
+    {
+      "code": "6",
+      "label": "Immigranter"
+    },
+    {
+      "code": "7",
+      "label": "Emigranter"
+    }
+  ],
+  "id": "d1a336230561cf9b5e5c379fe6761ce362f236bf276accfb3310c29e44489c22"
+}

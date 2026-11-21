@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(6)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Distrikt tidigare"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Distriktsindelningen baseras på en justerad version av den församlingsindelning som gällde den 31 december 1999. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Distriktskod för personen före flyttidpunkten. \r\nMatchningsbegrepp är adressplatsnyckel, dvs. den unika identiteten för adressen. Detta medför att distriktskod saknas för personer som saknar adressplatsnyckel, t.ex. de som är \"på kommunen skriven\" eller utan känd hemvist."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Fastighetsregistret : Distriktsinformation"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige som har flyttat inom landet"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer som en eller flera gånger inom populationens tidsram har flyttat inom landet."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-01-01 - 2019-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. Skatteverket levererar aviseringar om förändringar  folkbokförings- databasen fem gånger i veckan till SCB. Innan aviseringarna läggs in görs vissa grundläggande kontroller. Varje månad framställs ett antal preliminära bestånds- och händelseregister. I registren har en utökad granskning gjorts. Även rättningar, imputeringar och härledningar av nya variabler görs. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller inrikes flyttningar för kalenderår och som inrapporterats under tidsperioden 1 januari aktuellt kalenderår till och med 31 januari året efter aktuellt kalenderår. (Händelser som inrapporterats efter 13-månaderperioden kommer inte med i någon registerversion, däremot tas de hänsyn till i statistikredovisningen.)\r\n\r\nRegional indelning avser 1 januari aktuellt kalenderår."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    }
+  ],
+  "id": "f87271d261383094a2d248ce6af1da2ee70c7df2a10a1db153b9c39162c3e038"
+}

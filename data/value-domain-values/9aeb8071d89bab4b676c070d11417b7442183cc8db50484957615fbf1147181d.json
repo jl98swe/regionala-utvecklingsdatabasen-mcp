@@ -1,0 +1,36 @@
+{
+  "version": "Flyttningskod from 2016",
+  "level": "Flyttningskod",
+  "data_type": "int",
+  "values": [
+    {
+      "code": "1",
+      "label": "Inom fastighet"
+    },
+    {
+      "code": "2",
+      "label": "Inom distrikt mellan fastigheter"
+    },
+    {
+      "code": "3",
+      "label": "Inom kommun mellan distrikt"
+    },
+    {
+      "code": "4",
+      "label": "Inom län mellan kommuner"
+    },
+    {
+      "code": "5",
+      "label": "Inom landet mellan län"
+    },
+    {
+      "code": "6",
+      "label": "Immigranter"
+    },
+    {
+      "code": "7",
+      "label": "Emigranter"
+    }
+  ],
+  "id": "9aeb8071d89bab4b676c070d11417b7442183cc8db50484957615fbf1147181d"
+}

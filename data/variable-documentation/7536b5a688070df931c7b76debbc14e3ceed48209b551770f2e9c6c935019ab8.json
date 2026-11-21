@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Flyttningsgräns"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Kod för typ av flytt."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd variabel som anger om flytten sker inom fastighet eller inom någon av följande regionala gränser: distrikt, kommun, län eller riket. Härleds från län, kommun, distrikt och fastighet före respektive efter flytten."
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige som har flyttat inom landet"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer som en eller flera gånger inom populationens tidsram har flyttat inom landet."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2024-01-01 - 2024-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. Skatteverket levererar aviseringar om förändringar i folkbokförings- databasen fem gånger i veckan till SCB. Innan aviseringarna läggs in görs vissa grundläggande kontroller. Varje månad framställs ett antal preliminära bestånds- och händelseregister. I registren har en utökad granskning gjorts. Även rättningar, imputeringar och härledningar av nya variabler görs. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Inrikes flyttningar"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller inrikes flyttningar för kalenderår och som inrapporterats under tidsperioden 1 januari aktuellt kalenderår till och med 31 januari året efter aktuellt kalenderår. (Händelser som inrapporterats efter 13-månaderperioden kommer inte med i någon registerversion, däremot tas de hänsyn till i statistikredovisningen.)\r\n\r\nRegional indelning avser 1 januari aktuellt kalenderår."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    }
+  ],
+  "id": "7536b5a688070df931c7b76debbc14e3ceed48209b551770f2e9c6c935019ab8"
+}
