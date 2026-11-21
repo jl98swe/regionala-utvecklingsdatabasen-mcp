@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(5)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Arbetsställenummer"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Identitetsbegrepp för arbetsställe. Arbetsställenumret ger tillsammans med organisationsnummer en identitet för arbetsställe. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Arbetsställenummer fastställs av företaget."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS) : Arbetsställen"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": " "
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12, 2020. Till detta kan man koppla egenskaper för det arbetsställe där individer har haft sin huvudsakliga sysselsättning."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Arbetsställen i Sverige med minst en sysselsatt enligt RAMS"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla arbetsställen som har minst en sysselsatt enligt Registbaserad arbetsmarknadsstatistik (RAMS). Från 2022 avgränsas företagstabellen utifrån Befolkningens arbetsmarknadsstatus (BAS)."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-01-01 - 2020-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från flera olika SCB-register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Arbetsställeenhet är en del av (eller ett helt) företag som finns på en geografiskt identifierad plats (adress, fastighet edy). På denna plats bedrivs ekonomisk verksamhet inom företaget vilken (med vissa specificerade undantag) sysselsätter en eller flera personer."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Arbetsställen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Arbetsställen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller information om de arbetsställen som förekommer i den longitudinella integrationsdatabasen."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "4a7d673dd3c996a8488e6e29f03ac2f2889c2ab564971925a4fa5f11538a2c57"
+}
