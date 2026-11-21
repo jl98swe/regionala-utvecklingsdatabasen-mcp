@@ -1,0 +1,40 @@
+{
+  "version": "Gymnasieskolan, utbildningsform",
+  "level": "Utbildningsform gymnasieskolan",
+  "data_type": "char(4)",
+  "values": [
+    {
+      "code": "",
+      "label": "Värde ska ej finnas"
+    },
+    {
+      "code": "FR",
+      "label": "Utbildning vid fristående skola"
+    },
+    {
+      "code": "HP",
+      "label": "Högskoleförberedande program"
+    },
+    {
+      "code": "IP",
+      "label": "Introduktionsprogram"
+    },
+    {
+      "code": "IV",
+      "label": "Individuella program"
+    },
+    {
+      "code": "N",
+      "label": "Nationellt program"
+    },
+    {
+      "code": "SM",
+      "label": "Specialutformat program                                                         "
+    },
+    {
+      "code": "YP",
+      "label": "Yrkesprogram"
+    }
+  ],
+  "id": "768ae3c8750cf4dbf81b9217f6454e0eb1a9f4ff0108bfdaa3fcdc7a682339a2"
+}

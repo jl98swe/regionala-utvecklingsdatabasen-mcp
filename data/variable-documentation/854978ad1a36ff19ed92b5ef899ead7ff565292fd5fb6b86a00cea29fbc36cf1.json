@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Inriktning fristående gymnasieskola"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Inriktning för fristående gymnasieskola."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Denna variabel (fältnamn InriktningGy) gäller för elever som påbörjade sin utbildning från och med 2006/07. Elever som påbörjat sin utbildning tidigare gäller variabeln med fältnamn Inriktning.\r\n\r\n"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skolregistret  Gymnasieskola                                                                        "
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Insamlingen av slutbetyg i gymnasieskolan är en totalundersökning med SCB:s register över skolor som ram. Populationen är samtliga elever som aktuellt läsår gått i avgångsklassen i gymnasieskolan."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever som erhållit slutbetyg från gymnasieskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Elever som erhållit slutbetyg från gymnasieskolan samt övriga elever som ej tagit ut slutbetyg men som återfanns i årskurs 3 i gymnasieskolan föregående höst."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Avser läsåret 2012/2013."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2012-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker i samarbete med VHS (Verket för högskoleservice) samt via webbenkät för skolor som ej är anslutna till VHS."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Slutbetyg"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Slutbetyg"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Innehåller uppgifter på individnivå om slutbetyg och samlat betygsdokument från gymnasieskolan. Från och med läsåret 2013/2014 ingår även examensbevis och studiebevis.\r\n\r\nExempel på variabler är skola, studieväg, gymnasieprogram samt kurs och betyg för de vanligaste kurserna."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Gymnasieskola: betyg"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Gymnasieskola: betyg"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter på individnivå om betyg från gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram, kurs och betyg i respektive kurs samt slutbetyg för gymnasieutbildningen."
+    }
+  ],
+  "id": "854978ad1a36ff19ed92b5ef899ead7ff565292fd5fb6b86a00cea29fbc36cf1"
+}

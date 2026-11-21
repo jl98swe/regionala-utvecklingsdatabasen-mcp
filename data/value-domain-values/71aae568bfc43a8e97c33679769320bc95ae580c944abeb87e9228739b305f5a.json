@@ -1,0 +1,2268 @@
+{
+  "version": "Studievägskod Avgånga gymnasieskolan 2003",
+  "level": "Studievägskod Avgånga gymnasieskolan 2003",
+  "data_type": "char(6)",
+  "values": [
+    {
+      "code": "BF",
+      "label": "Barn- och fritidsprogrammet"
+    },
+    {
+      "code": "BFFD",
+      "label": "BF Inr Fritid"
+    },
+    {
+      "code": "BFPD",
+      "label": "BF Inr Pedagogisk och social verksamhet"
+    },
+    {
+      "code": "BFR101",
+      "label": "LI Häst - fritid"
+    },
+    {
+      "code": "BP06",
+      "label": "LG Golvläggare"
+    },
+    {
+      "code": "BPAN",
+      "label": "BP Inr Anläggning"
+    },
+    {
+      "code": "BPHB",
+      "label": "BP Gren Hus och anläggning"
+    },
+    {
+      "code": "BPHU",
+      "label": "BP Inr Husbyggnad"
+    },
+    {
+      "code": "BPL001",
+      "label": "LI Golvteknik"
+    },
+    {
+      "code": "BPLIAF",
+      "label": "LIA inom Byggprogrammet"
+    },
+    {
+      "code": "BPMI",
+      "label": "BP Inr Måleri"
+    },
+    {
+      "code": "BPML",
+      "label": "BP Gren Måleri"
+    },
+    {
+      "code": "BPPI",
+      "label": "BP Inr Plåtslageri"
+    },
+    {
+      "code": "BPPL",
+      "label": "BP Gren Byggnadsplåt"
+    },
+    {
+      "code": "BPR001",
+      "label": "LG Förande av anläggn maskiner"
+    },
+    {
+      "code": "BPR101",
+      "label": "LI Drift och vägunderhåll"
+    },
+    {
+      "code": "BPR106",
+      "label": "LI Drift- och underhåll- vägar"
+    },
+    {
+      "code": "BPR107",
+      "label": "LI Bergteknik"
+    },
+    {
+      "code": "BPR108",
+      "label": "LI Förande av anläggningsmaskiner"
+    },
+    {
+      "code": "BPR111",
+      "label": "LI Drift och vägunderhåll"
+    },
+    {
+      "code": "EC034",
+      "label": "LG Avionik"
+    },
+    {
+      "code": "ECAT",
+      "label": "EC Inr Automation"
+    },
+    {
+      "code": "ECAU",
+      "label": "EC Gren automation"
+    },
+    {
+      "code": "ECDT",
+      "label": "EC Inr Datorteknik"
+    },
+    {
+      "code": "ECEI",
+      "label": "EC Gren installation"
+    },
+    {
+      "code": "ECEK",
+      "label": "EC Gren elektronik"
+    },
+    {
+      "code": "ECEL",
+      "label": "EC Inr Elteknik"
+    },
+    {
+      "code": "ECET",
+      "label": "EC Inr Elektronik"
+    },
+    {
+      "code": "ECL002",
+      "label": "LI IT/nätverksteknik"
+    },
+    {
+      "code": "ECL003",
+      "label": "LI Teknik och sevice"
+    },
+    {
+      "code": "ECL004",
+      "label": "LI Internkommunikation"
+    },
+    {
+      "code": "ECL005",
+      "label": "LI Elektronik/datorteknik"
+    },
+    {
+      "code": "ECL007",
+      "label": "LI Flygteknik"
+    },
+    {
+      "code": "ECL008",
+      "label": "LI Medicinsk teknik"
+    },
+    {
+      "code": "ENDU",
+      "label": "EN Inr Drift- och underhållsteknik"
+    },
+    {
+      "code": "ENFG",
+      "label": "EN Gren Fartygsteknik"
+    },
+    {
+      "code": "ENL001",
+      "label": "LI Flödande energi"
+    },
+    {
+      "code": "ENR101",
+      "label": "LI Vatten och miljöteknik"
+    },
+    {
+      "code": "ENR102",
+      "label": "LI Industrirör"
+    },
+    {
+      "code": "ENSF",
+      "label": "EN inr Sjöfartsteknik"
+    },
+    {
+      "code": "ENVK",
+      "label": "EN Inr VVS- och kylteknik"
+    },
+    {
+      "code": "ENVV",
+      "label": "EN Gren VVS"
+    },
+    {
+      "code": "ES024",
+      "label": "LG Mode- och scenkläder"
+    },
+    {
+      "code": "ES048",
+      "label": "LG Teater med folkl dans-musik"
+    },
+    {
+      "code": "ESBD",
+      "label": "ES Inr Bild- och formgivning"
+    },
+    {
+      "code": "ESDN",
+      "label": "ES Inr Dans"
+    },
+    {
+      "code": "ESDT",
+      "label": "ES Gren dans och teater"
+    },
+    {
+      "code": "ESKF",
+      "label": "ES Gren konst och formgivning"
+    },
+    {
+      "code": "ESL001",
+      "label": "LI Musikdrama m dans scenografi"
+    },
+    {
+      "code": "ESL002",
+      "label": "LI Musikal"
+    },
+    {
+      "code": "ESL003",
+      "label": "LI Musik med yrkesinriktning"
+    },
+    {
+      "code": "ESL004",
+      "label": "LI Musikalteater"
+    },
+    {
+      "code": "ESL005",
+      "label": "LI Film-tv-video"
+    },
+    {
+      "code": "ESL006",
+      "label": "LI Estetisk fördjupning"
+    },
+    {
+      "code": "ESL007",
+      "label": "LI Textil form"
+    },
+    {
+      "code": "ESL009",
+      "label": "LI Foto-film"
+    },
+    {
+      "code": "ESL010",
+      "label": "LI Teater och TV-produktion"
+    },
+    {
+      "code": "ESL011",
+      "label": "LI Textil formgivning - modedesign"
+    },
+    {
+      "code": "ESL012",
+      "label": "LI Mode och scenkläder"
+    },
+    {
+      "code": "ESL013",
+      "label": "LI Musiker, artist o producent"
+    },
+    {
+      "code": "ESL022",
+      "label": "LI Dans och teater"
+    },
+    {
+      "code": "ESMK",
+      "label": "ES Inr Musik"
+    },
+    {
+      "code": "ESMU",
+      "label": "ES Gren musik"
+    },
+    {
+      "code": "ESR101",
+      "label": "LI Folkmusik int profil"
+    },
+    {
+      "code": "ESR104",
+      "label": "LI Cirkus"
+    },
+    {
+      "code": "ESR105",
+      "label": "LI Musik och ljudteknik"
+    },
+    {
+      "code": "ESR106",
+      "label": "LI Cirkus"
+    },
+    {
+      "code": "ESTA",
+      "label": "ES Inr Teater"
+    },
+    {
+      "code": "FP09",
+      "label": "LG Fordonssystemtek-elektronik"
+    },
+    {
+      "code": "FPFG",
+      "label": "FP Inr Flygteknik"
+    },
+    {
+      "code": "FPFU",
+      "label": "FP Gren flygteknik"
+    },
+    {
+      "code": "FPKA",
+      "label": "FP Gren karosseri"
+    },
+    {
+      "code": "FPKI",
+      "label": "FP Inr Karosseri"
+    },
+    {
+      "code": "FPL001",
+      "label": "LI Fordonslackering"
+    },
+    {
+      "code": "FPL004",
+      "label": "LI Småmaskiner"
+    },
+    {
+      "code": "FPL006",
+      "label": "LI Maskinförare - anläggning"
+    },
+    {
+      "code": "FPLIAF",
+      "label": "LIA inom Fordonsprogrammet"
+    },
+    {
+      "code": "FPMA",
+      "label": "FP Inr Maskin- och lastbilsteknik"
+    },
+    {
+      "code": "FPPB",
+      "label": "FP Inr Personbilsteknik"
+    },
+    {
+      "code": "FPR010",
+      "label": "LG Maskinförare"
+    },
+    {
+      "code": "FPR102",
+      "label": "LI Nordisk lackerarutbildning"
+    },
+    {
+      "code": "FPR103",
+      "label": "LI Båtmekanik-el-elektronik"
+    },
+    {
+      "code": "FPR104",
+      "label": "LI Anläggningsmaskinförare"
+    },
+    {
+      "code": "FPR105",
+      "label": "LI Skogsmaskinteknik"
+    },
+    {
+      "code": "FPR108",
+      "label": "LI Översnöfordon"
+    },
+    {
+      "code": "FPR109",
+      "label": "LI Flygplatspersonal"
+    },
+    {
+      "code": "FPR111",
+      "label": "LI Maskinförare"
+    },
+    {
+      "code": "FPRP",
+      "label": "FP Gren fordonsteknik"
+    },
+    {
+      "code": "FPTP",
+      "label": "FP Inr Transport"
+    },
+    {
+      "code": "FPTS",
+      "label": "FP Gren transport"
+    },
+    {
+      "code": "FR0011",
+      "label": "FR FP Marinteknik"
+    },
+    {
+      "code": "FR0025",
+      "label": "FR NV Matematik-natur"
+    },
+    {
+      "code": "FR0026",
+      "label": "FR SP Allmän samhällskunskap"
+    },
+    {
+      "code": "FR0027",
+      "label": "FR ES Estetiska programmet"
+    },
+    {
+      "code": "FR0031",
+      "label": "FR ES Dans konstnärligt skapande"
+    },
+    {
+      "code": "FR0032",
+      "label": "FR ES Musik-genrebredd"
+    },
+    {
+      "code": "FR0033",
+      "label": "FR ES Teater skådespelarkonst"
+    },
+    {
+      "code": "FR0035",
+      "label": "FR SP motsv. Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "FR0036",
+      "label": "FR NV Naturvetenskapsprogram"
+    },
+    {
+      "code": "FR0054",
+      "label": "FR NP Turism"
+    },
+    {
+      "code": "FR0055",
+      "label": "FR NP Jakt- och viltvård"
+    },
+    {
+      "code": "FR0119",
+      "label": "FR SP Företagarprogrammet"
+    },
+    {
+      "code": "FR0120",
+      "label": "FR SP Europaprogrammet"
+    },
+    {
+      "code": "FR0122",
+      "label": "FR NV Kemigymnasiet"
+    },
+    {
+      "code": "FR0123",
+      "label": "FR NV Fysikgymnasiet"
+    },
+    {
+      "code": "FR0128",
+      "label": "FR NP Specutf naturbruksinr, profil trädgård"
+    },
+    {
+      "code": "FR0135",
+      "label": "FR EC It-programmet"
+    },
+    {
+      "code": "FR0143",
+      "label": "FR HP Entreprenörsprogrammet"
+    },
+    {
+      "code": "FR0176",
+      "label": "FR IP Inriktning underhållsteknik"
+    },
+    {
+      "code": "FR0181",
+      "label": "FR NV motsv. Naturvetenskapsprogrammet"
+    },
+    {
+      "code": "FR0182",
+      "label": "FR SP Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "FR0184",
+      "label": "FR HR Kost, hälsa, miljö"
+    },
+    {
+      "code": "FR0185",
+      "label": "FR HR Restaurang"
+    },
+    {
+      "code": "FR0186",
+      "label": "FR NP Skogsbruk"
+    },
+    {
+      "code": "FR0187",
+      "label": "FR NP motsv. Naturbruksprogrammet"
+    },
+    {
+      "code": "FR0213",
+      "label": "FR NP motsv. Naturbruksprogrammet"
+    },
+    {
+      "code": "FR0228",
+      "label": "FR SP motsv. Samhällsvetenskapsprogrammet"
+    },
+    {
+      "code": "FR0229",
+      "label": "FR NV Medicinsk inriktning"
+    },
+    {
+      "code": "FR0230",
+      "label": "FR HR Hotell o restaurang - hotell"
+    },
+    {
+      "code": "FR0235",
+      "label": "FR SP Specutf program ekonmisk inr"
+    },
+    {
+      "code": "FR0236",
+      "label": "FR NV Specutf program NV NA inr"
+    },
+    {
+      "code": "FR0250",
+      "label": "FR SP Församlingsbyggargrenen"
+    },
+    {
+      "code": "FR0251",
+      "label": "FR OP motsv. Omvårdnadsprogrammet"
+    },
+    {
+      "code": "FR0261",
+      "label": "FR SP Inr Ekonomi"
+    },
+    {
+      "code": "FR0267",
+      "label": "FR OP motsv. Omvårdnadsprogrammet"
+    },
+    {
+      "code": "HP",
+      "label": "Handels- och adm programmet"
+    },
+    {
+      "code": "HPHS",
+      "label": "HP Inr Handel och service"
+    },
+    {
+      "code": "HPL001",
+      "label": "LI Handel, turism och hotell"
+    },
+    {
+      "code": "HPL002",
+      "label": "LI IT och webbdesign"
+    },
+    {
+      "code": "HPL004",
+      "label": "LI Ekonomi, administation o IT"
+    },
+    {
+      "code": "HPL005",
+      "label": "LI Småföretagare"
+    },
+    {
+      "code": "HPL006",
+      "label": "LI Administration och IT"
+    },
+    {
+      "code": "HPL008",
+      "label": "LI Elektronisk handel"
+    },
+    {
+      "code": "HPL009",
+      "label": "LI Handel och adminsitration"
+    },
+    {
+      "code": "HPL010",
+      "label": "LI Handel och logistik"
+    },
+    {
+      "code": "HPL012",
+      "label": "LI Informationsteknologi"
+    },
+    {
+      "code": "HPL013",
+      "label": "LI Projektadministration"
+    },
+    {
+      "code": "HPL015",
+      "label": "LI Kundtjänst och service"
+    },
+    {
+      "code": "HPL016",
+      "label": "LI Administration"
+    },
+    {
+      "code": "HPL017",
+      "label": "LI IT och företagande"
+    },
+    {
+      "code": "HPL018",
+      "label": "LI Företagande"
+    },
+    {
+      "code": "HPTU",
+      "label": "HP Inr Turism och resor"
+    },
+    {
+      "code": "HR020",
+      "label": "LG Restaurang o Turistservice"
+    },
+    {
+      "code": "HR03",
+      "label": "LG Storhushåll och restaurang"
+    },
+    {
+      "code": "HRHL",
+      "label": "HR Inr Hotell"
+    },
+    {
+      "code": "HRHO",
+      "label": "HR Gren hotell"
+    },
+    {
+      "code": "HRL001",
+      "label": "LI Kost och hälsa"
+    },
+    {
+      "code": "HRL002",
+      "label": "LI Turism och hotell"
+    },
+    {
+      "code": "HRL003",
+      "label": "LI Jakt och fiskeguide"
+    },
+    {
+      "code": "HRL006",
+      "label": "LI Restaurang o turistservice"
+    },
+    {
+      "code": "HRLIAF",
+      "label": "LIA inom Hotell- o restaurangprogrammet"
+    },
+    {
+      "code": "HRR001",
+      "label": "LG Turisthotell fjällaktivitet"
+    },
+    {
+      "code": "HRR006",
+      "label": "LG Sjöintendentur"
+    },
+    {
+      "code": "HRR101",
+      "label": "LI Restaurang"
+    },
+    {
+      "code": "HRR102",
+      "label": "LI Hotell - Turism"
+    },
+    {
+      "code": "HRR103",
+      "label": "LI Turisthotell"
+    },
+    {
+      "code": "HRR104",
+      "label": "LI Turisthotell"
+    },
+    {
+      "code": "HRR105",
+      "label": "LI Turisthotell fjällprofil"
+    },
+    {
+      "code": "HRR106",
+      "label": "LI Turisthotell-Östergötland"
+    },
+    {
+      "code": "HRR107",
+      "label": "LI Turisthotell"
+    },
+    {
+      "code": "HRR108",
+      "label": "LI Turisthotell m  vildmarksinr"
+    },
+    {
+      "code": "HRR109",
+      "label": "LI Turisthotell fjällaktitvitet"
+    },
+    {
+      "code": "HRR110",
+      "label": "LI Sjöintendentur"
+    },
+    {
+      "code": "HRR111",
+      "label": "LI Sjöintendentur"
+    },
+    {
+      "code": "HRRE",
+      "label": "HR Gren restaurang"
+    },
+    {
+      "code": "HRRM",
+      "label": "HR Inr Restaurang - måltidsservice"
+    },
+    {
+      "code": "HRSH",
+      "label": "HR Gren storhushåll"
+    },
+    {
+      "code": "HV",
+      "label": "Hantverksprogrammet"
+    },
+    {
+      "code": "HV018",
+      "label": "LG Mode och kläder"
+    },
+    {
+      "code": "HV022",
+      "label": "LG Textilt modeskapande"
+    },
+    {
+      "code": "HVL001",
+      "label": "LI Möbel & inredningssnickeri"
+    },
+    {
+      "code": "HVL002",
+      "label": "LI Frisör"
+    },
+    {
+      "code": "HVL003",
+      "label": "LI Frisör"
+    },
+    {
+      "code": "HVL004",
+      "label": "LI Florist"
+    },
+    {
+      "code": "HVL005",
+      "label": "LI Skrädderi"
+    },
+    {
+      "code": "HVL007",
+      "label": "LI Frisör"
+    },
+    {
+      "code": "HVL008",
+      "label": "LI Frisör"
+    },
+    {
+      "code": "HVL009",
+      "label": "LI Textilt modeskapande"
+    },
+    {
+      "code": "HVL010",
+      "label": "LI Frisör"
+    },
+    {
+      "code": "HVL011",
+      "label": "LI Florist"
+    },
+    {
+      "code": "HVL013",
+      "label": "LI Möbelsnickeri"
+    },
+    {
+      "code": "HVL015",
+      "label": "LI Florist och udda yrken"
+    },
+    {
+      "code": "HVL016",
+      "label": "LI Hantverk mode och design"
+    },
+    {
+      "code": "HVL017",
+      "label": "LI Frisörutbildning"
+    },
+    {
+      "code": "HVL020",
+      "label": "LI HV-florist"
+    },
+    {
+      "code": "HVR102",
+      "label": "LI Båtbyggarutbildning"
+    },
+    {
+      "code": "HVR103",
+      "label": "LI Båtbyggeriteknik"
+    },
+    {
+      "code": "HVR104",
+      "label": "LI Ur- och mikroteknik"
+    },
+    {
+      "code": "HVR105",
+      "label": "LI Florist"
+    },
+    {
+      "code": "HVR107",
+      "label": "LI Tapetserare"
+    },
+    {
+      "code": "IP",
+      "label": "Industriprogrammet"
+    },
+    {
+      "code": "IPIN",
+      "label": "IP Gren industri"
+    },
+    {
+      "code": "IPL001",
+      "label": "LI Textil och konfektion"
+    },
+    {
+      "code": "IPL004",
+      "label": "LI Trä- och möbelteknik"
+    },
+    {
+      "code": "IPL006",
+      "label": "LI Industri"
+    },
+    {
+      "code": "IPL011",
+      "label": "LI CNC-tekn  skärande bearbetn"
+    },
+    {
+      "code": "IPL012",
+      "label": "LI Underhållsteknik"
+    },
+    {
+      "code": "IPL013",
+      "label": "LI Plåt o svets Europasvetsning"
+    },
+    {
+      "code": "IPL014",
+      "label": "LI Verkstadsteknik"
+    },
+    {
+      "code": "IPL015",
+      "label": "LI Plåt- och svetsteknik"
+    },
+    {
+      "code": "IPL016",
+      "label": "LI Skärande bearbetning"
+    },
+    {
+      "code": "IPL017",
+      "label": "LI Plåt- och svetsutbildning"
+    },
+    {
+      "code": "IPL021",
+      "label": "LI Process/kemiteknik"
+    },
+    {
+      "code": "IPL022",
+      "label": "LI Armatur"
+    },
+    {
+      "code": "IPL023",
+      "label": "LI Svetsteknik"
+    },
+    {
+      "code": "IPL024",
+      "label": "LI Verktygsteknik"
+    },
+    {
+      "code": "IPL025",
+      "label": "LI Underhållsteknik"
+    },
+    {
+      "code": "IPL026",
+      "label": "LI Snickeri och möbelteknik"
+    },
+    {
+      "code": "IPL027",
+      "label": "LI Trädesign-teknik o skapande"
+    },
+    {
+      "code": "IPL032",
+      "label": "LI Träteknik"
+    },
+    {
+      "code": "IPL034",
+      "label": "LI Mekatronik"
+    },
+    {
+      "code": "IPL035",
+      "label": "LI Textil och konfektion"
+    },
+    {
+      "code": "IPL036",
+      "label": "LI CNC-teknik"
+    },
+    {
+      "code": "IPL037",
+      "label": "LI Industriell styrteknik"
+    },
+    {
+      "code": "IPL038",
+      "label": "LI Verktygsmakare"
+    },
+    {
+      "code": "IPL039",
+      "label": "LI Underhåll och processteknik"
+    },
+    {
+      "code": "IPL040",
+      "label": "LI Plåt och svetsteknik"
+    },
+    {
+      "code": "IPL041",
+      "label": "LI Verkstadsteknik-CNC-CAD/CAM"
+    },
+    {
+      "code": "IPL042",
+      "label": "LI Skrädderi och mode"
+    },
+    {
+      "code": "IPL048",
+      "label": "LI Plåt och svets"
+    },
+    {
+      "code": "IPL049",
+      "label": "LI Verktygsteknik"
+    },
+    {
+      "code": "IPL050",
+      "label": "LI Träteknik"
+    },
+    {
+      "code": "IPL054",
+      "label": "LI Verktygsteknik"
+    },
+    {
+      "code": "IPL055",
+      "label": "LI CNC-teknik"
+    },
+    {
+      "code": "IPL057",
+      "label": "LI Skärande bearbetning"
+    },
+    {
+      "code": "IPL059",
+      "label": "LI Materialteknik"
+    },
+    {
+      "code": "IPL062",
+      "label": "LI Massa- och pappersteknik"
+    },
+    {
+      "code": "IPL063",
+      "label": "LI Plåt och svetsteknik"
+    },
+    {
+      "code": "IPL068",
+      "label": "LI Datorstyrd tillverkning"
+    },
+    {
+      "code": "IPL069",
+      "label": "LI Plåt- och svetsbearbetning"
+    },
+    {
+      "code": "IPL070",
+      "label": "LI Verkstadsteknik"
+    },
+    {
+      "code": "IPL071",
+      "label": "LI CNC-teknik"
+    },
+    {
+      "code": "IPL072",
+      "label": "LI Plåt/svets med EU-kompetens"
+    },
+    {
+      "code": "IPL075",
+      "label": "LI Svets"
+    },
+    {
+      "code": "IPL076",
+      "label": "LI Träprogrammet"
+    },
+    {
+      "code": "IPL077",
+      "label": "LI Skärande/verktyg"
+    },
+    {
+      "code": "IPL078",
+      "label": "LI Plåt/svets"
+    },
+    {
+      "code": "IPL086",
+      "label": "LI Industritekniker"
+    },
+    {
+      "code": "IPL087",
+      "label": "LI Underhållsteknik"
+    },
+    {
+      "code": "IPL089",
+      "label": "LI Svetsteknik"
+    },
+    {
+      "code": "IPL090",
+      "label": "LI CNC- och verkstadsteknik"
+    },
+    {
+      "code": "IPL094",
+      "label": "LI Formgivning möbler"
+    },
+    {
+      "code": "IPL095",
+      "label": "LI Verktygsteknik"
+    },
+    {
+      "code": "IPL098",
+      "label": "LI Plåt och svetsteknik"
+    },
+    {
+      "code": "IPL101",
+      "label": "LI Svetsteknik med CAD/CAM"
+    },
+    {
+      "code": "IPL102",
+      "label": "LI Träteknik"
+    },
+    {
+      "code": "IPL103",
+      "label": "LI Industriteknik"
+    },
+    {
+      "code": "IPL105",
+      "label": "LI Processteknik"
+    },
+    {
+      "code": "IPL110",
+      "label": "LI Tekniskt underhåll"
+    },
+    {
+      "code": "IPL112",
+      "label": "LI Protech"
+    },
+    {
+      "code": "IPL113",
+      "label": "LI Produktion"
+    },
+    {
+      "code": "IPL114",
+      "label": "LI Trä-möbeldesign"
+    },
+    {
+      "code": "IPL125",
+      "label": "LI Plåt o svets"
+    },
+    {
+      "code": "IPL126",
+      "label": "LI Datorstyrd tillverkning"
+    },
+    {
+      "code": "IPL127",
+      "label": "LI Mekatronik"
+    },
+    {
+      "code": "IPL146",
+      "label": "LI Automatioserad prodktion"
+    },
+    {
+      "code": "IPLIAF",
+      "label": "LIA inom Industriprogrammet"
+    },
+    {
+      "code": "IPPR",
+      "label": "IP Gren process"
+    },
+    {
+      "code": "IPR101",
+      "label": "LI Modell och design"
+    },
+    {
+      "code": "IPTK",
+      "label": "IP Gren textil och konfektion"
+    },
+    {
+      "code": "IPTÄ",
+      "label": "IP Gren trä"
+    },
+    {
+      "code": "IV",
+      "label": "Individuella program"
+    },
+    {
+      "code": "IVBF",
+      "label": "PRIV närliggande BF"
+    },
+    {
+      "code": "IVBP",
+      "label": "PRIV närliggande BP"
+    },
+    {
+      "code": "IVEC",
+      "label": "PRIV närliggande EC"
+    },
+    {
+      "code": "IVES",
+      "label": "PRIV närliggande ES"
+    },
+    {
+      "code": "IVFP",
+      "label": "PRIV närliggande FP"
+    },
+    {
+      "code": "IVHP",
+      "label": "PRIV närliggande HP"
+    },
+    {
+      "code": "IVHR",
+      "label": "PRIV närliggande HR"
+    },
+    {
+      "code": "IVHV",
+      "label": "PRIV närliggande HV"
+    },
+    {
+      "code": "IVIP",
+      "label": "PRIV närliggande IP"
+    },
+    {
+      "code": "IVLLBP",
+      "label": "IV Lärlingsutbildning BP"
+    },
+    {
+      "code": "IVLLHR",
+      "label": "IV Lärlingsutbildning HR"
+    },
+    {
+      "code": "IVNP",
+      "label": "PRIV närliggande NP"
+    },
+    {
+      "code": "IVOP",
+      "label": "PRIV närliggande OP"
+    },
+    {
+      "code": "IVSP",
+      "label": "PRIV närliggande SP"
+    },
+    {
+      "code": "LP",
+      "label": "Livsmedelsprogrammet"
+    },
+    {
+      "code": "LPBK",
+      "label": "LP Gren bageri och konditori"
+    },
+    {
+      "code": "LPL001",
+      "label": "LI Bagare och konditorer"
+    },
+    {
+      "code": "LPL003",
+      "label": "LI Kött och chark"
+    },
+    {
+      "code": "LPL004",
+      "label": "LI Bageri m viss del konditiori"
+    },
+    {
+      "code": "LPL007",
+      "label": "LI Bageri och konditori"
+    },
+    {
+      "code": "LPL009",
+      "label": "LI Bageri och konditori"
+    },
+    {
+      "code": "LPL010",
+      "label": "LI Styck och charkuteri"
+    },
+    {
+      "code": "LPL011",
+      "label": "LI Delikatess o färskvarhant"
+    },
+    {
+      "code": "LPL014",
+      "label": "LI Kött och charkuteri"
+    },
+    {
+      "code": "LPL018",
+      "label": "LI Bageri och konditori"
+    },
+    {
+      "code": "LPL019",
+      "label": "LI Bageri och konditori"
+    },
+    {
+      "code": "LPL021",
+      "label": "LI Färskvaror"
+    },
+    {
+      "code": "LPL026",
+      "label": "LI Bageri och konditori"
+    },
+    {
+      "code": "LPL027",
+      "label": "LI Färskvaruhantering"
+    },
+    {
+      "code": "LPL028",
+      "label": "LI Kött och charkuteri"
+    },
+    {
+      "code": "MP021",
+      "label": "LG Medieproduktion"
+    },
+    {
+      "code": "MPIR",
+      "label": "MP Gren information och reklam"
+    },
+    {
+      "code": "MPL001",
+      "label": "LI Radio & television"
+    },
+    {
+      "code": "MPL002",
+      "label": "LI Journalistik"
+    },
+    {
+      "code": "MPL003",
+      "label": "LI Multimedia och rörlig bild"
+    },
+    {
+      "code": "MPL004",
+      "label": "LI Multimedia"
+    },
+    {
+      "code": "MPL005",
+      "label": "LI TV- och videoproduktion"
+    },
+    {
+      "code": "MPL006",
+      "label": "LI Webbproduktion"
+    },
+    {
+      "code": "MPME",
+      "label": "MP Inr Medieproduktion"
+    },
+    {
+      "code": "MPR101",
+      "label": "LI Fotografisk bild"
+    },
+    {
+      "code": "MPTR",
+      "label": "MP Gren tryckmedia"
+    },
+    {
+      "code": "MPTT",
+      "label": "MP Inr Tryckteknik"
+    },
+    {
+      "code": "NP",
+      "label": "Naturbruksprogrammet"
+    },
+    {
+      "code": "NPL005",
+      "label": "LI Skog och jakt"
+    },
+    {
+      "code": "NPL007",
+      "label": "LI Travsport"
+    },
+    {
+      "code": "NPLDJ",
+      "label": "Djurvård"
+    },
+    {
+      "code": "NPLHH",
+      "label": "Hästhållning"
+    },
+    {
+      "code": "NPLJO",
+      "label": "Jord"
+    },
+    {
+      "code": "NPLSG",
+      "label": "Skog"
+    },
+    {
+      "code": "NPLTD",
+      "label": "Trädgård"
+    },
+    {
+      "code": "NPR001",
+      "label": "LG Hästhållning inr ridsport"
+    },
+    {
+      "code": "NPR009",
+      "label": "LI Djurvård"
+    },
+    {
+      "code": "NPR101",
+      "label": "LI Hästhållning inrikt ridsport"
+    },
+    {
+      "code": "NPR102",
+      "label": "LI Hästhållning/ridsport"
+    },
+    {
+      "code": "NPR106",
+      "label": "LI Djurvård- djur i djurpark"
+    },
+    {
+      "code": "NPR107",
+      "label": "LI Naturguidn - Vildmarksturism"
+    },
+    {
+      "code": "NPR108",
+      "label": "LI Sportfiske - turism"
+    },
+    {
+      "code": "NPR114",
+      "label": "LI Djurvård"
+    },
+    {
+      "code": "NV0100",
+      "label": "LG gren Informationsteknik"
+    },
+    {
+      "code": "NV011",
+      "label": "LG Datagren"
+    },
+    {
+      "code": "NV0133",
+      "label": "LG Data"
+    },
+    {
+      "code": "NV029",
+      "label": "LG Datateknisk gren"
+    },
+    {
+      "code": "NV037",
+      "label": "LG Informationsteknologi/tekn"
+    },
+    {
+      "code": "NV042",
+      "label": "LG Datateknisk"
+    },
+    {
+      "code": "NV090",
+      "label": "LG Datateknik"
+    },
+    {
+      "code": "NVE",
+      "label": "NV Engelskspråkig utbildning"
+    },
+    {
+      "code": "NVL001",
+      "label": "LI Djurkunskap"
+    },
+    {
+      "code": "NVL003",
+      "label": "LI Naturvetenskaplig forskning"
+    },
+    {
+      "code": "NVL004",
+      "label": "LI Naturvetenskaplig forskning"
+    },
+    {
+      "code": "NVL005",
+      "label": "LI Räddningstjänst"
+    },
+    {
+      "code": "NVL010",
+      "label": "LI Naturvetenskapsprogr inr musik"
+    },
+    {
+      "code": "NVL012",
+      "label": "LI Naturvetenskaplig genteknik"
+    },
+    {
+      "code": "NVL013",
+      "label": "LI Biovetenskap"
+    },
+    {
+      "code": "NVL014",
+      "label": "LI Biokemi och medicin"
+    },
+    {
+      "code": "NVL017",
+      "label": "LI Bioteknik"
+    },
+    {
+      "code": "NVL018",
+      "label": "LI Data"
+    },
+    {
+      "code": "NVL019",
+      "label": "LI Bioteknologi"
+    },
+    {
+      "code": "NVL023",
+      "label": "LI Presentation"
+    },
+    {
+      "code": "NVL024",
+      "label": "LI Musik"
+    },
+    {
+      "code": "NVL027",
+      "label": "LI Språk"
+    },
+    {
+      "code": "NVL037",
+      "label": "LI Räddningstjänst"
+    },
+    {
+      "code": "NVMD",
+      "label": "NV Inr Matematik - datavetenskap"
+    },
+    {
+      "code": "NVMV",
+      "label": "NV Inr Miljövetenskap"
+    },
+    {
+      "code": "NVNA",
+      "label": "NV Naturvetenskaplig gren"
+    },
+    {
+      "code": "NVNV",
+      "label": "NV Inr Naturvetenskap"
+    },
+    {
+      "code": "NVR008",
+      "label": "LG Aviation Maintenance Technology (flygunderhållsteknik)"
+    },
+    {
+      "code": "NVR101",
+      "label": "LI Astronomi och datavetenskap"
+    },
+    {
+      "code": "NVR102",
+      "label": "LI Marinbiologi"
+    },
+    {
+      "code": "NVR103",
+      "label": "LI Matematikinriktning"
+    },
+    {
+      "code": "NVR104",
+      "label": "LI Trafikflygare"
+    },
+    {
+      "code": "NVR105",
+      "label": "LI Flygteknik"
+    },
+    {
+      "code": "NVR106",
+      "label": "LI Energiteknik"
+    },
+    {
+      "code": "NVTE",
+      "label": "NV Teknisk gren"
+    },
+    {
+      "code": "OP",
+      "label": "Omvårdnadsprogrammet"
+    },
+    {
+      "code": "OPOM",
+      "label": "OP Gren Omvårdnad"
+    },
+    {
+      "code": "OPR101",
+      "label": "LI Teckenspråk"
+    },
+    {
+      "code": "OPTN",
+      "label": "OP Gren Tandvård"
+    },
+    {
+      "code": "SM",
+      "label": "Specialutformade program"
+    },
+    {
+      "code": "SM91",
+      "label": "SM Kost hälsa och idrott"
+    },
+    {
+      "code": "SM911",
+      "label": "SM  SP Intern samhällsv program"
+    },
+    {
+      "code": "SM9116",
+      "label": "SM IP Spec.utf industritekniskt program"
+    },
+    {
+      "code": "SM9117",
+      "label": "SM IP Spec.utf industriteknikskt program"
+    },
+    {
+      "code": "SM914",
+      "label": "SM SP Estetiskt-vetensk program"
+    },
+    {
+      "code": "SM917",
+      "label": "SM MP Tekniker inom mediaomr"
+    },
+    {
+      "code": "SM918",
+      "label": "SM MP Multimedia"
+    },
+    {
+      "code": "SM92",
+      "label": "SM HR Kost miljö och ekonomi"
+    },
+    {
+      "code": "SM920",
+      "label": "SM SP Samhällsvetensk inr ekonomi"
+    },
+    {
+      "code": "SM921",
+      "label": "SM EC Data el och elektronisk teknik"
+    },
+    {
+      "code": "SM922",
+      "label": "SM IP Teknisk utb m natuv beh"
+    },
+    {
+      "code": "SM925",
+      "label": "SM SP Europa/Företagargymnasiet"
+    },
+    {
+      "code": "SM926",
+      "label": "SM SP inr Globalt ledarskap"
+    },
+    {
+      "code": "SM927",
+      "label": "SM SP Internationell inriktning"
+    },
+    {
+      "code": "SM929",
+      "label": "SM NV El- och datateknisk inriktn"
+    },
+    {
+      "code": "SM93",
+      "label": "SM Textil miljö och ekonomi"
+    },
+    {
+      "code": "SM930",
+      "label": "SM IP Automatisering/underh tekn inr"
+    },
+    {
+      "code": "SM931",
+      "label": "SM NV Folkuniv naturhuman gymn"
+    },
+    {
+      "code": "SM932",
+      "label": "SM NP Naturbruk naturventensk profil"
+    },
+    {
+      "code": "SM933",
+      "label": "SM SP Int kommunikation o info teknik"
+    },
+    {
+      "code": "SM939",
+      "label": "SM EC SPI EL"
+    },
+    {
+      "code": "SM94",
+      "label": "SM Textil miljö och ekonomi"
+    },
+    {
+      "code": "SM940",
+      "label": "SM EN SPI Energi"
+    },
+    {
+      "code": "SM941",
+      "label": "SM FP SPI Fordon"
+    },
+    {
+      "code": "SM943",
+      "label": "SM ES Form- och kulturprogrammet"
+    },
+    {
+      "code": "SM944",
+      "label": "SM EC IT/Elektronik/naturvetensk"
+    },
+    {
+      "code": "SM946",
+      "label": "SM SP Int kommunikation inr fototekn"
+    },
+    {
+      "code": "SM947",
+      "label": "SM IP SPI-Låssmed"
+    },
+    {
+      "code": "SM948",
+      "label": "SM NV Rymdteknikprogrammet"
+    },
+    {
+      "code": "SM949",
+      "label": "SM IP Teknikgymnasiet Proteam"
+    },
+    {
+      "code": "SM96",
+      "label": "SM Idrott hälsa och kost"
+    },
+    {
+      "code": "SM973",
+      "label": "SM SP Samhällsvetensk turism"
+    },
+    {
+      "code": "SM974",
+      "label": "SM SP Samhällsvetenskaplig turism"
+    },
+    {
+      "code": "SM975",
+      "label": "SM NV Natursam"
+    },
+    {
+      "code": "SM979",
+      "label": "SM EL Specialutformat progr IT"
+    },
+    {
+      "code": "SM986",
+      "label": "SM IP Industritekn./processkemi"
+    },
+    {
+      "code": "SM990",
+      "label": "SM SP Folkuniversitetet Internationella gymn"
+    },
+    {
+      "code": "SM994",
+      "label": "SM NP Sportfiskegymnasiet"
+    },
+    {
+      "code": "SMBF",
+      "label": "Specialutform progr närl BF"
+    },
+    {
+      "code": "SMBP",
+      "label": "Specialutform progr närl BP"
+    },
+    {
+      "code": "SMEC",
+      "label": "Specialutform progr närl EC"
+    },
+    {
+      "code": "SMEN",
+      "label": "Specialutform progr närl EN"
+    },
+    {
+      "code": "SMES",
+      "label": "Specialutform progr närl ES"
+    },
+    {
+      "code": "SMFP",
+      "label": "Specialutform progr närl FP"
+    },
+    {
+      "code": "SMHP",
+      "label": "Specialutform progr närl HP"
+    },
+    {
+      "code": "SMHR",
+      "label": "Specialutform progr närl HR"
+    },
+    {
+      "code": "SMHV",
+      "label": "Specialutform progr närl HV"
+    },
+    {
+      "code": "SMIP",
+      "label": "Specialutform progr närl IP"
+    },
+    {
+      "code": "SMMP",
+      "label": "Specialutform progr närl MP"
+    },
+    {
+      "code": "SMNP",
+      "label": "Specialutform progr närl NP"
+    },
+    {
+      "code": "SMNV",
+      "label": "Specialutform progr närl NV"
+    },
+    {
+      "code": "SMOP",
+      "label": "Specialutform progr närl OP"
+    },
+    {
+      "code": "SMR005",
+      "label": "Turismledarutbildning"
+    },
+    {
+      "code": "SMR007",
+      "label": "Räddningsprogrammet"
+    },
+    {
+      "code": "SMR008",
+      "label": "Miljö- o samhällsplanering"
+    },
+    {
+      "code": "SMR009",
+      "label": "Hästhållning med inriktning mot körning"
+    },
+    {
+      "code": "SMR01",
+      "label": "Yrkesdansare"
+    },
+    {
+      "code": "SMR010",
+      "label": "Aluminium"
+    },
+    {
+      "code": "SMR011",
+      "label": "SM Träprogrammet"
+    },
+    {
+      "code": "SMR012",
+      "label": "SM Den rörliga bildens språk"
+    },
+    {
+      "code": "SMR014",
+      "label": "SM Transportutbildning med grön profil"
+    },
+    {
+      "code": "SMR015",
+      "label": "Samiska programmet"
+    },
+    {
+      "code": "SMR016",
+      "label": "SP med häst- o ridutbildning"
+    },
+    {
+      "code": "SMR018",
+      "label": "Vattenkraftteknikerutbildning"
+    },
+    {
+      "code": "SMR04",
+      "label": "SM Hästhållning inr travsport"
+    },
+    {
+      "code": "SMR101",
+      "label": "Pappers- och pappersmassateknik"
+    },
+    {
+      "code": "SMR104",
+      "label": "Guldsmedsteknik"
+    },
+    {
+      "code": "SMR106",
+      "label": "Grafisk medieproduktion"
+    },
+    {
+      "code": "SMR108",
+      "label": "Natur och friluftsprogrammet"
+    },
+    {
+      "code": "SMR112",
+      "label": "Den rörliga bildens språk"
+    },
+    {
+      "code": "SMSP",
+      "label": "Specialutform progr närl SP"
+    },
+    {
+      "code": "SMTE",
+      "label": "Specialutform progr närl TE"
+    },
+    {
+      "code": "SP010",
+      "label": "LG Internationell gren"
+    },
+    {
+      "code": "SP0120",
+      "label": "LG Turism"
+    },
+    {
+      "code": "SP0140",
+      "label": "LG Juridisk"
+    },
+    {
+      "code": "SP0144",
+      "label": "LG Social gren"
+    },
+    {
+      "code": "SP0147",
+      "label": "LG Östersjögrenen"
+    },
+    {
+      "code": "SP018",
+      "label": "LG Europagren"
+    },
+    {
+      "code": "SP024",
+      "label": "LG Internationell gren"
+    },
+    {
+      "code": "SP028",
+      "label": "LG Internationell gren"
+    },
+    {
+      "code": "SP030",
+      "label": "LG Musik"
+    },
+    {
+      "code": "SP036",
+      "label": "LG Samh gr internationell inr"
+    },
+    {
+      "code": "SP055",
+      "label": "LG Internationell gren"
+    },
+    {
+      "code": "SP058",
+      "label": "LG Företagargren"
+    },
+    {
+      "code": "SPE",
+      "label": "SP Engelskspråkig utbildning"
+    },
+    {
+      "code": "SPEI",
+      "label": "SP Inr Ekonomi"
+    },
+    {
+      "code": "SPEK",
+      "label": "SP Ekonomisk gren"
+    },
+    {
+      "code": "SPHU",
+      "label": "SP Humanistisk gren"
+    },
+    {
+      "code": "SPKU",
+      "label": "SP inr Kultur"
+    },
+    {
+      "code": "SPL001",
+      "label": "LI Dataekonomi m småförtagarinr"
+    },
+    {
+      "code": "SPL002",
+      "label": "LI Journalistik- media"
+    },
+    {
+      "code": "SPL003",
+      "label": "LI EU-inriktning"
+    },
+    {
+      "code": "SPL004",
+      "label": "LI Journalistik"
+    },
+    {
+      "code": "SPL005",
+      "label": "LI Europainriktning franska"
+    },
+    {
+      "code": "SPL006",
+      "label": "LI Europainriktning spanska"
+    },
+    {
+      "code": "SPL007",
+      "label": "LI Europainriktning tyska"
+    },
+    {
+      "code": "SPL008",
+      "label": "LI Europainriktning engelska"
+    },
+    {
+      "code": "SPL009",
+      "label": "LI Juridik"
+    },
+    {
+      "code": "SPL011",
+      "label": "LI Internationellt näringsliv"
+    },
+    {
+      "code": "SPL013",
+      "label": "LI Europa"
+    },
+    {
+      "code": "SPL015",
+      "label": "LI SP idrott"
+    },
+    {
+      "code": "SPL018",
+      "label": "LI SP Social inriktning"
+    },
+    {
+      "code": "SPL019",
+      "label": "LI Medieinriktning"
+    },
+    {
+      "code": "SPL020",
+      "label": "LI Internationell"
+    },
+    {
+      "code": "SPL021",
+      "label": "LI Samhällsvetenskap företagare"
+    },
+    {
+      "code": "SPL022",
+      "label": "LI Internationell"
+    },
+    {
+      "code": "SPL023",
+      "label": "LI Media"
+    },
+    {
+      "code": "SPL024",
+      "label": "LI Miljö"
+    },
+    {
+      "code": "SPL025",
+      "label": "LI Turism"
+    },
+    {
+      "code": "SPL026",
+      "label": "LI Media och multimedia"
+    },
+    {
+      "code": "SPL027",
+      "label": "LI Media med tidningsproduktion"
+    },
+    {
+      "code": "SPL028",
+      "label": "LI Naturvetenskap"
+    },
+    {
+      "code": "SPL029",
+      "label": "LI Ledarskap och kommunikation"
+    },
+    {
+      "code": "SPL030",
+      "label": "LI Konstnärligt skapande"
+    },
+    {
+      "code": "SPL032",
+      "label": "LI Internationell"
+    },
+    {
+      "code": "SPL033",
+      "label": "LI Idrott"
+    },
+    {
+      "code": "SPL034",
+      "label": "LI Informationsteknik"
+    },
+    {
+      "code": "SPL037",
+      "label": "LI Medier"
+    },
+    {
+      "code": "SPL039",
+      "label": "LI Samhällsv med journalistinr"
+    },
+    {
+      "code": "SPL040",
+      "label": "LI Samhällsv med IT ekonom"
+    },
+    {
+      "code": "SPL042",
+      "label": "LI SP internationell inriktn"
+    },
+    {
+      "code": "SPL043",
+      "label": "LI SP It-inriktning"
+    },
+    {
+      "code": "SPL044",
+      "label": "LI Journalistik"
+    },
+    {
+      "code": "SPL047",
+      "label": "LI IT"
+    },
+    {
+      "code": "SPL048",
+      "label": "LI Entreprenörskap o projektarb"
+    },
+    {
+      "code": "SPL049",
+      "label": "LI Ledarskap"
+    },
+    {
+      "code": "SPL051",
+      "label": "LI Media"
+    },
+    {
+      "code": "SPL055",
+      "label": "LI SPEKEN"
+    },
+    {
+      "code": "SPL056",
+      "label": "LI SPIC"
+    },
+    {
+      "code": "SPL058",
+      "label": "LI SP-IT"
+    },
+    {
+      "code": "SPL059",
+      "label": "LI Samhällsvetenskap inr media"
+    },
+    {
+      "code": "SPL060",
+      "label": "LI Miljö"
+    },
+    {
+      "code": "SPL061",
+      "label": "LI Juridisk"
+    },
+    {
+      "code": "SPL062",
+      "label": "LI Media"
+    },
+    {
+      "code": "SPL063",
+      "label": "LI Musik"
+    },
+    {
+      "code": "SPL064",
+      "label": "LI Europaekonomi"
+    },
+    {
+      "code": "SPL073",
+      "label": "LI Internationell ekonomi och politik"
+    },
+    {
+      "code": "SPL076",
+      "label": "LI Media - kultur"
+    },
+    {
+      "code": "SPL081",
+      "label": "LI Media"
+    },
+    {
+      "code": "SPL083",
+      "label": "LI Internationellt"
+    },
+    {
+      "code": "SPL085",
+      "label": "LI Internationell"
+    },
+    {
+      "code": "SPL088",
+      "label": "LI Internationell"
+    },
+    {
+      "code": "SPL092",
+      "label": "LI Entreprenörskap"
+    },
+    {
+      "code": "SPR101",
+      "label": "LI Teckenspråk"
+    },
+    {
+      "code": "SPR102",
+      "label": "LI Branschanknuten turismutb"
+    },
+    {
+      "code": "SPSA",
+      "label": "SP Samhällsvetenskaplig gren"
+    },
+    {
+      "code": "SPSK",
+      "label": "SP Inr Språk"
+    },
+    {
+      "code": "SPSP",
+      "label": "SP Inr Samhällsvetenskap"
+    },
+    {
+      "code": "TE",
+      "label": "Teknikprogrammet"
+    },
+    {
+      "code": "TEL001",
+      "label": "LI Multimediateknik"
+    },
+    {
+      "code": "TEL002",
+      "label": "LI Teknik och entreprenörskap"
+    },
+    {
+      "code": "TEL008",
+      "label": "LI Ingenjörsutbildning"
+    },
+    {
+      "code": "TEL009",
+      "label": "LI Industriell design"
+    },
+    {
+      "code": "TEL010",
+      "label": "LI Process och systemteknik"
+    },
+    {
+      "code": "TEL013",
+      "label": "LI Form och design"
+    },
+    {
+      "code": "TEL015",
+      "label": "LI Teknik i datormiljö"
+    },
+    {
+      "code": "TEL021",
+      "label": "LI Samhällsbygg  tekn design"
+    },
+    {
+      "code": "TEL022",
+      "label": "LI Informationsteknik"
+    },
+    {
+      "code": "TEL024",
+      "label": "LI Multimediateknik"
+    },
+    {
+      "code": "TEL028",
+      "label": "LI Teknik och IT"
+    },
+    {
+      "code": "TEL029",
+      "label": "LI Teknik och miljö"
+    },
+    {
+      "code": "TEL030",
+      "label": "LI Data"
+    },
+    {
+      "code": "TEL031",
+      "label": "LI Datorbaserad maskinteknik"
+    },
+    {
+      "code": "TEL032",
+      "label": "LI Elektroteknik med datorstöd"
+    },
+    {
+      "code": "TEL035",
+      "label": "LI Människa/teknik"
+    },
+    {
+      "code": "TEL036",
+      "label": "LI Datorteknik/företagande"
+    },
+    {
+      "code": "TEL038",
+      "label": "LI Teknik och företagande"
+    },
+    {
+      "code": "TEL039",
+      "label": "LI Informationsteknik"
+    },
+    {
+      "code": "TEL040",
+      "label": "LI Design"
+    },
+    {
+      "code": "TEL044",
+      "label": "LI Datorteknik virtuell design"
+    },
+    {
+      "code": "TEL049",
+      "label": "LI Teknik/design"
+    },
+    {
+      "code": "TEL050",
+      "label": "LI Innovation och design"
+    },
+    {
+      "code": "TEL051",
+      "label": "LI Elektronik"
+    },
+    {
+      "code": "TEL052",
+      "label": "LI Informationsteknik"
+    },
+    {
+      "code": "TEL053",
+      "label": "LI Formgivning"
+    },
+    {
+      "code": "TEL054",
+      "label": "LI Teknik och företagande"
+    },
+    {
+      "code": "TEL055",
+      "label": "LI Elteknik och elektronik"
+    },
+    {
+      "code": "TEL056",
+      "label": "LI Teknik och företagande"
+    },
+    {
+      "code": "TEL057",
+      "label": "LI Datorteknik"
+    },
+    {
+      "code": "TEL058",
+      "label": "LI Produktutveckling och design"
+    },
+    {
+      "code": "TEL059",
+      "label": "LI Tillverkningsteknik"
+    },
+    {
+      "code": "TEL063",
+      "label": "LI Teknisk konstruktion"
+    },
+    {
+      "code": "TEL064",
+      "label": "LI Teknisk datorinriktning"
+    },
+    {
+      "code": "TEL066",
+      "label": "LI Elteknik"
+    },
+    {
+      "code": "TEL067",
+      "label": "LI Elektronik"
+    },
+    {
+      "code": "TEL070",
+      "label": "LI Industridesign"
+    },
+    {
+      "code": "TEL072",
+      "label": "LI Teknik och design"
+    },
+    {
+      "code": "TEL073",
+      "label": "LI IT"
+    },
+    {
+      "code": "TEL074",
+      "label": "LI Kommunikation"
+    },
+    {
+      "code": "TEL075",
+      "label": "LI Form och design"
+    },
+    {
+      "code": "TEL077",
+      "label": "LI Datorteknik"
+    },
+    {
+      "code": "TEL080",
+      "label": "LI Teknik och företagande"
+    },
+    {
+      "code": "TEL081",
+      "label": "LI Energi och miljö"
+    },
+    {
+      "code": "TEL089",
+      "label": "LI Datastyrd industriteknik"
+    },
+    {
+      "code": "TEL094",
+      "label": "LI Maskinteknik"
+    },
+    {
+      "code": "TEL097",
+      "label": "LI Virtuell design"
+    },
+    {
+      "code": "TEL098",
+      "label": "LI Informationsteknik"
+    },
+    {
+      "code": "TELDT",
+      "label": "Datorteknik"
+    },
+    {
+      "code": "TELIT",
+      "label": "Okänt värde"
+    },
+    {
+      "code": "TELMS",
+      "label": "Teknik, miljö och samhällsbyggande"
+    },
+    {
+      "code": "TELMT",
+      "label": "Människa och teknik"
+    },
+    {
+      "code": "TELTF",
+      "label": "Teknik och företagande"
+    },
+    {
+      "code": "TELVD",
+      "label": "Virtuell design"
+    },
+    {
+      "code": "TER101",
+      "label": "LI Bilsystemteknik"
+    },
+    {
+      "code": "TER103",
+      "label": "LI Flygteknologi/Aviatech"
+    }
+  ],
+  "id": "71aae568bfc43a8e97c33679769320bc95ae580c944abeb87e9228739b305f5a"
+}
