@@ -1,0 +1,24 @@
+{
+  "version": "Typ av företag",
+  "level": "Typ av företag",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "Ettarbetsställeföretag"
+    },
+    {
+      "code": "2",
+      "label": "Flerarbetsställeföretag"
+    },
+    {
+      "code": "9",
+      "label": "Företaget finns inte i FDB"
+    }
+  ],
+  "id": "e85bc5461c96c0ab7f2e7698dd5238b5123438101097ff8e874621ecfe8b4a38"
+}

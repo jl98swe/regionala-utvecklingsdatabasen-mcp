@@ -1,0 +1,4957 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "7266e62460ed8bf8991d",
+  "register": "Longitudinell integrationsdatabas (LISA)",
+  "variant": "Företag",
+  "bindings": [
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Anlaggningstillgangar",
+      "variable": "Summa anläggningstillgångar",
+      "register_version": "2020",
+      "source_task_id": "1909b7cbe81edc27ef6fcc67337344874008360d097dca0f891540750d4f1b1b",
+      "id": "8e3f0c6a3d9ea08f689ffc7d453eca07e89ebfeaffea1be33e0b2ed5bf332a6b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Anlaggningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3374,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Anlaggningstillgangar",
+      "variable": "Summa anläggningstillgångar",
+      "register_version": "2021",
+      "source_task_id": "1909b7cbe81edc27ef6fcc67337344874008360d097dca0f891540750d4f1b1b",
+      "id": "ae3f19d4312c100254c957475905bd465edba89f5c6753e44b44de72f2bcf9a0",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Anlaggningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3374,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Anlaggningstillgangar",
+      "variable": "Summa anläggningstillgångar",
+      "register_version": "2022",
+      "source_task_id": "1909b7cbe81edc27ef6fcc67337344874008360d097dca0f891540750d4f1b1b",
+      "id": "358f6204540b11542b89936fd67d18811dd323831fbb2a132d06ac5976d8ee4e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Anlaggningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3374,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Anlaggningstillgangar",
+      "variable": "Summa anläggningstillgångar",
+      "register_version": "2023",
+      "source_task_id": "1909b7cbe81edc27ef6fcc67337344874008360d097dca0f891540750d4f1b1b",
+      "id": "11339b8b7f474bef0cb00f3f9ed9cd58fbf3b6b1c37a0267517b031ec6787970",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Anlaggningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3374,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Antal_anstallda",
+      "variable": "Medelantal anställda",
+      "register_version": "2020",
+      "source_task_id": "f0e2e4aa50c4665636362f4ed8b5a8787a0b9b253cfcffdf1e9448e02aa5868c",
+      "id": "15415e2db28d777c003059ceec62edb4bcd68ac9ebc7524d0354807654c5faf9",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Antal_anstallda",
+          "ar_raw": "1997-2023",
+          "kallrad": 3375,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Antal_anstallda",
+      "variable": "Medelantal anställda",
+      "register_version": "2021",
+      "source_task_id": "f0e2e4aa50c4665636362f4ed8b5a8787a0b9b253cfcffdf1e9448e02aa5868c",
+      "id": "88c922ed4ca34f45c355db122893bd512ecf0a5302c08d45d0a3be5a42236ca0",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Antal_anstallda",
+          "ar_raw": "1997-2023",
+          "kallrad": 3375,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Antal_anstallda",
+      "variable": "Medelantal anställda",
+      "register_version": "2022",
+      "source_task_id": "f0e2e4aa50c4665636362f4ed8b5a8787a0b9b253cfcffdf1e9448e02aa5868c",
+      "id": "687e6f2dd3433cc20bfda170127a3a23ffcb71f8d4ad424c5ea3588e937020ff",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Antal_anstallda",
+          "ar_raw": "1997-2023",
+          "kallrad": 3375,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Antal_anstallda",
+      "variable": "Medelantal anställda",
+      "register_version": "2023",
+      "source_task_id": "f0e2e4aa50c4665636362f4ed8b5a8787a0b9b253cfcffdf1e9448e02aa5868c",
+      "id": "16ddad1d548e8c92292abd9a248a20b8a7e7d3b931bb3a26d9ffb3050b168bd9",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Antal_anstallda",
+          "ar_raw": "1997-2023",
+          "kallrad": 3375,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Arets_resultat",
+      "variable": "Redovisat resultat",
+      "register_version": "2021",
+      "source_task_id": "ec94b5fb16cc9e83497c17326c73451d0166e8050481f578d471c3c029825086",
+      "id": "08919ab3f2297ea05694349a74143112936f710bbabd1adcf1bcf5d6f21f3823",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Arets_resultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3376,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Arets_resultat",
+      "variable": "Redovisat resultat",
+      "register_version": "2022",
+      "source_task_id": "ec94b5fb16cc9e83497c17326c73451d0166e8050481f578d471c3c029825086",
+      "id": "10480ce1ff2424addf073edb89dd1a799616aaea5cab0d9d888a642c0cee8d12",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Arets_resultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3376,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Arets_resultat",
+      "variable": "Redovisat resultat",
+      "register_version": "2023",
+      "source_task_id": "ec94b5fb16cc9e83497c17326c73451d0166e8050481f578d471c3c029825086",
+      "id": "83f5529c0a184d277cbb4ff9d06f3e65e84932b3bfa761f63e6df96fdb3999d8",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Arets_resultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3376,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader",
+      "variable": "Bruttoinvesteringar byggnader",
+      "register_version": "2004",
+      "source_task_id": "4e7eb71722a7b12a4b4fe2f555f6fce019439de1327ed0cfea0d30eec1efcf86",
+      "id": "b637ec2f13a375fd4f6b184ecd4116a60bb3f6eb813180e1ad403c5cc49d580d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3377,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader",
+      "variable": "Bruttoinvesteringar byggnader",
+      "register_version": "2005",
+      "source_task_id": "4e7eb71722a7b12a4b4fe2f555f6fce019439de1327ed0cfea0d30eec1efcf86",
+      "id": "1e6d7da2f6eda9e6ceed8886c1714c746420b8a6bbc524467418559e28be4cd2",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3377,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader",
+      "variable": "Bruttoinvesteringar byggnader",
+      "register_version": "2006",
+      "source_task_id": "4e7eb71722a7b12a4b4fe2f555f6fce019439de1327ed0cfea0d30eec1efcf86",
+      "id": "ed7d776c695cf475bd4b8004eacf737070b68cfad218cc3c26c8db09e30f5f75",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3377,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader_mark",
+      "variable": "Bruttoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2021",
+      "source_task_id": "1ba5e92c268d2be0de2925e5b5e2b71b94d165f7a54d5bcf529f1709ae4c31ed",
+      "id": "547393cfe551d21d2986d356721bd9b7cba33ddf834ddcc7f664552e7091ca14",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3378,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader_mark",
+      "variable": "Bruttoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2022",
+      "source_task_id": "1ba5e92c268d2be0de2925e5b5e2b71b94d165f7a54d5bcf529f1709ae4c31ed",
+      "id": "9e7a7e1e18bdb311261f39cba7d3072bde848580b84f06b4b77285a2f18003de",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3378,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_byggnader_mark",
+      "variable": "Bruttoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2023",
+      "source_task_id": "1ba5e92c268d2be0de2925e5b5e2b71b94d165f7a54d5bcf529f1709ae4c31ed",
+      "id": "ae25be9387f8a3e169a5034f6fc8b9146570a20dd30040dab042b48338f60f6c",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3378,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_mark",
+      "variable": "Bruttoinvesteringar mark",
+      "register_version": "2004",
+      "source_task_id": "c159af3ca19e2787524a6328f40c68eb863c5999b62327cc1aa5cb615b44e451",
+      "id": "65ed87fe65ceb9180ab958ccedf4cf980b6e91fc33a458c6ed11d49b745c9c10",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3379,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_mark",
+      "variable": "Bruttoinvesteringar mark",
+      "register_version": "2005",
+      "source_task_id": "c159af3ca19e2787524a6328f40c68eb863c5999b62327cc1aa5cb615b44e451",
+      "id": "125af0a60f5504043285c2fdac025386d7faa9e69541b3b5bab1b7a78d1a5646",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3379,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_mark",
+      "variable": "Bruttoinvesteringar mark",
+      "register_version": "2006",
+      "source_task_id": "c159af3ca19e2787524a6328f40c68eb863c5999b62327cc1aa5cb615b44e451",
+      "id": "c11ae8a0ca6ad67bdf89756575905f91df032892b4a4a123635aea1bd0f9503a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3379,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_maskiner_inventarier",
+      "variable": "Bruttoinvesteringar maskiner och inventarier",
+      "register_version": "2021",
+      "source_task_id": "554ee8112e0382b589a0a01418946b359209851684bb0c88ec2a1c66aacd2e1c",
+      "id": "c144bcbd4b5947f7e99a3f16b4b1346e0ebded539490dd8f78ba8752a4c71353",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3380,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_maskiner_inventarier",
+      "variable": "Bruttoinvesteringar maskiner och inventarier",
+      "register_version": "2022",
+      "source_task_id": "554ee8112e0382b589a0a01418946b359209851684bb0c88ec2a1c66aacd2e1c",
+      "id": "4c33db246e6cb5cc63d3c25e9c034979b61bb8391a03a157811be2ba4be10b8f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3380,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Bruttoinv_maskiner_inventarier",
+      "variable": "Bruttoinvesteringar maskiner och inventarier",
+      "register_version": "2023",
+      "source_task_id": "554ee8112e0382b589a0a01418946b359209851684bb0c88ec2a1c66aacd2e1c",
+      "id": "22114f063690afe7085b4ae47a826465afe6119d2edacc163f188d8462c3b16a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Bruttoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3380,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Eget_kapital",
+      "variable": "Summa eget kapital",
+      "register_version": "2021",
+      "source_task_id": "deebfeeb98a10bcebe27c8ba44a1c7ef88d1bb1c8d92c5cf8275a965810988d9",
+      "id": "f25fbcbd6089ec3de29ef63b5494bb1f2dc45779fea797ae31b39dcc2177fa33",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Eget_kapital",
+          "ar_raw": "1997-2023",
+          "kallrad": 3381,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Eget_kapital",
+      "variable": "Summa eget kapital",
+      "register_version": "2022",
+      "source_task_id": "deebfeeb98a10bcebe27c8ba44a1c7ef88d1bb1c8d92c5cf8275a965810988d9",
+      "id": "47106c7edfb1ac98a6a57fe1b79c6ccf3b81a01897b26bdaa24371b7af6b0d6e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Eget_kapital",
+          "ar_raw": "1997-2023",
+          "kallrad": 3381,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Eget_kapital",
+      "variable": "Summa eget kapital",
+      "register_version": "2023",
+      "source_task_id": "deebfeeb98a10bcebe27c8ba44a1c7ef88d1bb1c8d92c5cf8275a965810988d9",
+      "id": "8e71bef8f04a4084b5150d7f7099d52f7dda94eb8ac16bc63b2e1ca083e9fe95",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Eget_kapital",
+          "ar_raw": "1997-2023",
+          "kallrad": 3381,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Enhet",
+      "variable": "Samredovisar flera företag",
+      "register_version": "2019",
+      "source_task_id": "81049b0c60787c051e8abc317bbb255a6868a6ea200d44db735bebdfcb335640",
+      "id": "45ab7916eea671ed45020bd11fa0a9524577eb0c25fb7af8dce88093dc8545af",
+      "domain_id": "e3be797989c3b840373f0f36361419a6aae53d3f76a28d08a84339ed6f175dcd",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Enhet",
+          "ar_raw": "1997-2021",
+          "kallrad": 3382,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Enhet",
+      "variable": "Samredovisar flera företag",
+      "register_version": "2020",
+      "source_task_id": "81049b0c60787c051e8abc317bbb255a6868a6ea200d44db735bebdfcb335640",
+      "id": "dc7c2a0568f9dc5fae3abbbd4a2c64aa783a963b425fceb10b7bafbc390bcf5d",
+      "domain_id": "e3be797989c3b840373f0f36361419a6aae53d3f76a28d08a84339ed6f175dcd",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Enhet",
+          "ar_raw": "1997-2021",
+          "kallrad": 3382,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Enhet",
+      "variable": "Samredovisar flera företag",
+      "register_version": "2021",
+      "source_task_id": "81049b0c60787c051e8abc317bbb255a6868a6ea200d44db735bebdfcb335640",
+      "id": "619e03650832a4298726c0940d82c2f9195f018bd5696a6375033f9bb7697156",
+      "domain_id": "e3be797989c3b840373f0f36361419a6aae53d3f76a28d08a84339ed6f175dcd",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Enhet",
+          "ar_raw": "1997-2021",
+          "kallrad": 3382,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Finansiella_poster",
+      "variable": "Summa finansiella poster",
+      "register_version": "2021",
+      "source_task_id": "4ef8bd390486cc3a106c95aca59671a35c10dd96c5688ad7ee971213f776168e",
+      "id": "fe169128f491ef75b6782384897d3b0901c2f9cc4b33c2560fb513e02784d390",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3383,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Finansiella_poster",
+      "variable": "Summa finansiella poster",
+      "register_version": "2022",
+      "source_task_id": "4ef8bd390486cc3a106c95aca59671a35c10dd96c5688ad7ee971213f776168e",
+      "id": "183f574029035ebd98308af19ef5dd159cb8f67cc976fba3c78487a3db6afaf3",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3383,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Finansiella_poster",
+      "variable": "Summa finansiella poster",
+      "register_version": "2023",
+      "source_task_id": "4ef8bd390486cc3a106c95aca59671a35c10dd96c5688ad7ee971213f776168e",
+      "id": "4e8470cbea7f6edac6be14d1d3f133032d72cb3095389be45f06714161d6872f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3383,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Foradlingsvarde",
+      "variable": "Förädlingsvärde",
+      "register_version": "2021",
+      "source_task_id": "bc5e1be1478605c97384bfce8344edcaa9469c25f8fb1a0a7963a803e093f867",
+      "id": "dce62350b773530c9207d7080d1abb4515a95b5462c58e59370935416d15a33e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Foradlingsvarde",
+          "ar_raw": "1997-2023",
+          "kallrad": 3384,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Foradlingsvarde",
+      "variable": "Förädlingsvärde",
+      "register_version": "2022",
+      "source_task_id": "bc5e1be1478605c97384bfce8344edcaa9469c25f8fb1a0a7963a803e093f867",
+      "id": "7339f4f0d60af3d4d5eb4696d546a2d0be9a0dd1a9df1f65cf452e7f1aa922e1",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Foradlingsvarde",
+          "ar_raw": "1997-2023",
+          "kallrad": 3384,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Foradlingsvarde",
+      "variable": "Förädlingsvärde",
+      "register_version": "2023",
+      "source_task_id": "bc5e1be1478605c97384bfce8344edcaa9469c25f8fb1a0a7963a803e093f867",
+      "id": "90c37d67a5400fa54c4738f24f9252f6363ee726dd5090e0c70763a20255f728",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Foradlingsvarde",
+          "ar_raw": "1997-2023",
+          "kallrad": 3384,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G1",
+      "variable": "Avkastning på eget kapital",
+      "register_version": "2021",
+      "source_task_id": "78d7b2f3115d17e777a2e891376247e26f0fe9699dd2765ee9e9969f257c7ed4",
+      "id": "bcdfae5678b73694454b44aac4e42403a1568a52fe4309a667c3022abdb5b90a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3385,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G1",
+      "variable": "Avkastning på eget kapital",
+      "register_version": "2022",
+      "source_task_id": "78d7b2f3115d17e777a2e891376247e26f0fe9699dd2765ee9e9969f257c7ed4",
+      "id": "e88e19748b279d217b9cca2d19b3c2f260be6c1ce4ea32af7637ce461ceb1177",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3385,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G1",
+      "variable": "Avkastning på eget kapital",
+      "register_version": "2023",
+      "source_task_id": "78d7b2f3115d17e777a2e891376247e26f0fe9699dd2765ee9e9969f257c7ed4",
+      "id": "64c0cb96fc09a5cb63eb8e27c9f38891ad6800d23bbcc1f02e9952f215aa108c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3385,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G11",
+      "variable": "Rörelsekapital/omsättning",
+      "register_version": "2021",
+      "source_task_id": "e30786814a6812109d457271e4b18ecabcdc3f113f033a87f73ad9bcf62fcdff",
+      "id": "f807d6f87dcb5822106f35cd47f015ebf20ed982ba181d92bdbfe9e101c063ef",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G11",
+          "ar_raw": "1997-2023",
+          "kallrad": 3386,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G11",
+      "variable": "Rörelsekapital/omsättning",
+      "register_version": "2022",
+      "source_task_id": "e30786814a6812109d457271e4b18ecabcdc3f113f033a87f73ad9bcf62fcdff",
+      "id": "ef0daaf8680f416c4b396f13c647c10ee46d64d66fe075189852f0936b3b087f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G11",
+          "ar_raw": "1997-2023",
+          "kallrad": 3386,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G11",
+      "variable": "Rörelsekapital/omsättning",
+      "register_version": "2023",
+      "source_task_id": "e30786814a6812109d457271e4b18ecabcdc3f113f033a87f73ad9bcf62fcdff",
+      "id": "a760e51fd49d9aa9de314140ea06904db89c43b640cc2f2c61a6646680a482a3",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G11",
+          "ar_raw": "1997-2023",
+          "kallrad": 3386,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G12",
+      "variable": "Kassalikviditet (intäkts-/kostnadsstruktur)",
+      "register_version": "2021",
+      "source_task_id": "9b39d416d9ca679f1354daf645b002cbc548a95121cd7c141ac8e1e5bf786050",
+      "id": "c2d8b280bf3957171edd7432838f1e2cdba3f4f04c6516228bfd225b847e1dbe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G12",
+          "ar_raw": "1997-2023",
+          "kallrad": 3387,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G12",
+      "variable": "Kassalikviditet (intäkts-/kostnadsstruktur)",
+      "register_version": "2022",
+      "source_task_id": "9b39d416d9ca679f1354daf645b002cbc548a95121cd7c141ac8e1e5bf786050",
+      "id": "a9dec579b80f08a7221a99b39fa48e5981dc07d1ab956dc21001a738abedf1c6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G12",
+          "ar_raw": "1997-2023",
+          "kallrad": 3387,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G12",
+      "variable": "Kassalikviditet (intäkts-/kostnadsstruktur)",
+      "register_version": "2023",
+      "source_task_id": "9b39d416d9ca679f1354daf645b002cbc548a95121cd7c141ac8e1e5bf786050",
+      "id": "279b920e5cbf098242aa6e367d92f8e84758db41b1b832b732b7864629a0c10b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G12",
+          "ar_raw": "1997-2023",
+          "kallrad": 3387,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G2",
+      "variable": "Avkastning på totalt kapital",
+      "register_version": "2021",
+      "source_task_id": "dc6f62d6e2387f07cdb4746241a5551b6d059ce2ed98413d104bf7383b4e0541",
+      "id": "c4154ef4f73556183c794b373ca0bc0f0c91acb59ab1c7b2121358229d03bf91",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3388,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G2",
+      "variable": "Avkastning på totalt kapital",
+      "register_version": "2022",
+      "source_task_id": "dc6f62d6e2387f07cdb4746241a5551b6d059ce2ed98413d104bf7383b4e0541",
+      "id": "a5770aa1d918bef572b8706fd7c39a9ff95beebaa4a957b63b2f891ad00ebd5a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3388,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G2",
+      "variable": "Avkastning på totalt kapital",
+      "register_version": "2023",
+      "source_task_id": "dc6f62d6e2387f07cdb4746241a5551b6d059ce2ed98413d104bf7383b4e0541",
+      "id": "1ab171a517220e7d35f3d2a51fce2062bae133d18443f4b08ce52033e76adc18",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3388,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G5",
+      "variable": "Rörelsemarginal",
+      "register_version": "2021",
+      "source_task_id": "ff2ef5800707d33ed90efe9d613aa7d198766be3eaccf2381960ac6926d213f4",
+      "id": "78f3518ac89151e9bdcf9fa205835e098679678af534858a6c6462304535c21a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3389,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G5",
+      "variable": "Rörelsemarginal",
+      "register_version": "2022",
+      "source_task_id": "ff2ef5800707d33ed90efe9d613aa7d198766be3eaccf2381960ac6926d213f4",
+      "id": "6c422969fc38c99d2ed7fb6e6ad6f95d7053dab968dda2e3e19989d05d3f406f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3389,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G5",
+      "variable": "Rörelsemarginal",
+      "register_version": "2023",
+      "source_task_id": "ff2ef5800707d33ed90efe9d613aa7d198766be3eaccf2381960ac6926d213f4",
+      "id": "53259de9211eb87f550c49f7fe873c41a52bcb40a803e619ad0f3f6ee818be33",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3389,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G6",
+      "variable": "Nettomarginal",
+      "register_version": "2021",
+      "source_task_id": "112bd03a474298ab4fef3c22938bb0641b52a7a68083d2a6f0a7f3ad78f15b90",
+      "id": "279ab2e1b89624ac27ac08df4da92d204339f39f6d9cb4c89779cd811965acfd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G6",
+          "ar_raw": "1997-2023",
+          "kallrad": 3390,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G6",
+      "variable": "Nettomarginal",
+      "register_version": "2022",
+      "source_task_id": "112bd03a474298ab4fef3c22938bb0641b52a7a68083d2a6f0a7f3ad78f15b90",
+      "id": "bd4c32651909bf8d00fd0425d673ffcae664fcda882ce811b18dbde53a981353",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G6",
+          "ar_raw": "1997-2023",
+          "kallrad": 3390,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G6",
+      "variable": "Nettomarginal",
+      "register_version": "2023",
+      "source_task_id": "112bd03a474298ab4fef3c22938bb0641b52a7a68083d2a6f0a7f3ad78f15b90",
+      "id": "efba14ca4695863e9b2074c5a91b685e8898e97fd9bf69f5d18c07db7a90a6e1",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G6",
+          "ar_raw": "1997-2023",
+          "kallrad": 3390,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G7",
+      "variable": "Nettoomsättning/anställd",
+      "register_version": "2021",
+      "source_task_id": "16eea0163cd26e65d2a0a8b3f7d72db6faa499734542f82a7e4f29b21de7a555",
+      "id": "fcb3eec3ff114bfba7ca12a364caaa46ac7bad4f6e3bd9628d0bca4e20d5e4df",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3391,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G7",
+      "variable": "Nettoomsättning/anställd",
+      "register_version": "2022",
+      "source_task_id": "16eea0163cd26e65d2a0a8b3f7d72db6faa499734542f82a7e4f29b21de7a555",
+      "id": "0cd9a0371ca614da6debe150af4ef9f4a1ca2c29eb383460dd4c3ed0a8b28d37",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3391,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G7",
+      "variable": "Nettoomsättning/anställd",
+      "register_version": "2023",
+      "source_task_id": "16eea0163cd26e65d2a0a8b3f7d72db6faa499734542f82a7e4f29b21de7a555",
+      "id": "6c29f1b9c6d8ec823a7d2de25757bd17c8bc0dc4d54f0f243feb5f3de55eb04f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3391,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G9",
+      "variable": "Soliditet (kapitalstruktur)",
+      "register_version": "2021",
+      "source_task_id": "ba469ed2f8a2c68f80d162f92931dececb0bcd32e6c82385d00518dc77a29463",
+      "id": "3fabcff8f7e180b9a3ef015b25c8b8cd885867bbfab88488dd4c6e864597dbbf",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G9",
+          "ar_raw": "1997-2023",
+          "kallrad": 3392,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G9",
+      "variable": "Soliditet (kapitalstruktur)",
+      "register_version": "2022",
+      "source_task_id": "ba469ed2f8a2c68f80d162f92931dececb0bcd32e6c82385d00518dc77a29463",
+      "id": "300c485a34b30240de8624e4e30b32c4a20ce49081979c0ac218b056be1dd0af",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G9",
+          "ar_raw": "1997-2023",
+          "kallrad": 3392,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_G9",
+      "variable": "Soliditet (kapitalstruktur)",
+      "register_version": "2023",
+      "source_task_id": "ba469ed2f8a2c68f80d162f92931dececb0bcd32e6c82385d00518dc77a29463",
+      "id": "6c9e8d0d0f3bc16a1c9fac8127da9cc9b76b559f559d671c1893ea00eb7dd4c3",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_G9",
+          "ar_raw": "1997-2023",
+          "kallrad": 3392,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Kortfristiga_skulder",
+      "variable": "Summa kortfristiga skulder",
+      "register_version": "2021",
+      "source_task_id": "b341cdf939bca1ced40ee57aabd2a8467774f5eb7f1a2eb361f31a3c4d271f1f",
+      "id": "7601e67757690f77ccf6a360a78799984377ba79b34b1c1ab0b6236ab9de6981",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Kortfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3393,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Kortfristiga_skulder",
+      "variable": "Summa kortfristiga skulder",
+      "register_version": "2022",
+      "source_task_id": "b341cdf939bca1ced40ee57aabd2a8467774f5eb7f1a2eb361f31a3c4d271f1f",
+      "id": "8d29d923cbb536e3ef36bd94abe8cdd40deec8f2d834b46b746e97da352831aa",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Kortfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3393,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Kortfristiga_skulder",
+      "variable": "Summa kortfristiga skulder",
+      "register_version": "2023",
+      "source_task_id": "b341cdf939bca1ced40ee57aabd2a8467774f5eb7f1a2eb361f31a3c4d271f1f",
+      "id": "197c9200711e973edbfba9f97f5551aeea74ba6508164d8f52eace7503fc5313",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Kortfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3393,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Langfristiga_skulder",
+      "variable": "Summa långfristiga skulder",
+      "register_version": "2021",
+      "source_task_id": "231424dfecff8b15cd4407204cfb09ca5a968a3d13065fdd90b86c7420478f05",
+      "id": "e1d5a276af99cc9512caf989b1450556fb22e9466ee3afc60c601bb284dff55b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Langfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3394,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Langfristiga_skulder",
+      "variable": "Summa långfristiga skulder",
+      "register_version": "2022",
+      "source_task_id": "231424dfecff8b15cd4407204cfb09ca5a968a3d13065fdd90b86c7420478f05",
+      "id": "f102587056fdd27c595b94223271c6780aa790f18ccbae2999c3d63d4e596176",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Langfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3394,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Langfristiga_skulder",
+      "variable": "Summa långfristiga skulder",
+      "register_version": "2023",
+      "source_task_id": "231424dfecff8b15cd4407204cfb09ca5a968a3d13065fdd90b86c7420478f05",
+      "id": "424a5b1ccc33c4d2e0c5839fbb0c49ec766908704282c797e17e00263e530e0a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Langfristiga_skulder",
+          "ar_raw": "1997-2023",
+          "kallrad": 3394,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Lonekostn_och_andra_ersattn",
+      "variable": "Kostnader för löner och andra ersättningar",
+      "register_version": "2021",
+      "source_task_id": "19ec5a7479f3872623f7f2e9f51c2f61c3961dd16269fdca0da60ffad88c90c3",
+      "id": "c275d909ce1964675d423fb1a76936e9c7fa283cd0a5c05710e69c3c1419f6a4",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Lonekostn_och_andra_ersattn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3395,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Lonekostn_och_andra_ersattn",
+      "variable": "Kostnader för löner och andra ersättningar",
+      "register_version": "2022",
+      "source_task_id": "19ec5a7479f3872623f7f2e9f51c2f61c3961dd16269fdca0da60ffad88c90c3",
+      "id": "27273ced0cac8e40b0860359fe7d9ec6ebfa6aa6dbc04ab946f3b6625ec52806",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Lonekostn_och_andra_ersattn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3395,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Lonekostn_och_andra_ersattn",
+      "variable": "Kostnader för löner och andra ersättningar",
+      "register_version": "2023",
+      "source_task_id": "19ec5a7479f3872623f7f2e9f51c2f61c3961dd16269fdca0da60ffad88c90c3",
+      "id": "09120604737db9882e25d15cf7388e87ac93aae31ec4b9f6c64a227fea1da199",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Lonekostn_och_andra_ersattn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3395,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader",
+      "variable": "Nettoinvesteringar i byggnader och markanläggningar",
+      "register_version": "2004",
+      "source_task_id": "873dac83af803d02d1d9d1c3356369cc3b88f9c7dd0e0897d6f7d49e98b3b220",
+      "id": "852510ef4f9d5f748d4bdc7bb13fb34777fee5f61ff8035ec99ccbf6faaf57d0",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3396,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader",
+      "variable": "Nettoinvesteringar i byggnader och markanläggningar",
+      "register_version": "2005",
+      "source_task_id": "873dac83af803d02d1d9d1c3356369cc3b88f9c7dd0e0897d6f7d49e98b3b220",
+      "id": "15f7283d3a63f821e11e2bb0cb1a2086d39b7fffce30ea638a2d8b479c768555",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3396,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader",
+      "variable": "Nettoinvesteringar i byggnader och markanläggningar",
+      "register_version": "2006",
+      "source_task_id": "873dac83af803d02d1d9d1c3356369cc3b88f9c7dd0e0897d6f7d49e98b3b220",
+      "id": "f73f2bf87a2c56fb147e1cac9e2f4d16fde2004dea4c8709ee4f2400307a3f02",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader",
+          "ar_raw": "1997-2006",
+          "kallrad": 3396,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader_mark",
+      "variable": "Nettoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2021",
+      "source_task_id": "b4c4cdeefc572fab034ed5a104827c7b25712092383ff0cc0870254d4b282e86",
+      "id": "4206f157788db4867d6eaea8235d2fc6f6c5199703f111ab1f61285a83ba42ce",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3397,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader_mark",
+      "variable": "Nettoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2022",
+      "source_task_id": "b4c4cdeefc572fab034ed5a104827c7b25712092383ff0cc0870254d4b282e86",
+      "id": "e431f558d19ea7df079fd371398d103c27b971250d5fbf69ea6170984b1af2e7",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3397,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_byggnader_mark",
+      "variable": "Nettoinvesteringar byggnader, markanläggningar och mark",
+      "register_version": "2023",
+      "source_task_id": "b4c4cdeefc572fab034ed5a104827c7b25712092383ff0cc0870254d4b282e86",
+      "id": "b3b20c9236ad0d7c62fbcc5aff050d949c37aaa7701e6b03305b4ea7d254c42a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_byggnader_mark",
+          "ar_raw": "2007-2023",
+          "kallrad": 3397,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_mark",
+      "variable": "Nettoinvesteringar mark",
+      "register_version": "2004",
+      "source_task_id": "15640b674e4271ef909e210dfdc24cfcaafeea58d4550d5cb88b266e0a495f7e",
+      "id": "7a41641d26c74c70ac6b20db1f380fd493ad271810be43134eadaee87f13a0aa",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3398,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_mark",
+      "variable": "Nettoinvesteringar mark",
+      "register_version": "2005",
+      "source_task_id": "15640b674e4271ef909e210dfdc24cfcaafeea58d4550d5cb88b266e0a495f7e",
+      "id": "89dd1b52450292af2a79fe5f303f103fcdd67266d809ede57a90a656c978137b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3398,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_mark",
+      "variable": "Nettoinvesteringar mark",
+      "register_version": "2006",
+      "source_task_id": "15640b674e4271ef909e210dfdc24cfcaafeea58d4550d5cb88b266e0a495f7e",
+      "id": "d15ea2427b0b3f106ba69938cc0f8366e99767466c34cefba7cfae48ede50192",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_mark",
+          "ar_raw": "1997-2006",
+          "kallrad": 3398,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_maskiner_inventarier",
+      "variable": "Nettoinvesteringar, maskiner och inventarier",
+      "register_version": "2021",
+      "source_task_id": "8f2af63c0cae789baf9a65a38b6df10a0736dc41bb9ddb9a194f73200fb5dca7",
+      "id": "db8149f9360df52e112bb3ac09cda2c5656cb0e2ca5a71e8460daf854f8dd4c6",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3399,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_maskiner_inventarier",
+      "variable": "Nettoinvesteringar, maskiner och inventarier",
+      "register_version": "2022",
+      "source_task_id": "8f2af63c0cae789baf9a65a38b6df10a0736dc41bb9ddb9a194f73200fb5dca7",
+      "id": "12361401b42ebcc8f10fb757c297d466025638aec091fc180e2d40d453196a75",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3399,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoinv_maskiner_inventarier",
+      "variable": "Nettoinvesteringar, maskiner och inventarier",
+      "register_version": "2023",
+      "source_task_id": "8f2af63c0cae789baf9a65a38b6df10a0736dc41bb9ddb9a194f73200fb5dca7",
+      "id": "836b6f898764c244114e5726c8d2b29d13666e7da4233246e90a18c8faea57f7",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoinv_maskiner_inventarier",
+          "ar_raw": "1997-2023",
+          "kallrad": 3399,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoomsattning",
+      "variable": "Nettoomsättning (justerad för merchanting)",
+      "register_version": "2021",
+      "source_task_id": "3669aaf4eb5b3c996643e7a63e6d8bdca414c65a5b5886f037135dbf13de1820",
+      "id": "274b5f5e238dec07dfa342186d05daad7c676546fdd926227f753837f8bd053e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoomsattning",
+          "ar_raw": "1997-2023",
+          "kallrad": 3400,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoomsattning",
+      "variable": "Nettoomsättning (justerad för merchanting)",
+      "register_version": "2022",
+      "source_task_id": "3669aaf4eb5b3c996643e7a63e6d8bdca414c65a5b5886f037135dbf13de1820",
+      "id": "25a63c7507b95a9c26acf40a3462adfe86ce626eb0d53a1a26722ca90fe1f08b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoomsattning",
+          "ar_raw": "1997-2023",
+          "kallrad": 3400,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Nettoomsattning",
+      "variable": "Nettoomsättning (justerad för merchanting)",
+      "register_version": "2023",
+      "source_task_id": "3669aaf4eb5b3c996643e7a63e6d8bdca414c65a5b5886f037135dbf13de1820",
+      "id": "33d84ce93e745b93596f6389002076c6aa67da86ecf6da4e84b175312009412c",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Nettoomsattning",
+          "ar_raw": "1997-2023",
+          "kallrad": 3400,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Omsattningstillgangar",
+      "variable": "Summa omsättningstillgångar",
+      "register_version": "2021",
+      "source_task_id": "f72c62c127f4f2636e2ec8efcf8dacc98799cd5c5e83a4c5048b98a8bdd6955c",
+      "id": "e044aa6da0ad9f0429b12148edfc40f2385cc030adc95f1244c9bdcdd2900b98",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Omsattningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3401,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Omsattningstillgangar",
+      "variable": "Summa omsättningstillgångar",
+      "register_version": "2022",
+      "source_task_id": "f72c62c127f4f2636e2ec8efcf8dacc98799cd5c5e83a4c5048b98a8bdd6955c",
+      "id": "ce68a322f0e04deca96f0399e833e9b0cf1cf0cc372f1276d464f590a7dc12a1",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Omsattningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3401,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Omsattningstillgangar",
+      "variable": "Summa omsättningstillgångar",
+      "register_version": "2023",
+      "source_task_id": "f72c62c127f4f2636e2ec8efcf8dacc98799cd5c5e83a4c5048b98a8bdd6955c",
+      "id": "e65488e5adbd4f26081fd6d3a3496375376af4405a979a990787f0d5ffda859e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Omsattningstillgangar",
+          "ar_raw": "1997-2023",
+          "kallrad": 3401,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Ovriga_rorelseintakter",
+      "variable": "Övriga rörelseintäkter",
+      "register_version": "2021",
+      "source_task_id": "9ff6ced8631e9be74cc8b09e4ac2937dbb5d2d78494097e2cb6fcb62db0f7bd6",
+      "id": "db2dbaafedae85e4fbdfcd68adffbb3e8f76a8a44d12f769ed29a3a542f93050",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Ovriga_rorelseintakter",
+          "ar_raw": "1997-2023",
+          "kallrad": 3402,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Ovriga_rorelseintakter",
+      "variable": "Övriga rörelseintäkter",
+      "register_version": "2022",
+      "source_task_id": "9ff6ced8631e9be74cc8b09e4ac2937dbb5d2d78494097e2cb6fcb62db0f7bd6",
+      "id": "4f2252c13e939bf8547a1ca6fbfe3b8c5b87104646ef27f4b23efdc936b85491",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Ovriga_rorelseintakter",
+          "ar_raw": "1997-2023",
+          "kallrad": 3402,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Ovriga_rorelseintakter",
+      "variable": "Övriga rörelseintäkter",
+      "register_version": "2023",
+      "source_task_id": "9ff6ced8631e9be74cc8b09e4ac2937dbb5d2d78494097e2cb6fcb62db0f7bd6",
+      "id": "07d16215e837731495744064628f6f8deb570a1444b7d853cb549e5954e50897",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Ovriga_rorelseintakter",
+          "ar_raw": "1997-2023",
+          "kallrad": 3402,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Res_efter_finansiella_poster",
+      "variable": "Resultat efter finansiella poster",
+      "register_version": "2021",
+      "source_task_id": "52f302acf5bc1c9bd3300dd04c50cad322b0244ee290c4ca1fd1659dd3c1d89d",
+      "id": "6a72b3a25ad6234310a87484d1c3c5fd28f32072453aaaba10ea0b7993b81306",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Res_efter_finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3403,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Res_efter_finansiella_poster",
+      "variable": "Resultat efter finansiella poster",
+      "register_version": "2022",
+      "source_task_id": "52f302acf5bc1c9bd3300dd04c50cad322b0244ee290c4ca1fd1659dd3c1d89d",
+      "id": "22437aca562dc74ab1bf762f3c4a78ce661daefa59a8f0d6e88c0c56bf62b18f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Res_efter_finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3403,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Res_efter_finansiella_poster",
+      "variable": "Resultat efter finansiella poster",
+      "register_version": "2023",
+      "source_task_id": "52f302acf5bc1c9bd3300dd04c50cad322b0244ee290c4ca1fd1659dd3c1d89d",
+      "id": "4f7a5e5f4a18ff7a407f4637cbc1eba7d5783fc1619470dd8445ff894da1e15d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Res_efter_finansiella_poster",
+          "ar_raw": "1997-2023",
+          "kallrad": 3403,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelsekostnader",
+      "variable": "Vissa rörelsekostnader",
+      "register_version": "2021",
+      "source_task_id": "37d75adbfd8b4d6ab9f4dd826e4868e6fc2723b49cb5601b94a055a5b68c7ecd",
+      "id": "b924f2a975d1fca052ce0da76d38f67b7149793b213bfda72eb4b06e17f887c3",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelsekostnader",
+          "ar_raw": "1997-2023",
+          "kallrad": 3404,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelsekostnader",
+      "variable": "Vissa rörelsekostnader",
+      "register_version": "2022",
+      "source_task_id": "37d75adbfd8b4d6ab9f4dd826e4868e6fc2723b49cb5601b94a055a5b68c7ecd",
+      "id": "f48411f754134c79c8975f935480cdb20b4911c2793905bf4077d75e8f4c4e39",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelsekostnader",
+          "ar_raw": "1997-2023",
+          "kallrad": 3404,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelsekostnader",
+      "variable": "Vissa rörelsekostnader",
+      "register_version": "2023",
+      "source_task_id": "37d75adbfd8b4d6ab9f4dd826e4868e6fc2723b49cb5601b94a055a5b68c7ecd",
+      "id": "a16be9861bff6457ac5f4889d1b4f7cd4c018a86fc72847de256d636f0af8160",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelsekostnader",
+          "ar_raw": "1997-2023",
+          "kallrad": 3404,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelseresultat",
+      "variable": "Rörelseresultat",
+      "register_version": "2021",
+      "source_task_id": "2d6f93024a024bf7b5bd3552cb3b1d6068eb51b649a016ad7944e5c0fb282bc6",
+      "id": "261aaab11a493222af7cb003b000c7e6068f32d3da67723dbe3993d4f0dd819a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelseresultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3405,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelseresultat",
+      "variable": "Rörelseresultat",
+      "register_version": "2022",
+      "source_task_id": "2d6f93024a024bf7b5bd3552cb3b1d6068eb51b649a016ad7944e5c0fb282bc6",
+      "id": "3722a945951d814475c66832118f336a023624645e39bd1ceb647236b7812624",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelseresultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3405,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Rorelseresultat",
+      "variable": "Rörelseresultat",
+      "register_version": "2023",
+      "source_task_id": "2d6f93024a024bf7b5bd3552cb3b1d6068eb51b649a016ad7944e5c0fb282bc6",
+      "id": "55b2154b536882b96bbdeab0200c29037cec45d6ced9152185b21e18a256ce19",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Rorelseresultat",
+          "ar_raw": "1997-2023",
+          "kallrad": 3405,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Skatt",
+      "variable": "Skattekostnader",
+      "register_version": "2021",
+      "source_task_id": "5dcb08ab992c1606cc7ba70b743b911380ff5f8076499e0b3b1c3d4d0cae728f",
+      "id": "d918e61e9bff8f068ff434783b634ac601ed410ee3fe620d0ecfd07c197cc62e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Skatt",
+          "ar_raw": "1997-2023",
+          "kallrad": 3406,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Skatt",
+      "variable": "Skattekostnader",
+      "register_version": "2022",
+      "source_task_id": "5dcb08ab992c1606cc7ba70b743b911380ff5f8076499e0b3b1c3d4d0cae728f",
+      "id": "739285b4d35e8ec7948fefd05f389811370ad5fef840679a834efa12b596563a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Skatt",
+          "ar_raw": "1997-2023",
+          "kallrad": 3406,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Skatt",
+      "variable": "Skattekostnader",
+      "register_version": "2023",
+      "source_task_id": "5dcb08ab992c1606cc7ba70b743b911380ff5f8076499e0b3b1c3d4d0cae728f",
+      "id": "3835a47f6b469addceaa007609234e2dba1d7c92dad1552cab89e95f080580dc",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Skatt",
+          "ar_raw": "1997-2023",
+          "kallrad": 3406,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Sociala_kostn_och_andra_avg",
+      "variable": "Sociala kostnader och andra personalkostnader",
+      "register_version": "2021",
+      "source_task_id": "1e4da7c665126d1abb23cfaac413fec5ff1ab0373c64b0a1af6159efd96964fb",
+      "id": "edd01ccd5d6ad07572740a2690bb969ee869374aab7ad8fb494bb5b4fe0e3cc9",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Sociala_kostn_och_andra_avg",
+          "ar_raw": "1997-2023",
+          "kallrad": 3407,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Sociala_kostn_och_andra_avg",
+      "variable": "Sociala kostnader och andra personalkostnader",
+      "register_version": "2022",
+      "source_task_id": "1e4da7c665126d1abb23cfaac413fec5ff1ab0373c64b0a1af6159efd96964fb",
+      "id": "75df38a70aa0dcc71b29649aa0c859c14d92c2e1347d0b58aa523942c918ac9f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Sociala_kostn_och_andra_avg",
+          "ar_raw": "1997-2023",
+          "kallrad": 3407,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Sociala_kostn_och_andra_avg",
+      "variable": "Sociala kostnader och andra personalkostnader",
+      "register_version": "2023",
+      "source_task_id": "1e4da7c665126d1abb23cfaac413fec5ff1ab0373c64b0a1af6159efd96964fb",
+      "id": "2d8351d68e088bb8799757dd5c80734fc04b0db3f32ba93d304d88f6a1ce4c34",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Sociala_kostn_och_andra_avg",
+          "ar_raw": "1997-2023",
+          "kallrad": 3407,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_bruttoinv",
+      "variable": "Summa bruttoinvesteringar",
+      "register_version": "2021",
+      "source_task_id": "1c462953731075a52dcad673be6cec5440a646bcef43f4a42f34af0a7c9a3e96",
+      "id": "46b63dddff6bb98c61f1ba6a2206e6faa567fc8ba138835c766e8760975502fb",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_bruttoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3408,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_bruttoinv",
+      "variable": "Summa bruttoinvesteringar",
+      "register_version": "2022",
+      "source_task_id": "1c462953731075a52dcad673be6cec5440a646bcef43f4a42f34af0a7c9a3e96",
+      "id": "01c4c72fdbb35a069d651c1e099a5f5731103fbcb61df8e453814ee1b58968dc",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_bruttoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3408,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_bruttoinv",
+      "variable": "Summa bruttoinvesteringar",
+      "register_version": "2023",
+      "source_task_id": "1c462953731075a52dcad673be6cec5440a646bcef43f4a42f34af0a7c9a3e96",
+      "id": "675f9cf5bef604e1921f4d0e18d517a2bd826433ce8359e64cbbaba1d76ccd58",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_bruttoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3408,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_nettoinv",
+      "variable": "Summa nettoinvesteringar",
+      "register_version": "2021",
+      "source_task_id": "985457b5a146a0de1da34b132659421aa31d663c3243087ecda74d56a4001bd3",
+      "id": "17d37d8c5b4ac64c06a829427715310c34efaa34b199c771a7571f899e283a1f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_nettoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3409,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_nettoinv",
+      "variable": "Summa nettoinvesteringar",
+      "register_version": "2022",
+      "source_task_id": "985457b5a146a0de1da34b132659421aa31d663c3243087ecda74d56a4001bd3",
+      "id": "91d3e72daa46f48846d4c5ac7beb262f63c22303f4b23b7a62fea1c21d00a8a6",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_nettoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3409,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_Summa_nettoinv",
+      "variable": "Summa nettoinvesteringar",
+      "register_version": "2023",
+      "source_task_id": "985457b5a146a0de1da34b132659421aa31d663c3243087ecda74d56a4001bd3",
+      "id": "eef4a401fced1d58403219482a31b9ded0acbc7c49ee0c8fe9154ae5f1c7d6f0",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_Summa_nettoinv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3409,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T1",
+      "variable": "Bruttovinstmarginal",
+      "register_version": "2021",
+      "source_task_id": "67e96edeb63533ee844c462b2f514e6be6ed0a5d6b613b86b02db5acbf344209",
+      "id": "157ded633f8de4a2855a79af5dd5704ef996f6b5ad0a083844489b244a50d155",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3410,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T1",
+      "variable": "Bruttovinstmarginal",
+      "register_version": "2022",
+      "source_task_id": "67e96edeb63533ee844c462b2f514e6be6ed0a5d6b613b86b02db5acbf344209",
+      "id": "13795fcfbe0c32b14da1bc0897e6a9b4c47648524f6836f4cf0c79e17c562278",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3410,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T1",
+      "variable": "Bruttovinstmarginal",
+      "register_version": "2023",
+      "source_task_id": "67e96edeb63533ee844c462b2f514e6be6ed0a5d6b613b86b02db5acbf344209",
+      "id": "f12b61c8eef0224b6d5faea9c7206684d682777d774f6626f49ab20c63b4a144",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T1",
+          "ar_raw": "1997-2023",
+          "kallrad": 3410,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T2",
+      "variable": "Förädlingsgrad",
+      "register_version": "2021",
+      "source_task_id": "ff0f31f844531900ed3e0195b75f5a65999b9e87f02fad0ef0215b0db48cdf00",
+      "id": "0618cdd48ae90b9ba9413bdd3f4ecaa8ce02a82c43d9eb9b8d0e381b88866f60",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T2",
+      "variable": "Förädlingsgrad",
+      "register_version": "2022",
+      "source_task_id": "ff0f31f844531900ed3e0195b75f5a65999b9e87f02fad0ef0215b0db48cdf00",
+      "id": "a1d0a52ed72b38ad4ce9868ffa5c61c1f63da1d4ac9b680fe49ff8c218dac24f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T2",
+      "variable": "Förädlingsgrad",
+      "register_version": "2023",
+      "source_task_id": "ff0f31f844531900ed3e0195b75f5a65999b9e87f02fad0ef0215b0db48cdf00",
+      "id": "6ef685f583f77c6a63688e9dfa48556b358074be997f66839685c4fe879d70b6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T2",
+          "ar_raw": "1997-2023",
+          "kallrad": 3411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T27",
+      "variable": "Vinstprocent",
+      "register_version": "2021",
+      "source_task_id": "21ae803093700c0aa5f9148199c481532b6730a920982eb45d3ac84cdd5ecd43",
+      "id": "b7a747c087940dfd5c816f9c45272734774e9f8f53e98e3eabe39ea6569f22a6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T27",
+          "ar_raw": "1997-2023",
+          "kallrad": 3412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T27",
+      "variable": "Vinstprocent",
+      "register_version": "2022",
+      "source_task_id": "21ae803093700c0aa5f9148199c481532b6730a920982eb45d3ac84cdd5ecd43",
+      "id": "15ae14db3509d86ef183db14b622ddfd2803aae735ed55678bb17a649741252d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T27",
+          "ar_raw": "1997-2023",
+          "kallrad": 3412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T27",
+      "variable": "Vinstprocent",
+      "register_version": "2023",
+      "source_task_id": "21ae803093700c0aa5f9148199c481532b6730a920982eb45d3ac84cdd5ecd43",
+      "id": "9c177c8fb04bcf5498a7691f0301b650251d6d78e69fca71f9c3dd50f6fc9c5e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T27",
+          "ar_raw": "1997-2023",
+          "kallrad": 3412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T4",
+      "variable": "Förädlingsvärde per anställd",
+      "register_version": "2021",
+      "source_task_id": "6ec84af5203d6574f67faabd3a38fe56286a67c6010fc53c5e69360d81f10b79",
+      "id": "77a75144b407156277574b6c75719532e07a6cc4918b82a51e679bab9087a376",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T4",
+          "ar_raw": "1997-2023",
+          "kallrad": 3413,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T4",
+      "variable": "Förädlingsvärde per anställd",
+      "register_version": "2022",
+      "source_task_id": "6ec84af5203d6574f67faabd3a38fe56286a67c6010fc53c5e69360d81f10b79",
+      "id": "b88b50c783cbce836b37f9025d0e19b45a872fe7bf3902c1a3412563d460ea46",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T4",
+          "ar_raw": "1997-2023",
+          "kallrad": 3413,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T4",
+      "variable": "Förädlingsvärde per anställd",
+      "register_version": "2023",
+      "source_task_id": "6ec84af5203d6574f67faabd3a38fe56286a67c6010fc53c5e69360d81f10b79",
+      "id": "9266e5aefa512e564e2d83e4e57fa8ed0829914b7506df3fc45b220bfd73512d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T4",
+          "ar_raw": "1997-2023",
+          "kallrad": 3413,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T5",
+      "variable": "Rörelseresultat per anställd",
+      "register_version": "2021",
+      "source_task_id": "661a8d4f289bcad1c97d1b5c848b067675bc90cc6f80a636476248925697d798",
+      "id": "ab0de377c615fb06bed380caa031fa88b31f2426fe553c43253d72c9a6605d89",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3414,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T5",
+      "variable": "Rörelseresultat per anställd",
+      "register_version": "2022",
+      "source_task_id": "661a8d4f289bcad1c97d1b5c848b067675bc90cc6f80a636476248925697d798",
+      "id": "90486e7d84ef87034b33827f82f7a9a613015d7d0cb0811b4a02ff4701b42ad6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3414,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T5",
+      "variable": "Rörelseresultat per anställd",
+      "register_version": "2023",
+      "source_task_id": "661a8d4f289bcad1c97d1b5c848b067675bc90cc6f80a636476248925697d798",
+      "id": "01ba3bee3e240b713f2541bc723418f2f3431be011e15692258a5c057bb2c5fe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T5",
+          "ar_raw": "1997-2023",
+          "kallrad": 3414,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T7",
+      "variable": "Personalkostnader i relation till förädlingsvärdet",
+      "register_version": "2021",
+      "source_task_id": "44b9842501142fec2ac9a5184587f6631f8222d5f662fe82a4594761f42179bf",
+      "id": "78cb7d4ae8fcb29cf71fb72f47117ccb6ed145828a8d4165425c369b0a4997e6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T7",
+      "variable": "Personalkostnader i relation till förädlingsvärdet",
+      "register_version": "2022",
+      "source_task_id": "44b9842501142fec2ac9a5184587f6631f8222d5f662fe82a4594761f42179bf",
+      "id": "0852b27c77f195196484354d774412a75874d41739376a5c2858d98e72b06abb",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T7",
+      "variable": "Personalkostnader i relation till förädlingsvärdet",
+      "register_version": "2023",
+      "source_task_id": "44b9842501142fec2ac9a5184587f6631f8222d5f662fe82a4594761f42179bf",
+      "id": "ee6bf3b344f03cc3b85b8e399c429cb8101a605c0f380bda63de574cfd37c3ac",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T7",
+          "ar_raw": "1997-2023",
+          "kallrad": 3415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T8",
+      "variable": "Personalkostnader per anställd",
+      "register_version": "2021",
+      "source_task_id": "1229eb8e6be5cc8145042db07c2903161bf04fe8371b9c645f580b95064fcd49",
+      "id": "5b3925c38f4c24af958e9a563a460eb8d45cdbec30ef7442491e1f13dd191f15",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T8",
+          "ar_raw": "1997-2023",
+          "kallrad": 3416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T8",
+      "variable": "Personalkostnader per anställd",
+      "register_version": "2022",
+      "source_task_id": "1229eb8e6be5cc8145042db07c2903161bf04fe8371b9c645f580b95064fcd49",
+      "id": "8eefee07c3fba363298d9c9e38e8284f4214e0c75dc1494e0b461c46fa43c943",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T8",
+          "ar_raw": "1997-2023",
+          "kallrad": 3416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Ftg_T8",
+      "variable": "Personalkostnader per anställd",
+      "register_version": "2023",
+      "source_task_id": "1229eb8e6be5cc8145042db07c2903161bf04fe8371b9c645f580b95064fcd49",
+      "id": "b634b05b442b68d502f20b405ca68f7a1faffbcea8cff0204ce8dc95f8d86ece",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Ftg_T8",
+          "ar_raw": "1997-2023",
+          "kallrad": 3416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalPers",
+      "variable": "Antal anställda",
+      "register_version": "2022",
+      "source_task_id": "2935758ffb36cafb62fc9c003a986c06e6e13faea13e99fdb41bf5216d769a0a",
+      "id": "1fc5e68389f35e8e778e62d871c50095a20b749c66dfab3a72cdb88b5fef7d96",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalPers",
+          "ar_raw": "1997-2023",
+          "kallrad": 3417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalPers",
+      "variable": "Antal anställda",
+      "register_version": "2023",
+      "source_task_id": "2935758ffb36cafb62fc9c003a986c06e6e13faea13e99fdb41bf5216d769a0a",
+      "id": "4c35bfcd6e093ce74c22f6b185ded3a5dabff6fed623b40e2b132fdfad7f77d8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalPers",
+          "ar_raw": "1997-2023",
+          "kallrad": 3417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalPers",
+      "variable": "Antal anställda enligt kontrolluppgift",
+      "register_version": "2019",
+      "source_task_id": "0193c880eafd272a4e2a6b880e61a0d63ed42d5d7aab1e31d52917281f328a4d",
+      "id": "2195f7ec9972cd8030cee4ab38692e75ebccbdf15b7d4254e3eebc0f242ce56a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalPers",
+          "ar_raw": "1997-2023",
+          "kallrad": 3417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalPers",
+      "variable": "Antal anställda enligt kontrolluppgift",
+      "register_version": "2020",
+      "source_task_id": "0193c880eafd272a4e2a6b880e61a0d63ed42d5d7aab1e31d52917281f328a4d",
+      "id": "734f3df9cd9c1238442876fb2fed583704dc0754f1c1ad74b9b267b7193b07e0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalPers",
+          "ar_raw": "1997-2023",
+          "kallrad": 3417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalPers",
+      "variable": "Antal anställda enligt kontrolluppgift",
+      "register_version": "2021",
+      "source_task_id": "0193c880eafd272a4e2a6b880e61a0d63ed42d5d7aab1e31d52917281f328a4d",
+      "id": "a274b6bbd4da12d3e969cc39c2dd33465c999b6689c18c7e6751890e08266faf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalPers",
+          "ar_raw": "1997-2023",
+          "kallrad": 3417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalSys",
+      "variable": "Antal sysselsatta",
+      "register_version": "2021",
+      "source_task_id": "27b452dc75e62f67d2ae2b3c629730fce5b4af89c430f5f420aa792681b1be07",
+      "id": "7b5cc08771195766e7082c68d86956f13420638b3874ac474b5b9a217584c889",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalSys",
+          "ar_raw": "1997-2023",
+          "kallrad": 3418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalSys",
+      "variable": "Antal sysselsatta",
+      "register_version": "2022",
+      "source_task_id": "27b452dc75e62f67d2ae2b3c629730fce5b4af89c430f5f420aa792681b1be07",
+      "id": "37c102e9c688a43960ec88f540eeac9fe478b3a42fad1d05b204dadce1cc325b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalSys",
+          "ar_raw": "1997-2023",
+          "kallrad": 3418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_AntalSys",
+      "variable": "Antal sysselsatta",
+      "register_version": "2023",
+      "source_task_id": "27b452dc75e62f67d2ae2b3c629730fce5b4af89c430f5f420aa792681b1be07",
+      "id": "772f3f6fc89ce3ebbd903d036ede962406c638bf942dd94c34122a05d56bb1bf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_AntalSys",
+          "ar_raw": "1997-2023",
+          "kallrad": 3418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_InstKod",
+      "variable": "Institutionell sektorkod (företag)",
+      "register_version": "1997",
+      "source_task_id": "ab100daf3778df25f692b63584a56d6158741342b836bede35ed1f87af11279f",
+      "id": "28cbce69adfcd3548795f9d02851f0509f7ce42585d9fb5613238f4cb99008f7",
+      "domain_id": "24a88e51455ae92756d507ec790a847d9e17cb1c5da7445ff4e13ab6837683f8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_InstKod",
+          "ar_raw": "1997-1998",
+          "kallrad": 3419,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_InstKod",
+      "variable": "Institutionell sektorkod (företag)",
+      "register_version": "1998",
+      "source_task_id": "ab100daf3778df25f692b63584a56d6158741342b836bede35ed1f87af11279f",
+      "id": "3eb39d37f257e54b7a0459167310cb1a85f6c557a11627700a9575fdfd8650c1",
+      "domain_id": "24a88e51455ae92756d507ec790a847d9e17cb1c5da7445ff4e13ab6837683f8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_InstKod",
+          "ar_raw": "1997-1998",
+          "kallrad": 3419,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_InstKod7",
+      "variable": "Institutionell sektorkod (företag)",
+      "register_version": "2011",
+      "source_task_id": "58df891e7cc7723df2cde27f15c85a4ffd4fa7c3a03b29dd88a30f21acb1897d",
+      "id": "915ad3b646f6348325554e85765b31f219a2883809a7b22686c847dd13592da2",
+      "domain_id": "7a8d463c83148f29081b17d685f1ef14648fccb72d61c132a021a52329ecb273",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_InstKod7",
+          "ar_raw": "2001-2013",
+          "kallrad": 3422,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_InstKod7",
+      "variable": "Institutionell sektorkod (företag)",
+      "register_version": "2012",
+      "source_task_id": "58df891e7cc7723df2cde27f15c85a4ffd4fa7c3a03b29dd88a30f21acb1897d",
+      "id": "b4dc945d82b73ba26123835e9c11cf59e8b704f35460ec84e510085993b0a4a8",
+      "domain_id": "7a8d463c83148f29081b17d685f1ef14648fccb72d61c132a021a52329ecb273",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_InstKod7",
+          "ar_raw": "2001-2013",
+          "kallrad": 3422,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_InstKod7",
+      "variable": "Institutionell sektorkod (företag)",
+      "register_version": "2013",
+      "source_task_id": "58df891e7cc7723df2cde27f15c85a4ffd4fa7c3a03b29dd88a30f21acb1897d",
+      "id": "c2906331e401dcc5234119c4bd057002ff859799207414980343524752bc98a6",
+      "domain_id": "7a8d463c83148f29081b17d685f1ef14648fccb72d61c132a021a52329ecb273",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_InstKod7",
+          "ar_raw": "2001-2013",
+          "kallrad": 3422,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Kv",
+      "variable": "Antal kvinnor på företaget",
+      "register_version": "2021",
+      "source_task_id": "058d2cfadef07fa6aa6341912a092fab765a114e6313544e068e84ea0f30a752",
+      "id": "fb27a782dcb731c889ca45ba7327d19dd70b604be89993768878cc2abb2cafed",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Kv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3423,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Kv",
+      "variable": "Antal kvinnor på företaget",
+      "register_version": "2022",
+      "source_task_id": "058d2cfadef07fa6aa6341912a092fab765a114e6313544e068e84ea0f30a752",
+      "id": "eee47e8711ededdc907717a9f86283b889d43c8457c4012de97b4fa0d24cf865",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Kv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3423,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Kv",
+      "variable": "Antal kvinnor på företaget",
+      "register_version": "2023",
+      "source_task_id": "058d2cfadef07fa6aa6341912a092fab765a114e6313544e068e84ea0f30a752",
+      "id": "a9699c2b02a2601fb9bac2d72cca52681883729f1488db0c462645e8f6deb633",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Kv",
+          "ar_raw": "1997-2023",
+          "kallrad": 3423,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnK",
+      "variable": "Antal kvinnor på företaget med kort eftergymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "e9f333d495bac46a0faf1dd495c1ce16fda26d0e35e1e499eaeac6091419edb5",
+      "id": "4dcc11d52bff2e2fe25b66d763de0e1bb96d2c4338c9b12d39249301c31d164c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3424,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnK",
+      "variable": "Antal kvinnor på företaget med kort eftergymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "e9f333d495bac46a0faf1dd495c1ce16fda26d0e35e1e499eaeac6091419edb5",
+      "id": "298a11ba02dd92de3272d38ba5d669137e6e7ffc89816fec31af39232a445a47",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3424,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnK",
+      "variable": "Antal kvinnor på företaget med kort eftergymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "e9f333d495bac46a0faf1dd495c1ce16fda26d0e35e1e499eaeac6091419edb5",
+      "id": "bc25516d9881a6a61f3ad5bf4f127635a779b3fa1d4da02e9eba88a5184ec087",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3424,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnL",
+      "variable": "Antal kvinnor på företaget med lång eftergymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "03585b9a6cc88577bef4305f905efe448575114fd773325a14d8d09451c3bb07",
+      "id": "cb44391ac2ea594bcee2454f93de83cdde9ffe4cc878ebe4b57da7a86891f15f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnL",
+      "variable": "Antal kvinnor på företaget med lång eftergymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "03585b9a6cc88577bef4305f905efe448575114fd773325a14d8d09451c3bb07",
+      "id": "6568ac3fe12b57f91d487a40e1747caf2f6a98a10289aac962be9ac16115bb54",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvEGymnL",
+      "variable": "Antal kvinnor på företaget med lång eftergymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "03585b9a6cc88577bef4305f905efe448575114fd773325a14d8d09451c3bb07",
+      "id": "15368d2488037582ccf3c405535324ca19395c2b309e88eb7b59f118ccb339db",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvForGymn",
+      "variable": "Antal kvinnor på företaget med förgymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "be10de475bb55b5cb8d961167c4d1c8561d3839dab0e9154169fcf4337efbd78",
+      "id": "d6671eccaa3562043ecb940b61939d205ab6faa0c71f58e1403582f9811027d1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3426,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvForGymn",
+      "variable": "Antal kvinnor på företaget med förgymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "be10de475bb55b5cb8d961167c4d1c8561d3839dab0e9154169fcf4337efbd78",
+      "id": "260f493faff7c55021ddfd8f2e0ceb96390370ad016820dbc1ff0d554eefeb63",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3426,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvForGymn",
+      "variable": "Antal kvinnor på företaget med förgymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "be10de475bb55b5cb8d961167c4d1c8561d3839dab0e9154169fcf4337efbd78",
+      "id": "4d98638a0db1cfaacb88cb5cde50b746cb0611fed6c5597bc3767282d66036dc",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3426,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvGymn",
+      "variable": "Antal kvinnor på företaget med gymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "ab037bfecc2802895898cdbb2e5d1afa731c1886ffacbb58ebbddc059c857c5c",
+      "id": "dff58933bf75050bb7ed95eadcb2e88e3f24b6f46499522746e4a8ba88793348",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3427,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvGymn",
+      "variable": "Antal kvinnor på företaget med gymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "ab037bfecc2802895898cdbb2e5d1afa731c1886ffacbb58ebbddc059c857c5c",
+      "id": "df3d37650910fcf89f97a2cd801d834286e1d6219a64117fba3e8167b88e41a0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3427,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvGymn",
+      "variable": "Antal kvinnor på företaget med gymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "ab037bfecc2802895898cdbb2e5d1afa731c1886ffacbb58ebbddc059c857c5c",
+      "id": "0b4f58743a553499acd6df8849efef49008b323d578b82d242c95e7c902e0012",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3427,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvOkand",
+      "variable": "Antal kvinnor på företaget med okänd utbildning",
+      "register_version": "2021",
+      "source_task_id": "28713f78258890fc8068a4c87ab803959a73eb4286ec8b0df4b70f3252c3f49c",
+      "id": "44bd3d8e3b45eaf696e03eaca5d33c10092342b038c4efe5d6c7e750b27e56f1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3428,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvOkand",
+      "variable": "Antal kvinnor på företaget med okänd utbildning",
+      "register_version": "2022",
+      "source_task_id": "28713f78258890fc8068a4c87ab803959a73eb4286ec8b0df4b70f3252c3f49c",
+      "id": "b8f7f85af58a33b93de7cca37c7b650f8dd104f049af9b04db6581c7710ce237",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3428,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_KvOkand",
+      "variable": "Antal kvinnor på företaget med okänd utbildning",
+      "register_version": "2023",
+      "source_task_id": "28713f78258890fc8068a4c87ab803959a73eb4286ec8b0df4b70f3252c3f49c",
+      "id": "16c7285e2fd1a73240fc29178322be640d440e64d1f0cb64c5c1f96c2b5a8ed1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_KvOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3428,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Men",
+      "variable": "Antal män på företaget",
+      "register_version": "2021",
+      "source_task_id": "63264ff87838b50b483b16ec23f89b65ef91083e2115d5ad02b21f65ca1bf209",
+      "id": "196ffeb1b627620a820e759df176a8e33c19a36cbab2b1a517019091379b7fdb",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Men",
+          "ar_raw": "1997-2023",
+          "kallrad": 3429,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Men",
+      "variable": "Antal män på företaget",
+      "register_version": "2022",
+      "source_task_id": "63264ff87838b50b483b16ec23f89b65ef91083e2115d5ad02b21f65ca1bf209",
+      "id": "14b2f7aaa55984e053d68ef308aec8fab957e880a551c0dd41879b6993a12c1c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Men",
+          "ar_raw": "1997-2023",
+          "kallrad": 3429,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Men",
+      "variable": "Antal män på företaget",
+      "register_version": "2023",
+      "source_task_id": "63264ff87838b50b483b16ec23f89b65ef91083e2115d5ad02b21f65ca1bf209",
+      "id": "e7d89776ab89c0a7743e15a8d8aac0e67a9d6516dec86d5d2252b2464f323ddf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Men",
+          "ar_raw": "1997-2023",
+          "kallrad": 3429,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnK",
+      "variable": "Antal män på företaget med kort eftergymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "b47aac37a0cc597af97ca85da0cae65b6180a79b14fa33931913b2bb1a9c68ee",
+      "id": "19a39246358f2448c3822ac99302d934fa55ced51c3da2256eb2d8b0cab11938",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3430,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnK",
+      "variable": "Antal män på företaget med kort eftergymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "b47aac37a0cc597af97ca85da0cae65b6180a79b14fa33931913b2bb1a9c68ee",
+      "id": "6502abec3e4b2aa393c5601e22766650fb558ef4ddbcb01cbc968c44d1966cf8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3430,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnK",
+      "variable": "Antal män på företaget med kort eftergymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "b47aac37a0cc597af97ca85da0cae65b6180a79b14fa33931913b2bb1a9c68ee",
+      "id": "508b172e7badeeaf0490e60679a00a6793f892bf5c26524abd39d4933c7d45f2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnK",
+          "ar_raw": "1997-2023",
+          "kallrad": 3430,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnL",
+      "variable": "Antal män på företaget med lång eftergymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "c4a43fa68b945912af5392d9efac3ab98d2536a5c3a84ae2f30c1d65c7c563a9",
+      "id": "bd3eba9f883bd1ec3877f9864e1bd12cf223789ba854ca753160a1c2a560778f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3431,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnL",
+      "variable": "Antal män på företaget med lång eftergymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "c4a43fa68b945912af5392d9efac3ab98d2536a5c3a84ae2f30c1d65c7c563a9",
+      "id": "532620d8ab5feae6902255b1608a1d1d5c221ff4ff18766547b2f1b1164fc68f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3431,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenEGymnL",
+      "variable": "Antal män på företaget med lång eftergymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "c4a43fa68b945912af5392d9efac3ab98d2536a5c3a84ae2f30c1d65c7c563a9",
+      "id": "7bad5a7eb84ad4e8545d094d7e7144b30971446234bf0c1bf101bba6d0d33e30",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenEGymnL",
+          "ar_raw": "1997-2023",
+          "kallrad": 3431,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenForGymn",
+      "variable": "Antal män på företaget med förgymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "d001d0c9b313865dbabe171d8020ef58c58c88a79ab96654663835f3b12ff087",
+      "id": "5751d9c3bbedd025d7621fc5d7790ea631603405e4b1ec6baee8cfe29581248b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3432,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenForGymn",
+      "variable": "Antal män på företaget med förgymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "d001d0c9b313865dbabe171d8020ef58c58c88a79ab96654663835f3b12ff087",
+      "id": "40cc76b5a15c300161f18c65c8fa76b2f250e55b8cb5568de0d166a30e8b5238",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3432,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenForGymn",
+      "variable": "Antal män på företaget med förgymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "d001d0c9b313865dbabe171d8020ef58c58c88a79ab96654663835f3b12ff087",
+      "id": "8014484a8637c3d91783ebd1fa14ee3d409a390a01ccf0ea2999e5a5cd417313",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenForGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3432,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenGymn",
+      "variable": "Antal män på företaget med gymnasial utbildning",
+      "register_version": "2021",
+      "source_task_id": "fa8e5fca7255d7ccc4e4011aaceb070de05b12d2317e4e02bf5602b38d27da0f",
+      "id": "5bc4e9b6d02066bf8f40af7d936bd5ae6ae5795af05018bce107594947c35dd7",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3433,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenGymn",
+      "variable": "Antal män på företaget med gymnasial utbildning",
+      "register_version": "2022",
+      "source_task_id": "fa8e5fca7255d7ccc4e4011aaceb070de05b12d2317e4e02bf5602b38d27da0f",
+      "id": "6f7c22be71cfb24266c85345defd73bd3f7a1a07606a844d2f250e323da52b09",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3433,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenGymn",
+      "variable": "Antal män på företaget med gymnasial utbildning",
+      "register_version": "2023",
+      "source_task_id": "fa8e5fca7255d7ccc4e4011aaceb070de05b12d2317e4e02bf5602b38d27da0f",
+      "id": "1ba24647fc7d4c48d388c41a931ee51fa15a957c2551380d6af16fc1978ee30b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenGymn",
+          "ar_raw": "1997-2023",
+          "kallrad": 3433,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenOkand",
+      "variable": "Antal män på företaget med okänd utbildning",
+      "register_version": "2021",
+      "source_task_id": "3c0601d5c40d5d28c5e4c066674958e92e4543b1d1d0cd2fbc8d87f892f98757",
+      "id": "379f98dc1241730618915996cfede90d5b4995efc4cea0a723885836813a56e3",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3434,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenOkand",
+      "variable": "Antal män på företaget med okänd utbildning",
+      "register_version": "2022",
+      "source_task_id": "3c0601d5c40d5d28c5e4c066674958e92e4543b1d1d0cd2fbc8d87f892f98757",
+      "id": "d29f591c215099c25a9c0a81a1fd87e0fc2e61821167d2386988835839523961",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3434,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_MenOkand",
+      "variable": "Antal män på företaget med okänd utbildning",
+      "register_version": "2023",
+      "source_task_id": "3c0601d5c40d5d28c5e4c066674958e92e4543b1d1d0cd2fbc8d87f892f98757",
+      "id": "67d7e044920d194bf9f87b6ef65fe7dace74a5a69b758adda0d7c599f00815fd",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_MenOkand",
+          "ar_raw": "2017-2023",
+          "kallrad": 3434,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SateKommun",
+      "variable": "Säteskommun",
+      "register_version": "2021",
+      "source_task_id": "f76d1cf119c72db6b458754d2fadce64d31bc2afffb30416d46715266f997ecb",
+      "id": "4fef27352876cceee8eb487a78cba30890b787f23257bfd7c9a4c94952736b04",
+      "domain_id": "40bde95ac8b1397460b8ec9b229534d1d688c06137702ca08013628adea25562",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SateKommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3435,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SateKommun",
+      "variable": "Säteskommun",
+      "register_version": "2022",
+      "source_task_id": "f76d1cf119c72db6b458754d2fadce64d31bc2afffb30416d46715266f997ecb",
+      "id": "5145e4d5f99c8f8269c1bb2a47062cb8d51b0f64ade66a427b8cd8c2ddba806b",
+      "domain_id": "1ed7c3e2b5c8b744b0d947e2a57f1ae8020ea09f8b5a9fc1a3a413b5a90d3b6e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SateKommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3435,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SateKommun",
+      "variable": "Säteskommun",
+      "register_version": "2023",
+      "source_task_id": "f76d1cf119c72db6b458754d2fadce64d31bc2afffb30416d46715266f997ecb",
+      "id": "6713f80505377c44d4467e55f7a61d272b8b088092b4eae1d83fe530b62286b0",
+      "domain_id": "c5d70bbe97a2f80c18fab9990b4098283346c93a6e5a9f34424a591aee4c20e9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SateKommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3435,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SektorKod",
+      "variable": "Sektorkod",
+      "register_version": "2020",
+      "source_task_id": "0e52cda9127f1ec6d1d83eb6a77e7f0b31a912ad9b756d345d95c11fc59c1e85",
+      "id": "6ca1bdd1fc6f69975e963e785263267ffab13c96a66d471236828fad473213c2",
+      "domain_id": "b741bc46d30c576d168a89901c72f78088dc35f6d54ff6c4485f931f613653da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SektorKod",
+          "ar_raw": "2003-2023",
+          "kallrad": 3436,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SektorKod",
+      "variable": "Sektorkod",
+      "register_version": "2021",
+      "source_task_id": "0e52cda9127f1ec6d1d83eb6a77e7f0b31a912ad9b756d345d95c11fc59c1e85",
+      "id": "87e890a25ad4c00f488bcbf5fae6dcb799694fc82bc94ac11c5d5cb2b4a29188",
+      "domain_id": "b741bc46d30c576d168a89901c72f78088dc35f6d54ff6c4485f931f613653da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SektorKod",
+          "ar_raw": "2003-2023",
+          "kallrad": 3436,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_SektorKod",
+      "variable": "Sektorkod",
+      "register_version": "2023",
+      "source_task_id": "0e52cda9127f1ec6d1d83eb6a77e7f0b31a912ad9b756d345d95c11fc59c1e85",
+      "id": "ff49fc5fbf658212025b1d3c8bab3237451f13e548991654dd7d38749d36d0ff",
+      "domain_id": "b741bc46d30c576d168a89901c72f78088dc35f6d54ff6c4485f931f613653da",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_SektorKod",
+          "ar_raw": "2003-2023",
+          "kallrad": 3436,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2002",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2008",
+      "source_task_id": "d8a57849697158deb4fa215708b01dd6b3feccb848a06e468f697059bba2cb78",
+      "id": "b67aa22c8d1e233c7630fb5951d8a911883743f855b4879169c3997d5211fbfe",
+      "domain_id": "906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2002",
+          "ar_raw": "2002-2010",
+          "kallrad": 3437,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2002",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2009",
+      "source_task_id": "d8a57849697158deb4fa215708b01dd6b3feccb848a06e468f697059bba2cb78",
+      "id": "3e44f05e6d47105fa7bb69ba82bf1ef68994aa9a9ce3d74051957b0363876826",
+      "domain_id": "906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2002",
+          "ar_raw": "2002-2010",
+          "kallrad": 3437,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2002",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2010",
+      "source_task_id": "d8a57849697158deb4fa215708b01dd6b3feccb848a06e468f697059bba2cb78",
+      "id": "3557081cf5043d062d0a08a5d20a0274c50eb7ee789a7474a90785d93940f52a",
+      "domain_id": "906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2002",
+          "ar_raw": "2002-2010",
+          "kallrad": 3437,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2007",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2021",
+      "source_task_id": "18032b4a1770bd7ea25a0b10f56836f931d4c3a3fe5017fea796a8e95b8e6f2b",
+      "id": "aeb8a6bc8689c3a46d9d68219c389e7408552907cfc4baac229093f909a02b3c",
+      "domain_id": "224cdcb46e7c4814f753730e04f17a4825408bb76b6d6ff48a1d6caca5042c81",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2007",
+          "ar_raw": "2008-2023",
+          "kallrad": 3438,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2007",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2022",
+      "source_task_id": "18032b4a1770bd7ea25a0b10f56836f931d4c3a3fe5017fea796a8e95b8e6f2b",
+      "id": "448abd26fef059675c163bf05c4fed35116015492ae405ca9e4effcc5c875840",
+      "domain_id": "224cdcb46e7c4814f753730e04f17a4825408bb76b6d6ff48a1d6caca5042c81",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2007",
+          "ar_raw": "2008-2023",
+          "kallrad": 3438,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni2007",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2023",
+      "source_task_id": "18032b4a1770bd7ea25a0b10f56836f931d4c3a3fe5017fea796a8e95b8e6f2b",
+      "id": "28551084c15418411901910f1bd9c6db9524176ab3a17ff71b30151a58c195d9",
+      "domain_id": "224cdcb46e7c4814f753730e04f17a4825408bb76b6d6ff48a1d6caca5042c81",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni2007",
+          "ar_raw": "2008-2023",
+          "kallrad": 3438,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni92",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "1999",
+      "source_task_id": "ddb0a55e46094ba391dd632dc1322504016cfce6a9f51ff2fd287e4debf34244",
+      "id": "3ef209a3401f0aa70d2c47937c15e1076507d13bb2e37bbca4ffc94cef0d99a7",
+      "domain_id": "271c84fea6ce88028ec28a72596eb8325c36c9524edad36b81fa4ce48b00a199",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni92",
+          "ar_raw": "1997-2001",
+          "kallrad": 3439,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni92",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2000",
+      "source_task_id": "ddb0a55e46094ba391dd632dc1322504016cfce6a9f51ff2fd287e4debf34244",
+      "id": "47afd6ef1c960e0f863780d0567b7f5c5e85b87ae5216b8f6206766038fdfae5",
+      "domain_id": "271c84fea6ce88028ec28a72596eb8325c36c9524edad36b81fa4ce48b00a199",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni92",
+          "ar_raw": "1997-2001",
+          "kallrad": 3439,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Sni92",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2001",
+      "source_task_id": "ddb0a55e46094ba391dd632dc1322504016cfce6a9f51ff2fd287e4debf34244",
+      "id": "aef6481d686ccb643be43b34ca68bc9d141bf4d03b414ef89211e258810c1055",
+      "domain_id": "271c84fea6ce88028ec28a72596eb8325c36c9524edad36b81fa4ce48b00a199",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Sni92",
+          "ar_raw": "1997-2001",
+          "kallrad": 3439,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Typ",
+      "variable": "Typ av företag",
+      "register_version": "2020",
+      "source_task_id": "c02e63aa95212ab3ccf0d0dfd336f1748963970445912364a2dae6a5883a435d",
+      "id": "57925d150f879db4286572efdae534b5b928feec4f41f95d56d0c5094a2c7a0d",
+      "domain_id": "3b44c4f84cefb9cb803888e6d3e54668f2f2b50639415c3e631594fb71caf1c6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Typ",
+          "ar_raw": "1997-2023",
+          "kallrad": 3440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Typ",
+      "variable": "Typ av företag",
+      "register_version": "2021",
+      "source_task_id": "c02e63aa95212ab3ccf0d0dfd336f1748963970445912364a2dae6a5883a435d",
+      "id": "cdcc591a6cb6cb171f69bd41ed5a1a5c2f77c2ae7e9e951659a062c533de2c89",
+      "domain_id": "3b44c4f84cefb9cb803888e6d3e54668f2f2b50639415c3e631594fb71caf1c6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Typ",
+          "ar_raw": "1997-2023",
+          "kallrad": 3440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_Typ",
+      "variable": "Typ av företag",
+      "register_version": "2023",
+      "source_task_id": "c02e63aa95212ab3ccf0d0dfd336f1748963970445912364a2dae6a5883a435d",
+      "id": "6415601c1745fc47e0dcf90ce67cdcfdca8086b568bbea55e70c523931ac4dd9",
+      "domain_id": "5a2e19be091047f5bbdebc4956da02ba0ce34f7cf7cf81578fc7260a9fd2ad66",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_Typ",
+          "ar_raw": "1997-2023",
+          "kallrad": 3440,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_TypBAS",
+      "variable": "Typ av företag",
+      "register_version": "2022",
+      "source_task_id": "3654d5a1eef2748bcb8e7d7341c343879247c3c70ac13dd9c4a285b276873cbc",
+      "id": "096a118565757572f7882c7a78d92eb68ef1be21a0bece3f9135174ab65bf429",
+      "domain_id": "e85bc5461c96c0ab7f2e7698dd5238b5123438101097ff8e874621ecfe8b4a38",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_TypBAS",
+          "ar_raw": "2022-2023",
+          "kallrad": 3441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Företag",
+      "column": "Org_TypBAS",
+      "variable": "Typ av företag",
+      "register_version": "2023",
+      "source_task_id": "3654d5a1eef2748bcb8e7d7341c343879247c3c70ac13dd9c4a285b276873cbc",
+      "id": "8493b6976c6747011a4556dcb50483a8328cc47764f5cfad37518db8857c03fe",
+      "domain_id": "e85bc5461c96c0ab7f2e7698dd5238b5123438101097ff8e874621ecfe8b4a38",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:26:47+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_ftg",
+          "variabel": "Org_TypBAS",
+          "ar_raw": "2022-2023",
+          "kallrad": 3441,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false
+    }
+  ],
+  "domains": [
+    {
+      "version": "2023-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "1ed7c3e2b5c8b744b0d947e2a57f1ae8020ea09f8b5a9fc1a3a413b5a90d3b6e",
+      "value_count": 292,
+      "path": "data/value-domain-values/1ed7c3e2b5c8b744b0d947e2a57f1ae8020ea09f8b5a9fc1a3a413b5a90d3b6e.json"
+    },
+    {
+      "version": "SNI 2007, Branscher, alternativ",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "224cdcb46e7c4814f753730e04f17a4825408bb76b6d6ff48a1d6caca5042c81",
+      "value_count": 822,
+      "path": "data/value-domain-values/224cdcb46e7c4814f753730e04f17a4825408bb76b6d6ff48a1d6caca5042c81.json"
+    },
+    {
+      "version": "Enhetsindelning 1968",
+      "level": "5-siffrig kod  ",
+      "data_type": "char(5)",
+      "id": "24a88e51455ae92756d507ec790a847d9e17cb1c5da7445ff4e13ab6837683f8",
+      "value_count": 130,
+      "path": "data/value-domain-values/24a88e51455ae92756d507ec790a847d9e17cb1c5da7445ff4e13ab6837683f8.json"
+    },
+    {
+      "version": "Svensk standard för näringsgrensindelning, brancher SNI 92",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "271c84fea6ce88028ec28a72596eb8325c36c9524edad36b81fa4ce48b00a199",
+      "value_count": 756,
+      "path": "data/value-domain-values/271c84fea6ce88028ec28a72596eb8325c36c9524edad36b81fa4ce48b00a199.json"
+    },
+    {
+      "version": "Typ av företag",
+      "level": "Typ av företag",
+      "data_type": "char(1)",
+      "id": "3b44c4f84cefb9cb803888e6d3e54668f2f2b50639415c3e631594fb71caf1c6",
+      "value_count": 2,
+      "path": "data/value-domain-values/3b44c4f84cefb9cb803888e6d3e54668f2f2b50639415c3e631594fb71caf1c6.json"
+    },
+    {
+      "version": "2022-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "40bde95ac8b1397460b8ec9b229534d1d688c06137702ca08013628adea25562",
+      "value_count": 291,
+      "path": "data/value-domain-values/40bde95ac8b1397460b8ec9b229534d1d688c06137702ca08013628adea25562.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    },
+    {
+      "version": "Typ av företag",
+      "level": "Typ av företag",
+      "data_type": "varchar(1)",
+      "id": "5a2e19be091047f5bbdebc4956da02ba0ce34f7cf7cf81578fc7260a9fd2ad66",
+      "value_count": 2,
+      "path": "data/value-domain-values/5a2e19be091047f5bbdebc4956da02ba0ce34f7cf7cf81578fc7260a9fd2ad66.json"
+    },
+    {
+      "version": "Enhetsindelning 2000",
+      "level": "7-siffrig kod  ",
+      "data_type": "char(7)",
+      "id": "7a8d463c83148f29081b17d685f1ef14648fccb72d61c132a021a52329ecb273",
+      "value_count": 254,
+      "path": "data/value-domain-values/7a8d463c83148f29081b17d685f1ef14648fccb72d61c132a021a52329ecb273.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "numeric",
+      "id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "value_count": 0,
+      "path": "data/value-domain-values/8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800.json"
+    },
+    {
+      "version": "Standard för svensk näringsgrensindelning, 2002 Branscher",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d",
+      "value_count": 778,
+      "path": "data/value-domain-values/906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d.json"
+    },
+    {
+      "version": "Sektor 2000",
+      "level": "Sektorkod",
+      "data_type": "char(2)",
+      "id": "b741bc46d30c576d168a89901c72f78088dc35f6d54ff6c4485f931f613653da",
+      "value_count": 11,
+      "path": "data/value-domain-values/b741bc46d30c576d168a89901c72f78088dc35f6d54ff6c4485f931f613653da.json"
+    },
+    {
+      "version": "2024-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c5d70bbe97a2f80c18fab9990b4098283346c93a6e5a9f34424a591aee4c20e9",
+      "value_count": 292,
+      "path": "data/value-domain-values/c5d70bbe97a2f80c18fab9990b4098283346c93a6e5a9f34424a591aee4c20e9.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(5)",
+      "id": "e3be797989c3b840373f0f36361419a6aae53d3f76a28d08a84339ed6f175dcd",
+      "value_count": 0,
+      "path": "data/value-domain-values/e3be797989c3b840373f0f36361419a6aae53d3f76a28d08a84339ed6f175dcd.json"
+    },
+    {
+      "version": "Typ av företag",
+      "level": "Typ av företag",
+      "data_type": "char(1)",
+      "id": "e85bc5461c96c0ab7f2e7698dd5238b5123438101097ff8e874621ecfe8b4a38",
+      "value_count": 4,
+      "path": "data/value-domain-values/e85bc5461c96c0ab7f2e7698dd5238b5123438101097ff8e874621ecfe8b4a38.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "int",
+      "id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "value_count": 0,
+      "path": "data/value-domain-values/fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145.json"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "b0633571a645d13d47f7ea76557438c37ca8e5b83148e83188f51547ce8629ca",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:26:47+00:00",
+    "task_count": 69,
+    "expected_bindings": 1541,
+    "errors": [
+      "Org_InstKod10 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}",
+      "Org_InstKod6 2000: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 1999', 'Vardemangdsniva': '6-siffrig kod  ', 'Vardekod': '110922', 'Vardebenamning': 'Icke-finansiella företag Övrigt ägande Partrederier', 'Kolumnnamn': None, 'Datatyp': None}",
+      "Org_InstKod10 2022: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}",
+      "Org_InstKod6 1999: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 1999', 'Vardemangdsniva': '6-siffrig kod  ', 'Vardekod': '110922', 'Vardebenamning': 'Icke-finansiella företag Övrigt ägande Partrederier', 'Kolumnnamn': None, 'Datatyp': None}",
+      "Org_InstKod10 2021: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}"
+    ]
+  }
+}

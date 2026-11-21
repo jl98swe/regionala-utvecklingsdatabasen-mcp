@@ -1,0 +1,528 @@
+{
+  "version": "Enhetsindelning 1968",
+  "level": "5-siffrig kod  ",
+  "data_type": "char(5)",
+  "values": [
+    {
+      "code": "00000",
+      "label": "Okänt"
+    },
+    {
+      "code": "11181",
+      "label": "Statlig förvaltning Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "11189",
+      "label": "Statlig förvaltning Statligt ägande Regionala statliga myndigh.; skatteadm."
+    },
+    {
+      "code": "12000",
+      "label": "Borgerlig kommunal förvaltning Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "12282",
+      "label": "Borgerlig kommunal förvaltning Kommunalt ägande Primärkommuner, borgerliga"
+    },
+    {
+      "code": "12283",
+      "label": "Borgerlig kommunal förvaltning Kommunalt ägande Kommunalförbund"
+    },
+    {
+      "code": "12284",
+      "label": "Borgerlig kommunal Kommunalt ägande Landsting"
+    },
+    {
+      "code": "13000",
+      "label": "Kyrklig kommunal förvaltning Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "13286",
+      "label": "Kyrklig kommunal förvaltning Kommunalt ägande Enheter inom svenska kyrkan"
+    },
+    {
+      "code": "14172",
+      "label": "Socialförsäkring Statligt ägande Övr. stiftelser"
+    },
+    {
+      "code": "14198",
+      "label": "Socialförsäkring Statlig ägare Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "14285",
+      "label": "Socialförsäkring Kommunalt ägande Allmänna försäkringskassor"
+    },
+    {
+      "code": "14995",
+      "label": "Socialförsäkring Övrigt ägande Erkända arbetslöshetskassor"
+    },
+    {
+      "code": "15000",
+      "label": "Övriga offentliga institutioner Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "15161",
+      "label": "Övr. off. inst. Statligt ägande Ideella föreningar"
+    },
+    {
+      "code": "15172",
+      "label": "Övr. off. inst. Statligt ägande Övr. stiftelser"
+    },
+    {
+      "code": "15181",
+      "label": "Övriga offentliga institutioner Statlig ägande Statliga enheter"
+    },
+    {
+      "code": "15187",
+      "label": "Övr. off. inst. Statligt ägande Off. korporationer och anstalter"
+    },
+    {
+      "code": "15198",
+      "label": "Övriga offentliga institutioner Statlig ägare Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "15251",
+      "label": "Övr. off. inst. Kommunalt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "15261",
+      "label": "Övr. off. inst. Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "15272",
+      "label": "Övr. off. inst. Kommunalt ägande Övr. stiftelser"
+    },
+    {
+      "code": "15287",
+      "label": "Övriga offentliga institutioner Kommunalt ägande Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "15296",
+      "label": "Övriga offentliga institutioner Kommunalt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "15961",
+      "label": "Övr. off. inst. Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "15972",
+      "label": "Övr. off. inst. Övrigt ägande Övr. stiftelser"
+    },
+    {
+      "code": "21000",
+      "label": "Företag Okänd ägare Okänd"
+    },
+    {
+      "code": "21131",
+      "label": "Företag Statligt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "21149",
+      "label": "Företag Statligt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "21151",
+      "label": "Företag Statlig ägande Ekonomiska föreningar exkl. bostadsrättsföreningar"
+    },
+    {
+      "code": "21172",
+      "label": "Företag Statlig ägare Övriga stiftelser"
+    },
+    {
+      "code": "21181",
+      "label": "Företag Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "21231",
+      "label": "Företag Kommunalt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "21249",
+      "label": "Företag Kommunalt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "21251",
+      "label": "Företag Kommunalt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "21253",
+      "label": "Företag Kommunalt ägande Bostadsrättsföreningar"
+    },
+    {
+      "code": "21261",
+      "label": "Företag Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "21262",
+      "label": "Företag Kommunalt ägande Samfälligheter"
+    },
+    {
+      "code": "21272",
+      "label": "Företag Kommunalt ägande Övr. stiftelser"
+    },
+    {
+      "code": "21921",
+      "label": "Företag Övrigt ägande Enkelt bolag"
+    },
+    {
+      "code": "21922",
+      "label": "Företag Övrigt ägande Partrederi"
+    },
+    {
+      "code": "21931",
+      "label": "Företag Övrigt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "21932",
+      "label": "Företag Övrigt ägande Gruvbolag"
+    },
+    {
+      "code": "21941",
+      "label": "Företag Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "21949",
+      "label": "Företag Övrigt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "21951",
+      "label": "Företag Övrigt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "21952",
+      "label": "Företag Övrigt ägande Jordbrukets kredikassor"
+    },
+    {
+      "code": "21953",
+      "label": "Företag Övrigt ägande Bostadsrättsföreningar"
+    },
+    {
+      "code": "21961",
+      "label": "Företag Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "21962",
+      "label": "Företag Övrigt ägande Samfälligheter"
+    },
+    {
+      "code": "21971",
+      "label": "Företag Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "21972",
+      "label": "Företag Övrigt ägande Övr. stiftelser"
+    },
+    {
+      "code": "21991",
+      "label": "Företag Övrigt ägande Oskifta dödsbon"
+    },
+    {
+      "code": "21992",
+      "label": "Företag Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "21998",
+      "label": "Företag Övrigt ägande Övriga svenska juridiska personer"
+    },
+    {
+      "code": "21999",
+      "label": "Företag Övrigt ägande Jur. form ej utredd"
+    },
+    {
+      "code": "22921",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Enkelt bolag"
+    },
+    {
+      "code": "22949",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "22951",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "22952",
+      "label": "Företags intresseorganisationer m.m. Övrigt ägande Jordbrukets kredikassor"
+    },
+    {
+      "code": "22961",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "22962",
+      "label": "Företags intresseorganisationer m.m. Övrigt ägande Samfälligheter"
+    },
+    {
+      "code": "22971",
+      "label": "Företags intresseorganisationer m.m. Övrigt ägande  Familjestiftelser"
+    },
+    {
+      "code": "22972",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Övr. stiftelser"
+    },
+    {
+      "code": "22987",
+      "label": "Företags intresseorganisationer m.m. Övrigt ägande Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "22992",
+      "label": "Företags intresseorg. m.m. Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "22999",
+      "label": "Företags intresseorganisationer m.m. Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "23996",
+      "label": "Filialer till utländska företag Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "23999",
+      "label": "Filialer till utländska företag Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "31141",
+      "label": "Banker Statligt ägande Bankaktiebolag"
+    },
+    {
+      "code": "31181",
+      "label": "Banker Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "31921",
+      "label": "Banker  Övrigt ägande Enkelt bolag"
+    },
+    {
+      "code": "31941",
+      "label": "Banker Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "31949",
+      "label": "Banker Övrigt ägande Övriga Aktiebolag"
+    },
+    {
+      "code": "31952",
+      "label": "Banker Övrigt ägande Jordbrukets kredikassor"
+    },
+    {
+      "code": "31993",
+      "label": "Banker Övrigt ägande Sparbanker"
+    },
+    {
+      "code": "32149",
+      "label": "Andra finansinstitut Statligt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "32249",
+      "label": "Andra finansinstitut Kommunalt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "32931",
+      "label": "Andra finansinstitut Övrigt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "32949",
+      "label": "Andra finansinstitut Övrigt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "32951",
+      "label": "Andra finansinstitut Övrigt ägande Ekonomiska föreningar exkl. bostadsrättsföreningar"
+    },
+    {
+      "code": "32971",
+      "label": "Andra finansinstitut Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "32972",
+      "label": "Andra finansinstitut Övrigt ägande Övriga Stiftelser"
+    },
+    {
+      "code": "32988",
+      "label": "Andra finansinstitut Övrigt ägande Hypoteksföreningar"
+    },
+    {
+      "code": "32996",
+      "label": "Andra finansinstitut Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "32999",
+      "label": "Andra finansinstitut Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "33142",
+      "label": "Försäkringsinstitut Statligt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "33242",
+      "label": "Försäkringsinst. Kommunalt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "33261",
+      "label": "Försäkringsinstitut Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "33412",
+      "label": "Försäkringsinst. Statligt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "33941",
+      "label": "Försäkringsinstitut Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "33942",
+      "label": "Försäkringsinst. Övrigt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "33949",
+      "label": "Försäkringsinst. Övrigt ägande Övriga aktiebolag"
+    },
+    {
+      "code": "33951",
+      "label": "Försäkringsinstitut Övrigt ägande Ekonomiska föreningar exkl. bostadsrättsföreningar"
+    },
+    {
+      "code": "33972",
+      "label": "Försäkringsinstitut Övrigt ägande Övriga stiftelser"
+    },
+    {
+      "code": "33992",
+      "label": "Försäkringsinst. Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "33994",
+      "label": "Försäkringsinst. Övrigt ägande Understödsföreningar"
+    },
+    {
+      "code": "33996",
+      "label": "Försäkringsinst. Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "33998",
+      "label": "Försäkringsinstitut Övrigt ägande Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "33999",
+      "label": "Försäkringsinstitut Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "41000",
+      "label": "Personliga företag Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "41910",
+      "label": "Personliga företag Övrigt ägande Fysiska personer"
+    },
+    {
+      "code": "41921",
+      "label": "Personliga företag Övrigt ägande Enkelt bolag"
+    },
+    {
+      "code": "41991",
+      "label": "Personliga företag Övrigt ägande Oskifta dödsbon"
+    },
+    {
+      "code": "41992",
+      "label": "Personliga företag Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "41998",
+      "label": "Personliga företag Övrigt ägande Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "41999",
+      "label": "Personliga företag Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "42000",
+      "label": "Övriga hushåll Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "42971",
+      "label": "Övriga hushåll Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "50000",
+      "label": "Ideella föreningar, stiftelser m.m. Okänd ägare Okänd juridisk form"
+    },
+    {
+      "code": "50161",
+      "label": "Ideella föreningar, stiftelser m.m. Statlig ägande Ideella föreningar"
+    },
+    {
+      "code": "50172",
+      "label": "Ideella föreningar, stiftelser m.m. Statligt ägande Övriga stiftelser"
+    },
+    {
+      "code": "50251",
+      "label": "Ideella föreningar, stiftelser m.m. Kommunalt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "50261",
+      "label": "Ideella föreningar, stiftelser m.m. Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "50262",
+      "label": "Ideella föreningar, stiftelser m.m. Kommunalt ägande Samfälligheter"
+    },
+    {
+      "code": "50272",
+      "label": "Ideella föreningar, stiftelser m.m. Kommunalt ägande Övr. stiftelser"
+    },
+    {
+      "code": "50951",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Ekon. föreningar inkl. bosträttsför."
+    },
+    {
+      "code": "50952",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Jordbrukets kreditkassor"
+    },
+    {
+      "code": "50961",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "50962",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Samfälligheter"
+    },
+    {
+      "code": "50971",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "50972",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Övr. stiftelser"
+    },
+    {
+      "code": "50987",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "50992",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "50994",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Understödsföreningar"
+    },
+    {
+      "code": "50995",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Erkända arbetslöshetskassor"
+    },
+    {
+      "code": "50996",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "50998",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Övr. svenska juridiska personer"
+    },
+    {
+      "code": "50999",
+      "label": "Ideella föreningar, stiftelser m.m. Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "60996",
+      "label": "Utländska fysiska och juridiska personer Övrigt ägande Utländska juridiska personer"
+    }
+  ],
+  "id": "24a88e51455ae92756d507ec790a847d9e17cb1c5da7445ff4e13ab6837683f8"
+}

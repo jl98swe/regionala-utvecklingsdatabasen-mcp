@@ -1,0 +1,3120 @@
+{
+  "version": "Standard för svensk näringsgrensindelning, 2002 Branscher",
+  "level": "Detaljgrupp",
+  "data_type": "char(5)",
+  "values": [
+    {
+      "code": "00000",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "01111",
+      "label": "Spannmålsodlare m.fl."
+    },
+    {
+      "code": "01112",
+      "label": "Vallodlare"
+    },
+    {
+      "code": "01113",
+      "label": "Potatisodlare"
+    },
+    {
+      "code": "01114",
+      "label": "Sockerbetsodlare"
+    },
+    {
+      "code": "01115",
+      "label": "Odlare av jordbruksväxter, blandat"
+    },
+    {
+      "code": "01117",
+      "label": "Odlare av växter, blandat, mest jordbruksväxter"
+    },
+    {
+      "code": "01119",
+      "label": "Övriga odlare av jordbruksväxter"
+    },
+    {
+      "code": "01121",
+      "label": "Odlare av köksväxter på friland"
+    },
+    {
+      "code": "01122",
+      "label": "Odlare av plantskoleväxter m.m. på friland"
+    },
+    {
+      "code": "01123",
+      "label": "Odlare av köksväxter i växthus"
+    },
+    {
+      "code": "01124",
+      "label": "Odlare av prydnadsväxter i växthus"
+    },
+    {
+      "code": "01125",
+      "label": "Odlare av köks-, prydnads- och plantskoleväxter, blandat"
+    },
+    {
+      "code": "01127",
+      "label": "Odlare av växter, blandat, mest köks -, prydnads- och plantskoleväxter"
+    },
+    {
+      "code": "01129",
+      "label": "Svampodlare m.fl."
+    },
+    {
+      "code": "01131",
+      "label": "Frukt- och bärodlare"
+    },
+    {
+      "code": "01137",
+      "label": "Odlare av växter, blandat, mest frukt och bär"
+    },
+    {
+      "code": "01139",
+      "label": "Kryddväxtodlare m.fl.; bärplockare"
+    },
+    {
+      "code": "01211",
+      "label": "Mjölkproducenter"
+    },
+    {
+      "code": "01212",
+      "label": "Nötköttsproducenter"
+    },
+    {
+      "code": "01213",
+      "label": "Producenter av mjölk och nötkött, blandat"
+    },
+    {
+      "code": "01217",
+      "label": "Husdjursföretag, blandad drift, mest nötkreatur"
+    },
+    {
+      "code": "01221",
+      "label": "Fåruppfödare"
+    },
+    {
+      "code": "01222",
+      "label": "Getuppfödare"
+    },
+    {
+      "code": "01223",
+      "label": "Uppfödare av får och getter, blandat"
+    },
+    {
+      "code": "01227",
+      "label": "Husdjursföretag, blandad drift, mest får och getter"
+    },
+    {
+      "code": "01228",
+      "label": "Stuterier och andra hästuppfödare m.fl."
+    },
+    {
+      "code": "01231",
+      "label": "Smågrisuppfödare"
+    },
+    {
+      "code": "01232",
+      "label": "Slaktsvinsuppfödare"
+    },
+    {
+      "code": "01233",
+      "label": "Uppfödare av smågrisar och slaktsvin, blandat"
+    },
+    {
+      "code": "01237",
+      "label": "Husdjursföretag, blandad drift, mest svin"
+    },
+    {
+      "code": "01241",
+      "label": "Äggproducenter"
+    },
+    {
+      "code": "01242",
+      "label": "Slaktkycklingsuppfödare"
+    },
+    {
+      "code": "01243",
+      "label": "Fjäderfäföretag, blandad drift"
+    },
+    {
+      "code": "01247",
+      "label": "Husdjursföretag, blandad drift, mest fjäderfä"
+    },
+    {
+      "code": "01249",
+      "label": "Övriga fjäderfäföretag"
+    },
+    {
+      "code": "01251",
+      "label": "Renskötare"
+    },
+    {
+      "code": "01252",
+      "label": "Pälsdjursuppfödare"
+    },
+    {
+      "code": "01253",
+      "label": "Bi-, mask- och andra smådjursuppfödare"
+    },
+    {
+      "code": "01254",
+      "label": "Uppfödare av sällskapsdjur"
+    },
+    {
+      "code": "01259",
+      "label": "Andra djuruppfödare"
+    },
+    {
+      "code": "01300",
+      "label": "Blandat jordbruk"
+    },
+    {
+      "code": "01301",
+      "label": "Blandat jordbruk, mest växtodling"
+    },
+    {
+      "code": "01302",
+      "label": "Blandat jordbruk, mest husdjursskötsel"
+    },
+    {
+      "code": "01410",
+      "label": "Serviceföretag till växtodling"
+    },
+    {
+      "code": "01420",
+      "label": "Serviceföretag till djurskötsel utom veterinärer"
+    },
+    {
+      "code": "01500",
+      "label": "Jägare och viltvårdare inkl. serviceföretag"
+    },
+    {
+      "code": "01900",
+      "label": "Småbruk"
+    },
+    {
+      "code": "02011",
+      "label": "Skogsägare; producenter av skog på rot, leveransvirke m.m."
+    },
+    {
+      "code": "02012",
+      "label": "Skogsvårdsföretag"
+    },
+    {
+      "code": "02013",
+      "label": "Avverkningsföretag"
+    },
+    {
+      "code": "02014",
+      "label": "Skogsfröplantager och skogsplantskolor"
+    },
+    {
+      "code": "02019",
+      "label": "Övriga skogsbruksföretag"
+    },
+    {
+      "code": "02021",
+      "label": "Virkesmätningsföreningar"
+    },
+    {
+      "code": "02029",
+      "label": "Övriga serviceföretag till skogsbruk"
+    },
+    {
+      "code": "05011",
+      "label": "Trålfiskare, i saltvatten"
+    },
+    {
+      "code": "05012",
+      "label": "Övriga saltvattensfiskare"
+    },
+    {
+      "code": "05013",
+      "label": "Sötvattensfiskare"
+    },
+    {
+      "code": "05021",
+      "label": "Matfiskodlare"
+    },
+    {
+      "code": "05022",
+      "label": "Sättfiskodlare"
+    },
+    {
+      "code": "05023",
+      "label": "Kräftdjursodlare"
+    },
+    {
+      "code": "05024",
+      "label": "Blötdjursodlare"
+    },
+    {
+      "code": "05025",
+      "label": "Vattenväxtodlare"
+    },
+    {
+      "code": "10100",
+      "label": "Stenkolsgruvor"
+    },
+    {
+      "code": "10200",
+      "label": "Brunkolsgruvor"
+    },
+    {
+      "code": "10301",
+      "label": "Torvindustri, för jordförbättringsändamål"
+    },
+    {
+      "code": "10302",
+      "label": "Torvindustri, för energiändamål"
+    },
+    {
+      "code": "11100",
+      "label": "Industri för utvinning av råpetroleum och naturgas"
+    },
+    {
+      "code": "11200",
+      "label": "Serviceföretag till råpetroleum- och naturgasutvinning"
+    },
+    {
+      "code": "12000",
+      "label": "Uran- och toriumgruvor"
+    },
+    {
+      "code": "13100",
+      "label": "Järnmalmsgruvor"
+    },
+    {
+      "code": "13200",
+      "label": "Andra metallmalmsgruvor"
+    },
+    {
+      "code": "14110",
+      "label": "Byggnads- och prydnadsstensbrott"
+    },
+    {
+      "code": "14120",
+      "label": "Kalk- och gipsstensbrott, dolomitbrott"
+    },
+    {
+      "code": "14130",
+      "label": "Skifferbrott"
+    },
+    {
+      "code": "14210",
+      "label": "Sand-, grus- och bergtäkter"
+    },
+    {
+      "code": "14220",
+      "label": "Lertäkter"
+    },
+    {
+      "code": "14300",
+      "label": "Brott för kemiska mineral"
+    },
+    {
+      "code": "14400",
+      "label": "Industri för saltutvinning"
+    },
+    {
+      "code": "14500",
+      "label": "Övrig gruv- och utvinningsindustri"
+    },
+    {
+      "code": "15111",
+      "label": "Kreatursslakterier"
+    },
+    {
+      "code": "15112",
+      "label": "Köttstyckerier"
+    },
+    {
+      "code": "15120",
+      "label": "Fjäderfäslakterier"
+    },
+    {
+      "code": "15130",
+      "label": "Charkuterier och annan industri för köttvaror"
+    },
+    {
+      "code": "15200",
+      "label": "Fiskberedningsindustri"
+    },
+    {
+      "code": "15310",
+      "label": "Potatisindustri"
+    },
+    {
+      "code": "15320",
+      "label": "Juice- och saftindustri"
+    },
+    {
+      "code": "15330",
+      "label": "Annan frukt-, bär- och grönsaksindustri"
+    },
+    {
+      "code": "15410",
+      "label": "Industri för råa oljor och fetter"
+    },
+    {
+      "code": "15420",
+      "label": "Industri för raffinerade oljor och fetter"
+    },
+    {
+      "code": "15430",
+      "label": "Matfettsindustri"
+    },
+    {
+      "code": "15511",
+      "label": "Ostindustri"
+    },
+    {
+      "code": "15512",
+      "label": "Annan mejerivaruindustri"
+    },
+    {
+      "code": "15520",
+      "label": "Glassindustri"
+    },
+    {
+      "code": "15611",
+      "label": "Kvarnar"
+    },
+    {
+      "code": "15612",
+      "label": "Industri för frukostflingor, mixer och andra livsmedelsberedningar av kvarnprodukter"
+    },
+    {
+      "code": "15620",
+      "label": "Stärkelseindustri"
+    },
+    {
+      "code": "15710",
+      "label": "Industri för beredda fodermedel"
+    },
+    {
+      "code": "15720",
+      "label": "Industri för mat till sällskapsdjur"
+    },
+    {
+      "code": "15810",
+      "label": "Bagerier"
+    },
+    {
+      "code": "15821",
+      "label": "Knäckebrödsindustri"
+    },
+    {
+      "code": "15822",
+      "label": "Industri för kex och konserverade bakverk"
+    },
+    {
+      "code": "15830",
+      "label": "Sockerindustri"
+    },
+    {
+      "code": "15841",
+      "label": "Sockerkonfektyrindustri"
+    },
+    {
+      "code": "15842",
+      "label": "Choklad- och chokladkonfektyrindustri"
+    },
+    {
+      "code": "15850",
+      "label": "Industri för pastaprodukter"
+    },
+    {
+      "code": "15860",
+      "label": "Kaffe- och teindustri"
+    },
+    {
+      "code": "15870",
+      "label": "Industri för senap, ketchup, kryddor och andra smaksättningsmedel"
+    },
+    {
+      "code": "15880",
+      "label": "Industri för homogeniserade livsmedelspreparat inkl. dietmat"
+    },
+    {
+      "code": "15890",
+      "label": "Annan livsmedelsindustri"
+    },
+    {
+      "code": "15910",
+      "label": "Spritdrycksindustri"
+    },
+    {
+      "code": "15920",
+      "label": "Råspritsbrännerier"
+    },
+    {
+      "code": "15930",
+      "label": "Vinindustri"
+    },
+    {
+      "code": "15940",
+      "label": "Cider- och annan fruktvinindustri"
+    },
+    {
+      "code": "15950",
+      "label": "Industri för andra icke-destillerade jästa drycker"
+    },
+    {
+      "code": "15960",
+      "label": "Ölbryggerier"
+    },
+    {
+      "code": "15970",
+      "label": "Mälterier"
+    },
+    {
+      "code": "15980",
+      "label": "Mineralvatten- och läskedrycksindustri"
+    },
+    {
+      "code": "16000",
+      "label": "Tobaksindustri"
+    },
+    {
+      "code": "17110",
+      "label": "Bomullsgarnindustri o.d."
+    },
+    {
+      "code": "17120",
+      "label": "Kardgarnsindustri o.d."
+    },
+    {
+      "code": "17130",
+      "label": "Kamgarnsindustri o.d."
+    },
+    {
+      "code": "17140",
+      "label": "Lin- och jutegarnsindustri o.d."
+    },
+    {
+      "code": "17150",
+      "label": "Industri för silkegarn"
+    },
+    {
+      "code": "17160",
+      "label": "Sytrådsindustri"
+    },
+    {
+      "code": "17170",
+      "label": "Annan garnindustri"
+    },
+    {
+      "code": "17210",
+      "label": "Bomullsväverier"
+    },
+    {
+      "code": "17220",
+      "label": "Kardgarnsväverier o.d."
+    },
+    {
+      "code": "17230",
+      "label": "Kamgarnsväverier o.d."
+    },
+    {
+      "code": "17240",
+      "label": "Sidenväverier o.d."
+    },
+    {
+      "code": "17250",
+      "label": "Andra väverier"
+    },
+    {
+      "code": "17300",
+      "label": "Blekerier, färgerier, textiltryckerier och andra textilberedningsverk"
+    },
+    {
+      "code": "17401",
+      "label": "Gardinindustri"
+    },
+    {
+      "code": "17402",
+      "label": "Sängkläders- och linnevaruindustri"
+    },
+    {
+      "code": "17403",
+      "label": "Industri för presenningar, tält, segel o.d."
+    },
+    {
+      "code": "17510",
+      "label": "Mattindustri"
+    },
+    {
+      "code": "17520",
+      "label": "Tågvirkes- och bindgarnsindustri"
+    },
+    {
+      "code": "17530",
+      "label": "Industri för bondad duk"
+    },
+    {
+      "code": "17541",
+      "label": "Industri för band och snörmakerier"
+    },
+    {
+      "code": "17549",
+      "label": "Diverse övrig textilieindustri"
+    },
+    {
+      "code": "17600",
+      "label": "Trikåväverier"
+    },
+    {
+      "code": "17710",
+      "label": "Strumpindustri"
+    },
+    {
+      "code": "17720",
+      "label": "Tröjindustri"
+    },
+    {
+      "code": "18100",
+      "label": "Läderbeklädnadsindustri"
+    },
+    {
+      "code": "18210",
+      "label": "Industri för arbets-, skydds- och överdragskläder"
+    },
+    {
+      "code": "18221",
+      "label": "Industri för andra gång- och ytterkläder för män och pojkar"
+    },
+    {
+      "code": "18222",
+      "label": "Industri för andra gång- och ytterkläder för kvinnor och flickor"
+    },
+    {
+      "code": "18231",
+      "label": "Industri för skjortor och underkläder för män och pojkar"
+    },
+    {
+      "code": "18232",
+      "label": "Industri för blusar och skjortor för kvinnor och flickor"
+    },
+    {
+      "code": "18233",
+      "label": "Industri för gördlar, bysthållare, korsetter o.d."
+    },
+    {
+      "code": "18234",
+      "label": "Industri för andra underkläder för kvinnor och flickor"
+    },
+    {
+      "code": "18240",
+      "label": "Industri för andra beklädnadsvaror och tillbehör"
+    },
+    {
+      "code": "18300",
+      "label": "Pälsindustri"
+    },
+    {
+      "code": "19100",
+      "label": "Garverier"
+    },
+    {
+      "code": "19200",
+      "label": "Industri för reseffekter, handväskor, sadeltyg m.m."
+    },
+    {
+      "code": "19300",
+      "label": "Skoindustri"
+    },
+    {
+      "code": "20101",
+      "label": "Sågverk"
+    },
+    {
+      "code": "20102",
+      "label": "Hyvlerier"
+    },
+    {
+      "code": "20103",
+      "label": "Träimpregneringsverk"
+    },
+    {
+      "code": "20201",
+      "label": "Industri för fanér, kryssfanér och lamellträ"
+    },
+    {
+      "code": "20202",
+      "label": "Spånskiveindustri"
+    },
+    {
+      "code": "20203",
+      "label": "Träfiberskiveindustri"
+    },
+    {
+      "code": "20301",
+      "label": "Industri för monteringsfärdiga trähus"
+    },
+    {
+      "code": "20302",
+      "label": "Industri för byggnads- och inredningssnickerier"
+    },
+    {
+      "code": "20400",
+      "label": "Träförpackningsindustri"
+    },
+    {
+      "code": "20510",
+      "label": "Övrig trävaruindustri"
+    },
+    {
+      "code": "20520",
+      "label": "Industri för varor av kork, halm, rotting o.d."
+    },
+    {
+      "code": "21111",
+      "label": "Industri för mekanisk eller halvkemisk massa"
+    },
+    {
+      "code": "21112",
+      "label": "Sulfatmassaindustri"
+    },
+    {
+      "code": "21113",
+      "label": "Sulfitmassaindustri"
+    },
+    {
+      "code": "21121",
+      "label": "Tidnings- och journalpappersindustri"
+    },
+    {
+      "code": "21122",
+      "label": "Annan tryckpappersindustri"
+    },
+    {
+      "code": "21123",
+      "label": "Kraftpappers- och kraftpappindustri"
+    },
+    {
+      "code": "21129",
+      "label": "Övrig pappers- och pappindustri"
+    },
+    {
+      "code": "21211",
+      "label": "Wellpappindustri"
+    },
+    {
+      "code": "21219",
+      "label": "Övrig industri för pappers- och pappförpackningar"
+    },
+    {
+      "code": "21220",
+      "label": "Industri för hushålls- och hygienartiklar av papper"
+    },
+    {
+      "code": "21230",
+      "label": "Industri för skrivpapper, kuvert o.d."
+    },
+    {
+      "code": "21240",
+      "label": "Tapetindustri"
+    },
+    {
+      "code": "21250",
+      "label": "Industri för andra pappers- och pappvaror"
+    },
+    {
+      "code": "22110",
+      "label": "Bokförlag"
+    },
+    {
+      "code": "22121",
+      "label": "Dagstidningsförlag"
+    },
+    {
+      "code": "22122",
+      "label": "Annonstidningsförlag"
+    },
+    {
+      "code": "22130",
+      "label": "Tidskriftsförlag"
+    },
+    {
+      "code": "22140",
+      "label": "Utgivare av ljudinspelningar"
+    },
+    {
+      "code": "22150",
+      "label": "Andra förlag"
+    },
+    {
+      "code": "22210",
+      "label": "Dagstidningstryckerier"
+    },
+    {
+      "code": "22221",
+      "label": "Tidskriftstryckerier"
+    },
+    {
+      "code": "22222",
+      "label": "Boktryckerier, övriga tryckerier"
+    },
+    {
+      "code": "22230",
+      "label": "Bokbinderier"
+    },
+    {
+      "code": "22240",
+      "label": "Industri för framställning av tryckoriginal"
+    },
+    {
+      "code": "22250",
+      "label": "Annan grafisk industri"
+    },
+    {
+      "code": "22310",
+      "label": "Företag för reproduktion av ljudinspelningar"
+    },
+    {
+      "code": "22320",
+      "label": "Företag för reproduktion av videoinspelningar"
+    },
+    {
+      "code": "22330",
+      "label": "Företag för reproduktion av data och datorprogram"
+    },
+    {
+      "code": "23100",
+      "label": "Industri för stenkolsprodukter"
+    },
+    {
+      "code": "23200",
+      "label": "Petroleumraffinaderier"
+    },
+    {
+      "code": "23300",
+      "label": "Kärnbränsleindustri"
+    },
+    {
+      "code": "24110",
+      "label": "Industri för industrigaser"
+    },
+    {
+      "code": "24120",
+      "label": "Industri för färgämnen"
+    },
+    {
+      "code": "24130",
+      "label": "Industri för andra oorganiska baskemikalier"
+    },
+    {
+      "code": "24140",
+      "label": "Industri för andra organiska baskemikalier"
+    },
+    {
+      "code": "24150",
+      "label": "Industri för gödselmedel och kväveprodukter"
+    },
+    {
+      "code": "24160",
+      "label": "Basplastindustri"
+    },
+    {
+      "code": "24170",
+      "label": "Industri för syntetiskt basgummi"
+    },
+    {
+      "code": "24200",
+      "label": "Industri för bekämpningsmedel och andra lantbrukskemiska produkter"
+    },
+    {
+      "code": "24300",
+      "label": "Färgindustri"
+    },
+    {
+      "code": "24410",
+      "label": "Industri för farmaceutiska basprodukter"
+    },
+    {
+      "code": "24420",
+      "label": "Läkemedelsindustri"
+    },
+    {
+      "code": "24510",
+      "label": "Tvättmedelsindustri"
+    },
+    {
+      "code": "24520",
+      "label": "Parfym- och toalettartikelsindustri"
+    },
+    {
+      "code": "24610",
+      "label": "Sprängämnesindustri"
+    },
+    {
+      "code": "24620",
+      "label": "Industri för lim och gelatin"
+    },
+    {
+      "code": "24630",
+      "label": "Industri för eteriska oljor"
+    },
+    {
+      "code": "24640",
+      "label": "Industri för fotokemiska produkter"
+    },
+    {
+      "code": "24650",
+      "label": "Industri för inspelningsmedier"
+    },
+    {
+      "code": "24660",
+      "label": "Annan kemisk industri utom konstfiberindustri"
+    },
+    {
+      "code": "24700",
+      "label": "Konstfiberindustri"
+    },
+    {
+      "code": "25110",
+      "label": "Industri för däck och slangar"
+    },
+    {
+      "code": "25120",
+      "label": "Regummeringsindustri"
+    },
+    {
+      "code": "25130",
+      "label": "Annan gummivaruindustri"
+    },
+    {
+      "code": "25210",
+      "label": "Industri för plasthalvfabrikat"
+    },
+    {
+      "code": "25220",
+      "label": "Plastförpackningsindustri"
+    },
+    {
+      "code": "25230",
+      "label": "Byggplastvaruindustri"
+    },
+    {
+      "code": "25240",
+      "label": "Annan plastvaruindustri"
+    },
+    {
+      "code": "26110",
+      "label": "Planglasverk"
+    },
+    {
+      "code": "26120",
+      "label": "Industri för bearbetat planglas"
+    },
+    {
+      "code": "26131",
+      "label": "Industri för buteljer och glasförpackningar"
+    },
+    {
+      "code": "26132",
+      "label": "Glasbruk"
+    },
+    {
+      "code": "26140",
+      "label": "Glasfiberindustri"
+    },
+    {
+      "code": "26150",
+      "label": "Annan glasvaruindustri"
+    },
+    {
+      "code": "26210",
+      "label": "Industri för keramiska hushålls- och prydnadsartiklar"
+    },
+    {
+      "code": "26220",
+      "label": "Industri för keramiska sanitetsartiklar"
+    },
+    {
+      "code": "26230",
+      "label": "Industri för keramiska isolatorer o.d."
+    },
+    {
+      "code": "26240",
+      "label": "Industri för andra tekniska keramiska produkter"
+    },
+    {
+      "code": "26250",
+      "label": "Industri för andra icke eldfasta keramiska produkter utom för byggändamål"
+    },
+    {
+      "code": "26260",
+      "label": "Industri för eldfasta keramiska produkter"
+    },
+    {
+      "code": "26300",
+      "label": "Industri för keramiska golv- och väggplattor"
+    },
+    {
+      "code": "26400",
+      "label": "Industri för murtegel, takpannor och andra byggvaror av tegel"
+    },
+    {
+      "code": "26510",
+      "label": "Cementindustri"
+    },
+    {
+      "code": "26520",
+      "label": "Kalkbruk"
+    },
+    {
+      "code": "26530",
+      "label": "Gipsindustri"
+    },
+    {
+      "code": "26611",
+      "label": "Lättbetongindustri"
+    },
+    {
+      "code": "26619",
+      "label": "Övrig industri för byggnadsbetongvaror"
+    },
+    {
+      "code": "26620",
+      "label": "Industri för byggvaror av gips"
+    },
+    {
+      "code": "26630",
+      "label": "Industri för fabriksblandad betong"
+    },
+    {
+      "code": "26640",
+      "label": "Murbruksindustri"
+    },
+    {
+      "code": "26650",
+      "label": "Industri för fibercementvaror"
+    },
+    {
+      "code": "26660",
+      "label": "Annan betong-, cement- och gipsvaruindustri"
+    },
+    {
+      "code": "26701",
+      "label": "Byggnadsstenhuggerier; industri för byggnadsstenvaror"
+    },
+    {
+      "code": "26709",
+      "label": "Prydnadsstenhuggerier; industri för prydnadsstenvaror"
+    },
+    {
+      "code": "26810",
+      "label": "Slipmedelsindustri"
+    },
+    {
+      "code": "26821",
+      "label": "Sten- och mineralullsindustri"
+    },
+    {
+      "code": "26829",
+      "label": "Diverse övrig industri för icke-metalliska mineraliska produkter"
+    },
+    {
+      "code": "27100",
+      "label": "Järn- och stålverk"
+    },
+    {
+      "code": "27210",
+      "label": "Industri för gjutjärnsrör"
+    },
+    {
+      "code": "27220",
+      "label": "Industri för stålrör"
+    },
+    {
+      "code": "27310",
+      "label": "Kalldrageri för stålstång"
+    },
+    {
+      "code": "27320",
+      "label": "Kallvalsverk för stålband"
+    },
+    {
+      "code": "27330",
+      "label": "Industri för kallformning av stål"
+    },
+    {
+      "code": "27340",
+      "label": "Dragerier för ståltråd"
+    },
+    {
+      "code": "27410",
+      "label": "Ädelmetallverk"
+    },
+    {
+      "code": "27420",
+      "label": "Aluminiumverk"
+    },
+    {
+      "code": "27430",
+      "label": "Metallverk för bly, zink och tenn"
+    },
+    {
+      "code": "27440",
+      "label": "Kopparverk"
+    },
+    {
+      "code": "27450",
+      "label": "Andra metallverk"
+    },
+    {
+      "code": "27510",
+      "label": "Järngjuterier"
+    },
+    {
+      "code": "27520",
+      "label": "Stålgjuterier"
+    },
+    {
+      "code": "27530",
+      "label": "Lättmetallgjuterier"
+    },
+    {
+      "code": "27540",
+      "label": "Andra metallgjuterier"
+    },
+    {
+      "code": "28110",
+      "label": "Industri för metallstommar och delar därav"
+    },
+    {
+      "code": "28120",
+      "label": "Industri för byggnadselement av metall"
+    },
+    {
+      "code": "28210",
+      "label": "Industri för cisterner, tankar, kar och andra behållare av metall"
+    },
+    {
+      "code": "28220",
+      "label": "Industri för radiatorer och pannor för centraluppvärmning"
+    },
+    {
+      "code": "28300",
+      "label": "Industri för ånggeneratorer"
+    },
+    {
+      "code": "28400",
+      "label": "Industri för smidning, pressning, prägling och valsning av metall och för pulvermetallurgi"
+    },
+    {
+      "code": "28510",
+      "label": "Industri för beläggning och överdragning av metall"
+    },
+    {
+      "code": "28520",
+      "label": "Verkstäder för metallegoarbeten"
+    },
+    {
+      "code": "28610",
+      "label": "Industri för bestick"
+    },
+    {
+      "code": "28621",
+      "label": "Industri för formverktyg"
+    },
+    {
+      "code": "28622",
+      "label": "Industri för skärverktyg"
+    },
+    {
+      "code": "28629",
+      "label": "Industri för övriga verktyg och redskap"
+    },
+    {
+      "code": "28630",
+      "label": "Industri för lås och gångjärn"
+    },
+    {
+      "code": "28710",
+      "label": "Industri för stålfat o.d. behållare"
+    },
+    {
+      "code": "28720",
+      "label": "Industri för lättmetallförpackningar"
+    },
+    {
+      "code": "28730",
+      "label": "Industri för metalltrådvaror"
+    },
+    {
+      "code": "28740",
+      "label": "Industri för nitar, skruvar, kedjor och fjädrar"
+    },
+    {
+      "code": "28751",
+      "label": "Industri för diskbänkar, sanitetsgods m.m. av metall för byggändamål"
+    },
+    {
+      "code": "28759",
+      "label": "Diverse övrig metallvaruindustri"
+    },
+    {
+      "code": "29110",
+      "label": "Industri för motorer och turbiner utom för luftfartyg och fordon"
+    },
+    {
+      "code": "29120",
+      "label": "Industri för pumpar och kompressorer"
+    },
+    {
+      "code": "29130",
+      "label": "Industri för kranar och ventiler"
+    },
+    {
+      "code": "29140",
+      "label": "Industri för lager, kugghjul och andra delar för kraftöverföring"
+    },
+    {
+      "code": "29210",
+      "label": "Industri för ugnar och brännare"
+    },
+    {
+      "code": "29220",
+      "label": "Industri för lyft- och godshanteringsanordningar"
+    },
+    {
+      "code": "29230",
+      "label": "Industri för maskiner och apparater för kyla och ventilation utom för hushåll"
+    },
+    {
+      "code": "29240",
+      "label": "Övrig industri för maskiner för allmänt ändamål"
+    },
+    {
+      "code": "29310",
+      "label": "Traktorindustri"
+    },
+    {
+      "code": "29320",
+      "label": "Industri för andra jord- och skogsbruksmaskiner"
+    },
+    {
+      "code": "29410",
+      "label": "Industri för motordrivna handverktyg"
+    },
+    {
+      "code": "29420",
+      "label": "Industri för verktygsmaskiner för metallbearbetning"
+    },
+    {
+      "code": "29430",
+      "label": "Industri för övriga verktygsmaskiner"
+    },
+    {
+      "code": "29510",
+      "label": "Industri för maskiner för metallurgi"
+    },
+    {
+      "code": "29520",
+      "label": "Industri för gruv-, bergbrytnings- och byggmaskiner"
+    },
+    {
+      "code": "29530",
+      "label": "Industri för maskiner för framställning av livsmedel, drycker och tobaksvaror"
+    },
+    {
+      "code": "29540",
+      "label": "Industri för maskiner för produktion av textil-, beklädnads- och lädervaror"
+    },
+    {
+      "code": "29550",
+      "label": "Industri för maskiner för produktion av massa, papper och papp"
+    },
+    {
+      "code": "29561",
+      "label": "Industri för plast- och gummibearbetningsmaskiner"
+    },
+    {
+      "code": "29569",
+      "label": "Diverse övrig industri för specialmaskiner"
+    },
+    {
+      "code": "29600",
+      "label": "Vapen- och ammunitionsindustri"
+    },
+    {
+      "code": "29711",
+      "label": "Industri för kyl- och frysskåp, tvättmaskiner och andra vitvaror"
+    },
+    {
+      "code": "29719",
+      "label": "Industri för övriga elektriska hushållsmaskiner och hushållsapparater"
+    },
+    {
+      "code": "29720",
+      "label": "Industri för icke-elektriska hushållsmaskiner och hushållsapparater"
+    },
+    {
+      "code": "30010",
+      "label": "Kontorsmaskinindustri"
+    },
+    {
+      "code": "30020",
+      "label": "Industri för datorer och annan informationsbehandlingsutrustning"
+    },
+    {
+      "code": "31100",
+      "label": "Industri för elmotorer, generatorer och transformatorer"
+    },
+    {
+      "code": "31200",
+      "label": "Industri för eldistributions- och elkontrollapparater"
+    },
+    {
+      "code": "31300",
+      "label": "Industri för elektrisk tråd och kabel"
+    },
+    {
+      "code": "31400",
+      "label": "Batteri- och ackumulatorindustri"
+    },
+    {
+      "code": "31501",
+      "label": "Belysningsarmaturindustri"
+    },
+    {
+      "code": "31502",
+      "label": "Glödlamps- och lysrörsindustri"
+    },
+    {
+      "code": "31610",
+      "label": "Industri för övrig elapparatur för motorer och fordon"
+    },
+    {
+      "code": "31620",
+      "label": "Diverse övrig elektroindustri"
+    },
+    {
+      "code": "32100",
+      "label": "Industri för elektroniska komponenter"
+    },
+    {
+      "code": "32200",
+      "label": "Industri för radio- och TV-sändare samt apparater för trådtelefoni och trådtelegrafi"
+    },
+    {
+      "code": "32300",
+      "label": "Industri för radio- och TV-mottagare samt apparater för upptagning och återgivning av ljud och videosignaler"
+    },
+    {
+      "code": "33101",
+      "label": "Industri för medicinsk utrustning och instrument"
+    },
+    {
+      "code": "33102",
+      "label": "Tandteknikerlaboratorier"
+    },
+    {
+      "code": "33200",
+      "label": "Industri för instrument och apparater för mätning, kontroll, provning, navigering och andra ändamål utom industriell processtyrning"
+    },
+    {
+      "code": "33300",
+      "label": "Industri för instrument för styrning av industriella processer"
+    },
+    {
+      "code": "33400",
+      "label": "Industri för optiska instrument och fotoutrustning"
+    },
+    {
+      "code": "33500",
+      "label": "Urindustri"
+    },
+    {
+      "code": "34100",
+      "label": "Motorfordonsindustri"
+    },
+    {
+      "code": "34200",
+      "label": "Industri för karosserier för motorfordon; industri för släpfordon och påhängsvagnar"
+    },
+    {
+      "code": "34300",
+      "label": "Industri för delar och tillbehör till motorfordon och motorer"
+    },
+    {
+      "code": "35110",
+      "label": "Skeppsvarv"
+    },
+    {
+      "code": "35120",
+      "label": "Fritidsbåtbyggerier"
+    },
+    {
+      "code": "35200",
+      "label": "Rälsfordonsindustri"
+    },
+    {
+      "code": "35300",
+      "label": "Flygplansindustri"
+    },
+    {
+      "code": "35410",
+      "label": "Motorcykelindustri"
+    },
+    {
+      "code": "35420",
+      "label": "Cykelindustri"
+    },
+    {
+      "code": "35430",
+      "label": "Invalidfordonsindustri"
+    },
+    {
+      "code": "35500",
+      "label": "Övrig transportmedelsindustri"
+    },
+    {
+      "code": "36110",
+      "label": "Industri för sittmöbler och säten"
+    },
+    {
+      "code": "36120",
+      "label": "Annan kontors- och butiksmöbelindustri"
+    },
+    {
+      "code": "36130",
+      "label": "Annan köksmöbelindustri"
+    },
+    {
+      "code": "36140",
+      "label": "Annan möbelindustri"
+    },
+    {
+      "code": "36150",
+      "label": "Madrassindustri"
+    },
+    {
+      "code": "36210",
+      "label": "Myntindustri"
+    },
+    {
+      "code": "36220",
+      "label": "Industri för smycken och andra guld- och silversmedsvaror"
+    },
+    {
+      "code": "36300",
+      "label": "Musikinstrumentindustri"
+    },
+    {
+      "code": "36400",
+      "label": "Sportvaruindustri"
+    },
+    {
+      "code": "36500",
+      "label": "Industri för spel och leksaker"
+    },
+    {
+      "code": "36610",
+      "label": "Bijouteriindustri"
+    },
+    {
+      "code": "36620",
+      "label": "Borstbinderier"
+    },
+    {
+      "code": "36630",
+      "label": "Diverse annan tillverkningsindustri"
+    },
+    {
+      "code": "37100",
+      "label": "Industri för återvinning av skrot och avfall av metall"
+    },
+    {
+      "code": "37200",
+      "label": "Industri för återvinning av skrot och avfall av icke-metall"
+    },
+    {
+      "code": "40110",
+      "label": "Elverk"
+    },
+    {
+      "code": "40120",
+      "label": "Elnätföretag"
+    },
+    {
+      "code": "40131",
+      "label": "Distribution av elektricitet"
+    },
+    {
+      "code": "40132",
+      "label": "Handel med elektricitet"
+    },
+    {
+      "code": "40210",
+      "label": "Gasverk"
+    },
+    {
+      "code": "40220",
+      "label": "Distribution av och handel med gasformiga bränslen via rörnät"
+    },
+    {
+      "code": "40300",
+      "label": "Värmeverk m.m."
+    },
+    {
+      "code": "41001",
+      "label": "Vattenverk för grundvatten"
+    },
+    {
+      "code": "41002",
+      "label": "Vattenverk för ytvatten"
+    },
+    {
+      "code": "45110",
+      "label": "Entreprenörer för rivning av hus och markarbeten"
+    },
+    {
+      "code": "45120",
+      "label": "Entreprenörer för markundersökning"
+    },
+    {
+      "code": "45211",
+      "label": "Husbyggnadsentreprenörer"
+    },
+    {
+      "code": "45212",
+      "label": "Entreprenörer för andra byggnadsverk"
+    },
+    {
+      "code": "45221",
+      "label": "Byggnadsplåtslagerier"
+    },
+    {
+      "code": "45229",
+      "label": "Övriga entreprenörer för takarbeten"
+    },
+    {
+      "code": "45230",
+      "label": "Väg- och markanläggningsentreprenörer"
+    },
+    {
+      "code": "45240",
+      "label": "Vattenbyggnadsentreprenörer"
+    },
+    {
+      "code": "45250",
+      "label": "Andra bygg- och anläggningsentreprenörer"
+    },
+    {
+      "code": "45310",
+      "label": "Elinstallationsfirmor"
+    },
+    {
+      "code": "45320",
+      "label": "Isoleringsfirmor"
+    },
+    {
+      "code": "45331",
+      "label": "Rörfirmor"
+    },
+    {
+      "code": "45332",
+      "label": "Ventilationsfirmor"
+    },
+    {
+      "code": "45333",
+      "label": "Kyl- och frysinstallationsfirmor"
+    },
+    {
+      "code": "45339",
+      "label": "Övriga VVS-firmor"
+    },
+    {
+      "code": "45340",
+      "label": "Andra bygginstallationsfirmor"
+    },
+    {
+      "code": "45410",
+      "label": "Firmor för puts-, fasad- och stuckatörsarbeten"
+    },
+    {
+      "code": "45420",
+      "label": "Firmor för byggnadssnickeriarbeten"
+    },
+    {
+      "code": "45430",
+      "label": "Golv- och väggbeläggningsfirmor"
+    },
+    {
+      "code": "45441",
+      "label": "Målerier"
+    },
+    {
+      "code": "45442",
+      "label": "Glasmästerier"
+    },
+    {
+      "code": "45450",
+      "label": "Andra firmor för slutbehandling av byggnader"
+    },
+    {
+      "code": "45500",
+      "label": "Uthyrningsfirmor för bygg- och anläggningsmaskiner med förare"
+    },
+    {
+      "code": "50101",
+      "label": "Handel med lastbilar, bussar och specialfordon"
+    },
+    {
+      "code": "50102",
+      "label": "Handel med personbilar"
+    },
+    {
+      "code": "50103",
+      "label": "Handel med husvagnar, husbilar, släpfordon och påhängsvagnar"
+    },
+    {
+      "code": "50201",
+      "label": "Bilserviceverkstäder, ej specialiserade"
+    },
+    {
+      "code": "50202",
+      "label": "Bilplåt- och billackeringsverkstäder; bilglasmästerier"
+    },
+    {
+      "code": "50203",
+      "label": "Bilelverkstäder"
+    },
+    {
+      "code": "50204",
+      "label": "Däckserviceverkstäder"
+    },
+    {
+      "code": "50301",
+      "label": "Parti- och agenturhandel med reservdelar och tillbehör till motorfordon utom motorcyklar"
+    },
+    {
+      "code": "50302",
+      "label": "Detaljhandel med reservdelar och tillbehör till motorfordon utom motorcyklar"
+    },
+    {
+      "code": "50400",
+      "label": "Motorcykelhandel inkl. reparationsverkstäder"
+    },
+    {
+      "code": "50500",
+      "label": "Bensinstationer"
+    },
+    {
+      "code": "51110",
+      "label": "Agenturhandel med jordbruksråvaror, levande djur, textilråvaror och textilhalvfabrikat"
+    },
+    {
+      "code": "51120",
+      "label": "Agenturhandel med bränsle, malm, metaller och industrikemikalier"
+    },
+    {
+      "code": "51130",
+      "label": "Agenturhandel med virke och byggmaterial"
+    },
+    {
+      "code": "51141",
+      "label": "Agenturhandel med maskiner, industriell utrustning, fartyg och luftfartyg, utom kontorsutrustning och datorer"
+    },
+    {
+      "code": "51142",
+      "label": "Agenturhandel med kontorsutrustning och datorer"
+    },
+    {
+      "code": "51150",
+      "label": "Agenturhandel med möbler, hushålls- och järnhandelsvaror"
+    },
+    {
+      "code": "51160",
+      "label": "Agenturhandel med textilier, kläder, skodon och lädervaror"
+    },
+    {
+      "code": "51170",
+      "label": "Agenturhandel med livsmedel, drycker och tobak"
+    },
+    {
+      "code": "51180",
+      "label": "Agenturhandel med annat specialsortiment"
+    },
+    {
+      "code": "51190",
+      "label": "Agenturhandel med blandat sortiment"
+    },
+    {
+      "code": "51210",
+      "label": "Partihandel med spannmål, utsäde och djurfoder"
+    },
+    {
+      "code": "51220",
+      "label": "Partihandel med blommor och växter"
+    },
+    {
+      "code": "51230",
+      "label": "Partihandel med levande djur"
+    },
+    {
+      "code": "51240",
+      "label": "Partihandel med hudar, skinn och läder"
+    },
+    {
+      "code": "51250",
+      "label": "Partihandel med råtobak"
+    },
+    {
+      "code": "51310",
+      "label": "Partihandel med frukt och grönsaker"
+    },
+    {
+      "code": "51320",
+      "label": "Partihandel med kött och köttvaror"
+    },
+    {
+      "code": "51330",
+      "label": "Partihandel med mejeriprodukter, ägg, matolja och matfett"
+    },
+    {
+      "code": "51340",
+      "label": "Partihandel med alkoholhaltiga och andra drycker"
+    },
+    {
+      "code": "51350",
+      "label": "Partihandel med tobak"
+    },
+    {
+      "code": "51360",
+      "label": "Partihandel med socker, choklad och sockerkonfektyrer"
+    },
+    {
+      "code": "51370",
+      "label": "Partihandel med kaffe, te, kakao och kryddor"
+    },
+    {
+      "code": "51380",
+      "label": "Partihandel med andra livsmedel, bl.a. fisk-, skal- och blötdjur"
+    },
+    {
+      "code": "51390",
+      "label": "Icke specialiserad partihandel med livsmedel, drycker och tobak"
+    },
+    {
+      "code": "51410",
+      "label": "Partihandel med textilier"
+    },
+    {
+      "code": "51420",
+      "label": "Partihandel med kläder och skodon"
+    },
+    {
+      "code": "51431",
+      "label": "Partihandel med elektriska hushållsmaskiner och -apparater"
+    },
+    {
+      "code": "51432",
+      "label": "Partihandel med ljud- och bildanläggningar samt videoutrustning"
+    },
+    {
+      "code": "51433",
+      "label": "Partihandel med inspelade och oinspelade kassett- och videoband samt dvd-, cd- och grammofonskivor"
+    },
+    {
+      "code": "51434",
+      "label": "Partihandel med elartiklar"
+    },
+    {
+      "code": "51440",
+      "label": "Partihandel med glas och porslin, tapeter, rengöringsmedel"
+    },
+    {
+      "code": "51450",
+      "label": "Partihandel med parfym och kosmetika"
+    },
+    {
+      "code": "51460",
+      "label": "Partihandel med medicinsk utrustning och apoteksvaror"
+    },
+    {
+      "code": "51471",
+      "label": "Partihandel med möbler för hemmet"
+    },
+    {
+      "code": "51472",
+      "label": "Partihandel med sport- och fritidsartiklar"
+    },
+    {
+      "code": "51473",
+      "label": "Partihandel med kontorsförbrukningsvaror"
+    },
+    {
+      "code": "51479",
+      "label": "Partihandel med övriga hushållsvaror"
+    },
+    {
+      "code": "51510",
+      "label": "Partihandel med bränslen"
+    },
+    {
+      "code": "51520",
+      "label": "Partihandel med metaller och metallmalmer"
+    },
+    {
+      "code": "51530",
+      "label": "Partihandel med virke, andra byggmaterial och sanitetsgods"
+    },
+    {
+      "code": "51541",
+      "label": "Partihandel med järnhandelsvaror"
+    },
+    {
+      "code": "51542",
+      "label": "Partihandel med VVS-armatur"
+    },
+    {
+      "code": "51550",
+      "label": "Partihandel med kemiska produkter"
+    },
+    {
+      "code": "51561",
+      "label": "Partihandel med industriförnödenheter"
+    },
+    {
+      "code": "51562",
+      "label": "Partihandel med emballage"
+    },
+    {
+      "code": "51569",
+      "label": "Partihandel med övriga insatsvaror"
+    },
+    {
+      "code": "51571",
+      "label": "Partihandel med uttjänta fordon"
+    },
+    {
+      "code": "51572",
+      "label": "Partihandel med metallavfall och metallskrot"
+    },
+    {
+      "code": "51573",
+      "label": "Partihandel med avfall och skrot av icke-metall"
+    },
+    {
+      "code": "51810",
+      "label": "Partihandel med verktygsmaskiner"
+    },
+    {
+      "code": "51820",
+      "label": "Partihandel med gruv-, bygg- och anläggningsmaskiner"
+    },
+    {
+      "code": "51830",
+      "label": "Partihandel med textil-, sy- och stickmaskiner"
+    },
+    {
+      "code": "51840",
+      "label": "Partihandel med datorer och kringutrustning samt programvara"
+    },
+    {
+      "code": "51851",
+      "label": "Partihandel med andra kontorsmaskiner och kontorsutrustning"
+    },
+    {
+      "code": "51852",
+      "label": "Partihandel med kontorsmöbler"
+    },
+    {
+      "code": "51860",
+      "label": "Partihandel med elektronikkomponenter"
+    },
+    {
+      "code": "51871",
+      "label": "Partihandel med mät- och precisionsinstrument"
+    },
+    {
+      "code": "51872",
+      "label": "Partihandel med datoriserad materialhanteringsutrustning"
+    },
+    {
+      "code": "51873",
+      "label": "Partihandel med teleprodukter"
+    },
+    {
+      "code": "51879",
+      "label": "Partihandel med övriga maskiner för industri, handel och sjöfart"
+    },
+    {
+      "code": "51880",
+      "label": "Partihandel med maskiner och verktyg för jordbruket inkl. traktorer"
+    },
+    {
+      "code": "51900",
+      "label": "Övrig partihandel"
+    },
+    {
+      "code": "52111",
+      "label": "Varuhus och stormarknader, mest livsmedel, drycker och tobak"
+    },
+    {
+      "code": "52112",
+      "label": "Livsmedelsbutiker med brett sortiment"
+    },
+    {
+      "code": "52121",
+      "label": "Andra varuhus och stormarknader"
+    },
+    {
+      "code": "52129",
+      "label": "Övriga butiker med brett sortiment"
+    },
+    {
+      "code": "52210",
+      "label": "Frukt- och grönsaksaffärer"
+    },
+    {
+      "code": "52220",
+      "label": "Kött- och charkuteriaffärer"
+    },
+    {
+      "code": "52230",
+      "label": "Fiskaffärer"
+    },
+    {
+      "code": "52241",
+      "label": "Brödbutiker"
+    },
+    {
+      "code": "52242",
+      "label": "Konfektyrbutiker"
+    },
+    {
+      "code": "52250",
+      "label": "Systembutiker"
+    },
+    {
+      "code": "52260",
+      "label": "Tobaksaffärer"
+    },
+    {
+      "code": "52271",
+      "label": "Hälsokostbutiker"
+    },
+    {
+      "code": "52279",
+      "label": "Övriga specialbutiker med livsmedel"
+    },
+    {
+      "code": "52310",
+      "label": "Apotek"
+    },
+    {
+      "code": "52320",
+      "label": "Sjukvårdsbutiker"
+    },
+    {
+      "code": "52330",
+      "label": "Parfymaffärer"
+    },
+    {
+      "code": "52410",
+      "label": "Garn-, tyg- och sybehörsaffärer"
+    },
+    {
+      "code": "52421",
+      "label": "Affärer för herr-, dam- och barnkläder, blandat"
+    },
+    {
+      "code": "52422",
+      "label": "Herrklädesaffärer"
+    },
+    {
+      "code": "52423",
+      "label": "Damklädesaffärer"
+    },
+    {
+      "code": "52424",
+      "label": "Barnklädesaffärer"
+    },
+    {
+      "code": "52425",
+      "label": "Pälsaffärer"
+    },
+    {
+      "code": "52431",
+      "label": "Skoaffärer"
+    },
+    {
+      "code": "52432",
+      "label": "Väskaffärer"
+    },
+    {
+      "code": "52441",
+      "label": "Möbelaffärer"
+    },
+    {
+      "code": "52442",
+      "label": "Hemtextilbutiker"
+    },
+    {
+      "code": "52443",
+      "label": "Bosättningsaffärer"
+    },
+    {
+      "code": "52444",
+      "label": "Belysnings- och elaffärer"
+    },
+    {
+      "code": "52451",
+      "label": "Butiker för vitvaror och andra elektriska hushållsmaskiner och -apparater"
+    },
+    {
+      "code": "52452",
+      "label": "Radio- och TV-affärer"
+    },
+    {
+      "code": "52453",
+      "label": "Skiv- och videobutiker"
+    },
+    {
+      "code": "52454",
+      "label": "Musikhandel"
+    },
+    {
+      "code": "52461",
+      "label": "Järn-, bygg- och VVS-varuhandel"
+    },
+    {
+      "code": "52462",
+      "label": "Färghandel"
+    },
+    {
+      "code": "52471",
+      "label": "Bok- och pappershandel"
+    },
+    {
+      "code": "52472",
+      "label": "Tidningshandel"
+    },
+    {
+      "code": "52481",
+      "label": "Optiker"
+    },
+    {
+      "code": "52482",
+      "label": "Fotoaffärer"
+    },
+    {
+      "code": "52483",
+      "label": "Uraffärer"
+    },
+    {
+      "code": "52484",
+      "label": "Guldsmedsaffärer"
+    },
+    {
+      "code": "52485",
+      "label": "Sportaffärer"
+    },
+    {
+      "code": "52486",
+      "label": "Leksaksaffärer"
+    },
+    {
+      "code": "52487",
+      "label": "Blomster- och trädgårdsvaruhandel"
+    },
+    {
+      "code": "52488",
+      "label": "Zooaffärer"
+    },
+    {
+      "code": "52491",
+      "label": "Konsthandel och gallerier"
+    },
+    {
+      "code": "52492",
+      "label": "Mynt- och frimärksaffärer"
+    },
+    {
+      "code": "52493",
+      "label": "Datorbutiker"
+    },
+    {
+      "code": "52494",
+      "label": "Telebutiker"
+    },
+    {
+      "code": "52495",
+      "label": "Tapet-, matt- och golvbeläggningshandel"
+    },
+    {
+      "code": "52496",
+      "label": "Båt- och båttillbehörshandel"
+    },
+    {
+      "code": "52497",
+      "label": "Kontorsmöbelhandel"
+    },
+    {
+      "code": "52499",
+      "label": "Övriga specialbutiker"
+    },
+    {
+      "code": "52501",
+      "label": "Antikvariat och antikvitetsaffärer"
+    },
+    {
+      "code": "52509",
+      "label": "Butiker med övriga begagnade varor"
+    },
+    {
+      "code": "52611",
+      "label": "Postorderhandel, brett sortiment"
+    },
+    {
+      "code": "52612",
+      "label": "Postorderhandel med textilier och konfektion"
+    },
+    {
+      "code": "52613",
+      "label": "Postorderhandel med sport- och fritidsutrustning"
+    },
+    {
+      "code": "52614",
+      "label": "Postorderhandel med böcker och andra mediavaror"
+    },
+    {
+      "code": "52615",
+      "label": "Postorderhandel med bosättningsvaror"
+    },
+    {
+      "code": "52616",
+      "label": "Postorderhandel med övriga varor"
+    },
+    {
+      "code": "52617",
+      "label": "Detaljhandel via internet, brett sortiment"
+    },
+    {
+      "code": "52618",
+      "label": "Detaljhandel via internet med böcker, mediavaror samt datorutrustning"
+    },
+    {
+      "code": "52619",
+      "label": "Detaljhandel via internet med övriga varor"
+    },
+    {
+      "code": "52621",
+      "label": "Torg- och marknadshandel med livsmedel"
+    },
+    {
+      "code": "52629",
+      "label": "Torg- och marknadshandel med övriga varor"
+    },
+    {
+      "code": "52631",
+      "label": "Provisionshandel"
+    },
+    {
+      "code": "52632",
+      "label": "Ambulerande och tillfällig handel med livsmedel"
+    },
+    {
+      "code": "52633",
+      "label": "Ambulerande och tillfällig handel med övriga varor"
+    },
+    {
+      "code": "52639",
+      "label": "Övrig detaljhandel, ej i butik"
+    },
+    {
+      "code": "52710",
+      "label": "Skomakerier, klackbarer m.m."
+    },
+    {
+      "code": "52720",
+      "label": "Reparationsverkstäder för elektriska hushållsartiklar"
+    },
+    {
+      "code": "52730",
+      "label": "Reparationsverkstäder för ur och guldsmedsvaror"
+    },
+    {
+      "code": "52740",
+      "label": "Andra reparationsverkstäder för hushållsartiklar och personliga artiklar"
+    },
+    {
+      "code": "55101",
+      "label": "Hotell med restaurang"
+    },
+    {
+      "code": "55102",
+      "label": "Konferensanläggningar"
+    },
+    {
+      "code": "55103",
+      "label": "Hotell utan restaurang"
+    },
+    {
+      "code": "55210",
+      "label": "Vandrarhem m.m."
+    },
+    {
+      "code": "55220",
+      "label": "Campingplatser m.m."
+    },
+    {
+      "code": "55230",
+      "label": "Stugbyar m.m."
+    },
+    {
+      "code": "55300",
+      "label": "Restauranger"
+    },
+    {
+      "code": "55400",
+      "label": "Barer och pubar"
+    },
+    {
+      "code": "55510",
+      "label": "Personalmatsalar"
+    },
+    {
+      "code": "55521",
+      "label": "Cateringföretag för transportsektorn"
+    },
+    {
+      "code": "55522",
+      "label": "Centralkök för sjukhus"
+    },
+    {
+      "code": "55523",
+      "label": "Centralkök för skolor, omsorgs- och andra institutioner"
+    },
+    {
+      "code": "55529",
+      "label": "Övriga cateringföretag"
+    },
+    {
+      "code": "60100",
+      "label": "Järnvägsbolag"
+    },
+    {
+      "code": "60211",
+      "label": "Kollektivtrafikföretag"
+    },
+    {
+      "code": "60212",
+      "label": "Linjebussföretag"
+    },
+    {
+      "code": "60220",
+      "label": "Taxiföretag"
+    },
+    {
+      "code": "60230",
+      "label": "Charterbussföretag m.m."
+    },
+    {
+      "code": "60240",
+      "label": "Åkerier"
+    },
+    {
+      "code": "60300",
+      "label": "Rörtransportföretag"
+    },
+    {
+      "code": "61101",
+      "label": "Rederier för färjetrafik över hav eller i kustsjöfart"
+    },
+    {
+      "code": "61102",
+      "label": "Rederier för övrig havs- och kustsjöfart"
+    },
+    {
+      "code": "61200",
+      "label": "Rederier för sjöfart på inre vattenvägar"
+    },
+    {
+      "code": "62100",
+      "label": "Linjeflygbolag"
+    },
+    {
+      "code": "62200",
+      "label": "Charter- och taxiflygbolag"
+    },
+    {
+      "code": "62300",
+      "label": "Rymdfartsbolag"
+    },
+    {
+      "code": "63110",
+      "label": "Godsterminaler"
+    },
+    {
+      "code": "63120",
+      "label": "Centrala varulager och magasin"
+    },
+    {
+      "code": "63210",
+      "label": "Övriga serviceföretag till landtransport"
+    },
+    {
+      "code": "63220",
+      "label": "Hamnföretag och andra serviceföretag till sjöfart"
+    },
+    {
+      "code": "63230",
+      "label": "Flygplatser och andra serviceföretag till luftfart"
+    },
+    {
+      "code": "63301",
+      "label": "Researrangörer"
+    },
+    {
+      "code": "63302",
+      "label": "Resebyråer"
+    },
+    {
+      "code": "63303",
+      "label": "Turistbyråer"
+    },
+    {
+      "code": "63400",
+      "label": "Speditörer, lastbilscentraler, skeppsmäklare"
+    },
+    {
+      "code": "64110",
+      "label": "Nationella posten"
+    },
+    {
+      "code": "64120",
+      "label": "Budbils-, kurir- och andra postföretag"
+    },
+    {
+      "code": "64201",
+      "label": "Nätdriftsstationer"
+    },
+    {
+      "code": "64202",
+      "label": "Radiostationer"
+    },
+    {
+      "code": "64203",
+      "label": "Kabel-TV-företag"
+    },
+    {
+      "code": "65110",
+      "label": "Riksbanken"
+    },
+    {
+      "code": "65120",
+      "label": "Affärs-, spar- och föreningsbanker"
+    },
+    {
+      "code": "65210",
+      "label": "Finansiella leasingbolag"
+    },
+    {
+      "code": "65220",
+      "label": "Andra finansiella bolag"
+    },
+    {
+      "code": "65231",
+      "label": "Investmentbolag"
+    },
+    {
+      "code": "65232",
+      "label": "Värdepappersfonder"
+    },
+    {
+      "code": "66011",
+      "label": "Fondförsäkringsbolag"
+    },
+    {
+      "code": "66012",
+      "label": "Övriga livförsäkringsbolag"
+    },
+    {
+      "code": "66020",
+      "label": "Pensionsfonder, understödsföreningar"
+    },
+    {
+      "code": "66030",
+      "label": "Skadeförsäkringsbolag"
+    },
+    {
+      "code": "67110",
+      "label": "Administrativa serviceföretag till finansiella marknader"
+    },
+    {
+      "code": "67120",
+      "label": "Fondkommissionärer m.fl."
+    },
+    {
+      "code": "67130",
+      "label": "Andra serviceföretag till finansförmedling"
+    },
+    {
+      "code": "67201",
+      "label": "Försäkringsmäklare"
+    },
+    {
+      "code": "67202",
+      "label": "Övriga serviceföretag till försäkring och pensionsfondsverksamhet"
+    },
+    {
+      "code": "70110",
+      "label": "Markexploatörer"
+    },
+    {
+      "code": "70120",
+      "label": "Handel med egna fastigheter"
+    },
+    {
+      "code": "70201",
+      "label": "Fastighetsbolag, bostäder"
+    },
+    {
+      "code": "70202",
+      "label": "Fastighetsbolag, industrilokaler"
+    },
+    {
+      "code": "70203",
+      "label": "Fastighetsbolag, andra lokaler"
+    },
+    {
+      "code": "70204",
+      "label": "Bostadsrättsföreningar"
+    },
+    {
+      "code": "70209",
+      "label": "Övriga fastighetsbolag"
+    },
+    {
+      "code": "70310",
+      "label": "Fastighetsmäklare"
+    },
+    {
+      "code": "70321",
+      "label": "Rikskooperativa fastighetsförvaltare"
+    },
+    {
+      "code": "70329",
+      "label": "Övriga fastighetsförvaltare på uppdrag"
+    },
+    {
+      "code": "71100",
+      "label": "Biluthyrare"
+    },
+    {
+      "code": "71210",
+      "label": "Uthyrare av andra landtransportmedel"
+    },
+    {
+      "code": "71220",
+      "label": "Fartygsuthyrare"
+    },
+    {
+      "code": "71230",
+      "label": "Flygplansuthyrare"
+    },
+    {
+      "code": "71310",
+      "label": "Uthyrare av jordbruksmaskiner och jordbruksredskap"
+    },
+    {
+      "code": "71320",
+      "label": "Uthyrare av bygg- och anläggningsmaskiner"
+    },
+    {
+      "code": "71330",
+      "label": "Uthyrare av kontorsmaskiner och kontorsutrustning inkl. datorer"
+    },
+    {
+      "code": "71340",
+      "label": "Andra maskinuthyrare"
+    },
+    {
+      "code": "71401",
+      "label": "Video- och dvd-filmuthyrare"
+    },
+    {
+      "code": "71402",
+      "label": "Uthyrare av andra varor för personligt och hushållsbruk"
+    },
+    {
+      "code": "72100",
+      "label": "Maskinvarukonsulter"
+    },
+    {
+      "code": "72210",
+      "label": "Programvaruutgivare; programvaruproducenter"
+    },
+    {
+      "code": "72220",
+      "label": "Övriga system- och programvarukonsulter"
+    },
+    {
+      "code": "72300",
+      "label": "Dataservicebyråer"
+    },
+    {
+      "code": "72400",
+      "label": "Databasvärdar och databasförmedlare"
+    },
+    {
+      "code": "72500",
+      "label": "Servicefirmor för datorer och kontorsmaskiner"
+    },
+    {
+      "code": "72600",
+      "label": "Övriga dataföretag"
+    },
+    {
+      "code": "73101",
+      "label": "Naturvetenskapliga FoU-institutioner"
+    },
+    {
+      "code": "73102",
+      "label": "Tekniska FoU-institutioner"
+    },
+    {
+      "code": "73103",
+      "label": "Medicinska och farmaceutiska FoU-institutioner"
+    },
+    {
+      "code": "73104",
+      "label": "Lantbruksvetenskapliga FoU-institutioner"
+    },
+    {
+      "code": "73105",
+      "label": "Tvärvetenskapliga FoU-institutioner med tyngdpunkt i naturvetenskap och teknik"
+    },
+    {
+      "code": "73201",
+      "label": "Samhällsvetenskapliga FoU-institutioner"
+    },
+    {
+      "code": "73202",
+      "label": "Humanistiska FoU-institutioner"
+    },
+    {
+      "code": "73203",
+      "label": "Tvärvetenskapliga FoU-institutioner med tyngdpunkt i samhällsvetenskap och humaniora"
+    },
+    {
+      "code": "74111",
+      "label": "Advokatbyråer m.m."
+    },
+    {
+      "code": "74112",
+      "label": "Patentbyråer m.m."
+    },
+    {
+      "code": "74120",
+      "label": "Bokföringsbyråer, revisionsbyråer m.m."
+    },
+    {
+      "code": "74130",
+      "label": "Marknads- och opinionsundersökningsbyråer"
+    },
+    {
+      "code": "74140",
+      "label": "Konsultbyråer avseende företags organisation, information m.m."
+    },
+    {
+      "code": "74150",
+      "label": "Holdingbolag"
+    },
+    {
+      "code": "74201",
+      "label": "Arkitektkontor"
+    },
+    {
+      "code": "74202",
+      "label": "Tekniska konsultbyråer o.d."
+    },
+    {
+      "code": "74300",
+      "label": "Tekniska provnings- och analysföretag"
+    },
+    {
+      "code": "74401",
+      "label": "Reklambyråer"
+    },
+    {
+      "code": "74402",
+      "label": "Annonsförsäljningsbyråer"
+    },
+    {
+      "code": "74403",
+      "label": "Direktreklamföretag"
+    },
+    {
+      "code": "74409",
+      "label": "Övriga marknadsföringsföretag"
+    },
+    {
+      "code": "74501",
+      "label": "Arbetsförmedlingar och personalrekryteringsföretag"
+    },
+    {
+      "code": "74502",
+      "label": "Personaluthyrningsföretag"
+    },
+    {
+      "code": "74600",
+      "label": "Företag för bevakning och säkerhetstjänst, detektivbyråer"
+    },
+    {
+      "code": "74701",
+      "label": "Städföretag"
+    },
+    {
+      "code": "74702",
+      "label": "Sanerings- och desinfektionsföretag"
+    },
+    {
+      "code": "74703",
+      "label": "Skorstensfejare"
+    },
+    {
+      "code": "74811",
+      "label": "Porträttfotoateljéer"
+    },
+    {
+      "code": "74812",
+      "label": "Reklamfotoateljéer"
+    },
+    {
+      "code": "74813",
+      "label": "Press- och övriga fotografer"
+    },
+    {
+      "code": "74814",
+      "label": "Fotolaboratorier"
+    },
+    {
+      "code": "74820",
+      "label": "Förpackningsfirmor"
+    },
+    {
+      "code": "74850",
+      "label": "Kontorsservice- och översättningsbyråer"
+    },
+    {
+      "code": "74860",
+      "label": "Telefonserviceföretag (callcenterföretag)"
+    },
+    {
+      "code": "74871",
+      "label": "Byråer för grafisk formgivning och service"
+    },
+    {
+      "code": "74872",
+      "label": "Andra formgivare"
+    },
+    {
+      "code": "74873",
+      "label": "Inkasso- och kreditkontrollbyråer"
+    },
+    {
+      "code": "74874",
+      "label": "Mäss-, kongress- och dagkonferensarrangörer"
+    },
+    {
+      "code": "74879",
+      "label": "Diverse övriga företagsservicefirmor"
+    },
+    {
+      "code": "75111",
+      "label": "Stats- och kommunledande, lagstiftande och planerande organ"
+    },
+    {
+      "code": "75112",
+      "label": "Inspekterande, kontrollerande och tillståndsgivande myndigheter"
+    },
+    {
+      "code": "75113",
+      "label": "Skatteförvaltningen och kronofogdemyndigheter"
+    },
+    {
+      "code": "75114",
+      "label": "Informationsverk"
+    },
+    {
+      "code": "75121",
+      "label": "Myndigheter som administrerar grundskole- och gymnasieskoleutbildning"
+    },
+    {
+      "code": "75122",
+      "label": "Myndigheter som administrerar universitets- och högskoleutbildning och forskningsprogram"
+    },
+    {
+      "code": "75123",
+      "label": "Myndigheter som administrerar hälso- och sjukvård"
+    },
+    {
+      "code": "75124",
+      "label": "Myndigheter som administrerar social verksamhet"
+    },
+    {
+      "code": "75125",
+      "label": "Myndigheter som administrerar program för kultur, miljö, boende m.m."
+    },
+    {
+      "code": "75131",
+      "label": "Myndigheter som administrerar infrastrukturprogram"
+    },
+    {
+      "code": "75132",
+      "label": "Myndigheter som administrerar program för jordbruk, skogsbruk, jakt och fiske"
+    },
+    {
+      "code": "75133",
+      "label": "Myndigheter som administrerar arbetsmarknadsprogram"
+    },
+    {
+      "code": "75134",
+      "label": "Myndigheter som administrerar andra näringslivsprogram"
+    },
+    {
+      "code": "75140",
+      "label": "Stödmyndigheter till offentlig förvaltning"
+    },
+    {
+      "code": "75211",
+      "label": "Myndigheter som handlägger utrikes ärenden"
+    },
+    {
+      "code": "75212",
+      "label": "Myndigheter som handlägger biståndsverksamhet"
+    },
+    {
+      "code": "75221",
+      "label": "Militära operativa ledningsmyndigheter"
+    },
+    {
+      "code": "75222",
+      "label": "Armén"
+    },
+    {
+      "code": "75223",
+      "label": "Marinen"
+    },
+    {
+      "code": "75224",
+      "label": "Flygvapnet"
+    },
+    {
+      "code": "75225",
+      "label": "Centrala militära myndigheter"
+    },
+    {
+      "code": "75226",
+      "label": "Civila försvaret och frivilligförsvaret"
+    },
+    {
+      "code": "75231",
+      "label": "Åklagarväsendet"
+    },
+    {
+      "code": "75232",
+      "label": "Domstolar"
+    },
+    {
+      "code": "75233",
+      "label": "Kriminalvårdsanstalter"
+    },
+    {
+      "code": "75240",
+      "label": "Polisen"
+    },
+    {
+      "code": "75250",
+      "label": "Brandförsvaret"
+    },
+    {
+      "code": "75300",
+      "label": "Försäkringskassorna"
+    },
+    {
+      "code": "80101",
+      "label": "Förskolan"
+    },
+    {
+      "code": "80102",
+      "label": "Grundskolan"
+    },
+    {
+      "code": "80103",
+      "label": "Grundsärskolan"
+    },
+    {
+      "code": "80210",
+      "label": "Gymnasieskolans studieförberedande linjer"
+    },
+    {
+      "code": "80221",
+      "label": "Gymnasieskolans yrkesinriktade linjer"
+    },
+    {
+      "code": "80222",
+      "label": "Gymnasiesärskolor"
+    },
+    {
+      "code": "80223",
+      "label": "Andra gymnasieskolor"
+    },
+    {
+      "code": "80301",
+      "label": "Institutioner vid universitet och högskolor"
+    },
+    {
+      "code": "80309",
+      "label": "Övriga högskolor"
+    },
+    {
+      "code": "80410",
+      "label": "Trafikskolor"
+    },
+    {
+      "code": "80421",
+      "label": "Kommunala vuxenskolor o.d."
+    },
+    {
+      "code": "80422",
+      "label": "Utbildningsföretag m.m. för yrkesinriktad utbildning av arbetsmarknadsskäl"
+    },
+    {
+      "code": "80423",
+      "label": "Folkhögskolor"
+    },
+    {
+      "code": "80424",
+      "label": "Studieförbunden och frivilligorganisationernas utbildningsenheter"
+    },
+    {
+      "code": "80425",
+      "label": "Personalutbildningsinstitut"
+    },
+    {
+      "code": "80426",
+      "label": "Kommunala kulturskolor"
+    },
+    {
+      "code": "80427",
+      "label": "Utbildningsserviceföretag"
+    },
+    {
+      "code": "80429",
+      "label": "Övriga utbildningsinstitut"
+    },
+    {
+      "code": "85111",
+      "label": "Slutenvårdskliniker för primärvård"
+    },
+    {
+      "code": "85112",
+      "label": "Slutenvårdskliniker för somatisk sjukvård"
+    },
+    {
+      "code": "85113",
+      "label": "Slutenvårdskliniker för psykiatrisk sjukvård"
+    },
+    {
+      "code": "85121",
+      "label": "Hälso- och sjukvårdsmottagningar, på sjukhus"
+    },
+    {
+      "code": "85122",
+      "label": "Hälso- och sjukvårdsmottagningar, ej på sjukhus"
+    },
+    {
+      "code": "85130",
+      "label": "Tandläkarmottagningar"
+    },
+    {
+      "code": "85141",
+      "label": "Medicinska laboratorier o.d."
+    },
+    {
+      "code": "85142",
+      "label": "Företag för ambulanstransporter och ambulanssjukvård"
+    },
+    {
+      "code": "85143",
+      "label": "Sjukhem o.d. utan läkare"
+    },
+    {
+      "code": "85144",
+      "label": "Andra enheter för hälso- och sjukvård, ej läkare"
+    },
+    {
+      "code": "85200",
+      "label": "Veterinärkliniker"
+    },
+    {
+      "code": "85311",
+      "label": "Servicehus, servicelägenheter för äldre samt ålderdomshem"
+    },
+    {
+      "code": "85312",
+      "label": "Gruppbostäder o.d. för funktionshindrade"
+    },
+    {
+      "code": "85313",
+      "label": "Hem för vård eller boende för barn och ungdomar"
+    },
+    {
+      "code": "85315",
+      "label": "Hem för vård eller boende för vuxna missbrukare"
+    },
+    {
+      "code": "85316",
+      "label": "Kvinnohus, övernattningshem för hemlösa o.d."
+    },
+    {
+      "code": "85322",
+      "label": "Fritidshem, familjedaghem o.d."
+    },
+    {
+      "code": "85323",
+      "label": "Byråer för öppna sociala insatser för barn och ungdomar"
+    },
+    {
+      "code": "85324",
+      "label": "Socialkontor o.d."
+    },
+    {
+      "code": "85325",
+      "label": "Humanitära hjälporganisationer"
+    },
+    {
+      "code": "85326",
+      "label": "Flyktingförläggningar"
+    },
+    {
+      "code": "85327",
+      "label": "Hemtjänst, dagcentraler o.d. för äldre"
+    },
+    {
+      "code": "85328",
+      "label": "Hemtjänst, dagcentraler, personlig assistans o.d. för funktionshindrade"
+    },
+    {
+      "code": "85329",
+      "label": "Dagcentraler o.d. för vuxna missbrukare"
+    },
+    {
+      "code": "90010",
+      "label": "Reningsverk"
+    },
+    {
+      "code": "90021",
+      "label": "Anläggningar för insamling, sortering och omlastning av icke miljöfarligt avfall"
+    },
+    {
+      "code": "90022",
+      "label": "Anläggningar för kompostering och rötning av icke miljöfarligt avfall"
+    },
+    {
+      "code": "90023",
+      "label": "Anläggningar för deponering av icke miljöfarligt avfall"
+    },
+    {
+      "code": "90024",
+      "label": "Anläggningar för insamling, mottagning, omlastning och mellanlagring av miljöfarligt avfall"
+    },
+    {
+      "code": "90025",
+      "label": "Anläggningar för behandling och slutförvaring av miljöfarligt avfall"
+    },
+    {
+      "code": "90026",
+      "label": "Övriga avfallsanläggningar"
+    },
+    {
+      "code": "90030",
+      "label": "Gatu- och renhållningsverk o.d."
+    },
+    {
+      "code": "91111",
+      "label": "Branschorganisationer"
+    },
+    {
+      "code": "91112",
+      "label": "Arbetsgivarorganisationer"
+    },
+    {
+      "code": "91120",
+      "label": "Yrkesorganisationer"
+    },
+    {
+      "code": "91200",
+      "label": "Arbetstagarorganisationer"
+    },
+    {
+      "code": "91310",
+      "label": "Religiösa samfund"
+    },
+    {
+      "code": "91320",
+      "label": "Politiska partier och organisationer"
+    },
+    {
+      "code": "91330",
+      "label": "Andra intresseorganisationer"
+    },
+    {
+      "code": "92110",
+      "label": "Film- och videoproduktionsbolag"
+    },
+    {
+      "code": "92120",
+      "label": "Film- och videodistributionsbolag"
+    },
+    {
+      "code": "92130",
+      "label": "Biografer"
+    },
+    {
+      "code": "92200",
+      "label": "Radio- och TV-bolag"
+    },
+    {
+      "code": "92310",
+      "label": "Artister och producenter av konstnärliga, litterära och artistiska alster"
+    },
+    {
+      "code": "92320",
+      "label": "Teater- och konserthusföretag o.d."
+    },
+    {
+      "code": "92330",
+      "label": "Nöjesparker"
+    },
+    {
+      "code": "92340",
+      "label": "Dans- och andra nöjesarrangörer"
+    },
+    {
+      "code": "92400",
+      "label": "Nyhets- och bildbyråer"
+    },
+    {
+      "code": "92511",
+      "label": "Folkbibliotek"
+    },
+    {
+      "code": "92512",
+      "label": "Forsknings- och specialbibliotek"
+    },
+    {
+      "code": "92513",
+      "label": "Arkiv"
+    },
+    {
+      "code": "92520",
+      "label": "Museer och kulturminnesinstitutioner"
+    },
+    {
+      "code": "92530",
+      "label": "Botaniska trädgårdar, djurparker och naturreservat"
+    },
+    {
+      "code": "92611",
+      "label": "Skidsportanläggningar"
+    },
+    {
+      "code": "92612",
+      "label": "Golfbanor, golfklubbar"
+    },
+    {
+      "code": "92613",
+      "label": "Motorbanor"
+    },
+    {
+      "code": "92614",
+      "label": "Trav- och galoppbanor"
+    },
+    {
+      "code": "92615",
+      "label": "Sporthallar, idrottsplatser och andra sportanläggningar"
+    },
+    {
+      "code": "92621",
+      "label": "Idrottsföreningar och professionella idrottsutövare"
+    },
+    {
+      "code": "92622",
+      "label": "Tävlingsstall"
+    },
+    {
+      "code": "92623",
+      "label": "Sportskolor, båtklubbar m.m."
+    },
+    {
+      "code": "92624",
+      "label": "Sportarrangörer"
+    },
+    {
+      "code": "92625",
+      "label": "Sportadministratörer"
+    },
+    {
+      "code": "92710",
+      "label": "Spel- och vadhållningsföretag inkl. ombud"
+    },
+    {
+      "code": "92721",
+      "label": "Ridskolor och uthyrningsstall"
+    },
+    {
+      "code": "92729",
+      "label": "Diverse övriga arrangörer av rekreationsverksamhet"
+    },
+    {
+      "code": "93011",
+      "label": "Industri- och institutionstvätterier"
+    },
+    {
+      "code": "93012",
+      "label": "Konsumenttvätterier"
+    },
+    {
+      "code": "93021",
+      "label": "Frisörsalonger"
+    },
+    {
+      "code": "93022",
+      "label": "Skönhetssalonger"
+    },
+    {
+      "code": "93030",
+      "label": "Begravningsbyråer m.m."
+    },
+    {
+      "code": "93040",
+      "label": "Inrättningar för kroppsvård"
+    },
+    {
+      "code": "93050",
+      "label": "Övriga serviceföretag"
+    },
+    {
+      "code": "95000",
+      "label": "Förvärvsarbete i hushåll"
+    },
+    {
+      "code": "99000",
+      "label": "Internationella organisationer, utländska ambassader o.d."
+    }
+  ],
+  "id": "906b3cb2be1e267bdb7b63ca1ed99ce17bd6ac184f70a25e7ad7678ce295da6d"
+}
