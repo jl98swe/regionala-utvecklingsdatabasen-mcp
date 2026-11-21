@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T13:40:22+00:00",
+  "checked_at": "2026-11-21T14:08:21+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 12596,
-    "documentation": 12596,
-    "nonempty_definition": 12596,
-    "nonempty_method": 12596,
-    "verified_domains": 12517,
-    "enumerated": 6052,
-    "not_enumerated": 6465,
-    "complete_groups": 39,
+    "bindings": 13518,
+    "documentation": 13518,
+    "nonempty_definition": 13518,
+    "nonempty_method": 13518,
+    "verified_domains": 13438,
+    "enumerated": 6560,
+    "not_enumerated": 6878,
+    "complete_groups": 41,
     "groups_with_source_errors": 9,
-    "documentation_only": 79,
+    "documentation_only": 80,
     "groups": 51,
-    "unique_domains": 930
+    "unique_domains": 970
   },
   "integrity_errors": [],
   "groups": [
@@ -42,13 +42,13 @@
       ],
       "complete": false,
       "expected_bindings": 957,
-      "bindings": 797,
-      "documentation": 797,
-      "nonempty_definition": 797,
-      "nonempty_method": 797,
-      "verified_domains": 794,
-      "enumerated": 475,
-      "not_enumerated": 319,
+      "bindings": 957,
+      "documentation": 957,
+      "nonempty_definition": 957,
+      "nonempty_method": 957,
+      "verified_domains": 954,
+      "enumerated": 573,
+      "not_enumerated": 381,
       "documentation_only": 3,
       "source_errors": 3,
       "source_error_examples": [
@@ -136,15 +136,15 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 800,
-      "documentation": 800,
-      "nonempty_definition": 800,
-      "nonempty_method": 800,
-      "verified_domains": 796,
-      "not_enumerated": 399,
-      "enumerated": 397,
-      "documentation_only": 4,
-      "source_errors": 5,
+      "bindings": 1000,
+      "documentation": 1000,
+      "nonempty_definition": 1000,
+      "nonempty_method": 1000,
+      "verified_domains": 995,
+      "not_enumerated": 501,
+      "enumerated": 494,
+      "documentation_only": 5,
+      "source_errors": 6,
       "source_error_examples": [
         "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
         "AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
@@ -664,15 +664,15 @@
         "kvx_kursdelt_ht",
         "kvx_kursdelt_vt"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 770,
-      "bindings": 606,
-      "documentation": 606,
-      "nonempty_definition": 606,
-      "nonempty_method": 606,
-      "verified_domains": 606,
-      "enumerated": 536,
-      "not_enumerated": 70,
+      "bindings": 770,
+      "documentation": 770,
+      "nonempty_definition": 770,
+      "nonempty_method": 770,
+      "verified_domains": 770,
+      "enumerated": 677,
+      "not_enumerated": 93,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -682,15 +682,15 @@
         "sfi_kursdelt_ht",
         "sfi_kursdelt_vt"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 998,
-      "bindings": 800,
-      "documentation": 800,
-      "nonempty_definition": 800,
-      "nonempty_method": 800,
-      "verified_domains": 800,
-      "enumerated": 639,
-      "not_enumerated": 161,
+      "bindings": 998,
+      "documentation": 998,
+      "nonempty_definition": 998,
+      "nonempty_method": 998,
+      "verified_domains": 998,
+      "enumerated": 795,
+      "not_enumerated": 203,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -722,13 +722,13 @@
       ],
       "complete": false,
       "expected_bindings": 1541,
-      "bindings": 800,
-      "documentation": 800,
-      "nonempty_definition": 800,
-      "nonempty_method": 800,
-      "verified_domains": 800,
-      "not_enumerated": 709,
-      "enumerated": 91,
+      "bindings": 1000,
+      "documentation": 1000,
+      "nonempty_definition": 1000,
+      "nonempty_method": 1000,
+      "verified_domains": 1000,
+      "not_enumerated": 893,
+      "enumerated": 107,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -1095,11 +1095,11 @@
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
-      "documented_versions": 606,
+      "documented_versions": 770,
       "documented_columns": 13
     },
     "kvx_kursdelt_vt": {
-      "documented_versions": 604,
+      "documented_versions": 764,
       "documented_columns": 13
     },
     "lisa_arbst": {
@@ -1107,11 +1107,11 @@
       "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 800,
+      "documented_versions": 1000,
       "documented_columns": 68
     },
     "lisa_individ": {
-      "documented_versions": 1434,
+      "documented_versions": 1594,
       "documented_columns": 151
     },
     "moms": {
@@ -1131,15 +1131,15 @@
       "documented_columns": 3
     },
     "sfi_kursdelt_ht": {
-      "documented_versions": 796,
+      "documented_versions": 994,
       "documented_columns": 17
     },
     "sfi_kursdelt_vt": {
-      "documented_versions": 794,
+      "documented_versions": 992,
       "documented_columns": 17
     },
     "sivstock": {
-      "documented_versions": 9,
+      "documented_versions": 11,
       "documented_columns": 2
     },
     "slutbetyg_ak9": {
@@ -1147,7 +1147,7 @@
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 799,
+      "documented_versions": 999,
       "documented_columns": 304
     },
     "uhv": {
