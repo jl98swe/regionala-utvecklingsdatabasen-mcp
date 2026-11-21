@@ -1,0 +1,2602 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "67d671c997bcf2376367",
+  "register": "Förskoleklass",
+  "variant": "Grundskola",
+  "bindings": [
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "92504040f40e971666cbc0a645516a6cff8bc8f82903059d602227daf17ab118",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c2a7fd9d7e7c761e2142def3fd8cbccb6cb89709efa007db3d2a901f280349b9",
+        "path": "data/variable-documentation/c2a7fd9d7e7c761e2142def3fd8cbccb6cb89709efa007db3d2a901f280349b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "d64a48205647d495c40c0be3505dec57ee763b258d2df7cbbebd03a2e2d4096e",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "461f599b1914e1233e59f47724f79e38d693039e111bb293a5c997c510ccd09c",
+        "path": "data/variable-documentation/461f599b1914e1233e59f47724f79e38d693039e111bb293a5c997c510ccd09c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "0085d354c0e90288ce20719bfe7cdb47befece134393a1e54bac9163f4db6209",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3fc4234b2d7ff73c7ed798ab396a8e4ee7cb0b2622e5fd61151a1188e438ff50",
+        "path": "data/variable-documentation/3fc4234b2d7ff73c7ed798ab396a8e4ee7cb0b2622e5fd61151a1188e438ff50.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "a9e0ac09e142260ca5dabd6f32fcdb07dda9e813458e0493aaa01c5fe21c23d6",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "47905abd01286fed6a21d0fcedea4fa43a2da9b0d402d6f4e93379a94f1af9c5",
+        "path": "data/variable-documentation/47905abd01286fed6a21d0fcedea4fa43a2da9b0d402d6f4e93379a94f1af9c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "646b29f5218d6c9b77f1e80101b0586e85ab019a913dd8652fd4b5aaa392210c",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eac79fcd523e66a966ee8bd7332c6d87016bccb0ebdcfd835fd59785f6bb0d86",
+        "path": "data/variable-documentation/eac79fcd523e66a966ee8bd7332c6d87016bccb0ebdcfd835fd59785f6bb0d86.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "f8be25084ff3167cd0be10a31109708e8771fb545e4e7578ec6d86be7bee633b",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1aa7f2746079eaa81608a5ee31e3f5d3d8e6bda09c07574c7f3c39ea2fc4ca06",
+        "path": "data/variable-documentation/1aa7f2746079eaa81608a5ee31e3f5d3d8e6bda09c07574c7f3c39ea2fc4ca06.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "73094225a5737190414d901a70a7d3456722222227247fbe728eaec81a0de58b",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c9fed18e3a00c838047056f8e76724fba2c09579c7f3b2376a8e018eabc6ecdb",
+        "path": "data/variable-documentation/c9fed18e3a00c838047056f8e76724fba2c09579c7f3b2376a8e018eabc6ecdb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "id": "d2328acc698772df0e989944b08f83dd10ad8929551851c025b886efc9cda60c",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c9965b9f9253f69bdd530d119bb9c31d9e79ca10dfbd31044ba31c576458fd64",
+        "path": "data/variable-documentation/c9965b9f9253f69bdd530d119bb9c31d9e79ca10dfbd31044ba31c576458fd64.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "7170dfc663ea2af7174bb0ea1a92f02d9ff79ccc65d53e9f7141368bd8be3317",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d551a7625ccc3a5d7b0b403a150129abaee4cf7527a8a8cb9b8d1f9c9b89628",
+        "path": "data/variable-documentation/2d551a7625ccc3a5d7b0b403a150129abaee4cf7527a8a8cb9b8d1f9c9b89628.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "439d29a5daa05087e00b1f88d4b6bbad5ec64faf485f6d60ee04257108cdaa93",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "57b6ce254244a8405b691a276ad6430917288f36053dde5b388a7ef40607e336",
+        "path": "data/variable-documentation/57b6ce254244a8405b691a276ad6430917288f36053dde5b388a7ef40607e336.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "c1d2bd5b45ed7f6e382518c5aea3051132f1a5901e10f7dd7b9096bcb7563f1c",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e832bdf70e531f28ffedab6b7c55a1d8e5948059205a8c955fa0464c04acc83b",
+        "path": "data/variable-documentation/e832bdf70e531f28ffedab6b7c55a1d8e5948059205a8c955fa0464c04acc83b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "47534dc2a55de70d29e56ca251d3e41baddc669e674331324a84163ad0f1a2c2",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a922612cff21696aee149b5aebef0c31624c81bc63826cdacb3827ab31c9f600",
+        "path": "data/variable-documentation/a922612cff21696aee149b5aebef0c31624c81bc63826cdacb3827ab31c9f600.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "e56c7b7b8a4d2eec2344182e7adfc3323aaae558b4c9ec812d81d640a17ecc60",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "06d6a9fb7e762a8acf15bdd0c311317fc4bcad7378f790cb49aa23d47eb0a0b3",
+        "path": "data/variable-documentation/06d6a9fb7e762a8acf15bdd0c311317fc4bcad7378f790cb49aa23d47eb0a0b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "219a7957e8362865c96a8adb7ac9e805ab626ac249b50696b3d9e0bf827657e8",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6eeb57ed6bf7e3a0bb4d33f9b7562ed55942e8150ee7262273ffb0d18d2160ac",
+        "path": "data/variable-documentation/6eeb57ed6bf7e3a0bb4d33f9b7562ed55942e8150ee7262273ffb0d18d2160ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "a8bc52fad65e0f2e035a8bfcbcac4c772e96684005445796fb1aaee3fc6f4b4d",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc449df60966da4450549ee401e03fc0ebf0e9672c8c45c7222f8059235cda4f",
+        "path": "data/variable-documentation/bc449df60966da4450549ee401e03fc0ebf0e9672c8c45c7222f8059235cda4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "id": "37628154dd9467811e9f9e443601d0f47a6b3dd1aa97b9fffe79b1892a47340e",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "42953ad90ed6de3bb275b43abc1578d9accdf0ba0e26ca2eaf500e17512c06d4",
+        "path": "data/variable-documentation/42953ad90ed6de3bb275b43abc1578d9accdf0ba0e26ca2eaf500e17512c06d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2008",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "1a808c86938302d86df96ea93c0e7b5a9b4f4ff063616d2ac5715f689c248009",
+      "domain_id": "2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e1d2202c9e0c3c2c9682570a277c9251e68102dcd5bec57797ff6919a9dafe15",
+        "path": "data/variable-documentation/e1d2202c9e0c3c2c9682570a277c9251e68102dcd5bec57797ff6919a9dafe15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "1897f415062040301ca2a4be29804b6d5668094deadd2d299bd1df5a8e569be4",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "410c61f9d28c352b927eff770b8f74f93c777d5dd6cdf4f3fdbe92a20b00f4aa",
+        "path": "data/variable-documentation/410c61f9d28c352b927eff770b8f74f93c777d5dd6cdf4f3fdbe92a20b00f4aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "27a255f751584757a414ea73db0a79eada78751fbd4429e916aa3b52c5cea26c",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a45fa01fa8aa6250bd93e64614b73d38502767a006f9e2009ef3d3cf45f8598f",
+        "path": "data/variable-documentation/a45fa01fa8aa6250bd93e64614b73d38502767a006f9e2009ef3d3cf45f8598f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "d63b24788772197b042ffa78bfa1c5b219ca77993bb403e88ae2f57b8862e3cc",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6534cb2f4b96b19f11c922cb618b1b0f3b8bc224496bc0ed1e60b81750e3a909",
+        "path": "data/variable-documentation/6534cb2f4b96b19f11c922cb618b1b0f3b8bc224496bc0ed1e60b81750e3a909.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "57fb5ffe1429af9ca9973801e6b6f8a475c56dfdb142d3f81a2679f98d8f26f9",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95b5184c7aa4ed652253cc13acfaebf07310700aafceeae32d605a596a8dfe27",
+        "path": "data/variable-documentation/95b5184c7aa4ed652253cc13acfaebf07310700aafceeae32d605a596a8dfe27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "e357e7637fb57a9b54e00ecc3a390bf194f74ef28b31e29d1e7bd1f76f3bad95",
+      "domain_id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c513c6501bc0fffc1ba22caedf44b15aa347f5f0d7412869b04bae60f358eb80",
+        "path": "data/variable-documentation/c513c6501bc0fffc1ba22caedf44b15aa347f5f0d7412869b04bae60f358eb80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "47db11835aff7012546c50a41a27801d6f0a0c212127ce96c9fd536eec191e33",
+      "domain_id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cf4970817b740c95053ee1164d6a4e91f2db5a8df253e21a53eca4bab88a13d",
+        "path": "data/variable-documentation/1cf4970817b740c95053ee1164d6a4e91f2db5a8df253e21a53eca4bab88a13d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "6a03ab91d7c62d3f554d7c9aa227d1d49e35b7d59b36a9f957d8291d30b17352",
+      "domain_id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "742adb8ff40eebc0c33a489696497d45df090354c9e9650271714c98e44f84c2",
+        "path": "data/variable-documentation/742adb8ff40eebc0c33a489696497d45df090354c9e9650271714c98e44f84c2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "b7e1d55e072a893adb85aec7d9235b86a348ff24f72ff8e76601318b4cd77c87",
+      "domain_id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bae5b55c675899e7e07907901501e2a554a124afbeef744b8d8b374f55a95c1b",
+        "path": "data/variable-documentation/bae5b55c675899e7e07907901501e2a554a124afbeef744b8d8b374f55a95c1b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "1d2bd38f6659fe97830a7bb14aceeafc7b5a031b3ff74bbd919c1006ab84d7b5",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2c7d5446c4ecd5fda6b4eccb862f82b86162890008f71a974e89d5be4ca4ee3d",
+        "path": "data/variable-documentation/2c7d5446c4ecd5fda6b4eccb862f82b86162890008f71a974e89d5be4ca4ee3d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "3cc8abc80cc9ef4527d2d1d00ee63ac15ccd36c97f71f12bc98837ea274aaea2",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cac730bb7a2585616481a749bfc72932acd63fc5dc995b1e846fd087c7011eb1",
+        "path": "data/variable-documentation/cac730bb7a2585616481a749bfc72932acd63fc5dc995b1e846fd087c7011eb1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "2dca8e8eeb0e215c53b66bbe5dd0020e40c986d64a172e8d73be587d5b3cdf26",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ca4eafdc5539304a33d662246e16e85ab4a28f8da12588bfa0df903889ea539",
+        "path": "data/variable-documentation/8ca4eafdc5539304a33d662246e16e85ab4a28f8da12588bfa0df903889ea539.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "5c6da79e6bbf89181e5a36377c7007e5726ec6e4a344cdd6d50412e5e84218f8",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5cb9a221a46b4e4e1ea091a1aa6efdb5d24ff037c52424dd8677c5193f4c3189",
+        "path": "data/variable-documentation/5cb9a221a46b4e4e1ea091a1aa6efdb5d24ff037c52424dd8677c5193f4c3189.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "a3797174aad4b1728168fee8f24875761e2f2741ce9cdf80e475a0da38b2e112",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "81d820387c7de370cff351ef0ec69a11d44bb66058a3ef9203d7ad6497a4bf72",
+        "path": "data/variable-documentation/81d820387c7de370cff351ef0ec69a11d44bb66058a3ef9203d7ad6497a4bf72.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "23a5f8654e21e1cc7aa8e85317ad6a3f13f95e983184f3bf7f45e782cfc82077",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3480586b2423587dae91f09332ea017cc7d3aacb9a9d50877e3a94f9538e18d1",
+        "path": "data/variable-documentation/3480586b2423587dae91f09332ea017cc7d3aacb9a9d50877e3a94f9538e18d1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "967769640573ed8cfd39aa74546f8558b00aaa7c9474283f5435272c80e95f74",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f72b756cba3e6c0b10649f806059b902cd680a52cda2290de2a86f3def814bcc",
+        "path": "data/variable-documentation/f72b756cba3e6c0b10649f806059b902cd680a52cda2290de2a86f3def814bcc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "id": "216419cc2868f69290458b01d1a8bd22fead7ba0b82a9cec4484591b7548fb79",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3ec0ed1553bbf69b0de6548a41ae15a6be7d9f19f70211acfcd2a2c63314d0c",
+        "path": "data/variable-documentation/e3ec0ed1553bbf69b0de6548a41ae15a6be7d9f19f70211acfcd2a2c63314d0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2008",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "1f2bfb937a9f34fc72a58f55c92380147e6229d470c7cbfaff36ebb58f18292a",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5e6c46563666c731a104a32c8a9f54ba46fba912ddebc75075358ee76124ade5",
+        "path": "data/variable-documentation/5e6c46563666c731a104a32c8a9f54ba46fba912ddebc75075358ee76124ade5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "882fa4046632c4194dce7106acec84187d66547480c0c93def63f5473f453462",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7e2d41b3096aad60944fe718895681bfffb922f6fbdd07ee8328939f3cec5c3b",
+        "path": "data/variable-documentation/7e2d41b3096aad60944fe718895681bfffb922f6fbdd07ee8328939f3cec5c3b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "d1310c0c4272dae713a0b68fc0fa5bc45268112bfc785d29603c6270baf03ad7",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb61d020e33a7103f47c47fe5c8e725a6764fcffab6c751bd81511f06fc3a356",
+        "path": "data/variable-documentation/fb61d020e33a7103f47c47fe5c8e725a6764fcffab6c751bd81511f06fc3a356.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "dd643496898f5d88015c0a12d93a407825e76b74eb1f4a3dfb004d303875f091",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "998138795ac52e87fd997b2379424b35170cbffb39879934a35d29e8365755d0",
+        "path": "data/variable-documentation/998138795ac52e87fd997b2379424b35170cbffb39879934a35d29e8365755d0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "d126cf30cf894e2d01fce99d1bda1c0e857b0a9283c271c494cb69cb2f97029c",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9140384a531adb951eca2a5d2edd2f59891ce645fece9e30fb472b6a71dc7f12",
+        "path": "data/variable-documentation/9140384a531adb951eca2a5d2edd2f59891ce645fece9e30fb472b6a71dc7f12.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "1f6a72508f38a258874ea422fba9a89efee02a0c21481b0ebbd9c9b567b9f27e",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7021dedc861ff0eb4f5fa97979aaea0ce8e7c7e81b1b6456f6131a0e277ae034",
+        "path": "data/variable-documentation/7021dedc861ff0eb4f5fa97979aaea0ce8e7c7e81b1b6456f6131a0e277ae034.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "c2a203ed9e479bc94960c909bb4439687bf73ce8e6a26c63b045524d5c78115b",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "821e12192d6d5aa6d121ff2ef0926f49a8bb2c2b9bbc3378b94eac44f346beaf",
+        "path": "data/variable-documentation/821e12192d6d5aa6d121ff2ef0926f49a8bb2c2b9bbc3378b94eac44f346beaf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "60fa5d9a98ccce0243d372721f47a71c6b727f3f4d48e8de4b5425138613dd21",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d843c36079c3e23a97883f1a69ebcc455986dedd3ab9dbc8ba37cf8319f05a6",
+        "path": "data/variable-documentation/8d843c36079c3e23a97883f1a69ebcc455986dedd3ab9dbc8ba37cf8319f05a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "b0c4b6ae912553e76cf6ecec4822a8ef9353f1b1882b8d07909a50c214e2e016",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4507a6ed8f6fd2de698a6a90763e25c26145eed7683b6b4017077fb8338beae",
+        "path": "data/variable-documentation/d4507a6ed8f6fd2de698a6a90763e25c26145eed7683b6b4017077fb8338beae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "ae3853be0573dd42606ae986a00a6c30ab7ec070c2b54250330946e419cf68cb",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c47d5e63e8df03aadd92eaf025fea86cc1adccd9773702878b5d9c08adc12ebc",
+        "path": "data/variable-documentation/c47d5e63e8df03aadd92eaf025fea86cc1adccd9773702878b5d9c08adc12ebc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "4c39b980e5d3ace3e75d59f5368a463baa85ba8e2c15b8a3dd1f288dbe28d1e3",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "186e84c16dd967628d22e0dc18cd163c5f50d5f88fccfd6dcf1295b13f2775e9",
+        "path": "data/variable-documentation/186e84c16dd967628d22e0dc18cd163c5f50d5f88fccfd6dcf1295b13f2775e9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "9e93401997842b210ff10fecb35f109e40810929be442d93b7ff3327b5743271",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15415017589e253cc9ee4e730c7e15f4c5419be91d047f9b7653eb46331dcbc4",
+        "path": "data/variable-documentation/15415017589e253cc9ee4e730c7e15f4c5419be91d047f9b7653eb46331dcbc4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "1eff0eea41818d7730cb16b03f313bfe38385031aa600840e411b2151b08843e",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db9ae696061d33f6faecef132d179e3adfe30c41238d0b8ed7f8ec40a1bb9e6d",
+        "path": "data/variable-documentation/db9ae696061d33f6faecef132d179e3adfe30c41238d0b8ed7f8ec40a1bb9e6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "4220f647f530c82b1aed77a00efeb9483be2e2268ded6c6e3d7da76756de60a9",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7de83536998d268b0c40cac5d72b693087f51da2af44287562b9895356c36cb1",
+        "path": "data/variable-documentation/7de83536998d268b0c40cac5d72b693087f51da2af44287562b9895356c36cb1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "2d4cab4f8ecee64aef547cee54ab5963d597369da1e8222b82f7fa90580358d2",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f4e630557dcd62fb32977a64789088fe10f6182d7eaf4ac26b09bc4eabbab3b1",
+        "path": "data/variable-documentation/f4e630557dcd62fb32977a64789088fe10f6182d7eaf4ac26b09bc4eabbab3b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "6ecd6deee453282f2037adf34cf0af712de6c3eab90ab9d7a124b5e80f367ecb",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c20f22fd23175a7da74a64b7bd224aa2c4633be20617a6a788a397039845622",
+        "path": "data/variable-documentation/9c20f22fd23175a7da74a64b7bd224aa2c4633be20617a6a788a397039845622.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "id": "78901180b08d3e31cc1d1632594d720ba290b85c757efe4a630f71affa66f2b0",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "082515c79ebf8e1ef8ab00f49e7fe0dbed32e81db27ed4905fdae50296d28374",
+        "path": "data/variable-documentation/082515c79ebf8e1ef8ab00f49e7fe0dbed32e81db27ed4905fdae50296d28374.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "eb69f63af6a4907a7cbdce85e5bad21a9d9b314f03546b561c631634e479a12d",
+      "domain_id": "44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d3d84b180836ab0008852923e3de451eeb2f3fcd13c884c9d001c88c1b5650f9",
+        "path": "data/variable-documentation/d3d84b180836ab0008852923e3de451eeb2f3fcd13c884c9d001c88c1b5650f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "9816d8a62d2966a1a116bb551789f4ae21be325caabbdbdec9f14bdbbcff7a57",
+      "domain_id": "266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cfd0c0514fa711e86cbb83b49d1ade417ea3ba2ba88b7199e6a5fe68e55619b9",
+        "path": "data/variable-documentation/cfd0c0514fa711e86cbb83b49d1ade417ea3ba2ba88b7199e6a5fe68e55619b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "8d66a87ebbd4b370e33e2379d37230e90b05f6f3ffa92009d32385c7311f4812",
+      "domain_id": "c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3fb020b45cf1e8b9f146a456e6b4a9fc056f69888fe143d5bc2be0eb487e7c4f",
+        "path": "data/variable-documentation/3fb020b45cf1e8b9f146a456e6b4a9fc056f69888fe143d5bc2be0eb487e7c4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "5a18d34647eb25c0bd9640ce0fb623f6d4e611720e928672dd969622bea66d66",
+      "domain_id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b30b71b30518b31ab23d4f077668abe3228e4b8b7226a623583aed9f9f1f7009",
+        "path": "data/variable-documentation/b30b71b30518b31ab23d4f077668abe3228e4b8b7226a623583aed9f9f1f7009.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "c7ffde2a239f717d740f5cafafd907752bbd1cda5e0db3392ac128e491ff5638",
+      "domain_id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa0476fb659cb22d20fa1ab15dd5838fb5a461f2034044b344d6f3e8bbb7d2bf",
+        "path": "data/variable-documentation/fa0476fb659cb22d20fa1ab15dd5838fb5a461f2034044b344d6f3e8bbb7d2bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "f2a0677b0a707bda38f8b68d7683177af4ec0fea384725a4c7fb5a0572ea0ad0",
+      "domain_id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "38cb1d4d27db8990f5678c362ba544af1d5227522d944db49bd245e0dcf77a59",
+        "path": "data/variable-documentation/38cb1d4d27db8990f5678c362ba544af1d5227522d944db49bd245e0dcf77a59.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "b455fc8697a716e77a75b2307f28c0bc446424e63c040d1bbeec6973b16af7d3",
+      "domain_id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79c6714ca721a4d8a59df339478ce30734958cadcc1c9f8810a193bfcac17c38",
+        "path": "data/variable-documentation/79c6714ca721a4d8a59df339478ce30734958cadcc1c9f8810a193bfcac17c38.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "id": "a999f178c7c0f355d048d8085a71dc562efbf59ed69202ebac88b64a45a97203",
+      "domain_id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8acbac8131a5552887549ba98435f12540a81a8a97e92b5638d6580610951671",
+        "path": "data/variable-documentation/8acbac8131a5552887549ba98435f12540a81a8a97e92b5638d6580610951671.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "633297f55faf35bcc35e91cf8097aa46eef9a09a9a7c3d08d26a5281badcd574",
+      "domain_id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0052dec9499349c9f1aadf7359c31a2de7cfe00090255fc41de6fb17aec798d",
+        "path": "data/variable-documentation/e0052dec9499349c9f1aadf7359c31a2de7cfe00090255fc41de6fb17aec798d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "954134caa15841e27f15ff958f0885d6a7bcbb59e2b782ed9ecccf2637b73ab3",
+      "domain_id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d16d91b0d02e90d983f9d610857b9750dd19abea99f94d25db1775af4a8d1617",
+        "path": "data/variable-documentation/d16d91b0d02e90d983f9d610857b9750dd19abea99f94d25db1775af4a8d1617.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "cb72bb313c71a183f8ab546df6037eea61cd958542424447200d8c66c9718faa",
+      "domain_id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9508fdb192ed0bd65d9dcb28b640560779702ac6bb68c983d00d6a557592e015",
+        "path": "data/variable-documentation/9508fdb192ed0bd65d9dcb28b640560779702ac6bb68c983d00d6a557592e015.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "b5be1227673bc4766b1914e8fca11bceb3ccdc2f6d70042f1f51f983e4ac7d90",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc5ad6901ab4adc8f4d957fed59e0c9b421259c936f0a40b0223118858df1da9",
+        "path": "data/variable-documentation/cc5ad6901ab4adc8f4d957fed59e0c9b421259c936f0a40b0223118858df1da9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "d04ae729154bbf6c6651361f3dd554b7211f4bde25088786e4281db03e787bd7",
+      "domain_id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "39c43bab0abee105e77d280b19f509e8c73e89a5f37b7b7d9393d0454298ac6d",
+        "path": "data/variable-documentation/39c43bab0abee105e77d280b19f509e8c73e89a5f37b7b7d9393d0454298ac6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "da3dbd555c5f98b81e3194a720690929ae127e35fe1c8b87c853aa907a79100a",
+      "domain_id": "accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "661d41f4831f11ae07e008104ba0535fd0624d495d35d7914e7fa428404990c1",
+        "path": "data/variable-documentation/661d41f4831f11ae07e008104ba0535fd0624d495d35d7914e7fa428404990c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "c6ccd539d01b8cafdf6f77df1b6f9f2b6e8a8aa5fd1a5df1eaabc258b0f939b1",
+      "domain_id": "2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7048f208f2c97edb682fa90c433a0761a1d572d0bbf267d41fde55b8bd17df6c",
+        "path": "data/variable-documentation/7048f208f2c97edb682fa90c433a0761a1d572d0bbf267d41fde55b8bd17df6c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "id": "8926f7f761916b6361d6b11c5a8ca9e453290942c1414600f03fea091fe0a157",
+      "domain_id": "fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f7192e3c6029173dccbc5191a26a8fe319e29f091041ff9f284e646f2eca0b04",
+        "path": "data/variable-documentation/f7192e3c6029173dccbc5191a26a8fe319e29f091041ff9f284e646f2eca0b04.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "f93e0b688b72f3d1b7dfc99e40ad05b6f4ef84547a56119ac280d2826669cef5",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "079f10c208611a324206eaba5b5b7843b063cffa75dba8faf365bbf20974381d",
+        "path": "data/variable-documentation/079f10c208611a324206eaba5b5b7843b063cffa75dba8faf365bbf20974381d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "defb3b16e410efca3e1796c10ca9484c64a0338a933adf9aec237add087c0140",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a86efee6c9a5db0c1d014aa01fb33a8dd89307cb7195a2671b21120d6ba5d224",
+        "path": "data/variable-documentation/a86efee6c9a5db0c1d014aa01fb33a8dd89307cb7195a2671b21120d6ba5d224.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "67938958215eeb4d76935291f41dfc8d4c6de596f8fd2e19d3dc82c305a07837",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0c0c05425f3911e1d94d3c5db34d97df6b1d4853322e05bc9965c5ca63c54b2",
+        "path": "data/variable-documentation/e0c0c05425f3911e1d94d3c5db34d97df6b1d4853322e05bc9965c5ca63c54b2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "189c3ad558860602be4ff7881c9aa8db8994d4daa62fe93fc14594f3732ff3fc",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "025fea09c45695df62e145a6213784657c6105eda92501acff2bcd65710c19fe",
+        "path": "data/variable-documentation/025fea09c45695df62e145a6213784657c6105eda92501acff2bcd65710c19fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "43601f1b33636603f974bad98f6ee18167fdfaf49258539d6edcd3e62017a980",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a75cf211a60a9413007c96e8cbac3fa37e0b7d68bef3d252ad9ff0b35b5b1ded",
+        "path": "data/variable-documentation/a75cf211a60a9413007c96e8cbac3fa37e0b7d68bef3d252ad9ff0b35b5b1ded.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "1673c823ff2030581c782f364626e8ce5044187b8261015b65dd107332f53832",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c631978f11f4cb17bf85f8fd5d320eee94b78adeb6db44cfbddc43dbc693424",
+        "path": "data/variable-documentation/0c631978f11f4cb17bf85f8fd5d320eee94b78adeb6db44cfbddc43dbc693424.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "7e84e4bb8b7d93ee14e6ff7c3eac958eb55d09bbf0e120a89e4b8ae05dd7404c",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb6a3592e303491ddf49b9f85878df56d3a478ca3916c43eef9dc3f8adf85d7a",
+        "path": "data/variable-documentation/fb6a3592e303491ddf49b9f85878df56d3a478ca3916c43eef9dc3f8adf85d7a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "1dc1b75c9b520953ed65934371b17482eb7cf62f041f2a44b84e30b64c1c8032",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "00064473da9385475e073c82dfd1102ea6021659c07fdc6188489b763389c1ef",
+        "path": "data/variable-documentation/00064473da9385475e073c82dfd1102ea6021659c07fdc6188489b763389c1ef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "2c8071830878fa1ef67ddd33f07493a627fdc01c0d9c66e0e790d7c6568b4440",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a8269ecf91309f50d0275657df8c2ccd28ac463b9923cdec9b5d825bafa152d3",
+        "path": "data/variable-documentation/a8269ecf91309f50d0275657df8c2ccd28ac463b9923cdec9b5d825bafa152d3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "a3bf70fea6cba651e40d64d288333b642726673e93dd8eeb52eb31acbfabd488",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c847cf7ec6716982069815748b550e72cf4fba848df244559c2246afc2c890e8",
+        "path": "data/variable-documentation/c847cf7ec6716982069815748b550e72cf4fba848df244559c2246afc2c890e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "c35e16f05e9c85fa0bc80bf11a4ff9edf91df9131587087686009506c2c2f108",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5bf61f99342c605d46faf5eea41091df04977830dffdce2c19eb5482d47cb32",
+        "path": "data/variable-documentation/d5bf61f99342c605d46faf5eea41091df04977830dffdce2c19eb5482d47cb32.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "af6cd274c4c841fbcfc29baaf244de8ec35b97556d6b9f9de1ca3cc8d4a502d9",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8f3f75506bd8146a7a4867e88703f51229d599eed9d8c521fdaf6f9f9d4b745f",
+        "path": "data/variable-documentation/8f3f75506bd8146a7a4867e88703f51229d599eed9d8c521fdaf6f9f9d4b745f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "d00b2b527ff16fca864f98c4b47a010ff2819c161dfad3f0ca63b9dba3e0e28d",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "73bebfc5e26509c064a972a37579c8f0aed557c14985aa9a195cac7e2be79066",
+        "path": "data/variable-documentation/73bebfc5e26509c064a972a37579c8f0aed557c14985aa9a195cac7e2be79066.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "c2f2191255be2637ae122c998a66df9f36bd4f523f8a49969a0482059e90ab7f",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a25d62babbdbabe83c5e106246eb9f90ca6b0fab9559894f9a5fdc12981561cb",
+        "path": "data/variable-documentation/a25d62babbdbabe83c5e106246eb9f90ca6b0fab9559894f9a5fdc12981561cb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "5bb33df4526fad773255c8de8eef4e8e452b36b1dcf1f8a7dd12825fc89618e0",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4835918eeb0c31f586ab4873f3c846c30a4a1502261a67b6185d15e7a989227",
+        "path": "data/variable-documentation/d4835918eeb0c31f586ab4873f3c846c30a4a1502261a67b6185d15e7a989227.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    },
+    {
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "id": "cf351ca5beba215c5af33fb4107dad119607e7f895d012c34515ff7183ebed62",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:20:30+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c00e56da1910b4857b986bb22b93a39a60bf07bc26bd79556d8d2111646b0c70",
+        "path": "data/variable-documentation/c00e56da1910b4857b986bb22b93a39a60bf07bc26bd79556d8d2111646b0c70.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:20:30+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "LKF 2017-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "value_count": 290,
+      "path": "data/value-domain-values/25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a.json"
+    },
+    {
+      "version": "2018-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "value_count": 290,
+      "path": "data/value-domain-values/262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9.json"
+    },
+    {
+      "version": "LKF 2010-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e",
+      "value_count": 290,
+      "path": "data/value-domain-values/266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e.json"
+    },
+    {
+      "version": "2023-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2",
+      "value_count": 290,
+      "path": "data/value-domain-values/2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "char(2)",
+      "id": "2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560",
+      "value_count": 7,
+      "path": "data/value-domain-values/2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "bigint",
+      "id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "value_count": 7,
+      "path": "data/value-domain-values/2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350.json"
+    },
+    {
+      "version": "Skolform",
+      "level": "Skolform t.o.m. 2014",
+      "data_type": "char(2)",
+      "id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "value_count": 17,
+      "path": "data/value-domain-values/32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58.json"
+    },
+    {
+      "version": "LKF 2014-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "value_count": 290,
+      "path": "data/value-domain-values/35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff.json"
+    },
+    {
+      "version": "Huvudman fr.om. 2015 ",
+      "level": "Huvudman inkl utlandsskolor",
+      "data_type": "bigint",
+      "id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "value_count": 5,
+      "path": "data/value-domain-values/37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b.json"
+    },
+    {
+      "version": "2019-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "value_count": 290,
+      "path": "data/value-domain-values/420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc.json"
+    },
+    {
+      "version": "LKF 2009-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58",
+      "value_count": 290,
+      "path": "data/value-domain-values/44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58.json"
+    },
+    {
+      "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "value_count": 290,
+      "path": "data/value-domain-values/4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "char(1)",
+      "id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "value_count": 7,
+      "path": "data/value-domain-values/591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a.json"
+    },
+    {
+      "version": "Skolform fr.o.m. 2015",
+      "level": "Skolform fr.o.m. 2015 ",
+      "data_type": "char(2)",
+      "id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "value_count": 16,
+      "path": "data/value-domain-values/64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79.json"
+    },
+    {
+      "version": "LKF 2016-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "value_count": 290,
+      "path": "data/value-domain-values/7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971.json"
+    },
+    {
+      "version": "2021-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "value_count": 290,
+      "path": "data/value-domain-values/7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631.json"
+    },
+    {
+      "version": "Inriktning",
+      "level": "Inriktning 2",
+      "data_type": "char(2)",
+      "id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "value_count": 6,
+      "path": "data/value-domain-values/87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e.json"
+    },
+    {
+      "version": "Årskurs",
+      "level": "Årskurs, grundskola 0-10",
+      "data_type": "char(2)",
+      "id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "value_count": 12,
+      "path": "data/value-domain-values/a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024.json"
+    },
+    {
+      "version": "2022-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c",
+      "value_count": 290,
+      "path": "data/value-domain-values/accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c.json"
+    },
+    {
+      "version": "Huvudman fr.om. 2015 ",
+      "level": "Huvudman inkl utlandsskolor",
+      "data_type": "char(1)",
+      "id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "value_count": 5,
+      "path": "data/value-domain-values/b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f.json"
+    },
+    {
+      "version": "LKF 2015-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "value_count": 290,
+      "path": "data/value-domain-values/b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35.json"
+    },
+    {
+      "version": "LKF 2011-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942",
+      "value_count": 290,
+      "path": "data/value-domain-values/c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "value_count": 290,
+      "path": "data/value-domain-values/c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85.json"
+    },
+    {
+      "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "value_count": 290,
+      "path": "data/value-domain-values/cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23.json"
+    },
+    {
+      "version": "2024-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4",
+      "value_count": 290,
+      "path": "data/value-domain-values/fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "80a07d3ce284a4a15f39cf820edf32776160ba5e6a10437356f776193bfd0542",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "1cb9560ef8065bd67ff12a00f9a681f50a2ce0f96bcb6982a764f034bc5698ab",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:20:30+00:00",
+    "task_count": 7,
+    "expected_bindings": 82,
+    "documented_bindings": 82,
+    "errors": []
+  }
+}
