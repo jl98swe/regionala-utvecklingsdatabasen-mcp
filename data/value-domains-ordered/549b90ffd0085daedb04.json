@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "549b90ffd0085daedb04",
+  "register": "Gymnasieskola: elever",
+  "variant": "Elever",
+  "bindings": [],
+  "domains": [],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "992cad112a4e08b53d895e42ca9f9cad80ac64a39321907c32d2644f6e930b3a",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:14:53+00:00",
+    "task_count": 16,
+    "expected_bindings": 0,
+    "errors": [
+      "Antal_Ar: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']",
+      "Arskurs: inga verifierade beställningsperioder i källversionerna ['15 oktober 1992', '15 oktober 2025']..['15 oktober 1992', '15 oktober 2025']",
+      "Direkt: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']",
+      "FriTypGy: inga verifierade beställningsperioder i källversionerna ['15 oktober 1995', '15 oktober 2005']..['15 oktober 1995', '15 oktober 2005']",
+      "Hman: inga verifierade beställningsperioder i källversionerna ['15 oktober 1995', '15 oktober 2025']..['15 oktober 1995', '15 oktober 2025']",
+      "InriktningGy: inga verifierade beställningsperioder i källversionerna ['15 oktober 2006', '15 oktober 2025']..['15 oktober 2006', '15 oktober 2025']",
+      "Jurform: inga verifierade beställningsperioder i källversionerna ['15 oktober 2015', '15 oktober 2025']..['15 oktober 2015', '15 oktober 2025']",
+      "Kommun: inga verifierade beställningsperioder i källversionerna ['15 oktober 1995', '15 oktober 2016']..['15 oktober 1995', '15 oktober 2016']",
+      "Larl_Ers: inga verifierade beställningsperioder i källversionerna ['15 oktober 2014', '15 oktober 2025']..['15 oktober 2014', '15 oktober 2025']",
+      "MeritVarde_Ak9: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']",
+      "MeritVarde_M2_Ak9: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']",
+      "Stvkod: inga verifierade beställningsperioder i källversionerna ['15 oktober 1992', '15 oktober 2025']..['15 oktober 1992', '15 oktober 2025']",
+      "Skolkommun: inga verifierade beställningsperioder i källversionerna ['15 oktober 2017', '15 oktober 2025']..['15 oktober 2017', '15 oktober 2025']",
+      "StartAr: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']",
+      "Utb_Form: inga verifierade beställningsperioder i källversionerna ['15 oktober 1999', '15 oktober 2025']..['15 oktober 1999', '15 oktober 2025']",
+      "Verkform: inga verifierade beställningsperioder i källversionerna ['15 oktober 2016', '15 oktober 2025']..['15 oktober 2016', '15 oktober 2025']"
+    ]
+  }
+}
