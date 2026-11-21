@@ -100,3 +100,20 @@ Den fullständiga SCB-indexexporten bevaras komprimerad. CSV-exporten innehålle
 även poster utan kolumnnamn och några ofullständiga poster; de används inte som
 kolumnträffar. Skillnaden mellan gränssnittets och exportens radantal dokumenteras,
 och inga saknade kolumnnamn fylls i genom antaganden.
+
+
+### Definitioner, population och metodfält
+
+Den beställningsstyrda hämtningen sparar även den synliga beskrivningstabellen
+för varje faktisk registerversion. Variabeldefinition, variabelbeskrivning,
+måttenhet, källa, populationsdefinition, registersyfte och mätinformation följer
+med när SCB tillhandahåller dem. Ingen fullständig metodbeskrivning antas finnas.
+Externa metodrapporter och PDF-filer laddas inte automatiskt ned.
+
+Originalfältnamn, upprepade fält och tomma värden bevaras i en ordnad lista under
+`data/variable-documentation/`. En innehållsbaserad referens knyter dokumentet
+till samma registervariant, kolumn och registerversion som kodlistan. Tidigare
+hämtade poster kompletteras successivt; en tom eller ännu inte hämtad definition
+ska inte tolkas som att SCB saknar dokumentation. `hamta_vardemangd` returnerar
+`documentation.status` och insamlade originalfält. Källans populationsbeskrivning
+ändrar inte populationen i MONA-beställningen.

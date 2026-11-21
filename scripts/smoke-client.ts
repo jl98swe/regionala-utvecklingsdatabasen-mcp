@@ -6,7 +6,7 @@ const c=new Client({name:'regionala-utvecklingsdatabasen-smoke',version:'1.0.0'}
 await c.connect(new StreamableHTTPClientTransport(new URL(url),{fetch:(input,init)=>fetch(input,{...init,signal:AbortSignal.timeout(30_000)})}));
 try{
  const tools=await c.listTools();assert.equal(tools.tools.length,9);
- assert.equal(c.getServerVersion()?.version,'0.7.0');
+ assert.equal(c.getServerVersion()?.version,'0.7.1');
  for(const name of ['sok_variabler','hamta_kodmall'])assert.match(tools.tools.find(t=>t.name===name)!.description!,/inget ska sparas/);
  const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
  assert.notEqual(support.isError,true);

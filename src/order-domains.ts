@@ -16,7 +16,7 @@ const caveats=[
  'Samma värdemängdsnamn kan ha olika innehåll. Innehålls-id, registervariant och registerversion bevaras. Koder behålls som text, inklusive tom kod och inledande nollor.'
 ];
 async function load(path:string){
- if(!/^data\/(value-domains-ordered\/[a-f0-9]{20}|value-domain-values\/[a-f0-9]{64})\.json$/.test(path))throw new Error('Ogiltig katalogsökväg.');
+ if(!/^data\/(value-domains-ordered\/[a-f0-9]{20}|(?:value-domain-values|variable-documentation)\/[a-f0-9]{64})\.json$/.test(path))throw new Error('Ogiltig katalogsökväg.');
  const cached=cache.get(path);if(cached&&Date.now()-cached.time<120_000)return cached.data;
  const response=await fetch(BASE+path,{signal:AbortSignal.timeout(20_000)});
  if(response.status===404)return null;
@@ -61,7 +61,15 @@ export async function getAnyDomain(id:string,codes:string[]=[],offset=0,limit=30
  if(info.path!==path)throw new Error('Fel innehållsadress för värdemängden.');
  const domain=await load(path) as {id:string;version:string;level:string;data_type:string;values:{code:string;label:string}[]}|null;
  if(!domain||domain.id!==info.id||domain.values.length!==info.value_count)throw new Error('Värdemängden kunde inte verifieras mot registerkatalogen.');
+ let documentation:Record<string,unknown>={status:'not_yet_collected'};
+ const ref=b.documentation as {id:string;path:string}|undefined;
+ if(ref){
+  if(!/^[a-f0-9]{64}$/.test(ref.id)||ref.path!==`data/variable-documentation/${ref.id}.json`)throw new Error('Fel dokumentationsreferens.');
+  const doc=await load(ref.path) as {id:string;source:string;fields:{name:string;value:string}[]}|null;
+  if(doc&&(doc.id!==ref.id||!Array.isArray(doc.fields)||!doc.fields.every(f=>typeof f.name==='string'&&typeof f.value==='string')))throw new Error('Dokumentationen kunde inte verifieras.');
+  documentation=doc?{status:'available',...doc}:{status:'not_available',id:ref.id};
+ }
  const wanted=new Set(codes),values=domain.values.filter(v=>!wanted.size||wanted.has(v.code));
  const {values:_,...definition}=domain;
- return {...orderDomainStamp,source:'https://mikrometadata.scb.se/',binding:{...b,id,register:group.register,variant:group.variant},coverage:state.coverage,domain:definition,total:values.length,offset,results:values.slice(offset,offset+limit),next_offset:offset+limit<values.length?offset+limit:null,caveats};
+ return {...orderDomainStamp,source:'https://mikrometadata.scb.se/',binding:{...b,id,register:group.register,variant:group.variant},coverage:state.coverage,documentation,domain:definition,total:values.length,offset,results:values.slice(offset,offset+limit),next_offset:offset+limit<values.length?offset+limit:null,caveats};
 }

@@ -3,7 +3,7 @@ from pathlib import Path
 import sys
 ROOT=Path(__file__).parents[1];sys.path.insert(0,str(ROOT/'scripts'))
 from harvest_mikrometadata import digest
-from harvest_order_domains import eligible,export_sets
+from harvest_order_domains import eligible,export_sets,documentation_record
 class OrderTests(unittest.TestCase):
  def test_period_scope_does_not_invent_order_availability(self):
   self.assertTrue(eligible('1997-2024','2010'))
@@ -29,6 +29,12 @@ class OrderTests(unittest.TestCase):
   self.assertEqual(len(result),2)
   self.assertEqual(result[0][0]['values'],[{'code':'001','label':'Ett'},{'code':'','label':'Saknas'}])
   self.assertEqual(result[0][1],{'X'})
+ def test_documentation_preserves_repeated_and_empty_source_fields(self):
+  rows=[('Variabelnamn','Syntetiskt exempel'),('Variabeldefinition',''),('Populationnamn','A'),('Populationnamn','B'),('Registerversionmätinformation','Metodexempel')]
+  d=documentation_record(rows)
+  self.assertEqual(d['fields'],[{'name':k,'value':v} for k,v in rows])
+  self.assertEqual(d['id'],digest({k:v for k,v in d.items() if k!='id'}))
+  with self.assertRaises(ValueError):documentation_record([('Annan rubrik','exempel')])
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'
@@ -52,6 +58,9 @@ class OrderTests(unittest.TestCase):
    d=json.loads(path.read_text());domains={v['id']:v for v in d['domains']}
    self.assertEqual(len(d['bindings']),len({b['id'] for b in d['bindings']}))
    for b in d['bindings']:
+    if b.get('documentation'):
+     ref=b['documentation'];doc=json.loads((ROOT/ref['path']).read_text())
+     self.assertEqual(ref['id'],doc['id']);self.assertEqual(doc['id'],digest({k:v for k,v in doc.items() if k!='id'}))
     self.assertTrue(b['orders']);self.assertIn(b['domain_id'],domains)
     domain=domains[b['domain_id']];actual=json.loads((ROOT/domain['path']).read_text())
     self.assertEqual(domain['value_count'],len(actual['values']))

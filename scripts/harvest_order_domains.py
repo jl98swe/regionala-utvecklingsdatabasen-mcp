@@ -56,6 +56,28 @@ def export_sets(text):
   d['id']=digest(d);result.append((d,{r['Kolumnnamn'] for r in values}))
  return result
 
+def documentation_record(rows):
+ # A list preserves repeated population/object fields and empty values.
+ fields=[{'name':str(name),'value':str(value)} for name,value in rows]
+ if not any(f['name']=='Variabelnamn' for f in fields):
+  raise ValueError('Variabelnamn saknas i dokumentationstabellen')
+ document={'source':SOURCE,'fields':fields}
+ document['id']=digest(document)
+ return document
+
+def capture_documentation(page):
+ table=page.get_by_role('table').filter(has=page.get_by_role('cell',name='Variabeldefinition',exact=True))
+ if table.count()!=1:raise ValueError('Beskrivningstabellen är inte entydig')
+ rows=[]
+ for row in table.get_by_role('row').all():
+  cells=row.get_by_role('cell');count=cells.count()
+  if count not in (1,2):raise ValueError('Oväntad struktur i beskrivningstabellen')
+  rows.append((cells.nth(0).inner_text(),cells.nth(1).inner_text() if count==2 else ''))
+ document=documentation_record(rows)
+ path=f"data/variable-documentation/{document['id']}.json"
+ if not (ROOT/path).exists():atomic_save(ROOT/path,document)
+ return {'id':document['id'],'path':path}
+
 def main(a):
  from playwright.sync_api import sync_playwright,expect
  expect.set_options(timeout=60000)
@@ -114,7 +136,7 @@ def main(a):
     if depth>=len(versions):continue
     label,bid,identity=versions[depth]
     old=byid.get(bid)
-    if old and (old.get('source_updated')==update or depth>0):continue
+    if old and old.get('documentation') and (old.get('source_updated')==update or depth>0):continue
     remaining+=1
     if checked>=a.max_checks:continue
     try:
@@ -122,6 +144,11 @@ def main(a):
      button=page.get_by_role('button',name=label,exact=True);button.click()
      expect(button).to_have_class(re.compile(r'\bmud-button-filled-primary\b'));expect(button).to_be_enabled();expect(page.get_by_role('progressbar')).to_have_count(0)
      expect(page.get_by_role('button',name=CSV,exact=True).nth(1)).to_be_enabled()
+     documentation=capture_documentation(page)
+     if old and old.get('source_updated')==update:
+      byid[bid]=old|{'documentation':documentation,'documentation_retrieved_at':now}
+      checked+=1;save();print(f"DOKUMENTATION | {task['Kolumnnamn']} | {label} | {checked}/{a.max_checks}",flush=True)
+      continue
      version,level=detail(page,'Värdemängdsversion'),detail(page,'Värdemängdsnivå')
      type_rows=page.get_by_role('row').filter(has=page.get_by_role('cell',name='Datatyp',exact=True))
      dtype=type_rows.last.get_by_role('cell').nth(1).inner_text().strip() if type_rows.last.get_by_role('cell').count()>1 else ''
@@ -143,7 +170,7 @@ def main(a):
      if not (ROOT/domain_path).exists():atomic_save(ROOT/domain_path,domain)
      domains[domain['id']]={k:v for k,v in domain.items() if k!='values'}|{'value_count':len(domain['values']),'path':domain_path}
      orders=[o for o in task['orders'] if eligible(o['ar_raw'],label)]
-     byid[bid]=identity|{'id':bid,'domain_id':domain['id'],'status':status,'source_updated':update,'retrieved_at':now,'definition_only_verified':status=='not_enumerated','orders':orders,'order_years_unknown':any(not o['ar_raw'] for o in orders)}
+     byid[bid]=identity|{'id':bid,'domain_id':domain['id'],'status':status,'source_updated':update,'retrieved_at':now,'definition_only_verified':status=='not_enumerated','orders':orders,'order_years_unknown':any(not o['ar_raw'] for o in orders),'documentation':documentation,'documentation_retrieved_at':now}
      checked+=1;save()
      print(f"OK | {task['Kolumnnamn']} | {label} | {len(domain['values'])} | {checked}/{a.max_checks}",flush=True)
      time.sleep(.2)
