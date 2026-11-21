@@ -73,6 +73,14 @@ class OrderTests(unittest.TestCase):
   self.assertTrue(eligible('2005','Läsåret 2004/2005'))
   self.assertFalse(eligible('2004','Läsåret 2004/2005'))
   self.assertFalse(eligible('2005','Läsåret 2003/2005'))
+ def test_explicit_semesters_and_combined_academic_ranges(self):
+  self.assertTrue(eligible('2024','2024 vårterminen'))
+  self.assertFalse(eligible('2023','2024 vårterminen'))
+  self.assertTrue(eligible('1994','Läsåren 1993/1994 - 2025/2026'))
+  self.assertFalse(eligible('1993','Läsåren 1993/1994 - 2025/2026'))
+  self.assertTrue(eligible('2020','Programperiod 2014-2020'))
+  self.assertFalse(eligible('2021','Programperiod 2014-2020'))
+  self.assertTrue(eligible('2024','1970 - 2025'))
  def test_literal_multiline_labels_preserve_codes_and_fail_on_truncation(self):
   # Syntetiskt exempel med samma oquotade radbrytning som SCB:s riktiga TSV.
   header='Vardemangdsversion\tVardemangdsniva\tVardekod\tVardebenamning\tKolumnnamn\tDatatyp\n'

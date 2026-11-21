@@ -11,6 +11,17 @@ def group_id(register,variant):return digest([register,variant])[:20]
 def eligible(raw,label):
  if not raw:return True  # Source documentation only; does not assert order availability.
  label=label.strip()
+ years=re.fullmatch(r'Läsåren (\d{4})/(\d{4})\s*-\s*(\d{4})/(\d{4})',label)
+ if years:
+  a,b,c,d=map(int,years.groups())
+  if b!=a+1 or d!=c+1 or c<a:return False
+  label=f'{b}-{d}'
+ semester=re.fullmatch(r'(\d{4}) (?:vårterminen|höstterminen)',label)
+ if semester:label=semester.group(1)
+ program=re.fullmatch(r'Programperiod (\d{4})-(\d{4})',label)
+ if program:label='-'.join(program.groups())
+ spaced=re.fullmatch(r'(\d{4})\s*[-–/]\s*(\d{4})',label)
+ if spaced:label='-'.join(spaced.groups())
  school=re.fullmatch(r'Läsåret (\d{4})/(\d{4})',label)
  if school:
   start,end=map(int,school.groups())
