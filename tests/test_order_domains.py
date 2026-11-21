@@ -36,7 +36,7 @@ class OrderTests(unittest.TestCase):
   self.assertEqual(d['id'],digest({k:v for k,v in d.items() if k!='id'}))
   with self.assertRaises(ValueError):documentation_record([('Annan rubrik','exempel')])
  def test_existing_code_lists_do_not_mark_partial_documentation_complete(self):
-  bindings={'a':{'documentation':{'id':'example'}},'b':{}}
+  bindings={'a':{'documentation':{'id':'example'},'domain_id':'domain-a'},'b':{'domain_id':'domain-b'}}
   self.assertFalse(collection_complete({'a','b'},bindings,[]))
   bindings['b']['documentation']={'id':'example2'}
   self.assertTrue(collection_complete({'a','b'},bindings,[]))
@@ -69,6 +69,19 @@ class OrderTests(unittest.TestCase):
   self.assertTrue(eligible('2011-2024','2024, slutlig version'))
   self.assertFalse(eligible('2011-2024','2025, preliminär version'))
   self.assertFalse(eligible('2011-2024','2024, okänd version'))
+ def test_school_year_maps_to_completion_year(self):
+  self.assertTrue(eligible('2005','Läsåret 2004/2005'))
+  self.assertFalse(eligible('2004','Läsåret 2004/2005'))
+  self.assertFalse(eligible('2005','Läsåret 2003/2005'))
+ def test_literal_multiline_labels_preserve_codes_and_fail_on_truncation(self):
+  # Syntetiskt exempel med samma oquotade radbrytning som SCB:s riktiga TSV.
+  header='Vardemangdsversion\tVardemangdsniva\tVardekod\tVardebenamning\tKolumnnamn\tDatatyp\n'
+  result=export_sets(header+'v\tl\t001\tRad ett\nrad två\tX\tchar(3)\n')
+  self.assertEqual(result[0][0]['values'],[{'code':'001','label':'Rad ett\nrad två'}])
+  with self.assertRaises(ValueError):export_sets(header+'v\tl\t001\tAvhuggen\n')
+  with self.assertRaises(ValueError):export_sets(header+'v\tl\t001\tText\tX\n')
+ def test_documentation_only_is_not_a_complete_value_domain(self):
+  self.assertFalse(collection_complete({'x'},{'x':{'documentation':{'id':'example'},'domain_id':None}},[]))
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'
@@ -95,7 +108,10 @@ class OrderTests(unittest.TestCase):
     if b.get('documentation'):
      ref=b['documentation'];doc=json.loads((ROOT/ref['path']).read_text())
      self.assertEqual(ref['id'],doc['id']);self.assertEqual(doc['id'],digest({k:v for k,v in doc.items() if k!='id'}))
-    self.assertTrue(b['orders']);self.assertIn(b['domain_id'],domains)
+    self.assertTrue(b['orders'])
+    if b['status']=='documentation_only':
+     self.assertIsNone(b['domain_id']);self.assertTrue(b.get('documentation'));continue
+    self.assertIn(b['domain_id'],domains)
     domain=domains[b['domain_id']];actual=json.loads((ROOT/domain['path']).read_text())
     self.assertEqual(domain['value_count'],len(actual['values']))
     if b['status']=='not_enumerated':self.assertTrue(b['definition_only_verified'])

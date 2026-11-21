@@ -17,7 +17,16 @@
         "variant": "Slutbetyg"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "topic": "TotalPoäng och TotalPoang",
+        "verified_at": "2026-11-21",
+        "source": "https://mikrometadata.scb.se/",
+        "evidence": "Vid namnbytesgränsen 2003/2004 respektive 2004/2005 har båda definitionen Summa gymnasiepoäng, operationell definition Härledd utifrån betyg samt kursvariabler och måttenhet Antal.",
+        "interpretation": "Stöd för gemensamt analysnamn vid denna gräns; senare läroplans- och definitionsändringar ska granskas per version. Beställningen använder TotalPoäng 1997–2004 och TotalPoang 2005–2025."
+      }
+    ]
   },
   "elevgymn": {
     "status": "reviewed",
@@ -438,7 +447,23 @@
         "variant": "Individer"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "topic": "Strukturell täckning efter hustyp",
+        "ordered_columns": [
+          "Antrum",
+          "koktyp",
+          "LGHKAT",
+          "SCB_LghTyp",
+          "BOAREA"
+        ],
+        "verified_at": "2026-11-21",
+        "source": "https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Lagenhetsregistret/registrets-innehall/",
+        "evidence": "Lägenhetsregistret innehåller bostadsarea för småhus; antal rum, kökstyp och lägenhetskategori anges för övriga bostäder. SCB_LghTyp härleds enligt Mikrometadata från antal rum och kökstyp.",
+        "interpretation": "Bortfall i dessa uppgifter kan vara strukturellt. Kontrollera per SCB_Bostkat/Boendeform. BOAREA ska inte begränsas till flerbostadshus. Begreppet bostadslägenhet omfattar även småhus. De korta variabeldefinitionerna ensamma anger inte hela täckningsbegränsningen."
+      }
+    ]
   },
   "lisa_individ": {
     "status": "reviewed",

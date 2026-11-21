@@ -26,3 +26,20 @@ test('order lookup preserves exact codes, aliases, provenance and pending groups
   assert.ok('source_groups' in pending&&pending.source_groups.some(g=>'status' in g&&g.status==='pending'));
  }finally{clearOrderDomainCache();globalThis.fetch=original;}
 });
+
+test('verified documentation remains available when source code export fails',async()=>{
+ const group=index.groups.find(g=>g.views.includes('rtb'))!;
+ const bid='a'.repeat(64),docid='c'.repeat(64);
+ const binding={id:bid,column:'Kommun',variable:'Synthetic example',register_version:'2024',
+  status:'documentation_only',domain_id:null,documentation:{id:docid,path:`data/variable-documentation/${docid}.json`},
+  orders:[{databasvy:'rtb',variabel:'Kommun',ar_raw:'2024'}]};
+ const state={group_id:group.id,bindings:[binding],domains:[],coverage:{complete:false}};
+ const doc={id:docid,source:'https://mikrometadata.scb.se/',fields:[{name:'Variabeldefinition',value:'Synthetic example'}]};
+ const original=globalThis.fetch;
+ globalThis.fetch=async input=>new Response(JSON.stringify(String(input).endsWith(`${docid}.json`)?doc:state));
+ try{
+  clearOrderDomainCache();const result=await getAnyDomain(`${group.id}:${bid}`);
+  assert.equal(result.domain,null);assert.equal(result.domain_status,'not_verified');
+  assert.equal(result.documentation.status,'available');assert.deepEqual(result.results,[]);
+ }finally{clearOrderDomainCache();globalThis.fetch=original;}
+});

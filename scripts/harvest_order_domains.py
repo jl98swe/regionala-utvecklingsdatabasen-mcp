@@ -11,6 +11,12 @@ def group_id(register,variant):return digest([register,variant])[:20]
 def eligible(raw,label):
  if not raw:return True  # Source documentation only; does not assert order availability.
  label=label.strip()
+ school=re.fullmatch(r'Läsåret (\d{4})/(\d{4})',label)
+ if school:
+  start,end=map(int,school.groups())
+  if end!=start+1:return False
+  # Beställningens gymnasie-/grundskoleår är avslutningsåret.
+  label=str(end)
  qualified=re.fullmatch(r'(\d{4}), (?:slutlig|preliminär) version',label)
  if qualified:label=qualified.group(1)
  months=['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december']
@@ -49,7 +55,23 @@ def groups_from_plan(plan):
 def display_meta(values):return tuple(' '.join(v.split()) for v in values)
 
 def export_sets(text):
- rows=list(csv.DictReader(io.StringIO(text.lstrip('\ufeff')),delimiter='\t'))
+ # SCB:s TSV har oquotade radbrytningar i Vardebenamning.
+ # Reparera bara detta verifierade format; fel i övriga fält avvisas.
+ lines=text.lstrip('\ufeff').splitlines(keepends=True)
+ if not lines:return []
+ header=lines[0].rstrip('\r\n').split('\t')
+ required=['Vardemangdsversion','Vardemangdsniva','Vardekod','Vardebenamning','Kolumnnamn','Datatyp']
+ if set(header)!=set(required) or len(header)!=6:raise ValueError('Oväntade exportkolumner')
+ label_index=header.index('Vardebenamning')
+ rows=[];pending=''
+ for line in lines[1:]:
+  pending+=line
+  cells=pending.rstrip('\r\n').split('\t')
+  if len(cells)==6:
+   rows.append(dict(zip(header,cells)));pending=''
+  elif len(cells)!=label_index+1:
+   raise ValueError('Ofullständig eller tvetydig SCB-exportrad: '+repr(cells)[:400])
+ if pending:raise ValueError('Avhuggen SCB-export; ingen avslutande kolumn/datatypsuppgift')
  groups=collections.defaultdict(list)
  for row in rows:
   if any(row.get(k) is None for k in ['Vardemangdsversion','Vardemangdsniva','Vardekod','Vardebenamning','Kolumnnamn','Datatyp']):
@@ -85,7 +107,7 @@ def capture_documentation(page):
  return {'id':document['id'],'path':path}
 
 def collection_complete(expected,bindings,errors):
- return bool(expected) and expected.issubset(bindings) and all(bindings[k].get('documentation') for k in expected) and not errors
+ return bool(expected) and expected.issubset(bindings) and all(bindings[k].get('documentation') and bindings[k].get('domain_id') for k in expected) and not errors
 
 def main(a):
  from playwright.sync_api import sync_playwright,expect
@@ -97,13 +119,17 @@ def main(a):
  data=json.loads(path.read_text()) if path.exists() else {'schema_version':'2.0','source':SOURCE,'group_id':a.group,'register':reg,'variant':var,'bindings':[],'domains':[],'coverage':{}}
  old_coverage=data['coverage'];passes=old_coverage.get('passes',0)
  byid={b['id']:b for b in data['bindings']};domains={d['id']:d for d in data['domains']}
+ initial_progress=sum(bool(b.get('domain_id'))+bool(b.get('documentation')) for b in byid.values())
  now=datetime.now(timezone.utc).isoformat(timespec='seconds');checked=0;errors=[];expected=set();remaining=0
  task_hash=digest(tasks)
  def save(complete=False):
-  refs={b['domain_id'] for b in byid.values()}
+  refs={b['domain_id'] for b in byid.values() if b.get('domain_id')}
   data['bindings']=sorted(byid.values(),key=lambda b:(b['column'],b['variable'],b['register_version']))
   data['domains']=sorted((d for d in domains.values() if d['id'] in refs),key=lambda d:d['id'])
   data['coverage']={'complete':complete,'collector_sha256':COLLECTOR_SHA,'passes':passes+1,'metadata_sha256':plan['metadata_sha256'],'task_sha256':task_hash,'source_updated':update,'retrieved_at':now,'task_count':len(tasks),'expected_bindings':len(expected),'documented_bindings':sum(bool(byid.get(k,{}).get('documentation')) for k in expected),'errors':errors}
+  progress=sum(bool(b.get('domain_id'))+bool(b.get('documentation')) for b in byid.values())
+  previous_stalls=old_coverage.get('stalled_passes',0) if old_coverage.get('collector_sha256')==COLLECTOR_SHA else 0
+  data['coverage']['stalled_passes']=0 if progress>initial_progress else previous_stalls+1
   atomic_save(path,data)
  with sync_playwright() as p:
   browser=p.chromium.launch(headless=True);page=browser.new_page(accept_downloads=True);page.set_default_timeout(60000)
@@ -145,19 +171,27 @@ def main(a):
     if depth>=len(versions):continue
     label,bid,identity=versions[depth]
     old=byid.get(bid)
-    if old and old.get('documentation') and (old.get('source_updated')==update or depth>0):continue
+    if old and old.get('domain_id') and old.get('documentation') and (old.get('source_updated')==update or depth>0):continue
     remaining+=1
     if checked>=a.max_checks:continue
+    checked+=1
     try:
      select_variable(page,task)
      button=page.get_by_role('button',name=label,exact=True);button.click()
      expect(button).to_have_class(re.compile(r'\bmud-button-filled-primary\b'));expect(button).to_be_enabled();expect(page.get_by_role('progressbar')).to_have_count(0)
      expect(page.get_by_role('button',name=CSV,exact=True).nth(1)).to_be_enabled()
      documentation=capture_documentation(page)
-     if old and old.get('source_updated')==update:
+     if old and old.get('domain_id') and old.get('source_updated')==update:
       byid[bid]=old|{'documentation':documentation,'documentation_retrieved_at':now}
-      checked+=1;save();print(f"DOKUMENTATION | {task['Kolumnnamn']} | {label} | {checked}/{a.max_checks}",flush=True)
+      save();print(f"DOKUMENTATION | {task['Kolumnnamn']} | {label} | {checked}/{a.max_checks}",flush=True)
       continue
+     orders=[o for o in task['orders'] if eligible(o['ar_raw'],label)]
+     # Dokumentation ska vara åtkomlig även om själva kodexporten är trasig.
+     byid[bid]=identity|{'id':bid,'domain_id':None,'status':'documentation_only',
+       'source_updated':update,'retrieved_at':now,'orders':orders,
+       'order_years_unknown':any(not o['ar_raw'] for o in orders),
+       'documentation':documentation,'documentation_retrieved_at':now}
+     save()
      version,level=detail(page,'Värdemängdsversion'),detail(page,'Värdemängdsnivå')
      type_rows=page.get_by_role('row').filter(has=page.get_by_role('cell',name='Datatyp',exact=True))
      dtype=type_rows.last.get_by_role('cell').nth(1).inner_text().strip() if type_rows.last.get_by_role('cell').count()>1 else ''
@@ -180,10 +214,11 @@ def main(a):
      domains[domain['id']]={k:v for k,v in domain.items() if k!='values'}|{'value_count':len(domain['values']),'path':domain_path}
      orders=[o for o in task['orders'] if eligible(o['ar_raw'],label)]
      byid[bid]=identity|{'id':bid,'domain_id':domain['id'],'status':status,'source_updated':update,'retrieved_at':now,'definition_only_verified':status=='not_enumerated','orders':orders,'order_years_unknown':any(not o['ar_raw'] for o in orders),'documentation':documentation,'documentation_retrieved_at':now}
-     checked+=1;save()
+     save()
      print(f"OK | {task['Kolumnnamn']} | {label} | {len(domain['values'])} | {checked}/{a.max_checks}",flush=True)
      time.sleep(.2)
     except Exception as e:
+     if byid.get(bid,{}).get('status')=='documentation_only':byid[bid]['domain_error']=str(e)
      errors.append(f"{task['Kolumnnamn']} {label}: {e}");save();print("FEL | "+errors[-1],flush=True)
   complete=collection_complete(expected,byid,errors)
   save(complete)

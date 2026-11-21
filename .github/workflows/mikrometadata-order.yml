@@ -16,6 +16,7 @@ on:
       - scripts/harvest_order_domains.py
       - scripts/match_mikrometadata.py
       - scripts/order_domain_queue.py
+      - scripts/verify_order_metadata.py
       - data/order-source-review.json
       - .github/workflows/mikrometadata-order.yml
   workflow_run:
@@ -136,6 +137,15 @@ jobs:
           ITERATION: ${{ inputs.iteration || '0' }}
           CONTINUE_QUEUE: ${{ github.event_name != 'workflow_dispatch' || inputs.continue_queue }}
         run: |
+          python scripts/verify_order_metadata.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/order-metadata-verification.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Verifiera sparade definitioner, metodtexter och värdemängder'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
           python scripts/order_domain_queue.py --batch-size 8 > /tmp/remaining.json
           python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
           import json,pathlib
@@ -152,7 +162,7 @@ jobs:
           import json,os,urllib.request
           remaining=json.load(open('/tmp/remaining.json'))['include']
           iteration=int(os.environ['ITERATION'])
-          if remaining and os.environ['CONTINUE_QUEUE'].lower()=='true' and iteration<12:
+          if remaining and os.environ['CONTINUE_QUEUE'].lower()=='true' and iteration<48:
               url='https://api.github.com/repos/'+os.environ['GH_REPO']+'/actions/workflows/mikrometadata-order.yml/dispatches'
               body=json.dumps({'ref':'main','inputs':{'iteration':str(iteration+1),'continue_queue':True}}).encode()
               req=urllib.request.Request(url,data=body,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','Content-Type':'application/json'})

@@ -2,7 +2,7 @@ import rawIndex from '../data/order-source-index.json' with {type:'json'};
 import {orderNotes} from './order-notes.js';
 import {searchDomains,getDomain} from './value-domains.js';
 type Group={id:string;register:string;variant:string;views:string[];columns:string[];path:string;mappings:{databasvy:string;variabel:string;source_column:string}[]};
-type Binding={id:string;column:string;variable:string;register_version:string;domain_id:string;orders:{databasvy:string;variabel:string;ar_raw:string|null}[];[key:string]:unknown};
+type Binding={id:string;column:string;variable:string;register_version:string;domain_id:string|null;orders:{databasvy:string;variabel:string;ar_raw:string|null}[];[key:string]:unknown};
 type Domain={id:string;version:string;level:string;data_type:string;value_count:number;path:string};
 type State={schema_version:string;source:string;group_id:string;register:string;variant:string;bindings:Binding[];domains:Domain[];coverage:Record<string,unknown>};
 const index=rawIndex as unknown as {metadata_sha256:string;plan_sha256:string;groups:Group[];unresolved_views:{databasvy:string;status:string;unmatched_variables:string[]}[]};
@@ -58,11 +58,6 @@ export async function getAnyDomain(id:string,codes:string[]=[],offset=0,limit=30
  const state=await load(group.path) as State|null;
  if(!state)throw new Error('Källvarianten har ännu inte hämtats.');
  const b=state.bindings.find(b=>b.id===bid);if(!b)throw new Error('Kopplingen finns inte i denna registervariant.');
- const info=state.domains.find(d=>d.id===b.domain_id);if(!info)throw new Error('Värdemängdsreferensen saknas.');
- const path=`data/value-domain-values/${info.id}.json`;
- if(info.path!==path)throw new Error('Fel innehållsadress för värdemängden.');
- const domain=await load(path) as {id:string;version:string;level:string;data_type:string;values:{code:string;label:string}[]}|null;
- if(!domain||domain.id!==info.id||domain.values.length!==info.value_count)throw new Error('Värdemängden kunde inte verifieras mot registerkatalogen.');
  let documentation:Record<string,unknown>={status:'not_yet_collected'};
  const ref=b.documentation as {id:string;path:string}|undefined;
  if(ref){
@@ -71,6 +66,16 @@ export async function getAnyDomain(id:string,codes:string[]=[],offset=0,limit=30
   if(doc&&(doc.id!==ref.id||!Array.isArray(doc.fields)||!doc.fields.every(f=>typeof f.name==='string'&&typeof f.value==='string')))throw new Error('Dokumentationen kunde inte verifieras.');
   documentation=doc?{status:'available',...doc}:{status:'not_available',id:ref.id};
  }
+ if(b.status==='documentation_only')return {...orderDomainStamp,source:'https://mikrometadata.scb.se/',
+  binding:{...b,id,register:group.register,variant:group.variant},coverage:state.coverage,
+  view_notes:orderNotes(b.orders.map(o=>o.databasvy),b.column),documentation,domain:null,
+  domain_status:'not_verified',total:0,offset,results:[],next_offset:null,caveats:[...caveats,
+  'Definition/metod finns, men värdemängden kunde inte verifieras. Tom resultatlista innebär inte att variabeln saknar koder.']};
+ const info=state.domains.find(d=>d.id===b.domain_id);if(!info)throw new Error('Värdemängdsreferensen saknas.');
+ const path=`data/value-domain-values/${info.id}.json`;
+ if(info.path!==path)throw new Error('Fel innehållsadress för värdemängden.');
+ const domain=await load(path) as {id:string;version:string;level:string;data_type:string;values:{code:string;label:string}[]}|null;
+ if(!domain||domain.id!==info.id||domain.values.length!==info.value_count)throw new Error('Värdemängden kunde inte verifieras mot registerkatalogen.');
  const wanted=new Set(codes),values=domain.values.filter(v=>!wanted.size||wanted.has(v.code));
  const {values:_,...definition}=domain;
  return {...orderDomainStamp,source:'https://mikrometadata.scb.se/',binding:{...b,id,register:group.register,variant:group.variant},coverage:state.coverage,view_notes:orderNotes(b.orders.map(o=>o.databasvy),b.column),documentation,domain:definition,total:values.length,offset,results:values.slice(offset,offset+limit),next_offset:offset+limit<values.length?offset+limit:null,caveats};
