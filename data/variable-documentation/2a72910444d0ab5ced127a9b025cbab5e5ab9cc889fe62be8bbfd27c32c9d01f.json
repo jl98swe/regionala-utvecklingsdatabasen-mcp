@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Månader med ekonomiskt bistånd, fader"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antal månader med socialbidrag för individens fader"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Här anges det antal månader under året, under vilka utbetalning av socialbidrag förekommit. \r\nOm understöd för flera månader utbetalats på en gång, medräknas endast den månad, då utbetalning skett. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd från Socialstyrelsens register och Befolkningsregistret.\r\nVariabeln visar uppgift för individens biologiska far eller individens adoptivfar vid adoption. Om det finns en adoptivfar väljs denna i första hand.\r\nVariabeln är familjebaserad och alla i familjen har samma antal månader"
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "Förälder 31/12"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal månader"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2019."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "2a72910444d0ab5ced127a9b025cbab5e5ab9cc889fe62be8bbfd27c32c9d01f"
+}

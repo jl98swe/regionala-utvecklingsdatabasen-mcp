@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Meritvärde"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Meritvärde är summan av ett antal av elevens bästa betyg, där bokstavsbetyg ersätts med ett visst antal poäng. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Hur många betyg som meritvärdet ska beräknas på och hur många poäng som ett betyg är värt kan variera."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Värden anges för personer som har avslutat grundskolan under aktuellt år. Övriga har värdet 0.  Meritvärdet utgörs av summan av betygvärdena för de 16 bästa betygen i elevens slutbetyg (A=20, B=17,5, C=15, D=12,5 och E=10. F har betygsvärdet 0). "
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Grundskola: betyg åk 9 : Grundskolan: betyg åk 9"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Betygspoäng"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2019."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "2de9ba246033a51fc5215c6992f5e07bc80a0e2ac575ede0a2374d3d45db874a"
+}
