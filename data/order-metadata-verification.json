@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T11:47:32+00:00",
+  "checked_at": "2026-11-21T11:58:56+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 9404,
-    "documentation": 9268,
-    "nonempty_definition": 9268,
-    "nonempty_method": 9268,
-    "verified_domains": 9363,
-    "enumerated": 4539,
-    "not_enumerated": 4824,
+    "bindings": 9612,
+    "documentation": 9476,
+    "nonempty_definition": 9476,
+    "nonempty_method": 9476,
+    "verified_domains": 9563,
+    "enumerated": 4682,
+    "not_enumerated": 4881,
     "complete_groups": 35,
-    "groups_with_source_errors": 11,
-    "documentation_only": 41,
+    "groups_with_source_errors": 10,
+    "documentation_only": 49,
     "groups": 51,
-    "unique_domains": 822
+    "unique_domains": 834
   },
   "integrity_errors": [],
   "groups": [
@@ -242,7 +242,7 @@
         "esf"
       ],
       "complete": true,
-      "expected_bindings": 13,
+      "expected_bindings": 9,
       "bindings": 13,
       "documentation": 13,
       "nonempty_definition": 13,
@@ -344,13 +344,14 @@
       ],
       "complete": false,
       "expected_bindings": 225,
-      "bindings": 217,
-      "documentation": 217,
-      "nonempty_definition": 217,
-      "nonempty_method": 217,
+      "bindings": 225,
+      "documentation": 225,
+      "nonempty_definition": 225,
+      "nonempty_method": 225,
       "verified_domains": 217,
       "enumerated": 8,
       "not_enumerated": 209,
+      "documentation_only": 8,
       "source_errors": 15,
       "source_error_examples": [
         "AnstS: inga verifierade beställningsperioder i källversionerna ['2003']..['2003']",
@@ -545,12 +546,16 @@
         "slutbetyg_ak9"
       ],
       "complete": false,
-      "expected_bindings": 0,
-      "source_errors": 12,
-      "source_error_examples": [
-        "AntalBetyg: inga verifierade beställningsperioder i källversionerna ['Läsåret 2020/2021', 'Läsåret 2025/2026']..['Läsåret 2020/2021', 'Läsåret 2025/2026']",
-        "Antal_Betyg: inga verifierade beställningsperioder i källversionerna ['Läsåret 2007/2008', 'Läsåret 2010/2011']..['Läsåret 2007/2008', 'Läsåret 2010/2011']"
-      ]
+      "expected_bindings": 234,
+      "bindings": 200,
+      "documentation": 200,
+      "nonempty_definition": 200,
+      "nonempty_method": 200,
+      "verified_domains": 200,
+      "not_enumerated": 57,
+      "enumerated": 143,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "2084ab40b3962dd9993c",
@@ -1035,8 +1040,8 @@
       "documented_columns": 38
     },
     "ftg_fou": {
-      "documented_versions": 232,
-      "documented_columns": 227
+      "documented_versions": 240,
+      "documented_columns": 235
     },
     "grund_fkl_fth": {
       "documented_versions": 203,
@@ -1137,6 +1142,10 @@
     "sivstock": {
       "documented_versions": 6,
       "documented_columns": 2
+    },
+    "slutbetyg_ak9": {
+      "documented_versions": 200,
+      "documented_columns": 11
     },
     "stativ": {
       "documented_versions": 400,
