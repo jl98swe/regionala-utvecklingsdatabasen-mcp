@@ -1,0 +1,48 @@
+{
+  "version": "Hushållstyp, bostadshushåll",
+  "level": "Hushållstyp, bostadshushåll",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "[NULL]",
+      "label": "Okänt värde"
+    },
+    {
+      "code": "1.1",
+      "label": "Ensamstående utan barn"
+    },
+    {
+      "code": "1.2",
+      "label": "Ensamstående med barn under 25 år"
+    },
+    {
+      "code": "1.3",
+      "label": "Ensamstående med barn över 24 år"
+    },
+    {
+      "code": "2.1",
+      "label": "Sammanboende utan barn"
+    },
+    {
+      "code": "2.2",
+      "label": "Sammanboende med barn under 25 år"
+    },
+    {
+      "code": "2.3",
+      "label": "Sammanboende med barn över 24 år"
+    },
+    {
+      "code": "3.1",
+      "label": "Övriga hushåll utan barn"
+    },
+    {
+      "code": "3.2",
+      "label": "Övriga hushåll med barn under 25 år"
+    },
+    {
+      "code": "3.3",
+      "label": "Övriga hushåll med barn över 24 år"
+    }
+  ],
+  "id": "c4f5e3173dc0bf1f3768c09d67e38280d6448b2515ae9c868c5cd154fac073be"
+}

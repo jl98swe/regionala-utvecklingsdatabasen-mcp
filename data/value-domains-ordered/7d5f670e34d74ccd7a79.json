@@ -10,6 +10,354 @@
       "variant": "Hushåll",
       "column": "AntalBarn",
       "variable": "Antal barn",
+      "register_version": "2011-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "06d4556fb2dc561fb7b08149267fc11a86c9802f74060b2ca956fa169ac49d3c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3a90aa7bb791e510266ad38ee7044299b0715a606ec65dc8dc5112187724c2ba",
+        "path": "data/variable-documentation/3a90aa7bb791e510266ad38ee7044299b0715a606ec65dc8dc5112187724c2ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2012-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "c3f42003609a495a59ef08ee3bdecfb7f256d2d73e9bef8ec8d6504fb2159c56",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0bd32e2299c4281047bcd4b53d9cfa6e5714acf0ae04ee00ebe799da44f1cc42",
+        "path": "data/variable-documentation/0bd32e2299c4281047bcd4b53d9cfa6e5714acf0ae04ee00ebe799da44f1cc42.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2013-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "b7ecf7f95c886b4c787c65cc2f07335f4b67d2645928e13a2de65ff2483817d9",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8c87377f8014bddf2ee9c0445a94332cdc8db37633520052b25809a09c908dc",
+        "path": "data/variable-documentation/e8c87377f8014bddf2ee9c0445a94332cdc8db37633520052b25809a09c908dc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2014-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "d8c15614c1eecc984c7b52bba90a475af6d0850f9f61da55bee1f3ae047915b5",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "091cde13c3444e6d05831adf7f64c96a2107287ad7df21968fb8532380d65ef8",
+        "path": "data/variable-documentation/091cde13c3444e6d05831adf7f64c96a2107287ad7df21968fb8532380d65ef8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2015-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "969d67fc6f32794fe3d4fcc6113454ebc59b1ba3eb2b2f1f02151c278d5238b3",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9d6d9d2ddd71f693c05a7fb41114ebf44bbdedf670db43c3e1afd4772a05a1a4",
+        "path": "data/variable-documentation/9d6d9d2ddd71f693c05a7fb41114ebf44bbdedf670db43c3e1afd4772a05a1a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2016-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "2c2f712fb8a2dccdffc8bdf9d84d9f38803b57080c701537ede60d44238a4127",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7e8204efcef5c21465616062dc1108b04d4896f5f013c084e5a07baab01de3ae",
+        "path": "data/variable-documentation/7e8204efcef5c21465616062dc1108b04d4896f5f013c084e5a07baab01de3ae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2017-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "5bdf674a250b7c795f8aba7662767bc42216ae9519f7c70b1bb51f377e28240c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5592ccf37548a3b4f4baff31310c32501d087c7e2a1b408acd329114a916b248",
+        "path": "data/variable-documentation/5592ccf37548a3b4f4baff31310c32501d087c7e2a1b408acd329114a916b248.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2018-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "95355817d82325ac59190f50191cf118d9c733fd9a3306d3cba9ec7c10dc1eea",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1f177d5ec82b64492b6946022f9a7e8bb55ee1f6287ddcc927ab8c417c6601c4",
+        "path": "data/variable-documentation/1f177d5ec82b64492b6946022f9a7e8bb55ee1f6287ddcc927ab8c417c6601c4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2019-12-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "d8971d8dc477cbb912f43d6f121db790819d1c097ef1ed9f4af04a0184d36e1c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bda5630974e83f43c2cf2b491d8a2ac9951f3f0ce9817badc57762a5729afc8d",
+        "path": "data/variable-documentation/bda5630974e83f43c2cf2b491d8a2ac9951f3f0ce9817badc57762a5729afc8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2020-03-31",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "7bca1e035c71fa27532419a48c17edc58ae3cf91673f0e705dbf37c7233f69ac",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7ff1d57dded62de97ce1ce22957c043ac88367af0ac25f70b027aad357a5e15f",
+        "path": "data/variable-documentation/7ff1d57dded62de97ce1ce22957c043ac88367af0ac25f70b027aad357a5e15f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2020-06-30",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "0d87969ec533853fc0c052f80c2872f41d39d12f8e26cc337d41debfb464d58c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aa2219a4c158916e544caf3a89469bc5c95ea95a354a416dcca68c9868238bf1",
+        "path": "data/variable-documentation/aa2219a4c158916e544caf3a89469bc5c95ea95a354a416dcca68c9868238bf1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
+      "register_version": "2020-09-30",
+      "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "id": "19b80a35835c19e3a728b88ea411d87459ce0e3fd52badfb191b59a45b6a58d2",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4f775859518306f07bd6103879a99b1eb9d08f0a0939bb8d137efc3fbfb08f83",
+        "path": "data/variable-documentation/4f775859518306f07bd6103879a99b1eb9d08f0a0939bb8d137efc3fbfb08f83.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarn",
+      "variable": "Antal barn",
       "register_version": "2020-12-31",
       "source_task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
       "id": "46d1f9ea09ff59e728ea2eeb94e8a7d39188417f1304cc925cd96e1bb9c17904",
@@ -497,6 +845,354 @@
         "path": "data/variable-documentation/405ca762899000e31582c5a1c7d5e81057ef572e379a24571147c1f898b94c4b.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2011-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "af3063b27fd5179beaa69eac14e0d00398ff18722eda29658b8a457785150992",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68ff33a2225d48943ac480add557c596ec9c1cda9b04b3d39103651fecc98b1e",
+        "path": "data/variable-documentation/68ff33a2225d48943ac480add557c596ec9c1cda9b04b3d39103651fecc98b1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2012-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "ff515f4089f70494603e4e13f58a1be787fe2abc32c6076189b4948279dbabd5",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0ec1bb75f23e52e58d68c13ceda40078f38f91de10552e5a19cf79ea3e1c970c",
+        "path": "data/variable-documentation/0ec1bb75f23e52e58d68c13ceda40078f38f91de10552e5a19cf79ea3e1c970c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2013-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "cbf5902d6d53dca6dd78308f44ceaa322dca288bf902f7ca8764742163ea5b03",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "245b19760445b13ab375da48b065dddd53c9e632ad4f398e7f93ad27f309d8e7",
+        "path": "data/variable-documentation/245b19760445b13ab375da48b065dddd53c9e632ad4f398e7f93ad27f309d8e7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2014-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "e567ccf8e4ae713a53b02731082e22bcc431e2f6f76be2cc7de66e741d221fb7",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "de7c4cc0d76f5d16a74d95fa2c769adcf8fd8eac8c44faf383b284dc31fc08c9",
+        "path": "data/variable-documentation/de7c4cc0d76f5d16a74d95fa2c769adcf8fd8eac8c44faf383b284dc31fc08c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2015-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "9d3caf78d56541b7d7884be65c580438ad90e2716db0a1af345595b5215a2cf6",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5dc5320a8dc36f9c7f320d404eee0b605a680dc33b6bffaa12ca4718f4fe6832",
+        "path": "data/variable-documentation/5dc5320a8dc36f9c7f320d404eee0b605a680dc33b6bffaa12ca4718f4fe6832.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2016-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "9e7c4f26bf7569425d4f22a3c92e8ec0b458d2284f6aadc9524a4c43606635e5",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1926cb99fc199c36d8d535d94a6ba55826aaea444cdceb5fd16e5ecd0845c97a",
+        "path": "data/variable-documentation/1926cb99fc199c36d8d535d94a6ba55826aaea444cdceb5fd16e5ecd0845c97a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2017-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "c92259851e3f63ab2a7608ac8da227e40f6c70093f28ad5e721dc1e764a22221",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d630299b9a3b60b7f429c196044b2f04d6b2655a42f5b3b1f341ca36117079d",
+        "path": "data/variable-documentation/2d630299b9a3b60b7f429c196044b2f04d6b2655a42f5b3b1f341ca36117079d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2018-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "bbeedf66c7fb0c07c5609961ed63498e67f057d892b2a8a46556cbedc67a2747",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "17ad21561e9c76c5875cbe1b07d46acd09cfbb2f47096bd8cc83179db04aa3e1",
+        "path": "data/variable-documentation/17ad21561e9c76c5875cbe1b07d46acd09cfbb2f47096bd8cc83179db04aa3e1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2019-12-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "f232835956093a3c1ca5032c30b567733adabe92ee0433265ea1e981d505f61a",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f4a3613af721b86e38983bae6ce64d3ba9b2bce61bfa4ba4b5ddc40860b5094",
+        "path": "data/variable-documentation/2f4a3613af721b86e38983bae6ce64d3ba9b2bce61bfa4ba4b5ddc40860b5094.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2020-03-31",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "c2f79df9b5e6103a2fdabf3ebdffdfb2e89c2e74e78cad12b88394852f0ced03",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ecb6b96c2f7f966a5d6347e6fbfa71411f813ec8178a5d91824dd4b466fe15f8",
+        "path": "data/variable-documentation/ecb6b96c2f7f966a5d6347e6fbfa71411f813ec8178a5d91824dd4b466fe15f8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2020-06-30",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "919d545ec7deb310e1a8f8099074cd9f573eaa446621ac687d9ac769b06f5b1d",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0af388565518ab526934fb5e52f04d7f3815b7251f29d045179b58f76303f727",
+        "path": "data/variable-documentation/0af388565518ab526934fb5e52f04d7f3815b7251f29d045179b58f76303f727.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder18",
+      "variable": "Antal barn under 18 år",
+      "register_version": "2020-09-30",
+      "source_task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "id": "a875fe1c982b7e3bb9559f9e3d4d527833e681938817fc73269eade5723719be",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ccc93f6dcd0c7bd176127c863677336497f1edd80a9ee7a4a59142efa442971c",
+        "path": "data/variable-documentation/ccc93f6dcd0c7bd176127c863677336497f1edd80a9ee7a4a59142efa442971c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -996,6 +1692,354 @@
       "variant": "Hushåll",
       "column": "AntalBarnUnder25",
       "variable": "Antal barn under 25 år",
+      "register_version": "2011-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "654c3fc31410ac40d26334caa5196545b768014ff09eed0cd0743f0b300795ae",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bdd1deb75c201b9c0f80201a9122171bb5d5fb71ec1fec4802e3c1d96e9cc1ae",
+        "path": "data/variable-documentation/bdd1deb75c201b9c0f80201a9122171bb5d5fb71ec1fec4802e3c1d96e9cc1ae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2012-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "ce5ceb90509119681fde4b761dbc49729b6653cdbefd97a389cab6620da19f5d",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "739e27b62ad77d186e5a1044974488d1687f3a5d4c1174a6a814c805620b8b03",
+        "path": "data/variable-documentation/739e27b62ad77d186e5a1044974488d1687f3a5d4c1174a6a814c805620b8b03.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2013-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "ac6343d0009e33a9f5c3d01daffc72a83fc1e55dede200ccff5091013be64d8c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "31dc9209f7baeeabbd7453bc16280b84f8fbb42debe732593ed344310a384279",
+        "path": "data/variable-documentation/31dc9209f7baeeabbd7453bc16280b84f8fbb42debe732593ed344310a384279.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2014-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "b0589e83cda0262b68e9ac9c3d3db3b4ae98cd156674c3ec45ba9b34d0def336",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e53accaaa17e03743cdca9136c7230c1b508940cc02e300df85c9ca077736f6",
+        "path": "data/variable-documentation/6e53accaaa17e03743cdca9136c7230c1b508940cc02e300df85c9ca077736f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2015-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "33610cc5fdabe33a08e0ad56235633523f121be1b44c90b23deed3bba4e9ee41",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8567a720fd996141f395343e62a94a677d6161d55f97c60e2a11b5a5c5e6e7d2",
+        "path": "data/variable-documentation/8567a720fd996141f395343e62a94a677d6161d55f97c60e2a11b5a5c5e6e7d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2016-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "6cb060ffa2e62cf47f40960f40a6ed46463a29bf26e5fdefa8b11a47bbd3a435",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "433b81d9e5e844648ca2112d545a47fda51466d64a33d7cb885e7ab4f0297f30",
+        "path": "data/variable-documentation/433b81d9e5e844648ca2112d545a47fda51466d64a33d7cb885e7ab4f0297f30.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2017-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "c87987d3f5e808c2c930a0f686403d54ab68009e2925ed029a1cd43b3550e6ef",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9e7a401f4ff565d2d4a06328b8062def7fa85c0d90fe07b8fc056aa24632ede0",
+        "path": "data/variable-documentation/9e7a401f4ff565d2d4a06328b8062def7fa85c0d90fe07b8fc056aa24632ede0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2018-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "2d1ad7e55666a3e0dd74f2e5f3ce77eadccb44759398ec3cf42d56dffbdaca6a",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b30533c15f1a6f881776c2938dff435b6b1bceadf527c10448711b79ed8f6a2",
+        "path": "data/variable-documentation/2b30533c15f1a6f881776c2938dff435b6b1bceadf527c10448711b79ed8f6a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2019-12-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "d831d88a33f24646779d2f6a6469cd28092b3f77f58e8659a2bb8368e6832dcd",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "43b1317f428b624fe371c1f90a7ecd366fa3afc752f9012008f812492b7f8757",
+        "path": "data/variable-documentation/43b1317f428b624fe371c1f90a7ecd366fa3afc752f9012008f812492b7f8757.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2020-03-31",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "8324f6ca5a52a3babacb427985a230880e43d04b8606aed1517d73807b82449a",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8aa3ef9d04abc781c01625bffce50d546eb6169fcf81dd680d3810430b3b65c5",
+        "path": "data/variable-documentation/8aa3ef9d04abc781c01625bffce50d546eb6169fcf81dd680d3810430b3b65c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2020-06-30",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "c70af654a223cbf0bcdfe258b5f0b95dfc4d39943cd84176ec15693e4c7ec53f",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0bb954f4363bfa72191c066056bc27a007a9c30d01dec80eb0de011a1f412b20",
+        "path": "data/variable-documentation/0bb954f4363bfa72191c066056bc27a007a9c30d01dec80eb0de011a1f412b20.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
+      "register_version": "2020-09-30",
+      "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "id": "8455088cb7b454eccd1c0b090944d8564d12aa1614279fa760664f4a44b51e08",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a55c2a349947dbb99f379e93c1eeaae202de0bb34014939fbd0a1cb7096ac9c5",
+        "path": "data/variable-documentation/a55c2a349947dbb99f379e93c1eeaae202de0bb34014939fbd0a1cb7096ac9c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder25",
+      "variable": "Antal barn under 25 år",
       "register_version": "2020-12-31",
       "source_task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
       "id": "4dc58a6888f41161ce041d25f92724a070ec74df05d30e7eca858b6348c64e56",
@@ -1483,6 +2527,354 @@
         "path": "data/variable-documentation/4e53a80f0623a744dd854e328e2db287e51bdc0dbac97b315850958783711198.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2011-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "9290e78ea166165a7ede24c7a8a9c941c10944dec3c169e3de2cfa9193665556",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5ac4c3f37dd77b24d46cd3d8767ff464664e0c03fee2cf76fe95a86221b534df",
+        "path": "data/variable-documentation/5ac4c3f37dd77b24d46cd3d8767ff464664e0c03fee2cf76fe95a86221b534df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2012-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "9e26519bfe6650de866e2fa668f5a792300750e433f679be8d74719c6cd8ebe3",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed0d1d51f4aa368048d4a62f80991e076184e6e427964607544cefb61da57ec4",
+        "path": "data/variable-documentation/ed0d1d51f4aa368048d4a62f80991e076184e6e427964607544cefb61da57ec4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2013-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "d0ac9f0884f199109ac7329c0345da59b41806b47369101f9a8d356fdcfbca76",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cabab01ce6608697f93edbbcbf359373c9b4319940203acdafa998d22a0cad80",
+        "path": "data/variable-documentation/cabab01ce6608697f93edbbcbf359373c9b4319940203acdafa998d22a0cad80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2014-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "e2eb117e2515cac46d6685c43b37183f4f720ea64123ea9b16ead71ed1db0ac9",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac9bd3fd5ea4926fd316849727cf6002c0b8ffdbbc4f9e545e7ca1a7e45b8e18",
+        "path": "data/variable-documentation/ac9bd3fd5ea4926fd316849727cf6002c0b8ffdbbc4f9e545e7ca1a7e45b8e18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2015-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "b986f74691a0b51a791c9a6c2924057113b247254fac0656526cb64f526baf12",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1b3cbc3513b4675e1f21e4fda80e004ea53eb512d4e19f0e8fb7900eabf1a3a0",
+        "path": "data/variable-documentation/1b3cbc3513b4675e1f21e4fda80e004ea53eb512d4e19f0e8fb7900eabf1a3a0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2016-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "b872c4c0cd914057e510d5cb16de95037386b17d6595e38ecdd14d0e4ccaff1c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3e9b0c3fe2ead02463ae71735fedbfb213ccb1c02f792c99039932d39ebe590a",
+        "path": "data/variable-documentation/3e9b0c3fe2ead02463ae71735fedbfb213ccb1c02f792c99039932d39ebe590a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2017-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "f9f6c49bfedeb525aa9d0e6428c5f55f73950be6b87349c8114a8819376baed4",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0017a27dd5152a793e1b39e84727cffd5ab518b42a6e104879d9442991f47015",
+        "path": "data/variable-documentation/0017a27dd5152a793e1b39e84727cffd5ab518b42a6e104879d9442991f47015.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2018-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "df2045622c699621720725b6ca6528b96ec4bdcd1f68d37c79d5a9f122b89df4",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3cd97a0e089915b17253b56269733990c169970b73ff5bb30a8206d6f97bfa8f",
+        "path": "data/variable-documentation/3cd97a0e089915b17253b56269733990c169970b73ff5bb30a8206d6f97bfa8f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2019-12-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "1902285f4314239f3e835f6d9fbb3dd314aa2a3d40cb9bf349ccbfb55ffee354",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8c3d08a2eb28ff5d8f3f3e128a501b090376ac442e8a927a5b2f89b820562f9c",
+        "path": "data/variable-documentation/8c3d08a2eb28ff5d8f3f3e128a501b090376ac442e8a927a5b2f89b820562f9c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2020-03-31",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "5239380d033a1469dbdfaa644632664b599335a296ee516b73b6ed4c5a495217",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "57886cbd919f21267d305eee050d92083f898d5720fba1ccfa16ab7eab724b6d",
+        "path": "data/variable-documentation/57886cbd919f21267d305eee050d92083f898d5720fba1ccfa16ab7eab724b6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2020-06-30",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "bbdcf96f1e1711014671ccc96a575551aa76ef0b7a7b5fe661891f8da45cd731",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d71e394b530f550f92a651c2d3ad105aa7317258a2822aef7e3ced81c0914d3d",
+        "path": "data/variable-documentation/d71e394b530f550f92a651c2d3ad105aa7317258a2822aef7e3ced81c0914d3d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "AntalBarnUnder6",
+      "variable": "Antal barn under 6 år",
+      "register_version": "2020-09-30",
+      "source_task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "id": "52ec1031490f5bf32b130e9c494cd5d986083b2a042c2face3c91c858856f3c5",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9533e99ee666494dcff04ab105616f60513bc0f3560537e1c8b80595aae8146b",
+        "path": "data/variable-documentation/9533e99ee666494dcff04ab105616f60513bc0f3560537e1c8b80595aae8146b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -1982,6 +3374,354 @@
       "variant": "Hushåll",
       "column": "Civil",
       "variable": "Civilstånd",
+      "register_version": "2011-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "82dae61a35044c76080175c0fea7f9366748a930d5e898d12e0e8fb8e2ac93c0",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96c2b5ee5e21728299112d1852e61edd800dbe51e7f479339446710baeb75c21",
+        "path": "data/variable-documentation/96c2b5ee5e21728299112d1852e61edd800dbe51e7f479339446710baeb75c21.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2012-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "2378f23195f1c28db6c46432c0f469da93c92a6010bc580cda27cf3410e45ef9",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6d516ef31267159444deb2c5b048eceaea34e3c039a99026663bb596bf800f3e",
+        "path": "data/variable-documentation/6d516ef31267159444deb2c5b048eceaea34e3c039a99026663bb596bf800f3e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2013-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "dca46ef698d73b5f082929e245229b6e48bfb4df312b8b5720d61e62a5a1175e",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3056990e626de4f5c88e44003b4c44fd499a25c0e4eca5414c06f15507005555",
+        "path": "data/variable-documentation/3056990e626de4f5c88e44003b4c44fd499a25c0e4eca5414c06f15507005555.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2014-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "34ab774ae4a589cc05b1a2e0308e437ae17f7eae13caae1b725e94e02895ad34",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "19ece7428514c4f28727d4cae34839df2793afb378a84c57d89b205c8bad432f",
+        "path": "data/variable-documentation/19ece7428514c4f28727d4cae34839df2793afb378a84c57d89b205c8bad432f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2015-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "635e9139024272cccf6017e9a5e6ec1a30e939900e08842572ba828a39950db1",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6653b9951f35481ae81f2e085d9a3f1435b034cc91022b33ae293b21891ecb79",
+        "path": "data/variable-documentation/6653b9951f35481ae81f2e085d9a3f1435b034cc91022b33ae293b21891ecb79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2016-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "89a2884209169355cad9535b3a8f26d720c23632b03b5666fd13c4f351b933c1",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "23c3c634c1422bc8ea41efee0966f1e7441016434192a397355ab05bae0c8056",
+        "path": "data/variable-documentation/23c3c634c1422bc8ea41efee0966f1e7441016434192a397355ab05bae0c8056.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2017-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "81c9e51c583bc3ec04680d75eb5f12eaa824d54e17ee42f2cf17a613e33e30a9",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48fb4b657b589823699b979b8db3f344b1ab20be63e3cf501aeaf2c5f3b2fa6c",
+        "path": "data/variable-documentation/48fb4b657b589823699b979b8db3f344b1ab20be63e3cf501aeaf2c5f3b2fa6c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2018-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "29b79792879cbaaa66ada488c33025b34c60a39432db38b41a9657bda922aba3",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cd444043b3a6c1daf194b1221752fcf48bce2b3f189b1f9c8a73eff89899716b",
+        "path": "data/variable-documentation/cd444043b3a6c1daf194b1221752fcf48bce2b3f189b1f9c8a73eff89899716b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2019-12-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "2f43d43c348e6e9bee5b15eccf9bf0657a4634d4b314bef24f83972b178cb738",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "be178f8e2b809b80fe037230ea27e9b7944365b8ae18075f2ac35461317c8d25",
+        "path": "data/variable-documentation/be178f8e2b809b80fe037230ea27e9b7944365b8ae18075f2ac35461317c8d25.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2020-03-31",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "fadab6693657e5888da2111b55e3ee241633fb7b0214453a91076682a7b7d449",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "90d714ac012a354f1d54fd5d0040a999678f8d37effbb2f283b1275f9568b23a",
+        "path": "data/variable-documentation/90d714ac012a354f1d54fd5d0040a999678f8d37effbb2f283b1275f9568b23a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2020-06-30",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "3f317d098a937445a5f7fc5b48f4acad9117406b6cffb499f70f20dd43e00633",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c4fdba0d567581481339dce55ba9deb59304c8b765086a17e9af28f204f1240",
+        "path": "data/variable-documentation/0c4fdba0d567581481339dce55ba9deb59304c8b765086a17e9af28f204f1240.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "2020-09-30",
+      "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "id": "532f879ce304cc36ec5121223ceccd03a2cae123647b8317be9a22add06ec1c6",
+      "domain_id": "a740bb57006cf765c003227a73c4ca33e1e091e6c47bae99dafce5ea3af114cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "606af63164507100b915de71826b6730e3451bc3958c6f1e9727a4d80ae14340",
+        "path": "data/variable-documentation/606af63164507100b915de71826b6730e3451bc3958c6f1e9727a4d80ae14340.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Civil",
+      "variable": "Civilstånd",
       "register_version": "2020-12-31",
       "source_task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
       "id": "aa2a09af45000df9dd0979142d64cb78e55528b0c0e84c59adb6a4d635ba7e38",
@@ -2469,6 +4209,354 @@
         "path": "data/variable-documentation/810e335aef6bea7ee845b740d3d914f34e6261748d7b30c1062b10f18f5ad56e.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2011-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "0313c017b5902da04747e69c0f550b500bc65e7f4f64c0ef159d2ce5a3cf1fe3",
+      "domain_id": "d9a66768d9658b3f881b0f80002260e1a6c89aa342e54cd15685a8533976f722",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3c00f3b635cdd905a8911cb30dc47f70a609da1a86ee931fb180cf62c2ba7126",
+        "path": "data/variable-documentation/3c00f3b635cdd905a8911cb30dc47f70a609da1a86ee931fb180cf62c2ba7126.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2012-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "d7b134ee61be2b30ece13580fbad7d058c9f847f387ccef1c7aa2b360590d6fa",
+      "domain_id": "d9a66768d9658b3f881b0f80002260e1a6c89aa342e54cd15685a8533976f722",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ebcb39e898fcd7bb9ad62e86e6770dc552f3b94ed2a0dced47a99e901554b5a7",
+        "path": "data/variable-documentation/ebcb39e898fcd7bb9ad62e86e6770dc552f3b94ed2a0dced47a99e901554b5a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2013-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "4c9905fe1d83c4cbe457c13dc618730e0168dbc37a7fc716c98c4c74c3b1e0c1",
+      "domain_id": "ca7132b7387dfed3770be3e994e2e0143788c4022c56bb487149bc0db94c09cb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "78d4fb594dccc71b6adc90be5676d129e94824abf553cb055fdbdf1df6b66e08",
+        "path": "data/variable-documentation/78d4fb594dccc71b6adc90be5676d129e94824abf553cb055fdbdf1df6b66e08.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2014-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "aa3c08be0db4a40edea1530ba229b523e6c52fb8ed20d4b3eaed1b640d666cdc",
+      "domain_id": "ca7132b7387dfed3770be3e994e2e0143788c4022c56bb487149bc0db94c09cb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eb906a1a3f241bc7d3b1426e13f84d72cb56046e7517173f8d7bdebeabcb33c1",
+        "path": "data/variable-documentation/eb906a1a3f241bc7d3b1426e13f84d72cb56046e7517173f8d7bdebeabcb33c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2015-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "73f2b7575bcdc32abd2bd737c6dcec818ac9692e480a721ae520f851a583f625",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c7e15276c0f48dd62a3da22fee48fea2684a1fbf6fdccd05fe1e0849bd53305",
+        "path": "data/variable-documentation/6c7e15276c0f48dd62a3da22fee48fea2684a1fbf6fdccd05fe1e0849bd53305.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2016-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "9714c3b9911ea3d40d07922865b85a0de21d0e9480c14de522d01cb05fd4e131",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6aac692c4e1a26239ea5c9967c010bd5bf39b23671abacb84669b749fbbc5136",
+        "path": "data/variable-documentation/6aac692c4e1a26239ea5c9967c010bd5bf39b23671abacb84669b749fbbc5136.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2017-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "da1d471c54d2d8bce352c44413854ac2810254df8cd65c48fb8a85f3b90851d8",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1bc4e57ffae39d47f5b670f964ccfea0407452000407e331a188386caef5922e",
+        "path": "data/variable-documentation/1bc4e57ffae39d47f5b670f964ccfea0407452000407e331a188386caef5922e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2018-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "60d6f997a52ddbe46576b5c2e0721394a5a892bc5c71df8e786c3cbc4cc31acc",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6ee9fa03b09be6e0fed715f6baf86bc89769d562a2d372076d5e3647534930d9",
+        "path": "data/variable-documentation/6ee9fa03b09be6e0fed715f6baf86bc89769d562a2d372076d5e3647534930d9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2019-12-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "712bba4c82586d4e2d68b763e9c361cd71f27764b03316c0ffef93c1a42c0079",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d29df3841927cbdd1849698b5db8ae9f6ad5ddd4f2602ea0ed757ed0a62cff0a",
+        "path": "data/variable-documentation/d29df3841927cbdd1849698b5db8ae9f6ad5ddd4f2602ea0ed757ed0a62cff0a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2020-03-31",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "dc9d5e4652c1a169f02300cf784fe889bc629521d67386074f9657c4bac020af",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "639fab282c2073db3f5bb5bdbe6e7b00740a8fe9bb91b6481d607b912290c7b5",
+        "path": "data/variable-documentation/639fab282c2073db3f5bb5bdbe6e7b00740a8fe9bb91b6481d607b912290c7b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2020-06-30",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "9433260a1a71fb2efb946334b3b253b93ea7a2aa2d5023a82f2de2c39325521a",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a0a2bdd18858cb8dc26c1947f58491fbb0f3be6a2eb91efbdc6570114fbfd7a3",
+        "path": "data/variable-documentation/a0a2bdd18858cb8dc26c1947f58491fbb0f3be6a2eb91efbdc6570114fbfd7a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStallning",
+      "variable": "Hushållsställning",
+      "register_version": "2020-09-30",
+      "source_task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "id": "957aeb2a48183558442320b9c6e0e727193756b281534b8a77c8be25ffd25262",
+      "domain_id": "7fd5e325ca9077040e76ec0701a35a13fad2ff56d1e1c6d1b08fdb813a53ba67",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f98ed9056843329368928004d8b4c37f5194687673fdcd22f1007aef11bd5612",
+        "path": "data/variable-documentation/f98ed9056843329368928004d8b4c37f5194687673fdcd22f1007aef11bd5612.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -2968,6 +5056,354 @@
       "variant": "Hushåll",
       "column": "HushallsStorlek",
       "variable": "Hushållsstorlek",
+      "register_version": "2011-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "447c24dde15d26262a243896ab9e8abaadc5284eb1c3cec61f7a2ed8c3719cb5",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4ae2f901e14ced7b0d5f87864dc59d7f9a443043397cc52be1e7b29e197024a4",
+        "path": "data/variable-documentation/4ae2f901e14ced7b0d5f87864dc59d7f9a443043397cc52be1e7b29e197024a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2012-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "9b3c91e71508b5566b4cd19a6f980ad367f3e683a6e59fe858b9c5b139c1a9eb",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b9b91c5fc4c549293e218684b0ea58844bfab74b3ea5611eec43f4c10f35fa59",
+        "path": "data/variable-documentation/b9b91c5fc4c549293e218684b0ea58844bfab74b3ea5611eec43f4c10f35fa59.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2013-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "95a06fc1b711dea8157d70b384d0daa064b32c303f66fb8b8f8c7c862c16cd5f",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09a280208a7933b77f3f8dab92046ae724e06ed8aa93195682a23cf11c3e11b1",
+        "path": "data/variable-documentation/09a280208a7933b77f3f8dab92046ae724e06ed8aa93195682a23cf11c3e11b1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2014-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "43570720d4a15f9f75993d19c067a0e8f8cb926bd4c075be085d90b9d68e6f55",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "00c4303473c5b4e08b5d2dbb27734243d47ddedc9cf61213b75e0e05bf530056",
+        "path": "data/variable-documentation/00c4303473c5b4e08b5d2dbb27734243d47ddedc9cf61213b75e0e05bf530056.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2015-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "658ff280d122373c516163f79313d7e41d592cb0f77547b33c5264640ff2eae6",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b82fb11ccc1ce2ed156fb647e8da5d01f331beb022369a6a2dffcf16fd42da14",
+        "path": "data/variable-documentation/b82fb11ccc1ce2ed156fb647e8da5d01f331beb022369a6a2dffcf16fd42da14.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2016-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "fef5918ed032c16f6b9513968457f0da2105291efe7d0ef16811325d49809657",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "688e6ce2dddeb8090e628297d62d0762b5a763c54ef3f81c6beae556636aa2c5",
+        "path": "data/variable-documentation/688e6ce2dddeb8090e628297d62d0762b5a763c54ef3f81c6beae556636aa2c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2017-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "153e48c83776cebb009c641adcef7998257a6a8f01a4780e8c6b1a23b5a773bd",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f7e36f72504c12010f5548e41867cafd6591644a278e26bc20fc11260eac9565",
+        "path": "data/variable-documentation/f7e36f72504c12010f5548e41867cafd6591644a278e26bc20fc11260eac9565.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2018-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "e128f745283c752cc725c3677f52b7d640c41d85170be8c29267e7a4a2b648eb",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f5fa5b51598aa9aa747f6889088149f59db87390b1589f37642c031d04ab8d38",
+        "path": "data/variable-documentation/f5fa5b51598aa9aa747f6889088149f59db87390b1589f37642c031d04ab8d38.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2019-12-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "5119c0a5e612795ec75f8feade0186a599029c73730c3c15a5919869351c2935",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c92f6870440f79128033f300ac68fb1b7474f9dfa5c83b0eeb8f5cb44a1dbfd7",
+        "path": "data/variable-documentation/c92f6870440f79128033f300ac68fb1b7474f9dfa5c83b0eeb8f5cb44a1dbfd7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2020-03-31",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "7bbf94f530ee3c2c3a3798a1c0f5e2b69d75874e0d940db32724d373793037f0",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ae81c01d13d737a4c48cccaf9b60a0942556929b61864f245dddeff3dce334d7",
+        "path": "data/variable-documentation/ae81c01d13d737a4c48cccaf9b60a0942556929b61864f245dddeff3dce334d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2020-06-30",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "cfe8ea07f850dae88617641a20ef1d53f58f2ffe25824beb3eeb9abb8aacf9f9",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "83e62158b458d0940c90f8f0a08d2d3af48bae3e5cdc0b1839db8395039dc4a0",
+        "path": "data/variable-documentation/83e62158b458d0940c90f8f0a08d2d3af48bae3e5cdc0b1839db8395039dc4a0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
+      "register_version": "2020-09-30",
+      "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "id": "7c39cf219d4f5612343a420f6a58388ca8832a91dd24ae305a3ad56fecfaaac9",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6cb78589b532f5ecc3dfeca4d81311a952b18b5ed154a11a43308d30fa4d369d",
+        "path": "data/variable-documentation/6cb78589b532f5ecc3dfeca4d81311a952b18b5ed154a11a43308d30fa4d369d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsStorlek",
+      "variable": "Hushållsstorlek",
       "register_version": "2020-12-31",
       "source_task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
       "id": "72d1c301832c7af9a26703cd623e809e1000be26e977402065dff72508f9d867",
@@ -3455,6 +5891,354 @@
         "path": "data/variable-documentation/db3034b3ca8781cf01dd19a6654cbed29a94288294721e7e4031f0339209d5a4.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2011-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "d37873242b473b5c0d47e465f427e41698a0c22d10b7f4044d86a4b37ec2514b",
+      "domain_id": "c4f5e3173dc0bf1f3768c09d67e38280d6448b2515ae9c868c5cd154fac073be",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc00c79a609854509020ab3df638bff291a0fa38e85fcf53a1b1461d22dd9b5f",
+        "path": "data/variable-documentation/dc00c79a609854509020ab3df638bff291a0fa38e85fcf53a1b1461d22dd9b5f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2012-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "59fb7e8a685b4062eab4db92ed771b419fffde500d77c0c815ac3e2d927271db",
+      "domain_id": "c4f5e3173dc0bf1f3768c09d67e38280d6448b2515ae9c868c5cd154fac073be",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "28aacd03aef9220cfc8b268619d7312b1433af68aa86ed62a656407a2f2ba6ce",
+        "path": "data/variable-documentation/28aacd03aef9220cfc8b268619d7312b1433af68aa86ed62a656407a2f2ba6ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2013-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "31dae7bddaf3ea8614e96f9ce960afde8e35a26b26499c14c88e3136845ef999",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8177df7cb86534f588797363e315957cc458563e7986048603a5260ff83d65ea",
+        "path": "data/variable-documentation/8177df7cb86534f588797363e315957cc458563e7986048603a5260ff83d65ea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2014-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "2951134a9754c164f1b57f3f9bf43f7c9796c946421330162e9c4925165f5da5",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c756419b0fb2b3e21b019d81f47a53e5a401f07850b1a2917414c90588320358",
+        "path": "data/variable-documentation/c756419b0fb2b3e21b019d81f47a53e5a401f07850b1a2917414c90588320358.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2015-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "8487211af5d51710c5fd4d911021c4a44f8d8c878758c1654eb4f7ae09b6e3f8",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "187701a5b5b1c43d19600d18deb9989761500a36bfe7fa47450159a2f655c878",
+        "path": "data/variable-documentation/187701a5b5b1c43d19600d18deb9989761500a36bfe7fa47450159a2f655c878.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2016-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "3051a5c5e70341e65afc1996e4ef344ec8d95a5c52454d1fba049cac568acd05",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "58a06866e1db0a01ac79f5b18462e4c70245bf5b513874459343b35cb572e222",
+        "path": "data/variable-documentation/58a06866e1db0a01ac79f5b18462e4c70245bf5b513874459343b35cb572e222.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2017-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "3e17ff2ccd69abcbb537b209d5e9b0011ef365b53617c1902cecc1863799603c",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f1333d68dd277d1d81ceefd76d802d24a79c58619870dc4ee79badc70f7e4e8",
+        "path": "data/variable-documentation/9f1333d68dd277d1d81ceefd76d802d24a79c58619870dc4ee79badc70f7e4e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2018-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "6da0a70dbd79fa33ecd94f77c43cf957300b78a15a892f4f3449d2512fa33915",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d517947d299e472fcdf0dda26c6ec1214962e5fda5b6f206c38512617dead7bd",
+        "path": "data/variable-documentation/d517947d299e472fcdf0dda26c6ec1214962e5fda5b6f206c38512617dead7bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2019-12-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "419975318029df3085a058464e69ae9c675aa1fbd9ee3f2e066712993bf448ec",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "821f61747c3594a7f4233e96efe40164366ced537537de4159fa0cec8a99bee2",
+        "path": "data/variable-documentation/821f61747c3594a7f4233e96efe40164366ced537537de4159fa0cec8a99bee2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2020-03-31",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "b6d2e203bbd380298ff872e6f5ed713f8e170655ad06900bff139f6bf2782963",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c51302d6b63f4fa8f77fa483656f3e608e5c64be8c8febdc05a4202309af56e9",
+        "path": "data/variable-documentation/c51302d6b63f4fa8f77fa483656f3e608e5c64be8c8febdc05a4202309af56e9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2020-06-30",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "7707d418ac9c3e7a9b45aa44d3e63d22e28c0c7bee0c84085634a452d80092d5",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89063bc01e37910222ede4334798332ca709d48e03a26cb0a15f516be08dfb4c",
+        "path": "data/variable-documentation/89063bc01e37910222ede4334798332ca709d48e03a26cb0a15f516be08dfb4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "HushallsTyp",
+      "variable": "Hushållstyp, bostadshushåll",
+      "register_version": "2020-09-30",
+      "source_task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "id": "3a933f80d54eeecd1cd4df20213695fa53825e230be9501a18efdf3721f0659a",
+      "domain_id": "bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d093349dbade1b421b1b0e8adb95d58d978685083bf382b3f36de7779fd27ada",
+        "path": "data/variable-documentation/d093349dbade1b421b1b0e8adb95d58d978685083bf382b3f36de7779fd27ada.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -3954,6 +6738,383 @@
       "variant": "Hushåll",
       "column": "Imp_Hushall",
       "variable": "Imputeringsmarkering",
+      "register_version": "2011-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "a4a00113fb6a6945a010ba2c9f255df0c229647517cadd9bb6b5d05b2ad766b5",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b71d3987f76bd9dc0ecddaf3f64abf91b022fe1c59a41c1543cd55fcb104abd",
+        "path": "data/variable-documentation/2b71d3987f76bd9dc0ecddaf3f64abf91b022fe1c59a41c1543cd55fcb104abd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2012-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "ffa30f96e9311a4a55d4fe4adc7bbc752ea1b77bfef2f70acaaf5fda6ce1ec7d",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4595a07596168cb771f1cb34731db91b0aff6f6703b68ccb69f33261dc88f3f",
+        "path": "data/variable-documentation/d4595a07596168cb771f1cb34731db91b0aff6f6703b68ccb69f33261dc88f3f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2013-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "b52729189bbb806b994a6cc986dbbe9ef1dbe784994ebd948dac811563a189ba",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1384a7633fc85b41c51994c9ffa82177e8ac9fb5b4a97822795d812cab1ed628",
+        "path": "data/variable-documentation/1384a7633fc85b41c51994c9ffa82177e8ac9fb5b4a97822795d812cab1ed628.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2014-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "ff6e5f4babbef298f6af360cabc922f96c102e2857eed23553bfff4e2c671b5c",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd45464765464645a45267a6ac0184cbaa583ab974621c2aa60bc3b4f4cbe194",
+        "path": "data/variable-documentation/dd45464765464645a45267a6ac0184cbaa583ab974621c2aa60bc3b4f4cbe194.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2015-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "e75758e8ef590c5231e547407ee92392b03de2c12538ea31d6f8f7388baeb1ff",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4587afefc02fa497fd5a4735165c7f5b88a5bf3b599438dabb52965aae0a7acc",
+        "path": "data/variable-documentation/4587afefc02fa497fd5a4735165c7f5b88a5bf3b599438dabb52965aae0a7acc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2016-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "0998169dc1bf7631230f74b7428db9867bdb125f594e3c935629d16e41196890",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c5aaa90bfa151df851b7f377ed7c3d7be38c51f095b0f37efe6df4cc2a27cfb5",
+        "path": "data/variable-documentation/c5aaa90bfa151df851b7f377ed7c3d7be38c51f095b0f37efe6df4cc2a27cfb5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2017-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "f9c8d9c7dbcc32d8d2044d99e3a8961a840e1466abc4249388704944bc6fc978",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b4e3a5b96f2b6c363964930d8d5239d3cda912ee133eeb946da327972b6a953",
+        "path": "data/variable-documentation/2b4e3a5b96f2b6c363964930d8d5239d3cda912ee133eeb946da327972b6a953.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2018-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "645927923cb6303a1bd4de3a9d5cf1126875c6a456a06d15451a7363924fb1a1",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c4a760e600526a94f6ccd7798ebed0548a4ef27d2e00a02061ac76601a6f28ca",
+        "path": "data/variable-documentation/c4a760e600526a94f6ccd7798ebed0548a4ef27d2e00a02061ac76601a6f28ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2019-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "ba929a800eafb07a8441f4887b809ed76b4592dacbb35c0e94dd56aaec1ac7f3",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7de56b5a1eaab26484af6e7daeb43c2f2017bda83615272cf1b4dc80267b4ef8",
+        "path": "data/variable-documentation/7de56b5a1eaab26484af6e7daeb43c2f2017bda83615272cf1b4dc80267b4ef8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2020-03-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "4c75a48f8ec8798664ff64aba535d5e3835fdca1fc9a5b9cb3cee28edc0871fa",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cfe2ac3fc1f0a818f5b6e324e80572576d20b8da95f8cd8ad42923c8a41f8328",
+        "path": "data/variable-documentation/cfe2ac3fc1f0a818f5b6e324e80572576d20b8da95f8cd8ad42923c8a41f8328.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2020-06-30",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "6adcc811adc0ccbf7c24505f39eb32ee8ccfc227602dd0d1c3a68fe8b9793d53",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8a9cfd1b0aa42f5dff319e14fbcb9afcf8282e3992bc4a77922eec3ca7b8b19",
+        "path": "data/variable-documentation/c8a9cfd1b0aa42f5dff319e14fbcb9afcf8282e3992bc4a77922eec3ca7b8b19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2020-09-30",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "4cec80deb1912feea0aabcddee7cf6c174d3d408418c6321f5165a74aac5f4fe",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "badc0ec6d9364fd6e758d702ed1abd5e2785eda5465604a71e9beb4b1cb43b49",
+        "path": "data/variable-documentation/badc0ec6d9364fd6e758d702ed1abd5e2785eda5465604a71e9beb4b1cb43b49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
+      "register_version": "2020-12-31",
+      "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "id": "c2f6c34f28b5436bad05dcbc21869b264e11e2ac125ccc40b5810c9d03957747",
+      "domain_id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5def7b25eebd6fc2aadf312d13bc3e2099b5db85b08148857970180af77f808f",
+        "path": "data/variable-documentation/5def7b25eebd6fc2aadf312d13bc3e2099b5db85b08148857970180af77f808f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Imp_Hushall",
+      "variable": "Imputeringsmarkering",
       "register_version": "2021-03-31",
       "source_task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
       "id": "d5b7787d807d7d649289a3696f7e0e96ade00202b50b767a1902efb64993c381",
@@ -4412,6 +7573,383 @@
         "path": "data/variable-documentation/6ec91b6f70acb69843b0648347b1cbeaac8086d8d5c2fa60e5ca0cc6bd7a0f8f.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2011-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "8a49c8fb891cd1a1a7806361698bb039929369746c3e7bcbbe7d94afad202d5d",
+      "domain_id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "78a1ce674b24684018b4715647308acbc2ee74b4ce11a18febe80ddfec3cc02c",
+        "path": "data/variable-documentation/78a1ce674b24684018b4715647308acbc2ee74b4ce11a18febe80ddfec3cc02c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2012-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "decb5b3650c545dbc243cd6989adbb4bb11bcda713e0d5fc2ebe2bf18e99207e",
+      "domain_id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3557a008d48d3c41ade2d902a28ca792eacbbd7dc8eaf696d51342d5927d9d15",
+        "path": "data/variable-documentation/3557a008d48d3c41ade2d902a28ca792eacbbd7dc8eaf696d51342d5927d9d15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2013-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "6652bfb42d8c7f4e5f6e670d62437c47f5368ba0498633d3273fb6841f0cd81b",
+      "domain_id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5338e0aad47c3e3f4f2489cca3f6fbd1ce147d6e73ed11b745a5b3ab3bf4f725",
+        "path": "data/variable-documentation/5338e0aad47c3e3f4f2489cca3f6fbd1ce147d6e73ed11b745a5b3ab3bf4f725.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2014-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "8f59082870f3b34d257ccb2483c996474ac27c134a99626992a4d766fc673cfd",
+      "domain_id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c1e3b41cfa0390314100ad852dd77bdd02360fcd888365c87d56d67f2e4d4bcb",
+        "path": "data/variable-documentation/c1e3b41cfa0390314100ad852dd77bdd02360fcd888365c87d56d67f2e4d4bcb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2015-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "fd25f81f50e308536157680c21c7d003f0edb1437584c6a08c9fc7a227a6dfe5",
+      "domain_id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e26496c6347a450bd1a8de843d84f6fd6f57e211e1de25392cb3b24903f9c38f",
+        "path": "data/variable-documentation/e26496c6347a450bd1a8de843d84f6fd6f57e211e1de25392cb3b24903f9c38f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2016-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "94a51b993559dad1809e3f8593f530c7c5ee6f8d312428e84e562dbc0eaad71f",
+      "domain_id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "30ec3f96aae18a578f3b5d65415d071b27afb5626e9ca927f7932ed3333da80f",
+        "path": "data/variable-documentation/30ec3f96aae18a578f3b5d65415d071b27afb5626e9ca927f7932ed3333da80f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2017-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "f2a4cb40e2aaedd244351cf0e9829940c930487a0f8f885f4018c5e26f147ce8",
+      "domain_id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e80fb720f055c1d165221e1df8282b8dc06e8030736ef1fd042bd69e4908c865",
+        "path": "data/variable-documentation/e80fb720f055c1d165221e1df8282b8dc06e8030736ef1fd042bd69e4908c865.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2018-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "6e8c1adc263866945fcfbb4d184d613a1e4b36725ca39dfb81dd86c2a7e48084",
+      "domain_id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b208e44f9eb8572edfc16779f0bca9e8d1d7307d253a4f992c9da3efa46f466a",
+        "path": "data/variable-documentation/b208e44f9eb8572edfc16779f0bca9e8d1d7307d253a4f992c9da3efa46f466a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2019-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "fda189c702e181a4781ac2248fe445cd9ff898295fe2ed6b93e9128ae70c976f",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "741babeb9175582211ef9fc0a6612db09b20bbcb1d06f1d1769b3cf904a4f015",
+        "path": "data/variable-documentation/741babeb9175582211ef9fc0a6612db09b20bbcb1d06f1d1769b3cf904a4f015.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2020-03-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "80879a5cdd70d9e57c0b21d79dc7abf1cb83d887ecd463f623345a28436ecfac",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "52b875e91bb1babfd9fd5200612bb2a2f25d995e0c20a435e759342618e58811",
+        "path": "data/variable-documentation/52b875e91bb1babfd9fd5200612bb2a2f25d995e0c20a435e759342618e58811.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2020-06-30",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "f750d9a6bd955e807310179867e8f09fde0aff9af429ad4abc88dd977aff622f",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c4ab330aa896940375443f0bbdf0154933d15492981d2381fe61655e4c7c5996",
+        "path": "data/variable-documentation/c4ab330aa896940375443f0bbdf0154933d15492981d2381fe61655e4c7c5996.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2020-09-30",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "1d1b796babb283a5a05c7998e2937dfffe2844a8ba9adabcf468dc1e08dfe931",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7594c239bb4bc6a3aad4be4601adcac9819eab7b1b418f0bd17946f219b93e9e",
+        "path": "data/variable-documentation/7594c239bb4bc6a3aad4be4601adcac9819eab7b1b418f0bd17946f219b93e9e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2020-12-31",
+      "source_task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "id": "5366322a628f3b7a1e8625f67ca1a470a9b6c2ee418e6bebcb9c27c067d6d3ab",
+      "domain_id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "10c602168a3d1ce73d185ef9d508087e435cabae613c51c65a3086ee2adff765",
+        "path": "data/variable-documentation/10c602168a3d1ce73d185ef9d508087e435cabae613c51c65a3086ee2adff765.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -4882,6 +8420,383 @@
       "variant": "Hushåll",
       "column": "Lan",
       "variable": "Län",
+      "register_version": "2011-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "9762415caabf4cfee368c925f29c42d2e7b6fd847d268182317b0c4cefcf6d58",
+      "domain_id": "a2742b17e3dfdb24653bee46362e4c97b334d8d9f7a645606b3271f8338093ef",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25a6ecc43ec49a43e79ee40afe9dcb22c53c4375e538d973ebd917ec662ee51a",
+        "path": "data/variable-documentation/25a6ecc43ec49a43e79ee40afe9dcb22c53c4375e538d973ebd917ec662ee51a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2012-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "4759956fabd403407a9b37b97d022f9498f26df03f9d8e827d4a8c6f32f6fafc",
+      "domain_id": "117503f64d0654876696bef36cd5cf2d9fc103ca59f439706d376f31c43878eb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9d00071cba4aa02cd0a926902bff09b896d11973a4eea43336206f56a8ed06cb",
+        "path": "data/variable-documentation/9d00071cba4aa02cd0a926902bff09b896d11973a4eea43336206f56a8ed06cb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2013-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "d0cf770e898fe5f8fac78c4a3024834aca512d29e793e4c28b8d85950af7e339",
+      "domain_id": "72477de0411222b50fefabec570e886f7eb1ed62be5990facd44247d26495293",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41f8cf5ee45a326b742bd7ecd5a265ffdf1b429327667457cbb22ad1687d0365",
+        "path": "data/variable-documentation/41f8cf5ee45a326b742bd7ecd5a265ffdf1b429327667457cbb22ad1687d0365.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2014-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "81661a0789cd6f089950d14b57bd9a9b8080b616ae6c76119622bafd272c9395",
+      "domain_id": "476bfc41d13877ebb6855e7ccba0213d76ff5b96eca85b3fa0e3726854e815af",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c2024d25131c3314110837f563e70f16d2fbdebe087fd682a09baf80dbeca06f",
+        "path": "data/variable-documentation/c2024d25131c3314110837f563e70f16d2fbdebe087fd682a09baf80dbeca06f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2015-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "8b2f75b56b6fd12b6ccb31f7f44969b14904471e3a363b87ca561f85e1978e90",
+      "domain_id": "fe9aff06ccc61fb17f6fa1118d09d9e2f8d889ce078dbb841718f3a1d9724e98",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "11f7d45baf2b89e7c4f8ddcae32f2ae7b0257f0043d5eb3853d9a7bb5d633380",
+        "path": "data/variable-documentation/11f7d45baf2b89e7c4f8ddcae32f2ae7b0257f0043d5eb3853d9a7bb5d633380.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2016-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "13778d06e3236bbdaf368ba21c9329b3ddb6e1609ebf949b530527ae44fa7020",
+      "domain_id": "f36be6f2da99dca8ebca30e1e4e43863cb24d394c425091be601b29a71feec6d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1d69d96c42d8bd5c18f0664a174b807b0b86965a67f6bf26f9668af7a2be5b9e",
+        "path": "data/variable-documentation/1d69d96c42d8bd5c18f0664a174b807b0b86965a67f6bf26f9668af7a2be5b9e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2017-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "40b2d25f207327482ad6d5cf16493e4865a6747969f78de740a5606ee141fae5",
+      "domain_id": "690433cca67d5d8c08f7a13fba4e032e94fb09dac3bd2c3755e8f2781a85d8c3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b57cd4ea55f4c7651386b30fd88c3a37e4705295b63b20f34e04825b31433fcd",
+        "path": "data/variable-documentation/b57cd4ea55f4c7651386b30fd88c3a37e4705295b63b20f34e04825b31433fcd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2018-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "b9bd86541fe13ef800da2c08eb2a8fc117519db1034496f724752edb0f585ad3",
+      "domain_id": "ea12a96f670cc0df94c18d8612cf1cf7abb04c5281136497e6912f4f7afba100",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "82dbdd8998120cb279a4fbe58dc18f36f1a14351c61662af2a596f58f6106552",
+        "path": "data/variable-documentation/82dbdd8998120cb279a4fbe58dc18f36f1a14351c61662af2a596f58f6106552.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2019-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "cba1d2a4fcd032d810cac1671cab0bbed4f4cc62fd5eae817a971ff9b5c60593",
+      "domain_id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c50fa600c85ce48f467df9e2bc25fd986cb91b0916d4070894778e611f91ce95",
+        "path": "data/variable-documentation/c50fa600c85ce48f467df9e2bc25fd986cb91b0916d4070894778e611f91ce95.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2020-03-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "8e5c4e3d72f69efb8f2ad9b3570d7ff9bd05fdd4d06a09013a273896db4b1148",
+      "domain_id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d488f4255e3d50ea47dfe9e53db0d832b053c64811261554cd06ee859a656b3",
+        "path": "data/variable-documentation/5d488f4255e3d50ea47dfe9e53db0d832b053c64811261554cd06ee859a656b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2020-06-30",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "b9478e44df2f0c083520f1e5e3350f477dd0f37aeb610f9c983a8900750be66b",
+      "domain_id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d17eebca45162eaa78615133e1de1de59ca4719091451c805b134a12817d6710",
+        "path": "data/variable-documentation/d17eebca45162eaa78615133e1de1de59ca4719091451c805b134a12817d6710.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2020-09-30",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "83557b6c4da5f250033e850f451756335bb7e74d4011c542fe2d83f853bc99fc",
+      "domain_id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c563063555eb7703157edce08a413a47ecec72788ef8808d970e2ee47a00125d",
+        "path": "data/variable-documentation/c563063555eb7703157edce08a413a47ecec72788ef8808d970e2ee47a00125d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2020-12-31",
+      "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "id": "5772ab1bc8663dd7781fd9d3a1178dfc619d33e107025ec7ab7f295d4d829186",
+      "domain_id": "c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f551f5a12fd8b40ae2382c526d684b464fb05f5403bb7aae32f750edccb06fdc",
+        "path": "data/variable-documentation/f551f5a12fd8b40ae2382c526d684b464fb05f5403bb7aae32f750edccb06fdc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "Lan",
+      "variable": "Län",
       "register_version": "2021-03-31",
       "source_task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
       "id": "74ea2a65d14eea2ad18b9a5eaff0a14410af270e89aba5bd88a34f385c40ebbc",
@@ -5340,6 +9255,383 @@
         "path": "data/variable-documentation/6eea618f61e34327d75a7fba00f0dd38cd6e1cdf8629560d5c22c749b9be3fec.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:24:27+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2011-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "d837d57ef531043da9bf497824bead0a313df34a08c608fc2f33a38cc0cff3dd",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b10401ede556a1089db862f62bfe95fb1ef677c0cbf2d27a6da8e88ea828f72e",
+        "path": "data/variable-documentation/b10401ede556a1089db862f62bfe95fb1ef677c0cbf2d27a6da8e88ea828f72e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2012-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "0ab65df83a30dfc8fbb0bf8720d8f7881675d23bd949aa94a4ba241ccae89daf",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8218fc2e820c3e81f8a3e47d4832ee94c32e04fa7cb21201ba8a0d0cfad03471",
+        "path": "data/variable-documentation/8218fc2e820c3e81f8a3e47d4832ee94c32e04fa7cb21201ba8a0d0cfad03471.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2013-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "5b4e4a41a707261621452d3de4cec23f7305db9a73bf9db1271296dcf5f9673d",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6bf36212bf5c9911146ef2308668234e99891e58e80eecb2234c35bb1be210b7",
+        "path": "data/variable-documentation/6bf36212bf5c9911146ef2308668234e99891e58e80eecb2234c35bb1be210b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2014-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "34b383fbf2edeed3bdbafcd4b806d0df6fd2971ca234505b1a4268515697595d",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd2ada8d899f1c4eecbfdc9c4eaf25532d8408e3c104bac04e97429a1e12f254",
+        "path": "data/variable-documentation/bd2ada8d899f1c4eecbfdc9c4eaf25532d8408e3c104bac04e97429a1e12f254.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2015-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "488446a1213638acaf2ab2e4638b323e49959653b61f5eb58fcb0e7d35f8c25b",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f4997edb5c026b1ccc36e55ef1901b920f67ad40fe4f3f98c3685d55b350d62",
+        "path": "data/variable-documentation/7f4997edb5c026b1ccc36e55ef1901b920f67ad40fe4f3f98c3685d55b350d62.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2016-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "e860f9f6b6a918f5606fa3e87205f827292aeceeb99837b9a59994ac5ddd548a",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7dbc4274cbb81d8f85e35c5df0ac6ce4e2a2831c084f5ee675d7ad97022b78cc",
+        "path": "data/variable-documentation/7dbc4274cbb81d8f85e35c5df0ac6ce4e2a2831c084f5ee675d7ad97022b78cc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2017-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "7836e10128b5968e05e55252eeb0c39581b863d50a1c2860b05c678f4d8628f2",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "91640b3562d45557dd14b03f3591fd550d276ea019e8e96da0a77d98965ee75e",
+        "path": "data/variable-documentation/91640b3562d45557dd14b03f3591fd550d276ea019e8e96da0a77d98965ee75e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2018-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "7ffd063d9214c6b8e253c03d5559c8269ebaf19dc0ff10f1a979706bc57b3f98",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8145f80d7f0f77d5c03570008c61457277e264d6133e2e72a628ad0853f58e02",
+        "path": "data/variable-documentation/8145f80d7f0f77d5c03570008c61457277e264d6133e2e72a628ad0853f58e02.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2019-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "5647d81d213378be7598ca367bf811f75b1eb9213ed445b5139ef06cd1fa7cc9",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4183cdf85cea013e9547e09bb37cccd80488aab6fb18573e40c32ce17df87e47",
+        "path": "data/variable-documentation/4183cdf85cea013e9547e09bb37cccd80488aab6fb18573e40c32ce17df87e47.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2020-03-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "59dfa6a5b52ecfb4594eaa1b75788ace8f0dea97d831d5ef9dd3bf3b37492199",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "df63219b7723770cc107ff0857436edc73730f03805806fe3a129943d5e5ae19",
+        "path": "data/variable-documentation/df63219b7723770cc107ff0857436edc73730f03805806fe3a129943d5e5ae19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2020-06-30",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "6fabeeeff528322caf4915b8c04071ae6926b9f31a78dab062d5842148ba2eb0",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "664d072343b6d1e8c41306a36be8f19c64fa4539bcb5c90a49fb6194eb8826f5",
+        "path": "data/variable-documentation/664d072343b6d1e8c41306a36be8f19c64fa4539bcb5c90a49fb6194eb8826f5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2020-09-30",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "263dfd3c4955335f96a35b49c306e88aa9c3a66dcb34b25aa0d44d6e1fe52aff",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d6582bb8c9a1aa51dcb3a831530f52da4ef79bd7db3724c2b6cee94c6ce9de37",
+        "path": "data/variable-documentation/d6582bb8c9a1aa51dcb3a831530f52da4ef79bd7db3724c2b6cee94c6ce9de37.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "column": "YngstaBarn",
+      "variable": "Ålder yngsta barnet",
+      "register_version": "2020-12-31",
+      "source_task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "id": "adfc333363b628cb9411a8672eafb23225daf43e2af52aae9941849756a8a160",
+      "domain_id": "535a4d1e499d4ab6ef2da6e6e464a71774877cb924e5f0b1814809690719ea5e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T08:45:29+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "927bdd2e4e46f341067800d206b7ff5f5cd9c280ea3ca7d0798c659cf8f1ad0c",
+        "path": "data/variable-documentation/927bdd2e4e46f341067800d206b7ff5f5cd9c280ea3ca7d0798c659cf8f1ad0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:45:29+00:00"
     },
     {
       "register": "Befolkningsregistret (RTB)",
@@ -5808,6 +10100,14 @@
   ],
   "domains": [
     {
+      "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "117503f64d0654876696bef36cd5cf2d9fc103ca59f439706d376f31c43878eb",
+      "value_count": 21,
+      "path": "data/value-domain-values/117503f64d0654876696bef36cd5cf2d9fc103ca59f439706d376f31c43878eb.json"
+    },
+    {
       "version": "Imputeringsmarkering",
       "level": "Imputeringsmarkering",
       "data_type": "tinyint",
@@ -5816,12 +10116,68 @@
       "path": "data/value-domain-values/20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f.json"
     },
     {
+      "version": "LKF 2017-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "value_count": 290,
+      "path": "data/value-domain-values/25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a.json"
+    },
+    {
+      "version": "2018-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "value_count": 290,
+      "path": "data/value-domain-values/262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9.json"
+    },
+    {
       "version": "2023-01-01 /Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
       "id": "2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2",
       "value_count": 290,
       "path": "data/value-domain-values/2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2.json"
+    },
+    {
+      "version": "LKF 2014-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "value_count": 290,
+      "path": "data/value-domain-values/35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff.json"
+    },
+    {
+      "version": "2019-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "value_count": 290,
+      "path": "data/value-domain-values/420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc.json"
+    },
+    {
+      "version": "LKF 2015-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "476bfc41d13877ebb6855e7ccba0213d76ff5b96eca85b3fa0e3726854e815af",
+      "value_count": 21,
+      "path": "data/value-domain-values/476bfc41d13877ebb6855e7ccba0213d76ff5b96eca85b3fa0e3726854e815af.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "value_count": 21,
+      "path": "data/value-domain-values/4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395.json"
+    },
+    {
+      "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "value_count": 290,
+      "path": "data/value-domain-values/4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca.json"
     },
     {
       "version": "Ålder ",
@@ -5840,12 +10196,36 @@
       "path": "data/value-domain-values/5e35d5fcc1c603650b8cde6ace73e676923ca879dfa7bba9104bf3f765baa2c2.json"
     },
     {
+      "version": "2018-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "690433cca67d5d8c08f7a13fba4e032e94fb09dac3bd2c3755e8f2781a85d8c3",
+      "value_count": 21,
+      "path": "data/value-domain-values/690433cca67d5d8c08f7a13fba4e032e94fb09dac3bd2c3755e8f2781a85d8c3.json"
+    },
+    {
       "version": "2024-01-01 /Län, kommuner och församlingar",
       "level": "Län",
       "data_type": "char(2)",
       "id": "6c846950c85ec5f37ee6bbf6df423ff7707b68865cd9e4c2b5d8afa54909fe6b",
       "value_count": 21,
       "path": "data/value-domain-values/6c846950c85ec5f37ee6bbf6df423ff7707b68865cd9e4c2b5d8afa54909fe6b.json"
+    },
+    {
+      "version": "LKF 2016-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "value_count": 290,
+      "path": "data/value-domain-values/7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971.json"
+    },
+    {
+      "version": "LKF 2014-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "72477de0411222b50fefabec570e886f7eb1ed62be5990facd44247d26495293",
+      "value_count": 21,
+      "path": "data/value-domain-values/72477de0411222b50fefabec570e886f7eb1ed62be5990facd44247d26495293.json"
     },
     {
       "version": "2021-01-01/ Län, kommuner och församlingar ",
@@ -5870,6 +10250,14 @@
       "id": "9d759208f362151b947ff93fedd953fca840ca8f77dcfb815b718ead01146104",
       "value_count": 21,
       "path": "data/value-domain-values/9d759208f362151b947ff93fedd953fca840ca8f77dcfb815b718ead01146104.json"
+    },
+    {
+      "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "a2742b17e3dfdb24653bee46362e4c97b334d8d9f7a645606b3271f8338093ef",
+      "value_count": 21,
+      "path": "data/value-domain-values/a2742b17e3dfdb24653bee46362e4c97b334d8d9f7a645606b3271f8338093ef.json"
     },
     {
       "version": "Civilstånd 1998-",
@@ -5904,6 +10292,14 @@
       "path": "data/value-domain-values/b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56.json"
     },
     {
+      "version": "LKF 2015-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "value_count": 290,
+      "path": "data/value-domain-values/b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35.json"
+    },
+    {
       "version": "Hushållstyp, bostadshushåll",
       "level": "Hushållstyp, bostadshushåll",
       "data_type": "char(3)",
@@ -5912,12 +10308,44 @@
       "path": "data/value-domain-values/bfeb2fda85e5ce77e2ffe9c817336de78dec3dd25e93020a24650b841802cd2f.json"
     },
     {
+      "version": "Hushållstyp, bostadshushåll",
+      "level": "Hushållstyp, bostadshushåll",
+      "data_type": "char(3)",
+      "id": "c4f5e3173dc0bf1f3768c09d67e38280d6448b2515ae9c868c5cd154fac073be",
+      "value_count": 10,
+      "path": "data/value-domain-values/c4f5e3173dc0bf1f3768c09d67e38280d6448b2515ae9c868c5cd154fac073be.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "value_count": 290,
+      "path": "data/value-domain-values/c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85.json"
+    },
+    {
       "version": "2021-01-01/ Län, kommuner och församlingar ",
       "level": "Län",
       "data_type": "char(2)",
       "id": "c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c",
       "value_count": 21,
       "path": "data/value-domain-values/c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c.json"
+    },
+    {
+      "version": "Hushållsställning, bostadshushåll",
+      "level": "Hushållsställning, bostadshushåll 2011-2014",
+      "data_type": "char(3)",
+      "id": "ca7132b7387dfed3770be3e994e2e0143788c4022c56bb487149bc0db94c09cb",
+      "value_count": 12,
+      "path": "data/value-domain-values/ca7132b7387dfed3770be3e994e2e0143788c4022c56bb487149bc0db94c09cb.json"
+    },
+    {
+      "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "value_count": 290,
+      "path": "data/value-domain-values/cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23.json"
     },
     {
       "version": "Tal",
@@ -5936,25 +10364,57 @@
       "path": "data/value-domain-values/d64ffdc8d62944fcc04175a9fac1fd7ae38d5e2cc726581f1198adc185523f67.json"
     },
     {
+      "version": "Hushållsställning, bostadshushåll",
+      "level": "Hushållsställning, bostadshushåll 2011-2014",
+      "data_type": "char(3)",
+      "id": "d9a66768d9658b3f881b0f80002260e1a6c89aa342e54cd15685a8533976f722",
+      "value_count": 13,
+      "path": "data/value-domain-values/d9a66768d9658b3f881b0f80002260e1a6c89aa342e54cd15685a8533976f722.json"
+    },
+    {
+      "version": "2019-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "ea12a96f670cc0df94c18d8612cf1cf7abb04c5281136497e6912f4f7afba100",
+      "value_count": 21,
+      "path": "data/value-domain-values/ea12a96f670cc0df94c18d8612cf1cf7abb04c5281136497e6912f4f7afba100.json"
+    },
+    {
+      "version": "LKF 2017-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "f36be6f2da99dca8ebca30e1e4e43863cb24d394c425091be601b29a71feec6d",
+      "value_count": 21,
+      "path": "data/value-domain-values/f36be6f2da99dca8ebca30e1e4e43863cb24d394c425091be601b29a71feec6d.json"
+    },
+    {
       "version": "2024-01-01 /Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
       "id": "fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4",
       "value_count": 290,
       "path": "data/value-domain-values/fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4.json"
+    },
+    {
+      "version": "LKF 2016-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "fe9aff06ccc61fb17f6fa1118d09d9e2f8d889ce078dbb841718f3a1d9724e98",
+      "value_count": 21,
+      "path": "data/value-domain-values/fe9aff06ccc61fb17f6fa1118d09d9e2f8d889ce078dbb841718f3a1d9724e98.json"
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "80a07d3ce284a4a15f39cf820edf32776160ba5e6a10437356f776193bfd0542",
-    "passes": 1,
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "3b9588420d3407fcdb31158ec922cedbef85ebc2cebd393c1bfa318e65ac1c58",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T06:24:27+00:00",
+    "retrieved_at": "2026-11-21T08:45:29+00:00",
     "task_count": 12,
     "expected_bindings": 348,
-    "documented_bindings": 200,
+    "documented_bindings": 348,
     "errors": []
   }
 }
