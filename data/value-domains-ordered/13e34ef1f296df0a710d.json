@@ -41,6 +41,42 @@
       "variant": "Kursdeltagare och resultat",
       "column": "Betyg",
       "variable": "Betyg",
+      "register_version": "2008/2009",
+      "source_task_id": "928e942f90f76b0d29a11679bb5b00fdc3dd379be66f745bb72dd20af7063f0c",
+      "id": "2a1b757a17e7d2d3d088556521eb76de5b3adcc1d1f64b7f9d2c4e15f6c8d5e6",
+      "domain_id": "6320fce0d1840b7397e9be5b9e66ce82841e8523c2bd72b71727d516c43002cf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Betyg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3715,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Betyg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3733,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8fbeabbedb46a502bbe4bf7ae51e1408a318613556c265161793a96a0708dac3",
+        "path": "data/variable-documentation/8fbeabbedb46a502bbe4bf7ae51e1408a318613556c265161793a96a0708dac3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Betyg",
+      "variable": "Betyg",
       "register_version": "2009",
       "source_task_id": "928e942f90f76b0d29a11679bb5b00fdc3dd379be66f745bb72dd20af7063f0c",
       "id": "6f26a02277347de09162b5ce0b1add386b044744058550ddbd75972e1ea2b963",
@@ -65,7 +101,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1a5b8d604980cb708a2782de76777672d8d1e77e25162bff33ec0e2d206f0a27",
+        "path": "data/variable-documentation/1a5b8d604980cb708a2782de76777672d8d1e77e25162bff33ec0e2d206f0a27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -96,7 +137,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67147004816deec66d50bfb65e57e0a1956f28669596b03d8e5047e08258f4b0",
+        "path": "data/variable-documentation/67147004816deec66d50bfb65e57e0a1956f28669596b03d8e5047e08258f4b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -127,7 +173,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2658bb25f82d785693d84568f86e6f066786385e8f48ec7f8339f57788779531",
+        "path": "data/variable-documentation/2658bb25f82d785693d84568f86e6f066786385e8f48ec7f8339f57788779531.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -158,7 +209,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f852b2855c899adc8252d84385f5ed15cdcfefe9ffd97952ee678d3b476cb83c",
+        "path": "data/variable-documentation/f852b2855c899adc8252d84385f5ed15cdcfefe9ffd97952ee678d3b476cb83c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -189,7 +245,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1dd24e40adeb07eea415edb60c62209b44e1396d20cc9cada0d17d5f46d398c9",
+        "path": "data/variable-documentation/1dd24e40adeb07eea415edb60c62209b44e1396d20cc9cada0d17d5f46d398c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -220,7 +281,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d70b7ae2adceefa49adeaabb826a5b7bccbddf850fe2d1cf56b17041114d0cbf",
+        "path": "data/variable-documentation/d70b7ae2adceefa49adeaabb826a5b7bccbddf850fe2d1cf56b17041114d0cbf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -251,7 +317,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c71a82ad8a980d2160dbfce9ddb0941fee711ba519a68ea97e454ee05e899a76",
+        "path": "data/variable-documentation/c71a82ad8a980d2160dbfce9ddb0941fee711ba519a68ea97e454ee05e899a76.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -282,7 +353,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e49ad3f44031cf8583c6e21d6e9032c4192ecde4bbcbc531316c9f4c22b6eb1",
+        "path": "data/variable-documentation/8e49ad3f44031cf8583c6e21d6e9032c4192ecde4bbcbc531316c9f4c22b6eb1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -313,7 +389,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cdb367e5b537e268c29c47c5ffd78a9bd0889bd0ce1b676d84bbfdb8e3ca0270",
+        "path": "data/variable-documentation/cdb367e5b537e268c29c47c5ffd78a9bd0889bd0ce1b676d84bbfdb8e3ca0270.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -344,7 +425,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b85d3a722aa07a628907fe4409962a7dbb4d2b3654e19f81fca7d923b247bb88",
+        "path": "data/variable-documentation/b85d3a722aa07a628907fe4409962a7dbb4d2b3654e19f81fca7d923b247bb88.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -375,7 +461,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5ee1cc052d827a8da9abe27458196b912441d07ff4cfbc5d1a0be21291edbbb9",
+        "path": "data/variable-documentation/5ee1cc052d827a8da9abe27458196b912441d07ff4cfbc5d1a0be21291edbbb9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -406,7 +497,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "440918c8415523d7de557c4fd33cdc6c4d290373815dfba99309727c6e2b666e",
+        "path": "data/variable-documentation/440918c8415523d7de557c4fd33cdc6c4d290373815dfba99309727c6e2b666e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -437,7 +533,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "084c0c075cafb2401e91c79cd0a5f783676103ebfd11b2a07087d84bdae62504",
+        "path": "data/variable-documentation/084c0c075cafb2401e91c79cd0a5f783676103ebfd11b2a07087d84bdae62504.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -468,7 +569,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6db993243b485cca51f3af67e20d52864e199e56a396c9995ec6c7c2a9dabb53",
+        "path": "data/variable-documentation/6db993243b485cca51f3af67e20d52864e199e56a396c9995ec6c7c2a9dabb53.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -499,7 +605,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ce14df0d3c22da079087cb44c7f704c04ab64fcd032e7fa4d70f1d6b87506d45",
+        "path": "data/variable-documentation/ce14df0d3c22da079087cb44c7f704c04ab64fcd032e7fa4d70f1d6b87506d45.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -530,7 +641,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "55f6bd026b64db97e40b15c68bfa230be34f101577be9b1573be67a949248b7e",
+        "path": "data/variable-documentation/55f6bd026b64db97e40b15c68bfa230be34f101577be9b1573be67a949248b7e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -623,7 +739,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25b97b5552eeaca54fe71348b2aab2b27d2e493f59697cdedea1dacd51d79b1f",
+        "path": "data/variable-documentation/25b97b5552eeaca54fe71348b2aab2b27d2e493f59697cdedea1dacd51d79b1f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Elevtim",
+      "variable": "Undervisningstimmar i svenska för invandrare",
+      "register_version": "2007/2008",
+      "source_task_id": "dc01c10acda7603c25dce788a815f2d16f7bd15cb245daf849747dc3b252a593",
+      "id": "29b5f36ed817a3e11ddb2fec2dbd40b01e4d33f9f2ca7d5add252e115f11189b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Elevtim",
+          "ar_raw": "1997-2021",
+          "kallrad": 3716,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Elevtim",
+          "ar_raw": "1997-2021",
+          "kallrad": 3734,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "443c305144e866a2c5a93e42142049c292f00ac9f7f56189d2f623ed35ad8ca3",
+        "path": "data/variable-documentation/443c305144e866a2c5a93e42142049c292f00ac9f7f56189d2f623ed35ad8ca3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -654,7 +811,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4c50bbe4c15f01107e0f4e1d2e4cacc2b73be06a27a88847f36c44dee81dd558",
+        "path": "data/variable-documentation/4c50bbe4c15f01107e0f4e1d2e4cacc2b73be06a27a88847f36c44dee81dd558.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Elevtim",
+      "variable": "Undervisningstimmar i svenska för invandrare",
+      "register_version": "2008/2009",
+      "source_task_id": "dc01c10acda7603c25dce788a815f2d16f7bd15cb245daf849747dc3b252a593",
+      "id": "7ba33bd07775ce57e04ea9768d5cc61ef7b99bb6f80ac2d82b4d9ecd3d182953",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Elevtim",
+          "ar_raw": "1997-2021",
+          "kallrad": 3716,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Elevtim",
+          "ar_raw": "1997-2021",
+          "kallrad": 3734,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "678afa32d00f043f6139743877b43205b953f32ebbc926d01f621b847fd57bd6",
+        "path": "data/variable-documentation/678afa32d00f043f6139743877b43205b953f32ebbc926d01f621b847fd57bd6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -685,7 +883,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8c5d9e5907b5e525ad403a4233bc3f0230dfe5f1d5bc2641e2854016e30eca4d",
+        "path": "data/variable-documentation/8c5d9e5907b5e525ad403a4233bc3f0230dfe5f1d5bc2641e2854016e30eca4d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -716,7 +919,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6664c825e69a9722834a39c57ccdcdab8ea850c1e85b916d54dbfb8db563b570",
+        "path": "data/variable-documentation/6664c825e69a9722834a39c57ccdcdab8ea850c1e85b916d54dbfb8db563b570.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -747,7 +955,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f73c2978f17c6a50b4ab6cc904b3d753b29c2edb0081690c4fe2840faa635ddc",
+        "path": "data/variable-documentation/f73c2978f17c6a50b4ab6cc904b3d753b29c2edb0081690c4fe2840faa635ddc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -778,7 +991,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bf994042f77e09a0f1d99e339e423cc48042e2f6b407a08f480753f159cd607a",
+        "path": "data/variable-documentation/bf994042f77e09a0f1d99e339e423cc48042e2f6b407a08f480753f159cd607a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -809,7 +1027,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "90605a19e3397b889ef6c9e9ea440b4b8954ba25b0aae40ce4ed108e06800e34",
+        "path": "data/variable-documentation/90605a19e3397b889ef6c9e9ea440b4b8954ba25b0aae40ce4ed108e06800e34.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -840,7 +1063,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b21a503743a0a18b10b5c51ef199ba33380b59b8e174a309e0f8496b0b40060b",
+        "path": "data/variable-documentation/b21a503743a0a18b10b5c51ef199ba33380b59b8e174a309e0f8496b0b40060b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -871,7 +1099,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "adca79ad79c3130599bcdbab378b49884f36091004b653bf7555c7be43a32551",
+        "path": "data/variable-documentation/adca79ad79c3130599bcdbab378b49884f36091004b653bf7555c7be43a32551.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -902,7 +1135,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "de6ecb1876562a876ffc622a90eeca27b66e3232fc48618465aa8ed00d9a717b",
+        "path": "data/variable-documentation/de6ecb1876562a876ffc622a90eeca27b66e3232fc48618465aa8ed00d9a717b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -933,7 +1171,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "969b54c077cd933c5d381e765d5031612cfd824a3a8b54eb969d5f9debc5b02b",
+        "path": "data/variable-documentation/969b54c077cd933c5d381e765d5031612cfd824a3a8b54eb969d5f9debc5b02b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -964,7 +1207,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8dbaf00007ed83cd3cca70ea3ef7c13efa2590f7afbbcaa48283e3af24e4e1b8",
+        "path": "data/variable-documentation/8dbaf00007ed83cd3cca70ea3ef7c13efa2590f7afbbcaa48283e3af24e4e1b8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -995,7 +1243,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5054070bde1cde39ea1526ad300b4cc269ae6a868f6beeeba0c8609f19bb860d",
+        "path": "data/variable-documentation/5054070bde1cde39ea1526ad300b4cc269ae6a868f6beeeba0c8609f19bb860d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1026,7 +1279,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15eb69ed8c6ac24d17db80aba541ac278f910684fd495ed3d7b47887873ea80e",
+        "path": "data/variable-documentation/15eb69ed8c6ac24d17db80aba541ac278f910684fd495ed3d7b47887873ea80e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1057,7 +1315,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "13d2648cd9a322b97229181f6eed4d0c74ec13e58c14b119b814ef51a368ce37",
+        "path": "data/variable-documentation/13d2648cd9a322b97229181f6eed4d0c74ec13e58c14b119b814ef51a368ce37.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1088,7 +1351,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3435ca2a32b856191a214121694cbada03e8791522e9972a3bb6ac7dc513e715",
+        "path": "data/variable-documentation/3435ca2a32b856191a214121694cbada03e8791522e9972a3bb6ac7dc513e715.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1119,7 +1387,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "601ee3c1a8b87ace4397feae13d1fe797e392b74e4491a7a54ad2a34c4e7a653",
+        "path": "data/variable-documentation/601ee3c1a8b87ace4397feae13d1fe797e392b74e4491a7a54ad2a34c4e7a653.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1150,7 +1423,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b94c176a253293181b3a83141495183619d3079b0428c7ae294f155ad6a59b4",
+        "path": "data/variable-documentation/2b94c176a253293181b3a83141495183619d3079b0428c7ae294f155ad6a59b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1181,7 +1459,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3dfd19f41334b991c2bef2904084f6f601539360e94b23a50b65d5b475469d0",
+        "path": "data/variable-documentation/b3dfd19f41334b991c2bef2904084f6f601539360e94b23a50b65d5b475469d0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1212,7 +1495,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4700edd234286d8727727a8f3db530207b4344ca0497b36c8cf6c9866a928f70",
+        "path": "data/variable-documentation/4700edd234286d8727727a8f3db530207b4344ca0497b36c8cf6c9866a928f70.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1243,7 +1531,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9011b801e484ca0ebd7e8a4ed9c9d0851c0e0470087c1398f92594f6eeffcb71",
+        "path": "data/variable-documentation/9011b801e484ca0ebd7e8a4ed9c9d0851c0e0470087c1398f92594f6eeffcb71.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1305,7 +1598,48 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7a55573e15e70c5efef2d971d1296b3e1edebc9abefece881613e8f32ae0ec98",
+        "path": "data/variable-documentation/7a55573e15e70c5efef2d971d1296b3e1edebc9abefece881613e8f32ae0ec98.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "HemKommun",
+      "variable": "Kommun",
+      "register_version": "2008/2009",
+      "source_task_id": "9c2e404c1fa651c9924404de6c0dc26c7e9466e6c7a324b3c034cef3dcb23e72",
+      "id": "e3b40f3419d6e649dfeebe87ce6d30e4d9a22d66d3041cedf6fb5bc5dce31504",
+      "domain_id": "7854208f61759a06cd51d61565d64d754296fece5a06e9776a0819fda28ad912",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Hemkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3719,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Hemkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3737,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e20b4d531b3a311cbfd662f1fd56f34761e07d5489bba9c290a0c253ec007e66",
+        "path": "data/variable-documentation/e20b4d531b3a311cbfd662f1fd56f34761e07d5489bba9c290a0c253ec007e66.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1336,7 +1670,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79387caec2cd2b7c04610d1dd96faa94ab16e672dc11e182a5ebbf9863e4ae8a",
+        "path": "data/variable-documentation/79387caec2cd2b7c04610d1dd96faa94ab16e672dc11e182a5ebbf9863e4ae8a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1367,7 +1706,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6787db52db4ab06c6d61440eb17eb2967483f90e1fb19ecd7f582adba51a3c5f",
+        "path": "data/variable-documentation/6787db52db4ab06c6d61440eb17eb2967483f90e1fb19ecd7f582adba51a3c5f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1398,7 +1742,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8743527a7b3fba8409e9b046a1ee677b51275cc0d2266d5d6ba578a1f6d6f99c",
+        "path": "data/variable-documentation/8743527a7b3fba8409e9b046a1ee677b51275cc0d2266d5d6ba578a1f6d6f99c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1429,7 +1778,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7607adccd709d819932484fb1626afedf67af0dde0cb3d62c0b38450feb95ca0",
+        "path": "data/variable-documentation/7607adccd709d819932484fb1626afedf67af0dde0cb3d62c0b38450feb95ca0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1460,7 +1814,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6efea5b15570f92aa56b78b91e47c676cc4a6d5bc13140fdf5f1c54a2091bd97",
+        "path": "data/variable-documentation/6efea5b15570f92aa56b78b91e47c676cc4a6d5bc13140fdf5f1c54a2091bd97.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1491,7 +1850,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4d751518fde2d8ca3c2b8eedfe38659945521312f49c133e1dcba9c2bc8d56e",
+        "path": "data/variable-documentation/d4d751518fde2d8ca3c2b8eedfe38659945521312f49c133e1dcba9c2bc8d56e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1522,7 +1886,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a506aebbc183145c7c4fc29bd837bfd0e3696996c04fd0c961e3e560d99a6dbc",
+        "path": "data/variable-documentation/a506aebbc183145c7c4fc29bd837bfd0e3696996c04fd0c961e3e560d99a6dbc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1553,7 +1922,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9080c8327e09bc7b36dc9646e405499348c16e63b91ec2e1a36c664895027524",
+        "path": "data/variable-documentation/9080c8327e09bc7b36dc9646e405499348c16e63b91ec2e1a36c664895027524.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1584,7 +1958,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d47125f0ed22c7070fa25ead386cb0d9b5123d362faf8c385ebf679ab896602",
+        "path": "data/variable-documentation/8d47125f0ed22c7070fa25ead386cb0d9b5123d362faf8c385ebf679ab896602.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1615,7 +1994,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f1bc7f042b469bd583dbe42ea53a35b9e58f866a57d22de8ffdb344d6911188e",
+        "path": "data/variable-documentation/f1bc7f042b469bd583dbe42ea53a35b9e58f866a57d22de8ffdb344d6911188e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1646,7 +2030,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "934ec0800cb4234a5e4bb839140904eeed542ed71fefca55864a21592956da99",
+        "path": "data/variable-documentation/934ec0800cb4234a5e4bb839140904eeed542ed71fefca55864a21592956da99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1677,7 +2066,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3600ac62a4dd0194e00d28133eb191bd9560b9784125fdbea71c96c25bfb68a7",
+        "path": "data/variable-documentation/3600ac62a4dd0194e00d28133eb191bd9560b9784125fdbea71c96c25bfb68a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1708,7 +2102,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a3b3a85b4abde1aaaea7b44156ba8fcd120aaa72116654fcedad2924fccbe0d7",
+        "path": "data/variable-documentation/a3b3a85b4abde1aaaea7b44156ba8fcd120aaa72116654fcedad2924fccbe0d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1739,7 +2138,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1a39ecc5dc98f06e4546d64f105a366e74c20f5f3f69f3b44425ed4d779a6936",
+        "path": "data/variable-documentation/1a39ecc5dc98f06e4546d64f105a366e74c20f5f3f69f3b44425ed4d779a6936.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1770,7 +2174,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "55e4acd5b9f1ecebbdc81ba57fa058b2e3ffaaa58b90c5392f45400ee288fa16",
+        "path": "data/variable-documentation/55e4acd5b9f1ecebbdc81ba57fa058b2e3ffaaa58b90c5392f45400ee288fa16.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1801,7 +2210,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e5b5b0f7d785ce8d7b1df3bee37122db861f8a0b6eef21afb654eb43d5e913f4",
+        "path": "data/variable-documentation/e5b5b0f7d785ce8d7b1df3bee37122db861f8a0b6eef21afb654eb43d5e913f4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1839,6 +2253,42 @@
       "variant": "Kursdeltagare och resultat",
       "column": "Kurs",
       "variable": "Kurs",
+      "register_version": "2008/2009",
+      "source_task_id": "c78caebf9e643133f6ffc4481df14dc16097e17cf4ccca1571256cbf81ae11fe",
+      "id": "0313936968d486be31171b775ebdf4dcb60138be9252cf0405d5dc182579ccad",
+      "domain_id": "cded0c12954354305b3e2b3e678a187d35dcdaebb513932c192e4bfe4f5a7270",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Kurs",
+          "ar_raw": "1997-2024",
+          "kallrad": 3721,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Kurs",
+          "ar_raw": "1997-2024",
+          "kallrad": 3739,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a94a7d9377a19fc36f33b4422275ff51893f36ec909c5d8d40a226f4b18a0997",
+        "path": "data/variable-documentation/a94a7d9377a19fc36f33b4422275ff51893f36ec909c5d8d40a226f4b18a0997.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Kurs",
+      "variable": "Kurs",
       "register_version": "2009",
       "source_task_id": "c78caebf9e643133f6ffc4481df14dc16097e17cf4ccca1571256cbf81ae11fe",
       "id": "27ae3389737abcbdf42f2d7cbe342a711b4080ef8300de824f3377cb3b6713d8",
@@ -1863,7 +2313,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d7a1e3220e1d2f3e0f6909d058fc6bcee28a1258af874ab92fcaa97366b91526",
+        "path": "data/variable-documentation/d7a1e3220e1d2f3e0f6909d058fc6bcee28a1258af874ab92fcaa97366b91526.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1894,7 +2349,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "331621ff814b0d73ffd6a8acb983883f53b0597cc5b040386fd3565e9db28203",
+        "path": "data/variable-documentation/331621ff814b0d73ffd6a8acb983883f53b0597cc5b040386fd3565e9db28203.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1925,7 +2385,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9565da956d94d1fa8581a97176db8ba1367745e28677142297a026d2c6679503",
+        "path": "data/variable-documentation/9565da956d94d1fa8581a97176db8ba1367745e28677142297a026d2c6679503.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1956,7 +2421,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "07a51ee79ca0456838ade3abc2e856f16f46d97ab2f007297e8c738c068a1937",
+        "path": "data/variable-documentation/07a51ee79ca0456838ade3abc2e856f16f46d97ab2f007297e8c738c068a1937.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -1987,7 +2457,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e028c6f42ff343a2306c112a462dfb8242878ddde9a24176ae11202d900a84a1",
+        "path": "data/variable-documentation/e028c6f42ff343a2306c112a462dfb8242878ddde9a24176ae11202d900a84a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2018,7 +2493,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95dd8270aa1f4b6797f9530f67148e24088da33896642a48f2e01429c08806ff",
+        "path": "data/variable-documentation/95dd8270aa1f4b6797f9530f67148e24088da33896642a48f2e01429c08806ff.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2049,7 +2529,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3147b056326463ad4deac8d10ccc09b5b490d000dac15296c531dee5d56472f9",
+        "path": "data/variable-documentation/3147b056326463ad4deac8d10ccc09b5b490d000dac15296c531dee5d56472f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2080,7 +2565,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "74295467303feea27e17fe0a2a79a55a6e0b58ca6752aed1d2cfc43e555608b8",
+        "path": "data/variable-documentation/74295467303feea27e17fe0a2a79a55a6e0b58ca6752aed1d2cfc43e555608b8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2111,7 +2601,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "275baa2405f44ac0b0769f03b1fe5e00e49efbe086e49d88340183aa470e52fb",
+        "path": "data/variable-documentation/275baa2405f44ac0b0769f03b1fe5e00e49efbe086e49d88340183aa470e52fb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2142,7 +2637,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1725adb167c4e01d96f84bc5468c729d0a1391b15b20fe006c52079ebc3fee36",
+        "path": "data/variable-documentation/1725adb167c4e01d96f84bc5468c729d0a1391b15b20fe006c52079ebc3fee36.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2173,7 +2673,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5aeeedc3cad27d16cf0a054684f2757a2cf3b352e8254efd41ad9e859f27cd29",
+        "path": "data/variable-documentation/5aeeedc3cad27d16cf0a054684f2757a2cf3b352e8254efd41ad9e859f27cd29.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2204,7 +2709,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "235325ecd1afa0eb31c445de068c738894a600907019574e0b6a2d5928fe145f",
+        "path": "data/variable-documentation/235325ecd1afa0eb31c445de068c738894a600907019574e0b6a2d5928fe145f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2235,7 +2745,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fc9c2cfd43d8bd067bf8c673b0e74bbeef34981e5c50eb8301be71af660e6a0c",
+        "path": "data/variable-documentation/fc9c2cfd43d8bd067bf8c673b0e74bbeef34981e5c50eb8301be71af660e6a0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2266,7 +2781,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "21da7c58acc3ebbb0964770fe7bd87833d045a6beda54440d45d6514ad81a310",
+        "path": "data/variable-documentation/21da7c58acc3ebbb0964770fe7bd87833d045a6beda54440d45d6514ad81a310.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2297,7 +2817,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c99b456fa184df88941bc6e68300c90fa2b65298b6d11765b56d93a7a46664da",
+        "path": "data/variable-documentation/c99b456fa184df88941bc6e68300c90fa2b65298b6d11765b56d93a7a46664da.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2328,7 +2853,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d93ba4074f1c607049de7648deaaf683ea96d9107cf860fdc4f942390e603dcd",
+        "path": "data/variable-documentation/d93ba4074f1c607049de7648deaaf683ea96d9107cf860fdc4f942390e603dcd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2352,7 +2882,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b68354934f7074a3ebe6f3d7383a0949a5e539135ce0a9560e8b0162a0450dda",
+        "path": "data/variable-documentation/b68354934f7074a3ebe6f3d7383a0949a5e539135ce0a9560e8b0162a0450dda.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2383,7 +2918,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "557fa638a31926035183c38b49395bae20a0aa5a69637a692928c8cb6a43a75f",
+        "path": "data/variable-documentation/557fa638a31926035183c38b49395bae20a0aa5a69637a692928c8cb6a43a75f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2414,7 +2954,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8af447665ec1a7f5dc588acf9450a4cfd33e576d2d93fa68530e4024cad0269f",
+        "path": "data/variable-documentation/8af447665ec1a7f5dc588acf9450a4cfd33e576d2d93fa68530e4024cad0269f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2445,7 +2990,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e5ee3e433f89eac40f77765c39833554299846546f393fd815960baf8e4659d5",
+        "path": "data/variable-documentation/e5ee3e433f89eac40f77765c39833554299846546f393fd815960baf8e4659d5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2483,6 +3033,42 @@
       "variant": "Kursdeltagare och resultat",
       "column": "Orsak",
       "variable": "Orsak till kursavbrott/avslut i svenska för invandrare",
+      "register_version": "2008/2009",
+      "source_task_id": "0f4905672cd1c1d23ba8ec7338b5d2649f72d06d8948adc170f1884423d6ccd8",
+      "id": "e467fbd9938b1c28cd78b64890851c897845f4cf1b4c6949b1532f6ab6391be0",
+      "domain_id": "85283e4af1c8ddecfccef8d9d95d9976c7d5aeb0a416279d5ca89836651ca453",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Orsak",
+          "ar_raw": "1997-2024",
+          "kallrad": 3724,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Orsak",
+          "ar_raw": "1997-2024",
+          "kallrad": 3742,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed71795d9f25f2f87aa08963533157a67e2d9b0ad946b5caf590f077dd92aae5",
+        "path": "data/variable-documentation/ed71795d9f25f2f87aa08963533157a67e2d9b0ad946b5caf590f077dd92aae5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Orsak",
+      "variable": "Orsak till kursavbrott/avslut i svenska för invandrare",
       "register_version": "2009",
       "source_task_id": "0f4905672cd1c1d23ba8ec7338b5d2649f72d06d8948adc170f1884423d6ccd8",
       "id": "6a6a44a9514551ed53f6b22f55d9592431744bcd922a77c3b1e2795b69e31d52",
@@ -2507,7 +3093,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cda9e06d79a40d01df1f964a488a345ebc076b9528f99c52849cbb364282b68e",
+        "path": "data/variable-documentation/cda9e06d79a40d01df1f964a488a345ebc076b9528f99c52849cbb364282b68e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2538,7 +3129,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67d1bbbe7c50d462edd0794452e075071138e5fab0a8955a7439b2549549ec18",
+        "path": "data/variable-documentation/67d1bbbe7c50d462edd0794452e075071138e5fab0a8955a7439b2549549ec18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2569,7 +3165,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f300f0dcbb39a9a9a4002e83120c7ec5dfeb4182d0c514e450a5714962fbfeb",
+        "path": "data/variable-documentation/7f300f0dcbb39a9a9a4002e83120c7ec5dfeb4182d0c514e450a5714962fbfeb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2600,7 +3201,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "843051a6bbda8f3d20d63e46a41a6a7f83f86f9f5c2d0067b49c1bf73bf07eee",
+        "path": "data/variable-documentation/843051a6bbda8f3d20d63e46a41a6a7f83f86f9f5c2d0067b49c1bf73bf07eee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2631,7 +3237,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "557b0e6291b782c8adacbbc5a88a05c7f5e18c769537f2f709db5b2d42dc46ed",
+        "path": "data/variable-documentation/557b0e6291b782c8adacbbc5a88a05c7f5e18c769537f2f709db5b2d42dc46ed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2662,7 +3273,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d84eb1c70bb1ad34b39badceb9212ad54992a5db2b3bef84153adc923779cdb2",
+        "path": "data/variable-documentation/d84eb1c70bb1ad34b39badceb9212ad54992a5db2b3bef84153adc923779cdb2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2693,7 +3309,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "555654d12e55302a7a8d3c4ac8db0f7f76b2434ff946da08260f5c365febb22a",
+        "path": "data/variable-documentation/555654d12e55302a7a8d3c4ac8db0f7f76b2434ff946da08260f5c365febb22a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2724,7 +3345,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5db92e55a6e989df288b326541c46625de9482fd3fff6d512bb10825992b36c7",
+        "path": "data/variable-documentation/5db92e55a6e989df288b326541c46625de9482fd3fff6d512bb10825992b36c7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2755,7 +3381,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9b25eb3ba072b722127022680773b5c85b3815f7c36a8290be96c75a85805a54",
+        "path": "data/variable-documentation/9b25eb3ba072b722127022680773b5c85b3815f7c36a8290be96c75a85805a54.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2786,7 +3417,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e2a98ec7b3ec47f505ab524483e9512fdf760735ff073528bdaceff7885bba32",
+        "path": "data/variable-documentation/e2a98ec7b3ec47f505ab524483e9512fdf760735ff073528bdaceff7885bba32.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2817,7 +3453,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ffae58ca16541518426321a8b2c58def8d54baf5c5ad2b208429ed791a239ca",
+        "path": "data/variable-documentation/1ffae58ca16541518426321a8b2c58def8d54baf5c5ad2b208429ed791a239ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2848,7 +3489,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a58779664014191b78cd9c3b610100106a97ed96726d25667a5d042cc1daad4e",
+        "path": "data/variable-documentation/a58779664014191b78cd9c3b610100106a97ed96726d25667a5d042cc1daad4e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2879,7 +3525,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7ae28652c3858ac1a32e07aeece8a6b28a5f561e37614373f3f89a30cb0f49df",
+        "path": "data/variable-documentation/7ae28652c3858ac1a32e07aeece8a6b28a5f561e37614373f3f89a30cb0f49df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2910,7 +3561,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d1ff3d39142af35a170b66aaaa39b3d5c11a3de37fe0e4b9f4d307092513acdf",
+        "path": "data/variable-documentation/d1ff3d39142af35a170b66aaaa39b3d5c11a3de37fe0e4b9f4d307092513acdf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2941,7 +3597,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b367cca3b793cb707b0f1c1267b62253396c936a7da2c49e257b93b8726260d9",
+        "path": "data/variable-documentation/b367cca3b793cb707b0f1c1267b62253396c936a7da2c49e257b93b8726260d9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -2972,7 +3633,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "248a726d982894f2a6ba8f04aefeeaad9c66a1a5d38916167e2a83c8db894448",
+        "path": "data/variable-documentation/248a726d982894f2a6ba8f04aefeeaad9c66a1a5d38916167e2a83c8db894448.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3003,7 +3669,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "808bf9ebab5918f9f83bb76395cec669a38002b00cd113e166b560a13fb994ce",
+        "path": "data/variable-documentation/808bf9ebab5918f9f83bb76395cec669a38002b00cd113e166b560a13fb994ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3034,7 +3705,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "11afd1a08805d9dceab00cd6ba91ec5ff3de4326272effa5549b517db20c65ec",
+        "path": "data/variable-documentation/11afd1a08805d9dceab00cd6ba91ec5ff3de4326272effa5549b517db20c65ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3065,7 +3741,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c509566b133105e0a47f629b016bab1c173344164feed88c246d12d6728e80db",
+        "path": "data/variable-documentation/c509566b133105e0a47f629b016bab1c173344164feed88c246d12d6728e80db.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3096,7 +3777,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e2adb25c82c38a6751dc6cb056aeedcfa36c299cf34bf1a303ca3d79e5919988",
+        "path": "data/variable-documentation/e2adb25c82c38a6751dc6cb056aeedcfa36c299cf34bf1a303ca3d79e5919988.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3120,7 +3806,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "99bb141ce621c411e97d57f8f05bf392e70a1d855af629721387b81d356afbca",
+        "path": "data/variable-documentation/99bb141ce621c411e97d57f8f05bf392e70a1d855af629721387b81d356afbca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3151,7 +3842,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2722f0e679625b36569ac30611ea96784fa7fdcfbfec2fae891a3bb3e687a7a2",
+        "path": "data/variable-documentation/2722f0e679625b36569ac30611ea96784fa7fdcfbfec2fae891a3bb3e687a7a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3182,7 +3878,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "35939d604c74b1fcea3d5b09aa570b90d4dd310a79e202936610119b0e3a4560",
+        "path": "data/variable-documentation/35939d604c74b1fcea3d5b09aa570b90d4dd310a79e202936610119b0e3a4560.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3306,7 +4007,48 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8408f7a1bde7aed3b8d36585a8a6248140f1f382686a3353ef76455a96b6e944",
+        "path": "data/variable-documentation/8408f7a1bde7aed3b8d36585a8a6248140f1f382686a3353ef76455a96b6e944.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "SkolKommun",
+      "variable": "Kommun",
+      "register_version": "2006/2007",
+      "source_task_id": "043d5bccf16b55f9db0fd47cd8d6d10f5a044e044bd9e0d4b953886eeee0454e",
+      "id": "ffd274f184f1999a0636f09daf2c3b6515bd6ef6d71d27f15d4363f505562135",
+      "domain_id": "35dfb48b208c73e9fb2ea63576a7d05f44506ccbb7e6b85245e2235dce403402",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3728,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3746,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1489a22d6923115ecc024c66105859731b62cd64fecb1539019d5650b6dee8ef",
+        "path": "data/variable-documentation/1489a22d6923115ecc024c66105859731b62cd64fecb1539019d5650b6dee8ef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3337,7 +4079,48 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e7a42bbf812c505abd93bfc3ecad3fb64b2a52c219868ebb87527b41416aff8d",
+        "path": "data/variable-documentation/e7a42bbf812c505abd93bfc3ecad3fb64b2a52c219868ebb87527b41416aff8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "SkolKommun",
+      "variable": "Kommun",
+      "register_version": "2007/2008",
+      "source_task_id": "043d5bccf16b55f9db0fd47cd8d6d10f5a044e044bd9e0d4b953886eeee0454e",
+      "id": "ba16abd203af93e74d5896b968cbda4da52b02772829910ba9f801129e6ca1b1",
+      "domain_id": "8e17358423b28c693091d1d86b7ebef41b338239e4955d52ab7f6e74a5930bc4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3728,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3746,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5f678560be25fac7136283fab5292c13b5f64eac34074112ba1bd878e2af799a",
+        "path": "data/variable-documentation/5f678560be25fac7136283fab5292c13b5f64eac34074112ba1bd878e2af799a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3368,7 +4151,48 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3920676549919d7c085ef08b58294cb5853e9342809771098a701afeab263e1",
+        "path": "data/variable-documentation/b3920676549919d7c085ef08b58294cb5853e9342809771098a701afeab263e1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "SkolKommun",
+      "variable": "Kommun",
+      "register_version": "2008/2009",
+      "source_task_id": "043d5bccf16b55f9db0fd47cd8d6d10f5a044e044bd9e0d4b953886eeee0454e",
+      "id": "a8cb8086c8b2bd8d23d6059b4c418d308a90dc9670a69db57d4dc1d630643b2d",
+      "domain_id": "8e17358423b28c693091d1d86b7ebef41b338239e4955d52ab7f6e74a5930bc4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3728,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Skolkommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3746,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f9cbf0d46926a7456b5fbb51e9f9f7cf13a149c706c4373d7012d97beed21164",
+        "path": "data/variable-documentation/f9cbf0d46926a7456b5fbb51e9f9f7cf13a149c706c4373d7012d97beed21164.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3399,7 +4223,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "945c760f9c91260de0ac6527b63080caac20f0bf69fd85f7ef4a7254fa2a3cb9",
+        "path": "data/variable-documentation/945c760f9c91260de0ac6527b63080caac20f0bf69fd85f7ef4a7254fa2a3cb9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3430,7 +4259,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d018dc9fb78af05fd46e866f7974c052a3cb00d5877249fa2775f803831f7b9",
+        "path": "data/variable-documentation/8d018dc9fb78af05fd46e866f7974c052a3cb00d5877249fa2775f803831f7b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3461,7 +4295,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1e69ce789fdde8c63c0eacc0623f3dbd89c7243115c50a4dcc5520653e26dc97",
+        "path": "data/variable-documentation/1e69ce789fdde8c63c0eacc0623f3dbd89c7243115c50a4dcc5520653e26dc97.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3492,7 +4331,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd0c255af141990d5b226ce5d6eb64b8828fc97e1a9f2de6158f31a8eb3f57fb",
+        "path": "data/variable-documentation/bd0c255af141990d5b226ce5d6eb64b8828fc97e1a9f2de6158f31a8eb3f57fb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3523,7 +4367,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67f813b8883f7526f80aac542d1ff66f745fbf6450d802cca1083afab5c7657b",
+        "path": "data/variable-documentation/67f813b8883f7526f80aac542d1ff66f745fbf6450d802cca1083afab5c7657b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3554,7 +4403,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e9852249d646821d5a6362ab74ea809bb356d15ed036ed53ddcb9893a52fc15",
+        "path": "data/variable-documentation/8e9852249d646821d5a6362ab74ea809bb356d15ed036ed53ddcb9893a52fc15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3585,7 +4439,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "566b700200e4eb6c27c3ef4508b6c32ed329af0f339b91e043087286c59e5acf",
+        "path": "data/variable-documentation/566b700200e4eb6c27c3ef4508b6c32ed329af0f339b91e043087286c59e5acf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3616,7 +4475,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7901b9468399d40a22e9b1b82841b7de7fd5c8d5deea2750f2b06d0b5cabaf13",
+        "path": "data/variable-documentation/7901b9468399d40a22e9b1b82841b7de7fd5c8d5deea2750f2b06d0b5cabaf13.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3647,7 +4511,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "19be35b9d22ada951cb133088542cf4c5ab8bfddc5ee09f3f7adc06fe7f19cee",
+        "path": "data/variable-documentation/19be35b9d22ada951cb133088542cf4c5ab8bfddc5ee09f3f7adc06fe7f19cee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3678,7 +4547,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0a63edb1bfe4db8c5a580a511364ca9d0442e36c233b76e796a4a4be8c00a07",
+        "path": "data/variable-documentation/e0a63edb1bfe4db8c5a580a511364ca9d0442e36c233b76e796a4a4be8c00a07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3709,7 +4583,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bce4e6d6ef57527cd2a18de1d2db583f660bb1e0306e41aea0f10310fb6f7897",
+        "path": "data/variable-documentation/bce4e6d6ef57527cd2a18de1d2db583f660bb1e0306e41aea0f10310fb6f7897.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3740,7 +4619,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a96cc8306634b93625107b8790de4360935d129586f6fe6f6dc20a15639f5aef",
+        "path": "data/variable-documentation/a96cc8306634b93625107b8790de4360935d129586f6fe6f6dc20a15639f5aef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3771,7 +4655,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f03cc3697bb74ddca97f3edafa650b93aa45f4b725a289dade030875a5f7ad1f",
+        "path": "data/variable-documentation/f03cc3697bb74ddca97f3edafa650b93aa45f4b725a289dade030875a5f7ad1f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3802,7 +4691,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0e0bfd5a2f6edb76019a27fa5aa46c730ff14b9fcc6c4d9f2860b25ab824093d",
+        "path": "data/variable-documentation/0e0bfd5a2f6edb76019a27fa5aa46c730ff14b9fcc6c4d9f2860b25ab824093d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3833,7 +4727,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97949d0de0f89a7ac1bcbd823c4eca2753e5404c177f9dfc5da186844cd33c4c",
+        "path": "data/variable-documentation/97949d0de0f89a7ac1bcbd823c4eca2753e5404c177f9dfc5da186844cd33c4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3864,7 +4763,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68b9ba60367b14866f5ff2d47f629b70f781f4a97223189859ceae0b7cce3211",
+        "path": "data/variable-documentation/68b9ba60367b14866f5ff2d47f629b70f781f4a97223189859ceae0b7cce3211.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3895,7 +4799,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6605c2183b533f367eac5d2d506404cfbfc4feb1343a5cc8175e9f81f961b16c",
+        "path": "data/variable-documentation/6605c2183b533f367eac5d2d506404cfbfc4feb1343a5cc8175e9f81f961b16c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3926,7 +4835,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "589bbfb92cb2c00f382ce93eff2ceebfe4fa0bef7c1ccc21c5cf9883d8f7599b",
+        "path": "data/variable-documentation/589bbfb92cb2c00f382ce93eff2ceebfe4fa0bef7c1ccc21c5cf9883d8f7599b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3957,7 +4871,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac037ea944ff96ec10589d9b31e4fb365aad536abddd3478f84a3910b4d3a6f7",
+        "path": "data/variable-documentation/ac037ea944ff96ec10589d9b31e4fb365aad536abddd3478f84a3910b4d3a6f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -3988,7 +4907,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a563bbee65c8954a2f28333fe98259bf5c14c7077223fc93e6d7464b86a9ddd2",
+        "path": "data/variable-documentation/a563bbee65c8954a2f28333fe98259bf5c14c7077223fc93e6d7464b86a9ddd2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4019,7 +4943,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f5b6d6ce5a0be34f674b85dc317bbedfdfac62249d44e74a09adce7420aba55",
+        "path": "data/variable-documentation/2f5b6d6ce5a0be34f674b85dc317bbedfdfac62249d44e74a09adce7420aba55.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4050,7 +4979,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ea1750ce2c614600c2ac635edab51ec3660d8d4f603a4a63534240c86f7ff362",
+        "path": "data/variable-documentation/ea1750ce2c614600c2ac635edab51ec3660d8d4f603a4a63534240c86f7ff362.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4081,7 +5015,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3e7fa4882aebda25ec43d4e7ecfddcbb8e531dae5da07308fc1793969d739fc4",
+        "path": "data/variable-documentation/3e7fa4882aebda25ec43d4e7ecfddcbb8e531dae5da07308fc1793969d739fc4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4112,7 +5051,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad5b619c00ab067336b92f67864d8c411520c8d617c3955a61124261162dd22d",
+        "path": "data/variable-documentation/ad5b619c00ab067336b92f67864d8c411520c8d617c3955a61124261162dd22d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4143,7 +5087,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "87438db60b92d26578015ad82834d4f4089002edefc84f12582fe450c7f0cbd0",
+        "path": "data/variable-documentation/87438db60b92d26578015ad82834d4f4089002edefc84f12582fe450c7f0cbd0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4174,7 +5123,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "65b1733b41237b1e2511944bf4eb9349852da8ea625ca4875692b010d91fc58e",
+        "path": "data/variable-documentation/65b1733b41237b1e2511944bf4eb9349852da8ea625ca4875692b010d91fc58e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4205,7 +5159,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c9b72e2af02261195a2d3468e58af52487a6ea4a7960574a0d17775ea5c16ac",
+        "path": "data/variable-documentation/1c9b72e2af02261195a2d3468e58af52487a6ea4a7960574a0d17775ea5c16ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4236,7 +5195,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "981e1f9463ba5072bb3f601000b38a2f8f30edac9f43ae5d4d9c4d89fe2fd8f6",
+        "path": "data/variable-documentation/981e1f9463ba5072bb3f601000b38a2f8f30edac9f43ae5d4d9c4d89fe2fd8f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4267,7 +5231,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "530e85426017b18529236676c6ddf3c9bcdf19528eea275cc8b10b2c3f1fccd6",
+        "path": "data/variable-documentation/530e85426017b18529236676c6ddf3c9bcdf19528eea275cc8b10b2c3f1fccd6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4298,7 +5267,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a67d74c07ead60887987fb956483353169b6d36fdd0228dbb37f2bd86ada460",
+        "path": "data/variable-documentation/8a67d74c07ead60887987fb956483353169b6d36fdd0228dbb37f2bd86ada460.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4329,7 +5303,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "60916a3e12aa32ea4e7249a4feb35a6e41fa5a3efc86bd15ed9557859ad886e6",
+        "path": "data/variable-documentation/60916a3e12aa32ea4e7249a4feb35a6e41fa5a3efc86bd15ed9557859ad886e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4360,7 +5339,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "523879eb48e792cd4281650df9a9fd78fc474c036f9b69b3d92e1ba0e8c9d113",
+        "path": "data/variable-documentation/523879eb48e792cd4281650df9a9fd78fc474c036f9b69b3d92e1ba0e8c9d113.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4546,7 +5530,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "471972e6ee782c67272c6d59252be4a61cf48f0d3a4037d8fe9a8e13404cb1bc",
+        "path": "data/variable-documentation/471972e6ee782c67272c6d59252be4a61cf48f0d3a4037d8fe9a8e13404cb1bc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Typ",
+      "variable": "Typ av utbildningsanordnare",
+      "register_version": "2004/2005",
+      "source_task_id": "7b025b79cad0604ba680c5b1f12a38f161881dcebec7c11064dd50a365909403",
+      "id": "f3c864e42726e87ddf3eaca09592739d02e1d5ef49bb07491a60ab06640b143a",
+      "domain_id": "cd0336a8e8d2eeb607d2a6d9ccad076bb6c2b69d35feac3ef4609261159144a5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Typ",
+          "ar_raw": "1997-2014",
+          "kallrad": 3730,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Typ",
+          "ar_raw": "1997-2015",
+          "kallrad": 3748,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "567e2dcceab8cfb8c8b247dbfceadfbcd545ddd1d9a0e005260168a2a0ae92c8",
+        "path": "data/variable-documentation/567e2dcceab8cfb8c8b247dbfceadfbcd545ddd1d9a0e005260168a2a0ae92c8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4577,7 +5602,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "85c3be175b8969230d50526e08314b10418f5d9db8738f0863723e7bdb85ae74",
+        "path": "data/variable-documentation/85c3be175b8969230d50526e08314b10418f5d9db8738f0863723e7bdb85ae74.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Typ",
+      "variable": "Typ av utbildningsanordnare",
+      "register_version": "2005/2006",
+      "source_task_id": "7b025b79cad0604ba680c5b1f12a38f161881dcebec7c11064dd50a365909403",
+      "id": "d005415ac79d04ae1b9bad922b75a92514e5750d90f9c6f19360308003617d90",
+      "domain_id": "cd0336a8e8d2eeb607d2a6d9ccad076bb6c2b69d35feac3ef4609261159144a5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Typ",
+          "ar_raw": "1997-2014",
+          "kallrad": 3730,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Typ",
+          "ar_raw": "1997-2015",
+          "kallrad": 3748,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "569a416acfb7c79b7e02d5d645c731fc6e473328bc0e714dd4a8d29e32a9265c",
+        "path": "data/variable-documentation/569a416acfb7c79b7e02d5d645c731fc6e473328bc0e714dd4a8d29e32a9265c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4608,7 +5674,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68991f06fc06af64fd870aba954f39f2589ac5bc24a7b75bc9a1f2fd1e423789",
+        "path": "data/variable-documentation/68991f06fc06af64fd870aba954f39f2589ac5bc24a7b75bc9a1f2fd1e423789.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Typ",
+      "variable": "Typ av utbildningsanordnare",
+      "register_version": "2006/2007",
+      "source_task_id": "7b025b79cad0604ba680c5b1f12a38f161881dcebec7c11064dd50a365909403",
+      "id": "5f63c1ff785449e368507d5ab67d0abb63e9599ac88b9a6403370c5809790274",
+      "domain_id": "cd0336a8e8d2eeb607d2a6d9ccad076bb6c2b69d35feac3ef4609261159144a5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Typ",
+          "ar_raw": "1997-2014",
+          "kallrad": 3730,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Typ",
+          "ar_raw": "1997-2015",
+          "kallrad": 3748,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f76620df7a1cef9caccf10085abbff5d2c544bad655953d494064b2613d9febe",
+        "path": "data/variable-documentation/f76620df7a1cef9caccf10085abbff5d2c544bad655953d494064b2613d9febe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4639,7 +5746,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d97b07e40e624b4596deb9eda2ef6a641c2d9b19f9a5cf4333738ed6b7914bf4",
+        "path": "data/variable-documentation/d97b07e40e624b4596deb9eda2ef6a641c2d9b19f9a5cf4333738ed6b7914bf4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Typ",
+      "variable": "Typ av utbildningsanordnare",
+      "register_version": "2007/2008",
+      "source_task_id": "7b025b79cad0604ba680c5b1f12a38f161881dcebec7c11064dd50a365909403",
+      "id": "d54cf3db8dd98c0c0642c81c1875ba2ea81a87be7e792c499302b1419f245ce8",
+      "domain_id": "7454ef9135205dc9b416244eda1bd9578b687be3f23bbb07df5d4be90b32b181",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Typ",
+          "ar_raw": "1997-2014",
+          "kallrad": 3730,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Typ",
+          "ar_raw": "1997-2015",
+          "kallrad": 3748,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1feb00ec4d0a19baec921ca87182653098e7a7af0abfad8a4a2b407865007073",
+        "path": "data/variable-documentation/1feb00ec4d0a19baec921ca87182653098e7a7af0abfad8a4a2b407865007073.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4670,7 +5818,48 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c72bce5c87fc6a43ee00b7f716036c5fb10a65c5e4857fc90a193788f31754c9",
+        "path": "data/variable-documentation/c72bce5c87fc6a43ee00b7f716036c5fb10a65c5e4857fc90a193788f31754c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "Typ",
+      "variable": "Typ av utbildningsanordnare",
+      "register_version": "2008/2009",
+      "source_task_id": "7b025b79cad0604ba680c5b1f12a38f161881dcebec7c11064dd50a365909403",
+      "id": "ee07969d541c8d626c371bfbe31c6f03b7b3a3384f74fa62c37fdc9fa480a73e",
+      "domain_id": "7454ef9135205dc9b416244eda1bd9578b687be3f23bbb07df5d4be90b32b181",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "Typ",
+          "ar_raw": "1997-2014",
+          "kallrad": 3730,
+          "method": "exact"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "Typ",
+          "ar_raw": "1997-2015",
+          "kallrad": 3748,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3fb88d901cf31b9c8932cf88a6278415b0bf36ca48930b60899417be85026cfb",
+        "path": "data/variable-documentation/3fb88d901cf31b9c8932cf88a6278415b0bf36ca48930b60899417be85026cfb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4701,7 +5890,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d2d9eff81008af47b73815810ea0600a15173d09e3cecb36577253325b8f82ba",
+        "path": "data/variable-documentation/d2d9eff81008af47b73815810ea0600a15173d09e3cecb36577253325b8f82ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4732,7 +5926,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "427edee528127103a0e262f9be283a6681d907585518e058c437c1d81fed35c9",
+        "path": "data/variable-documentation/427edee528127103a0e262f9be283a6681d907585518e058c437c1d81fed35c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4763,7 +5962,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3f629caf2c50c32d75082e9acdfe8b78f0b29c6dd09aca3e785d7f2e29f5735",
+        "path": "data/variable-documentation/e3f629caf2c50c32d75082e9acdfe8b78f0b29c6dd09aca3e785d7f2e29f5735.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4794,7 +5998,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "884ab1de1607aa9ac5b6eb73f502301a342f32c6c51e83ef79ef1d30d2754f43",
+        "path": "data/variable-documentation/884ab1de1607aa9ac5b6eb73f502301a342f32c6c51e83ef79ef1d30d2754f43.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4825,7 +6034,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5f3da9fb31b646f2ec2bd6fe55ebab86daa1b1c2b84c2cd9fd908c40129b8e05",
+        "path": "data/variable-documentation/5f3da9fb31b646f2ec2bd6fe55ebab86daa1b1c2b84c2cd9fd908c40129b8e05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4856,7 +6070,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db1c2298519576b45852ccbbb3231aeeec66643d03c2e6a117763ee5dfb2b16a",
+        "path": "data/variable-documentation/db1c2298519576b45852ccbbb3231aeeec66643d03c2e6a117763ee5dfb2b16a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4880,7 +6099,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ffd1dce7965d6c4ac33fd8f5f6f68ecc82758dee8cfa9c536a234cafc54e01e",
+        "path": "data/variable-documentation/1ffd1dce7965d6c4ac33fd8f5f6f68ecc82758dee8cfa9c536a234cafc54e01e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4911,7 +6135,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bcd76f388c9bd02c293ff5284da7c1f48b7ac8b897cfd13641360be254d73f82",
+        "path": "data/variable-documentation/bcd76f388c9bd02c293ff5284da7c1f48b7ac8b897cfd13641360be254d73f82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4942,7 +6171,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "82362aac8b1b4949a9011b55b64d54ad525fb788d9f3ac0f830a0ce39802bb60",
+        "path": "data/variable-documentation/82362aac8b1b4949a9011b55b64d54ad525fb788d9f3ac0f830a0ce39802bb60.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -4973,7 +6207,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "94e8caaff6bd12eeb9c67df855b998b123554363e717b86e652f7b4c446bca61",
+        "path": "data/variable-documentation/94e8caaff6bd12eeb9c67df855b998b123554363e717b86e652f7b4c446bca61.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5004,7 +6243,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4a1aa1e37b82ccabf290674009bdd5faeb64887407b83f518afd0f3c8a9be501",
+        "path": "data/variable-documentation/4a1aa1e37b82ccabf290674009bdd5faeb64887407b83f518afd0f3c8a9be501.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5035,7 +6279,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b0df88bb494f0401c2084030e6658551db1c4770cdcb57813208be962e0f4ecc",
+        "path": "data/variable-documentation/b0df88bb494f0401c2084030e6658551db1c4770cdcb57813208be962e0f4ecc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5066,7 +6315,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c1a2b01b78186042c17a41871ca3047dc72be28fb26177cd7c67fc75c711aea",
+        "path": "data/variable-documentation/6c1a2b01b78186042c17a41871ca3047dc72be28fb26177cd7c67fc75c711aea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5097,7 +6351,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c1499c2f9fdae81a1f2bc3c8f5165514a571f137c2949f18ba5c7e57e80eecc1",
+        "path": "data/variable-documentation/c1499c2f9fdae81a1f2bc3c8f5165514a571f137c2949f18ba5c7e57e80eecc1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5128,7 +6387,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c7a3f2fce82815134fbb29903291125e493b761739b58afaf951e38387994bbf",
+        "path": "data/variable-documentation/c7a3f2fce82815134fbb29903291125e493b761739b58afaf951e38387994bbf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5159,7 +6423,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "673cc60848bf1ee12d614308acbe78658397c80b1ade0c2a38e7ed54c26fb0ca",
+        "path": "data/variable-documentation/673cc60848bf1ee12d614308acbe78658397c80b1ade0c2a38e7ed54c26fb0ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5190,7 +6459,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4f661d6a0816600143a20786123591e640ae970af7a04736736fe8d61d30aa2b",
+        "path": "data/variable-documentation/4f661d6a0816600143a20786123591e640ae970af7a04736736fe8d61d30aa2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5221,7 +6495,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2689424cea9ecf2a037f78ddd9358c77e48e83962027fcb8d1c261d8868af7ab",
+        "path": "data/variable-documentation/2689424cea9ecf2a037f78ddd9358c77e48e83962027fcb8d1c261d8868af7ab.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5252,7 +6531,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "26c9be68d30f380e5b619b3347ff9a52c2d65d878fcdfafe62d847edff590804",
+        "path": "data/variable-documentation/26c9be68d30f380e5b619b3347ff9a52c2d65d878fcdfafe62d847edff590804.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5283,7 +6567,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "23fe254f78042a156779ccca40a07616d55e133ff46aebcaadd0caab34796854",
+        "path": "data/variable-documentation/23fe254f78042a156779ccca40a07616d55e133ff46aebcaadd0caab34796854.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5314,7 +6603,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a1c0a9f9060ad3c9ec01469fc52244803881f0587a9b9ec2af4027790a4af104",
+        "path": "data/variable-documentation/a1c0a9f9060ad3c9ec01469fc52244803881f0587a9b9ec2af4027790a4af104.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5345,7 +6639,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f42a65897e4e571bee785467c22855f98da0f30cb6b0fb9a973d28ead298fa56",
+        "path": "data/variable-documentation/f42a65897e4e571bee785467c22855f98da0f30cb6b0fb9a973d28ead298fa56.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5376,7 +6675,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "650b69539a6d4a30cdfdedf14a7abe1018473b2347fc78a8218e3ad4b1e2e293",
+        "path": "data/variable-documentation/650b69539a6d4a30cdfdedf14a7abe1018473b2347fc78a8218e3ad4b1e2e293.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5407,7 +6711,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8301e2d1eea7885fe99afe41b18b200d81e5d5d8d47138f8b3263c59d0cfe563",
+        "path": "data/variable-documentation/8301e2d1eea7885fe99afe41b18b200d81e5d5d8d47138f8b3263c59d0cfe563.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5438,7 +6747,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a7c3c764876e565e3683575b1ede4fec249f23c1d02e21c0a27848e409882342",
+        "path": "data/variable-documentation/a7c3c764876e565e3683575b1ede4fec249f23c1d02e21c0a27848e409882342.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5469,7 +6783,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "18ce0682328b6b405386a8c56cbe017e27aa9010dd0990ccf845d0356457b7c2",
+        "path": "data/variable-documentation/18ce0682328b6b405386a8c56cbe017e27aa9010dd0990ccf845d0356457b7c2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5500,7 +6819,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89838f93d52c58c96a99ebb0369c10d1186cab7dbdf2a71c7903fe5a03bb8336",
+        "path": "data/variable-documentation/89838f93d52c58c96a99ebb0369c10d1186cab7dbdf2a71c7903fe5a03bb8336.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5531,7 +6855,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "75b476c8ca0e7120566a73d6fc04167761065bfb5e2ada74cb5122523b31b995",
+        "path": "data/variable-documentation/75b476c8ca0e7120566a73d6fc04167761065bfb5e2ada74cb5122523b31b995.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5562,7 +6891,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e088ed32b3111358852dcebd2a5fbc05db9e07416a58a4c2dc29b7d18d274897",
+        "path": "data/variable-documentation/e088ed32b3111358852dcebd2a5fbc05db9e07416a58a4c2dc29b7d18d274897.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5593,7 +6927,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3b8b07823ff219b873f6ce890e88cbf613d2c01376423ccc838dfa1251ed2e6d",
+        "path": "data/variable-documentation/3b8b07823ff219b873f6ce890e88cbf613d2c01376423ccc838dfa1251ed2e6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5624,7 +6963,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "38e9dd2f04acc7f9e632c6ffbd102b58ac5d07761cd178d93a18ad2248c9a1d6",
+        "path": "data/variable-documentation/38e9dd2f04acc7f9e632c6ffbd102b58ac5d07761cd178d93a18ad2248c9a1d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5655,7 +6999,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "73fa073fb5f599860a748fc6982ab219350de92722d4405ba4f4262533d66fdd",
+        "path": "data/variable-documentation/73fa073fb5f599860a748fc6982ab219350de92722d4405ba4f4262533d66fdd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5693,6 +7042,42 @@
       "variant": "Kursdeltagare och resultat",
       "column": "lskvux",
       "variable": "Läs och skrivinlärning",
+      "register_version": "2008/2009",
+      "source_task_id": "8031c3a1f0f57f0dd4654b16ea2ccaacedb5d48df2fd142b76e4cd65f27cf79f",
+      "id": "6b96757adffc8a2e5ecd676e39b0a0e835e82895cd916bb5fb6a33e0d8d20fa0",
+      "domain_id": "a9b9f4a0e8fe603a535689f13fd4586eff8a1e5a579a1d6da391a65b6bdd3397",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:25:12+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "sfi_kursdelt_ht",
+          "variabel": "LSKvux",
+          "ar_raw": "1997-2024",
+          "kallrad": 3722,
+          "method": "case_only"
+        },
+        {
+          "databasvy": "sfi_kursdelt_vt",
+          "variabel": "LSKvux",
+          "ar_raw": "1997-2024",
+          "kallrad": 3740,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "782e29d46c9aa0e506609ed7b8007b5e604d428dd7c13510d3479dc4b862bdb7",
+        "path": "data/variable-documentation/782e29d46c9aa0e506609ed7b8007b5e604d428dd7c13510d3479dc4b862bdb7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
+    },
+    {
+      "register": "Komvux svenska för invandrare (sfi)",
+      "variant": "Kursdeltagare och resultat",
+      "column": "lskvux",
+      "variable": "Läs och skrivinlärning",
       "register_version": "2009",
       "source_task_id": "8031c3a1f0f57f0dd4654b16ea2ccaacedb5d48df2fd142b76e4cd65f27cf79f",
       "id": "8e44d51a0cf98bc4876bcd5fdeaa87699075ac3471821ce1bc61642708434fdb",
@@ -5717,7 +7102,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "363bd2f870207776b8dcdd181351ae3bd5fdeee6bee77d151e36cb3d3350c4ac",
+        "path": "data/variable-documentation/363bd2f870207776b8dcdd181351ae3bd5fdeee6bee77d151e36cb3d3350c4ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5748,7 +7138,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8d006d5d19a4f7fa27e9a2c8c5bec875e5663df5d169ce31686d631d97d0d3e",
+        "path": "data/variable-documentation/b8d006d5d19a4f7fa27e9a2c8c5bec875e5663df5d169ce31686d631d97d0d3e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5779,7 +7174,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "16b47fb9735c1e2d8fe7fda3caaa0a1d2712504e4ac9e0480ad1809257e1a2f1",
+        "path": "data/variable-documentation/16b47fb9735c1e2d8fe7fda3caaa0a1d2712504e4ac9e0480ad1809257e1a2f1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5810,7 +7210,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "94e5a3ced31b419e971f4eeb3fae98084d36aa8ff958c106d04f6f38338fcf72",
+        "path": "data/variable-documentation/94e5a3ced31b419e971f4eeb3fae98084d36aa8ff958c106d04f6f38338fcf72.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5841,7 +7246,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d351edf20178bc3385b96ec00b0238a82041b4360366d1c357218cfac523dd7",
+        "path": "data/variable-documentation/3d351edf20178bc3385b96ec00b0238a82041b4360366d1c357218cfac523dd7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5872,7 +7282,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b7941582977d92bfaf51b03e9acdddd5ded0e08b539e1dc2cda4bbba55e7943b",
+        "path": "data/variable-documentation/b7941582977d92bfaf51b03e9acdddd5ded0e08b539e1dc2cda4bbba55e7943b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5903,7 +7318,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7396640b512ca6f1b28688a9cf97bc833c297f54fb6af045cf9a1253531e0fe4",
+        "path": "data/variable-documentation/7396640b512ca6f1b28688a9cf97bc833c297f54fb6af045cf9a1253531e0fe4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5934,7 +7354,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db615f562f691a10616ea71f93ac1f9bc393a4a995f2ff7466cf7f721b02f843",
+        "path": "data/variable-documentation/db615f562f691a10616ea71f93ac1f9bc393a4a995f2ff7466cf7f721b02f843.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5965,7 +7390,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf66d17102c61890b8d701c002a6f44fda89f258dc3a440ba53b2e73a255827f",
+        "path": "data/variable-documentation/cf66d17102c61890b8d701c002a6f44fda89f258dc3a440ba53b2e73a255827f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -5996,7 +7426,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a542b2032bc3620ff9fb0f84cb129d52aae2076f44ef7040abf609aa69c43e61",
+        "path": "data/variable-documentation/a542b2032bc3620ff9fb0f84cb129d52aae2076f44ef7040abf609aa69c43e61.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6027,7 +7462,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eba3d1b966402417da1685b8f7620462a06a320f89206aac46503f3004481bbd",
+        "path": "data/variable-documentation/eba3d1b966402417da1685b8f7620462a06a320f89206aac46503f3004481bbd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6058,7 +7498,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "976c99bd524e5742443df509eccc7a9225b3224c1cffa13e31f0493462cd7ee3",
+        "path": "data/variable-documentation/976c99bd524e5742443df509eccc7a9225b3224c1cffa13e31f0493462cd7ee3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6089,7 +7534,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96b43e3121131b99eeab8e783f54d5e88f7d9ab9b402b451c452b9ec7cab456b",
+        "path": "data/variable-documentation/96b43e3121131b99eeab8e783f54d5e88f7d9ab9b402b451c452b9ec7cab456b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6120,7 +7570,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7ad1cfeb6ddb748ca3e7104e3b968c098fdb01e701f7bf1f3e7fffe913d0227f",
+        "path": "data/variable-documentation/7ad1cfeb6ddb748ca3e7104e3b968c098fdb01e701f7bf1f3e7fffe913d0227f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6151,7 +7606,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "958fbd7b320c07be55814f142beb1741de174221e1a887a8a9bc64b6ff04c14a",
+        "path": "data/variable-documentation/958fbd7b320c07be55814f142beb1741de174221e1a887a8a9bc64b6ff04c14a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     },
     {
       "register": "Komvux svenska för invandrare (sfi)",
@@ -6182,7 +7642,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "175676c879f4d28ba16b48cfddf78a69a85c741a18db1054c9c5ea136e135c63",
+        "path": "data/variable-documentation/175676c879f4d28ba16b48cfddf78a69a85c741a18db1054c9c5ea136e135c63.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:25:12+00:00"
     }
   ],
   "domains": [
@@ -6259,6 +7724,14 @@
       "path": "data/value-domain-values/35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff.json"
     },
     {
+      "version": "LKF 2006-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "varchar(50)",
+      "id": "35dfb48b208c73e9fb2ea63576a7d05f44506ccbb7e6b85245e2235dce403402",
+      "value_count": 291,
+      "path": "data/value-domain-values/35dfb48b208c73e9fb2ea63576a7d05f44506ccbb7e6b85245e2235dce403402.json"
+    },
+    {
       "version": "Orsak",
       "level": "Orsak",
       "data_type": "char(1)",
@@ -6331,6 +7804,14 @@
       "path": "data/value-domain-values/7454ef9135205dc9b416244eda1bd9578b687be3f23bbb07df5d4be90b32b181.json"
     },
     {
+      "version": "LKF 2008-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7854208f61759a06cd51d61565d64d754296fece5a06e9776a0819fda28ad912",
+      "value_count": 298,
+      "path": "data/value-domain-values/7854208f61759a06cd51d61565d64d754296fece5a06e9776a0819fda28ad912.json"
+    },
+    {
       "version": "LKF 2007-01-01/ Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6345,6 +7826,14 @@
       "id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
       "value_count": 290,
       "path": "data/value-domain-values/7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631.json"
+    },
+    {
+      "version": "Orsak",
+      "level": "Orsak",
+      "data_type": "char(1)",
+      "id": "85283e4af1c8ddecfccef8d9d95d9976c7d5aeb0a416279d5ca89836651ca453",
+      "value_count": 18,
+      "path": "data/value-domain-values/85283e4af1c8ddecfccef8d9d95d9976c7d5aeb0a416279d5ca89836651ca453.json"
     },
     {
       "version": "SUN 2000 - Utbildningsnivå",
@@ -6451,6 +7940,14 @@
       "path": "data/value-domain-values/cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23.json"
     },
     {
+      "version": "typ",
+      "level": "Typ - bokstäver",
+      "data_type": "varchar(50)",
+      "id": "cd0336a8e8d2eeb607d2a6d9ccad076bb6c2b69d35feac3ef4609261159144a5",
+      "value_count": 5,
+      "path": "data/value-domain-values/cd0336a8e8d2eeb607d2a6d9ccad076bb6c2b69d35feac3ef4609261159144a5.json"
+    },
+    {
       "version": "Kurs inom SFI",
       "level": "Kurs inom SFI",
       "data_type": "char(1)",
@@ -6509,14 +8006,15 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "438941e05b5ca4cc885551f1449507f74b569b4e769b425c97d33b5fff797a7e",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-20T22:54:30+00:00",
+    "retrieved_at": "2026-11-21T07:25:12+00:00",
     "task_count": 19,
-    "expected_bindings": 294,
+    "expected_bindings": 411,
+    "documented_bindings": 200,
     "errors": []
   }
 }
