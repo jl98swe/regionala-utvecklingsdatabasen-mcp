@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Huvudman"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Huvudman för skolan/skolenheten."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Anger typ av huvudman, t.ex. statlig, kommunal, sameskola, region/landsting eller fristående."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Avser fritidshem."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skolregistret"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registret över elever i fritidshem, individer, innehåller bl.a. uppgifter om elevens bakgrund, vilket fritidshem eleven är inskriven i samt utbildning och födelseland om elevens föräldrar. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Barn inskrivna i fritidshem"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Populationen utgör samtliga barn som är inskrivna i fritidshem den 15 oktober."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2009-10-15"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna lämnas av skolan eller fritidshemmet eller en central kontaktperson på kommunen.\r\n\r\nUppgifter om elever i fritidshem vid sameskolor samt fristående skolor med konfessionell inriktning ingår inte eftersom de uppgifterna endast samlas in på gruppnivå. \r\n\r\nDatafilen innehåller även uppgifter om elever i förskoleklass och i grundskolan men dessa dokumenteras under \"Förskoleklass: elever\" respektive \"Grundskola: elever\"."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Grundskola"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Grundskola"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Uppgiftslämnaren är skola/skolenhet. Registren består av uppgifter på individnivå med personnummer och avdelning. \r\n\r\nSyftet med undersökningen är att det ska ge information om fritidshemmens verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Fritidshem: elever"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Fritidshem: elever"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgiftslämnaren är skola. Insamlingen gällande barn består delvis av uppgifter på individnivå delvis av gruppuppgifter. I gruppundersökningen finns uppgifter om antal inskrivna barn per ålder och fritidshem. Individuppgifterna innehåller personnummer och avdelning. \r\nSyftet med uppföljningssystemet är att det skall ge en samlad bild av fritidshemmens verksamhet och vara underlag för uppföljning o"
+    }
+  ],
+  "id": "82faadca5b358495d804da70ae052ddf6e7f3b157ea5a6484a006103a9d9cb81"
+}
