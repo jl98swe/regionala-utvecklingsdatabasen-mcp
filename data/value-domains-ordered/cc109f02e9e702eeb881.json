@@ -1,0 +1,1187 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "cc109f02e9e702eeb881",
+  "register": "Inkomst och taxering (IoT)",
+  "variant": "Bostadshushåll",
+  "bindings": [
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2011, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "6d51c371179c5a833fd4e5408fabe5d874c69dfdf8f2c3b2bf400facf57a0153",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e80b0865a4994ad11405f3637ec655c7f7bfcf49fe968bd9db234b23dfe8d62",
+        "path": "data/variable-documentation/8e80b0865a4994ad11405f3637ec655c7f7bfcf49fe968bd9db234b23dfe8d62.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2012, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "8a4b89f4d35d52c0dcf4811eac049c77b0c0ee3fa9f189aaa09916bc9b7a4a66",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0e81299039ef3c6a5898d6cac3ae1cb669a7fc0c4029aafb344983741f4511b3",
+        "path": "data/variable-documentation/0e81299039ef3c6a5898d6cac3ae1cb669a7fc0c4029aafb344983741f4511b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2013, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "4985a4a427026179e49e0d3a4f3b0b6fff7d94556ff76f4b81618e4cb922a553",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e6d37b8cc9b1dd92eaa211fd55e4a417d30ebc7b10d323aed89eb7d496abd2a5",
+        "path": "data/variable-documentation/e6d37b8cc9b1dd92eaa211fd55e4a417d30ebc7b10d323aed89eb7d496abd2a5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2014, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "38b1dfc03f12dcf53f11b7b43c0b0b94e5e4356ed298a0977c53a11d23cc1b0c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "959f8cd51e15b6a12dcf3ec0d3ae53fafd8269f16d301e849050f39839cfc89d",
+        "path": "data/variable-documentation/959f8cd51e15b6a12dcf3ec0d3ae53fafd8269f16d301e849050f39839cfc89d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2015, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "c4016ed9bbc847d766e6ff3375b87c25c63b60fe0b971d373b902676fe343aee",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3c4e445f78b9eb80fa7dbb882e8e7933e8defc9fba5d6e11a71e0c7cd95d6a7",
+        "path": "data/variable-documentation/e3c4e445f78b9eb80fa7dbb882e8e7933e8defc9fba5d6e11a71e0c7cd95d6a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2016, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "e34c6ffef2b9fd6cb14134db0ab198365af80106a705334da739e20b22cde091",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f08b9424fb47dcd9a9036823a934842238f2de9c19155b0e6710309aab484d18",
+        "path": "data/variable-documentation/f08b9424fb47dcd9a9036823a934842238f2de9c19155b0e6710309aab484d18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2017, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "93d10442be4fbf1339cc8078ab0919cdc6e85de59253e8e094cce8b187b4bd25",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "33fc572b633a5cecfec3c515eed0516ab2bc4cd2f25cca7d3cf5cedc42f46863",
+        "path": "data/variable-documentation/33fc572b633a5cecfec3c515eed0516ab2bc4cd2f25cca7d3cf5cedc42f46863.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2018, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "93c31a3d5fed4064a35657435d0a85172d69e62c39cc03a401882e89ded5086e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bace51063a6975b7c9a0eefe1aca9c67e41cb5a147a51f52828450c95ff8ea69",
+        "path": "data/variable-documentation/bace51063a6975b7c9a0eefe1aca9c67e41cb5a147a51f52828450c95ff8ea69.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2019, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "5f1edc8a6b54d188b4dcbc70ad139b091ee861569dbbe5abd65190eebd58fb36",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8419f2e695c9012d96cb70416ed22d5bf4134ecf82736f1c30c127c8bbafeed",
+        "path": "data/variable-documentation/c8419f2e695c9012d96cb70416ed22d5bf4134ecf82736f1c30c127c8bbafeed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2020, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "5f616ee6051ecf20866ebf1c569a78d45131fa15e42f4e9bae7a9306fcd26bb4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5f03d354c3a9526c237864e9978ec278bf249bd223f1274760feb009606795e8",
+        "path": "data/variable-documentation/5f03d354c3a9526c237864e9978ec278bf249bd223f1274760feb009606795e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2021, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "aa67e2c3a1c5417e85dd6c28ffbcded0d1d3475a8eb90996a3632f627bea7c4a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3cb8683bcaeb34ff68e0f95705349cd9ed516eeb5f4da239f77a243000dd6d95",
+        "path": "data/variable-documentation/3cb8683bcaeb34ff68e0f95705349cd9ed516eeb5f4da239f77a243000dd6d95.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2022, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "10124a746d87be6628bb79b21a85473b065efcf4565f91b22e0402bc2dc8f63f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "228d8ebe9f33b65ab98c11805f997109d911cc28bb1449c18fc44ea09f6d4191",
+        "path": "data/variable-documentation/228d8ebe9f33b65ab98c11805f997109d911cc28bb1449c18fc44ea09f6d4191.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "BKE04HB",
+      "variable": "Konsumtionsenhetsvikt, 2004 års norm",
+      "register_version": "2023, slutlig version",
+      "source_task_id": "75069588e2eaecd4ef2c73735d408f09b94e4d1cde6b76e293765bb6ab79e8dc",
+      "id": "d5dad9411a89b271c48197a23795c7ea20341fda3209033ba0ddcb219cecf5cd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3266,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eadcbc9ee565591c17c2b75dbbd76d5cc90a1178c5ac343595ec4f0cc78af1b8",
+        "path": "data/variable-documentation/eadcbc9ee565591c17c2b75dbbd76d5cc90a1178c5ac343595ec4f0cc78af1b8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2011, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "7440a101802ff67c9f758af7e95d90040d500041f71f7e377e98c1412ffd2cea",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "865590bfce9075803be8558782b6c0da16ae87252c81d97fade17cf29c48bf9a",
+        "path": "data/variable-documentation/865590bfce9075803be8558782b6c0da16ae87252c81d97fade17cf29c48bf9a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2012, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "2c8dde91be15d0d3389679496cc43ffc3ebca3263f573cd7f847b4aeedb4d34a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9bb647876db49030ae9bb455bd1e30209359e499a6d37bc5edbc36e7d176eb0f",
+        "path": "data/variable-documentation/9bb647876db49030ae9bb455bd1e30209359e499a6d37bc5edbc36e7d176eb0f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2013, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "c76fbaab1b7caad01290476f477cdd7aecb14de77fde99be141188a03ccbd047",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "235b4a44341b31241b863a134bdcf6cfe07ce8d27b6916ae09edd32ccc0334e7",
+        "path": "data/variable-documentation/235b4a44341b31241b863a134bdcf6cfe07ce8d27b6916ae09edd32ccc0334e7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2014, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "6193e7bc8ea18f02f6bdbc2e6d0ee214c71e2e5c95d7bad235d48bed9902cc5a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b2cf6d72179af995b9b7515658d7b3ce0685a20be449ef9f1f81f39372d8e27",
+        "path": "data/variable-documentation/2b2cf6d72179af995b9b7515658d7b3ce0685a20be449ef9f1f81f39372d8e27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2015, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "a0d6b19aa2bfe017b5f88bcb0f37484261cd9ea090d145ed964fbc159516c564",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a7d5cb9f2c25668eda5af27045383724c16eaeb324fb3cbef9c042597d2fc766",
+        "path": "data/variable-documentation/a7d5cb9f2c25668eda5af27045383724c16eaeb324fb3cbef9c042597d2fc766.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2016, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "077f44a104d9a426ee37d21286b8487eb2956b6d3f2701741b2573986cd43082",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25cd94a7a5f287835139d8ec1c795d3ac18bc5ef47e12a5be379f92e3eae35c0",
+        "path": "data/variable-documentation/25cd94a7a5f287835139d8ec1c795d3ac18bc5ef47e12a5be379f92e3eae35c0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2017, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "80e4af088468e5b3928f7c6fe099ca7899100202ddefec485d20ae5ecad95d23",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "faabf535acc91c45405490654a2678923ed3ff2849e31881673f560b0bd0b434",
+        "path": "data/variable-documentation/faabf535acc91c45405490654a2678923ed3ff2849e31881673f560b0bd0b434.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2018, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "41e068e1f97733c27e4b3d0d26d01964d8608de31239f601463bcf946dbce816",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8d547a3f0a8c853533874dc36beae97c9fe7451ae68e8fac76145ceb4a611ad",
+        "path": "data/variable-documentation/e8d547a3f0a8c853533874dc36beae97c9fe7451ae68e8fac76145ceb4a611ad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2019, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "8a5e6cfbaab1b3e7381a3471552e50f90d714251eb903a700cfb66aa23cfc6d4",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "24fffa5633b1130e9cab4efb487ae7ff52b0e78f769b8a190496e2e7f1232bb7",
+        "path": "data/variable-documentation/24fffa5633b1130e9cab4efb487ae7ff52b0e78f769b8a190496e2e7f1232bb7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2020, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "deeeeb64662e65134b5e7a7c050daf182a0c63101a18a67e33920f9b73bf5785",
+      "domain_id": "22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f2fb69bcf7b00bc90e1b8ee5d4a1c412940aef02637384f3557400ecaf69c77",
+        "path": "data/variable-documentation/9f2fb69bcf7b00bc90e1b8ee5d4a1c412940aef02637384f3557400ecaf69c77.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2021, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "5608f45696fcb654660b07946713631773f00bd17bdecc95f6c4a6dc44678a85",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c861bcb6dfad148602fd0f0e7750b7e5176c24914431468410fa891208cd19d",
+        "path": "data/variable-documentation/9c861bcb6dfad148602fd0f0e7750b7e5176c24914431468410fa891208cd19d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2022, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "f696096db1fc98436200384b4f7d10a600d18541bcc792752fe65430b2318ed1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa521e75c0e24d683a662d7b00f7e982856225c818587dcfe967559eb7ca5e49",
+        "path": "data/variable-documentation/fa521e75c0e24d683a662d7b00f7e982856225c818587dcfe967559eb7ca5e49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP504HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst, 2004 års def",
+      "register_version": "2023, slutlig version",
+      "source_task_id": "cc0c722bfd931bd61911f7011e568c35714698e9fa0a32dad8691fa816a7c38f",
+      "id": "d87240c0e5208aba073c2fe09fae635053dcf20353c87ac02b0eceabc330c572",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3278,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8b400e2814b3eb46da8d1a0d949170f2043fb35a8c4a49c9762e4e9ec0465c6f",
+        "path": "data/variable-documentation/8b400e2814b3eb46da8d1a0d949170f2043fb35a8c4a49c9762e4e9ec0465c6f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2011, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "15dbd27984ae44e5742f6edea31ae0e8404ecff73941228ecff987d69c473f19",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "610b269048b719d326c12bbe2254e039a83a5ada7146e12c2fa6b6c80cf69abb",
+        "path": "data/variable-documentation/610b269048b719d326c12bbe2254e039a83a5ada7146e12c2fa6b6c80cf69abb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2012, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "c2682450e94fd650d0c0fdb4c332342ae31c854dcbaa2804dee20e3e21d69ffa",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9b98cd7c2d048c32e7075e3b8781c51a407a1133ad6fb44d2d92c8d6e7cb3877",
+        "path": "data/variable-documentation/9b98cd7c2d048c32e7075e3b8781c51a407a1133ad6fb44d2d92c8d6e7cb3877.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2013, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "bdb7dac95798b7033e5f4d0b9b12eb7fa9e10888e8fccad4836449f69afffa3f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3ec5dd664f77e041796d1cba8a0285ad156861d7628d076d6e1f8906c6648f92",
+        "path": "data/variable-documentation/3ec5dd664f77e041796d1cba8a0285ad156861d7628d076d6e1f8906c6648f92.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2014, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "4f97076c57eaeeecdfc9df6155e4eb1fed7b62fa2240ba2afa4ce7664686d2e2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e7db14214e1dee520cdb695f05ca97ffce590a0cc2039e823845ae18c18fc7f9",
+        "path": "data/variable-documentation/e7db14214e1dee520cdb695f05ca97ffce590a0cc2039e823845ae18c18fc7f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2015, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "ad2a0d3064184a72988e205c291dfd536051bcb36bb098877b016c35a1d402bc",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c067afc841224681185306a1e4381c9ccc55deb0bbd127924c39e895925c341d",
+        "path": "data/variable-documentation/c067afc841224681185306a1e4381c9ccc55deb0bbd127924c39e895925c341d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2016, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "9d786a851b13f6e48bcbf410a0c21825c375f3401e68759f26d51be06deb3d04",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "71c759edba0985238995e55223d7947a4e5e0a0df2a3f2b991f39184b1e1eb77",
+        "path": "data/variable-documentation/71c759edba0985238995e55223d7947a4e5e0a0df2a3f2b991f39184b1e1eb77.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2017, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "e4bd269edd06c2c5a05a84d1c76574237716792c5ecc321f097fa00ba987e52d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b3de921c9affd2608be29c15928c15efe665b2f799719aea500c5d271f38595",
+        "path": "data/variable-documentation/2b3de921c9affd2608be29c15928c15efe665b2f799719aea500c5d271f38595.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2018, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "3b7168641a9c9861e6fdc8482fb72bd5e0bc4fe06f100de713ee89fe2d89bc37",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5edc330c5fa99619b788a135a2a46a7694e4cedec5958fedb154e25d6e6a7b43",
+        "path": "data/variable-documentation/5edc330c5fa99619b788a135a2a46a7694e4cedec5958fedb154e25d6e6a7b43.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2019, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "5ad70cad27ed7d89b5e88df0cdc9bf73d2c93b43031fab4c7f5af811b8f78720",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cebf5fe5e926c0f5dd6df47631e5488c07a6282a5e5bebc8d4427f3064fa7ce0",
+        "path": "data/variable-documentation/cebf5fe5e926c0f5dd6df47631e5488c07a6282a5e5bebc8d4427f3064fa7ce0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2020, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "733d0d32ccbbbba2a8a1ef494629deffcc692aaf10a9bebe6436750a63e68928",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf57323eee8faaf8eb4d07068c81a17dd04a156f85d8e1fa98cf13faec1e5564",
+        "path": "data/variable-documentation/cf57323eee8faaf8eb4d07068c81a17dd04a156f85d8e1fa98cf13faec1e5564.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2021, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "6315df931ba39b175f8be73f2317272df5ca83a854dbff81a2f9cdb4d7cca9b8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "02ed64bc171c31377626544c8eba0bd5f32babf96f9f6ae6a616021476e71a16",
+        "path": "data/variable-documentation/02ed64bc171c31377626544c8eba0bd5f32babf96f9f6ae6a616021476e71a16.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2022, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "317939a03db8ee3dc0819629dbaad13185d0a858bb5f55619961f3748650f14f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b7f7a0acafa1e8123e4d52d879cb8ab724704b846e3b506a5d5b68e90c55faa5",
+        "path": "data/variable-documentation/b7f7a0acafa1e8123e4d52d879cb8ab724704b846e3b506a5d5b68e90c55faa5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    },
+    {
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "column": "CDISP5HB",
+      "variable": "Disponibel inkomst, exkl. kapitalvinst",
+      "register_version": "2023, slutlig version",
+      "source_task_id": "2ba8f075517c74e57a94f225a2d18ec50534bda4b47c7398a5865dd2b2d383f0",
+      "id": "5974bd9aaa7b5aa10549d560140a19dc87177c4f99a83c66b813e5e50c7c9e09",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:48:59+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "ar_raw": "2011-2023",
+          "kallrad": 3281,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c21eabbacfa8eac4a04bb6933f29f1e72ea1538e694e135f915ee652fd4bb6d6",
+        "path": "data/variable-documentation/c21eabbacfa8eac4a04bb6933f29f1e72ea1538e694e135f915ee652fd4bb6d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:48:59+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "bigint",
+      "id": "22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049",
+      "value_count": 0,
+      "path": "data/value-domain-values/22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "numeric",
+      "id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "value_count": 0,
+      "path": "data/value-domain-values/8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "int",
+      "id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "value_count": 0,
+      "path": "data/value-domain-values/fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "3d4dad6492ce96df43882e5d6ded185e4abc1ebf4592d44e4fac011cde9f1f33",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:48:59+00:00",
+    "task_count": 3,
+    "expected_bindings": 39,
+    "documented_bindings": 39,
+    "errors": []
+  }
+}

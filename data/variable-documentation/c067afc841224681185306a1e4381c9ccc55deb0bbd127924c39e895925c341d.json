@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Disponibel inkomst, exkl. kapitalvinst"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Beräknad disponibel inkomst exkl. kapitalvinst."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "En beskrivning av hur disponibel inkomst skapas  finns i \"Relaterad information\"."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett slutligt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i december."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Hushåll inkomststatistik"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Hushåll i inkomstfördelningsstatistiken baseras på folkbokföring på lägenhet. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av bostadshushåll baserat på folkbokföring på lägenhet. Bortfallet imputeras med RTB-familj."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2015-01-01 - 2015-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Med hushåll avses den person eller grupp av personer som är folkbokförda i samma bostadslägenhet."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa inkomster och skatter på hushållsnivå."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "c067afc841224681185306a1e4381c9ccc55deb0bbd127924c39e895925c341d"
+}

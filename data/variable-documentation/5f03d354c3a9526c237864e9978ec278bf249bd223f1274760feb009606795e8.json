@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Konsumtionsenhetsvikt, 2004 års norm"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Hushållets sammanlagda konsumtionsvikt enligt följande konsumtionsenhetsskala:\r\nFörsta vuxen (ensamboende eller sammanboende)\t1,00, Andra vuxen (sammanboende) 0,51 Ytterligare vuxen 0,60, Barn 1, 0-19 år 0,52, Barn 2, 3 …., 0-19 år 0,42"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Svensk konsumtionsenhetsskala, reviderad 2004."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Hushållets konsumtionsenhetsvikt enligt 2004 års definition"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Värde"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett slutligt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i december."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Hushåll inkomststatistik"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Hushåll i inkomstfördelningsstatistiken baseras på folkbokföring på lägenhet. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av bostadshushåll baserat på folkbokföring på lägenhet. Bortfallet imputeras med RTB-familj."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-01-01 - 2020-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Med hushåll avses den person eller grupp av personer som är folkbokförda i samma bostadslägenhet."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Bostadshushåll"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa inkomster och skatter på hushållsnivå."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "5f03d354c3a9526c237864e9978ec278bf249bd223f1274760feb009606795e8"
+}
