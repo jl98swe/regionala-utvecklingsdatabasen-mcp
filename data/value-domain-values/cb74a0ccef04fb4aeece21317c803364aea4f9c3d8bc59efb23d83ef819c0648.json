@@ -1,0 +1,552 @@
+{
+  "version": "Kursinr",
+  "level": "Kursinriktning, folkhögskolan",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "001",
+      "label": "Allmän, bred ämnesinriktning"
+    },
+    {
+      "code": "001",
+      "label": "Bred ämnesinriktning"
+    },
+    {
+      "code": "002",
+      "label": "Allmän, dominerad av basämnen"
+    },
+    {
+      "code": "01",
+      "label": "Bred ämnesinriktning"
+    },
+    {
+      "code": "010",
+      "label": "Beteendekunskap, humaniora"
+    },
+    {
+      "code": "011",
+      "label": "Religion och livsåskådningsfrågor"
+    },
+    {
+      "code": "012",
+      "label": "Historia"
+    },
+    {
+      "code": "013",
+      "label": "Fritidsledarutbildning"
+    },
+    {
+      "code": "014",
+      "label": "Cirkelledarutbildning"
+    },
+    {
+      "code": "015",
+      "label": "Annan ledarurbildning inkl organisation"
+    },
+    {
+      "code": "016",
+      "label": "Litteratur"
+    },
+    {
+      "code": "019",
+      "label": "Övrigt inom beteendekunskap, humaniora"
+    },
+    {
+      "code": "02",
+      "label": "Allmän, dominerad av basämnen"
+    },
+    {
+      "code": "020",
+      "label": "Estetiska ämnen"
+    },
+    {
+      "code": "021",
+      "label": "Musik"
+    },
+    {
+      "code": "022",
+      "label": "Scenisk konst (dans, film och teater)"
+    },
+    {
+      "code": "023",
+      "label": "Slöjd och konsthantverk"
+    },
+    {
+      "code": "024",
+      "label": "Bild, form och målarkonst"
+    },
+    {
+      "code": "028",
+      "label": "Kyrkomusiker/kantor"
+    },
+    {
+      "code": "029",
+      "label": "Övrigt inom estetiska ämnen"
+    },
+    {
+      "code": "030",
+      "label": "Företagsekonomi, handel och kontro"
+    },
+    {
+      "code": "031",
+      "label": "Ekonomi"
+    },
+    {
+      "code": "032",
+      "label": "Administration"
+    },
+    {
+      "code": "033",
+      "label": "Administration med datorstöd"
+    },
+    {
+      "code": "039",
+      "label": "Övrigt inom företagsekonimi, handel och kontor"
+    },
+    {
+      "code": "040",
+      "label": "Matematik, naturvetenskap"
+    },
+    {
+      "code": "041",
+      "label": "Matematik"
+    },
+    {
+      "code": "042",
+      "label": "Biologi, inkl ekologi"
+    },
+    {
+      "code": "043",
+      "label": "Geografi"
+    },
+    {
+      "code": "044",
+      "label": "Miljövård"
+    },
+    {
+      "code": "049",
+      "label": "Övrigt inom matematik, naturkunskap"
+    },
+    {
+      "code": "050",
+      "label": "Medicin, hälsa och sjukvård"
+    },
+    {
+      "code": "051",
+      "label": "Friskvård"
+    },
+    {
+      "code": "052",
+      "label": "Undersköterskeutbildning"
+    },
+    {
+      "code": "059",
+      "label": "Övrigt inom matemaik, naturkunskap"
+    },
+    {
+      "code": "060",
+      "label": "Samhällsvetenskap"
+    },
+    {
+      "code": "061",
+      "label": "Fackliga frågor"
+    },
+    {
+      "code": "062",
+      "label": "Arbetsliv, övrigt"
+    },
+    {
+      "code": "063",
+      "label": "Informationsverksamhet & mediautbildning"
+    },
+    {
+      "code": "064",
+      "label": "EG/EU frågor"
+    },
+    {
+      "code": "065",
+      "label": "Internationella frågor , övrigt"
+    },
+    {
+      "code": "066",
+      "label": "Samhällsfrågor, allmänt"
+    },
+    {
+      "code": "067",
+      "label": "Föreningskunskap"
+    },
+    {
+      "code": "068",
+      "label": "Socialpolitik"
+    },
+    {
+      "code": "069",
+      "label": "Övrigt inom samhällsvetenskap"
+    },
+    {
+      "code": "070",
+      "label": "Språk"
+    },
+    {
+      "code": "071",
+      "label": "Svenska"
+    },
+    {
+      "code": "072",
+      "label": "Engelska"
+    },
+    {
+      "code": "073",
+      "label": "Tyska"
+    },
+    {
+      "code": "075",
+      "label": "Tecken- och dövtolkutbildning"
+    },
+    {
+      "code": "076",
+      "label": "Skrivtolkutbildning"
+    },
+    {
+      "code": "077",
+      "label": "Sfi/svenska för invandrade"
+    },
+    {
+      "code": "078",
+      "label": "Kontakttolkutbildning"
+    },
+    {
+      "code": "079",
+      "label": "Övrigt inom språk"
+    },
+    {
+      "code": "080",
+      "label": "Teknik"
+    },
+    {
+      "code": "081",
+      "label": "Datorteknik"
+    },
+    {
+      "code": "082",
+      "label": "Transport, teknik"
+    },
+    {
+      "code": "088",
+      "label": "Okänt värde"
+    },
+    {
+      "code": "089",
+      "label": "Övrigt inom teknik"
+    },
+    {
+      "code": "090",
+      "label": "Övriga ämnen"
+    },
+    {
+      "code": "091",
+      "label": "Idrott"
+    },
+    {
+      "code": "092",
+      "label": "Hushålls-, textil-, konsument- och varukunskap"
+    },
+    {
+      "code": "093",
+      "label": "Finska"
+    },
+    {
+      "code": "094",
+      "label": "Jiddisch"
+    },
+    {
+      "code": "095",
+      "label": "Meänkieli"
+    },
+    {
+      "code": "096",
+      "label": "Romani chib\n"
+    },
+    {
+      "code": "097",
+      "label": "Samiska"
+    },
+    {
+      "code": "099",
+      "label": "Övrigt inom övriga ämnen"
+    },
+    {
+      "code": "1",
+      "label": "Allmän, bred ämnesinriktning"
+    },
+    {
+      "code": "1",
+      "label": "Bred ämnesinriktning"
+    },
+    {
+      "code": "10",
+      "label": "Beteendekunskap, humaniora"
+    },
+    {
+      "code": "101",
+      "label": "Kulturprogram Föreläsning"
+    },
+    {
+      "code": "102",
+      "label": "Kulturprogram Sång/Musik"
+    },
+    {
+      "code": "103",
+      "label": "Kulturprogram Dramatisk föreställning"
+    },
+    {
+      "code": "104",
+      "label": "Kulturprogram  Film/Foto/Bild"
+    },
+    {
+      "code": "105",
+      "label": "Kulturprogram Dans"
+    },
+    {
+      "code": "106",
+      "label": "Kulturprogram Utställning"
+    },
+    {
+      "code": "107",
+      "label": "Kulturprogram Litteratur"
+    },
+    {
+      "code": "108",
+      "label": "Kulturprogram Konst/Konsthantverk"
+    },
+    {
+      "code": "109",
+      "label": "Kulturprogram Tvärkulturellt"
+    },
+    {
+      "code": "11",
+      "label": "Religion och livsåskådningsfrågor"
+    },
+    {
+      "code": "12",
+      "label": "Historia"
+    },
+    {
+      "code": "13",
+      "label": "Fritidsledarutbildning"
+    },
+    {
+      "code": "14",
+      "label": "Cirkelledarutbildning"
+    },
+    {
+      "code": "15",
+      "label": "Annan ledarutbildning inkl organisation"
+    },
+    {
+      "code": "16",
+      "label": "Litteratur"
+    },
+    {
+      "code": "19",
+      "label": "Övrigt inom beteendekunskap, humaniora"
+    },
+    {
+      "code": "2",
+      "label": "Allmän, dominerad av basämnen"
+    },
+    {
+      "code": "20",
+      "label": "Estetiska ämnen"
+    },
+    {
+      "code": "21",
+      "label": "Musik"
+    },
+    {
+      "code": "22",
+      "label": "Scenisk konst (dans, film och teater)"
+    },
+    {
+      "code": "23",
+      "label": "Slöjd och konsthantverk"
+    },
+    {
+      "code": "24",
+      "label": "Bild, form och målarkonst"
+    },
+    {
+      "code": "28",
+      "label": "Kyrkomusiker/kantor"
+    },
+    {
+      "code": "29",
+      "label": "Övrigt inom estetiska ämnen"
+    },
+    {
+      "code": "30",
+      "label": "Företagsekonomi, handel och kontor"
+    },
+    {
+      "code": "31",
+      "label": "Ekonomi"
+    },
+    {
+      "code": "32",
+      "label": "Administration"
+    },
+    {
+      "code": "33",
+      "label": "Administration med datorstöd"
+    },
+    {
+      "code": "39",
+      "label": "Övrigt inom företagsekonomi, handel och kontor"
+    },
+    {
+      "code": "40",
+      "label": "Matematik, naturvetenskap"
+    },
+    {
+      "code": "41",
+      "label": "Matematik"
+    },
+    {
+      "code": "42",
+      "label": "Biologi, inkl ekologi"
+    },
+    {
+      "code": "43",
+      "label": "Geografi"
+    },
+    {
+      "code": "44",
+      "label": "Miljövård"
+    },
+    {
+      "code": "49",
+      "label": "Övrigt inom matematik, naturkunskap"
+    },
+    {
+      "code": "50",
+      "label": "Medicin, hälsa och sjukvård"
+    },
+    {
+      "code": "51",
+      "label": "Friskvård"
+    },
+    {
+      "code": "59",
+      "label": "Övrigt inom medicin, hälsa och sjukvård"
+    },
+    {
+      "code": "60",
+      "label": "Samhällsvetenskap"
+    },
+    {
+      "code": "61",
+      "label": "Fackliga frågor"
+    },
+    {
+      "code": "62",
+      "label": "Arbetsliv, övrigt"
+    },
+    {
+      "code": "63",
+      "label": "Informationsverksamhet & mediautbildning"
+    },
+    {
+      "code": "64",
+      "label": "EG/EU frågor"
+    },
+    {
+      "code": "65",
+      "label": "Internationella frågor, övrigt"
+    },
+    {
+      "code": "66",
+      "label": "Samhällsfrågor, allmänt"
+    },
+    {
+      "code": "67",
+      "label": "Föreningskunskap"
+    },
+    {
+      "code": "68",
+      "label": "Socialpolitik"
+    },
+    {
+      "code": "69",
+      "label": "Övrigt inom samhällsvetenskap"
+    },
+    {
+      "code": "70",
+      "label": "Språk"
+    },
+    {
+      "code": "71",
+      "label": "Svenska"
+    },
+    {
+      "code": "72",
+      "label": "Engelska"
+    },
+    {
+      "code": "73",
+      "label": "Tyska"
+    },
+    {
+      "code": "75",
+      "label": "Tecken- och dövtolkutbildning"
+    },
+    {
+      "code": "76",
+      "label": "Skrivtolkutbildning"
+    },
+    {
+      "code": "77",
+      "label": "Sfi/svenska för invandrare"
+    },
+    {
+      "code": "78",
+      "label": "Kontakttolkutbildning"
+    },
+    {
+      "code": "79",
+      "label": "Övrigt inom språk"
+    },
+    {
+      "code": "80",
+      "label": "Teknik"
+    },
+    {
+      "code": "81",
+      "label": "Datorteknik"
+    },
+    {
+      "code": "82",
+      "label": "Transport, trafik"
+    },
+    {
+      "code": "89",
+      "label": "Övrigt inom teknik"
+    },
+    {
+      "code": "90",
+      "label": "Övriga ämnen"
+    },
+    {
+      "code": "91",
+      "label": "Idrott"
+    },
+    {
+      "code": "92",
+      "label": "Hushålls-, textil-, konsument- och varukunskap"
+    },
+    {
+      "code": "99",
+      "label": "Övrigt inom övriga ämnen"
+    }
+  ],
+  "id": "cb74a0ccef04fb4aeece21317c803364aea4f9c3d8bc59efb23d83ef819c0648"
+}

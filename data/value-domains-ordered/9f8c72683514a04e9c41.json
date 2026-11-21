@@ -300,6 +300,93 @@
       "variant": "Deltagarregister",
       "column": "Dagar",
       "variable": "Kurslängd folkhögskolan",
+      "register_version": "2005",
+      "source_task_id": "9f04bf9299aafb5a4a1e7c80a91e993184bf142c1e388ab0f3770fcee92fb5f6",
+      "id": "f140883b6cc6e3789aa51527f4fca823bf5daa8cc5a43d20ee2c506313797779",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Dagar",
+          "ar_raw": "2005-2024",
+          "kallrad": 411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9afda14f7cf5979ee56980b4c70a7df313140b50fd4145e9c30fff0a4efff126",
+        "path": "data/variable-documentation/9afda14f7cf5979ee56980b4c70a7df313140b50fd4145e9c30fff0a4efff126.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Dagar",
+      "variable": "Kurslängd folkhögskolan",
+      "register_version": "2006",
+      "source_task_id": "9f04bf9299aafb5a4a1e7c80a91e993184bf142c1e388ab0f3770fcee92fb5f6",
+      "id": "c37f29ce6eec3a19bc6b2a4339b654116b27742fb42e6ac54b106123d3a9f8f0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Dagar",
+          "ar_raw": "2005-2024",
+          "kallrad": 411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9799f16c306f38c41d58b2132fb44b9b2aaadacf1fa12ffc5800ae3fde8bf83a",
+        "path": "data/variable-documentation/9799f16c306f38c41d58b2132fb44b9b2aaadacf1fa12ffc5800ae3fde8bf83a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Dagar",
+      "variable": "Kurslängd folkhögskolan",
+      "register_version": "2007",
+      "source_task_id": "9f04bf9299aafb5a4a1e7c80a91e993184bf142c1e388ab0f3770fcee92fb5f6",
+      "id": "933918d3c992c125cbde2941aa87d9204bbf65db9eb5e4739834d4b3445d26ba",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Dagar",
+          "ar_raw": "2005-2024",
+          "kallrad": 411,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "06490b9b11bc2be3f62acae81f047039008f207e82069f6c5f90aaa8be9f2f19",
+        "path": "data/variable-documentation/06490b9b11bc2be3f62acae81f047039008f207e82069f6c5f90aaa8be9f2f19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Dagar",
+      "variable": "Kurslängd folkhögskolan",
       "register_version": "2008",
       "source_task_id": "9f04bf9299aafb5a4a1e7c80a91e993184bf142c1e388ab0f3770fcee92fb5f6",
       "id": "07bebfc8b5f492aaa37edcee0ea256add79b6834f1ed1d15bde3515457bba5f9",
@@ -317,7 +404,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c9fcc53be08623fd5afdcbdec23db6d5f08a78b65f844613ebeedcf27304255b",
+        "path": "data/variable-documentation/c9fcc53be08623fd5afdcbdec23db6d5f08a78b65f844613ebeedcf27304255b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -341,7 +433,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69e934871a22bae697c4349862029e732f508d1019661aef02caaba225595d39",
+        "path": "data/variable-documentation/69e934871a22bae697c4349862029e732f508d1019661aef02caaba225595d39.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -365,7 +462,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ce35f49058ec904bef438249a51f401b1db66b67ef57375b29fdfd9eee89bf2e",
+        "path": "data/variable-documentation/ce35f49058ec904bef438249a51f401b1db66b67ef57375b29fdfd9eee89bf2e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -389,7 +491,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "11ebe7a4994c51dbad44ecc7960962cc9ea1d197e27515b841648001896da255",
+        "path": "data/variable-documentation/11ebe7a4994c51dbad44ecc7960962cc9ea1d197e27515b841648001896da255.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -413,7 +520,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a3d8ed2fa0a4d65cc07b073a689d79f74a8886b454f5e78a178cd45c3663d3fd",
+        "path": "data/variable-documentation/a3d8ed2fa0a4d65cc07b073a689d79f74a8886b454f5e78a178cd45c3663d3fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -437,7 +549,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d2f478d2c43cd6cea275d0eaeaec4b6372f5edd58b59216f0affb58b14401738",
+        "path": "data/variable-documentation/d2f478d2c43cd6cea275d0eaeaec4b6372f5edd58b59216f0affb58b14401738.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -461,7 +578,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b20f133d7bea2410dca880c4fa5ca4b339878d2af5e1fc511a31607036ae7b7",
+        "path": "data/variable-documentation/5b20f133d7bea2410dca880c4fa5ca4b339878d2af5e1fc511a31607036ae7b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -758,6 +880,93 @@
       "variant": "Deltagarregister",
       "column": "Distans",
       "variable": "Distansutbildning folkhögskola",
+      "register_version": "2005",
+      "source_task_id": "dce0a91fb7ea13f4c4c6f2af73870aee2937cd43819f23f1c1313dddb6f2cc86",
+      "id": "0654319e6e3b8185be6c89f0ea4ff110372ded7e68a98c0b6fd7941675d25a4c",
+      "domain_id": "27c5c3f56bef7a035c11d867614eb14f9ce07f430e2389388c9f5f2138cbd174",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Distans",
+          "ar_raw": "2005-2024",
+          "kallrad": 412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a10ea38cff241760df668fa321bc7bee8bede71334fedc170b7c8f6e250291c1",
+        "path": "data/variable-documentation/a10ea38cff241760df668fa321bc7bee8bede71334fedc170b7c8f6e250291c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Distans",
+      "variable": "Distansutbildning folkhögskola",
+      "register_version": "2006",
+      "source_task_id": "dce0a91fb7ea13f4c4c6f2af73870aee2937cd43819f23f1c1313dddb6f2cc86",
+      "id": "e7b7a02f91d93f7ddf5faf0adf9e7e8efb1ec85d3ce8d88fd816ff44fd71e9cc",
+      "domain_id": "27c5c3f56bef7a035c11d867614eb14f9ce07f430e2389388c9f5f2138cbd174",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Distans",
+          "ar_raw": "2005-2024",
+          "kallrad": 412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cfbc44d264ea470957059e0356dcd078452c8fe92fc359bd073a793dc748aa8a",
+        "path": "data/variable-documentation/cfbc44d264ea470957059e0356dcd078452c8fe92fc359bd073a793dc748aa8a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Distans",
+      "variable": "Distansutbildning folkhögskola",
+      "register_version": "2007",
+      "source_task_id": "dce0a91fb7ea13f4c4c6f2af73870aee2937cd43819f23f1c1313dddb6f2cc86",
+      "id": "8d4dbf84bf0e1bc66bf40caa535d66aad9bb0c9a4ab3802856d85e4daf91cc83",
+      "domain_id": "f1ad10fc4ce67dc55f28e439dbff1f63f7f18a25b8c1b558840c0961060a1620",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Distans",
+          "ar_raw": "2005-2024",
+          "kallrad": 412,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c0d44b947b6c46d35bad9092d24d96ce4e1deb1e50a3c663fec2f8fc54fc53d",
+        "path": "data/variable-documentation/6c0d44b947b6c46d35bad9092d24d96ce4e1deb1e50a3c663fec2f8fc54fc53d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Distans",
+      "variable": "Distansutbildning folkhögskola",
       "register_version": "2008",
       "source_task_id": "dce0a91fb7ea13f4c4c6f2af73870aee2937cd43819f23f1c1313dddb6f2cc86",
       "id": "328f9b0ea47030e8148f5efd15ab06f46069d4cddb8f3528e88c648c70f863e8",
@@ -775,7 +984,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd8cc6b6ef010afc31e0c6fe6872ca499200b13c442ea00afc27aef225389fc2",
+        "path": "data/variable-documentation/fd8cc6b6ef010afc31e0c6fe6872ca499200b13c442ea00afc27aef225389fc2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -799,7 +1013,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a2488530126e06dc31c05b77a31e06f255887c7e468ff7b438737f7c382ef339",
+        "path": "data/variable-documentation/a2488530126e06dc31c05b77a31e06f255887c7e468ff7b438737f7c382ef339.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -823,7 +1042,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96072ce63fa7f769949a19bbbccc6500cda9780782647c88df9798d5b2aca725",
+        "path": "data/variable-documentation/96072ce63fa7f769949a19bbbccc6500cda9780782647c88df9798d5b2aca725.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -847,7 +1071,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a982a1b676d51a0d5efceb8973d0929fd644f614f9fa81b0b3716de6d2c87d6d",
+        "path": "data/variable-documentation/a982a1b676d51a0d5efceb8973d0929fd644f614f9fa81b0b3716de6d2c87d6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -871,7 +1100,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b5dcfe133797cb4a13f64f474495d39848024aa615b9be4e5f6c2efe2f496e6",
+        "path": "data/variable-documentation/6b5dcfe133797cb4a13f64f474495d39848024aa615b9be4e5f6c2efe2f496e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -895,7 +1129,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e274698c7152ca9873623ea2cd5c0c21f08018822bf69e426fb53353e4929bf3",
+        "path": "data/variable-documentation/e274698c7152ca9873623ea2cd5c0c21f08018822bf69e426fb53353e4929bf3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -919,7 +1158,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d86b6244beee042cf9797b5fc514e64284ff2a82c0a8a99002497f4854e4144",
+        "path": "data/variable-documentation/2d86b6244beee042cf9797b5fc514e64284ff2a82c0a8a99002497f4854e4144.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1465,7 +1709,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "702855abfc49cfb9d1973afa4eac7b1b06dfc316d4c0d567fdbfe94c3f45e1b6",
+        "path": "data/variable-documentation/702855abfc49cfb9d1973afa4eac7b1b06dfc316d4c0d567fdbfe94c3f45e1b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1489,7 +1738,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6511b330fef95cbb7a4497247f86a14d582ce7de8b4f248d9fe60fa1c74f6686",
+        "path": "data/variable-documentation/6511b330fef95cbb7a4497247f86a14d582ce7de8b4f248d9fe60fa1c74f6686.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1786,6 +2040,93 @@
       "variant": "Deltagarregister",
       "column": "ForKunskKrav",
       "variable": "Förkunskapskrav för utbildningen",
+      "register_version": "2005",
+      "source_task_id": "a8986a0289c3699e2a4fd1f5a6e3c1baf40e7a02991a85708ec33b9185e60f42",
+      "id": "ded9602692d766cad22c4b9b0db7c7760becf1b737184d6d447a131560f54949",
+      "domain_id": "8b2a70022b67ba4420c17440e42363e9cdc4bbc11664e6a500bab69065d1bae6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "ForKunskKrav",
+          "ar_raw": "2005-2024",
+          "kallrad": 415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "140fa09b60add0cf6def36c9d8b18fa7aef5331431a9b91656bdd8222d37550d",
+        "path": "data/variable-documentation/140fa09b60add0cf6def36c9d8b18fa7aef5331431a9b91656bdd8222d37550d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "ForKunskKrav",
+      "variable": "Förkunskapskrav för utbildningen",
+      "register_version": "2006",
+      "source_task_id": "a8986a0289c3699e2a4fd1f5a6e3c1baf40e7a02991a85708ec33b9185e60f42",
+      "id": "361b0c8359a76ee268ef84e4df0135fa1909a1b1d74bdf87e5b31ee199672ec4",
+      "domain_id": "8b2a70022b67ba4420c17440e42363e9cdc4bbc11664e6a500bab69065d1bae6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "ForKunskKrav",
+          "ar_raw": "2005-2024",
+          "kallrad": 415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0a3d007c80cfdbfa99b262992807ff3e0ca653bd7f8bbd8853ec84c7350e3a44",
+        "path": "data/variable-documentation/0a3d007c80cfdbfa99b262992807ff3e0ca653bd7f8bbd8853ec84c7350e3a44.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "ForKunskKrav",
+      "variable": "Förkunskapskrav för utbildningen",
+      "register_version": "2007",
+      "source_task_id": "a8986a0289c3699e2a4fd1f5a6e3c1baf40e7a02991a85708ec33b9185e60f42",
+      "id": "154279d53b6a2b0a2a47866f47516ef34c989baff414f8feec7a17cc744f93e3",
+      "domain_id": "8b2a70022b67ba4420c17440e42363e9cdc4bbc11664e6a500bab69065d1bae6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "ForKunskKrav",
+          "ar_raw": "2005-2024",
+          "kallrad": 415,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c628afb102ccf05dcff42ce365f8d29b3e4fd4ccf09390788cee635dddcb7ce5",
+        "path": "data/variable-documentation/c628afb102ccf05dcff42ce365f8d29b3e4fd4ccf09390788cee635dddcb7ce5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "ForKunskKrav",
+      "variable": "Förkunskapskrav för utbildningen",
       "register_version": "2008",
       "source_task_id": "a8986a0289c3699e2a4fd1f5a6e3c1baf40e7a02991a85708ec33b9185e60f42",
       "id": "6da6f6249a99a7137ecf332d3cca26506139f972d4407a08d5cf49e3a79c2d2d",
@@ -1803,7 +2144,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a3eeb5bc3eb9f54011edf260f0ca8129959b743df0138de93de982c341e5ee6d",
+        "path": "data/variable-documentation/a3eeb5bc3eb9f54011edf260f0ca8129959b743df0138de93de982c341e5ee6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1827,7 +2173,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e31bfc4da3644d5349ccd4292bafb15254820fb314d86de19a419c3561ac9140",
+        "path": "data/variable-documentation/e31bfc4da3644d5349ccd4292bafb15254820fb314d86de19a419c3561ac9140.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1851,7 +2202,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c635544283631639663d3d714b60dffa9b0db010d73a8f1b3e19839508d5aa18",
+        "path": "data/variable-documentation/c635544283631639663d3d714b60dffa9b0db010d73a8f1b3e19839508d5aa18.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1875,7 +2231,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ce5889ecc8a91cfc601d34ffbc764d0dd087121c79c41677fbe86688fbb79e6",
+        "path": "data/variable-documentation/1ce5889ecc8a91cfc601d34ffbc764d0dd087121c79c41677fbe86688fbb79e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1899,7 +2260,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4aecbc4f51c601642409f0b28aad93c12094688a88359c913ceb83523dad3b4c",
+        "path": "data/variable-documentation/4aecbc4f51c601642409f0b28aad93c12094688a88359c913ceb83523dad3b4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1923,7 +2289,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ca448df626169c15d0af0b1f4d05d797c978278a2d0859aaa4d3944ee37696ed",
+        "path": "data/variable-documentation/ca448df626169c15d0af0b1f4d05d797c978278a2d0859aaa4d3944ee37696ed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -1947,7 +2318,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "443feb73df650a472658b33f22005e454ea4fa4b2b89e1f10cccc37513393e10",
+        "path": "data/variable-documentation/443feb73df650a472658b33f22005e454ea4fa4b2b89e1f10cccc37513393e10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2244,6 +2620,93 @@
       "variant": "Deltagarregister",
       "column": "Grundlbeh",
       "variable": "Grundläggande behörighet till högskolestudier",
+      "register_version": "2005",
+      "source_task_id": "0eb9a35f656fbbadd8f647dfbbffd3600c4d47c42d7a7354468656a5187b2fa5",
+      "id": "907f09e38d48d5b6f7a8f447cbe5ee3bccacddc946bfcc1a6d08d0afa0745afe",
+      "domain_id": "87efa152b6a970b558f4a67edf92f4f59643e904aa5f0d6cd730833e855bc4df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Grundlbeh",
+          "ar_raw": "2005-2024",
+          "kallrad": 416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "db39e97bb9a2c8eed6b77b85488a0c32a1cbb6a7b9bad46e507f0a3b79c8e490",
+        "path": "data/variable-documentation/db39e97bb9a2c8eed6b77b85488a0c32a1cbb6a7b9bad46e507f0a3b79c8e490.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Grundlbeh",
+      "variable": "Grundläggande behörighet till högskolestudier",
+      "register_version": "2006",
+      "source_task_id": "0eb9a35f656fbbadd8f647dfbbffd3600c4d47c42d7a7354468656a5187b2fa5",
+      "id": "db20ad92ab7d939f124115a22bf4f9bcc0a899de40f48effc60529f9109619bc",
+      "domain_id": "87efa152b6a970b558f4a67edf92f4f59643e904aa5f0d6cd730833e855bc4df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Grundlbeh",
+          "ar_raw": "2005-2024",
+          "kallrad": 416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "94867d8bb4dea837611aa0d93e309d5964f340dde510e3cbc332ea4924379897",
+        "path": "data/variable-documentation/94867d8bb4dea837611aa0d93e309d5964f340dde510e3cbc332ea4924379897.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Grundlbeh",
+      "variable": "Grundläggande behörighet till högskolestudier",
+      "register_version": "2007",
+      "source_task_id": "0eb9a35f656fbbadd8f647dfbbffd3600c4d47c42d7a7354468656a5187b2fa5",
+      "id": "97dd30478ea1ae0a0dbd71354474f533b3696cfa5c137dd514cd459d5711b0ab",
+      "domain_id": "87efa152b6a970b558f4a67edf92f4f59643e904aa5f0d6cd730833e855bc4df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Grundlbeh",
+          "ar_raw": "2005-2024",
+          "kallrad": 416,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "56ea2029c9641cdd64388194b1db04152819976060f93346fe23cf9edcdb4480",
+        "path": "data/variable-documentation/56ea2029c9641cdd64388194b1db04152819976060f93346fe23cf9edcdb4480.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Grundlbeh",
+      "variable": "Grundläggande behörighet till högskolestudier",
       "register_version": "2008",
       "source_task_id": "0eb9a35f656fbbadd8f647dfbbffd3600c4d47c42d7a7354468656a5187b2fa5",
       "id": "2fb4d484387fbc169e4ae5c75ddb30ace958363b4b0cf262358be7d01bf3e3cc",
@@ -2261,7 +2724,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7c75a0da53f52f6badb2deecf16adff04ca1d2c6a9df240547b6953a9d1e8a10",
+        "path": "data/variable-documentation/7c75a0da53f52f6badb2deecf16adff04ca1d2c6a9df240547b6953a9d1e8a10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2285,7 +2753,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "da01deafb5604a2f5e2342174b302324143c58dcf58f6c7c626abb3195ac8803",
+        "path": "data/variable-documentation/da01deafb5604a2f5e2342174b302324143c58dcf58f6c7c626abb3195ac8803.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2309,7 +2782,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0640a168f8cfa25044a46ee93684b53e325c671199fe1084bcfce8fad3fc0243",
+        "path": "data/variable-documentation/0640a168f8cfa25044a46ee93684b53e325c671199fe1084bcfce8fad3fc0243.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2333,7 +2811,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d9f979f094f0093741357e19add674dcb8204e74d882f702af87bbbdc9c9828",
+        "path": "data/variable-documentation/0d9f979f094f0093741357e19add674dcb8204e74d882f702af87bbbdc9c9828.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2357,7 +2840,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7764f4d8d4f10d0a90577445b615ef00e17a095933fde5378261ed6d9b0dd3ce",
+        "path": "data/variable-documentation/7764f4d8d4f10d0a90577445b615ef00e17a095933fde5378261ed6d9b0dd3ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2381,7 +2869,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d94802f5adc911fa58af5a93a9e0930d4df8a256aa7f1f09e717a20bfd18b87d",
+        "path": "data/variable-documentation/d94802f5adc911fa58af5a93a9e0930d4df8a256aa7f1f09e717a20bfd18b87d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2405,7 +2898,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "16d449661710969f244e44d831ed918bb84c8fa41b9886d83a6c6b6137faa53d",
+        "path": "data/variable-documentation/16d449661710969f244e44d831ed918bb84c8fa41b9886d83a6c6b6137faa53d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2702,6 +3200,93 @@
       "variant": "Deltagarregister",
       "column": "Hman",
       "variable": "Huvudman för skolan",
+      "register_version": "2005",
+      "source_task_id": "982ea389da3e367ddf1eca00aa2f35994f9ee31ccb5c34696d4b346add632696",
+      "id": "9d6137bae0f0bd0302b14f21bfff3080de4e3d32323a059f3332c3a4b4199db5",
+      "domain_id": "be7781af5644d455b220254a5add8dfae3a0d6e9753ba2ea1080ef443c560911",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Hman",
+          "ar_raw": "2005-2024",
+          "kallrad": 417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7c4d5026402311e675a4a1a3beb4f968ac39debd1c8bf2ee192cee0265b76f34",
+        "path": "data/variable-documentation/7c4d5026402311e675a4a1a3beb4f968ac39debd1c8bf2ee192cee0265b76f34.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Hman",
+      "variable": "Huvudman för skolan",
+      "register_version": "2006",
+      "source_task_id": "982ea389da3e367ddf1eca00aa2f35994f9ee31ccb5c34696d4b346add632696",
+      "id": "7d4fed40e0487c96680adbe509cc9186762edd726eef6c422ac928de3e93da67",
+      "domain_id": "be7781af5644d455b220254a5add8dfae3a0d6e9753ba2ea1080ef443c560911",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Hman",
+          "ar_raw": "2005-2024",
+          "kallrad": 417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9fc005b521ff787c5e003b819406162ebb6517d551bc71b792617c10bf8d5f25",
+        "path": "data/variable-documentation/9fc005b521ff787c5e003b819406162ebb6517d551bc71b792617c10bf8d5f25.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Hman",
+      "variable": "Huvudman för skolan",
+      "register_version": "2007",
+      "source_task_id": "982ea389da3e367ddf1eca00aa2f35994f9ee31ccb5c34696d4b346add632696",
+      "id": "feb13a5e008a06b43588958cf2ebafc9bf32ee72c6d2700fb9c45a81d6f34590",
+      "domain_id": "be7781af5644d455b220254a5add8dfae3a0d6e9753ba2ea1080ef443c560911",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Hman",
+          "ar_raw": "2005-2024",
+          "kallrad": 417,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a5557310a2d17f117b948a8335dd223f910a7e457b4f60e87dee6ea3121235f5",
+        "path": "data/variable-documentation/a5557310a2d17f117b948a8335dd223f910a7e457b4f60e87dee6ea3121235f5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Hman",
+      "variable": "Huvudman för skolan",
       "register_version": "2008",
       "source_task_id": "982ea389da3e367ddf1eca00aa2f35994f9ee31ccb5c34696d4b346add632696",
       "id": "ab9cfd46c67ebe0b4025969f86c9262ee96dc3d3c2ff5739e68206b8cf326577",
@@ -2719,7 +3304,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "df87662931631062f8170f32909c22a4857e9ad03e61bdd5a95c21fc7a2aae2b",
+        "path": "data/variable-documentation/df87662931631062f8170f32909c22a4857e9ad03e61bdd5a95c21fc7a2aae2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2743,7 +3333,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c287da9ff9eb4f319bae7bb1df686efb4c52d603c909456d6683ce52194d183",
+        "path": "data/variable-documentation/1c287da9ff9eb4f319bae7bb1df686efb4c52d603c909456d6683ce52194d183.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2767,7 +3362,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bfc2e612d4d65e1f9ccffa3b1b13e467dc2f35ec9ed2ade5117a4a58f27dd862",
+        "path": "data/variable-documentation/bfc2e612d4d65e1f9ccffa3b1b13e467dc2f35ec9ed2ade5117a4a58f27dd862.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2791,7 +3391,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "412b8607fa71ade461ebef692b9787be37edfc670667900cef553c8c477179cd",
+        "path": "data/variable-documentation/412b8607fa71ade461ebef692b9787be37edfc670667900cef553c8c477179cd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2815,7 +3420,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "658fa61bbfc6008541a608cf864a5db30339d55987dc6deaa3f158439d89ded0",
+        "path": "data/variable-documentation/658fa61bbfc6008541a608cf864a5db30339d55987dc6deaa3f158439d89ded0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2839,7 +3449,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f2752b8008c15fa56ed01381d234be7b757db345424bce34609d22c855cae76",
+        "path": "data/variable-documentation/2f2752b8008c15fa56ed01381d234be7b757db345424bce34609d22c855cae76.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -2863,7 +3478,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bb68a1d98ded73cb3e6fc3bc8e694ff21205d774987b787df946691970c17b70",
+        "path": "data/variable-documentation/bb68a1d98ded73cb3e6fc3bc8e694ff21205d774987b787df946691970c17b70.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3158,6 +3778,586 @@
     {
       "register": "Folkhögskolan",
       "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2005",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "6ab064693ddecefbfbbe9b68e9478eb0c2f359aa9abb36531836d7dc0e234dc5",
+      "domain_id": "cb74a0ccef04fb4aeece21317c803364aea4f9c3d8bc59efb23d83ef819c0648",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "49ff4257b99e0d945335e025fb023ec41e0376fdf72ac6173609104f22c2a471",
+        "path": "data/variable-documentation/49ff4257b99e0d945335e025fb023ec41e0376fdf72ac6173609104f22c2a471.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2006",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "0ddd21ce60d666158271de0ffda3d3f32a5651134888e65701739d68ae94a10e",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "27f9eeeca09e687da99d5b9fe9b3923fc2322549fa0625c38c7776ce150c737a",
+        "path": "data/variable-documentation/27f9eeeca09e687da99d5b9fe9b3923fc2322549fa0625c38c7776ce150c737a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2007",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "d9ca3f996d6bd5526603dd26a87d81a442c0d43b321d8ad5203c92b8b7cec6b6",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3cf6785cfb575de0f55263912b983d05fcd1619fc089110a4a372ab6a0cec3c1",
+        "path": "data/variable-documentation/3cf6785cfb575de0f55263912b983d05fcd1619fc089110a4a372ab6a0cec3c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2008",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "162e4558e722badaca3f6f3238b63650054121cd679c43218adb5bcaf1334eb6",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d842368033f973b8859890308b5cc76bbd5e2f8110bf9b9515563ee74c0e6e66",
+        "path": "data/variable-documentation/d842368033f973b8859890308b5cc76bbd5e2f8110bf9b9515563ee74c0e6e66.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2009",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "4e836406651b82bee3a15304311fb27be57c96024840f8619ed711db0dac1e6d",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ada66a5888eb92be6413fe319b5399edc89f852ba3350dafd709108a3a81f59c",
+        "path": "data/variable-documentation/ada66a5888eb92be6413fe319b5399edc89f852ba3350dafd709108a3a81f59c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2010",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "148d969ee81b10a37497e6706095d47ed4a4ed31db9fefd9cbbbf53360694c2e",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c193a0eb8c248f66154805bbedc07375f7690be3479afea77aa6f87dbb17e884",
+        "path": "data/variable-documentation/c193a0eb8c248f66154805bbedc07375f7690be3479afea77aa6f87dbb17e884.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2011",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "f1f593961276279e91d24966a383a741e5ec77fad34e052ed8aa66e294651d54",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c04e606333e9fd74ae627ffd737f0236140e18abece1dd959906673ee8a935ca",
+        "path": "data/variable-documentation/c04e606333e9fd74ae627ffd737f0236140e18abece1dd959906673ee8a935ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2012",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "52134812335a28f4ccdbf1db4e36277f39210b7095ff3a1481c48c934c30b95b",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2c44c157fd0eb46f4bd89ae1d538c78527924fc8e1f1bf8789724aa2d721220d",
+        "path": "data/variable-documentation/2c44c157fd0eb46f4bd89ae1d538c78527924fc8e1f1bf8789724aa2d721220d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2013",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "521d7ff0972f0d33b971f33d6b2155535be3f8949684ce4aba026795d1388448",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "764b3a02ef485321ad67e30376692fa99022967b093a21a17c0510e3ae42492a",
+        "path": "data/variable-documentation/764b3a02ef485321ad67e30376692fa99022967b093a21a17c0510e3ae42492a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2014",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "d9aa7aab8c242a33334ff403ebd1c817a3434da151b9a466ef59a4f3251af954",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d707167c4c801e9cafff17af26ec9cbdb0c58a3fcbde65764d0b109d7beffeaa",
+        "path": "data/variable-documentation/d707167c4c801e9cafff17af26ec9cbdb0c58a3fcbde65764d0b109d7beffeaa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2015",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "b246d1ae2b6c2a8f2ae935a1aa47fa3f0f09ab05e499f6810b26f8939387a5a6",
+      "domain_id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b3469ad3579efbddfc6e7864945035c03438201444a29ccd4287af065d369f7",
+        "path": "data/variable-documentation/2b3469ad3579efbddfc6e7864945035c03438201444a29ccd4287af065d369f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2016",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "028214c61cc4efc1a586eec8101c8ee2bfe14aaa370996b817a5cb5d2f6018ee",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "389e92ec7b288ccbc26bd7990f0099d5261dc51c932117fd1e00b8db561e7832",
+        "path": "data/variable-documentation/389e92ec7b288ccbc26bd7990f0099d5261dc51c932117fd1e00b8db561e7832.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2017",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "0aa289a1d57160dfed77edcff60fefe3fb1ba0e7d034b2bed37b2dc8b02559a5",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "88aea1b13caaad780b736df28c56ec3a3dc15b0fb8f1ba0f597a71e254d6c2ec",
+        "path": "data/variable-documentation/88aea1b13caaad780b736df28c56ec3a3dc15b0fb8f1ba0f597a71e254d6c2ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2018",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "28a9433673757f55d7384a904b51b2abdd306fcd0f9ff7a89bbc71c078620ec2",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f73a20ed58ff8c55f78a10675c09254ad626340fa26680f75227f72b657102f6",
+        "path": "data/variable-documentation/f73a20ed58ff8c55f78a10675c09254ad626340fa26680f75227f72b657102f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2019",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "32fabf6ae6108eb1a8f34567779ef217a0346e88d95a929f1ace5c601ae35d02",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e0e8bb49009bc47ef9e97a5c5ace0f824fb1f5dd20e6a1a9693d53a75b14327",
+        "path": "data/variable-documentation/8e0e8bb49009bc47ef9e97a5c5ace0f824fb1f5dd20e6a1a9693d53a75b14327.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2020",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "ea933b88f7f08b4c14ea5b8516dc72916e3ea9646ad080fa51c19fe620fec623",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "518c108a3db62eb5adfe820c21100a6d76866fa2976ce7314628cc7e9f55dddd",
+        "path": "data/variable-documentation/518c108a3db62eb5adfe820c21100a6d76866fa2976ce7314628cc7e9f55dddd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2021",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "8bad2ea57dc822531be84695f6ded61f937be14fd509e3dc28dc8e78cd94664b",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bbf7c204ec895a3a8487064261db89533caeaad48884fd6571cec96f2da13d2c",
+        "path": "data/variable-documentation/bbf7c204ec895a3a8487064261db89533caeaad48884fd6571cec96f2da13d2c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2022",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "f7c0942bcf30cfd61d741e7fcbb7c13a9916fe768ab728ffe2b0fcb05b5bfb91",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "76509611c8b9d67cec6481098f088b9ecf7a1c0e78cac1afb7c845e396cb69a7",
+        "path": "data/variable-documentation/76509611c8b9d67cec6481098f088b9ecf7a1c0e78cac1afb7c845e396cb69a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2023",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "c92ded016e9146deb8f149363b91ce01ebe9926423517f06ca7157c00d0d92e5",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89e1c405bda24322ad1c2177cb403f6bd6345c72ef239569b6b54f5341e4c7a9",
+        "path": "data/variable-documentation/89e1c405bda24322ad1c2177cb403f6bd6345c72ef239569b6b54f5341e4c7a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "KursInr",
+      "variable": "Kursinriktning folkhögskolan",
+      "register_version": "2024",
+      "source_task_id": "b245e7e5046b8099fd10d872991cc822fada5327425964790914a7617e26b96e",
+      "id": "1168397dc87ba1918007df82cb2c092ccf42b92207187faae04cd5d3cb32339f",
+      "domain_id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "KursInr",
+          "ar_raw": "2005-2024",
+          "kallrad": 418,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "74af399808f4bbfd3f7eb632def11d77b74279ec2fe791da2aa384828ed1f489",
+        "path": "data/variable-documentation/74af399808f4bbfd3f7eb632def11d77b74279ec2fe791da2aa384828ed1f489.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
       "column": "KursKommun",
       "variable": "Kommun",
       "register_version": "2018",
@@ -3363,6 +4563,93 @@
       "variant": "Deltagarregister",
       "column": "Kurstyp",
       "variable": "Kurstyp folkhögskolan",
+      "register_version": "2005",
+      "source_task_id": "a91298ee1455c33ab28c53c0a5126aa2d3c9b0c44e446db91c437f6e730b830c",
+      "id": "e2d89e12c7673e19424c0295b2d1b3dccf6eb6951237af2a62cacceadbe17b11",
+      "domain_id": "ab518e55a8bd105eb88a5ed4881920c5aa95f844563f6f710340f67ffb7ebb75",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Kurstyp",
+          "ar_raw": "2005-2024",
+          "kallrad": 420,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d0c0bd37100ae9cefa2ce09715a33a5159cf05aefad3db8bd6a6c74dfe111df6",
+        "path": "data/variable-documentation/d0c0bd37100ae9cefa2ce09715a33a5159cf05aefad3db8bd6a6c74dfe111df6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Kurstyp",
+      "variable": "Kurstyp folkhögskolan",
+      "register_version": "2006",
+      "source_task_id": "a91298ee1455c33ab28c53c0a5126aa2d3c9b0c44e446db91c437f6e730b830c",
+      "id": "3662ca6588ac71da95595b569c08fdca8e64c864cb5c41657fb0313cc05e3a1c",
+      "domain_id": "dc52725af9a587036d929ddc2e9a8c204485fd5127c0fb99fc78064342b37a6b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Kurstyp",
+          "ar_raw": "2005-2024",
+          "kallrad": 420,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "06e0a7e3e598c96a3b2c47b0b5d3d0736d98c08307a68fcbbe9a6587d4208bae",
+        "path": "data/variable-documentation/06e0a7e3e598c96a3b2c47b0b5d3d0736d98c08307a68fcbbe9a6587d4208bae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Kurstyp",
+      "variable": "Kurstyp folkhögskolan",
+      "register_version": "2007",
+      "source_task_id": "a91298ee1455c33ab28c53c0a5126aa2d3c9b0c44e446db91c437f6e730b830c",
+      "id": "f0ce2eb4bc7cbd672f182c40f65d184c3892eab6aac50d8ce01f34a1d05a998e",
+      "domain_id": "1467c5c245bb921e08b1126d3c6a2a2e849f6018a0a547c6e3c5ce3e5d8f2e2b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Kurstyp",
+          "ar_raw": "2005-2024",
+          "kallrad": 420,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "80b3cbd02cfa6f8243a8fd80e36d3084f196829ee87dee4061720b534397a894",
+        "path": "data/variable-documentation/80b3cbd02cfa6f8243a8fd80e36d3084f196829ee87dee4061720b534397a894.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Kurstyp",
+      "variable": "Kurstyp folkhögskolan",
       "register_version": "2008",
       "source_task_id": "a91298ee1455c33ab28c53c0a5126aa2d3c9b0c44e446db91c437f6e730b830c",
       "id": "414205614044f4a526ae4be8ea266b90300574dacc24a42265d407bca6a129e2",
@@ -3380,7 +4667,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac9478348bb2dfdf7b5c2d9a9918b2aedd7a4b2d6e741046a7baebac90609c65",
+        "path": "data/variable-documentation/ac9478348bb2dfdf7b5c2d9a9918b2aedd7a4b2d6e741046a7baebac90609c65.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3404,7 +4696,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "32876d90e0519b32affd7b4687c397c4fdc3ae85ad30ba9d1d77b6c9f773199a",
+        "path": "data/variable-documentation/32876d90e0519b32affd7b4687c397c4fdc3ae85ad30ba9d1d77b6c9f773199a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3428,7 +4725,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d0bf3d8d741c9a45f9bd3e39729ef51580dc5697923c652118599d0e6ca2114b",
+        "path": "data/variable-documentation/d0bf3d8d741c9a45f9bd3e39729ef51580dc5697923c652118599d0e6ca2114b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3452,7 +4754,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7270d14377d05ac0ad00c55fed2b4d980fdc5819f0cd4b39d0ed4ef281339800",
+        "path": "data/variable-documentation/7270d14377d05ac0ad00c55fed2b4d980fdc5819f0cd4b39d0ed4ef281339800.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3476,7 +4783,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "79a7a860102fd29b0f724eca1bc5943b58f15fc3daf840aff69661ccb2461865",
+        "path": "data/variable-documentation/79a7a860102fd29b0f724eca1bc5943b58f15fc3daf840aff69661ccb2461865.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3500,7 +4812,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "39e8b98069d26b1f0d8ac62aa7c86a72b6e75a41079a6e932f4d48694d8e1c19",
+        "path": "data/variable-documentation/39e8b98069d26b1f0d8ac62aa7c86a72b6e75a41079a6e932f4d48694d8e1c19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3524,7 +4841,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b1498e6ae6dc5a699751d52f2f4a23c96e33948cd7f7cedc2442a438914eace",
+        "path": "data/variable-documentation/5b1498e6ae6dc5a699751d52f2f4a23c96e33948cd7f7cedc2442a438914eace.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3821,6 +5143,122 @@
       "variant": "Deltagarregister",
       "column": "Omfattning",
       "variable": "Omfattning folkhögskolan",
+      "register_version": "2005",
+      "source_task_id": "d22182a2164fd09a84c424a8350e23f3ec65328fe6948d14e3389904b7c4cfcb",
+      "id": "6dbcb8bab74de4d8beaeaccd230010ea3abd89002b868319211760870377365d",
+      "domain_id": "6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Omfattning",
+          "ar_raw": "2005-2024",
+          "kallrad": 421,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a44fad9c4735424cf5d324b20be30ccbf951500c755d6b70d80e5096350bf9a7",
+        "path": "data/variable-documentation/a44fad9c4735424cf5d324b20be30ccbf951500c755d6b70d80e5096350bf9a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Omfattning",
+      "variable": "Omfattning folkhögskolan",
+      "register_version": "2006",
+      "source_task_id": "d22182a2164fd09a84c424a8350e23f3ec65328fe6948d14e3389904b7c4cfcb",
+      "id": "80db82235b50d5cb87f691b2d6b83a4bc23d9f0e938c5855ff9337fa267f1f27",
+      "domain_id": "6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Omfattning",
+          "ar_raw": "2005-2024",
+          "kallrad": 421,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3ab9da335cdc9e7446825dca40507a2504cc798da96977289f90602b016e6892",
+        "path": "data/variable-documentation/3ab9da335cdc9e7446825dca40507a2504cc798da96977289f90602b016e6892.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Omfattning",
+      "variable": "Omfattning folkhögskolan",
+      "register_version": "2007",
+      "source_task_id": "d22182a2164fd09a84c424a8350e23f3ec65328fe6948d14e3389904b7c4cfcb",
+      "id": "decbccffad18561fe973698c457fb9fd3b4837aea95e5443f2d22c36fc3a57f5",
+      "domain_id": "6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Omfattning",
+          "ar_raw": "2005-2024",
+          "kallrad": 421,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2150e9ee6703c3c557b943b63df3797e220235da411ba5302e750389ea1309c1",
+        "path": "data/variable-documentation/2150e9ee6703c3c557b943b63df3797e220235da411ba5302e750389ea1309c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Omfattning",
+      "variable": "Omfattning folkhögskolan",
+      "register_version": "2008",
+      "source_task_id": "d22182a2164fd09a84c424a8350e23f3ec65328fe6948d14e3389904b7c4cfcb",
+      "id": "5905bb1f0e2bcd120db237aafbd5bfb277d46784e46df40f186cd5d0d1dd323b",
+      "domain_id": "6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Omfattning",
+          "ar_raw": "2005-2024",
+          "kallrad": 421,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b76d081fe1d17dc6269f0340aabe6cf25090cbf76aace9e5a8ca7dd0fbfdd3ab",
+        "path": "data/variable-documentation/b76d081fe1d17dc6269f0340aabe6cf25090cbf76aace9e5a8ca7dd0fbfdd3ab.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Omfattning",
+      "variable": "Omfattning folkhögskolan",
       "register_version": "2009",
       "source_task_id": "d22182a2164fd09a84c424a8350e23f3ec65328fe6948d14e3389904b7c4cfcb",
       "id": "8e895d04e7600a2f4f6474739bd34062329040c9e944bb9e1c70ef48ba2b23e8",
@@ -3838,7 +5276,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "04458e9c24a96f456d7753578e3fe504be51fb5c071f4953d438a7bb9639fd81",
+        "path": "data/variable-documentation/04458e9c24a96f456d7753578e3fe504be51fb5c071f4953d438a7bb9639fd81.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3862,7 +5305,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f44713a60a57935d9f36ff8011c7d617c5debc7e3199fa89e9fc72fc381af6b4",
+        "path": "data/variable-documentation/f44713a60a57935d9f36ff8011c7d617c5debc7e3199fa89e9fc72fc381af6b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3886,7 +5334,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "000ac4ab18341b51c9f0097765a184cfa52c9f37227fae2bb182e15380f235ac",
+        "path": "data/variable-documentation/000ac4ab18341b51c9f0097765a184cfa52c9f37227fae2bb182e15380f235ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3910,7 +5363,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "71cb3f5b518e1f42de7206960ca514892b8304738fe7036f249c415a254884b3",
+        "path": "data/variable-documentation/71cb3f5b518e1f42de7206960ca514892b8304738fe7036f249c415a254884b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3934,7 +5392,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1df9429c23d1f8bf9841a209c95a599480315fdc28d40d8bd4ce8a48711b640a",
+        "path": "data/variable-documentation/1df9429c23d1f8bf9841a209c95a599480315fdc28d40d8bd4ce8a48711b640a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -3958,7 +5421,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c3d243294151e7ecb4d5c605ba1c4fcb006cb80818b9f05ef41aa9c4e2413682",
+        "path": "data/variable-documentation/c3d243294151e7ecb4d5c605ba1c4fcb006cb80818b9f05ef41aa9c4e2413682.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4487,6 +5955,93 @@
       "variant": "Deltagarregister",
       "column": "Termin",
       "variable": "Termin",
+      "register_version": "2005",
+      "source_task_id": "48a524d6c1df6aa132790f78d0948e8579641bd7b8ed3ccd031a78b454ad9b4d",
+      "id": "faaf601dca9a2d455416c2fd6f7c8a1a5e08f7ef7961835c7a68f5ba85bcce2c",
+      "domain_id": "5300c6f801fa5307ae930ab253fa20771914a105dc65d1eae01485471463cf87",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Termin",
+          "ar_raw": "2005-2024",
+          "kallrad": 425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "72e92fa453ecb20cf679e8b8489049c353d3fa8a727d0541aa4cb856d6858a50",
+        "path": "data/variable-documentation/72e92fa453ecb20cf679e8b8489049c353d3fa8a727d0541aa4cb856d6858a50.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Termin",
+      "variable": "Termin",
+      "register_version": "2006",
+      "source_task_id": "48a524d6c1df6aa132790f78d0948e8579641bd7b8ed3ccd031a78b454ad9b4d",
+      "id": "18c5d7d6888777342b6b19861da65ece59aadd288dcb6082dccf224d210a8c35",
+      "domain_id": "5300c6f801fa5307ae930ab253fa20771914a105dc65d1eae01485471463cf87",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Termin",
+          "ar_raw": "2005-2024",
+          "kallrad": 425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "16099f8deed0683873b9cefe472ccea6200842939c8ce93a93c7403d258c59d7",
+        "path": "data/variable-documentation/16099f8deed0683873b9cefe472ccea6200842939c8ce93a93c7403d258c59d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Termin",
+      "variable": "Termin",
+      "register_version": "2007",
+      "source_task_id": "48a524d6c1df6aa132790f78d0948e8579641bd7b8ed3ccd031a78b454ad9b4d",
+      "id": "3114bc5065290b3574494570b2d079acbd033c863935af22855611d588a9efc9",
+      "domain_id": "5300c6f801fa5307ae930ab253fa20771914a105dc65d1eae01485471463cf87",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:33:52+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fh_del",
+          "variabel": "Termin",
+          "ar_raw": "2005-2024",
+          "kallrad": 425,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e646cf8adf66cacf95a9b212750a07ad5a1cca9a1e3adaf9bfda34b296c9228",
+        "path": "data/variable-documentation/6e646cf8adf66cacf95a9b212750a07ad5a1cca9a1e3adaf9bfda34b296c9228.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
+    },
+    {
+      "register": "Folkhögskolan",
+      "variant": "Deltagarregister",
+      "column": "Termin",
+      "variable": "Termin",
       "register_version": "2008",
       "source_task_id": "48a524d6c1df6aa132790f78d0948e8579641bd7b8ed3ccd031a78b454ad9b4d",
       "id": "e741122d793b051da78cf7f78e5f475045e5f4c3e33073fdee5f610d7d291595",
@@ -4504,7 +6059,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6ec6b960b9e880540c3a1f9ea213f4b4404db2b5796bcb186ec2afa9bc6ef14a",
+        "path": "data/variable-documentation/6ec6b960b9e880540c3a1f9ea213f4b4404db2b5796bcb186ec2afa9bc6ef14a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4528,7 +6088,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d974189fe10588e4eb81bc108bf7bbb7af0a25b27518bf9512cd629a2afbf224",
+        "path": "data/variable-documentation/d974189fe10588e4eb81bc108bf7bbb7af0a25b27518bf9512cd629a2afbf224.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4552,7 +6117,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f3908eec04bd8d195cbdce06ef5c284f0b1f667f05ab8169d8f1383d65ebafa8",
+        "path": "data/variable-documentation/f3908eec04bd8d195cbdce06ef5c284f0b1f667f05ab8169d8f1383d65ebafa8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4576,7 +6146,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee9d27f69fa29c362894a55d27623da0cdaa24f6da0077b3e705fd21000c0b4b",
+        "path": "data/variable-documentation/ee9d27f69fa29c362894a55d27623da0cdaa24f6da0077b3e705fd21000c0b4b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4600,7 +6175,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0ea2f117efd41b1433afcadfb42ed2f8d46742f8cac00e5ecc1dacb2e989f333",
+        "path": "data/variable-documentation/0ea2f117efd41b1433afcadfb42ed2f8d46742f8cac00e5ecc1dacb2e989f333.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4624,7 +6204,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "848345f22b3b8324aa080dca18834ddaa86d0b90d713993b09ffeaafe8bb96b3",
+        "path": "data/variable-documentation/848345f22b3b8324aa080dca18834ddaa86d0b90d713993b09ffeaafe8bb96b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4648,7 +6233,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd8fef3e367809e6c192910c1d27c4ebb76f83de9a1f1a6c8afeec4c4b503fd5",
+        "path": "data/variable-documentation/bd8fef3e367809e6c192910c1d27c4ebb76f83de9a1f1a6c8afeec4c4b503fd5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4962,7 +6552,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fb73f5c49c7d036cdb8ab546544e171e9253545bd6fb617e33b61b6162f036f",
+        "path": "data/variable-documentation/1fb73f5c49c7d036cdb8ab546544e171e9253545bd6fb617e33b61b6162f036f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -4986,7 +6581,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5d0a6d668b46b432f9fab22cf15d5284a127e6db8b7a7a3b79822acb30c122b",
+        "path": "data/variable-documentation/d5d0a6d668b46b432f9fab22cf15d5284a127e6db8b7a7a3b79822acb30c122b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -5010,7 +6610,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e793be77b2749f1bc147aeed4d18093acfb50a7fc92a001dc69b56e2fb413aee",
+        "path": "data/variable-documentation/e793be77b2749f1bc147aeed4d18093acfb50a7fc92a001dc69b56e2fb413aee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -5034,7 +6639,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "409710be412cd70a950835e824de86e883b877a72fda479054eaa35b64c7d672",
+        "path": "data/variable-documentation/409710be412cd70a950835e824de86e883b877a72fda479054eaa35b64c7d672.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:33:52+00:00"
     },
     {
       "register": "Folkhögskolan",
@@ -5519,6 +7129,14 @@
       "path": "data/value-domain-values/0527c352e5bd4bbe0fe0eafbef89539439a504e17d3079f0fd17d630e3a2db68.json"
     },
     {
+      "version": "Kurstyp, folkhögskolan",
+      "level": "Kurstyp 2007",
+      "data_type": "char(2)",
+      "id": "1467c5c245bb921e08b1126d3c6a2a2e849f6018a0a547c6e3c5ce3e5d8f2e2b",
+      "value_count": 3,
+      "path": "data/value-domain-values/1467c5c245bb921e08b1126d3c6a2a2e849f6018a0a547c6e3c5ce3e5d8f2e2b.json"
+    },
+    {
       "version": "Förkunskapskrav för kurs",
       "level": "Förkunskapskrav för kurs",
       "data_type": "char(1)",
@@ -5639,12 +7257,28 @@
       "path": "data/value-domain-values/5ed10ee06fd1dfb5647082a01ffaff3a7f4afd3fa9f244378a7d13953d2acd83.json"
     },
     {
+      "version": "Kursinr",
+      "level": "Kursinriktning, folkhögskolan",
+      "data_type": "char(3)",
+      "id": "624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c",
+      "value_count": 136,
+      "path": "data/value-domain-values/624a27bae2a0a0db303a9dcac6a87a8f8041b43f0d1afeff39c9721d689a4a8c.json"
+    },
+    {
       "version": "Förekomst",
       "level": "Ja/nej",
       "data_type": "varchar(1)",
       "id": "646e1c10cc220ff900f37a1cf5ddfe2ebeff7e94b8ab9b809e44229d8b95f854",
       "value_count": 2,
       "path": "data/value-domain-values/646e1c10cc220ff900f37a1cf5ddfe2ebeff7e94b8ab9b809e44229d8b95f854.json"
+    },
+    {
+      "version": "Heldel",
+      "level": "Omfattning, folkhögskolan",
+      "data_type": "char(1)",
+      "id": "6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322",
+      "value_count": 6,
+      "path": "data/value-domain-values/6c219c143e8f1bc2fb1189609b684d228b36f09866096cdc576f506e2ca71322.json"
     },
     {
       "version": "Huvudman folkhögskolan",
@@ -5711,6 +7345,14 @@
       "path": "data/value-domain-values/a58bb35797bfe29c7ba93bf075e625c18256cae819848e0a18b2c9f5b9a48273.json"
     },
     {
+      "version": "Kurstyp, folkhögskolan",
+      "level": "Kurstyp 2005",
+      "data_type": "char(2)",
+      "id": "ab518e55a8bd105eb88a5ed4881920c5aa95f844563f6f710340f67ffb7ebb75",
+      "value_count": 5,
+      "path": "data/value-domain-values/ab518e55a8bd105eb88a5ed4881920c5aa95f844563f6f710340f67ffb7ebb75.json"
+    },
+    {
       "version": "Intyg eftergymnasial utbildning     ",
       "level": "Intyg",
       "data_type": "char(1)",
@@ -5751,6 +7393,14 @@
       "path": "data/value-domain-values/c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85.json"
     },
     {
+      "version": "Kursinr",
+      "level": "Kursinriktning, folkhögskolan",
+      "data_type": "char(3)",
+      "id": "cb74a0ccef04fb4aeece21317c803364aea4f9c3d8bc59efb23d83ef819c0648",
+      "value_count": 136,
+      "path": "data/value-domain-values/cb74a0ccef04fb4aeece21317c803364aea4f9c3d8bc59efb23d83ef819c0648.json"
+    },
+    {
       "version": "Grundläggande behörighet till högskola",
       "level": "Grundläggande behörighet till högskola",
       "data_type": "char(1)",
@@ -5767,6 +7417,22 @@
       "path": "data/value-domain-values/d8cb5dc79d07cf100f59623c7cb441efbd2232a4d7cf1d53bc84ee137d4bec45.json"
     },
     {
+      "version": "Kurstyp, folkhögskolan",
+      "level": "Kurstyp 2006",
+      "data_type": "char(2)",
+      "id": "dc52725af9a587036d929ddc2e9a8c204485fd5127c0fb99fc78064342b37a6b",
+      "value_count": 5,
+      "path": "data/value-domain-values/dc52725af9a587036d929ddc2e9a8c204485fd5127c0fb99fc78064342b37a6b.json"
+    },
+    {
+      "version": "Kursinr",
+      "level": "Kursinriktning, folkhögskolan",
+      "data_type": "char(3)",
+      "id": "e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce",
+      "value_count": 135,
+      "path": "data/value-domain-values/e56bd95c69a7ac7679423bb90f37e82e66dccabc3567bfa67a493b8c14d6a8ce.json"
+    },
+    {
       "version": "Behörighet yrkeshögskolestudier ",
       "level": "Behörighet yrkeshögskolestudier ",
       "data_type": "varchar(1)",
@@ -5781,6 +7447,14 @@
       "id": "eaf752ee6ea3f7c12340e6b74298b68a02cd8a3691a0eb9cec19acdd68907862",
       "value_count": 2,
       "path": "data/value-domain-values/eaf752ee6ea3f7c12340e6b74298b68a02cd8a3691a0eb9cec19acdd68907862.json"
+    },
+    {
+      "version": "Alternativ  ",
+      "level": "Ja/nej-alternativ",
+      "data_type": "int",
+      "id": "f1ad10fc4ce67dc55f28e439dbff1f63f7f18a25b8c1b558840c0961060a1620",
+      "value_count": 3,
+      "path": "data/value-domain-values/f1ad10fc4ce67dc55f28e439dbff1f63f7f18a25b8c1b558840c0961060a1620.json"
     },
     {
       "version": "Kurstyp, folkhögskolan",
@@ -5808,82 +7482,17 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "complete": true,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "a059d7865411f0725cc294619433c8fc8f9eb9a25e3498127ac2802f92f51630",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T08:49:24+00:00",
+    "retrieved_at": "2026-11-21T11:33:52+00:00",
     "task_count": 18,
     "expected_bindings": 245,
-    "documented_bindings": 139,
-    "errors": [
-      "KursInr 2024: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2022: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2021: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2020: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2019: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2018: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2017: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2016: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "KursInr 2015: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-      "Termin 2014: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Termin\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Folkhögskolan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Deltagarregister\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Termin\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2005\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    64 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
-      "YrkesBeh 2015: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "EfterGymBeh 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Grundlbeh 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Hman 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "KursInr 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Kurstyp 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Omfattning 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Termin 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "YrkesBeh 2014: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "EfterGymBeh 2005: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Grundlbeh 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Hman 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "KursInr 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Kurstyp 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Omfattning 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Termin 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "YrkesBeh 2013: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Grundlbeh 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Hman 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "KursInr 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Kurstyp 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Omfattning 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Termin 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "YrkesBeh 2012: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Grundlbeh 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Hman 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "KursInr 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Kurstyp 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Omfattning 2011: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Termin 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Grundlbeh 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Hman 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "KursInr 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Kurstyp 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Omfattning 2010: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Termin 2009: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Dagar 2009: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "Distans 2009: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
-      "ForKunskKrav 2009: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n"
-    ]
+    "documented_bindings": 245,
+    "errors": [],
+    "stalled_passes": 0
   }
 }

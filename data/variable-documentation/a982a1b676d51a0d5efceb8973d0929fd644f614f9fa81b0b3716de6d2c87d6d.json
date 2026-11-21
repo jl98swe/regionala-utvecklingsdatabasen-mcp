@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Distansutbildning folkhögskola"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Undervisningen sker på distans."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Undervisningen för kursdeltagare eller kursen har helt eller delvis genomförts på distans."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Studiedokumentationssystemet Schoolsoft, alt. rapportering via Excel"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser angivet kalenderår och beskriver bl.a. kursdeltagares utbildningsbakgrund, studieomfattning, kurs och uppnådda behörigheter till ytterligare studier."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Deltagare i kurser anordnade av folkhögskolor"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Omfattar samtliga deltagare på kurser anordnade av folkhögskolor. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Omfattar deltagare vid s.k. långa kurser, dvs kurser om minst 15 dagar.\r\n\r\n"
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2011-01-01 - 2011-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen sker genom att skolorna skickar in uttag från de administrativa systemen. Folkhögskolor som inte är anslutna till ett administrativt system kan lämnauppgifter via Excel. Insamlingen görs tre gånger på vårterminen och två gånger på höstterminen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Deltagarregister"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Deltagarregistret innehåller bl.a. uppgifter om kursdeltagares utbildningsbakgrund, studieomfattning, kurs som studeras och uppnådda behörigheter. Uppgifter om deltagare i folkhögskolans används som underlag till Registret över befolkningens utbildning (UREG) samt Registret över befolkningens studiedeltagande. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Folkhögskolan"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Registret innehåller uppgifter om folkhögskolans verksamhet, deltagare, pedagogisk personal och ekonomi. "
+    }
+  ],
+  "id": "a982a1b676d51a0d5efceb8973d0929fd644f614f9fa81b0b3716de6d2c87d6d"
+}
