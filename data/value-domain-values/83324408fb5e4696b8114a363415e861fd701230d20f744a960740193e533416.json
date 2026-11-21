@@ -1,0 +1,28 @@
+{
+  "version": "Sysselsättningsstatus fr.o.m 2011   ",
+  "level": "Sysselsättningsstatus",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Förvärvsarbetande, 16-74 år"
+    },
+    {
+      "code": "4",
+      "label": "Ej förvärvsarbetande, barn 0-15 år"
+    },
+    {
+      "code": "5",
+      "label": "Ej förvärvsarbetande, men med kontrolluppgift från arbetsgivare eller företagarinkomst under året"
+    },
+    {
+      "code": "6",
+      "label": "Ej förvärvsarbetande, utan  kontrolluppgift från arbetsgivare eller företagarinkomst under året"
+    },
+    {
+      "code": "7",
+      "label": "Förvärvsarbetande, 15 år"
+    }
+  ],
+  "id": "83324408fb5e4696b8114a363415e861fd701230d20f744a960740193e533416"
+}

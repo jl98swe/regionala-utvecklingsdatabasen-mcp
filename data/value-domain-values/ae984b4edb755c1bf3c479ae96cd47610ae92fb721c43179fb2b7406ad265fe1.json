@@ -1,0 +1,572 @@
+{
+  "version": "Grund för bosättning    ",
+  "level": "Grund för bosättning 090202",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "**",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "ANKNYTNING"
+    },
+    {
+      "code": "2",
+      "label": "Övrigt"
+    },
+    {
+      "code": "3",
+      "label": "ANKNYTNING"
+    },
+    {
+      "code": "4",
+      "label": "Okänt"
+    },
+    {
+      "code": "A ",
+      "label": "FLYKTING"
+    },
+    {
+      "code": "A3",
+      "label": "FLYKTING ENL. 4 KAP. 1 § UTLÄNNINGSLAGEN"
+    },
+    {
+      "code": "A5",
+      "label": "KRIGSVÄGRARE (3 KAP 3 § UTLL)"
+    },
+    {
+      "code": "A6",
+      "label": "DE-FACTO-FLYKTING (3 KAP 1 § 3. UTLL)"
+    },
+    {
+      "code": "A7",
+      "label": "SKYDDSBEHÖVANDE I ÖVRIGT ENL. 4 KAP. 2 § PUNKT 1"
+    },
+    {
+      "code": "A8",
+      "label": "SKYDDSBEHÖVANDE I ÖVRIGT ENL. 4 KAP. 2 § PUNKT 2"
+    },
+    {
+      "code": "A9",
+      "label": "SKYDDSBEHÖVANDE I ÖVRIGT ENL. 4 KAP. 2 § PUNKT 3"
+    },
+    {
+      "code": "AC",
+      "label": "ALTERNATIVT SKYDDSBEHÖVANDE CIVILPERSON ALLVARLIG RISK ENL 4:2"
+    },
+    {
+      "code": "AF",
+      "label": "KONVENTIONSFLYKTING ENL 4:1"
+    },
+    {
+      "code": "AK",
+      "label": "KVOTFLKT, UTL S ÖFÖRTS T SV M STÖD A E SÄRSK R-BES"
+    },
+    {
+      "code": "AS",
+      "label": "ÖVRIG SKYDDSBEHÖVANDE SVÅRA MOTSÄTTNINGAR ENL 4:2"
+    },
+    {
+      "code": "AT",
+      "label": "ALTERNATIVT SKYDDSBEHÖVANDE TORTYR ENL 4:2"
+    },
+    {
+      "code": "AV",
+      "label": "ÖVRIG SKYDDSBEHÖVANDE VÄPNAD KONFLIKT ENL 4:2"
+    },
+    {
+      "code": "B ",
+      "label": "ANKN, MAKE/MAKA/SAMBO/BARN UND 18 ÅR,SE ÄVEN KOD K"
+    },
+    {
+      "code": "B2",
+      "label": "ANKN, ANNAN ANHÖRIG, T EX SISTA LÄNK"
+    },
+    {
+      "code": "B3",
+      "label": "ANKN, TID VISTELSE I SVERIGE, SVENSKFÖDD ETC"
+    },
+    {
+      "code": "B4",
+      "label": "ANK ANNAN ANH HUSHÅLLSGEMENSKAP (2KAP 4§ P3)"
+    },
+    {
+      "code": "B5",
+      "label": "5 KAP. 3 § 1 (DIREKTIVET)"
+    },
+    {
+      "code": "B6",
+      "label": "5 KAP. 3 A § 1 (NATIONELL)"
+    },
+    {
+      "code": "B7",
+      "label": "Försörjningskravet uppfyllt"
+    },
+    {
+      "code": "B8",
+      "label": "Försörjningskravet inte uppfyllt, men har särskilda skäl"
+    },
+    {
+      "code": "C ",
+      "label": "UTLÄNNING S BEV TILLSTÅND AV ARBETSMARKNADSSKÄL"
+    },
+    {
+      "code": "C0",
+      "label": "Arbetstagare ansökan från utlandet"
+    },
+    {
+      "code": "C1",
+      "label": "TIDSBEGR. FÖRSTAGÅNGSTILLSTÅND AV ARBMARKNADSSKÄL"
+    },
+    {
+      "code": "C2",
+      "label": "FÖRL. AV TIDSBEGR. 1-GÅNGSTILLTST, ARBMARKNADSSKÄL"
+    },
+    {
+      "code": "C3",
+      "label": "1:A TILLSTÅND ENLIGT GENERELLT YTTRANDE"
+    },
+    {
+      "code": "C4",
+      "label": "1:A TILLSTÅND EFTER LAN:S YTTRANDE"
+    },
+    {
+      "code": "C5",
+      "label": "FÖRLÄNGNINGSTILLSTÅND ENLIGT GENERELLT YTTRANDE"
+    },
+    {
+      "code": "C6",
+      "label": "FÖRLÄNGNINGSTILLSTÅND EFTER LAN:S YTTRANDE"
+    },
+    {
+      "code": "C7",
+      "label": "Arbetstagare ansökan från Sverige fd asylsökande med lagakraftbeslut"
+    },
+    {
+      "code": "C8",
+      "label": "Arbetstagare ansökan från Sverige person med visum"
+    },
+    {
+      "code": "C9",
+      "label": "Arbetstagare ansökan från Sverige gäststudent"
+    },
+    {
+      "code": "CA",
+      "label": "ANHÖRIG TILL GÄSTFORSKARE"
+    },
+    {
+      "code": "CB",
+      "label": "Anhörig till egenföretagare"
+    },
+    {
+      "code": "CF",
+      "label": "Egenföretagare"
+    },
+    {
+      "code": "CG",
+      "label": "Anhörig till arbetstagare"
+    },
+    {
+      "code": "CH",
+      "label": "Au-pair i hushåll"
+    },
+    {
+      "code": "CI",
+      "label": "Professionell idrottsutövare"
+    },
+    {
+      "code": "CP",
+      "label": "Praktikanter"
+    },
+    {
+      "code": "CR",
+      "label": "GÄSTFORSKARE FÖRSTAGÅNGS-UT"
+    },
+    {
+      "code": "CT",
+      "label": "Säsongsarbetare, exempelvis odlade bär"
+    },
+    {
+      "code": "CU",
+      "label": "Artister med anställning inom underhållningsbranschen, cirkus och dylikt."
+    },
+    {
+      "code": "CW",
+      "label": "Ungdomsutbytesavtal med annat land"
+    },
+    {
+      "code": "D ",
+      "label": "GÄSTSTUDERANDE - FÖRSTAGÅNGS-UT"
+    },
+    {
+      "code": "E ",
+      "label": "GÄSTSTUDERANDE - FÖRLÄNGNINGS-UT"
+    },
+    {
+      "code": "F ",
+      "label": "FOSTERBARN FÖR ADOPTION/ADOPTIVBARN"
+    },
+    {
+      "code": "G ",
+      "label": "SYNNERLIGT ÖMMANDE OMSTÄNDIGHETER ENLIGT 5 KAP.6 §"
+    },
+    {
+      "code": "H",
+      "label": "Okänt"
+    },
+    {
+      "code": "H1",
+      "label": "ARBETSTAGARE"
+    },
+    {
+      "code": "H2",
+      "label": "EGEN FÖRETAGARE"
+    },
+    {
+      "code": "H3",
+      "label": "MOTTAGARE/TILLHANDAHÅLLARE AV TJÄNST"
+    },
+    {
+      "code": "H4",
+      "label": "STUDERANDE"
+    },
+    {
+      "code": "H5",
+      "label": "PENSIONÄR ELLER PERSON MED TILLRÄCKLIGA MEDEL"
+    },
+    {
+      "code": "H6",
+      "label": "MAKE/MAKA/SAMBO TILL PERSON MED STATUS VBEU"
+    },
+    {
+      "code": "H7",
+      "label": "FÖRÄLDERN TILL PERSON MED STATUS VBEU"
+    },
+    {
+      "code": "I ",
+      "label": "UTL SOM BEVILJAS TILLSTÅND F BOSÄTTN AV ÖVR SKÄL"
+    },
+    {
+      "code": "K ",
+      "label": "ANK,MAKE/MAKA BARN TILL AK,A3,A7,A8,A9,G,X1,X2"
+    },
+    {
+      "code": "K1",
+      "label": "ANKNYTN. MAKE/MAKA/SAMBO/BARN TILL P1,P2,P3,P4,P5"
+    },
+    {
+      "code": "K2",
+      "label": "ANKN, ANNAN ANHÖRIG TILL KLASS AK,A3,A5,A6,G,X1,X2"
+    },
+    {
+      "code": "K4",
+      "label": "ANN ANH (HUSH) TILL AK,A3,A7,A8,A9,G,X1,X2"
+    },
+    {
+      "code": "K7",
+      "label": "Försörjningskravet uppfyllt, där referentpersonen är klassad med A* eller G"
+    },
+    {
+      "code": "K8",
+      "label": "Försörjningskravet inte uppfyllt, men har särsk skäl, där ref_pers är klassad med A* eller G"
+    },
+    {
+      "code": "K9",
+      "label": "ANKN TILL BOSNIER,KLASS AK,A3,A7,A8,A9,G,X1,X2"
+    },
+    {
+      "code": "KV",
+      "label": "ANHÖRIG TILL PERSON KLASSAD TV"
+    },
+    {
+      "code": "L1",
+      "label": "ARBETSTAGARE (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L2",
+      "label": "EGEN FöRETAGARE (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L3",
+      "label": "TILLHANDAHåLLARE O MOTTAGARE A TJäNST, ENL EES-AVT"
+    },
+    {
+      "code": "L4",
+      "label": "STUDERANDE (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L5",
+      "label": "EJ EKONOMISKT AKTIV T.EX PENSIONäR (ENL EES-AVT)"
+    },
+    {
+      "code": "L6",
+      "label": "MAKE/MAKA OCH BARN (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L7",
+      "label": "FöRäLDRAR (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L8",
+      "label": "ANDRA ANHöRIGA (ENLIGT EES-AVTALET)"
+    },
+    {
+      "code": "L9",
+      "label": "FÖRLÄNGNING AV TILLSTÅND L1-L8 (ENL EES-AVTALET)"
+    },
+    {
+      "code": "LS",
+      "label": "ARBETSTAGARE FRÅN SCHWEIZ"
+    },
+    {
+      "code": "LT",
+      "label": "Tredjelandsmedborgare som är familjemedlem till medborgare från Schweiz"
+    },
+    {
+      "code": "M1",
+      "label": "Verkställighetshinder 12:18 1st 1p, jmfr 12:1 UtlL (dödsstraff)"
+    },
+    {
+      "code": "M2",
+      "label": "Verkställighetshinder 12:18 1st 1p, jmfr 12:2 UtlL (flykting)"
+    },
+    {
+      "code": "M3",
+      "label": "Verkställighetshinder 12:18 1st 1p, jmfr 12:3 UtlL (övrig skyddsbehövande)"
+    },
+    {
+      "code": "M4",
+      "label": "Verkställighetshinder 12:18 1st 2p (mottagarlandet tar ej emot)"
+    },
+    {
+      "code": "M5",
+      "label": "Verkställighetshinder 12:18 1st 3p (medicinskt hinder)"
+    },
+    {
+      "code": "M6",
+      "label": "Verkställighetshinder 12:18 1 st 3p (annan särskild anledning)"
+    },
+    {
+      "code": "O ",
+      "label": "UTL SOM BEV 1-TILLSTåND FöR ANNAN TEMP VISTELSE"
+    },
+    {
+      "code": "P1",
+      "label": "ENLIGT 2 KAP 5B § 2P"
+    },
+    {
+      "code": "P2",
+      "label": "ENLIGT 2 KAP 5B § 3P"
+    },
+    {
+      "code": "P3",
+      "label": "ENLIGT 2 KAP 5B § 4P FÖRSTA STRECKSATSEN"
+    },
+    {
+      "code": "P4",
+      "label": "ENLIGT 2 KAP 5B § 4P ANDRA STRECKSATSEN"
+    },
+    {
+      "code": "P5",
+      "label": "ENLIGT 2 KAP 5B § 4P"
+    },
+    {
+      "code": "Q1",
+      "label": "MAKE/MAKA/BARN 3 A KAP. 4 §"
+    },
+    {
+      "code": "Q2",
+      "label": "FÖRÄLDRAR OCH BARN ÖVER 21 ÅR 3 A KAP. 2 §"
+    },
+    {
+      "code": "Q3",
+      "label": "MAKE/MAKA/BARN 3 A KAP. 4 §"
+    },
+    {
+      "code": "Q4",
+      "label": "FÖRÄLDRAR OCH BARN ÖVER 21 ÅR 3 A KAP. 2 §"
+    },
+    {
+      "code": "R",
+      "label": "Okänt"
+    },
+    {
+      "code": "R1",
+      "label": "ARBETSTAGARE ENL. 3 A KAP. 3 § 1"
+    },
+    {
+      "code": "R2",
+      "label": "EGNA FÖRETAGARE ENL. 3 A KAP 3 § 1"
+    },
+    {
+      "code": "R3",
+      "label": "TILLHANDAHÅLLARE ENL. 3 A  KAP. 3 §1"
+    },
+    {
+      "code": "R4",
+      "label": "STUDIER ENL. 3 A KAP. 3 § 3"
+    },
+    {
+      "code": "R5",
+      "label": "TILLRÄCKLIGA MEDEL ENL.3 A KAP. 3 § 4"
+    },
+    {
+      "code": "R6",
+      "label": "MAKE/MAKA/BARN  ENL. 3 A KAP. 2 §"
+    },
+    {
+      "code": "R7",
+      "label": "FÖRÄLDRAR/BARN Ö 21 ÅR ENL. 3 A KAP. 2 §"
+    },
+    {
+      "code": "T1",
+      "label": "BEHOV AV TILLF SKYDD (2 KAP 4A § UTLL)"
+    },
+    {
+      "code": "T2",
+      "label": "TIDSBEGR UT PGA VANDELSANMÄRKNING"
+    },
+    {
+      "code": "T3",
+      "label": "TIDSBEGR UT PGA HUMANITÄR/MEDICINSK GRUND"
+    },
+    {
+      "code": "T4",
+      "label": "TIDSBEGR UT, TILLSV VERKSTÄLLIGHETSHINDER"
+    },
+    {
+      "code": "T5",
+      "label": "TIDSBEGR UT MEDDDELAT SOM VERKSTÄLLIGHETSANVISNING"
+    },
+    {
+      "code": "T6",
+      "label": "TIDSBEGR UT,BEDÖMS KUNNA STYRKA ID EFT YTTERL UTRE"
+    },
+    {
+      "code": "T7",
+      "label": "KOSOVOFÖRORDNINGEN, AVRÄKNAS KVOTEN"
+    },
+    {
+      "code": "T8",
+      "label": "KOSOVOFÖRORDNINGEN, SÖKT I SVERIGE"
+    },
+    {
+      "code": "T9",
+      "label": "TIDSBEGR TILLST, FÖRUNDERSÖK/HUVUDFÖRHL I BROTTMÅL"
+    },
+    {
+      "code": "TA",
+      "label": "ANKN TILL PERSON SOM KLASSATS T1"
+    },
+    {
+      "code": "TB",
+      "label": "ANKNYTNING TILL PERSON SOM KLASSATS T8"
+    },
+    {
+      "code": "TV",
+      "label": "BEHOV AV TILLF. SKYDD PGA INRE VÄPNAD KONFLIKT"
+    },
+    {
+      "code": "U1",
+      "label": "ENLIGT 2 KAP 5B § 2P"
+    },
+    {
+      "code": "U2",
+      "label": "ENLIGT 2 KAP 5B § 3P"
+    },
+    {
+      "code": "U3",
+      "label": "ENLIGT 2 KAP 5B § 4P FÖRSTA STRECKSATSEN"
+    },
+    {
+      "code": "U4",
+      "label": "ENLIGT 2 KAP 5B § 4P ANDRA STRECKSATSEN"
+    },
+    {
+      "code": "U5",
+      "label": "ENLIGT 2 KAP 5B § 4P (ID-EJ STYRKT)"
+    },
+    {
+      "code": "V1",
+      "label": "ENLIGT 2 KAP 5B § 2P (VANDELSANMÄRKNING)"
+    },
+    {
+      "code": "V2",
+      "label": "ENLIGT 2 KAP 5B § 3P (VANDELSANMÄRKNING)"
+    },
+    {
+      "code": "V3",
+      "label": "ENLIGT 2 KAP 5B §4P FÖRSTA (VANDELSANMÄRKNING)"
+    },
+    {
+      "code": "V4",
+      "label": "ENLIGT 2 KAP 5B § 4P ANDRA (VANDELSANMÄRKNING)"
+    },
+    {
+      "code": "V5",
+      "label": "ENLIGT 2 KAP 5B § 4P (VANDELSANMÄRKNING)"
+    },
+    {
+      "code": "X ",
+      "label": "FÖRLÄNGNING"
+    },
+    {
+      "code": "X1",
+      "label": "TILLSTÅND BEV PGA TILLF PRAXISÄNDRING (1989-01-12)"
+    },
+    {
+      "code": "X2",
+      "label": "TILLSTÅND BEV PGA TILLF PRAXISÄNDRING (1994-04-14)"
+    },
+    {
+      "code": "XA",
+      "label": "Andra starka skäl"
+    },
+    {
+      "code": "XS",
+      "label": "Särskild anknytning till Sverige"
+    },
+    {
+      "code": "XV",
+      "label": "Våld eller annan allvarlig kränkning"
+    },
+    {
+      "code": "Y1",
+      "label": "ENLIGT 2 KAP 5B § 2P (EJ ÅTERV. NU MEN INOM KORT)"
+    },
+    {
+      "code": "Y2",
+      "label": "ENLIGT 2 KAP 5B 3P (EJ ÅTERVÄNDA NU MEN INOM KORT)"
+    },
+    {
+      "code": "Y3",
+      "label": "ENL. 2KAP 5B § 4P FÖRSTA (EJ ÅTERV NU MEN INOM KOR"
+    },
+    {
+      "code": "Y4",
+      "label": "ENL 2 KAP 5B § 4P ANDRA(EJ ÅTERV NU MEN INOM KORT)"
+    },
+    {
+      "code": "Ö1",
+      "label": "ENLIGT 2 KAP 5B § 2P (TIDSBEG. AV ANNAN ANLEDNING)"
+    },
+    {
+      "code": "Ö2",
+      "label": "ENLIGT 2 KAP 5B § 3P (TIDSBEGR. AV ANNAN ANLEDNING"
+    },
+    {
+      "code": "Ö3",
+      "label": "ENLIGT 2 KAP 5B §4P FÖRSTA (TIDSBEGR ANNAN ANLEDNI"
+    },
+    {
+      "code": "Ö4",
+      "label": "ENLIGT 2 KAP 5B § 4P ANDRA(TIDEBEGR ANNAN ANLEDNIN"
+    },
+    {
+      "code": "Ö5",
+      "label": "ENLIGT 2 KAP 5B § 4P (TIDSBEGR ANNAN ANLEDNING)"
+    }
+  ],
+  "id": "ae984b4edb755c1bf3c479ae96cd47610ae92fb721c43179fb2b7406ad265fe1"
+}

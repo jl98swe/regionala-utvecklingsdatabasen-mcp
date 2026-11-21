@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Långtidsarbetslös"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om personen har varit långtidsarbetslös."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "För att klassas som långtidsarbetslös ska man ha varit arbetslös i minst sex månader för arbetslösa 25 år eller över100 dagar för arbetslösa under 25 år."
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "31/12"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Arbetsförmedlingen"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2020."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "1671822ab05ad6d5e491f0af7c253c575e0b3dec1fb21de25b6b3c4b201ae06c"
+}
