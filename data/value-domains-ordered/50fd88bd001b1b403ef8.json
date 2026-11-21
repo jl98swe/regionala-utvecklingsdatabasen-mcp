@@ -15079,17 +15079,17 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 5,
+    "passes": 6,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "054cde2178cb586a7e1cc33b51d11aac98d4e8385485724aa0930c1617651e72",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T13:22:57+00:00",
+    "retrieved_at": "2026-11-21T13:55:52+00:00",
     "task_count": 45,
     "expected_bindings": 519,
     "documented_bindings": 519,
     "errors": [
       "V7600 2017: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ],
-    "stalled_passes": 1
+    "stalled_passes": 2
   }
 }
