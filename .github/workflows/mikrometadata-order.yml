@@ -50,15 +50,29 @@ jobs:
           print('matrix='+json.dumps(m if m['include'] else {'include':[{'group':'none'}]}))
           PY
       - name: Spara matchningsunderlag
+        id: save_plan
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/order-source-plan.json data/order-source-index.json data/order-source-candidates.json
+          git add data/order-source-plan.json data/order-source-index.json data/order-source-candidates.json docs/ORDER_VALUE_DOMAINS.md
+          if [ -n "$(git diff --cached --name-only -- data/order-source-index.json)" ]; then echo 'index_changed=true' >> "$GITHUB_OUTPUT"; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Uppdatera granskad beställningsplan för SCB-värdemängder'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Publicera ändrat registerindex
+        if: steps.save_plan.outputs.index_changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          python - <<'PYAPI'
+          import json,os,urllib.request
+          url='https://api.github.com/repos/'+os.environ['GH_REPO']+'/actions/workflows/deploy.yml/dispatches'
+          req=urllib.request.Request(url,data=json.dumps({'ref':'main'}).encode(),headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','Content-Type':'application/json'})
+          with urllib.request.urlopen(req) as response:print('Publicering av registerindex startad:',response.status)
+          PYAPI
   harvest:
     needs: prepare
     if: needs.prepare.outputs.has_work == 'true'
@@ -120,7 +134,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
           ITERATION: ${{ inputs.iteration || '0' }}
-          CONTINUE_QUEUE: ${{ inputs.continue_queue != false }}
+          CONTINUE_QUEUE: ${{ github.event_name != 'workflow_dispatch' || inputs.continue_queue }}
         run: |
           python scripts/order_domain_queue.py --batch-size 8 > /tmp/remaining.json
           python - <<'PY' >> "$GITHUB_STEP_SUMMARY"

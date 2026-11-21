@@ -69,7 +69,7 @@ def main(a):
   expect(page.get_by_role('progressbar')).to_have_count(0)
   update=page.get_by_text(re.compile(r'^Metadata uppdaterades:')).inner_text().split(':',1)[1].strip()
   if update!=plan['scb_source_updated']:raise ValueError('SCB-indexet behöver uppdateras före hämtningen')
-  if old_coverage.get('complete') and old_coverage.get('source_updated')==update and old_coverage.get('task_sha256')==task_hash:
+  if old_coverage.get('complete') and old_coverage.get('expected_bindings',0)>0 and old_coverage.get('source_updated')==update and old_coverage.get('task_sha256')==task_hash:
    print('Oförändrad källa och komplett urval; ingen export behövs.');return
   choose_register(page,reg)
   field=page.get_by_role('textbox',name='Registervariant',exact=True);field.click()
@@ -88,10 +88,13 @@ def main(a):
      if any(eligible(o['ar_raw'],label) for o in task['orders']):
       identity={'register':reg,'variant':var,'column':task['Kolumnnamn'],'variable':task['Variabelnamn'],'register_version':label,'source_task_id':task['id']}
       bid=digest(identity);expected.add(bid);selected.append((label,bid,identity))
-    if versions and not selected:print(f"INGA BESTÄLLNINGSÅR | {task['Kolumnnamn']} | {versions[:2]}..{versions[-2:]}",flush=True)
+    if versions and not selected:
+     errors.append(f"{task['Kolumnnamn']}: inga verifierade beställningsperioder i källversionerna {versions[:2]}..{versions[-2:]}")
+     print('PERIOD EJ MATCHAD | '+errors[-1],flush=True)
     if not versions:raise ValueError('Inga igenkända registerversioner; behöver manuell periodtolkning')
     schedules.append((task,list(reversed(selected))))
-   except Exception as e:errors.append(f"{task['Kolumnnamn']}: {e}");save();raise
+   except Exception as e:
+    errors.append(f"{task['Kolumnnamn']}: {e}");save();print("FEL | "+errors[-1],flush=True)
   # Breadth first: one recent applicable version per variable before older history.
   maximum=max((len(vs) for _,vs in schedules),default=0)
   for depth in range(maximum):
@@ -132,8 +135,9 @@ def main(a):
      checked+=1;save()
      print(f"OK | {task['Kolumnnamn']} | {label} | {len(domain['values'])} | {checked}/{a.max_checks}",flush=True)
      time.sleep(.2)
-    except Exception as e:errors.append(f"{task['Kolumnnamn']} {label}: {e}");save();raise
-  complete=expected.issubset(byid) and not errors
+    except Exception as e:
+     errors.append(f"{task['Kolumnnamn']} {label}: {e}");save();print("FEL | "+errors[-1],flush=True)
+  complete=bool(expected) and expected.issubset(byid) and not errors
   save(complete)
   print(f'KLAR | exporter={checked} | sparade={len(byid)} | förväntade={len(expected)} | komplett={complete}',flush=True)
   browser.close()

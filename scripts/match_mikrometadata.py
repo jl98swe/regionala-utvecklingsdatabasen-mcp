@@ -71,4 +71,15 @@ if __name__=='__main__':
  reviewed=json.loads(path.read_text()) if path.exists() else {}
  plan=build_plan(metadata,inventory,reviewed)
  atomic_save(root/'data/order-source-plan.json',plan)
+ counts=collections.Counter(x['status'] for v in plan['views'] for x in v['variables'])
+ lines=['# Beställningens registerkopplingar','',f"Beställningsmetadata: `{plan['metadata_sha256']}`. SCB-index uppdaterat {plan['scb_source_updated']}.",'',f"{len(plan['views'])} vyer; {counts['matched']} variabelposter kopplade; {counts['identity_not_enumerated']} identifierarposter utan uppräknad värdemängd; {counts['no_column_match']+counts['unresolved_view']} poster kvar att reda ut.",'','Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, eller med en entydig skillnad i skiftläge. Kandidatlistor är inte godkända kopplingar.','','| Beställningsvy | Kopplade/icke-identifierare | Granskade källvarianter | Status |','|---|---:|---|---|']
+ for v in plan['views']:
+  variables=[x for x in v['variables'] if x['status']!='identity_not_enumerated'];matched=sum(x['status']=='matched' for x in variables)
+  sources='; '.join(s['register'].strip()+' → '+s['variant'].strip() for s in v['sources']) or 'Öppen'
+  lines.append(f"| `{v['databasvy']}` | {matched}/{len(variables)} | {sources.replace('|','/')} | {v['status']} |")
+ lines+=['','## Återstående namn','', 'Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och källraderna finns i [matchningsplanen](../data/order-source-plan.json). Identifierare är inte med i denna lista.','']
+ for v in plan['views']:
+  missing=[x['variabel'] for x in v['variables'] if x['status'] not in ('matched','identity_not_enumerated')]
+  if missing:lines.append('- `'+v['databasvy']+'`: '+', '.join('`'+x+'`' for x in missing[:20])+(f" … ({len(missing)} totalt)" if len(missing)>20 else ''))
+ (root/'docs/ORDER_VALUE_DOMAINS.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
  print(json.dumps({'views':len(plan['views']),'reviewed_views':sum(bool(v['sources']) for v in plan['views']),'tasks':len(plan['tasks']),'variables':dict(collections.Counter(x['status'] for v in plan['views'] for x in v['variables']))},ensure_ascii=False))
