@@ -3494,21 +3494,21 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 3,
+    "passes": 4,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "03ee5b46e6d32d3248d2d18f3b669b4e58e1a87346c0d6759fb500af8581ca5f",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T11:11:48+00:00",
+    "retrieved_at": "2026-11-21T12:26:41+00:00",
     "task_count": 5,
     "expected_bindings": 118,
     "documented_bindings": 118,
     "errors": [
-      "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "Ng 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "Ng 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "Ng 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "Ng 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
+      "Ng 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2006: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2005: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2004: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ],
-    "stalled_passes": 0
+    "stalled_passes": 1
   }
 }
