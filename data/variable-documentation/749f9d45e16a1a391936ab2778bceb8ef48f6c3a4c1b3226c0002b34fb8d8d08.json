@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "tinyint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Rangordning av näringsgrenar"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Rangordning av variabeln näringsgren"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Rangordnar varje näringsgren efter dess relativa storlek vid arbetsstället.  Baseras på näringsgrenens procentuella andel av verksamheten vid arbetsstället, grundad på tid eller omsättning.\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Rangordnar varje näringsgren efter dess relativa storlek för arbetsstället. Baseras på näringsgrenens procentuella andel av verksamheten vid arbetsstället, grundad på tid eller omsättning. Rangordning 1 motsvarar den primära näringsgrenskoden.\r\n\r\nFör juridiska enheter med endast ett arbetsställe hämtas näringsgren från Skatteverket. För företag med fler än ett arbetsställe samlas uppgiften in via undersökningen Kontroll av uppgifter i SCB:s Företagsdatabas."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Relativstorlek"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller samtliga arbetsställen vid aktuell tidpunkt."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga arbetsställen i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Arbetsställeenheten (AE) är en geografiskt avgränsad del av ett företag (en adress) där verksamhet bedrivs. Matrisen omfattar både verksamma och nedlagda arbetsställeenheter."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Samtliga arbetsställeenheter (AE) som fanns registrerade 2016-11-25."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2016-11-25"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Ett arbetsställe skapas av SCB då en juridisk enhet har registrerats och blivt verksam i FDB. På motsvarande sätt tar SCB bort eller ändrar information om arbetsställen vid notifiering om avregistrering eller andra förändringar för den juridiska enheten. För företag med fler än ett arbetsställe kontrolleras uppgifter om arbetsställen årligen via en enkät från SCB. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Arbetsställeenhet är en del av (eller ett helt) företag som finns på en geografiskt identifierad plats (adress, fastighet edy). På denna plats bedrivs ekonomisk verksamhet inom företaget vilken (med vissa specificerade undantag) sysselsätter en eller flera personer."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Arbetsställeenheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Arbetsställeenheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Arbetsställeenheten (AE) är en geografiskt avgränsad del av ett företag (en adress) där verksamhet bedrivs. Omfattar både verksamma och nedlagda arbetsställeenheter. Används bl.a. som ram vid urvalsdragning av företagsbaserade undersökningar."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "749f9d45e16a1a391936ab2778bceb8ef48f6c3a4c1b3226c0002b34fb8d8d08"
+}
