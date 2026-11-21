@@ -1,0 +1,36 @@
+{
+  "version": "Utbildningsnivå etablering",
+  "level": "Utbildningsnivå etablering",
+  "data_type": "varchar(50)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Saknar formell grundläggande utbildning"
+    },
+    {
+      "code": "1",
+      "label": "Förgymnasial utbildning kortare än 9 år"
+    },
+    {
+      "code": "2",
+      "label": "Förgymnasial utbildning 9 (10) år"
+    },
+    {
+      "code": "3",
+      "label": "Gymnasial utbildning"
+    },
+    {
+      "code": "4",
+      "label": "Eftergymnasial utbildning kortare än 2 år"
+    },
+    {
+      "code": "5",
+      "label": "Eftergymnasial utbildning, 2 år eller längre"
+    },
+    {
+      "code": "6",
+      "label": "Forskarutbildning"
+    }
+  ],
+  "id": "3739de0e701781bbb4b5508456dc4450a04cfb8e4f232176edf80336de85ddab"
+}

@@ -1,0 +1,32 @@
+{
+  "version": "StatusSsyk",
+  "level": "StatusSsyk",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Ej imputerad"
+    },
+    {
+      "code": "2",
+      "label": "Imputerad från yrkesverksamma jobb 1"
+    },
+    {
+      "code": "3",
+      "label": "Imputerad från förvärvsarbetande jobb 2"
+    },
+    {
+      "code": "4",
+      "label": "Imputerad från yrkesverksamma jobb 2"
+    },
+    {
+      "code": "5",
+      "label": "Imputerad från övriga"
+    },
+    {
+      "code": "6",
+      "label": "Saknar uppgift"
+    }
+  ],
+  "id": "1b5d807bcc847550e22634dca64c38083565feb8395403ef72933d47d1340b68"
+}

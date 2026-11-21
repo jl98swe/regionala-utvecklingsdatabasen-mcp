@@ -1,0 +1,40 @@
+{
+  "version": "Sökandekategori fr.o.m 2012",
+  "level": "Sökandekategori gruppering",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Arbetslösa"
+    },
+    {
+      "code": "2",
+      "label": "Sökande i program med aktivitetsstöd"
+    },
+    {
+      "code": "3",
+      "label": "Sökande som har arbete utan stöd"
+    },
+    {
+      "code": "4",
+      "label": "Sökande som har arbete med stöd"
+    },
+    {
+      "code": "5",
+      "label": "Övriga inskrivna vid Af"
+    },
+    {
+      "code": "6",
+      "label": "Nystartsjobb"
+    },
+    {
+      "code": "7",
+      "label": "Yrkesintroduktion"
+    },
+    {
+      "code": "NULL",
+      "label": "Ej relevant"
+    }
+  ],
+  "id": "3a6f9c633d1c1ffd816de87291fb9392f0398fe63bc3655bb59f025de073458d"
+}
