@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Sysselsatta (RAMS)"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antal sysselsatta enligt RAMS"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgifterna kan vara beräknade (imputerade)."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Registerbaserad arbetsmarknadsstatistik (RAMS)"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Syftet med statistiken är att belysa näringslivets struktur (exklusive den finansiella sektorn) med avseende på exempelvis lönsamhet, tillväxt, utveckling, finansiering och produktion under år 2016. Resultaten redovisas per lokal verksamhetsenhet. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga lokala verksamhetsenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Lokala verksamheter i Sverige, både verksamma och ej verksamma."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2016-01-01 - 2016-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "I målpopulationen ingår samtliga företag som bedrivit verksamhet under referensåret exklusive finansiella företag. Avser företagsenhetens uppgifter från årsbokslut för 2016."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Lokal verksamhetsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Lokal verksamhetsenhet är den \"matematiska\" skärningsmängden av arbetsställeenhet och verksamhetsenhet. Dvs när endast en del av en arbetsställeenhet tillhör en viss verksamhetsenhet så är den delen en lokal verksamhetsenhet. I de allra flesta fall (med något 100-tal undantag) är arbetsställeenhet odelade och då gäller lokal verksamhetsenhet = arbetsställeenhet. Inkluderar lantbruksföretag, institution m.fl."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "FEK Slutdata (lokal verksamhetsenhet)"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "FEK Slutdata (LVE)"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Syftet med statistiken är att belysa näringslivets struktur (exklusive den finansiella sektorn) med avseende på exempelvis lönsamhet, tillväxt, utveckling, finansiering och produktion. Resultaten redovisas för lokala verksamhetsenheter."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagens ekonomi (FEK)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagens ekonomi (FEK)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med Företagens ekonomi är att belysa näringslivets struktur (exklusive den finansiella sektorn) med avseende på exempelvis lönsamhet, tillväxt, utveckling, finansiering och produktion.Sammanställning av statistiken kan ske både på aggregerad nivå och i form av median- och kvartilvärden. Statistiken visas på nationell, branschmässigt avgränsad samt för industrisektorn även på regional nivå. "
+    }
+  ],
+  "id": "7695f4cdf79aad2309e729124b2020c983ce96c502f325734dc8baf7fbe94716"
+}

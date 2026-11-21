@@ -1,0 +1,1200 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "c2bd25ff9ccbd37bd539",
+  "register": "Företagens ekonomi (FEK)",
+  "variant": "FEK Slutdata (LVE)",
+  "bindings": [
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2003",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "de2c03759d31a476afa33718fcc21d43d5ef326700a0025dcf1917fc7df0f3e6",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3322928ed1f1802d6c58f5b2ae62e92828d08274c30953d4e684b8c8483fa129",
+        "path": "data/variable-documentation/3322928ed1f1802d6c58f5b2ae62e92828d08274c30953d4e684b8c8483fa129.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2004",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "4762f8153fe7134c230a2d581bc6a2e505c43299efc355a06a316951c02e794d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6df46e9f788b7f9b4c722f39623860b306c44e5684b4a6485d51c0977a768bb",
+        "path": "data/variable-documentation/b6df46e9f788b7f9b4c722f39623860b306c44e5684b4a6485d51c0977a768bb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2005",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "3155c5af9087fc8b9f6cb2eb4a45d1e8d554450db0dd9c38eb66bb0e6eeb896a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "145a24ae9fa30667e2aa86c67e5795c7a37f67c03b0b06dafcc6eec0018f5dad",
+        "path": "data/variable-documentation/145a24ae9fa30667e2aa86c67e5795c7a37f67c03b0b06dafcc6eec0018f5dad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2006",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "ee9bf88fddb57678d0137acc502f540c35af8188b61822f6357ce3fac802acda",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "384ee968d961833701b35762ba4fe1601048de793061297d02eb7d2657a502bd",
+        "path": "data/variable-documentation/384ee968d961833701b35762ba4fe1601048de793061297d02eb7d2657a502bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2007",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "d8853b88ddc0bfaebc6964ed300743537f99192a37cb9b767b32c7c571ba4784",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cb653a52c9d7229a813ce43110fd0be9fc89b809c941b7e2c03e47c2378aa3bb",
+        "path": "data/variable-documentation/cb653a52c9d7229a813ce43110fd0be9fc89b809c941b7e2c03e47c2378aa3bb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2008",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "86cc01fcda6e3fef811e2a893ab6ffb94d58df8bfa523b6492f63644e5b5df4b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e73c272d4700682ab19b1a26ed0c3f7ffb7b799a1f6e55b07f4d7af472fb897a",
+        "path": "data/variable-documentation/e73c272d4700682ab19b1a26ed0c3f7ffb7b799a1f6e55b07f4d7af472fb897a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2009",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "04226867e3a5af98d458a0553dc2b91c26409d9cec371e1534cf19e57bd5d1b8",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4c911dbcc2526c42bf583b4887b44ffcedb44ec2cea9212c09b9464df7ed820",
+        "path": "data/variable-documentation/a4c911dbcc2526c42bf583b4887b44ffcedb44ec2cea9212c09b9464df7ed820.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2010",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "796356c2d8c97c0406b0b5cceede7a86d0ce472cc93fd540eaec0014a79d47ec",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eb3f564c663de75a44e27201a9094e53ebcd5829f5ed6429c49842379e29cd06",
+        "path": "data/variable-documentation/eb3f564c663de75a44e27201a9094e53ebcd5829f5ed6429c49842379e29cd06.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2011",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "44e1aceed0258988d82f2839f82ff6321cd7bf165d8f5a8a59d97d6cc20e25bd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "53b6fa3ea06fc8b521dfc7e4b1f3954c42eb0a542a66b4cc7b14f2841e1f8a8d",
+        "path": "data/variable-documentation/53b6fa3ea06fc8b521dfc7e4b1f3954c42eb0a542a66b4cc7b14f2841e1f8a8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2012",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "e7e890dc424646ef2e477a1717c8629c212e927718b4e0cc2f03eb12d4503136",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ff5396fe2c5787e38fac781c0e7af1f24adcb23c2494ae50fe1fcfd9215ee208",
+        "path": "data/variable-documentation/ff5396fe2c5787e38fac781c0e7af1f24adcb23c2494ae50fe1fcfd9215ee208.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2013",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "89ffa1016952cb2b3526592cca537de464f3a3eef339a896d6fed5e1d6bb099f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "542912281e0cf6ae08e5d4270a5e587546034ca2328f9ae2acc026f5676e2538",
+        "path": "data/variable-documentation/542912281e0cf6ae08e5d4270a5e587546034ca2328f9ae2acc026f5676e2538.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2014",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "c21c7138d035e7bf33d026cfeb11cc98a86ba7e9963dcdb6435f01133a8f0057",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3ad6f2efd18cac64bbf6a8c31fabfa3055bd3583059039dd4e9794fa8cea8dbe",
+        "path": "data/variable-documentation/3ad6f2efd18cac64bbf6a8c31fabfa3055bd3583059039dd4e9794fa8cea8dbe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2015",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "f832b4950647e836ec7fec9570d2fde4d0370605835bfb346052d85efe9ce7f2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e264bc030c637ef159eac56184a9ee87c239fb70328a9a08c3fda437337253a4",
+        "path": "data/variable-documentation/e264bc030c637ef159eac56184a9ee87c239fb70328a9a08c3fda437337253a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2016",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "5ff7e29f48a6f7323bdec1de34a27c2f4c0feb09fd1215a49609bbcbc7b34210",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "92f450775f5f53aa86185efdf67bb02f810808d55625d20a723cdc8069a9fa87",
+        "path": "data/variable-documentation/92f450775f5f53aa86185efdf67bb02f810808d55625d20a723cdc8069a9fa87.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2017",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "1f74977607305afd7470ea69e06c42f8d062c23746f248b373a783ada16178b4",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cd3e9db8d2989f451f951f6e2f70bbeb259f83b3901b2b67631354944cf7a27",
+        "path": "data/variable-documentation/1cd3e9db8d2989f451f951f6e2f70bbeb259f83b3901b2b67631354944cf7a27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2018",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "14385f22f6b90f95764281962f19163efbcb957e0d91e93fa44eb570fb6d098b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96efe664dc6798180ec09af4f0212d0426314e540368f65b3b203533938d72bb",
+        "path": "data/variable-documentation/96efe664dc6798180ec09af4f0212d0426314e540368f65b3b203533938d72bb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2019",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "c0c55d0d0ae3b3731cb40efa27889f407480b6fd41f51c9f161ceb826a1b2a53",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3de8d4ef84c1a1b436a7d902a31623717155191c71906587050432eb9904d0b3",
+        "path": "data/variable-documentation/3de8d4ef84c1a1b436a7d902a31623717155191c71906587050432eb9904d0b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2020",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "f4d54c5d3567bc251cf8d372e7ad95750df0fdb718656d981487c69f42ebd8c9",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d2c2846bca6341ac3699e7e4e41aa7a8cda3efb353452daee528dd9088bf296",
+        "path": "data/variable-documentation/3d2c2846bca6341ac3699e7e4e41aa7a8cda3efb353452daee528dd9088bf296.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2021",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "c227418d128f79a79dec51f8b5aad23531194f6fcdab2b6ed4ea9d2ea7e7b4de",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2bb7a0063a25d8fc36e2347b36f10185decab1ab119e230791c8d63c0b642b63",
+        "path": "data/variable-documentation/2bb7a0063a25d8fc36e2347b36f10185decab1ab119e230791c8d63c0b642b63.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2022",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "40d729b91c7c344d4cec68fa69aa38a5c6c951d93c243fe9b63aaedd96d9b773",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "72a169d935ac45737305722c7ba2adab577a25f4d59b3dd758eaba52663f8f4c",
+        "path": "data/variable-documentation/72a169d935ac45737305722c7ba2adab577a25f4d59b3dd758eaba52663f8f4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lgr6101",
+      "variable": "Medelantal anställda",
+      "register_version": "2023",
+      "source_task_id": "4fa0f2f46564158704d4ff6ad3395b363fc465365c244f255471a339d5bda3cd",
+      "id": "04942994d6577f53cb7c92ba15f125a55fb87c7653730e83bff8a1eb543e2667",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "ar_raw": "1998-2023",
+          "kallrad": 405,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d06497d4f01ce5bdfd6b19c3e8c32155325472f3d16fcd7c5b98d19e749788fe",
+        "path": "data/variable-documentation/d06497d4f01ce5bdfd6b19c3e8c32155325472f3d16fcd7c5b98d19e749788fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2003",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "163a88e3384fff8c23c56db9074260323b1a4b844628cc3841d3327230eb532b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4986cd35c2a5b3199994194635e1bb1f382e55da80c8ebe1ad0076cf28679c50",
+        "path": "data/variable-documentation/4986cd35c2a5b3199994194635e1bb1f382e55da80c8ebe1ad0076cf28679c50.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2004",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "0d08a5ce6562cf7f2c957b810df16cb7cdf30030005f62b0f5446081aa9a225e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "59194c9c4f7ecfbd29648caf914fb73166964e16b100f5ffa56102d33347525f",
+        "path": "data/variable-documentation/59194c9c4f7ecfbd29648caf914fb73166964e16b100f5ffa56102d33347525f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2005",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "39c2931ed226d822a0eee7dfe4344a56ac3cb2be3dee5229b556dc406638a0eb",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "439fff4631f9205f6889ff486994ea8629d7dca8c2fd1d7fecb4c0b5cae10c0d",
+        "path": "data/variable-documentation/439fff4631f9205f6889ff486994ea8629d7dca8c2fd1d7fecb4c0b5cae10c0d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2006",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "f2149c05a6a78cb6123e46402ba9e9fc131d68ea4affef26ab5dd19a82dd0e71",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "031f572b24ff147fbd525309f138d6fa1544548cbcfb8d824795242ef5b8eeba",
+        "path": "data/variable-documentation/031f572b24ff147fbd525309f138d6fa1544548cbcfb8d824795242ef5b8eeba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2007",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "43dcf54b9993c580e4c5a718ebb2aacea7e1d5da87503efbf27f08e723d8cda9",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d60fc23b1bceda32ec087664526a4152cdaba41d6caf1c9c70281dd7536ff02a",
+        "path": "data/variable-documentation/d60fc23b1bceda32ec087664526a4152cdaba41d6caf1c9c70281dd7536ff02a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2008",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "7aed479751b60a7f23e5a33f46d1328e42367751a6c6d6a138ee17be270e5acf",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2e3b8efe32180f381bb7ce7bcaebb4f95171b7e96761b0983f80cc498048cf96",
+        "path": "data/variable-documentation/2e3b8efe32180f381bb7ce7bcaebb4f95171b7e96761b0983f80cc498048cf96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2009",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "93c8620fa2c3f413a8adbdb3660ce2149018af49344bdcbf54679f15696545e9",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "151f0735a2ff4ca5a3877e9a31b98bae520a0adb3be04dde0f85d1cdabe526e2",
+        "path": "data/variable-documentation/151f0735a2ff4ca5a3877e9a31b98bae520a0adb3be04dde0f85d1cdabe526e2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2010",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "92bcd9883ddeede13c35a4086584ec69e87ab8ad572f7c601b3fb886bee445f2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3752331336c76246c756ec9904f5abb0b8bc818cd7d38c3d5d83e797cbd2c135",
+        "path": "data/variable-documentation/3752331336c76246c756ec9904f5abb0b8bc818cd7d38c3d5d83e797cbd2c135.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2011",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "d827a657e9c29b6c607fa3668a43b882ffc1ffa25f56f34e2a217a761068ee55",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e70bfd5f161a618b682916eaeb6cf26af168cfeb67ed75131d914bf5e8f0e232",
+        "path": "data/variable-documentation/e70bfd5f161a618b682916eaeb6cf26af168cfeb67ed75131d914bf5e8f0e232.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2012",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "8affc0cf18613bfea67380ee22699e54af0aa3b87ed169ba9917a72ca92d0f38",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d6f669f683aa7676683202e49716f972ba4535cbea32413b4a2e64cb4ceedda",
+        "path": "data/variable-documentation/5d6f669f683aa7676683202e49716f972ba4535cbea32413b4a2e64cb4ceedda.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2013",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "55c8d5d406bcd2154f2329152504dd6428e5dc6405269959289bfedf2157e462",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "edda21d6ffe381f8a58499914fd2c4001cfca42d9b900a86fad4c04d934693f6",
+        "path": "data/variable-documentation/edda21d6ffe381f8a58499914fd2c4001cfca42d9b900a86fad4c04d934693f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2014",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "0246ca76252707643398e3430fb77ce666342b80b4134a9fd7d56de6e1699294",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "30bcb7c552c42e7e4d6c5536000bd79c6316134e0b12f29601588d453b1f596d",
+        "path": "data/variable-documentation/30bcb7c552c42e7e4d6c5536000bd79c6316134e0b12f29601588d453b1f596d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2015",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "a7d5bfab5890b50a6b93658f937aaad8b07e28addc6ed04c142ac483ce8d5d40",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a7ba56745e47e9001989e53a7cf0dc364c7ec82c011baa57e2b5accea3396868",
+        "path": "data/variable-documentation/a7ba56745e47e9001989e53a7cf0dc364c7ec82c011baa57e2b5accea3396868.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2016",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "3df42bb1d0ce1c9a8cb09373faea1e2ca75a3915320113fe4bdade965214c1a2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7695f4cdf79aad2309e729124b2020c983ce96c502f325734dc8baf7fbe94716",
+        "path": "data/variable-documentation/7695f4cdf79aad2309e729124b2020c983ce96c502f325734dc8baf7fbe94716.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2017",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "4370ebbf82d6c7f0bddb95c3c415e7e5a75d92e163eafebf0be63553207cf7ab",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6fff452fd7b556b02c4b196f7e37f6a66ba51fa66e71b3b78868bb2048ccb56c",
+        "path": "data/variable-documentation/6fff452fd7b556b02c4b196f7e37f6a66ba51fa66e71b3b78868bb2048ccb56c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2018",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "103447dd7f87647e2ee61332f5cf6ec8493d40711c30f91ef3b5f6de64693326",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d41394e0ad7d2f2965bc5dd0eb4923f7db37e94322b1b288e88d67985a3cec4f",
+        "path": "data/variable-documentation/d41394e0ad7d2f2965bc5dd0eb4923f7db37e94322b1b288e88d67985a3cec4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2019",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "764eb5f16b9c97b7cb859c91ebcaa5ecda0b9e1728664d69f7d79c3e04901b8c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4629d5701097e881392b6cb48f873f93db8b7bded54f02d61c5584ea5295dae",
+        "path": "data/variable-documentation/d4629d5701097e881392b6cb48f873f93db8b7bded54f02d61c5584ea5295dae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2020",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "b01a31895d78219ea4aa30e60124ab5d69859d9f0d0342337b889b685ca7092a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4e5a5d29f8b120cbcc76127e7f7c6025711ab6169a172f36d75ad46151625189",
+        "path": "data/variable-documentation/4e5a5d29f8b120cbcc76127e7f7c6025711ab6169a172f36d75ad46151625189.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    },
+    {
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "column": "lhar6103",
+      "variable": "Sysselsatta (RAMS)",
+      "register_version": "2021",
+      "source_task_id": "e383e92bb1fa043aef6e37a02e06bb5481fd9302453efbd3beb37e3e968d1b3f",
+      "id": "f5ba7618c504d533183ca978cf52576e985839b8d1772cea737c25cc1a3a908e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:47:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "ar_raw": "2002-2021",
+          "kallrad": 409,
+          "method": "reviewed_alias"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e34e0842f2bf76358c9fed9d5ebec398e14f69279afd086cad9535bb41249048",
+        "path": "data/variable-documentation/e34e0842f2bf76358c9fed9d5ebec398e14f69279afd086cad9535bb41249048.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:47:41+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "float",
+      "id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "value_count": 0,
+      "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "numeric",
+      "id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "value_count": 0,
+      "path": "data/value-domain-values/8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "029206735ddec7d21ab5e3e22f65f98546a1d6d1b1f6ff4d402bc8b6e938fd1d",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:47:41+00:00",
+    "task_count": 2,
+    "expected_bindings": 40,
+    "documented_bindings": 40,
+    "errors": []
+  }
+}
