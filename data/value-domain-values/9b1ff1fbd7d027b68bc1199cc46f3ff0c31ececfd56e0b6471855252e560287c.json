@@ -1,0 +1,20 @@
+{
+  "version": "JEStat_2019",
+  "level": "Juridiskaenhetensstatus",
+  "data_type": "int",
+  "values": [
+    {
+      "code": "1",
+      "label": "Ingår i populationen och är registrerad i Skatteverkets organisationsnummerregister"
+    },
+    {
+      "code": "2",
+      "label": "Ingår i populationen och är registrerad på annat sätt"
+    },
+    {
+      "code": "9",
+      "label": "Ingår inte längre i populationen"
+    }
+  ],
+  "id": "9b1ff1fbd7d027b68bc1199cc46f3ff0c31ececfd56e0b6471855252e560287c"
+}

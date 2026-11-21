@@ -1,0 +1,28 @@
+{
+  "version": "FTGStat ",
+  "level": "Juridiska enhetens företagsstatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "0",
+      "label": "Har aldrig varit verksam"
+    },
+    {
+      "code": "1",
+      "label": "Verksam"
+    },
+    {
+      "code": "2",
+      "label": "Företag som har stor ekonomisk betydelse (endast juridiska personer)"
+    },
+    {
+      "code": "8",
+      "label": "Ej verksam, icke-JE"
+    },
+    {
+      "code": "9",
+      "label": "Ej verksam, enligt regler"
+    }
+  ],
+  "id": "00e14090b132069fd31329359d1f19445813d478dda71759869aa2ba08d40a1d"
+}

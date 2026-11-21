@@ -1,0 +1,48 @@
+{
+  "version": "PRVStat",
+  "level": "PRVStatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "0",
+      "label": "Normalt"
+    },
+    {
+      "code": "1",
+      "label": "Registrerad hos PRV (tom 99-11-30)"
+    },
+    {
+      "code": "2",
+      "label": "Konkurs"
+    },
+    {
+      "code": "3",
+      "label": "Likvidation"
+    },
+    {
+      "code": "4",
+      "label": "Fusion"
+    },
+    {
+      "code": "5",
+      "label": "Rekonstruktion"
+    },
+    {
+      "code": "6",
+      "label": "Övertagande företag vid fusion"
+    },
+    {
+      "code": "7",
+      "label": "Delning"
+    },
+    {
+      "code": "8",
+      "label": "Övertagande företag vid delning"
+    },
+    {
+      "code": "9",
+      "label": "Avregistrerad hos PRV"
+    }
+  ],
+  "id": "cfbb4ce020c02ca6756d2481375582ebae1ea889c807a2bbe05dc22ae7d924e3"
+}

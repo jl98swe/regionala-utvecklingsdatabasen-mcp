@@ -1,0 +1,32 @@
+{
+  "version": "Standard för indelning efter ägarkategori 2000",
+  "level": "Nivå 2",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "10",
+      "label": "Statligt kontrollerade enheter"
+    },
+    {
+      "code": "20",
+      "label": "Kommunalt kontrollerade enheter"
+    },
+    {
+      "code": "30",
+      "label": "Landstingskontrollerade enheter"
+    },
+    {
+      "code": "41",
+      "label": "Privat svenskkontrollerade enheter utan koncerntillhörighet"
+    },
+    {
+      "code": "42",
+      "label": "Privat svenskkontrollerade enheter med koncerntillhörighet"
+    },
+    {
+      "code": "50",
+      "label": "Utlandskontrollerade enheter"
+    }
+  ],
+  "id": "543771cd4e6e8a555ec57421606be856fde849d6c2acd9b91bcc107e0af4db30"
+}
