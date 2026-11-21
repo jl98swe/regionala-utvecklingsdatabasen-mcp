@@ -1,0 +1,110 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(4)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Första år i högskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Året för studentens första registrering i högskolestudier vid svensk högskola."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Första gången en registrering för en student rapporteras till SCB anges det året som fösta år i högskolan."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "År"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Samtliga förstagångs- och fortsättningsregistreringar från och med 1993/1994 till och med 2025/2026."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Studerande inom grundläggande högskoleutbildning registreringar från läsåret 1993/94."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Studerande vid universitet och högskolor som har förstagångs- och fortsättningsregistreringar i den grundläggande högskoleutbildningen."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1993-07-01 - 2026-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uttag ur högskolornas studieadministrativa system, framförallt Ladok-systemet som är det vanligaste dokumentationssystemet. Uttagen görs terminsvis.\r\nInformation hämtas även från RTB, UREG och KomVux-register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Studerande vid universitet och högskolor, grundläggande utbildning - registrerade enligt 1993 års studieordning"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Grundutbildning, registrerade "
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Syftet är att beskriva omfattningen och inriktningen av studier i grundläggande högskoleutbildning. \r\n\r\nRegistervarianten innehåller samtliga förstagångs- och fortsättningsregistreringar från och med 1993/94 (dvs. enligt 1993 års studieordning) och framåt. \r\n\r\nTerminsvisa registreringar per person och kurs."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Universitets- och högskoleregistret (HREG)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Universitets- och högskoleregistret "
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Universitets- och högskoleregistret är en sammanfattande benämning för den högskolestatistik över studerande och examina i grund- och forskarutbildning som regleras i SFS 1993:1153 (föregången av SFS1981:516). Registret omfattar även sökande till grundutbildningen.\r\n\r\nRegistret ska även vara en urvalsram för enkätundersökningar och kunna sambearbetas med annan statistik."
+    },
+    {
+      "name": "Tidsseriebrott - Register",
+      "value": "Den 1 juli 2007 infördes en ny utbildnings- och examensstruktur i högskolan. All högre utbildning delas in i tre nivåer: - grundnivå - avancerad nivå - forskarnivå. Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning. Samtidigt infördes ett nytt poängsystem. Den nya poängen kallas högskolepoäng (hp). Ett heltidsstudieår motsvarar 60 hp."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Inför höstterminen 2011 infördes anmälnings- och studieavgifter för inresande studenter på grundnivå och avancerad nivå som ej ingår i utbytesprogram och som inte är medborgare i EU/ESS-länderna eller Schweiz."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Från och med höstterminen 1993 ingår inte omregistreringar i populationen, jfr variant \"Grundutb, registrerade före 93\"."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Högskoleämne ersätts med högskoleämnesgrupp från och med höstterminen 2007."
+    }
+  ],
+  "id": "b3a6e03d6a74c3e2b162f1f6c4b083d85b4d50a84f9ae030617fa4c0d2d17e69"
+}
