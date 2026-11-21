@@ -52,6 +52,23 @@ class OrderTests(unittest.TestCase):
   self.assertEqual(p['tasks'],[])
   self.assertEqual(p['views'][0]['variables'][0]['status'],'unresolved_view')
   self.assertEqual(p['views'][0]['identified_register'],'Example')
+ def test_reviewed_aliases_are_limited_to_selected_order_columns(self):
+  from match_mikrometadata import build_plan
+  records=[{'databasvy':'example','variabel':c,'ar_raw':'2024','kallrad':n} for n,c in enumerate(['HumanName','Other'],1)]
+  rows=[{'Registerrubrik':'Example','Registervariantrubrik':'Example','Kolumnnamn':c,'Variabelnamn':'Synthetic example','VersionForsta':'2024','VersionSista':'2024'} for c in ['X','Other']]
+  review={'example':{'status':'reviewed','sources':[{'register':'Example','variant':'Example','columns':['HumanName'],'scope':'definition_support_only'}],'column_aliases':{'HumanName':'X'}}}
+  p=build_plan({'source_sha256':'example','records':records},{'source_updated':'example','rows':rows},review)
+  self.assertEqual(len(p['tasks']),1)
+  self.assertEqual(p['tasks'][0]['Kolumnnamn'],'X')
+  order=p['tasks'][0]['orders'][0]
+  self.assertEqual(order['variabel'],'HumanName')
+  self.assertEqual(order['method'],'reviewed_alias')
+  self.assertEqual(order['source_scope'],'definition_support_only')
+  self.assertEqual(p['views'][0]['variables'][1]['status'],'no_column_match')
+ def test_documented_version_qualifiers_do_not_create_new_order_years(self):
+  self.assertTrue(eligible('2011-2024','2024, slutlig version'))
+  self.assertFalse(eligible('2011-2024','2025, preliminär version'))
+  self.assertFalse(eligible('2011-2024','2024, okänd version'))
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'

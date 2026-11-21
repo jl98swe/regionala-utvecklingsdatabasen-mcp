@@ -91,7 +91,7 @@ def select_variable(page, item):
     expect(page.get_by_role('button', name=CSV, exact=True).nth(1)).to_be_enabled()
     expect(page.get_by_role('row').filter(has=page.get_by_role('cell', name='Variabelnamn', exact=True)).get_by_role('cell').nth(1)).to_have_text(item['Variabelnamn'])
     # Only actual displayed versions are used, never an assumed continuous year range.
-    versions = page.get_by_role('button').filter(has_text=re.compile(r'^(?:\d{4}(?:[-/].*)?|\d{1,2} (?:januari|februari|mars|april|maj|juni|juli|augusti|september|oktober|november|december) \d{4})$')).all_text_contents()
+    versions = page.get_by_role('button').filter(has_text=re.compile(r'^(?:\d{4}(?:[-/].*|, (?:slutlig|preliminär) version)?|\d{1,2} (?:januari|februari|mars|april|maj|juni|juli|augusti|september|oktober|november|december) \d{4})$')).all_text_contents()
     return [v.strip() for v in versions]
 
 

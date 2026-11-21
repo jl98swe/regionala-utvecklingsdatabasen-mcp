@@ -11,6 +11,8 @@ def group_id(register,variant):return digest([register,variant])[:20]
 def eligible(raw,label):
  if not raw:return True  # Source documentation only; does not assert order availability.
  label=label.strip()
+ qualified=re.fullmatch(r'(\d{4}), (?:slutlig|preliminär) version',label)
+ if qualified:label=qualified.group(1)
  months=['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december']
  swedish=re.fullmatch(r'(\d{1,2}) ('+'|'.join(months)+r') (\d{4})',label)
  if swedish:

@@ -44,6 +44,7 @@ def build_plan(metadata,inventory,reviewed):
    matches=[]
    if not identity(r['variabel']):
     for selection in selections:
+     if selection.get('columns') is not None and r['variabel'] not in selection['columns']:continue
      alias=review.get('column_aliases',{}).get(r['variabel'],r['variabel'])
      source_rows=src[(selection['register'],selection['variant'])]
      exact=[s for s in source_rows if s['Kolumnnamn']==alias]
@@ -53,6 +54,7 @@ def build_plan(metadata,inventory,reviewed):
       task={k:s[k] for k in ('Registerrubrik','Registervariantrubrik','Variabelnamn','Kolumnnamn','VersionForsta','VersionSista')}
       tid=digest(task)
       relation={'databasvy':view,'variabel':r['variabel'],'ar_raw':r['ar_raw'],'kallrad':r['kallrad'],'method':'reviewed_alias' if alias!=r['variabel'] else ('exact' if alias==s['Kolumnnamn'] else 'case_only')}
+      relation.update({k:selection[v] for k,v in [('source_scope','scope'),('source_note','note')] if v in selection})
       orders=tasks.setdefault(tid,dict(task,id=tid,orders=[]))['orders']
       if relation not in orders:orders.append(relation)
       matches.append({'task_id':tid,'register':selection['register'],'variant':selection['variant'],'source_column':s['Kolumnnamn'],'first_version':s['VersionForsta'],'last_version':s['VersionSista'],'method':relation['method']})
@@ -72,7 +74,7 @@ if __name__=='__main__':
  plan=build_plan(metadata,inventory,reviewed)
  atomic_save(root/'data/order-source-plan.json',plan)
  counts=collections.Counter(x['status'] for v in plan['views'] for x in v['variables'])
- lines=['# Beställningens registerkopplingar','',f"Beställningsmetadata: `{plan['metadata_sha256']}`. SCB-index uppdaterat {plan['scb_source_updated']}.",'',f"{len(plan['views'])} vyer; {counts['matched']} variabelposter kopplade; {counts['identity_not_enumerated']} identifierarposter utan uppräknad värdemängd; {counts['no_column_match']+counts['unresolved_view']} poster kvar att reda ut.",'','Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, eller med en entydig skillnad i skiftläge. Kandidatlistor är inte godkända kopplingar.','','| Beställningsvy | Kopplade/icke-identifierare | Granskade källvarianter | Status |','|---|---:|---|---|']
+ lines=['# Beställningens registerkopplingar','',f"Beställningsmetadata: `{plan['metadata_sha256']}`. SCB-index uppdaterat {plan['scb_source_updated']}.",'',f"{len(plan['views'])} vyer; {counts['matched']} variabelposter kopplade; {counts['identity_not_enumerated']} identifierarposter utan uppräknad värdemängd; {counts['no_column_match']+counts['unresolved_view']} poster kvar att reda ut.",'','Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, med en entydig skillnad i skiftläge eller genom uttryckligt granskade alias i konfigurationen. Extra källor kan begränsas till namngivna beställningskolumner. Kandidatlistor är inte godkända kopplingar.','','| Beställningsvy | Kopplade/icke-identifierare | Granskade källvarianter | Status |','|---|---:|---|---|']
  for v in plan['views']:
   variables=[x for x in v['variables'] if x['status']!='identity_not_enumerated'];matched=sum(x['status']=='matched' for x in variables)
   sources='; '.join(s['register'].strip()+' → '+s['variant'].strip() for s in v['sources']) or (v.get('identified_register','')+' (variant eller kolumnkoppling öppen)' if v.get('identified_register') else 'Öppen')
@@ -89,4 +91,4 @@ if __name__=='__main__':
   missing=[x['variabel'] for x in v['variables'] if x['status'] not in ('matched','identity_not_enumerated')]
   if missing:lines.append('- `'+v['databasvy']+'`: '+', '.join('`'+x+'`' for x in missing[:20])+(f" … ({len(missing)} totalt)" if len(missing)>20 else ''))
  (root/'docs/ORDER_VALUE_DOMAINS.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
- print(json.dumps({'views':len(plan['views']),'reviewed_views':sum(bool(v['sources']) for v in plan['views']),'tasks':len(plan['tasks']),'variables':dict(collections.Counter(x['status'] for v in plan['views'] for x in v['variables']))},ensure_ascii=False))
+ print(json.dumps({'views':len(plan['views']),'reviewed_views':sum(v['status']=='reviewed' for v in plan['views']),'tasks':len(plan['tasks']),'variables':dict(collections.Counter(x['status'] for v in plan['views'] for x in v['variables']))},ensure_ascii=False))
