@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(6)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Läsår "
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Läsåret startar under hösten ett kalenderår och avslutas under våren följande kalenderår."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Läsår = höst + vår. Läsåret betecknat som årtalet för hösten. Härledd ur variablerna termin (kalenderhalvår) och kalenderår. Koden har 6 positioner och är årtalet för läsårets hösttermin och de två sista siffrorna i årtalet för vårterminen."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Läsår"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifter om examina för doktorander inom forskarutbildning från och med 1970."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Doktorander med examina"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Utfärdade utbildningsbevis inom högskolans forskarutbildning (licentiat- och doktorsexamina)."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1970-01-01 - 2025-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om studerande på forskarnivå levereras på individnivå från högskolorna till SCB. Vilka uppgifter som får samlas in regleras genom förordning om redovisning av studier m.m. vid universitet och högskolor (SFS 1993:1153). De högskolor som är anslutna till det studieadministrativa systemet Ladok gör uttag via gemensamma uttagsprogram. Överföring från Ladok till SCB sker som filer via sftp. Handelshögskolan i Stockholm lämnar uppgifter via elektroniska blanketter i SCB:s webbapplikation SIV. Uttagen görs halvårsvis."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Doktorander inom högskoleutbildning på forskarnivå, examina"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Forskarutbildning, examina"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Syftet är att beskriva omfattning och inriktning av avlagda examina i forskarutbildning.\r\n\r\nVarianten innehåller uppgifter om forskarexamina från och med 1970."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Universitets- och högskoleregistret (HREG)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Universitets- och högskoleregistret "
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Universitets- och högskoleregistret är en sammanfattande benämning för den högskolestatistik över studerande och examina i grund- och forskarutbildning som regleras i SFS 1993:1153 (föregången av SFS1981:516). Registret omfattar även sökande till grundutbildningen.\r\n\r\nRegistret ska även vara en urvalsram för enkätundersökningar och kunna sambearbetas med annan statistik."
+    },
+    {
+      "name": "Tidsseriebrott - Register",
+      "value": "Den 1 juli 2007 infördes en ny utbildnings- och examensstruktur i högskolan. All högre utbildning delas in i tre nivåer: - grundnivå - avancerad nivå - forskarnivå. Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning. Samtidigt infördes ett nytt poängsystem. Den nya poängen kallas högskolepoäng (hp). Ett heltidsstudieår motsvarar 60 hp."
+    }
+  ],
+  "id": "005424717908a6fb298431bcfa6404270e64b5594e0c57c68375516e2cfddcb0"
+}
