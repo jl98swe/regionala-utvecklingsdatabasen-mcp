@@ -184,6 +184,64 @@
       "variant": "Företagsenheter",
       "column": "AnstS",
       "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "1999",
+      "source_task_id": "289f74af0c2e1796d460238e0bca9dedef907c8593faabe81ddb9445932f539e",
+      "id": "dd0bc6b367b125cf6aa59de34d72ab7bdf1af198f9c9702442c454d5d537a1e8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 326,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48cafb4ba6655e510bd9aad6fe6b7711c053eab837fbfb048c509cf54c7f4a8f",
+        "path": "data/variable-documentation/48cafb4ba6655e510bd9aad6fe6b7711c053eab837fbfb048c509cf54c7f4a8f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2000",
+      "source_task_id": "289f74af0c2e1796d460238e0bca9dedef907c8593faabe81ddb9445932f539e",
+      "id": "4605c7f41d6b4c42e04949212d1bcfd2384c3548888a4d1e40d87554e6af82c9",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 326,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "77abb7073c69347aecc9d190476bd40da0940cb934cbc0cf90d9115a56709f45",
+        "path": "data/variable-documentation/77abb7073c69347aecc9d190476bd40da0940cb934cbc0cf90d9115a56709f45.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
       "register_version": "2001",
       "source_task_id": "289f74af0c2e1796d460238e0bca9dedef907c8593faabe81ddb9445932f539e",
       "id": "bc2e54bb723b6176fc3046430b20a68b3f7ba96e9e67d1a2e572dbf075b1f6a2",
@@ -874,6 +932,64 @@
         "path": "data/variable-documentation/40952d7968510fc6864a902e9aa451cafba77238b2909dcb4c1f977a1bb1b577.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:02:28+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "FEStat",
+      "variable": "Verksamhetsstatus, FE",
+      "register_version": "1999",
+      "source_task_id": "fd0ddb2d6fae2e5be204f91d50f19acbaf73a17a5147cecbf29226937d3bf631",
+      "id": "272fed86a192cb784803358637fdf86672957f9e6083be8766753004b4ed5fec",
+      "domain_id": "129616ee870882d23433ebd5ad2b97a00d39bd645e6079cf9a3630b90e5809fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "FEStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 327,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "725fcb32a340d4751f53dd88d9e5f9d405263547391534798468846f24a8e558",
+        "path": "data/variable-documentation/725fcb32a340d4751f53dd88d9e5f9d405263547391534798468846f24a8e558.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "FEStat",
+      "variable": "Verksamhetsstatus, FE",
+      "register_version": "2000",
+      "source_task_id": "fd0ddb2d6fae2e5be204f91d50f19acbaf73a17a5147cecbf29226937d3bf631",
+      "id": "758321bafe6281e6c64faf1c5a0f36fb01117904fca53013391916496e2ee7e7",
+      "domain_id": "129616ee870882d23433ebd5ad2b97a00d39bd645e6079cf9a3630b90e5809fc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "FEStat",
+          "ar_raw": "1999-2024",
+          "kallrad": 327,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e078b6e72b4268f79a76359803cf08514fbf225549c9e6406c142e64453391f",
+        "path": "data/variable-documentation/8e078b6e72b4268f79a76359803cf08514fbf225549c9e6406c142e64453391f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1576,6 +1692,93 @@
       "variant": "Företagsenheter",
       "column": "NgS",
       "variable": "Näringsgren för statistiken",
+      "register_version": "1999",
+      "source_task_id": "d04feb331a24af14a83a4978cf7c1ae61dcf4a9395726be9ab37e60602f7162e",
+      "id": "a34ef5abf92393cb82d8b8df8988a5dd754b7f4b16f278d7c718b6559cada861",
+      "domain_id": "13a4c7b31c48d426146683f66b407fa5686acbcc384f9cdffaf15b09268de79c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 333,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ea4e90ecd4be204546412414554b4946f4c41ce75427b9b67cac6667790c35b",
+        "path": "data/variable-documentation/2ea4e90ecd4be204546412414554b4946f4c41ce75427b9b67cac6667790c35b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2000",
+      "source_task_id": "d04feb331a24af14a83a4978cf7c1ae61dcf4a9395726be9ab37e60602f7162e",
+      "id": "59b4aa46a9b89dfc04110680f380c080e8d6d63ee6cafce533ebdf87f7e3596c",
+      "domain_id": "13a4c7b31c48d426146683f66b407fa5686acbcc384f9cdffaf15b09268de79c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 333,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a13d18e19cbba9a01866331eb39155e5a92660adc4aec3dfa4a875099d319e3e",
+        "path": "data/variable-documentation/a13d18e19cbba9a01866331eb39155e5a92660adc4aec3dfa4a875099d319e3e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2001",
+      "source_task_id": "d04feb331a24af14a83a4978cf7c1ae61dcf4a9395726be9ab37e60602f7162e",
+      "id": "aeb8895938c120c70666bc07c3e74fbd75cb8753b7128dfc94a68fa8c7914444",
+      "domain_id": "13a4c7b31c48d426146683f66b407fa5686acbcc384f9cdffaf15b09268de79c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 333,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e2f3af3d9c48ff43374f1d606d8d99e8f4f8bc5091a6170ff11a009167ed70ba",
+        "path": "data/variable-documentation/e2f3af3d9c48ff43374f1d606d8d99e8f4f8bc5091a6170ff11a009167ed70ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
       "register_version": "2002",
       "source_task_id": "d04feb331a24af14a83a4978cf7c1ae61dcf4a9395726be9ab37e60602f7162e",
       "id": "ab1bc4401520db59ecb89adb4cedda2c7713021b5e532caef356de6c376477d0",
@@ -2237,6 +2440,64 @@
         "path": "data/variable-documentation/1c399112503994c35f9e3457d59d72172bebeb82bd89fce3d1ffa680b30808c4.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:02:28+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "NgS1",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "1999",
+      "source_task_id": "d380e96ce5c3e19232b50813c3e561aeb604a3dd1b113e1cf296662b245f798e",
+      "id": "a2468ff1bf696e8dc3dea50e61db2eadb76964c2bfd09a17936d4da12f2d9cc0",
+      "domain_id": "13a4c7b31c48d426146683f66b407fa5686acbcc384f9cdffaf15b09268de79c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "NgS1",
+          "ar_raw": "1999-2024",
+          "kallrad": 328,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2826fd76a9021ad990332b98aa1ede15fe05d775ab4c87ef9487af6250c6ab82",
+        "path": "data/variable-documentation/2826fd76a9021ad990332b98aa1ede15fe05d775ab4c87ef9487af6250c6ab82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "NgS1",
+      "variable": "Näringsgren för statistiken, huvudsaklig",
+      "register_version": "2000",
+      "source_task_id": "d380e96ce5c3e19232b50813c3e561aeb604a3dd1b113e1cf296662b245f798e",
+      "id": "f23ee66a481c9de0efc96af333ae2c29554c204eab76ca255c2fe9c0c7984425",
+      "domain_id": "13a4c7b31c48d426146683f66b407fa5686acbcc384f9cdffaf15b09268de79c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "NgS1",
+          "ar_raw": "1999-2024",
+          "kallrad": 328,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ddca6eff729aff5bb78c9bb5763efc0daebf213bcd12d5b654a8153e12512b8d",
+        "path": "data/variable-documentation/ddca6eff729aff5bb78c9bb5763efc0daebf213bcd12d5b654a8153e12512b8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2939,6 +3200,64 @@
       "variant": "Företagsenheter",
       "column": "Oms",
       "variable": "Omsättning enligt moms",
+      "register_version": "1999",
+      "source_task_id": "2bb13887bbd4532cdbfd79871a82ff2829e3d306c843d2df369640d8f59b6be6",
+      "id": "ea94c8b3f0ebd9339ea61205db3114327bf1ce5590aa6411290a43d1d71d3882",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 329,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7bf45ea18cbcfb0e1dc0920b54f5493c71267d6e3bf0f0e4bf0ad56d762fb738",
+        "path": "data/variable-documentation/7bf45ea18cbcfb0e1dc0920b54f5493c71267d6e3bf0f0e4bf0ad56d762fb738.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2000",
+      "source_task_id": "2bb13887bbd4532cdbfd79871a82ff2829e3d306c843d2df369640d8f59b6be6",
+      "id": "ceb324a8c617b837bb7b88da127652ca3675770942878db6f2882a71b4c084df",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 329,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e4a5a5dc3ca3a29ac4b55002ab4ae34f6f4ee59532e375f4607089d990da16cb",
+        "path": "data/variable-documentation/e4a5a5dc3ca3a29ac4b55002ab4ae34f6f4ee59532e375f4607089d990da16cb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
       "register_version": "2001",
       "source_task_id": "2bb13887bbd4532cdbfd79871a82ff2829e3d306c843d2df369640d8f59b6be6",
       "id": "130cf1e37b0792ed6d7781d1ad42f4b050167da1ceefaf7424686dbea3dd351f",
@@ -3635,6 +3954,93 @@
       "variant": "Företagsenheter",
       "column": "OmsAr",
       "variable": "Omsättningsår",
+      "register_version": "1999",
+      "source_task_id": "7e9a0fd10b9894815d7d1fbbd597d5c784716b6e288a5ce8524e2cb8b0cf9232",
+      "id": "35246694090bcb763a6535557818ffe11cfc514e4b0bf4bd68362820c4fddcc2",
+      "domain_id": "f11ca913be0f53d93ebcd4aba08d12de8f49adc5dda7226a48959904f6b4f981",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 330,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c63d713b31b892b8aedb46ed179a88060f72d0736b804dd0fd1f77acd32458e",
+        "path": "data/variable-documentation/9c63d713b31b892b8aedb46ed179a88060f72d0736b804dd0fd1f77acd32458e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2000",
+      "source_task_id": "7e9a0fd10b9894815d7d1fbbd597d5c784716b6e288a5ce8524e2cb8b0cf9232",
+      "id": "77eb9642b9969070aac2eb5afd36f12e7bdf28bcabed9da0036bd8ef741d608c",
+      "domain_id": "f11ca913be0f53d93ebcd4aba08d12de8f49adc5dda7226a48959904f6b4f981",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 330,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bcf854e67632774ca82ee8adda05b38d747a108c00f38dc8bdc9fd6bdcf8dacc",
+        "path": "data/variable-documentation/bcf854e67632774ca82ee8adda05b38d747a108c00f38dc8bdc9fd6bdcf8dacc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2001",
+      "source_task_id": "7e9a0fd10b9894815d7d1fbbd597d5c784716b6e288a5ce8524e2cb8b0cf9232",
+      "id": "d65c86dd282b0ad13c4d737c618e22d2fa68650683d16196b42f59459b5b80cc",
+      "domain_id": "f11ca913be0f53d93ebcd4aba08d12de8f49adc5dda7226a48959904f6b4f981",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_fe",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 330,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1bf6abab75eac219cd8c6a243ff91948584dd51d7420f4af63d0ae623f07af6c",
+        "path": "data/variable-documentation/1bf6abab75eac219cd8c6a243ff91948584dd51d7420f4af63d0ae623f07af6c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
       "register_version": "2002",
       "source_task_id": "7e9a0fd10b9894815d7d1fbbd597d5c784716b6e288a5ce8524e2cb8b0cf9232",
       "id": "f1e037e186b552e49026110d50dea25089ae281013a81628a0aa41cc84816ef0",
@@ -4296,6 +4702,93 @@
         "path": "data/variable-documentation/09ba77319efdbdcb13a4eea1e74e7034659e99f7d926f27c18a3e475a1477ae6.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:02:28+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "Rangordning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "1999",
+      "source_task_id": "d9b7b9a19248bb298b55dc04d8248b6e97862b84a989c6e492ffc05b9b79adc3",
+      "id": "b580e0dd98c9b0bfd2574cd31dbd55cfb926c5d22620f72101bde635177e8c92",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 335,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "207091b4dfdf91395bd91c683cd1c4ada3bb59f989b9e8553ff13bf21793d79c",
+        "path": "data/variable-documentation/207091b4dfdf91395bd91c683cd1c4ada3bb59f989b9e8553ff13bf21793d79c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "Rangordning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2000",
+      "source_task_id": "d9b7b9a19248bb298b55dc04d8248b6e97862b84a989c6e492ffc05b9b79adc3",
+      "id": "f6c7f65c072ba703254672cd784551eecfdc0a7661b8fe5ebbe1634b65c05cd0",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 335,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c84dba9cb32d5928ad217b4509945cf66147bfc5639abcaf9f909d8fee336bbf",
+        "path": "data/variable-documentation/c84dba9cb32d5928ad217b4509945cf66147bfc5639abcaf9f909d8fee336bbf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "Rangordning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2001",
+      "source_task_id": "d9b7b9a19248bb298b55dc04d8248b6e97862b84a989c6e492ffc05b9b79adc3",
+      "id": "0f1951e60c2262200c9ce68b20489a7de0c47e3ccf4e4d08ab77cba3dd2a3b7e",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 335,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b1bd2008d8687e610d993bb1210a404179025feaca34a00d75d525cb0ea07b5",
+        "path": "data/variable-documentation/5b1bd2008d8687e610d993bb1210a404179025feaca34a00d75d525cb0ea07b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -5143,6 +5636,93 @@
       "variant": "Företagsenheter",
       "column": "TidOmsPct",
       "variable": "Procent för tid eller omsättning",
+      "register_version": "1999",
+      "source_task_id": "52ad12a13cc36439b8dfb9f4919ef5b873222e4b8d06d1c65d9b2322be206adc",
+      "id": "f22040c469b504e4e48e37c7e4b6830bd048c66b385d183fad4cdeab9e399662",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 336,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "50bcf8a075a1ed7dac85d496b30ad9db13041b80501f3abf2ffc810d323073a7",
+        "path": "data/variable-documentation/50bcf8a075a1ed7dac85d496b30ad9db13041b80501f3abf2ffc810d323073a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2000",
+      "source_task_id": "52ad12a13cc36439b8dfb9f4919ef5b873222e4b8d06d1c65d9b2322be206adc",
+      "id": "0d0aaaea7c2f9a0773246760ee20a42d952e0e967cd929ed219dde8a4c64e10d",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 336,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1a7e07ae9844873814e28829c6f6eb2930dade17f237596a6b7a64bbf2791777",
+        "path": "data/variable-documentation/1a7e07ae9844873814e28829c6f6eb2930dade17f237596a6b7a64bbf2791777.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2001",
+      "source_task_id": "52ad12a13cc36439b8dfb9f4919ef5b873222e4b8d06d1c65d9b2322be206adc",
+      "id": "af6badae9ef613e0fb20157bad9c7cbaeb2b8c42f90713960dcc739171cff060",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:50+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_fe_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 336,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "03a2d786ad51d62edb6342ed0c08d86c3c2ba169487606723eedc00f2de55b75",
+        "path": "data/variable-documentation/03a2d786ad51d62edb6342ed0c08d86c3c2ba169487606723eedc00f2de55b75.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:50+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Företagsenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
       "register_version": "2002",
       "source_task_id": "52ad12a13cc36439b8dfb9f4919ef5b873222e4b8d06d1c65d9b2322be206adc",
       "id": "b1dd5663349d54ffb2e2d5b05ae0111a395d7824db6cb141aef4d0fc8e592249",
@@ -5905,16 +6485,16 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
-    "passes": 1,
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "2ce3a45c97bca009e49232716b7c8fbf82bd5ff3350fc78669b73cb914c208b6",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T06:02:28+00:00",
+    "retrieved_at": "2026-11-21T10:07:50+00:00",
     "task_count": 10,
     "expected_bindings": 220,
-    "documented_bindings": 200,
+    "documented_bindings": 220,
     "errors": []
   }
 }
