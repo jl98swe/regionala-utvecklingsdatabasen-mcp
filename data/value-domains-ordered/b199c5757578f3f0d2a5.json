@@ -10,6 +10,151 @@
       "variant": "Juridiska enheter",
       "column": "AEAnt",
       "variable": "Antal arbetsställen (AEAnt)",
+      "register_version": "1999",
+      "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
+      "id": "55f1801629a68245fb042b15ae45ceda1270503c11fda4790061b962ae4281db",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "AeAnt",
+          "ar_raw": "1999-2024",
+          "kallrad": 340,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c28aacc52d262705dd7464514ff5174842eafc280437b820afddc22d00211691",
+        "path": "data/variable-documentation/c28aacc52d262705dd7464514ff5174842eafc280437b820afddc22d00211691.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AEAnt",
+      "variable": "Antal arbetsställen (AEAnt)",
+      "register_version": "2000",
+      "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
+      "id": "d65c81773d721df33c833f5a00d375728832e8d75c5209abc02ce12798e43482",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "AeAnt",
+          "ar_raw": "1999-2024",
+          "kallrad": 340,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb6a04d9d0f9d9de16255bd439d4277fdb498d8ba24f7bf04870ff59355727c9",
+        "path": "data/variable-documentation/fb6a04d9d0f9d9de16255bd439d4277fdb498d8ba24f7bf04870ff59355727c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AEAnt",
+      "variable": "Antal arbetsställen (AEAnt)",
+      "register_version": "2001",
+      "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
+      "id": "d72c9684910a2c588e017b30a7830f8aa325975b3a5b5d568bc6774b80699c79",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "AeAnt",
+          "ar_raw": "1999-2024",
+          "kallrad": 340,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5884a1db334e32d6e37488f891d9da4f45b8edaea8c865c263be091b8d8b2485",
+        "path": "data/variable-documentation/5884a1db334e32d6e37488f891d9da4f45b8edaea8c865c263be091b8d8b2485.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AEAnt",
+      "variable": "Antal arbetsställen (AEAnt)",
+      "register_version": "2002",
+      "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
+      "id": "2c7a80721502cc78ce9d5ef2d0b284e79dc5c318c1092d6659b7f60ec56b6db2",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "AeAnt",
+          "ar_raw": "1999-2024",
+          "kallrad": 340,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97d7ffd79faba1fbf94f644503ace211c5b088e8ff840d549377d1aa41763933",
+        "path": "data/variable-documentation/97d7ffd79faba1fbf94f644503ace211c5b088e8ff840d549377d1aa41763933.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AEAnt",
+      "variable": "Antal arbetsställen (AEAnt)",
+      "register_version": "2003",
+      "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
+      "id": "a670460c6fae0e9d1ed429b4b77acb8b6df9d8b3642aecc412b8fa28d9c85340",
+      "domain_id": "b08ac3616ff4c26deb9206ab9202f156b369c97c18b6511515f9c0ac3f95aa56",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "AeAnt",
+          "ar_raw": "1999-2024",
+          "kallrad": 340,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8d587230cabcc78728aa20f28fd2e4436f31115335f45871e4de29d867d0b03",
+        "path": "data/variable-documentation/b8d587230cabcc78728aa20f28fd2e4436f31115335f45871e4de29d867d0b03.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AEAnt",
+      "variable": "Antal arbetsställen (AEAnt)",
       "register_version": "2004",
       "source_task_id": "6b79ec5d1e3fa6769158d6a5436614c7ce418767136c1e24b6890b8e9f8067e7",
       "id": "ea1dc6f2039120290daa10e6e50420d1c3bb50715d903073950938d50950bb02",
@@ -793,6 +938,151 @@
       "variant": "Juridiska enheter",
       "column": "AgKat",
       "variable": "Ägarkontroll",
+      "register_version": "1999",
+      "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
+      "id": "79b68da3071812aed71091c9083e26eeaa95dfb9a8d42d1f10915e906f267a68",
+      "domain_id": "ccafcc7edf3e780c86046e9036c6d5d013d36bfb2df93039e79593dfa96a1fe4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Agkat",
+          "ar_raw": "1999-2024",
+          "kallrad": 341,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f289d3f720d425e3b5c553f5f3591455ccf3021058c6b92309815908b53a15f6",
+        "path": "data/variable-documentation/f289d3f720d425e3b5c553f5f3591455ccf3021058c6b92309815908b53a15f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AgKat",
+      "variable": "Ägarkontroll",
+      "register_version": "2000",
+      "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
+      "id": "e664e1cf67ac9853b845cfc66febf09802b33b188410c2dcdb92946415ec62b1",
+      "domain_id": "ccafcc7edf3e780c86046e9036c6d5d013d36bfb2df93039e79593dfa96a1fe4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Agkat",
+          "ar_raw": "1999-2024",
+          "kallrad": 341,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "77e217efd2fd61d77068986939621dffac715ef73a2846c907e5bfafa9bc2bc3",
+        "path": "data/variable-documentation/77e217efd2fd61d77068986939621dffac715ef73a2846c907e5bfafa9bc2bc3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AgKat",
+      "variable": "Ägarkontroll",
+      "register_version": "2001",
+      "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
+      "id": "09aeb0775b74be5d0c89500a903ae16dd4a8c4eaa3decf9fae0957c039d71152",
+      "domain_id": "ccafcc7edf3e780c86046e9036c6d5d013d36bfb2df93039e79593dfa96a1fe4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Agkat",
+          "ar_raw": "1999-2024",
+          "kallrad": 341,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b765b81d484c98241221375852eaa89775a7312d54f55b2bd3ac9884389cc56e",
+        "path": "data/variable-documentation/b765b81d484c98241221375852eaa89775a7312d54f55b2bd3ac9884389cc56e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AgKat",
+      "variable": "Ägarkontroll",
+      "register_version": "2002",
+      "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
+      "id": "161d96bb8b0ebe2bb0c9db511f4eae4e75ca52feea616e0caf1d5f3d521bdf05",
+      "domain_id": "543771cd4e6e8a555ec57421606be856fde849d6c2acd9b91bcc107e0af4db30",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Agkat",
+          "ar_raw": "1999-2024",
+          "kallrad": 341,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2537375e291f64c667350b92a3556e1ea282869dd74fddad41cfcf8d9bd8e393",
+        "path": "data/variable-documentation/2537375e291f64c667350b92a3556e1ea282869dd74fddad41cfcf8d9bd8e393.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AgKat",
+      "variable": "Ägarkontroll",
+      "register_version": "2003",
+      "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
+      "id": "fbe4ae9b59e2315f27d894cb64c4090fe2b4c49dae0d434917b1d4bbe0b12d0c",
+      "domain_id": "543771cd4e6e8a555ec57421606be856fde849d6c2acd9b91bcc107e0af4db30",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Agkat",
+          "ar_raw": "1999-2024",
+          "kallrad": 341,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a28990092b9365671649c59eb47e20a66875e0f0fd945cf87161c82d6b3af8eb",
+        "path": "data/variable-documentation/a28990092b9365671649c59eb47e20a66875e0f0fd945cf87161c82d6b3af8eb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "AgKat",
+      "variable": "Ägarkontroll",
       "register_version": "2004",
       "source_task_id": "5a836068de486fbec4df296890af53d75189619f784f12bafcc30ccef5780dbe",
       "id": "e1807a9f781e5e28bf93786fac32a23af50475e82bb9dc6a58fe894a0ad34914",
@@ -1396,6 +1686,151 @@
         "path": "data/variable-documentation/ff4fd0add3a7bb082ae16c9d89f2d0af4def5113ac245608bd2587e70a85a728.json"
       },
       "documentation_retrieved_at": "2026-11-21T09:52:42+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "1999",
+      "source_task_id": "be75fe5bc0c55f69693c4681fce9293e01ded081b633d4f30e54ad5ee1f874a3",
+      "id": "f4c75f8e999de1e69ba06aee1ed71dfced1b57d29825aa43785e24a1af6d6e62",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 342,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "20fa468b0bfee1368c849663420859bcf1c5dcdb87e407f31a0c54b6c3a4711b",
+        "path": "data/variable-documentation/20fa468b0bfee1368c849663420859bcf1c5dcdb87e407f31a0c54b6c3a4711b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2000",
+      "source_task_id": "be75fe5bc0c55f69693c4681fce9293e01ded081b633d4f30e54ad5ee1f874a3",
+      "id": "b101c965be6dd11017eb8f71cf42534fbfa2eb4168d6558e10e274a55d89d774",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 342,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "936ee6e511a45e02855572afa4dc23dcc276c3de68dd4fadfaf6495e49881db4",
+        "path": "data/variable-documentation/936ee6e511a45e02855572afa4dc23dcc276c3de68dd4fadfaf6495e49881db4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2001",
+      "source_task_id": "be75fe5bc0c55f69693c4681fce9293e01ded081b633d4f30e54ad5ee1f874a3",
+      "id": "9908ad1106d2a80fee577d967cefda19d68241d66db93f2cf0c3df3bfd972688",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 342,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "43c230ab85889549387ca1c90a11b56f501d464c02e078bacacf01cb8c802988",
+        "path": "data/variable-documentation/43c230ab85889549387ca1c90a11b56f501d464c02e078bacacf01cb8c802988.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2002",
+      "source_task_id": "be75fe5bc0c55f69693c4681fce9293e01ded081b633d4f30e54ad5ee1f874a3",
+      "id": "53d55e93061019ed48c18fa6a4106ad6e93b6ccf2cf0d84f5bea23f94adb3bd8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 342,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "acb2b1eb201aaa08a0957d23086cf42227eaca867a7de42058ef3674763f88a2",
+        "path": "data/variable-documentation/acb2b1eb201aaa08a0957d23086cf42227eaca867a7de42058ef3674763f88a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2003",
+      "source_task_id": "be75fe5bc0c55f69693c4681fce9293e01ded081b633d4f30e54ad5ee1f874a3",
+      "id": "b3c24189cb97cce227bf3c16594cd4681a0b5dd4d754b548db5367f361cda9cf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 342,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0ef2283fb3c2482c99f369af883e615d370fca15dd45c45811b57642e3ea5b0",
+        "path": "data/variable-documentation/e0ef2283fb3c2482c99f369af883e615d370fca15dd45c45811b57642e3ea5b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -4708,6 +5143,180 @@
       "variant": "Juridiska enheter",
       "column": "JurForm",
       "variable": "Juridisk form",
+      "register_version": "1999",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "16c95e949fd847dd6c7efa0f290ece7ad245daa7c57e1f3edef005960b26a0ee",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d3b05462dd7b614d48e60cf786ad12d81d11b73aee4967f27a80115a7ef3f2cb",
+        "path": "data/variable-documentation/d3b05462dd7b614d48e60cf786ad12d81d11b73aee4967f27a80115a7ef3f2cb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
+      "register_version": "2000",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "17b4c55f3b78b6ed6733b6ca8e8528d78e2a949b5b3e702928909a9b964319fa",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "63e2807912ef4891a4559b06ca7c0061c7c362efac474a72ccd00a7ac970ccfa",
+        "path": "data/variable-documentation/63e2807912ef4891a4559b06ca7c0061c7c362efac474a72ccd00a7ac970ccfa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
+      "register_version": "2001",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "31d05c10efd6a51299d72314534afcc3b656f322e0d584e438a0686f96f956ff",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "11c4ae74c64e60fa67251ae8bd0994d3e33ab03dfb4b87db898cad03b6fd2bc4",
+        "path": "data/variable-documentation/11c4ae74c64e60fa67251ae8bd0994d3e33ab03dfb4b87db898cad03b6fd2bc4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
+      "register_version": "2002",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "7495618b09e71b2e11cb975d6ba3d4e8c4ca0f810bfc2e4ad55abfcec7d0f11d",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5cdfc07ba43ec911ec02ecc6e59484825813e5b7b09e3f1690ad84c6a0fc38d4",
+        "path": "data/variable-documentation/5cdfc07ba43ec911ec02ecc6e59484825813e5b7b09e3f1690ad84c6a0fc38d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
+      "register_version": "2003",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "c54845d084abe64c3c6ae874abd84ba66f6331c9f55d022f6599d6d575dc3ce2",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fc5e0983b85fbd448fd8e887ceaee8884fef41c18768bdded0262cca306e9322",
+        "path": "data/variable-documentation/fc5e0983b85fbd448fd8e887ceaee8884fef41c18768bdded0262cca306e9322.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
+      "register_version": "2004",
+      "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
+      "id": "af77f293466de0b1c753e6599ade82537e4d2415ccf3c892ddc8f87d818d6c38",
+      "domain_id": "8f00ea69ae7f4cc5e274a6b705070d9cf792259ddf633e5b302bc8efca7b2b2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "JurForm",
+          "ar_raw": "1999-2024",
+          "kallrad": 351,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c7c6de4e80d3b1e06649c63a6500bb6d39f21c6388fd6ae02741b36ad0165a8",
+        "path": "data/variable-documentation/9c7c6de4e80d3b1e06649c63a6500bb6d39f21c6388fd6ae02741b36ad0165a8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "JurForm",
+      "variable": "Juridisk form",
       "register_version": "2005",
       "source_task_id": "123e6e058091e99acdd95c541a66216e4127f808cb84e00da43e96df3f79a4ed",
       "id": "97e2050a77c8967d4379ae2d30ed97414ac4b9ed79ce40a09a7401c527f87764",
@@ -6448,6 +7057,272 @@
       "variant": "Juridiska enheter",
       "column": "Ng",
       "variable": "Näringsgren",
+      "register_version": "1999",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "7f960aae8cdb75b169b3a881ea7483406d683e845aadcb9e315e26299c50d327",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1b1edd61e63d19db3b2071edc358c10d819f5942b38cc512344d8795a68e2b6a",
+        "path": "data/variable-documentation/1b1edd61e63d19db3b2071edc358c10d819f5942b38cc512344d8795a68e2b6a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2000",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "22a83d89cdf77d796ddb6c9c67c6368e0c50002b4c006f709a5317f95de09075",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b13a0afec945810d21584f3d6db92f338581ba21b5e616d014f65a9981b88592",
+        "path": "data/variable-documentation/b13a0afec945810d21584f3d6db92f338581ba21b5e616d014f65a9981b88592.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2001",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "054d376ce52419f0d5fbd717c55415944d7661fce624c75ab143b129a331fd91",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "07a3ab4c9a6b630a422114206a3a18bf85830a843a2e0674239424ac82ee4327",
+        "path": "data/variable-documentation/07a3ab4c9a6b630a422114206a3a18bf85830a843a2e0674239424ac82ee4327.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2002",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "b72add2c29a2fc9f7fc7e8dedbad9d8c3ccacb19a2fb722185732069eba6a2d7",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "45c0c05dbd06f51a00eb9fe649d0d7d9138a9d23a97e7b0e21c77fc055fdcc9d",
+        "path": "data/variable-documentation/45c0c05dbd06f51a00eb9fe649d0d7d9138a9d23a97e7b0e21c77fc055fdcc9d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2003",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "09cca1e4adacd82c62693565c7f5af2d58b2cab24ff38ca9ee2d1cb5cc99db82",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c2223d869700f3abe3f02e24ec252983a26ad95495de408dc8d8b9cf48ab4e74",
+        "path": "data/variable-documentation/c2223d869700f3abe3f02e24ec252983a26ad95495de408dc8d8b9cf48ab4e74.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2004",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "d8019fec0d2f0de7796acb3a88b94c557d5504cc1d04518c160b17b7935f95df",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d82733b7e0ff3a9d66ef35bf78c92466b8743c0feaeb9d32ca70fd9b4e14fe52",
+        "path": "data/variable-documentation/d82733b7e0ff3a9d66ef35bf78c92466b8743c0feaeb9d32ca70fd9b4e14fe52.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2005",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "f8f7b02f708d0bc671bdbf3aeb77275d6dd9b31d9b0362db6a06bdea8208812f",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3765f2178ad0c034799797d986a12ef726a36605313bf1383ab4e8f41cc21347",
+        "path": "data/variable-documentation/3765f2178ad0c034799797d986a12ef726a36605313bf1383ab4e8f41cc21347.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2006",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "d39ff9837899b49a76af4ca6e5dbef91538ce715e94ffacafd352078d2c968a7",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "59259551f1138f36a9d784d1bdf739bb85257a412bdc10249169170b10adfbde",
+        "path": "data/variable-documentation/59259551f1138f36a9d784d1bdf739bb85257a412bdc10249169170b10adfbde.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2007",
+      "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
+      "id": "11d968147260edefa59e7f8d6ce1e87e52acb0d3f4d1054b71a5095d24e99f10",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 367,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f76ad59d709a3e35fd94e9c5c73371eba338420625529bad27a357432512183e",
+        "path": "data/variable-documentation/f76ad59d709a3e35fd94e9c5c73371eba338420625529bad27a357432512183e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
       "register_version": "2008",
       "source_task_id": "eb31542af2216e7d2e0c2d1575101e1fffd77947fe96db6dc412aec4c93930a3",
       "id": "c0fe27d442166c630d8413179df4b33f489cb7c62dd210c1bf00834070d38664",
@@ -6935,6 +7810,272 @@
         "path": "data/variable-documentation/b2070de031fcac913ac208b59fb648b90e345394e9635e7a52e122c204e5816c.json"
       },
       "documentation_retrieved_at": "2026-11-21T09:52:42+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "1999",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "59200b5c06cdb577d1a996cd7dcbbe2682ebeba84e705066fa1b44a984224de9",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e672dc1326a3fbc4c8d011b91c9a6afb06b18364163b8fa88faf392dd6722c80",
+        "path": "data/variable-documentation/e672dc1326a3fbc4c8d011b91c9a6afb06b18364163b8fa88faf392dd6722c80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2000",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "1806daac112f0ff4a21e0caa15b6ad3b5da40f3c8503f048455ef6404bd53d18",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ba8fb2ae23ce4cb5ccf48495209efc6c6c73639940879e3516c3fb7672becd5f",
+        "path": "data/variable-documentation/ba8fb2ae23ce4cb5ccf48495209efc6c6c73639940879e3516c3fb7672becd5f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2001",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "05bf1bb2f1254ab0615aae3787866167c7d701d5cbc990f771ebe53986070df9",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ace8155a87a25be358a9bfb48cce27349ec51a58e141f3a603bc200ca2d41e1",
+        "path": "data/variable-documentation/2ace8155a87a25be358a9bfb48cce27349ec51a58e141f3a603bc200ca2d41e1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2002",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "35e263bbc039608d726aa9e580d3ee0602c3517f258e08f0cfb4b65774d13202",
+      "domain_id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40ca3121a72c783891fdaa743a727efe25da113450c74f3ad8319d9d15ce3afe",
+        "path": "data/variable-documentation/40ca3121a72c783891fdaa743a727efe25da113450c74f3ad8319d9d15ce3afe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2003",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "fb2d1dacf41ff5ede5e6a3e325bfd5871e309d2442ad830b8b4389cd833e3d06",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "49393f637d7a3aa19ab5de30773911b1577b42577e6016e11f103bba367d4e14",
+        "path": "data/variable-documentation/49393f637d7a3aa19ab5de30773911b1577b42577e6016e11f103bba367d4e14.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2004",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "ad909d42d402ed501980f69d5e17d3e966f0724a92a5d9c33b80d3b2ce9755f9",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "36a69eda12d32d920f071597fa8ad4b8de12fcd8f898a9a53594e44500f30ec2",
+        "path": "data/variable-documentation/36a69eda12d32d920f071597fa8ad4b8de12fcd8f898a9a53594e44500f30ec2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2005",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "fd12e29e99681f070986e87b4fddf32ffdbd1f8cd4a2ba8810d336552a8c368e",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "73097727012e503a60b1ec13f778c1ed0af4344262fa839b3e01cccf6c0a5e5c",
+        "path": "data/variable-documentation/73097727012e503a60b1ec13f778c1ed0af4344262fa839b3e01cccf6c0a5e5c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2006",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "036da5fe119f0c6570442ec69e90c65e80e18b56d131c7300704dd35e558a72a",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "62fb6c6c466994a97ab29bba22258455574d66442cadbcfde660642c5f34fb1e",
+        "path": "data/variable-documentation/62fb6c6c466994a97ab29bba22258455574d66442cadbcfde660642c5f34fb1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2007",
+      "source_task_id": "abf4179649ad55a80847735ffea639a814fa96e60161e67b2b39131f027be7bb",
+      "id": "50a805385351cb8b4bd7c102bde845735d31d98880f73d84dde24f075afdba99",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 355,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6815092bac55538edfe0a10e2ad372fc617fdb0d9ff2b35aec6974fbb429d898",
+        "path": "data/variable-documentation/6815092bac55538edfe0a10e2ad372fc617fdb0d9ff2b35aec6974fbb429d898.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -7608,6 +8749,180 @@
       "variant": "Juridiska enheter",
       "column": "Oms",
       "variable": "Omsättning enligt moms",
+      "register_version": "1999",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "ee88d4018560efee4ebe467c9ba540437196b54e5efdb647e74a0f07775b3447",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f44efd84be0d09274a9075402a45c2433a45924ad8e95363f1d2f71d3608160f",
+        "path": "data/variable-documentation/f44efd84be0d09274a9075402a45c2433a45924ad8e95363f1d2f71d3608160f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2000",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "e97eb003b61b4d8c08ba2b7de6e824bb5daeb399dce4048bb2dd68967ea5f7b0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d612b3e6a9c1131a72d1df593cc1d26be0b11ff8ae1618940689399fe1474dca",
+        "path": "data/variable-documentation/d612b3e6a9c1131a72d1df593cc1d26be0b11ff8ae1618940689399fe1474dca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2001",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "fabca6631b660595432ef0ab308b6701a6579cf2ee3ee72fe63cd084d04891c9",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ec6bed5338ff8bf941633498cbcbf057676a11bb2d82db6a1fafc525ab1233dc",
+        "path": "data/variable-documentation/ec6bed5338ff8bf941633498cbcbf057676a11bb2d82db6a1fafc525ab1233dc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2002",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "b4711bb1345ca94c0beb930a8aa5a21b64e3a935aa7ed7df835d0c0b1617d783",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4e0b56b565f670e43a086d380d7bca772822327b37b21e16ca729e84a80161ad",
+        "path": "data/variable-documentation/4e0b56b565f670e43a086d380d7bca772822327b37b21e16ca729e84a80161ad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2003",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "6e3725b497a8f930776bb9fe353cdb8a3098ba05245eedf6ec46db0b4185b8ac",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "85c62dc6063a94018abdefac7f9fb398b85f1d23f0aad43dd9c74c50cec96225",
+        "path": "data/variable-documentation/85c62dc6063a94018abdefac7f9fb398b85f1d23f0aad43dd9c74c50cec96225.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
+      "register_version": "2004",
+      "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
+      "id": "85367b3f0dedd8ed848e00df8e735a7ebe88c4d86ad2fc78c4b45cc3a904e1ea",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Oms",
+          "ar_raw": "1999-2024",
+          "kallrad": 357,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed758a385659a42b9cdc02bef47f3d56c6938f81f90d7dffe5dbd60123727da6",
+        "path": "data/variable-documentation/ed758a385659a42b9cdc02bef47f3d56c6938f81f90d7dffe5dbd60123727da6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Oms",
+      "variable": "Omsättning enligt moms",
       "register_version": "2005",
       "source_task_id": "8d3e17226a571b82c0bde69c93df24f68e0a428b7a8b0b12a0e0632e0fc66a26",
       "id": "8fd745aedb0400bd4a73af98110fd4bdfabf05216b9d8b01c592ad2673cebced",
@@ -8182,6 +9497,180 @@
         "path": "data/variable-documentation/80441b829c7e5c5700b61f0894b3536e71bf15dfd41f131ae9882816d44444d7.json"
       },
       "documentation_retrieved_at": "2026-11-21T09:52:42+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "1999",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "7eb89a6fcd69e81a8b1c118f808003719ca8558c0d776eb3822c1d4cb82b050c",
+      "domain_id": "30958b93146e2b80329fed522ab77d6d588e828f29baea045e0be67248177f34",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4d675c302a7bf8787679d4845e032c01937fc42ea71a1d90764c8d0904a4ef7",
+        "path": "data/variable-documentation/a4d675c302a7bf8787679d4845e032c01937fc42ea71a1d90764c8d0904a4ef7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2000",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "accc9669abce6cab34f5d838496a6ff77c4c78f871759c4efa02353fcde613c0",
+      "domain_id": "30958b93146e2b80329fed522ab77d6d588e828f29baea045e0be67248177f34",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c418931377de663f7ecae3b4f0a574523f1581b1d3f3b5c88848ccb081ca30fc",
+        "path": "data/variable-documentation/c418931377de663f7ecae3b4f0a574523f1581b1d3f3b5c88848ccb081ca30fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2001",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "6a14c9b773587bbd5c9f8fe13b077592942be9b19f12f62bf0b40c8a32eb5473",
+      "domain_id": "30958b93146e2b80329fed522ab77d6d588e828f29baea045e0be67248177f34",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dfd726460455f27a4f6d9f0b5b87d01a175fa84b1f98ef4886dc6d16a461d373",
+        "path": "data/variable-documentation/dfd726460455f27a4f6d9f0b5b87d01a175fa84b1f98ef4886dc6d16a461d373.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2002",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "d44ab66eaf8fd6ea6a9c9e54c3285cc5b0935bc6cbe4a0e69b1a796c6be8cc1f",
+      "domain_id": "522ae7a135d9c8fb9b6436ba407036b7ee5ca2833b442b16ef0b34d5fcc81a91",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "421c3aac212a48aafb2ce806b8f299d56e656ee293e918ed687e52fd8f90372a",
+        "path": "data/variable-documentation/421c3aac212a48aafb2ce806b8f299d56e656ee293e918ed687e52fd8f90372a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2003",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "e1a63f428ad764014fd29fcdca31a6de1d42592d0c8c6ef64dad23a7cf3d4045",
+      "domain_id": "522ae7a135d9c8fb9b6436ba407036b7ee5ca2833b442b16ef0b34d5fcc81a91",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d18fc400e15e6a48234f02b4648eba78759ca7a715784ecdb6f8fa8893693775",
+        "path": "data/variable-documentation/d18fc400e15e6a48234f02b4648eba78759ca7a715784ecdb6f8fa8893693775.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "OmsAr",
+      "variable": "Omsättningsår",
+      "register_version": "2004",
+      "source_task_id": "db8a2aff9a015fedac81d1d5c47aa69ebb21f99864a5c9405be30a25fa8dce27",
+      "id": "4abfc75a6ed7ef00f507cca829db3cd86ccbd8be4f23ed5b712031886096d2a6",
+      "domain_id": "522ae7a135d9c8fb9b6436ba407036b7ee5ca2833b442b16ef0b34d5fcc81a91",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "OmsAr",
+          "ar_raw": "1999-2024",
+          "kallrad": 358,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4ce28f48147821c7a4b9b506f031c77bbf816b3df26d6f164d00a16594b03b05",
+        "path": "data/variable-documentation/4ce28f48147821c7a4b9b506f031c77bbf816b3df26d6f164d00a16594b03b05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -9522,6 +11011,180 @@
       "variant": "Juridiska enheter",
       "column": "RangOrdning",
       "variable": "Rangordning av näringsgrenar",
+      "register_version": "1999",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "b5e7b53fadfe401bdae904d001f35015fbd5fe8b7de8813e072e1f8c4ae859bf",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "18ce546e976b1163d32a727cd6f3570cbbf30418698350033c8dc9bf1f2bd87e",
+        "path": "data/variable-documentation/18ce546e976b1163d32a727cd6f3570cbbf30418698350033c8dc9bf1f2bd87e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2000",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "ba2f54b2e70ace839fcf0ecd8e389813af98b610c3fd44aab71de0cc98053b17",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e1386e863d88c977822d22045bfdeb238b1518b5f4af055f8c0005e0731cdf5",
+        "path": "data/variable-documentation/8e1386e863d88c977822d22045bfdeb238b1518b5f4af055f8c0005e0731cdf5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2001",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "fac5bb863b2f4afd4c29f66cf6c23640a18d04d4c4a35575975826171624dd16",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "38916e92546ce2b7dc8d56a16ded90908d68a8b06911ddcddb4b36b0ad5ab5d2",
+        "path": "data/variable-documentation/38916e92546ce2b7dc8d56a16ded90908d68a8b06911ddcddb4b36b0ad5ab5d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2002",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "d0ba9471c1eca9375bed7fcc1446414f95a7b94f8a3aa9afa3ff6d2f21fc2458",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4ab9778cc9639e914e128800f1148464919b8228e1538af06c7a12344192799d",
+        "path": "data/variable-documentation/4ab9778cc9639e914e128800f1148464919b8228e1538af06c7a12344192799d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2003",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "5ee6350b9fbe65c8a4cd07e49e063ebaf21d930dd90c29efe9e2fea2a2de2b19",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d15bbc746b8c91e362ea6d093bc64dc7e828e1ebb2cad88cc0a365c5a377ece",
+        "path": "data/variable-documentation/7d15bbc746b8c91e362ea6d093bc64dc7e828e1ebb2cad88cc0a365c5a377ece.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2004",
+      "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
+      "id": "2d56d0e74d17624398f4b861fc63f7d68d75c4eaace1303a7f6c41d2b121b857",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 369,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6dcf61032d8280c982ca172b92e2d630d96ee48a787b87c934334fb891cb0c92",
+        "path": "data/variable-documentation/6dcf61032d8280c982ca172b92e2d630d96ee48a787b87c934334fb891cb0c92.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
       "register_version": "2005",
       "source_task_id": "453891869eddad503ebd62ab8d6541c241f8d1aab2a94c2f94e73f747e2cf8fa",
       "id": "aa77154c679fdc492c5fb259a61ffb5ce45b38da593019be8f67a83e354a2535",
@@ -10450,6 +12113,180 @@
       "variant": "Juridiska enheter",
       "column": "Sektor",
       "variable": "Sektortillhörighet",
+      "register_version": "1999",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "e026b797d92036378bb561d434eaf64938bbb907c461ba07fcee44a688f35141",
+      "domain_id": "134bb33fa1645e94f84f7368db737df3ebb7e324f07835d6de08207d0217c79e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "81709e64c50c443f1a34a2a0ddfccff2979982a0872bafcc78ebcdaf9410b2ac",
+        "path": "data/variable-documentation/81709e64c50c443f1a34a2a0ddfccff2979982a0872bafcc78ebcdaf9410b2ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
+      "register_version": "2000",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "e301e4b0e3b1c97f527f155a3a75be40ad67ee272dc1a4a9dc11a0fa9ea3b697",
+      "domain_id": "fe780eb21aaad63c18db77c539359330bb94efecd3f1b937e1f93500da58e17e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "919f27a8b457fd82350179f898ee9844dbc1ff0acaf6541b5fee1d0efc9b47f7",
+        "path": "data/variable-documentation/919f27a8b457fd82350179f898ee9844dbc1ff0acaf6541b5fee1d0efc9b47f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
+      "register_version": "2001",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "09eda9f698706e6bd8a8470bbc10062b3b7c70ad7679fb3cbed5dcb868bf2b3a",
+      "domain_id": "fe780eb21aaad63c18db77c539359330bb94efecd3f1b937e1f93500da58e17e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "601de89f9d11b31079361576d7c9299692e6fb0b57a2c9c5c4879a55bee9fb95",
+        "path": "data/variable-documentation/601de89f9d11b31079361576d7c9299692e6fb0b57a2c9c5c4879a55bee9fb95.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
+      "register_version": "2002",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "5695986f170f941ed596d4f548ae5c0e8ce6cec5bc6cdf3be0a9e0d9d4b1628b",
+      "domain_id": "fe780eb21aaad63c18db77c539359330bb94efecd3f1b937e1f93500da58e17e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee2d6c16a9ad92961f336bb1aa30ff80d8ff9e1933a2cd6d136d32067195f4a5",
+        "path": "data/variable-documentation/ee2d6c16a9ad92961f336bb1aa30ff80d8ff9e1933a2cd6d136d32067195f4a5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
+      "register_version": "2003",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "ef175add4916bc6280859a9dca41cf7c9916a2977c96f25133ab6696d4d95f0f",
+      "domain_id": "fe780eb21aaad63c18db77c539359330bb94efecd3f1b937e1f93500da58e17e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6d4aefe019b683f36ff6616ccf44287e76c4dc8a50f7d1d949746022317dc3df",
+        "path": "data/variable-documentation/6d4aefe019b683f36ff6616ccf44287e76c4dc8a50f7d1d949746022317dc3df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
+      "register_version": "2004",
+      "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
+      "id": "78be5cf357f8f2bf9e793b4ce8bfb408d450a180098ee871437b442d8483e613",
+      "domain_id": "fe780eb21aaad63c18db77c539359330bb94efecd3f1b937e1f93500da58e17e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "Sektor",
+          "ar_raw": "1999-2024",
+          "kallrad": 364,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c85721104f1d73a7b2100c37517099a7fa3dc3a2999d18a9cbc5a59e3215ee7c",
+        "path": "data/variable-documentation/c85721104f1d73a7b2100c37517099a7fa3dc3a2999d18a9cbc5a59e3215ee7c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "Sektor",
+      "variable": "Sektortillhörighet",
       "register_version": "2005",
       "source_task_id": "6e3f922e8164af1ff4bd2aa95d33642093d71ebe9dd02ee52d4bfc66c3e87c20",
       "id": "59fc1736861f467fb65e430815a2a83a31a739fb9c1b26f933ef964bc3118713",
@@ -11024,6 +12861,180 @@
         "path": "data/variable-documentation/63a83c749a584916b94a0b86d0ee46f22693b0f7cc8fc1a6cfc69b142ae832d2.json"
       },
       "documentation_retrieved_at": "2026-11-21T09:52:42+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "1999",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "4f0d9097152cc1aae6c1478be04796aed972e24d02ecee9938d437531b1d7341",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ec0e88ae35947acb01ac2e19b06c7704613b5554898f32cf25379b614eb63a6",
+        "path": "data/variable-documentation/8ec0e88ae35947acb01ac2e19b06c7704613b5554898f32cf25379b614eb63a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2000",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "95c90ef1676898afe06aaf99a1ba40e35d15ae99f66b1a0b2da90a4d6b537c7b",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "58d106b42505995ed15c6301dd5ed39485d455423969bba4368aede7feeaf6fd",
+        "path": "data/variable-documentation/58d106b42505995ed15c6301dd5ed39485d455423969bba4368aede7feeaf6fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2001",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "3a36256a20ee93a4b207a288c90815c6968b8a6e514f498a883a7dcca26ee343",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c24ab88a5dcee5c5b90bfc93b236fd0f20ed4cc8ef39da769a8c851ca4f12422",
+        "path": "data/variable-documentation/c24ab88a5dcee5c5b90bfc93b236fd0f20ed4cc8ef39da769a8c851ca4f12422.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2002",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "dd6173e2b928830b7a14df27525b981e57b58fc3c3a52a3a35258efcf500d7ff",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "478ecc99718421ede468cc0926de1c1b0281ed11ff8ec1430604225d6ae858d9",
+        "path": "data/variable-documentation/478ecc99718421ede468cc0926de1c1b0281ed11ff8ec1430604225d6ae858d9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2003",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "df4b355e5e09247dcd2b82afe4800f5ed233449ae68f20ed36fa1e91a2f3c363",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "313846851b1ac1693ee723b12555a0002895756b4172e0459b520a16a9232a2a",
+        "path": "data/variable-documentation/313846851b1ac1693ee723b12555a0002895756b4172e0459b520a16a9232a2a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Juridiska enheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2004",
+      "source_task_id": "5c8f3d0826763cc271201d3da036d381fe8ccee4f5369ac74682fdda9992b3cd",
+      "id": "329ec82096679d723571e2d7495fe3dd158316bae43a6ad62df4fd71abe37333",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:47:43+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 370,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "202eb2998a475e0e028342724f6d371a00cbcb603b872f8edd65fb3fcdce831a",
+        "path": "data/variable-documentation/202eb2998a475e0e028342724f6d371a00cbcb603b872f8edd65fb3fcdce831a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:47:43+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -11632,6 +13643,14 @@
       "path": "data/value-domain-values/0aa3273232bccca1c889b7d4fd51efcaa7ae79abdac4c080833b70422fbdc02b.json"
     },
     {
+      "version": "INSEKT 2000 FDB",
+      "level": "INSEKT 2000 FDB",
+      "data_type": "char(3)",
+      "id": "134bb33fa1645e94f84f7368db737df3ebb7e324f07835d6de08207d0217c79e",
+      "value_count": 45,
+      "path": "data/value-domain-values/134bb33fa1645e94f84f7368db737df3ebb7e324f07835d6de08207d0217c79e.json"
+    },
+    {
       "version": "LKF 2000-01-01/ Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -11694,6 +13713,14 @@
       "id": "294db6429c40046765b8c077af4ac1ab01526e2be80d9a0154bd6fdfa9f1240e",
       "value_count": 291,
       "path": "data/value-domain-values/294db6429c40046765b8c077af4ac1ab01526e2be80d9a0154bd6fdfa9f1240e.json"
+    },
+    {
+      "version": "År",
+      "level": "Årtal fr.o.m. 1900 och framåt",
+      "data_type": "smallint",
+      "id": "30958b93146e2b80329fed522ab77d6d588e828f29baea045e0be67248177f34",
+      "value_count": 129,
+      "path": "data/value-domain-values/30958b93146e2b80329fed522ab77d6d588e828f29baea045e0be67248177f34.json"
     },
     {
       "version": "2024-01-01 /Län, kommuner och församlingar",
@@ -11888,6 +13915,14 @@
       "path": "data/value-domain-values/b65a5c2e9ce86a09528b880c4fb73955ec642e11e2493f2f53e6c16e2fa9ce21.json"
     },
     {
+      "version": "Ägarkontroll 1968 och 2000",
+      "level": "Ägarkontroll 1968 och 2000",
+      "data_type": "char(2)",
+      "id": "ccafcc7edf3e780c86046e9036c6d5d013d36bfb2df93039e79593dfa96a1fe4",
+      "value_count": 9,
+      "path": "data/value-domain-values/ccafcc7edf3e780c86046e9036c6d5d013d36bfb2df93039e79593dfa96a1fe4.json"
+    },
+    {
       "version": "Tal",
       "level": "Tal",
       "data_type": "tinyint",
@@ -11910,6 +13945,14 @@
       "id": "d5be74b793aac37162873e6a1220864a3196ea70d7434cf6b9b5dbdbe02f01a6",
       "value_count": 822,
       "path": "data/value-domain-values/d5be74b793aac37162873e6a1220864a3196ea70d7434cf6b9b5dbdbe02f01a6.json"
+    },
+    {
+      "version": "Svensk standard för näringsgrensindelning, SNI 92, Aktiviteter",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f",
+      "value_count": 756,
+      "path": "data/value-domain-values/e97cfe60e14558438c021f7f75db6c6e096f9afd1e3f18739eb21b935953b41f.json"
     },
     {
       "version": "LKF 2011-01-01/ Län, kommuner och församlingar ",
@@ -11970,22 +14013,27 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 3,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 4,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "8dc4b3324a6482a7ff93b0c0d80e330a807600d726403846bbec942f8ccd5916",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T10:30:37+00:00",
+    "retrieved_at": "2026-11-21T12:47:43+00:00",
     "task_count": 26,
     "expected_bindings": 469,
-    "documented_bindings": 400,
+    "documented_bindings": 469,
     "errors": [
       "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng1 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng1 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "Ng 2005: Exportens värdemängdsnivå matchar inte vald nivå: []"
-    ]
+      "Ng 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
+    ],
+    "stalled_passes": 0
   }
 }
