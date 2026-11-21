@@ -1,0 +1,52 @@
+{
+  "version": "Avaktualiseringsorsak",
+  "level": "Avaktualiseringsorsak",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "0",
+      "label": "Ej avaktualiserad"
+    },
+    {
+      "code": "1",
+      "label": "Tillsvidareanställning/egen näringsverksamhet utan stöd"
+    },
+    {
+      "code": "2",
+      "label": "Fått tidsbegränsad anställning"
+    },
+    {
+      "code": "3",
+      "label": "Fått fortsatt anställning hos samma arbetsgivare"
+    },
+    {
+      "code": "4",
+      "label": "Fått anställning inom Samhall"
+    },
+    {
+      "code": "5",
+      "label": "Kontakten upphört, annan känd orsak"
+    },
+    {
+      "code": "6",
+      "label": "Kontakten upphört av okänd orsak"
+    },
+    {
+      "code": "7",
+      "label": "Annan utbildning än arbetsmarknadsutbildning"
+    },
+    {
+      "code": "8",
+      "label": "Avliden"
+    },
+    {
+      "code": "9",
+      "label": "Till annan myndighet"
+    }
+  ],
+  "id": "fde160e7f5408e9e713527b1f346ce9de6d4e9379819a239134baa73f70d81b9"
+}

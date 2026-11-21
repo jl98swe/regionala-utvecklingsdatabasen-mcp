@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Summa inkomst föranledd av arbetsmarknadspolitisk åtgärd"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Den under året summerade inkomsten föranledd av arbetsmarknadspolitisk åtgärd."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgiften AmPol är härledd utifrån Försäkringskassans månatliga leverans till SCB. Årsbeloppet beräknas genom en summering av utbetalt belopp på individnivå, januari–december om bostadsersättning, etableringsersättning, etableringstillägg, aktivitetsstöd och utvecklingsersättning.\r\n\r\nBeloppet anges i hundratal kronor. Minusbelopp kan förekomma.\r\n\r\nObservera att AmPol i Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA) (scb.se) inte beräknas på samma sätt som i STATIV."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Ersättningar som tidigare ingått i AmPol: Offentligt Tillfälligt Arbete - OTA (1997), Arbetslivsutveckl-ingsbidrag från RFV och KAS (1997–1998), Ersättning från arbetslöshetskassa vid arbetsmarknadsåtgärd (2000–2006)."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "ca538bde7c24a5c6b09befaef2d8bb8c870ae61ef2859374e2f5f360d65f4aa1"
+}

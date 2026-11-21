@@ -1,0 +1,40 @@
+{
+  "version": "Status efter avslutad etablering",
+  "level": "Status efter avslutad etablering",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "*",
+      "label": "I etablering"
+    },
+    {
+      "code": "1",
+      "label": "Öppet arbetslösa"
+    },
+    {
+      "code": "2",
+      "label": "Program"
+    },
+    {
+      "code": "3",
+      "label": "Arbete utan stöd"
+    },
+    {
+      "code": "4",
+      "label": "Arbete med stöd exklusive nystartsjobb"
+    },
+    {
+      "code": "5",
+      "label": "Övrigt"
+    },
+    {
+      "code": "6",
+      "label": "Nystartsjobb"
+    },
+    {
+      "code": "7",
+      "label": "Utbildning annan än arbetsmarknadsutbildning"
+    }
+  ],
+  "id": "656a25a47535b5b9874bc7a61bf25930a3b542d5c9e50a51c9ef9bdf9480ae2b"
+}

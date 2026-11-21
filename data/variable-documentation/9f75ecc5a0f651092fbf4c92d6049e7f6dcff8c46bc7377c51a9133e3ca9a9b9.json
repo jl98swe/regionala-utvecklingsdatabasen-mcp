@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Bostadsersättning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Personer som är nya i Sverige kan utöver etableringsersättning få bostadsersättning från Försäkringskassan."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Årsuppgiften för utbetalningar för det aktuella året inkluderar inte bara de ordinarie utbetalningarna som gjorts under året, utan även korrigeringar och retroaktiva utbetalningar som hänför sig till tidigare år. Detta innebär att summan kan påverkas av justeringar och efterhandsutbetalningar som har gjorts för att rätta till tidigare fel eller för att betala ut belopp som har ackumulerats över tid."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgiften härleds från Försäkringskassans månatliga leverans till SCB. Årsbeloppet beräknas genom en summering av de månadsvisa utbetalda beloppen på individnivå.\r\nMinusbelopp kan förekomma."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "9f75ecc5a0f651092fbf4c92d6049e7f6dcff8c46bc7377c51a9133e3ca9a9b9"
+}
