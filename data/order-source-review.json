@@ -330,9 +330,18 @@
     "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
     "context_notes": [
       {
-        "status": "prior_method_exists",
-        "basis": "Användarens uppgift 2026-11-21",
-        "message": "Årshanteringen har beskrivits i tidigare framtagna skript. Dessa ska kontrolleras innan tomma årsfält behandlas som en ny metodfråga. Den exakta tidigare metoden återges inte här utan verifiering av skriptet."
+        "status": "prior_chat_and_script_reviewed",
+        "time_fields": [
+          "KAr",
+          "LAr",
+          "Termin"
+        ],
+        "sources": [
+          "Analys_flyttar_studenter_LTU_v2.R, hamta_data_exam",
+          "Tidigare examensdiskussion 2026-10-06"
+        ],
+        "message": "Det lästa examensskriptet väljer kalenderår med KAr == year och anropar hamta_korrekt_vynamn(year, vy_exam). KAr avser examensbevisets kalenderår; LAr avser läsår. I den tidigare chatten rapporterades KAr=2021 med LAr=2020/Termin=1 och LAr=2021/Termin=2, samt KAr=2025 med LAr=2024/Termin=1. Kalenderår och läsår får inte användas som samma kohortdefinition. Årsvärde till hjälpfunktionen är belagt skriptbeteende; det bevisar inte om den fysiska databasen använder separata årsvyer. Komplett årstäckning kan inte räknas fram ur dessa exempel.",
+        "reviewed_on": "2026-11-21"
       }
     ]
   },
@@ -354,7 +363,22 @@
         "variant": "Grundutb, avklarade poäng"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "status": "prior_script_reviewed",
+        "time_fields": [
+          "Ar",
+          "LasAr",
+          "Termin"
+        ],
+        "sources": [
+          "MONA_exempelskript.R, senast uppdaterat 2026-09-21, hamta_poang_ar_for_ids"
+        ],
+        "message": "Det aktuella projektexemplet använder hamta_korrekt_vynamn(ar, vy_hreg_poang), filtrerar Ar == ar och summerar HPPAvkSum. Termin används i person/lärosäte/år/termin-kopplingen till registreringar. hreg_poang saknar KursKod i beställningen, så poäng kopplas inte direkt till en enskild kursort. Uttagsmetoden är därmed konkret beskriven trots tomt årsfält; full tillgänglighet och fysiska vynamn bevisas inte av skriptet.",
+        "reviewed_on": "2026-11-21"
+      }
+    ]
   },
   "hreg_registrerade": {
     "status": "reviewed",
@@ -364,7 +388,23 @@
         "variant": "Grundutbildning, registrerade "
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "status": "prior_script_reviewed",
+        "time_fields": [
+          "Ar",
+          "LasAr",
+          "Termin"
+        ],
+        "sources": [
+          "MONA_exempelskript.R, senast uppdaterat 2026-09-21, hamta_reg_relevant_kursort_ar",
+          "Analys_flyttar_studenter_LTU_v2.R, hamta_data"
+        ],
+        "message": "Det aktuella projektexemplet använder hamta_korrekt_vynamn(ar, vy_hreg_reg) och Ar == ar för kalenderår. Det äldre examensuppföljningsskriptet använder LasAr == year för läsår. Slutsats: kalenderår och läsår är skilda uttag; Ar är kalenderårsfiltret i den senare poängbaserade LTU-metoden. Termin används för koppling person/lärosäte/år/termin. Fysiska årsvyer och komplett historisk täckning fastställs inte av denna kod.",
+        "reviewed_on": "2026-11-21"
+      }
+    ]
   },
   "hreg_forstaar": {
     "status": "reviewed",
@@ -374,7 +414,21 @@
         "variant": "Grundutbildning, registrerade "
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "status": "prior_script_reviewed",
+        "time_fields": [
+          "Ffgar"
+        ],
+        "sources": [
+          "Analys_flyttar_studenter_LTU_v2.R, hamta_data_exam",
+          "MONA_exempelskript.R, metodnoteringar"
+        ],
+        "message": "Det äldre examensskriptet läser förstaregistreringsvyn utan ett valt uttagsår och använder förstaregistreringsåret (skrivet ffgar i äldre kod; beställningens originalnamn är Ffgar). Textmarkörer POAN och EXAM filtreras i den äldre koden. Det senare poängbaserade LTU-skriptet använder uttryckligen inte hreg_forstaar utan studiernas historik. Den äldre prioriteringen av senaste förstaregistrering ska därför inte göras till generell regel för studiestart. Dagens fysiska vy och dess innehåll fastställs inte av äldre kod.",
+        "reviewed_on": "2026-11-21"
+      }
+    ]
   },
   "hushallboende": {
     "status": "reviewed",
