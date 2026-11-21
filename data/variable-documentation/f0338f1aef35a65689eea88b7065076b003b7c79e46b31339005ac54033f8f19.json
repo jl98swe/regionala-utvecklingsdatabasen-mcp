@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Aktuellt antal anställda"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Avser personer som är anställd vid mättillfället, för vilken arbetsgivaren är skyldig att redovisa A-skatt och som beräknas ha en årlig arbetsinkomst som överstiger ett prisbasbelopp. Antal anställda i FDB beräknas huvudsakligen från två källor beroende på om företaget har ett eller flera arbetsställen."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Antal anställda för företag med endast ett arbetsställe hämtas varje år från kontrolluppgifter. För flerarbetsställeföretag hämtas uppgiften från resultatet av undersökningen Kontroll av uppgifter i SCB:s Företagsdatabas."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller samtliga juridiska enheter vid aktuell tidpunkt, där juridiska enheter avser en juridisk eller fysisk person som bedriver eller avser att bedriva något slag av affärsmässig verksamhet."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga juridiska enheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE) i FDB: samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2004-11-26"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Juridiska enheter registreras och tilldelas ett organisationsnummer hos subjektsregistrerande myndigheter. Vilken myndighet som ansvarar för registreringen beror på vilken juridisk form den juridiska enheten har. De vanligaste juridiska formerna registeras hos Skatteverket och Bolagsverket. Skatteverket samlar in grunduppgifter från övriga subjektregistrerande myndigheter. SCB hämtar sedan informationen elektroniskt från Skatteverket och uppdaterar FDB på veckobasis. En juridisk enhet blir verksam i FDB då SCB får kännedom om att den har registrerats för moms, som arbetsgivare eller för F-skatt hos Skatteverket."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Juridiska enheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Juridiska enheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Juridiska enheter (JE) i FDB omfattar samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "f0338f1aef35a65689eea88b7065076b003b7c79e46b31339005ac54033f8f19"
+}
