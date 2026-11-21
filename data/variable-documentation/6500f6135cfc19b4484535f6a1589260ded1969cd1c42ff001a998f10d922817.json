@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(3)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Yrke på 3-siffernivå, största förvärvskällan "
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Yrkeskod klassad enligt Standard för svensk yrkesklassificering, 1996 års standard, på 3-siffernivå."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Yrkesuppgift för den största förvärvskällan under året, SSYK 96, 3-siffernivå."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Yrkesregistret : Yrkesverksamma"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "I enlighet med gällande säkerhetsskyddslagstiftning har SCB genomfört en säkerhetsskyddsanalys som kartlagt om det vid myndigheten finns information som måste skyddas i enlighet med lagstiftningen. Analysen har bland annat slagit fast att tillgången till information gällande vilka personer som arbetar som poliser och militärer enligt standarden för yrkesklassificering (SSYK 2012) måste begränsas. Det innebär att personer med yrkeskoderna 01, 02, 03 (militärer) och 3360 (poliser) har omkodats så att dessa personer istället ingår i gruppen med okänt yrke."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12, 2021."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige 15 år och äldre"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 15 år och äldre per den 31/12 härrörande år"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika SCB-register. Externa data kommer från Försäkringskassan och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer, 15 år och äldre"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer, 15 år och äldre"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller samtliga personer 15 år och äldre, som varit folkbokförda i Sverige den 31/12 respektive år.\r\n\r\nSe LISA:s Bakgrundsfakta för mer information om respektive variabel, www.scb.se/LISA"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "6500f6135cfc19b4484535f6a1589260ded1969cd1c42ff001a998f10d922817"
+}

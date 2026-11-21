@@ -1,0 +1,36 @@
+{
+  "version": "KU1StatusSsyk",
+  "level": "KU1StatusSsyk",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Ej imputerad"
+    },
+    {
+      "code": "2",
+      "label": "Imputerad från förvärvsarbetande jobb 1"
+    },
+    {
+      "code": "3",
+      "label": "Imputerad från yrkesverksamma jobb 2"
+    },
+    {
+      "code": "30",
+      "label": "Modellimputerad yrkeskod, SSYK 2012"
+    },
+    {
+      "code": "4",
+      "label": "Imputerad från förvärvsarbetande jobb 2"
+    },
+    {
+      "code": "5",
+      "label": "Imputerad från övriga"
+    },
+    {
+      "code": "6",
+      "label": "Saknar uppgift"
+    }
+  ],
+  "id": "9e768c44c2b9e8ab9cf03d6621055193ac1fa3f3de31b04a9a53afc696d75de2"
+}

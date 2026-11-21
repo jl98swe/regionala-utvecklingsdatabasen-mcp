@@ -1,0 +1,988 @@
+{
+  "version": "Enhetsindelning 2014",
+  "level": "10-siffrig kod  ",
+  "data_type": "char(10)",
+  "values": [
+    {
+      "code": "0000000000",
+      "label": "Okänt"
+    },
+    {
+      "code": "1110001031",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Statligt Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1110001049",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1110001053",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Statligt Bostadsrättsföreningar"
+    },
+    {
+      "code": "1110001072",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Statligt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1110001098",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Statligt Övr sv jur pers, enl särsk lag"
+    },
+    {
+      "code": "1110002031",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1110002049",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt Övriga aktiebolag"
+    },
+    {
+      "code": "1110002051",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt Ekonomiska föreningar"
+    },
+    {
+      "code": "1110002053",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt Bostadsrättsföreningar"
+    },
+    {
+      "code": "1110002072",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1110003049",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Landsting Övriga aktiebolag"
+    },
+    {
+      "code": "1110003051",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Landsting Ekonomiska föreningar"
+    },
+    {
+      "code": "1110003053",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Landsting Bostadsrättsföreningar"
+    },
+    {
+      "code": "1110003072",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Landsting Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1110004121",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag\n"
+    },
+    {
+      "code": "1110004122",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Partrederier"
+    },
+    {
+      "code": "1110004131",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1110004143",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svensk utan koncern Europabolag"
+    },
+    {
+      "code": "1110004149",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1110004151",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1110004153",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Bostadsrättsföreningar"
+    },
+    {
+      "code": "1110004154",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Kooperativ hyresrättsförening"
+    },
+    {
+      "code": "1110004155",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag, Privat Sverigekontrollerade enheter utan koncermtillhörighet, Europakooperativ och Europisk gruppering för territoriellt samarbete – EGTS"
+    },
+    {
+      "code": "1110004161",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1110004162",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Samfälligheter"
+    },
+    {
+      "code": "1110004172",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1110004231",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1110004243",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Europabolag"
+    },
+    {
+      "code": "1110004249",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1110004251",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1110004253",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Bostadsrättsföreningar"
+    },
+    {
+      "code": "1110004254",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Kooperativ hyresrättsförening"
+    },
+    {
+      "code": "1110004261",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Ideella föreningar"
+    },
+    {
+      "code": "1110004262",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Samfälligheter"
+    },
+    {
+      "code": "1110004272",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt med koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1110004299",
+      "label": " Icke-finansiella bolag, utom statliga affärsverk, \nfilialer i Sverige till icke-finansiella bolag i \nutlandet och icke-vinstdrivande organisationer \nsom betjänar icke-finansiella bolag Privat svenskkontrollerade enheter med koncerntillhörighet Juridisk form ej utredd"
+    },
+    {
+      "code": "1110005031",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Utländska Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1110005049",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1110005051",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag, Utlandskontrollerade enheter, Ekonomiska föreningar"
+    },
+    {
+      "code": "1110005096",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1110005099",
+      "label": "Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Utländska Juridisk form ej utredd"
+    },
+    {
+      "code": "1120001081",
+      "label": "Statliga affärsverk Statligt Statliga enheter"
+    },
+    {
+      "code": "1130005061",
+      "label": "Filialer i Sverige till icke-finansiella bolag i utlandet Utländska Ideella föreningar"
+    },
+    {
+      "code": "1130005096",
+      "label": "Filialer i Sverige till icke-finansiella bolag i utlandet Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1140001049",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1140001061",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Statligt Ideella föreningar"
+    },
+    {
+      "code": "1140001087",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Statligt Off. korporationer o anstalter"
+    },
+    {
+      "code": "1140002049",
+      "label": "Icke-vinstdrivande organisationer som betjänar \nicke-finansiella bolag Kommunalt kontrollerade enheter Övriga aktiebolag "
+    },
+    {
+      "code": "1140002051",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Kommunalt kontrollerade enheter Ekonomiska föreningar"
+    },
+    {
+      "code": "1140002053",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Bostadsrättsföreningar"
+    },
+    {
+      "code": "1140003049",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Landsting Övriga aktiebolag"
+    },
+    {
+      "code": "1140004149",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1140004151",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1140004153",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter utan koncerntillhörighet Bostadsrättsföreningar\n"
+    },
+    {
+      "code": "1140004154",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter utan koncerntillhörighet Kooperativa hyresrättsföreningar\n"
+    },
+    {
+      "code": "1140004161",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1140004172",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1140004187",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter utan koncerntillhörighet Offentliga korporationer och anstalter\n"
+    },
+    {
+      "code": "1140004249",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1140004251",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt med koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1140004253",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter med koncerntillhörighet Bostadsrättsföreningar\n"
+    },
+    {
+      "code": "1140004254",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter med koncerntillhörighet Kooperativa hyresrättsföreningar\n"
+    },
+    {
+      "code": "1140004261",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt med koncern Ideella föreningar"
+    },
+    {
+      "code": "1140004272",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag  Privat svenskt med koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1140004287",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskkontrollerade enheter med koncerntillhörighet Offentliga korporationer och anstalter\n"
+    },
+    {
+      "code": "1140005049",
+      "label": "Icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Utlandskontrollerade enheter Aktiebolag utom bank- och försäkringsaktiebolag\n"
+    },
+    {
+      "code": "1210001081",
+      "label": "Centralbanken Statligt Statliga enheter"
+    },
+    {
+      "code": "1221001041",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Statligt Bankaktiebolag"
+    },
+    {
+      "code": "1221004141",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Privat svenskt utan koncern Bankaktiebolag"
+    },
+    {
+      "code": "1221004193",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Privat svenskt utan koncern Sparbanker"
+    },
+    {
+      "code": "1221004241",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Privat svenskt med koncern Bankaktiebolag"
+    },
+    {
+      "code": "1221004293",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Privat svenskt med koncern Sparbanker"
+    },
+    {
+      "code": "1221005041",
+      "label": "Banker, utom bankfilialer i Sverige till banker i utlandet  Utländska Bankaktiebolag"
+    },
+    {
+      "code": "1221005096",
+      "label": "Banker, utom bankfilialer i Sverige till banker i \nutlandet Utlandskontrollerade enheter Utländska juridiska personer"
+    },
+    {
+      "code": "1222004141",
+      "label": "Bankfilialer i Sverige till banker i utlandet Privat svenskt utan koncern Bankaktiebolag"
+    },
+    {
+      "code": "1222005041",
+      "label": "Bankfilialer i Sverige till banker i utlandet Utländska Bankaktiebolag"
+    },
+    {
+      "code": "1222005096",
+      "label": "Bankfilialer i Sverige till banker i utlandet Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1223001049",
+      "label": "Bostadsinstitut Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1223004149",
+      "label": "Bostadsinstitut Privat svenskkontrollerade enheter utan koncerntillhörighet Övriga aktiebolag "
+    },
+    {
+      "code": "1223004249",
+      "label": "Bostadsinstitut Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1223005049",
+      "label": "Bostadsinstitut, utlandskontrollerade enheter, övriga aktiebolag"
+    },
+    {
+      "code": "1224001049",
+      "label": "Andra monetära kreditmarknadsföretag  Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1224001088",
+      "label": "Andra monetära kreditmarknadsföretag  Statligt Hypoteksföreningar"
+    },
+    {
+      "code": "1224002049",
+      "label": "Andra monetära kreditmarknadsföretag  Kommunalt Övriga aktiebolag"
+    },
+    {
+      "code": "1224004149",
+      "label": "Andra monetära kreditmarknadsföretag  Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1224004151",
+      "label": "Andra monetära kreditmarknadsföretag  Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1224004249",
+      "label": "Andra monetära kreditmarknadsföretag  Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1224005049",
+      "label": "Andra monetära kreditmarknadsföretag  Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1224005096",
+      "label": "Andra monetära kreditmarknadsföretag  Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1225004249",
+      "label": "Monetära värdepappersbolag och fondkommissionärer Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1225005049",
+      "label": "Monetära värdepappersbolag och fondkommissionärer Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1229001049",
+      "label": "Övriga monetära finansinstitut, Statligt kontrollerade enheter, Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "1229004149",
+      "label": "Övriga monetära finansinstitut Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1229004249",
+      "label": "Övriga monetära finansinstitut Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1240004149",
+      "label": "Investeringsfonder, utom penningmarknadsfonder Privat svensk utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1240004151",
+      "label": "Investeringsfonder, utom penningmarknadsfonder Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1240004249",
+      "label": "Investeringsfonder, utom penningmarknadsfonder Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1252004149",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1252004249",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1252005049",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1252005096",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Utlandskontrollerade enheter Utländska juridiska personer\n"
+    },
+    {
+      "code": "1253001049",
+      "label": "Finansiella bolag med utlåningsverksamhet  Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1253004149",
+      "label": "Finansiella bolag med utlåningsverksamhet  Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1253004249",
+      "label": "Finansiella bolag med utlåningsverksamhet  Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1253005049",
+      "label": "Finansiella bolag med utlåningsverksamhet, Utlandskontrollerade enheter, Övriga aktiebolag"
+    },
+    {
+      "code": "1253005096",
+      "label": "Finansiella bolag med utlåningsverksamhet Utlandskontrollerade enheter Utländska juridiska personer"
+    },
+    {
+      "code": "1254004149",
+      "label": "Investmentbolag Privat svenskkontrollerade enheter utan koncerntillhörighet Övriga aktiebolag"
+    },
+    {
+      "code": "1254004249",
+      "label": "Investmentbolag Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1254005049",
+      "label": "Investmentbolag Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1259001049",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut, Statligt kontrollerade enheter, Övriga aktiebolag"
+    },
+    {
+      "code": "1259003049",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Landsting Övriga aktiebolag"
+    },
+    {
+      "code": "1259004149",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1259004151",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1259004249",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1259005049",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1259005096",
+      "label": "Övriga finansförmedlare, utom försäkringsbolag och pensionsinstitut Utlandskontrollerade enheter Utländska juridiska personer"
+    },
+    {
+      "code": "1261001049",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1261001072",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Statligt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1261002049",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Kommunalt Övriga aktiebolag"
+    },
+    {
+      "code": "1261004131",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1261004149",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1261004151",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskkontrollerade enheter utan koncerntillhörighet     Ekonomiska föreningar"
+    },
+    {
+      "code": "1261004161",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1261004172",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1261004231",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt med koncern Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "1261004249",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1261004261",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt med koncern Ideella föreningar"
+    },
+    {
+      "code": "1261005049",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1261005096",
+      "label": "Finansiella servicebolag, utom icke-vinstdrivande organisationer som betjänar finansiella bolag Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1262004149",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskkontrollerade enheter utan koncerntillhörighet Övriga aktiebolag"
+    },
+    {
+      "code": "1262004151",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag, privat svenskkontrollerade enheter utan koncerntillhörighet, ekonomiska föreningar"
+    },
+    {
+      "code": "1262004161",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1262004172",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1262004249",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskkontrollerade enheter med koncerntillhörighet Övriga aktiebolag"
+    },
+    {
+      "code": "1262004261",
+      "label": "Icke-vinstdrivande organisationer som betjänar finansiella bolag Privat svenskt med koncern Ideella föreningar"
+    },
+    {
+      "code": "1270001049",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Statligt kontrollerade enheter Övriga aktiebolag"
+    },
+    {
+      "code": "1270003049",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Landsting Övriga aktiebolag"
+    },
+    {
+      "code": "1270004149",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt utan koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1270004151",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskkontrollerade enheter utan koncerntillhörighet Ekonomiska föreningar utom bostadsrättsföreningar\n"
+    },
+    {
+      "code": "1270004171",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt utan koncern Familjestiftelser"
+    },
+    {
+      "code": "1270004172",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1270004191",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt utan koncern Oskiftade dödsbon"
+    },
+    {
+      "code": "1270004249",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1270004251",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt med koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1270004271",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskkontrollerade enheter med koncerntillhörighet Familjestiftelser"
+    },
+    {
+      "code": "1270004272",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Privat svenskt med koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1270005049",
+      "label": "Koncerninterna finansinstitut och utlåningsföretag Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1281001042",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Statligt Försäkringsaktiebolag"
+    },
+    {
+      "code": "1281002042",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Kommunalt Försäkringsaktiebolag"
+    },
+    {
+      "code": "1281003092",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Landsting Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "1281004142",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt utan koncern Försäkringsaktiebolag"
+    },
+    {
+      "code": "1281004172",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1281004192",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt utan koncern Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "1281004242",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt med koncern Försäkringsaktiebolag"
+    },
+    {
+      "code": "1281004249",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt med koncern Övriga aktiebolag"
+    },
+    {
+      "code": "1281004292",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Privat svenskt med koncern Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "1281005042",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Utländska Försäkringsaktiebolag"
+    },
+    {
+      "code": "1281005049",
+      "label": "Försäkringsbolag, utom filialer i Sverige till försäkringsbolag i utlandet och försäkrings- och understödsföreningar  Utländska Övriga aktiebolag"
+    },
+    {
+      "code": "1282005096",
+      "label": "Filialer i Sverige till försäkringsbolag i utlandet Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "1283004161",
+      "label": "Försäkrings- och understödsföreningar, ej pension Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1283004194",
+      "label": "Försäkrings- och understödsföreningar, ej pension Privat svenskt utan koncern Understöds-, Försäkringsfören."
+    },
+    {
+      "code": "1291002042",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Kommunalt kontrollerade enheter Försäkringsaktiebolag"
+    },
+    {
+      "code": "1291004142",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskkontrollerade enheter  utan koncerntillhörighet Försäkringsaktiebolag"
+    },
+    {
+      "code": "1291004172",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1291004192",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskkontrollerade enheter utan koncerntillhörighet Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "1291004242",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskkontrollerade enheter med koncerntillhörighet Försäkringsaktiebolag"
+    },
+    {
+      "code": "1291004249",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskkontrollerade enheter med koncerntillhörighet  Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "1291004292",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Privat svenskkontrollerade enheter utan koncerntillhörighet Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "1291005042",
+      "label": "Pensionsinstitut, utom filialer i Sverige till pensionsinstitut i utlandet, försäkrings- och understödsföreningar samt pensionsstiftelser Utlandskontrollerade enheter Försäkringsaktiebolag"
+    },
+    {
+      "code": "1293004151",
+      "label": "Försäkrings- och understödsföreningar, pension Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1293004161",
+      "label": "Försäkrings- och understödsföreningar, pension Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1293004194",
+      "label": "Försäkrings- och understödsföreningar, pension Privat svenskt utan koncern Understöds-, Försäkringsfören."
+    },
+    {
+      "code": "1293004294",
+      "label": "Försäkrings- och understödsföreningar, pension Privat svenskt med koncern Understöds-, Försäkringsfören."
+    },
+    {
+      "code": "1294002072",
+      "label": "Pensionsstiftelser Kommunalt kontrollerade enheter Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1294004172",
+      "label": "Pensionsstiftelser Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1294004272",
+      "label": "Pensionsstiftelser Privat svenskt med koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1311101081",
+      "label": "Statliga myndigheter, utom Riksgälden Statligt Statliga enheter"
+    },
+    {
+      "code": "1311101089",
+      "label": "Statliga myndigheter, utom Riksgälden Statligt Regionala statliga myndigheter"
+    },
+    {
+      "code": "1311201081",
+      "label": "Riksgälden Statligt Statliga enheter"
+    },
+    {
+      "code": "1311301049",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Statligt Övriga aktiebolag"
+    },
+    {
+      "code": "1311301061",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Statligt Ideella föreningar"
+    },
+    {
+      "code": "1311301072",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Statligt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1311301087",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Statligt Off. korporationer o anstalter"
+    },
+    {
+      "code": "1311304161",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Privat svenskkontrollerade enheter utan koncerntillhörighet Ideella föreningar\n"
+    },
+    {
+      "code": "1311304261",
+      "label": "Andra institutioner hänförliga till statlig förvaltning Privat svenskkontrollerade enheter med koncerntillhörighet Ideella föreningar"
+    },
+    {
+      "code": "1313112082",
+      "label": "Primärkommunala myndigheter Kommunalt Kommuner"
+    },
+    {
+      "code": "1313122083",
+      "label": "Kommunalförbund som till övervägande del består av primärkommuner Kommunalt Kommunalförbund"
+    },
+    {
+      "code": "1313132049",
+      "label": "Andra institutioner hänförliga till primärkommunal förvaltning Kommunalt Övriga aktiebolag"
+    },
+    {
+      "code": "1313132051",
+      "label": "Andra institutioner hänförliga till primärkommunal förvaltning Kommunalt Ekonomiska föreningar"
+    },
+    {
+      "code": "1313132061",
+      "label": "Andra institutioner hänförliga till primärkommunal förvaltning Kommunalt Ideella föreningar"
+    },
+    {
+      "code": "1313132072",
+      "label": "Andra institutioner hänförliga till primärkommunal förvaltning Kommunalt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1313132083",
+      "label": "Andra institutioner hänförliga till primärkommunal förvaltning, kommunalt kontrollerade enheter, kommunalförbund"
+    },
+    {
+      "code": "1313213084",
+      "label": "Landstingskommunala myndigheter  Landsting Landsting"
+    },
+    {
+      "code": "1313223083",
+      "label": "Kommunalförbund som till övervägande del består av landsting Landsting Kommunalförbund"
+    },
+    {
+      "code": "1313232049",
+      "label": "Andra institutioner hänförliga till landstingskommunal Förvaltning Kommunalt kontrollerade enheter Övriga aktiebolag\n"
+    },
+    {
+      "code": "1313233049",
+      "label": "Andra institutioner hänförliga till landstingskommunal förvaltning Landsting Övriga aktiebolag"
+    },
+    {
+      "code": "1313233061",
+      "label": "Andra institutioner hänförliga till landstingskommunal förvaltning Landsting Ideella föreningar"
+    },
+    {
+      "code": "1313233072",
+      "label": "Andra institutioner hänförliga till landstingskommunal förvaltning Landsting Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1313234161",
+      "label": "Andra institutioner hänförliga till landstingskommunal förvaltning Privat svenskkontrollerade enheter utan koncerntillhörighet Ideella föreningar\n"
+    },
+    {
+      "code": "1314001072",
+      "label": "Sociala trygghetsfonder Statligt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1314001081",
+      "label": "Sociala trygghetsfonder Statligt Statliga enheter"
+    },
+    {
+      "code": "1410004110",
+      "label": "Företagarhushåll med anställda Privat svenskt utan koncern Fysiska personer"
+    },
+    {
+      "code": "1410004121",
+      "label": "Företagarhushåll med anställda Privat svenskt utan koncern Enkla bolag\n"
+    },
+    {
+      "code": "1410005010",
+      "label": "Företagarhushåll med anställda Utländska Fysiska personer"
+    },
+    {
+      "code": "1420004110",
+      "label": "Företagarhushåll utan anställda Privat svenskt utan koncern Fysiska personer"
+    },
+    {
+      "code": "1420004121",
+      "label": "Företagarhushåll utan anställda Privat svenskt utan koncern Enkla bolag\n"
+    },
+    {
+      "code": "1420004122",
+      "label": "Företagarhushåll utan anställda Privat svenskt utan koncern Partrederier\n"
+    },
+    {
+      "code": "1420004191",
+      "label": "Företagarhushåll utan anställda Privat svenskt utan koncern Oskiftade dödsbon"
+    },
+    {
+      "code": "1420005010",
+      "label": "Företagarhushåll utan anställda Utländska Fysiska personer"
+    },
+    {
+      "code": "1420005021",
+      "label": "Företagarhushåll utan anställda Utländska Enkla bolag"
+    },
+    {
+      "code": "1510001061",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Statligt Ideella föreningar"
+    },
+    {
+      "code": "1510001072",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Statligt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1510001087",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Statligt Off. korporationer o anstalter"
+    },
+    {
+      "code": "1510002051",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Kommunalt Ekonomiska föreningar"
+    },
+    {
+      "code": "1510002061",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Kommunalt Ideella föreningar"
+    },
+    {
+      "code": "1510002062",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Kommunalt Samfälligheter"
+    },
+    {
+      "code": "1510002072",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Kommunalt Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1510003061",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Landstingskontrollerade enheter Ideella föreningar"
+    },
+    {
+      "code": "1510003072",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Landsting Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1510004151",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1510004161",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Ideella föreningar"
+    },
+    {
+      "code": "1510004162",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Samfälligheter"
+    },
+    {
+      "code": "1510004172",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1510004187",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskkontrollerade enheter utan koncerntillhörighet Offentliga korporationer och anstalter\n"
+    },
+    {
+      "code": "1510004195",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Arbetslöshetskassor"
+    },
+    {
+      "code": "1510004198",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Övr sv jur pers, enl särsk lag"
+    },
+    {
+      "code": "1510004199",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt utan koncern Juridisk form ej utredd"
+    },
+    {
+      "code": "1510004251",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt med koncern Ekonomiska föreningar"
+    },
+    {
+      "code": "1510004261",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt med koncern Ideella föreningar"
+    },
+    {
+      "code": "1510004271",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt med koncern Familjestiftelser"
+    },
+    {
+      "code": "1510004272",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt med koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1510004299",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Privat svenskt med koncern Juridisk form ej utredd"
+    },
+    {
+      "code": "1510005062",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Utlandskontrollerade enheter Samfälligheter"
+    },
+    {
+      "code": "1510005096",
+      "label": "Hushållens icke-vinstdrivande organisationer, utom registrerade trossamfund Utländska Utländska juridiska personer\n"
+    },
+    {
+      "code": "1521004163",
+      "label": "Svenska kyrkan Privat svenskt utan koncern Registrerade trossamfund"
+    },
+    {
+      "code": "1521004172",
+      "label": "Svenska kyrkan Privat svenskt utan koncern Övriga stiftelser och fonder"
+    },
+    {
+      "code": "1521004263",
+      "label": "Svenska kyrkan Privat svenskt med koncern Registrerade trossamfund"
+    },
+    {
+      "code": "1522004161",
+      "label": " Andra registrerade trossamfund Privat svenskkontrollerade enheter utan koncerntillhörighet Ideella föreningar"
+    },
+    {
+      "code": "1522004163",
+      "label": "Andra registrerade trossamfund Privat svenskt utan koncern Registrerade trossamfund"
+    },
+    {
+      "code": "1522004263",
+      "label": "Andra registrerade trossamfund Privat svenskt med koncern Registrerade trossamfund"
+    },
+    {
+      "code": "2111005096",
+      "label": "Europeiska medlemsstater inom euroområdet Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "2112005096",
+      "label": "Europeiska medlemsstater utanför euroområdet Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "2122005096",
+      "label": "Europeiska unionens institutioner och organ, utom europeiska centralbanken Utländska Utländska juridiska personer"
+    },
+    {
+      "code": "2200005096",
+      "label": "Länder utanför EU och internationella organisationer med säte utanför EU Utländska Utländska juridiska personer"
+    }
+  ],
+  "id": "0f3bdca9eb3b28cc5a1e8cdc85eab3cca7c04dbc5fd50fd46785c5daafd165a4"
+}

@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "bigint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Pensioner, utländskt beskattade"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Pensioner, utländskt beskattade"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Nordisk pension, utländskt beskattad.\r\n\r\nInkomsterna som levereras från respektive lands skattemyndighet är redovisade på ett id-nummer (TIN) kompletterat med bland annat namn och adress. Dessa uppgifter personnummermatchas för att identifiera folkbokförda i Sverige genom en modell för att koppla på det svenska personnumret. Denna hantering ger en viss osäkerhet på mikrodatanivå, det kan i undantagsfall därför förekomma att nordiska inkomster har kopplats till fel person."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Inkomst och taxering (IoT) : Individer och dödsbon"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12, 2022."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige 15 år och äldre"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 15 år och äldre per den 31/12 härrörande år"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika SCB-register. Externa data kommer från Försäkringskassan och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer, 15 år och äldre"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer, 15 år och äldre"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller samtliga personer 15 år och äldre, som varit folkbokförda i Sverige den 31/12 respektive år.\r\n\r\nSe LISA:s Bakgrundsfakta för mer information om respektive variabel, www.scb.se/LISA"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "1906c907e48a05b2431c43876894f29a62d175f0e61ed57a280721d7c3dc33e6"
+}
