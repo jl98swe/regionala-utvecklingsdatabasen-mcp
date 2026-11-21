@@ -10,6 +10,35 @@
       "variant": "Företag",
       "column": "INDU_MAIN_ACT",
       "variable": "Näringsgren för statistiken, på 5 siffer SNI",
+      "register_version": "2019",
+      "source_task_id": "d6d1fbf5f786cfefcc7958d2b3b0ed4a9d3109e63d13434254ba8d1fb2116e95",
+      "id": "36563ee097ed104192d1f7e36b7089659007e80bef011ad8f84a4175e9bc0f2a",
+      "domain_id": "5e391c6987c326b35394df16eb5c66f09587c156a5b26a4db548dce4d991d99e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "INDU_MAIN_ACT",
+          "ar_raw": "2019-2021",
+          "kallrad": 671,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "358d6dc631d89999e7d7c0c07852b3851ea4b03610ed8a128638a3bcbde0c3f0",
+        "path": "data/variable-documentation/358d6dc631d89999e7d7c0c07852b3851ea4b03610ed8a128638a3bcbde0c3f0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "INDU_MAIN_ACT",
+      "variable": "Näringsgren för statistiken, på 5 siffer SNI",
       "register_version": "2021",
       "source_task_id": "d6d1fbf5f786cfefcc7958d2b3b0ed4a9d3109e63d13434254ba8d1fb2116e95",
       "id": "8055921eff45f51bc3225a874194d62d05fb38f947e2bd67bb16cfd942ba0d69",
@@ -33,6 +62,35 @@
         "path": "data/variable-documentation/db3522c5a70f01ec4f6ebfc0462cb7bb90ab009f6aab5c25157d7941248eba43.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "INSEKT",
+      "variable": "Sektortillhörighet",
+      "register_version": "2019",
+      "source_task_id": "be49a7705879eaff8820cabc941fb42e5d141e9347cb16181605d38b43fafd5f",
+      "id": "42b23f4e9de759b38dd7a576ae0a499371f49c456277db95f05b18ed1acae301",
+      "domain_id": "da6dc0357651194dae74036f56b62d89ea49b9748e2d315e69f167c49acd399f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "INSEKT",
+          "ar_raw": "2019-2021",
+          "kallrad": 673,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "63922c1801d9a290f9f338ae46692ce8c9f3b30671e6c77b6b46e85f7d16bc37",
+        "path": "data/variable-documentation/63922c1801d9a290f9f338ae46692ce8c9f3b30671e6c77b6b46e85f7d16bc37.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -68,6 +126,35 @@
       "variant": "Företag",
       "column": "NUMBER_EMPLOYEES",
       "variable": "Antal anställda",
+      "register_version": "2019",
+      "source_task_id": "be67a3e5916f54266a1bf1add1c92978349ab8196262597d5438b6af68476dce",
+      "id": "20af70cd9b061a4b1d78d80f68f2668fad4ff8679e061d782ad603eb2a8ba53e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "NUMBER_EMPLOYEES",
+          "ar_raw": "2019-2021",
+          "kallrad": 787,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1a456e72f119cde157a92d41bddd98a4624c0bfea410f68f37c9a0168c8365b4",
+        "path": "data/variable-documentation/1a456e72f119cde157a92d41bddd98a4624c0bfea410f68f37c9a0168c8365b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "NUMBER_EMPLOYEES",
+      "variable": "Antal anställda",
       "register_version": "2021",
       "source_task_id": "be67a3e5916f54266a1bf1add1c92978349ab8196262597d5438b6af68476dce",
       "id": "06d62ec96baf702e3518b98d4de8475469ab3fec3f6df37d31a696199ce334da",
@@ -97,6 +184,35 @@
       "variant": "Företag",
       "column": "SEAT",
       "variable": "Regionindelning",
+      "register_version": "2019",
+      "source_task_id": "b8765a3ad99b5504cd90da4a8b278f527cb32070a1c151fa6a598d99a6cba998",
+      "id": "6cb13c80856720c29578e52e16aaf8491c4678cbcb346802e582cb35ae35ab76",
+      "domain_id": "9df537b0da372e85a0edf85972df2e3e8adb0b33a2b2e2410ab3806f06342fe8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "SEAT",
+          "ar_raw": "2019-2021",
+          "kallrad": 926,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "71034f7eb1bff938ea0e8f14073f2bdaba9004b469cdd81cffaa68be42595a0d",
+        "path": "data/variable-documentation/71034f7eb1bff938ea0e8f14073f2bdaba9004b469cdd81cffaa68be42595a0d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "SEAT",
+      "variable": "Regionindelning",
       "register_version": "2021",
       "source_task_id": "b8765a3ad99b5504cd90da4a8b278f527cb32070a1c151fa6a598d99a6cba998",
       "id": "5aa41886f7ad5c6ad57811a57c5ab869d9d37a77a74e42745048da4c4a6ffad7",
@@ -120,6 +236,35 @@
         "path": "data/variable-documentation/5a96aa4cf31537a76c63e76036a2963e5df60369512d2f681d04dbb41ea62c77.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "TIME_PERIOD",
+      "variable": "Referensår",
+      "register_version": "2019",
+      "source_task_id": "eae05adf57b461928aca2feb60c838da420aba3ffc4c8ebd3f7a00cae73194a2",
+      "id": "dadaf4b4c3a652158a120903505600359d71b1ea700df9ab2c091e7c3d5ebbb3",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "TIME_PERIOD",
+          "ar_raw": "2019-2021",
+          "kallrad": 935,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ef6c49a0069b584e1c80b0aab4af7e4997f72266a7e6ce1b42cd7258b3e4917a",
+        "path": "data/variable-documentation/ef6c49a0069b584e1c80b0aab4af7e4997f72266a7e6ce1b42cd7258b3e4917a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -178,6 +323,35 @@
         "path": "data/variable-documentation/9913850be3f9103e7548f9a6f9d7cd79ddb9078614d8015c9010aca89dd19de1.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v011",
+      "variable": "Antal kvinnor med forskarutbildning",
+      "register_version": "2003",
+      "source_task_id": "92245424563b68359ce2cdcb88c6ee3118dff2f38229d45c2154e8859aa56bec",
+      "id": "eef28ef994b181b8fe79cbe7d17cd335b5c66a55fd4e43f524021766beb8ae76",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v011",
+          "ar_raw": "1999-2017",
+          "kallrad": 1712,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "847559332e656ce3b351fce14d8fe3161ef3b97f0a5a7843db44ba6dbbb3808d",
+        "path": "data/variable-documentation/847559332e656ce3b351fce14d8fe3161ef3b97f0a5a7843db44ba6dbbb3808d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -1255,6 +1429,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0422",
+      "variable": "Investeringsutgifter för FoU avs. produkt 3",
+      "register_version": "2003",
+      "source_task_id": "030f30a85efc0b6413f52c0422d298e18c067cefd08261bed2d1e4f7b6391a2a",
+      "id": "55e8ede61d81ee994a09190dba0f0f50d44cd7451eca00e76c9b781b5c867f9d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0422",
+          "ar_raw": "2001-2015",
+          "kallrad": 1744,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d7909d03234db714c78ad79e50d5233bc9fdf59374aa0b8e43da77368ebb537",
+        "path": "data/variable-documentation/2d7909d03234db714c78ad79e50d5233bc9fdf59374aa0b8e43da77368ebb537.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v043",
       "variable": "antal årsverken utförda av kvinnor med gymnasial utbildning",
       "register_version": "2003",
@@ -1367,6 +1570,35 @@
         "path": "data/variable-documentation/73fd8189411ea8afa694dd10bb780a2353f091e8abae96ec60843ac0888338b2.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v0441",
+      "variable": "Driftkostnader för FoU avs. produkt 5",
+      "register_version": "2003",
+      "source_task_id": "81674b54e4a3976611e4232adc0f6ebc6eebdc309334aadfba4542165a00c22c",
+      "id": "211593969ef745d0334eaf1156d31a3b1528318f8ac3f7161643b68a76c9ce6a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0441",
+          "ar_raw": "2001-2015",
+          "kallrad": 1747,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "efb211455876692ad2a76ef6e1602fe8831e2db37ea13204baf606a39ba64e82",
+        "path": "data/variable-documentation/efb211455876692ad2a76ef6e1602fe8831e2db37ea13204baf606a39ba64e82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -1516,6 +1748,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0461",
+      "variable": "Driftkostnader för FoU avs. produkt 7",
+      "register_version": "2003",
+      "source_task_id": "3b940aecb71a5cc9e43933cde1ec93dd36c0daf2fd9a971089ab13de9968d23c",
+      "id": "9ec9da8102876deb48d6358bd532e0c7757575aa140e9636b7c496297745d1a4",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0461",
+          "ar_raw": "2001-2015",
+          "kallrad": 1750,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc1427d22b1ba5d84a1ed2d566d8c642ddc1009fd2aa3abfec9fd4693d85ae98",
+        "path": "data/variable-documentation/bc1427d22b1ba5d84a1ed2d566d8c642ddc1009fd2aa3abfec9fd4693d85ae98.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v0462",
       "variable": "Investeringsutgifter för FoU avs. produkt 7",
       "register_version": "2003",
@@ -1599,6 +1860,35 @@
         "path": "data/variable-documentation/a31946418e11e3b3912af19be7f0af985849e9051d68cf1fb38c0cf5572ef0c5.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v0472",
+      "variable": "Investeringsutgifter för FoU avs. produkt 8",
+      "register_version": "2003",
+      "source_task_id": "214b6d84009636d10484029adbf903d9945f0ce9d7b950dda7cb19e214ad02b0",
+      "id": "6d3d2518b3933a431286661ff256a982c7733286fd7866cea5e91824e1c58ef1",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0472",
+          "ar_raw": "2001-2015",
+          "kallrad": 1752,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "160f297f62a266c43a253c9f8f0d5442bd99044e17c3af7e5d3de77ff51479d1",
+        "path": "data/variable-documentation/160f297f62a266c43a253c9f8f0d5442bd99044e17c3af7e5d3de77ff51479d1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -3082,6 +3372,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0581",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Uppsala",
+      "register_version": "2003",
+      "source_task_id": "f0ab3aa25c50b9e5b6b27d5e68261fa1c2129c7c9a032a9753b8104111a89d2b",
+      "id": "af96cfb1677c8b7420eed7b8c826c1df5fc2c279aaceaf54b5ce596c1f17582b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0581",
+          "ar_raw": "2001-2017",
+          "kallrad": 1755,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8e2ce9653c6b3c8173229f8ada65dccff1b850f29eb4b77c1011f0f3121bd17",
+        "path": "data/variable-documentation/b8e2ce9653c6b3c8173229f8ada65dccff1b850f29eb4b77c1011f0f3121bd17.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v0582",
       "variable": "FoU regionala fördelning:FoU-utgifter i Uppsala",
       "register_version": "2003",
@@ -3256,6 +3575,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0611",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Jönköping",
+      "register_version": "2003",
+      "source_task_id": "2f0da7cabd9689a74222cbb3e74550206c6c261887ab573faa8a968e958258f4",
+      "id": "cf4019b3bbb4d29f1fab88026314ac1398cfd02d0b9cbd7224085a9f49cf74ab",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0611",
+          "ar_raw": "2001-2017",
+          "kallrad": 1758,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b096b601411c9af0aa4c88ed327cddf7f83896d0631a05330a72efea0d820ef6",
+        "path": "data/variable-documentation/b096b601411c9af0aa4c88ed327cddf7f83896d0631a05330a72efea0d820ef6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v0612",
       "variable": "FoU regionala fördelning:FoU-utgifter i Jönköping",
       "register_version": "2003",
@@ -3310,6 +3658,35 @@
         "path": "data/variable-documentation/b46b198d303fab435ce367a6443e9ef58e7cc5964508a59112839dc54cf44273.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v0621",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Kronoberg",
+      "register_version": "2003",
+      "source_task_id": "36c50b13ba741afdbb4622f751a122fe854836b93324113f377c0122ac8000d3",
+      "id": "1e935c0b3a3a41afe035cb9fd7b1a2c9ea0647f0c20adfc9edebd21b9e7ee41d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0621",
+          "ar_raw": "2001-2017",
+          "kallrad": 1759,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96211c66ef6bfacdc104261acac0ad2c0b43114956936352459313fc5f7472a4",
+        "path": "data/variable-documentation/96211c66ef6bfacdc104261acac0ad2c0b43114956936352459313fc5f7472a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -3459,6 +3836,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0641",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Gotland",
+      "register_version": "2003",
+      "source_task_id": "6e841d36814db45361d11b757cf8ed2b5da110eef27d0d7246a7cae774b2ae87",
+      "id": "e77788bbdb36274b261efef55495311e76ae9e19fc7a3061f14ea227bf0c1a49",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0641",
+          "ar_raw": "2001-2017",
+          "kallrad": 1761,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "22948a6119866aeb17c5073969ea3b4feda1f3243bbd3e9aa631c063e77d721c",
+        "path": "data/variable-documentation/22948a6119866aeb17c5073969ea3b4feda1f3243bbd3e9aa631c063e77d721c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v0642",
       "variable": "FoU regionala fördelning:FoU-utgifter i Gotland",
       "register_version": "2003",
@@ -3604,6 +4010,35 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v0661",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Skåne",
+      "register_version": "2003",
+      "source_task_id": "17855b19f315bae0b20720f6120080d8f5821daf7ff26769100b3adf4c3cb3ea",
+      "id": "decbec5db6580f5fbf88a32e6c3b2a3fe972b5594411ec05ae6cdc7dd8db72c5",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0661",
+          "ar_raw": "2001-2017",
+          "kallrad": 1763,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25df08ba19a8a9ede8c7ed2e858ca0b2488426421faef0fb04ac3be7968e21c9",
+        "path": "data/variable-documentation/25df08ba19a8a9ede8c7ed2e858ca0b2488426421faef0fb04ac3be7968e21c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v0662",
       "variable": "FoU regionala fördelning:FoU-utgifter i Skåne",
       "register_version": "2003",
@@ -3658,6 +4093,35 @@
         "path": "data/variable-documentation/b98a091c8fd4d430e0306bc6895bd1afdb6ee275e4f798bc805c84c357fe75fb.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v0671",
+      "variable": "FoU regionala fördelning:FoU-årsverken i Halland",
+      "register_version": "2003",
+      "source_task_id": "333fa10bcf7c97b6e1dc226586bc56d21c9cd922dfbecf1e0c902bf652d8dfc0",
+      "id": "18f73243e52936934cd5de8a79b576f7e26ce117c052489c56e9d823956ab24f",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "v0671",
+          "ar_raw": "2001-2017",
+          "kallrad": 1764,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "da1941b29c1968d2f9b08450272701773b76db4a646665294121f8f96c499aa0",
+        "path": "data/variable-documentation/da1941b29c1968d2f9b08450272701773b76db4a646665294121f8f96c499aa0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -5804,6 +6268,35 @@
         "path": "data/variable-documentation/1c4d6ef20e00e658936a7c71eea523fd1ffbab1bba9fcac73687a2eec4228b2f.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v1272",
+      "variable": "Understöd: Internationella organisationer",
+      "register_version": "2003",
+      "source_task_id": "2685fb16f786c8110f4173a2486201f0b217203b98477b6825a87621c1864513",
+      "id": "6fc1d7adcdf84efab4500ca3e595b6d4aaea02ec55699c208b276afefab5532e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:01:56+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V1272",
+          "ar_raw": "2003",
+          "kallrad": 1234,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed68439290abca2f323a966335786f7ff086da801d8672beb84879b6066f0170",
+        "path": "data/variable-documentation/ed68439290abca2f323a966335786f7ff086da801d8672beb84879b6066f0170.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
     }
   ],
   "domains": [
@@ -5822,6 +6315,14 @@
       "id": "5a1975a0d3528b9f623d5b309ceacc561e39e0e1b21edfe8315136138b91ae3c",
       "value_count": 22,
       "path": "data/value-domain-values/5a1975a0d3528b9f623d5b309ceacc561e39e0e1b21edfe8315136138b91ae3c.json"
+    },
+    {
+      "version": "SNI 2007, Aktiviteter, alternativ",
+      "level": "Detaljgrupp",
+      "data_type": "varchar(15)",
+      "id": "5e391c6987c326b35394df16eb5c66f09587c156a5b26a4db548dce4d991d99e",
+      "value_count": 821,
+      "path": "data/value-domain-values/5e391c6987c326b35394df16eb5c66f09587c156a5b26a4db548dce4d991d99e.json"
     },
     {
       "version": "Ja(Finns)/Nej",
@@ -5846,6 +6347,14 @@
       "id": "91df99a88dca05510945910c643c7a61f8a79570cb5471040e9a7019a98ac5eb",
       "value_count": 821,
       "path": "data/value-domain-values/91df99a88dca05510945910c643c7a61f8a79570cb5471040e9a7019a98ac5eb.json"
+    },
+    {
+      "version": "NUTS-indelningen i Sverige",
+      "level": "NUTS 3",
+      "data_type": "varchar(32)",
+      "id": "9df537b0da372e85a0edf85972df2e3e8adb0b33a2b2e2410ab3806f06342fe8",
+      "value_count": 22,
+      "path": "data/value-domain-values/9df537b0da372e85a0edf85972df2e3e8adb0b33a2b2e2410ab3806f06342fe8.json"
     },
     {
       "version": "Standard för institutionell sektorindelning 2014",
@@ -5874,15 +6383,15 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "1cd40a74955c1066a61a32318880cd8661f620b0914e3b416accff280a60941d",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:54:19+00:00",
+    "retrieved_at": "2026-11-21T10:01:56+00:00",
     "task_count": 227,
     "expected_bindings": 225,
-    "documented_bindings": 200,
+    "documented_bindings": 217,
     "errors": [
       "AnstS: inga verifierade beställningsperioder i källversionerna ['2003']..['2003']",
       "Ar: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Ar\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Forskning och utveckling i Sverige\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Företag\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Referensår\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2005\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2005\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
