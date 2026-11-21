@@ -1,0 +1,98 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "float"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Andel av inkomsten som är föranledd av sjukdom"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Andel av inkomsten som är föranledd av sjukdom."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Andel av den totala summan av förvärvsinkomster och transfereringar under aktuell månad som består av ersättning vid sjukdom, efter att skatten har tagits bort."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Andel"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Variabeln är en känslig personuppgift enligt dataskyddsförordningen, för att få behandla en sådan uppgift måste det finnas stöd för behandlingen."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2021.  Där det är möjligt används uppgift om den tidsperiod då aktiviteten utfördes. Det handlar framför allt om uppgifter kopplade till ersättningar för tillfälligt frånvarande, studier, sjuka och pensioner. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer per den sista i  referensmånaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-01-01 - 2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB), SCB:s företagsdatabas (FDB) och register om inskrivna grundläggande högskoleutbildning och Kommunal vuxenutbildning.  "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Slutliga månadsuppgifter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Slutliga månadsuppgifter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Uppgifterna ligger till grund för slutlig statistik per månad. De slutliga månadsregistren innehåller mer uppdaterad och korrigerad administrativ information än de preliminära månadsversionerna."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVersion",
+      "value": "Förändringen utgörs framför allt av striktare krav för att antas vara en verksam företagare och därmed klassificeras som att egenföretagare. För företagare i AB inkluderas nu inkomstuppgifter från deklarationen av K10-bilagan vid kategoriseringen av yrkesställning."
+    }
+  ],
+  "id": "76f239a18b46ce5bbce4386e42e05f8967efd6d8905cf45460edbf20e129fdd1"
+}

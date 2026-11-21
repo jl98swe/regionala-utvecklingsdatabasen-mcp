@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(3)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Yrkesställning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Definieras utifrån det arbetsställe vid vilken personen bedöms ha bedrivit sin huvudsakliga verksamhet."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgiften finns för sysselsatta och avser personens huvudsakliga yrkesställning under månaden. I de fall då det för den sysselsatta personen både finns uppgift om utbetald ersättning för arbete enligt AGI och att personen antas driva ett verksamt företag som enskild näringsidkare, handels- eller kommanditbolagsägare eller företagare i eget aktiebolag bestäms yrkesställningen genom att relatera den utbetalda ersättningen för arbete med företagarinkomsten."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2023.  Där det är möjligt används uppgift om den tidsperiod då aktiviteten utfördes. Det handlar framför allt om uppgifter kopplade till ersättningar för tillfälligt frånvarande, studier, sjuka och pensioner. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer per den sista i  referensmånaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-01-01 - 2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB), SCB:s företagsdatabas (FDB) och register om inskrivna grundläggande högskoleutbildning och Kommunal vuxenutbildning.  "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Slutliga månadsuppgifter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Slutliga månadsuppgifter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Uppgifterna ligger till grund för slutlig statistik per månad. De slutliga månadsregistren innehåller mer uppdaterad och korrigerad administrativ information än de preliminära månadsversionerna."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVersion",
+      "value": "Förändringen utgörs framför allt av striktare krav för att antas vara en verksam företagare och därmed klassificeras som att egenföretagare. För företagare i AB inkluderas nu inkomstuppgifter från deklarationen av K10-bilagan vid kategoriseringen av yrkesställning."
+    }
+  ],
+  "id": "78ceddf06cee5d4b5a663dcfb4828088500f2bc89e36332bc719cc134f55f7b6"
+}
