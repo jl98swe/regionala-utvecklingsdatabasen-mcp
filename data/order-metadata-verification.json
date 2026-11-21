@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T15:06:28+00:00",
+  "checked_at": "2026-11-21T15:20:27+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 14859,
-    "documentation": 14859,
-    "nonempty_definition": 14859,
-    "nonempty_method": 14859,
-    "verified_domains": 14776,
-    "enumerated": 6956,
-    "not_enumerated": 7820,
+    "bindings": 15059,
+    "documentation": 15059,
+    "nonempty_definition": 15059,
+    "nonempty_method": 15059,
+    "verified_domains": 14976,
+    "enumerated": 7047,
+    "not_enumerated": 7929,
     "complete_groups": 42,
     "groups_with_source_errors": 9,
     "documentation_only": 83,
     "groups": 51,
-    "unique_domains": 1007
+    "unique_domains": 1008
   },
   "integrity_errors": [],
   "groups": [
@@ -136,13 +136,13 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 1800,
-      "documentation": 1800,
-      "nonempty_definition": 1800,
-      "nonempty_method": 1800,
-      "verified_domains": 1792,
-      "not_enumerated": 927,
-      "enumerated": 865,
+      "bindings": 2000,
+      "documentation": 2000,
+      "nonempty_definition": 2000,
+      "nonempty_method": 2000,
+      "verified_domains": 1992,
+      "not_enumerated": 1036,
+      "enumerated": 956,
       "documentation_only": 8,
       "source_errors": 9,
       "source_error_examples": [
@@ -1139,7 +1139,7 @@
       "documented_columns": 17
     },
     "sivstock": {
-      "documented_versions": 17,
+      "documented_versions": 19,
       "documented_columns": 2
     },
     "slutbetyg_ak9": {
@@ -1147,7 +1147,7 @@
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 1798,
+      "documented_versions": 1998,
       "documented_columns": 304
     },
     "uhv": {
