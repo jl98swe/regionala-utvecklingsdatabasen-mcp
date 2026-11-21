@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Klassificering av arbetsställen i FAD"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Arbetsställen i FAD klassificeras som kvarvarande, nya eller nedlaga."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Genom att följa individer och grupper av individer \r\nunder ett årpar klassificeras arbetsställen som \r\nkvarvarande eller nybildade."
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registervarianten innehåller information om kvarvarande, nybildade och avknoppade arbetsställen, information som tas fram med hjälp av registerdata."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Arbetsställen i Sverige med minst en sysselsatt enligt RAMS"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Arbetsställen i Sverige med minst en sysselsatt enligt RAMS/BAS"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla arbetsställen som har minst en sysselsatt enligt Registbaserad arbetsmarknadsstatistik (RAMS). Från 2022 avgränsas företagstabellen utifrån Befolkningens arbetsmarknadsstatus (BAS)."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla arbetsställen som har minst en sysselsatt enligt Registerbaserad arbetsmarknadsstatstik (RAMS) och Befolkningens arbetsmarknadsstatus (BAS)."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2000-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om företag hämtas från Företagsdatabasen och till viss del även från administrativa data från Skatteverket."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Arbetsställeenhet är en del av (eller ett helt) företag som finns på en geografiskt identifierad plats (adress, fastighet edy). På denna plats bedrivs ekonomisk verksamhet inom företaget vilken (med vissa specificerade undantag) sysselsätter en eller flera personer."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Företagens och arbetsställenas dynamik (FAD), Arbetsställen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "FAD, Arbetsställen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller information om kvarvarande, nybildade och avknoppade arbetsställen, information som tas fram med hjälp av registerdata."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registerbaserad arbetsmarknadsstatistik (RAMS)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Totalräknat register över befolkningen med uppgifter om sysselsättning, pendling, arbetskraftsflöden m.m."
+    }
+  ],
+  "id": "fb5231e4f9ef584a9f1a91b5470f408f65903237376b430b905f17b24abad117"
+}
