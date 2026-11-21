@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Förvärvsinkomst och arbetsrelaterade ersättningar, inkl. underskott"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Summan av förvärvsinkomst och arbetsrelaterade ersättningar, förutsätter att kontant bruttolön eller inkomst av näringsverksamhet är större än noll."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Summa Kontant bruttolön, Inkomst av näringsverksamhet (RAMS - Individer), Sjukpenning, Havandeskapspenning, Smittbärarpenning, Sjuklönegaranti, Skattepliktig arbetsskadeersättning, Föräldrapenning vid barn födelse eller adoption, Tillfällig föräldrapenning för vård av barn, Närståendepenning och Rehabiliteringsersättning (IoT - Individer och dödsbon).\r\nFörvärvsinkomst och arbetsrelaterade ersättningar redovisas endast när Kontant bruttolön eller Inkomst av näringsverksamhet (motsvarande) är större än noll."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Longitudinell integrationsdatabas (LISA) : Individer, 16 år och äldre"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2007."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2007-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "ac83087ef4683cde8da938cc1675bbf71fdeb87104747c6a852f5d9b12b8b29e"
+}
