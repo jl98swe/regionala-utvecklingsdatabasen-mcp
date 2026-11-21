@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "c8edbeb5fdd65b469cc4",
+  "register": "Grundskola: betyg åk 9",
+  "variant": "Grundskolan: betyg åk 9",
+  "bindings": [],
+  "domains": [],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "c4ba7942ea590d7f080fd435396891dd5e4f847f5ac6000c0ef7e0e551a2ed62",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:52:40+00:00",
+    "task_count": 12,
+    "expected_bindings": 0,
+    "documented_bindings": 0,
+    "errors": [
+      "AntalBetyg: inga verifierade beställningsperioder i källversionerna ['Läsåret 2020/2021', 'Läsåret 2025/2026']..['Läsåret 2020/2021', 'Läsåret 2025/2026']",
+      "Antal_Betyg: inga verifierade beställningsperioder i källversionerna ['Läsåret 2007/2008', 'Läsåret 2010/2011']..['Läsåret 2007/2008', 'Läsåret 2010/2011']",
+      "Antal_Betyg: inga verifierade beställningsperioder i källversionerna ['Läsåret 2003/2004', 'Läsåret 2019/2020']..['Läsåret 2003/2004', 'Läsåret 2019/2020']",
+      "Beh_Gymn: inga verifierade beställningsperioder i källversionerna ['Läsåret 1997/1998', 'Läsåret 2025/2026']..['Läsåret 1997/1998', 'Läsåret 2025/2026']",
+      "En: inga verifierade beställningsperioder i källversionerna ['Läsåret 1987/1988', 'Läsåret 2025/2026']..['Läsåret 1987/1988', 'Läsåret 2025/2026']",
+      "Kommun: inga verifierade beställningsperioder i källversionerna ['Läsåret 1997/1998', 'Läsåret 2025/2026']..['Läsåret 1997/1998', 'Läsåret 2025/2026']",
+      "MA: inga verifierade beställningsperioder i källversionerna ['Läsåret 1987/1988', 'Läsåret 2025/2026']..['Läsåret 1987/1988', 'Läsåret 2025/2026']",
+      "Meritvarde: inga verifierade beställningsperioder i källversionerna ['Läsåret 1997/1998', 'Läsåret 2025/2026']..['Läsåret 1997/1998', 'Läsåret 2025/2026']",
+      "MeritVarde_M2: inga verifierade beställningsperioder i källversionerna ['Läsåret 2013/2014', 'Läsåret 2025/2026']..['Läsåret 2013/2014', 'Läsåret 2025/2026']",
+      "SV2: inga verifierade beställningsperioder i källversionerna ['Läsåret 1987/1988', 'Läsåret 1996/1997']..['Läsåret 1987/1988', 'Läsåret 1996/1997']",
+      "Sv: inga verifierade beställningsperioder i källversionerna ['Läsåret 1987/1988', 'Läsåret 2025/2026']..['Läsåret 1987/1988', 'Läsåret 2025/2026']",
+      "Sva: inga verifierade beställningsperioder i källversionerna ['Läsåret 1997/1998', 'Läsåret 2025/2026']..['Läsåret 1997/1998', 'Läsåret 2025/2026']"
+    ]
+  }
+}
