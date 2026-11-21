@@ -1,0 +1,102 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Termin för avklarade poäng"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Termin för avklarade poäng"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgift om avklarade poäng avser hösttermin eller vårtermin. Används i kombination med År för avlagda poäng."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Lärosätenas studiedokumentationsregister"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Versionen innehåller uppgifter om avklarade poäng från och med 1993/1994 och framåt. Uppgifter finns bara för högskolor som använder studiedokumentationssystemet Ladok samt för Handelshögskolan i Stockholm."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Studerande vid universitet och högskolor, grundläggande utbildning - avklarade poäng"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Studerande vid universitet och högskolor som klarat poäng i den grundläggande högskoleutbildningen."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1993-07-01 - 2026-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uttag ur högskolornas studieadministrativa system, Ladok samt för Handelshögskolan i Stockholm. Uttaget görs varje termin. Uttagen görs terminsvis.\r\nInformation hämtas även från RTB, UREG och KomVux-register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Studerande vid universitet och högskolor, grundläggande utbildning - avklarade poäng"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Grundutb, avklarade poäng"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller uppgifter om avklarade poäng från och med 1993/94 och framåt. Uppgifter finns bara för högskolor som använder studiedokumentationssystemet Ladok  samt för Handelshögskolan i Stockholm från 2011."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Universitets- och högskoleregistret (HREG)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Universitets- och högskoleregistret "
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Universitets- och högskoleregistret är en sammanfattande benämning för den högskolestatistik över studerande och examina i grund- och forskarutbildning som regleras i SFS 1993:1153 (föregången av SFS1981:516). Registret omfattar även sökande till grundutbildningen.\r\n\r\nRegistret ska även vara en urvalsram för enkätundersökningar och kunna sambearbetas med annan statistik."
+    },
+    {
+      "name": "Tidsseriebrott - Register",
+      "value": "Den 1 juli 2007 infördes en ny utbildnings- och examensstruktur i högskolan. All högre utbildning delas in i tre nivåer: - grundnivå - avancerad nivå - forskarnivå. Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning. Samtidigt infördes ett nytt poängsystem. Den nya poängen kallas högskolepoäng (hp). Ett heltidsstudieår motsvarar 60 hp."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Grundnivå och avancerad nivå motsvarar det som tidigare kallades grundläggande högskoleutbildning."
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVariant",
+      "value": "Högskoleämne ersätts med högskoleämnesgrupp från och med höstterminen 2007."
+    }
+  ],
+  "id": "402dd23e39e4c5ec75fa88e3bc3ea0baf16b578e20e6bb8a7097a4b837f44776"
+}

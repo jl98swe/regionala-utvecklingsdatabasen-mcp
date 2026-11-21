@@ -27,7 +27,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "91b06f2561fd96756d9d07e0ae5038321cfaccaa6099166eb34d9b6299f9dc4c",
+        "path": "data/variable-documentation/91b06f2561fd96756d9d07e0ae5038321cfaccaa6099166eb34d9b6299f9dc4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:19:32+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -51,7 +56,12 @@
           "method": "case_only"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "87dcee038c0aac8a18cd49c66ce69bbde12c1005f7e053088c7008b1fbc0f89b",
+        "path": "data/variable-documentation/87dcee038c0aac8a18cd49c66ce69bbde12c1005f7e053088c7008b1fbc0f89b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:19:32+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -75,7 +85,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "402dd23e39e4c5ec75fa88e3bc3ea0baf16b578e20e6bb8a7097a4b837f44776",
+        "path": "data/variable-documentation/402dd23e39e4c5ec75fa88e3bc3ea0baf16b578e20e6bb8a7097a4b837f44776.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:19:32+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -99,7 +114,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "dc8e30ddefb456e35f55c4ff0bb4a7ec2f43c0089d71d3c2d962c04ccd70019a",
+        "path": "data/variable-documentation/dc8e30ddefb456e35f55c4ff0bb4a7ec2f43c0089d71d3c2d962c04ccd70019a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:19:32+00:00"
     },
     {
       "register": "Universitets- och högskoleregistret ",
@@ -123,7 +143,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": true
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b5d65b2bb652983d56e36e9e471371e3efb4d654ede841ee4fd70bc69dec885a",
+        "path": "data/variable-documentation/b5d65b2bb652983d56e36e9e471371e3efb4d654ede841ee4fd70bc69dec885a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:19:32+00:00"
     }
   ],
   "domains": [
@@ -170,14 +195,15 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "557c121fdcf36ff23582bc1e230d5e0da231b8fa119c14cd658893a8c3b81b46",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-20T22:49:31+00:00",
+    "retrieved_at": "2026-11-21T07:19:32+00:00",
     "task_count": 5,
     "expected_bindings": 5,
+    "documented_bindings": 5,
     "errors": []
   }
 }
