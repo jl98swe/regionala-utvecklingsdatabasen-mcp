@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Ekonomiskt stöd"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Ekonomiskt stöd"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Summering av Ekonomiskt bistånd (ISOCB), Bostadsbidrag (IBOSTBU) samt Äldreförsörjningsstöd (IALDF). "
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2023."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31 - 2023-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB)."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Preliminära månadsuppgifter: första redovisningen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Prel. månadsuppg: första redovisningen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "De preliminära uppgifterna för perioden januari 2020 till februari 2026 har reviderats. I denna variant redovisas de uppgifter som låg till grund för den statistik som redovisades vid det första publiceringstillfället. Syftet med att ta fram preliminära register är att möjliggöra en så snabb redovisning som möjligt av statistik om arbetsmarknadsstatus efter referensmånaden."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    }
+  ],
+  "id": "a7d43b2f817a0a3504bcd06e4d71b4b5a50d431ae1f2205c9c4c0e2958e4d599"
+}
