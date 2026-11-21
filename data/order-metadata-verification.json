@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T14:08:21+00:00",
+  "checked_at": "2026-11-21T14:25:46+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 13518,
-    "documentation": 13518,
-    "nonempty_definition": 13518,
-    "nonempty_method": 13518,
-    "verified_domains": 13438,
-    "enumerated": 6560,
-    "not_enumerated": 6878,
+    "bindings": 13918,
+    "documentation": 13918,
+    "nonempty_definition": 13918,
+    "nonempty_method": 13918,
+    "verified_domains": 13838,
+    "enumerated": 6666,
+    "not_enumerated": 7172,
     "complete_groups": 41,
     "groups_with_source_errors": 9,
     "documentation_only": 80,
     "groups": 51,
-    "unique_domains": 970
+    "unique_domains": 987
   },
   "integrity_errors": [],
   "groups": [
@@ -136,13 +136,13 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 1000,
-      "documentation": 1000,
-      "nonempty_definition": 1000,
-      "nonempty_method": 1000,
-      "verified_domains": 995,
-      "not_enumerated": 501,
-      "enumerated": 494,
+      "bindings": 1200,
+      "documentation": 1200,
+      "nonempty_definition": 1200,
+      "nonempty_method": 1200,
+      "verified_domains": 1195,
+      "not_enumerated": 607,
+      "enumerated": 588,
       "documentation_only": 5,
       "source_errors": 6,
       "source_error_examples": [
@@ -722,13 +722,13 @@
       ],
       "complete": false,
       "expected_bindings": 1541,
-      "bindings": 1000,
-      "documentation": 1000,
-      "nonempty_definition": 1000,
-      "nonempty_method": 1000,
-      "verified_domains": 1000,
-      "not_enumerated": 893,
-      "enumerated": 107,
+      "bindings": 1200,
+      "documentation": 1200,
+      "nonempty_definition": 1200,
+      "nonempty_method": 1200,
+      "verified_domains": 1200,
+      "not_enumerated": 1081,
+      "enumerated": 119,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -1107,7 +1107,7 @@
       "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 1000,
+      "documented_versions": 1200,
       "documented_columns": 68
     },
     "lisa_individ": {
@@ -1147,7 +1147,7 @@
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 999,
+      "documented_versions": 1198,
       "documented_columns": 304
     },
     "uhv": {
