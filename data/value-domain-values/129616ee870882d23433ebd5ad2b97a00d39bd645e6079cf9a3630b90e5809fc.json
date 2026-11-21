@@ -1,0 +1,32 @@
+{
+  "version": "FEStat, FDB",
+  "level": "Företagsenhetens verksamhetsstatus",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "0",
+      "label": "Har aldrig varit verksam"
+    },
+    {
+      "code": "1",
+      "label": "Verksam"
+    },
+    {
+      "code": "2",
+      "label": "Företag som har stor ekonomisk betydelse (endast juridiska personer)"
+    },
+    {
+      "code": "7",
+      "label": "Ej verksam, \"dublett\""
+    },
+    {
+      "code": "8",
+      "label": "Ej verksam, \"icke-FE\""
+    },
+    {
+      "code": "9",
+      "label": "Ej verksam, enligt regler"
+    }
+  ],
+  "id": "129616ee870882d23433ebd5ad2b97a00d39bd645e6079cf9a3630b90e5809fc"
+}

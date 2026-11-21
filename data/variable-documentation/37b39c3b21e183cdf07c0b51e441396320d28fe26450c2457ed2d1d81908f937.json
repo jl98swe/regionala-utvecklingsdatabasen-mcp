@@ -1,0 +1,86 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "tinyint"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Procent för tid eller omsättning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Procentuell fördelning av antingen AEs,VEs,FEs eller LVEs statistiska näringsgrenar efter tid eller omsättning."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Den procentuella fördelningen av företagsenhetens statistiska näringsgrenar efter tid eller omsättning, vilket härleds från arbetsälleneheten eller arbetsställeenheterna."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Procent"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Företagsenheten är en organisatorisk enhet som producerar varor eller tjänster och bedriver en eller flera verksamheter vid en eller flera platser. Enheten har själv beslutanderätt, särskilt över hur den fördelar sina produktionsresurser. Företagsenheten motsvarar en eller flera juridiska enheter."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga företagsenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Företagsenheter i Sverige, både verksamma och ej verksamma."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2004-11-26"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Företagsenheter skapas av SCB och får ett unikt identitetsnummer i FDB när en juridisk enhet blir verksam."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Företagsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "En företagsenhet (FE) är en organisatorisk enhet som producerar varor eller tjänster. Enheten har själv beslutanderätt, särskilt för hur den fördelar sina produktionsresurser. En företagsenhet bedriver en eller flera verksamheter vid en eller flera platser. Dessutom har företagsenhet en fullständig bokföring, om inte ska det vara möjligt och meningsfullt, både från ekonomisk och juridisk synpunkt, att sammanställa en fullständig bokföring om så krävs."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Företagsenheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Företagsenheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Samtliga registrerade företagsenheter. Varje juridisk enhet tillhör en företagsenhet (FE). Omfattar både verksamma och icke verksamma FE."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "37b39c3b21e183cdf07c0b51e441396320d28fe26450c2457ed2d1d81908f937"
+}
