@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Behörighet från grundskola"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "För att en elev ska vara behörig till gymnasieskolans nationella program krävs lägst betyget godkänd i ämnena svenska/svenska som andraspråk, engelska och matematik"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Variabeln anger om eleven har gått ut grundskolan med mål- och kunskapsrelaterat slutbetyg. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Variabeln anges enbart för de elever som slutfört sin grundskoleutbildning under våren aktuellt år. Skolverket räknar enbart de elever som har fått ett mål- och kunskapsrelaterat slutbetyg som behöriga, därför rekommenderas att använda denna variabel som komplement till variabeln Behörighet till gymnasieskolans nationella program."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Grundskola: betyg åk 9 : Grundskolan: betyg åk 9"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 1998."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1998-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "15c964e83062af0e9c84d813c6633f2e66cfbde2162f049edb3ad1b6420a8d3e"
+}

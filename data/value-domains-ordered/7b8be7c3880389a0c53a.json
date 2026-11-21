@@ -677,6 +677,35 @@
       "variant": "STATIV",
       "column": "AdBioKodFar",
       "variable": "Biologisk/adoption far",
+      "register_version": "1997",
+      "source_task_id": "4be3142fc7592a628c79f66bc8ad9263e0840fc8282383e54ddeb475c1a6acf2",
+      "id": "39b3f106b233349acbb62f25e9c5ab09a9e644e843ea8f77d74124c1600c4040",
+      "domain_id": "486d0021d6537525b49353b8bb5ff8c462e82a7162696d14f5e471e4fb554fa4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AdBioKodFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 3771,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d37a041f98793b0552c00fbef9f367316c77f108a329f43d320d53c1b1fb88eb",
+        "path": "data/variable-documentation/d37a041f98793b0552c00fbef9f367316c77f108a329f43d320d53c1b1fb88eb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AdBioKodFar",
+      "variable": "Biologisk/adoption far",
       "register_version": "1998",
       "source_task_id": "4be3142fc7592a628c79f66bc8ad9263e0840fc8282383e54ddeb475c1a6acf2",
       "id": "bc92ea09c738b6b20a5d43b35c54a514b17ffa28377439e734e8f543997d907c",
@@ -1454,6 +1483,35 @@
         "path": "data/variable-documentation/db6e372b233ff17a84297093813dbaa740ecb33dd126a9c375f034fcf32db474.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AdBioKodMor",
+      "variable": "Biologisk/adoption mor",
+      "register_version": "1997",
+      "source_task_id": "993add01934d649a52130271f497f0d5230f15c7a4127a2a4e86fc9f39738a4a",
+      "id": "566c31e2e0b75cdd11234489df905a966cc76c9e0fe0085ec4630204878954c1",
+      "domain_id": "486d0021d6537525b49353b8bb5ff8c462e82a7162696d14f5e471e4fb554fa4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AdBioKodMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 3772,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f766db78af46e9bb9305f888f596287c9ce03cbe523fa28a405cef24ec436c3d",
+        "path": "data/variable-documentation/f766db78af46e9bb9305f888f596287c9ce03cbe523fa28a405cef24ec436c3d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -2417,6 +2475,35 @@
       "variant": "STATIV",
       "column": "AfAvOrs",
       "variable": "Avaktualiseringsorsak",
+      "register_version": "1997",
+      "source_task_id": "09d68fade562fa5e07d7d0c48ca361ab2ce9b2e22008a7341c11c4c49c094f3a",
+      "id": "97f49cb03c1be7a9ca4899ef889091b15be7d49a6c892ab47f68c779e11a7754",
+      "domain_id": "c363aedf7e3ca9c2121d990b7115e13bbd93d1dd5cd218b3fe85746219c1689e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfAvOrs",
+          "ar_raw": "1997-2024",
+          "kallrad": 3774,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5cf5ec86ee60cd03c30b3286b27fbf0448ab6f4bfa908ad5671b82ee1fa26ade",
+        "path": "data/variable-documentation/5cf5ec86ee60cd03c30b3286b27fbf0448ab6f4bfa908ad5671b82ee1fa26ade.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfAvOrs",
+      "variable": "Avaktualiseringsorsak",
       "register_version": "1998",
       "source_task_id": "09d68fade562fa5e07d7d0c48ca361ab2ce9b2e22008a7341c11c4c49c094f3a",
       "id": "6f941166f9b3e662c1d46e02ab6b78fb4a49eeb9a185bc0d2ecaf84e5a0750d7",
@@ -3194,6 +3281,35 @@
         "path": "data/variable-documentation/fdd293e366a8544c3413a901fe21d6b0447ba8f91566870a03a61fcc8630bb6a.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfDagarAr",
+      "variable": "Inskriven vid Arbetsförmedlingen dagar under året",
+      "register_version": "1997",
+      "source_task_id": "0b5b1e2e48d0480adae92a4115665ab037dd5d3cf9e04515aa64d7c05b83de1d",
+      "id": "c31349cdef2ae434ed00f335210e6e0402351b1a8749238c0be743b5407d7c48",
+      "domain_id": "7ac51cc3011966f9fbd07f1f046020e1eeb17ae0d48572aa43d5c121952a6be8",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfDagarAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3775,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95d96ebad5421c13b41ac3544f7518c1b9991a4dc969d3e2514f39b5e2cb7fac",
+        "path": "data/variable-documentation/95d96ebad5421c13b41ac3544f7518c1b9991a4dc969d3e2514f39b5e2cb7fac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -3983,6 +4099,35 @@
       "variant": "STATIV",
       "column": "AfDagarArFar",
       "variable": "Inskriven vid Arbetsförmedlingen dagar under året, fader",
+      "register_version": "1997",
+      "source_task_id": "df068c3942404ea73745e60e65bd562ca444b9a0256b0dd3080853299b32db3c",
+      "id": "ed2a5601cc7263ad4baf29e9ec40a7ad6209ffda6a6fcd2cc1da0da7f878c4ea",
+      "domain_id": "7ac51cc3011966f9fbd07f1f046020e1eeb17ae0d48572aa43d5c121952a6be8",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfDagarArFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 3776,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a2e0b0696bae906625e8183297bb81a08997be3d2b6bf9c14e1b15e6bf4020e4",
+        "path": "data/variable-documentation/a2e0b0696bae906625e8183297bb81a08997be3d2b6bf9c14e1b15e6bf4020e4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfDagarArFar",
+      "variable": "Inskriven vid Arbetsförmedlingen dagar under året, fader",
       "register_version": "1998",
       "source_task_id": "df068c3942404ea73745e60e65bd562ca444b9a0256b0dd3080853299b32db3c",
       "id": "b62c55b4a6d9ea5d9f4b5e0ddd570529a20f9efff3217e1b21d92ff0908143ca",
@@ -4760,6 +4905,35 @@
         "path": "data/variable-documentation/4f3366b6224a5d5a0373d25ece4a18ba078301c5b0726025dc6c86d2c93d2e3e.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfDagarArMor",
+      "variable": "Inskriven vid Arbetsförmedlingen dagar under året, moder",
+      "register_version": "1997",
+      "source_task_id": "50b6b1a3bde169a637fd7d5de026c90d25b9ddb86c9bdc9355f6cf325a4b5624",
+      "id": "36dea004fbdb59b22ad5170c83b83552aae6dd9264f6c27d74ee6fbbd049c351",
+      "domain_id": "7ac51cc3011966f9fbd07f1f046020e1eeb17ae0d48572aa43d5c121952a6be8",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfDagarArMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 3777,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d8ad48d2673f5059c687b5a06001fc5a9f33f47b8eecd3221dd5a7be35f960df",
+        "path": "data/variable-documentation/d8ad48d2673f5059c687b5a06001fc5a9f33f47b8eecd3221dd5a7be35f960df.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -5549,6 +5723,35 @@
       "variant": "STATIV",
       "column": "AfDagarArSum",
       "variable": "Inskriven vid Arbetsförmedlingen dagar totalt",
+      "register_version": "1997",
+      "source_task_id": "9682ee2beb570f4bbe285b8868560fac5af0e7a042de4976418c372f9b865dee",
+      "id": "4997b19b8fa26411d5e30f8c5671af2f80948d76f89a7450696ff9c96dc81103",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfDagarArSum",
+          "ar_raw": "1997-2024",
+          "kallrad": 3778,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "83eaf915730a5a2a7db10c64e23f27224256945ac9c0467937bea7b257a76ba1",
+        "path": "data/variable-documentation/83eaf915730a5a2a7db10c64e23f27224256945ac9c0467937bea7b257a76ba1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfDagarArSum",
+      "variable": "Inskriven vid Arbetsförmedlingen dagar totalt",
       "register_version": "1998",
       "source_task_id": "9682ee2beb570f4bbe285b8868560fac5af0e7a042de4976418c372f9b865dee",
       "id": "2816c5663d2f8e1d77daad6097179929bb5f4492d0ab30d0724a38ba169ce0cf",
@@ -6326,6 +6529,35 @@
         "path": "data/variable-documentation/15bb56c7edae9ce7a03bb0e9929485b216047737a6bd28adee5a9a5cf94b9831.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfInskr",
+      "variable": "Inskriven vid Arbetsförmedlingen",
+      "register_version": "1997",
+      "source_task_id": "cc95fd5ce329e8d8d5f64c115cce5279ab38af5fe2562d675af4e3cbc76cf637",
+      "id": "e577bc4352418a2b0b595a61d354bfaec6e309167460d3bdb8879a143628f754",
+      "domain_id": "d5119ba4e4baa8c5e2a243b78091f12b25161d0a28e3648f8497fae94598e9af",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfInskr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3779,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4da6e70a16af8d904012345d1a17e34f13a7f8e4b7fa659ae0415448bc440ae7",
+        "path": "data/variable-documentation/4da6e70a16af8d904012345d1a17e34f13a7f8e4b7fa659ae0415448bc440ae7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -7115,6 +7347,35 @@
       "variant": "STATIV",
       "column": "AfKassGrp",
       "variable": "Kassagrupp inom arbetslöshetskassan",
+      "register_version": "1997",
+      "source_task_id": "bb712023a24184c033e3ff3e529a46fa1e50a2c3c822e98ac25abf570e601a3b",
+      "id": "fdca5ca983c1d87bdd48bd42536b556170fb859ac20a8313d7ce301635f2a3b2",
+      "domain_id": "e73850a079b0af3566dfa2634647dfe99d584094a9dd696fe15f76e5226d54df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfKassGrp",
+          "ar_raw": "1997-2024",
+          "kallrad": 3780,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "61c07455c282a5e49035f2e50dd753204e9c056b5be0246e11bc258230e51c35",
+        "path": "data/variable-documentation/61c07455c282a5e49035f2e50dd753204e9c056b5be0246e11bc258230e51c35.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfKassGrp",
+      "variable": "Kassagrupp inom arbetslöshetskassan",
       "register_version": "1998",
       "source_task_id": "bb712023a24184c033e3ff3e529a46fa1e50a2c3c822e98ac25abf570e601a3b",
       "id": "4734a4d796a6e456480b5283b0f5447d4bc1ebfe7accdc21248413cdedcd83ed",
@@ -7892,6 +8153,35 @@
         "path": "data/variable-documentation/d6913a37cbde82a197dab36d9d8d13867dae1af1e7430d092ec02f44cc86217c.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfLang",
+      "variable": "Långtidsarbetslös",
+      "register_version": "1997",
+      "source_task_id": "21a1ebb42c0ba30e6f349ce1ff52226ab1cb6cdd02a1917f29e17cf8ae7c0d0c",
+      "id": "bbcedfb8b0ecfea4f1a5cbafda6a48421e59be01e0ee4343580103dd2b3082a8",
+      "domain_id": "8b2c6d6c826035cc0c0db3c50af2cbf0fd0f13e760e6388206f7ec9d3d72f8e4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfLang",
+          "ar_raw": "1997-2024",
+          "kallrad": 3781,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5aee2b050f1c142390ed1e98a564c1e6b355cb6096065969e0ab5894a4bdcfc",
+        "path": "data/variable-documentation/d5aee2b050f1c142390ed1e98a564c1e6b355cb6096065969e0ab5894a4bdcfc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -10189,6 +10479,35 @@
       "variant": "STATIV",
       "column": "AfSokKat",
       "variable": "Sökandekategori",
+      "register_version": "1997",
+      "source_task_id": "d9f3568e73fb2d7822fd41f697e679d58e7f68105e0ef192e577743c3efc49fa",
+      "id": "36db03be49a9f648fec0e60583a5b396e9105d31c55eca35e4e3104fcc233936",
+      "domain_id": "25b1403c99cf3edd3293ccb41459941fcbb4bac4d2e2ad3a6e68156afa4695de",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfSokKat",
+          "ar_raw": "1997-2024",
+          "kallrad": 3784,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6f66ae28794d9af14989e0e9f688884c0eedec1427e312b7a49d6f04c51f9e5d",
+        "path": "data/variable-documentation/6f66ae28794d9af14989e0e9f688884c0eedec1427e312b7a49d6f04c51f9e5d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfSokKat",
+      "variable": "Sökandekategori",
       "register_version": "1998",
       "source_task_id": "d9f3568e73fb2d7822fd41f697e679d58e7f68105e0ef192e577743c3efc49fa",
       "id": "15e92186bec230085f854bd696706d4dc50335d0d961d1d921b934203429641f",
@@ -11755,6 +12074,35 @@
       "variant": "STATIV",
       "column": "AfSokYrkErf",
       "variable": "Erfarenhet i sökt yrke",
+      "register_version": "1997",
+      "source_task_id": "fe721e0559ad7f9ead551e2ed0a215ece1d3af030ec1fbb2b9dbf4327e8c531f",
+      "id": "16076cbae5d4c72e2947c6b3c43b418d896d890ce840db25a3524554b14dd2ae",
+      "domain_id": "179e4902997399c5938231530153303539f902e6e7f0f87151d92685d945ca57",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfSokYrkErf",
+          "ar_raw": "1997-2024",
+          "kallrad": 3786,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c42752af524b23d860d2fb815d67e73e75ac91b9a6b966ddeae6c753e7f9c341",
+        "path": "data/variable-documentation/c42752af524b23d860d2fb815d67e73e75ac91b9a6b966ddeae6c753e7f9c341.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfSokYrkErf",
+      "variable": "Erfarenhet i sökt yrke",
       "register_version": "1998",
       "source_task_id": "fe721e0559ad7f9ead551e2ed0a215ece1d3af030ec1fbb2b9dbf4327e8c531f",
       "id": "c4d91aff09f4fc1d8d5a1549d905553d97bfd8d18501ccefe3598977d466f2db",
@@ -12538,6 +12886,35 @@
       "variant": "STATIV",
       "column": "AfSokYrkUtb",
       "variable": "Utbildning i sökt yrke",
+      "register_version": "1997",
+      "source_task_id": "54cc71ae4036ae2cc56660cbc5632ebf3eaf56eb642348ea0a3acf626273e1b1",
+      "id": "a27577dd916a689a0077a156e3ebcede9c3af2e5ed16007b9cc3265b0e64f75f",
+      "domain_id": "bef1ec3977e11152e4b168ad56ec8a1de70ce710e213af4b429ded18eb3f3753",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfSokYrkUtb",
+          "ar_raw": "1997-2024",
+          "kallrad": 3787,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95ca40c99045272796d798865b25b27acc5e7823db295fc84d49af566cf55a77",
+        "path": "data/variable-documentation/95ca40c99045272796d798865b25b27acc5e7823db295fc84d49af566cf55a77.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfSokYrkUtb",
+      "variable": "Utbildning i sökt yrke",
       "register_version": "1998",
       "source_task_id": "54cc71ae4036ae2cc56660cbc5632ebf3eaf56eb642348ea0a3acf626273e1b1",
       "id": "d6dbe27e35d983d2f6f01318c459e824a85ea37f4459901c2f9c35e0ef1d2f05",
@@ -13315,6 +13692,35 @@
         "path": "data/variable-documentation/f0fb7115bd243f4d21ed18e4f5b08eb0be02b6e6f59df32642d7ec4bbbbb4e11.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AfYrke",
+      "variable": "Sökt yrke",
+      "register_version": "1997",
+      "source_task_id": "2a74a8bb2698a5b14f912f95d72ee1bf049fd303288c81482f0f281996852b9c",
+      "id": "2c3ea7db3eab32df12b9855e85408b8417f346adadb2268470aaf32af99928cd",
+      "domain_id": "895ee044ebcf00461ab3b3651e352f5269a61121c023462a7ae0707a1aa462b3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AfYrke",
+          "ar_raw": "1997-2024",
+          "kallrad": 3788,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48c06fe2ff219b41cd93857c50ba143451437a3b0fba386b0709cab68a507b60",
+        "path": "data/variable-documentation/48c06fe2ff219b41cd93857c50ba143451437a3b0fba386b0709cab68a507b60.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -16743,6 +17149,35 @@
       "variant": "STATIV",
       "column": "AldPens",
       "variable": "Summa inkomst föranledd av åldersrelaterade pensioner",
+      "register_version": "1997",
+      "source_task_id": "9e0fb44d34aed962cc3660942abc6b40c616dba90e2f85c92b5a079d8ae0ba0a",
+      "id": "c92766ea0dc1ca5888e7c11cefb04f608434484b101a2ead91c2b3bc97cd0b45",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AldPens",
+          "ar_raw": "1997-2023",
+          "kallrad": 3796,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3a1aa12110771eca5bc3b960b06698e18959a33a7c421e85b6a34940037fe98a",
+        "path": "data/variable-documentation/3a1aa12110771eca5bc3b960b06698e18959a33a7c421e85b6a34940037fe98a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AldPens",
+      "variable": "Summa inkomst föranledd av åldersrelaterade pensioner",
       "register_version": "1998",
       "source_task_id": "9e0fb44d34aed962cc3660942abc6b40c616dba90e2f85c92b5a079d8ae0ba0a",
       "id": "b2520ca0500a497cc68797dd5c9ffce282fb4bd5bf4d2f3d118076de99fe0b50",
@@ -17491,6 +17926,64 @@
         "path": "data/variable-documentation/7b228e6d411357148f265d926353f456a121ab07354a1eae394e32ada1185240.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AmPol",
+      "variable": "Summa inkomst föranledd av arbetsmarknadspolitisk åtgärd",
+      "register_version": "1997",
+      "source_task_id": "918db79858e93d8bf8d8feadfd061607f61caf5b48e6d8d8f4766eaaaa15818f",
+      "id": "ad085c40c58feef6d748d8bb5551948aad8a119893c2c6af4998191b8084c81b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AmPol",
+          "ar_raw": "1997-2024",
+          "kallrad": 3797,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "297bccab7686b92d99ff35b5a4d8df3b020e8eef23e014d5d5a89446f2900235",
+        "path": "data/variable-documentation/297bccab7686b92d99ff35b5a4d8df3b020e8eef23e014d5d5a89446f2900235.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AmPol",
+      "variable": "Summa inkomst föranledd av arbetsmarknadspolitisk åtgärd",
+      "register_version": "1998",
+      "source_task_id": "918db79858e93d8bf8d8feadfd061607f61caf5b48e6d8d8f4766eaaaa15818f",
+      "id": "f47de95889b22e8b24f4abc2815d796d685c3e8f1ffbdbc6891cc47314a77c30",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AmPol",
+          "ar_raw": "1997-2024",
+          "kallrad": 3797,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48b10e14283d24ff914048a2b0e4aa2976be34ece9f8a1ad23c7b86a13a4c1de",
+        "path": "data/variable-documentation/48b10e14283d24ff914048a2b0e4aa2976be34ece9f8a1ad23c7b86a13a4c1de.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -18970,6 +19463,35 @@
         "path": "data/variable-documentation/205c108e8f83aed507e074fb7e179ebff17d6188218895ad7c4fc8bd7e0af166.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ArbLos",
+      "variable": "Summa inkomst föranledd av arbetslöshet",
+      "register_version": "1997",
+      "source_task_id": "f497a73f420bfc15a4a1812a7828d7e15a7ae5e247fd767697504bd3f8262549",
+      "id": "3733ebf405af0e56bc6899ad9333ae674c2f5d260c9d8de50f0cbd17532a68a1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ArbLos",
+          "ar_raw": "1997-2023",
+          "kallrad": 3799,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a72b95ad6d92757fb9c0c4eecadc38edbcfb4788cf4bfb3ba303b0c8a88fa09",
+        "path": "data/variable-documentation/8a72b95ad6d92757fb9c0c4eecadc38edbcfb4788cf4bfb3ba303b0c8a88fa09.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -21145,6 +21667,35 @@
         "path": "data/variable-documentation/64e59082788073f78acf69aa396558c952475c784e0f21ac281f45871647eb12.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ArbSkErs",
+      "variable": "Arbetsskadesjukpenning",
+      "register_version": "1997",
+      "source_task_id": "15c6a141e16889c63b57bb90685886c35ad518d7c41ea38c7dd7edf952046c69",
+      "id": "05a172c31455d8b24dede5895e3d99badb4c38ccd09bd4334d77a4a89ad76855",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ArbSkErs",
+          "ar_raw": "1997-2023",
+          "kallrad": 3802,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "909d99332279dda87fc6d844195a75c348b15c8d7cd3bc8a9c65fc8bc0a742c4",
+        "path": "data/variable-documentation/909d99332279dda87fc6d844195a75c348b15c8d7cd3bc8a9c65fc8bc0a742c4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -23529,6 +24080,35 @@
       "variant": "STATIV",
       "column": "ArbetsInk",
       "variable": "Arbetsinkomst",
+      "register_version": "1997",
+      "source_task_id": "913d4758a468025fb100096e7c5d1c385c36c95ab522356231736935a0513320",
+      "id": "609ef20ac2865fa6ffcf420c147be3b84def8414b2f60f970379837dabea529e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ArbetsInk",
+          "ar_raw": "1997-2023",
+          "kallrad": 3806,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c89a593706815302cee0b357eeb2525567790d14bc9f79cb31b54cf9e0cbfda2",
+        "path": "data/variable-documentation/c89a593706815302cee0b357eeb2525567790d14bc9f79cb31b54cf9e0cbfda2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ArbetsInk",
+      "variable": "Arbetsinkomst",
       "register_version": "1998",
       "source_task_id": "913d4758a468025fb100096e7c5d1c385c36c95ab522356231736935a0513320",
       "id": "dfb7cfd04c17dbe2368aac6a4e3bbc91c1f246aff678a2f61db0442d2deee230",
@@ -24770,6 +25350,35 @@
         "path": "data/variable-documentation/03d048cbee4b0f06a524b4d297ab1a1572e1f21664e21556f3bf91d5743e6c4e.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "AstKommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "1997",
+      "source_task_id": "e263bbaad7326696a0d6716d31561e527e75ddaf3d394f4b4754e19e81dcaf9c",
+      "id": "6fd72105dbf3f38f6e6aba23316289666514bca29706f54d1bbd6d4c7ba10b86",
+      "domain_id": "248114510a31707dae2a3876676af7eac1f924ef953efc0b6293a0ef9320f03f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "AstKommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3809,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6262ccb6563925faae787c10bb344c3114c9e6f9fe50a4378a08197f35dfbdcd",
+        "path": "data/variable-documentation/6262ccb6563925faae787c10bb344c3114c9e6f9fe50a4378a08197f35dfbdcd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -26874,6 +27483,64 @@
       "variant": "STATIV",
       "column": "Barn0_3",
       "variable": "Antal barn 0-3 år",
+      "register_version": "1997",
+      "source_task_id": "22552241bc9abecd15ef129811810ec54ce2f95a3a2a4d502a2de5092f7536bf",
+      "id": "3dc0607895f24891dbb942d0e4ef187b004de6b06526efdc86cb33380cdf4353",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn0_3",
+          "ar_raw": "1997-2024",
+          "kallrad": 3823,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6db47b588de6f52aeea38633a831fa2ebbd50032fe9ac39e2549081a57a3f250",
+        "path": "data/variable-documentation/6db47b588de6f52aeea38633a831fa2ebbd50032fe9ac39e2549081a57a3f250.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn0_3",
+      "variable": "Antal barn 0-3 år",
+      "register_version": "1998",
+      "source_task_id": "22552241bc9abecd15ef129811810ec54ce2f95a3a2a4d502a2de5092f7536bf",
+      "id": "083cbc8c641f10f343eb07cd29ee91762d9d423822f8dedcb5ffefca9092a7df",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn0_3",
+          "ar_raw": "1997-2024",
+          "kallrad": 3823,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "05dafdd09cf4b7c8aea3e81525dbec43709a790572212d139063d96407152308",
+        "path": "data/variable-documentation/05dafdd09cf4b7c8aea3e81525dbec43709a790572212d139063d96407152308.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn0_3",
+      "variable": "Antal barn 0-3 år",
       "register_version": "1999",
       "source_task_id": "22552241bc9abecd15ef129811810ec54ce2f95a3a2a4d502a2de5092f7536bf",
       "id": "21da471da63475f7a276e96d0127c86caf24b27a7d6c0ab285c7d4e6fbb96be3",
@@ -27628,6 +28295,64 @@
       "variant": "STATIV",
       "column": "Barn11_15",
       "variable": "Antal barn 11–15 år",
+      "register_version": "1997",
+      "source_task_id": "cbdaa59ab76675eaf9acb04d82a88f6cd6632d283922be15a7b210af86177d1f",
+      "id": "4aec6c8114484c64a93adc7743ae0ad34a5ec27f54c72b1fcf1b2a75252cd558",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn11_15",
+          "ar_raw": "1997-2024",
+          "kallrad": 3824,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "70dd5790dfbb61b6f420f08da33191067b2149b7a9d1c879257c90d2878acaa4",
+        "path": "data/variable-documentation/70dd5790dfbb61b6f420f08da33191067b2149b7a9d1c879257c90d2878acaa4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn11_15",
+      "variable": "Antal barn 11–15 år",
+      "register_version": "1998",
+      "source_task_id": "cbdaa59ab76675eaf9acb04d82a88f6cd6632d283922be15a7b210af86177d1f",
+      "id": "e482c120b7b1d0d9302c1f7b79c55bd053b4f434852995ef4b472dc0a77a64d7",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn11_15",
+          "ar_raw": "1997-2024",
+          "kallrad": 3824,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4d9e10b017340106364ac62f82be48557c27640a996cc7355790f87ed910b9ca",
+        "path": "data/variable-documentation/4d9e10b017340106364ac62f82be48557c27640a996cc7355790f87ed910b9ca.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn11_15",
+      "variable": "Antal barn 11–15 år",
       "register_version": "1999",
       "source_task_id": "cbdaa59ab76675eaf9acb04d82a88f6cd6632d283922be15a7b210af86177d1f",
       "id": "1101338ceab5a44ae58564ae8659e0e434bc6e768583b1c70946e736c981d51d",
@@ -28376,6 +29101,64 @@
         "path": "data/variable-documentation/f0ce8dc7693d3c43fc5a95e86518ff3deaaac394678da311c429205b64fd9724.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn16_17",
+      "variable": "Antal barn 16-17 år",
+      "register_version": "1997",
+      "source_task_id": "63f9c90ef27a3cff9ec474062e8c03d5054cbc995f2e9824074cb2103667bbbb",
+      "id": "ace79a416ca94f0a2cfa5fc3bab3cb4fdf5cc40a5a89205a0d336e56a9c1d186",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn16_17",
+          "ar_raw": "1997-2024",
+          "kallrad": 3825,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f86c21bdda1741730862298665acc11e883018aefe7f4157259b8b66e5490ec",
+        "path": "data/variable-documentation/7f86c21bdda1741730862298665acc11e883018aefe7f4157259b8b66e5490ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn16_17",
+      "variable": "Antal barn 16-17 år",
+      "register_version": "1998",
+      "source_task_id": "63f9c90ef27a3cff9ec474062e8c03d5054cbc995f2e9824074cb2103667bbbb",
+      "id": "fbd3db32e827060fa319df614185c524d89da81459d341fb16ffd136d6e21008",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn16_17",
+          "ar_raw": "1997-2024",
+          "kallrad": 3825,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "56245f05137051a77f31de6c1eb008503418bc798770d8ce9bb708a6e45ccafa",
+        "path": "data/variable-documentation/56245f05137051a77f31de6c1eb008503418bc798770d8ce9bb708a6e45ccafa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -30528,6 +31311,64 @@
       "variant": "STATIV",
       "column": "Barn4_6",
       "variable": "Antal barn 4-6 år",
+      "register_version": "1997",
+      "source_task_id": "3910e63f4ec24be0ad01dc85553ca25aad3b24c701229e4fd5003596fc9e1557",
+      "id": "44750baa57480aaaba555a73eb7fb0319cf26b7812af6e2ffa812046b19cc7ef",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn4_6",
+          "ar_raw": "1997-2024",
+          "kallrad": 3829,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2140f0a31a2b4246f7762c26bd3d11245345a1f6638f45788a8e88fe0d335c89",
+        "path": "data/variable-documentation/2140f0a31a2b4246f7762c26bd3d11245345a1f6638f45788a8e88fe0d335c89.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn4_6",
+      "variable": "Antal barn 4-6 år",
+      "register_version": "1998",
+      "source_task_id": "3910e63f4ec24be0ad01dc85553ca25aad3b24c701229e4fd5003596fc9e1557",
+      "id": "ab8193b0ceadf37704869d9f5dd67e892132ce53bd19824dfbbe8ebe26f3d20b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn4_6",
+          "ar_raw": "1997-2024",
+          "kallrad": 3829,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "018946368c4e3fb1a454e54e6fadcdd99c23ad50a1ff402a21e46a933fe4b9ef",
+        "path": "data/variable-documentation/018946368c4e3fb1a454e54e6fadcdd99c23ad50a1ff402a21e46a933fe4b9ef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn4_6",
+      "variable": "Antal barn 4-6 år",
       "register_version": "1999",
       "source_task_id": "3910e63f4ec24be0ad01dc85553ca25aad3b24c701229e4fd5003596fc9e1557",
       "id": "ce8451d710efe7afc81907af54332bab6aa6ff52a4666cc8cb2d50e99b925b81",
@@ -31276,6 +32117,64 @@
         "path": "data/variable-documentation/10b7a0b32251580274aaf37a6cf7a94d6043f5203ffb6c3b09ece69921e378f0.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn7_10",
+      "variable": "Antal barn 7-10 år",
+      "register_version": "1997",
+      "source_task_id": "41aaa5d9cb4386bdbffdbcd597ba0879134fbf36c42a25dfd9eba9b48cdf0747",
+      "id": "8dd0c8b4949cd56eda8186a0aea450d81887e009357e8befdf552e86a572e9e6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn7_10",
+          "ar_raw": "1997-2024",
+          "kallrad": 3830,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2c5d3d1f357705287c431d357071122ddae22a7ff383a74195e41066fc9a9dbd",
+        "path": "data/variable-documentation/2c5d3d1f357705287c431d357071122ddae22a7ff383a74195e41066fc9a9dbd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Barn7_10",
+      "variable": "Antal barn 7-10 år",
+      "register_version": "1998",
+      "source_task_id": "41aaa5d9cb4386bdbffdbcd597ba0879134fbf36c42a25dfd9eba9b48cdf0747",
+      "id": "1e19b2df5253a0b80e2d856e74c1990ae785e55aac5f3c3e3397b66901af6f3b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Barn7_10",
+          "ar_raw": "1997-2024",
+          "kallrad": 3830,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad9084730f6529fd80fc82dd0ae00d926ca2c874b7436948f6e90858e87c1892",
+        "path": "data/variable-documentation/ad9084730f6529fd80fc82dd0ae00d926ca2c874b7436948f6e90858e87c1892.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -34501,6 +35400,64 @@
       "variant": "STATIV",
       "column": "Civil",
       "variable": "Civilstånd",
+      "register_version": "1997",
+      "source_task_id": "841384e9e151af2c395bdc5f1c9bcc45a49ef3315cfb599b3c13ae9cc76d7997",
+      "id": "04a8acba0d21fc2bcd271255c7a329959338f91da4f43370e1deb9ec2f090900",
+      "domain_id": "a90f1963c224d16c329b482188b690d6322f9f1fc5726d1cabbe7aff2532b499",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Civil",
+          "ar_raw": "1997-2024",
+          "kallrad": 3835,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bf041a4794b00a6ab290ae10d08a8145a68bfd5e59b436954a14c401121f66fa",
+        "path": "data/variable-documentation/bf041a4794b00a6ab290ae10d08a8145a68bfd5e59b436954a14c401121f66fa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Civil",
+      "variable": "Civilstånd",
+      "register_version": "1998",
+      "source_task_id": "841384e9e151af2c395bdc5f1c9bcc45a49ef3315cfb599b3c13ae9cc76d7997",
+      "id": "1e037d0a1c24b3d47a0690b6cd21795426294ccf8b352311dd600ba217dd67c3",
+      "domain_id": "9d627070b49551ffac5554ff65a6dab0bed102c855edc58625f158d6420b7072",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Civil",
+          "ar_raw": "1997-2024",
+          "kallrad": 3835,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb053e64e607b4cf0dd882d65662f24bab22f0ef793aef53b75e0179c5202381",
+        "path": "data/variable-documentation/fb053e64e607b4cf0dd882d65662f24bab22f0ef793aef53b75e0179c5202381.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Civil",
+      "variable": "Civilstånd",
       "register_version": "1999",
       "source_task_id": "841384e9e151af2c395bdc5f1c9bcc45a49ef3315cfb599b3c13ae9cc76d7997",
       "id": "b3a24778f4f2b03531da339458f64529f4c0c5f4d7d3d7f632b9dc0cf6796ce9",
@@ -35313,6 +36270,64 @@
       "variant": "STATIV",
       "column": "CivilFar",
       "variable": "Civilstånd far",
+      "register_version": "1997",
+      "source_task_id": "fa63907760bce969db6311b500b000dcaf989bcd5b25b8d7e0902acbfaeac1ed",
+      "id": "808cd6cd018fafe23cd6d9b53f07d6d029c74d384a4895a6400ed6bbd6c076a7",
+      "domain_id": "a90f1963c224d16c329b482188b690d6322f9f1fc5726d1cabbe7aff2532b499",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "CivilFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 3838,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8a12fd47073fba608e5749d7ea18a6b17aa89c23b4d1edd05bab6f14369af36",
+        "path": "data/variable-documentation/e8a12fd47073fba608e5749d7ea18a6b17aa89c23b4d1edd05bab6f14369af36.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "CivilFar",
+      "variable": "Civilstånd far",
+      "register_version": "1998",
+      "source_task_id": "fa63907760bce969db6311b500b000dcaf989bcd5b25b8d7e0902acbfaeac1ed",
+      "id": "f683bdd5e53eb511a58ac88a8a3c44279293d20164a5c0b02e1dd6125278ec52",
+      "domain_id": "3e66641f023441cb2f9927b09d9d75441831f1df2bfb97520d5ec8957fa2851c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "CivilFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 3838,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aa4532e295aca3af5e18869f2caef7bf9b205760f6fdf160378b2c62603478bf",
+        "path": "data/variable-documentation/aa4532e295aca3af5e18869f2caef7bf9b205760f6fdf160378b2c62603478bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "CivilFar",
+      "variable": "Civilstånd far",
       "register_version": "1999",
       "source_task_id": "fa63907760bce969db6311b500b000dcaf989bcd5b25b8d7e0902acbfaeac1ed",
       "id": "f2b01b6c6512b454134bf96d64dd32ad9f2952579eed4c4461f7b6173331535e",
@@ -36061,6 +37076,64 @@
         "path": "data/variable-documentation/34784959befc2547e36a88a3de632936aab1f5289f3a90257a09b6ca194b1861.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "CivilMor",
+      "variable": "Civilstånd mor",
+      "register_version": "1997",
+      "source_task_id": "607ac8124c7f04ad74775b390de0ba09e664ab02e1165faf6fd00d3f7bd1ef78",
+      "id": "6a12d6a56a221a02ab7208828c0b0290712af2301c3bcb90ff0b12c9401fe05f",
+      "domain_id": "a90f1963c224d16c329b482188b690d6322f9f1fc5726d1cabbe7aff2532b499",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "CivilMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 3839,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "33b0ce68202a1ce1f954a6d3c5a70d57424c38ed162b7e37f58bdf31184a5162",
+        "path": "data/variable-documentation/33b0ce68202a1ce1f954a6d3c5a70d57424c38ed162b7e37f58bdf31184a5162.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "CivilMor",
+      "variable": "Civilstånd mor",
+      "register_version": "1998",
+      "source_task_id": "607ac8124c7f04ad74775b390de0ba09e664ab02e1165faf6fd00d3f7bd1ef78",
+      "id": "32aa45469c4be16d39d3e1271bd719cd769821439c4a6307896aba97d511672a",
+      "domain_id": "3e66641f023441cb2f9927b09d9d75441831f1df2bfb97520d5ec8957fa2851c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "CivilMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 3839,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d778eb9443935b251d33079772df2788cc25b042e21d11676ba1b5e4ba811c1",
+        "path": "data/variable-documentation/5d778eb9443935b251d33079772df2788cc25b042e21d11676ba1b5e4ba811c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -56006,6 +57079,64 @@
       "variant": "STATIV",
       "column": "ExamAr",
       "variable": "Examensår",
+      "register_version": "1997",
+      "source_task_id": "c57a986008ebbdea1169e4b959f7256c3bad45439c96083296f0f5010d4508a9",
+      "id": "179472badabd854c143833fa1e1ded25985b58771119c029dc7418a163a59df1",
+      "domain_id": "b34afd33bf07a300914302da06056bef76fadc3ceeda971678389baa557f760f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ExamAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3902,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40aedc95695384297e904555ecaa4b4a9e87b175148e73eb472660b4ed5849c9",
+        "path": "data/variable-documentation/40aedc95695384297e904555ecaa4b4a9e87b175148e73eb472660b4ed5849c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ExamAr",
+      "variable": "Examensår",
+      "register_version": "1998",
+      "source_task_id": "c57a986008ebbdea1169e4b959f7256c3bad45439c96083296f0f5010d4508a9",
+      "id": "f8a7a016699c6759916565954047d16fd6a263804daa5279b2c7fdfb786524c0",
+      "domain_id": "55eb1b6a02f8117916713daca29c5b2e62d853eb39c5079e53b27ce092f00ede",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ExamAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3902,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "90ad547f7edcc7319fb3e13527b5b761cd31f3963d728a52324a957e90fcc814",
+        "path": "data/variable-documentation/90ad547f7edcc7319fb3e13527b5b761cd31f3963d728a52324a957e90fcc814.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ExamAr",
+      "variable": "Examensår",
       "register_version": "1999",
       "source_task_id": "c57a986008ebbdea1169e4b959f7256c3bad45439c96083296f0f5010d4508a9",
       "id": "2a0b806df38b0397a979431a6be7b6ae82c84c1505689a9842fc0631eff21ba3",
@@ -56963,6 +58094,64 @@
       "variant": "STATIV",
       "column": "FamHuv",
       "variable": "Familjepost",
+      "register_version": "1997",
+      "source_task_id": "a1b7c5384fd5f6f2e83d7ca0c363e951f538a5e3c3b2b07eb3356a3ba194cfe9",
+      "id": "bebf31fc7184685d9b9ab59222ed69b7e4df1e3087ccf2f9b03111826ddbc637",
+      "domain_id": "87e54d0389341020b4bd09448d7cddbc980d30886d1f7096611ed5360c9d5ba5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamHuv",
+          "ar_raw": "1997-2024",
+          "kallrad": 3903,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "53da766cc82335342a9e7c58a9970dc52828cc7cfa6df8c658f8f8ab6f90cb40",
+        "path": "data/variable-documentation/53da766cc82335342a9e7c58a9970dc52828cc7cfa6df8c658f8f8ab6f90cb40.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamHuv",
+      "variable": "Familjepost",
+      "register_version": "1998",
+      "source_task_id": "a1b7c5384fd5f6f2e83d7ca0c363e951f538a5e3c3b2b07eb3356a3ba194cfe9",
+      "id": "bdcac5c8f1c0999638168d68e2ca87b47097beb1821084ed3a473786bb420505",
+      "domain_id": "87e54d0389341020b4bd09448d7cddbc980d30886d1f7096611ed5360c9d5ba5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamHuv",
+          "ar_raw": "1997-2024",
+          "kallrad": 3903,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b9b648ab783aae73baac9c2127845cc623e044dfd9010a377e33037ae40e6db6",
+        "path": "data/variable-documentation/b9b648ab783aae73baac9c2127845cc623e044dfd9010a377e33037ae40e6db6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamHuv",
+      "variable": "Familjepost",
       "register_version": "1999",
       "source_task_id": "a1b7c5384fd5f6f2e83d7ca0c363e951f538a5e3c3b2b07eb3356a3ba194cfe9",
       "id": "aa52a63de74c9105f513c1609f787eb781932d492f9e5047a5724f6ea0bb6a48",
@@ -57711,6 +58900,64 @@
         "path": "data/variable-documentation/2d4bd92862951c1c1017c5513a4f3ed05042d9c3e522899f3386f2ae24fa5304.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamSt",
+      "variable": "Familjeställning",
+      "register_version": "1997",
+      "source_task_id": "9ea743821500474f58f1563dc254261f50e058d1aa31fad592ad3f071589a9ce",
+      "id": "c76e510852dca167d38f030f6a0fb7fe62364dc58a1e4b487a4d1cf0486bf0bb",
+      "domain_id": "923355f1dc0c384dd6ea5591f555ede6cab0338c32fc9b60344df418830495d8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamSt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3904,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eb07956fe138bc5b79997ce5040049f8e73167c78a3f8fd1a4f703140ce74977",
+        "path": "data/variable-documentation/eb07956fe138bc5b79997ce5040049f8e73167c78a3f8fd1a4f703140ce74977.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamSt",
+      "variable": "Familjeställning",
+      "register_version": "1998",
+      "source_task_id": "9ea743821500474f58f1563dc254261f50e058d1aa31fad592ad3f071589a9ce",
+      "id": "b00d1586812fb4bc160053dd00b390c15f7f7f152692fddf007b9774efb0f6a9",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamSt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3904,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "945abd86fbfc53a2a5baab0ecd04471ca409a33e954e7e5386f10475d72eda56",
+        "path": "data/variable-documentation/945abd86fbfc53a2a5baab0ecd04471ca409a33e954e7e5386f10475d72eda56.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -58471,6 +59718,64 @@
       "variant": "STATIV",
       "column": "FamTyp",
       "variable": "Familjetyp",
+      "register_version": "1997",
+      "source_task_id": "8005fc619813ffadd4383d16723d0ad48fbc07f5bfc73f3289541ca0ce366804",
+      "id": "b9e8b78b62078b5edfbb6f806ba5a1594e409559e38f28f3145503a88ead4bb0",
+      "domain_id": "5987c87aa8b04a5eb70dedef95034e974892f442e50f632ad379ca7e7c96b4b2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamTyp",
+          "ar_raw": "1997-2024",
+          "kallrad": 3905,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0ee6a43ace2381490c674331cb3628a707df6e37919c9626ff20c59ccd1e2a22",
+        "path": "data/variable-documentation/0ee6a43ace2381490c674331cb3628a707df6e37919c9626ff20c59ccd1e2a22.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamTyp",
+      "variable": "Familjetyp",
+      "register_version": "1998",
+      "source_task_id": "8005fc619813ffadd4383d16723d0ad48fbc07f5bfc73f3289541ca0ce366804",
+      "id": "4c76276e9039fbbc36957326036f01ed18efb1dd7f739de806c09ce77e40e1a1",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FamTyp",
+          "ar_raw": "1997-2024",
+          "kallrad": 3905,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cd0763eae78674b44c82343e7a9e35a7bfa0d5842969ed7df22e12d04d06d526",
+        "path": "data/variable-documentation/cd0763eae78674b44c82343e7a9e35a7bfa0d5842969ed7df22e12d04d06d526.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FamTyp",
+      "variable": "Familjetyp",
       "register_version": "1999",
       "source_task_id": "8005fc619813ffadd4383d16723d0ad48fbc07f5bfc73f3289541ca0ce366804",
       "id": "f8603175c6e36e859a22ffd474b1bdbe2d4d7b2ae24052a058b002630178d929",
@@ -59219,6 +60524,64 @@
         "path": "data/variable-documentation/e86f04508e814bcea678a08232b5ebb6106ac922cb526d902b02f7b22c5abe6f.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FlyKat",
+      "variable": "Flyktingkategori",
+      "register_version": "1997",
+      "source_task_id": "3c89fabe60cfc24ec3ba1c0a3c4cc226c5409789b6f7882ac0ea018180051a8d",
+      "id": "ba8d55512a3926802cb733efc6003015b0a197237a143b581d43ff44fc471fc2",
+      "domain_id": "c133b3b59c3071ac14db45a7c039a551eb8afda68ee3a826f20fb5a8e1c9b6f4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FlyKat",
+          "ar_raw": "1997-2024",
+          "kallrad": 3907,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d59a1de6241c06d1f6d634349884d3951b26860235c6c84e85872cfd9397bcdf",
+        "path": "data/variable-documentation/d59a1de6241c06d1f6d634349884d3951b26860235c6c84e85872cfd9397bcdf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "FlyKat",
+      "variable": "Flyktingkategori",
+      "register_version": "1998",
+      "source_task_id": "3c89fabe60cfc24ec3ba1c0a3c4cc226c5409789b6f7882ac0ea018180051a8d",
+      "id": "c44056e6f21cab2639e07b293aa7aa0c435c0882a5fa4a472a73fe118ba3d86e",
+      "domain_id": "c133b3b59c3071ac14db45a7c039a551eb8afda68ee3a826f20fb5a8e1c9b6f4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "FlyKat",
+          "ar_raw": "1997-2024",
+          "kallrad": 3907,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "66de27222b59c971cf8b056b63337c5911711b2243aa0adba7c86593e93738a6",
+        "path": "data/variable-documentation/66de27222b59c971cf8b056b63337c5911711b2243aa0adba7c86593e93738a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -59979,6 +61342,35 @@
       "variant": "STATIV",
       "column": "ForPeng",
       "variable": "Föräldrapenning, barns födelse",
+      "register_version": "1997",
+      "source_task_id": "5e2c9c98fe3802ec9a6948d365b2667a7f761ca04008b7458759b5406df06a4b",
+      "id": "f156270c61aef440699d666003985e92695c8ec0060fe080bed37722963e31d0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ForPeng",
+          "ar_raw": "1997-2023",
+          "kallrad": 3908,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "598f50971a4d36805bad8a56536f98f4b767136fd6c03e88a8d941de6d7296fc",
+        "path": "data/variable-documentation/598f50971a4d36805bad8a56536f98f4b767136fd6c03e88a8d941de6d7296fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ForPeng",
+      "variable": "Föräldrapenning, barns födelse",
       "register_version": "1998",
       "source_task_id": "5e2c9c98fe3802ec9a6948d365b2667a7f761ca04008b7458759b5406df06a4b",
       "id": "f9abe31fd28c2841869c8bb7524d8e6dd7966e21c33f58bd7b53b1dca932434d",
@@ -60727,6 +62119,35 @@
         "path": "data/variable-documentation/e0ceec392b2e08dc9bd72c6654bb19196be2583438af4bb7c388e3a85b685d3b.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ForTid",
+      "variable": "Summa inkomst föranledd av förtidspension/sjukbidrag/sjukersättning/aktivitetsstöd",
+      "register_version": "1997",
+      "source_task_id": "fa5552c2bbb51b6737af87a4e3bd957c0995853c4b0df9b28b3b7f5f40fd5687",
+      "id": "7aaa9fdaf3a057c0c58b8a1f0b5ce133d22de0624416a5a189056b8218e42148",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ForTid",
+          "ar_raw": "1997-2023",
+          "kallrad": 3909,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "04c18118ad170d422ae98e5474e68986a07b62b29b97d50ae048d68476eaf474",
+        "path": "data/variable-documentation/04c18118ad170d422ae98e5474e68986a07b62b29b97d50ae048d68476eaf474.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -62786,6 +64207,35 @@
         "path": "data/variable-documentation/af0f28f334628feb625338d2d143e0b4ee80d61465f25a6571008d93620be8c6.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "ForvErs",
+      "variable": "Förvärvsinkomst (aktiv näringsverksamhet) och arbetsrelaterade ersättningar, exkl. underskott",
+      "register_version": "1997",
+      "source_task_id": "95fba2485520b5f6f35476f84c3931f34652e8065dd63e7e9ea97b6f98aa9c8f",
+      "id": "3028a639f76495cbd99e1cb2a9ab4b92f29e91aa29f316bd3881a7997a9ece8e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "ForvErs",
+          "ar_raw": "1997-2023",
+          "kallrad": 3913,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2dd4c8a66ee5bec9ed9dc459fbb6e8b0817e15f1c4d2df7d1be364b49f7040a1",
+        "path": "data/variable-documentation/2dd4c8a66ee5bec9ed9dc459fbb6e8b0817e15f1c4d2df7d1be364b49f7040a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -68023,6 +69473,35 @@
       "variant": "STATIV",
       "column": "GFB_KlassGruppFar",
       "variable": "Grund för bosättning, grupperad, fader",
+      "register_version": "1997",
+      "source_task_id": "b1352f1ef1051fcb722b7fbc72edc859040c680429f28e4b8b3a99f790e0fbbb",
+      "id": "739b9d8f6bf42510028f06f9609f54722c4865e96592abfb7339986a86c89ac7",
+      "domain_id": "dfb8f1a59f073532dc8895d37e658e1ec61d533f81a844ce7462e28fd7f78d0a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "GFB_KlassGruppFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 3925,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9da7e4b50bdc308f7abd349aaf557d6d3f14f0dc4754e59c7ec0cc14240ae6a3",
+        "path": "data/variable-documentation/9da7e4b50bdc308f7abd349aaf557d6d3f14f0dc4754e59c7ec0cc14240ae6a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "GFB_KlassGruppFar",
+      "variable": "Grund för bosättning, grupperad, fader",
       "register_version": "1998",
       "source_task_id": "b1352f1ef1051fcb722b7fbc72edc859040c680429f28e4b8b3a99f790e0fbbb",
       "id": "0342d812c0bd10028b557d0135ad08109918436e702c339947fce56ac5c93612",
@@ -68771,6 +70250,35 @@
         "path": "data/variable-documentation/795b80ded6bf88350b326158943b97088a3af844e77a9c7f8e5a4d273f7ad1dc.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "GFB_KlassGruppMor",
+      "variable": "Grund för bosättning, grupperad, moder",
+      "register_version": "1997",
+      "source_task_id": "15e76eb1b98428730b6e6625aa278c24de4f8705346b71a32bc185b2be976057",
+      "id": "4382440b2b713e9fd71182998f4306f08440c1f2891931d3c94d1bee8b80f697",
+      "domain_id": "dfb8f1a59f073532dc8895d37e658e1ec61d533f81a844ce7462e28fd7f78d0a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "GFB_KlassGruppMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 3926,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67fa59bcdc742558aa366bcc2e7ec7dc0690861b78edef3d2f71c86380c98250",
+        "path": "data/variable-documentation/67fa59bcdc742558aa366bcc2e7ec7dc0690861b78edef3d2f71c86380c98250.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -69937,6 +71445,35 @@
       "variant": "STATIV",
       "column": "GymnBeh_Betyg",
       "variable": "Behörighet från grundskola",
+      "register_version": "1998",
+      "source_task_id": "3ceeb02c8036ecea13888a3f01b9cf37dcc40f2de0f63ce316a12e2c251e1932",
+      "id": "f9c433b7bc4dba030da744dbd1eab8e29bf25a97155016684681cee60c057078",
+      "domain_id": "b7387d8c6cac3b9d8e7ed5c637cf55b7dba8119cf8c50d47fbaef7d8e0e58dd4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "GymnBeh_Betyg",
+          "ar_raw": "1998-2024",
+          "kallrad": 3928,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15c964e83062af0e9c84d813c6633f2e66cfbde2162f049edb3ad1b6420a8d3e",
+        "path": "data/variable-documentation/15c964e83062af0e9c84d813c6633f2e66cfbde2162f049edb3ad1b6420a8d3e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "GymnBeh_Betyg",
+      "variable": "Behörighet från grundskola",
       "register_version": "1999",
       "source_task_id": "3ceeb02c8036ecea13888a3f01b9cf37dcc40f2de0f63ce316a12e2c251e1932",
       "id": "a541f49c676ac71ac30f0a5a0e12518d2bc0895e23de6ff2b48166025b5df5ed",
@@ -71091,6 +72628,35 @@
         "path": "data/variable-documentation/ffd54b22615001e368cb4273a2a2ff6d503edde29ca1711219aba8592670e6e0.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "HManGrund",
+      "variable": "Huvudman Grundskola",
+      "register_version": "1998",
+      "source_task_id": "75d46719e6017cea3bb5cb01e62c498ac27f81e13a523de13d61e94a8c485190",
+      "id": "25c0c6ae1aa3b86e510a2623ca94c2d7c9ccb5021ef7e412b1a322671bc5babe",
+      "domain_id": "50e830eea87f8ba3b58aebeee5f5ff8693cd860d3fb612c35b289d1a3ef57d32",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "HManGrund",
+          "ar_raw": "1998-2024",
+          "kallrad": 3930,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "27653da24e5d52de50f98131a327d349ecfc2e726ed92521a919bc456aaaf9a9",
+        "path": "data/variable-documentation/27653da24e5d52de50f98131a327d349ecfc2e726ed92521a919bc456aaaf9a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -72663,6 +74229,64 @@
       "variant": "STATIV",
       "column": "HManGyAvg",
       "variable": "Gymnasieskola Huvudman avgångna",
+      "register_version": "1997",
+      "source_task_id": "82c880f8b97804fc17f9cbf31743bad77d647ce41747cad82bd0751492b3fe14",
+      "id": "0adcdfdfea23e0ecd8ecb69a5322c514e10d8ab7ce5e5e0803d56d96f494df44",
+      "domain_id": "50e830eea87f8ba3b58aebeee5f5ff8693cd860d3fb612c35b289d1a3ef57d32",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "HmanGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3935,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "841c8a499afbb0aa484769739fb5ac189b9442e1c0aa66607652a879107a600a",
+        "path": "data/variable-documentation/841c8a499afbb0aa484769739fb5ac189b9442e1c0aa66607652a879107a600a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "HManGyAvg",
+      "variable": "Gymnasieskola Huvudman avgångna",
+      "register_version": "1998",
+      "source_task_id": "82c880f8b97804fc17f9cbf31743bad77d647ce41747cad82bd0751492b3fe14",
+      "id": "fb4404777d6da1f4163e01e8ef310078c2568ce7a217aece0ef2062a4d4f1d98",
+      "domain_id": "50e830eea87f8ba3b58aebeee5f5ff8693cd860d3fb612c35b289d1a3ef57d32",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "HmanGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3935,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97e0dbf52b44e1cdbd3140582f8265b5e9faa39aec267aff5e59b97c6fb8a470",
+        "path": "data/variable-documentation/97e0dbf52b44e1cdbd3140582f8265b5e9faa39aec267aff5e59b97c6fb8a470.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "HManGyAvg",
+      "variable": "Gymnasieskola Huvudman avgångna",
       "register_version": "1999",
       "source_task_id": "82c880f8b97804fc17f9cbf31743bad77d647ce41747cad82bd0751492b3fe14",
       "id": "594123e558851f6002bce643cd65647514bc9b8f2842d364cca8da76e5840780",
@@ -73672,6 +75296,64 @@
         "path": "data/variable-documentation/653ad6868ac6e70c2b6ec309f00c576aa79738ea10f87cb92e2931314ba9566c.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "HogskBeh",
+      "variable": "Grundläggande behörighet till högskolan",
+      "register_version": "1997",
+      "source_task_id": "d97ec88bd2a092f81d5e6941c5246acf50def06f7394b6eb886c2f723f02f686",
+      "id": "647b7eb1acb104fc695cb4b38ad74f9b544c8e7eebaef7f9336a6a0a0e7ea411",
+      "domain_id": "4846823f2edb6be5bd3468810eafa789aa0d634b6531e2ef41e4096df390da8a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "HogskBeh",
+          "ar_raw": "1997-2024",
+          "kallrad": 3936,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d32b55ac8a2e5738ba1380c79c64bde628bec3c0400f9dd3bc41f893e75d57c4",
+        "path": "data/variable-documentation/d32b55ac8a2e5738ba1380c79c64bde628bec3c0400f9dd3bc41f893e75d57c4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "HogskBeh",
+      "variable": "Grundläggande behörighet till högskolan",
+      "register_version": "1998",
+      "source_task_id": "d97ec88bd2a092f81d5e6941c5246acf50def06f7394b6eb886c2f723f02f686",
+      "id": "80ebf6cf3bb3aa122080256764b54cbce52fab858244564ee6b44134d98665ba",
+      "domain_id": "4846823f2edb6be5bd3468810eafa789aa0d634b6531e2ef41e4096df390da8a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "HogskBeh",
+          "ar_raw": "1997-2024",
+          "kallrad": 3936,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "20284cf68f0e243f3cb8a28506c128a9043f90a3e6af47e948612d6b5a3cf5b6",
+        "path": "data/variable-documentation/20284cf68f0e243f3cb8a28506c128a9043f90a3e6af47e948612d6b5a3cf5b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -75563,6 +77245,64 @@
       "variant": "STATIV",
       "column": "InreAr",
       "variable": "Inreseår",
+      "register_version": "1997",
+      "source_task_id": "5f2b6e8ee806d8790e7d15b7c93903bd5400c709598b78af3126adb66d2fb112",
+      "id": "d7dc022a4f6722ec5287aabcae26450e4bff595a42eb96a991e392b9657a5120",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "InreAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3939,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "18044d05188b39419c1c57282d33f093774c84b0dd4513cdab9c8e8e7dc36346",
+        "path": "data/variable-documentation/18044d05188b39419c1c57282d33f093774c84b0dd4513cdab9c8e8e7dc36346.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "InreAr",
+      "variable": "Inreseår",
+      "register_version": "1998",
+      "source_task_id": "5f2b6e8ee806d8790e7d15b7c93903bd5400c709598b78af3126adb66d2fb112",
+      "id": "68546aeff4552eb19a941e582d2b37f7f91b7f67dcc419605503d3fd633c8e15",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "InreAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3939,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c6d2f1f79b5586f30fbda9076d3c4dfff958b82627963652a7a7112d0cc9ea1e",
+        "path": "data/variable-documentation/c6d2f1f79b5586f30fbda9076d3c4dfff958b82627963652a7a7112d0cc9ea1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "InreAr",
+      "variable": "Inreseår",
       "register_version": "1999",
       "source_task_id": "5f2b6e8ee806d8790e7d15b7c93903bd5400c709598b78af3126adb66d2fb112",
       "id": "54c6b277f840257c8fd0f449da40838af74232fa23ffbac2a707ad5b481fa6f2",
@@ -77071,6 +78811,64 @@
       "variant": "STATIV",
       "column": "JmftalGyAvg",
       "variable": "Genomsnittlig betygspoäng",
+      "register_version": "1997",
+      "source_task_id": "a1152b1bafd830ce99f303c1472f1c4349f053c8348da805fd4993d926e5b70e",
+      "id": "31aeb32e99bff609c56206f1ffb7a11587372334c14d83300448bab5dde11bf3",
+      "domain_id": "bdba9fcf77ba2c013b6f7d7bed98224b1fe62f7bd498459e7e05553cd12d22a0",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "JmftalGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3945,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "53616c64cd583afe328c8c48e80359878e3ec5d893bbae395c1141fde1dcc3c9",
+        "path": "data/variable-documentation/53616c64cd583afe328c8c48e80359878e3ec5d893bbae395c1141fde1dcc3c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "JmftalGyAvg",
+      "variable": "Genomsnittlig betygspoäng",
+      "register_version": "1998",
+      "source_task_id": "a1152b1bafd830ce99f303c1472f1c4349f053c8348da805fd4993d926e5b70e",
+      "id": "000021b12f80581d4811bc4f2af6377c0e14e6a88e5fab90aff1ce0b1efbaab8",
+      "domain_id": "bdba9fcf77ba2c013b6f7d7bed98224b1fe62f7bd498459e7e05553cd12d22a0",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "JmftalGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3945,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "85e2f379aae6471d00132e26525e69512c8978c3d7b101598c05222785d6b1d5",
+        "path": "data/variable-documentation/85e2f379aae6471d00132e26525e69512c8978c3d7b101598c05222785d6b1d5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "JmftalGyAvg",
+      "variable": "Genomsnittlig betygspoäng",
       "register_version": "1999",
       "source_task_id": "a1152b1bafd830ce99f303c1472f1c4349f053c8348da805fd4993d926e5b70e",
       "id": "2e128fcae7520cef9225f2b229e200551a11131d137c7c612489d29ea1d97bf6",
@@ -77883,6 +79681,64 @@
       "variant": "STATIV",
       "column": "KallKod",
       "variable": "Källkod",
+      "register_version": "1997",
+      "source_task_id": "9b47c11569ff7ffaf0c60ec0cbbe59a1bdcef1c30ba8a1a3dcecfdc45472009e",
+      "id": "5c18f23c90f01e501389857c12c563dbc793f43919a17ef3bc328c5fccb7de82",
+      "domain_id": "b3671a3a47cdff914605f209181e3218a6585de61f66f1b434c3298fc9ddcea7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "KallKod",
+          "ar_raw": "1997-2024",
+          "kallrad": 3947,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b0d114181305c913e04558fe51af3d6b078611d5613e7ec7c40031523db5da92",
+        "path": "data/variable-documentation/b0d114181305c913e04558fe51af3d6b078611d5613e7ec7c40031523db5da92.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "KallKod",
+      "variable": "Källkod",
+      "register_version": "1998",
+      "source_task_id": "9b47c11569ff7ffaf0c60ec0cbbe59a1bdcef1c30ba8a1a3dcecfdc45472009e",
+      "id": "5586a57abf0531dde472e12ac2946cd0c5184babcdb56418b394de64cd27ffed",
+      "domain_id": "b3671a3a47cdff914605f209181e3218a6585de61f66f1b434c3298fc9ddcea7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "KallKod",
+          "ar_raw": "1997-2024",
+          "kallrad": 3947,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e9e8a7bc410efc5bf9044b093c365f5d903384ac623b76b633143da296388418",
+        "path": "data/variable-documentation/e9e8a7bc410efc5bf9044b093c365f5d903384ac623b76b633143da296388418.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "KallKod",
+      "variable": "Källkod",
       "register_version": "1999",
       "source_task_id": "9b47c11569ff7ffaf0c60ec0cbbe59a1bdcef1c30ba8a1a3dcecfdc45472009e",
       "id": "68290553f61134c76cb02c371834cbe0071875784a5148b6e116102289eac7a0",
@@ -78631,6 +80487,64 @@
         "path": "data/variable-documentation/dc49c0839291eb55795cc138f3c591daf53435a01abc2b941a56d60c6c985e1b.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1997",
+      "source_task_id": "7e0ee0c72b7677ceb0fb471a75bef03239678deceef53114a88b05b103db807f",
+      "id": "3441e8eed5cd7fff37cdaa5be6156534cc04fc228abc87e69537a4fa7d9d91a3",
+      "domain_id": "57af25c1738c63a188374c4b6d52952d1d0061f22d01fce64e57255d37c55698",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3948,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c02d6664130a1926af11aa1de659427eca1baabeeadf9c6d7d78eef0f1026e0",
+        "path": "data/variable-documentation/6c02d6664130a1926af11aa1de659427eca1baabeeadf9c6d7d78eef0f1026e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "1998",
+      "source_task_id": "7e0ee0c72b7677ceb0fb471a75bef03239678deceef53114a88b05b103db807f",
+      "id": "59c4a9b448af005644f230415f75dce2ba061d84bb85212565725ddaeb629545",
+      "domain_id": "5481a1f31c4b3bbb365e175184eebc1e4a31024835179b7f008a3159222c4cdb",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2024",
+          "kallrad": 3948,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "527d8348cc707907f683b02e405d802752cd88cb7bbb02d2d4e726c4cf61427b",
+        "path": "data/variable-documentation/527d8348cc707907f683b02e405d802752cd88cb7bbb02d2d4e726c4cf61427b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -80029,6 +81943,64 @@
       "variant": "STATIV",
       "column": "MedbAr",
       "variable": "Medborgarskapsår prioriterat",
+      "register_version": "1997",
+      "source_task_id": "3fd450fb7668882aa79704ea96fc7afa2ba1b9eb6c3af8d803d7aaa87329ae17",
+      "id": "b3f62b5a712b49c6d0a5df7fc17e20428ca21dc14a6c70b89d3c03b42ee9196a",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "MedbAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3951,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2a3c68c834502c3abb1147dd9ff482dbfa65d7673945b0974267f851231a6aeb",
+        "path": "data/variable-documentation/2a3c68c834502c3abb1147dd9ff482dbfa65d7673945b0974267f851231a6aeb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "MedbAr",
+      "variable": "Medborgarskapsår prioriterat",
+      "register_version": "1998",
+      "source_task_id": "3fd450fb7668882aa79704ea96fc7afa2ba1b9eb6c3af8d803d7aaa87329ae17",
+      "id": "63d03e9cedf89aa6af4bdb56af9f66cccd0c9ad37f524eaca3c519d57c3c0150",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "MedbAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3951,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "075bd1aca29dfe543054eb690dbed9b261b4cd118929ca06afc2f446c9bfabbe",
+        "path": "data/variable-documentation/075bd1aca29dfe543054eb690dbed9b261b4cd118929ca06afc2f446c9bfabbe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "MedbAr",
+      "variable": "Medborgarskapsår prioriterat",
       "register_version": "1999",
       "source_task_id": "3fd450fb7668882aa79704ea96fc7afa2ba1b9eb6c3af8d803d7aaa87329ae17",
       "id": "651828311829bb31d7098964ae837e62f6f2b2c1448934a6cba6f84302f7d810",
@@ -80783,6 +82755,35 @@
       "variant": "STATIV",
       "column": "MeritvGrund",
       "variable": "Meritvärde",
+      "register_version": "1998",
+      "source_task_id": "4ecbe08827d9848fac3e4d09dc8fe64fcc27ff315364b99fa4d01b000d958613",
+      "id": "b43705547f695bf23e5d301031485eadf8dd2715a62bd7e4e11b587f5af264a6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "MeritvGrund",
+          "ar_raw": "1998-2024",
+          "kallrad": 3952,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "380c89e87265c4bab50e5740282f7ff3fc47c171db2cbb0f0d5ea2f070f9b791",
+        "path": "data/variable-documentation/380c89e87265c4bab50e5740282f7ff3fc47c171db2cbb0f0d5ea2f070f9b791.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "MeritvGrund",
+      "variable": "Meritvärde",
       "register_version": "1999",
       "source_task_id": "4ecbe08827d9848fac3e4d09dc8fe64fcc27ff315364b99fa4d01b000d958613",
       "id": "8c8083d916e084fae1a9b1ab3067f073c52c786e3df191a059f9cbfa115ba887",
@@ -81531,6 +83532,64 @@
         "path": "data/variable-documentation/84b7f82f774248bec5dfb20e289c90459166803dece0d2df946481753cc4a3f4.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:09:37+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "MotAr",
+      "variable": "Flyktingsmottagningsår",
+      "register_version": "1997",
+      "source_task_id": "edebe9bdd545906c471d4f66a5b37d19539c3a98e3252b6d1d656996d9726cbf",
+      "id": "f156657bc3243d895b25042958eefc7d0c20a37aed73e1ef895a56258e6dff31",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "MotAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3953,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad3a95991883770fe4a22eb0b67a82bbe73f1b49c55d9b62f5dd4449afe79046",
+        "path": "data/variable-documentation/ad3a95991883770fe4a22eb0b67a82bbe73f1b49c55d9b62f5dd4449afe79046.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "MotAr",
+      "variable": "Flyktingsmottagningsår",
+      "register_version": "1998",
+      "source_task_id": "edebe9bdd545906c471d4f66a5b37d19539c3a98e3252b6d1d656996d9726cbf",
+      "id": "6a932096cb0a947185659a7e47e7019f82dca7c5237e8de1c2c13cb41b0152d2",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "MotAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3953,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "65c8cde5b9d993a64e5b495dcfd02e6d49d364d53938ac9e54cbf5f397d90d10",
+        "path": "data/variable-documentation/65c8cde5b9d993a64e5b495dcfd02e6d49d364d53938ac9e54cbf5f397d90d10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -83712,6 +85771,35 @@
       "variant": "STATIV",
       "column": "RehabErs",
       "variable": "Rehabiliteringsersättning",
+      "register_version": "1997",
+      "source_task_id": "3506dac8047104b03445411ae8034cf330542421f9c4ef24847fd472f8bdc6fa",
+      "id": "ca910b61081bf927051e3109468b16d5e6ca0d99dd7ad30923f18e65a691db02",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "RehabErs",
+          "ar_raw": "1997-2023",
+          "kallrad": 3967,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5ac4f90270f333ce0cde3a8683a5b4c4d924af4ec04c3163a2b855e392e642ee",
+        "path": "data/variable-documentation/5ac4f90270f333ce0cde3a8683a5b4c4d924af4ec04c3163a2b855e392e642ee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "RehabErs",
+      "variable": "Rehabiliteringsersättning",
       "register_version": "1998",
       "source_task_id": "3506dac8047104b03445411ae8034cf330542421f9c4ef24847fd472f8bdc6fa",
       "id": "4c6b12c076a9ea4a046b6e923623dcbf5ac8d81ed002f0c53587131cf2ca54d8",
@@ -84460,6 +86548,35 @@
         "path": "data/variable-documentation/dd269044a478d090649928ec328ca49b1e22466348fa29771a2938c21646591d.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "RehabTyp",
+      "variable": "Rehabiliteringsersättning, förekomst av",
+      "register_version": "1997",
+      "source_task_id": "abde1afe8f1326659c035d24f6e31eab10d14a558ccafcdee6fa43b57584a711",
+      "id": "cd5a681a87e8f3c5f7fb85bd96e934de23e2a5a533222daeff71dfaef0236ba8",
+      "domain_id": "646e1c10cc220ff900f37a1cf5ddfe2ebeff7e94b8ab9b809e44229d8b95f854",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "RehabTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 3968,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "978ded087841773be669e4c0a312dee8cee023b0872ac8e88650cbfde68faab7",
+        "path": "data/variable-documentation/978ded087841773be669e4c0a312dee8cee023b0872ac8e88650cbfde68faab7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -89193,6 +91310,64 @@
       "variant": "STATIV",
       "column": "SFIBetyg",
       "variable": "Betyg i Svenska för Invandrare",
+      "register_version": "1997",
+      "source_task_id": "60a5bf29dfb3ab23183d40ef1a247a886b6eefe32d94d8af391bbcb4d10e9c92",
+      "id": "899caef2d0e9b4cd61fc096d3176281e215e2cae85ba7b2ca5b5e2fa49c901de",
+      "domain_id": "fdbee8c7c773ba3f78184fba52d5e17ad17827552ff7dd983c7e6262507fbf2e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SFIBetyg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3977,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c487fd67ebd86e5267c7bd5dd2fb800763c059bc549dc7a9eba3ba3b0a6e8eba",
+        "path": "data/variable-documentation/c487fd67ebd86e5267c7bd5dd2fb800763c059bc549dc7a9eba3ba3b0a6e8eba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SFIBetyg",
+      "variable": "Betyg i Svenska för Invandrare",
+      "register_version": "1998",
+      "source_task_id": "60a5bf29dfb3ab23183d40ef1a247a886b6eefe32d94d8af391bbcb4d10e9c92",
+      "id": "f576f3f0d55a07b50b5e7a2b7184746b0905c101c94f0c2b6b6e44e66847487f",
+      "domain_id": "fdbee8c7c773ba3f78184fba52d5e17ad17827552ff7dd983c7e6262507fbf2e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SFIBetyg",
+          "ar_raw": "1997-2024",
+          "kallrad": 3977,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6578a32a20109469dd4944dc0246c4c23fc67f59089aa9391bc34bac5a66684b",
+        "path": "data/variable-documentation/6578a32a20109469dd4944dc0246c4c23fc67f59089aa9391bc34bac5a66684b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SFIBetyg",
+      "variable": "Betyg i Svenska för Invandrare",
       "register_version": "1999",
       "source_task_id": "60a5bf29dfb3ab23183d40ef1a247a886b6eefe32d94d8af391bbcb4d10e9c92",
       "id": "6508b75dde29d82f4e2d62d89253521e10f36084bf2fb03d96e95d5a4e129630",
@@ -90173,6 +92348,64 @@
         "path": "data/variable-documentation/80914d88495e0b6a0314650f90fea046a55a9d72a531f0e563c144f81e0d776e.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SFIOrsak",
+      "variable": "Orsak till kursavbrott/avslut i svenska för invandrare",
+      "register_version": "1997",
+      "source_task_id": "e7f652a61d1a4f940b644364eb149f215daeb0491b93a577e432b9f66a68384e",
+      "id": "bf5ee62594664a2d2d44c371d4edf92cdf3ba90adb5f6c3d1969fdb7be09c7a2",
+      "domain_id": "7d1999f05d5c2e0eae7e94fef39e7304c18f78c33810ab8058076f3a451376e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SFIOrsak",
+          "ar_raw": "1997-2024",
+          "kallrad": 3981,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "abb3169796c0946486b4d1d33294b1a8af00ed426bdc597711465072919d7ab0",
+        "path": "data/variable-documentation/abb3169796c0946486b4d1d33294b1a8af00ed426bdc597711465072919d7ab0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SFIOrsak",
+      "variable": "Orsak till kursavbrott/avslut i svenska för invandrare",
+      "register_version": "1998",
+      "source_task_id": "e7f652a61d1a4f940b644364eb149f215daeb0491b93a577e432b9f66a68384e",
+      "id": "1750a3091e4d3138ead4bcf8caf92cb3d4ee229e6ee2e2ea50818db03c0a5fa1",
+      "domain_id": "7d1999f05d5c2e0eae7e94fef39e7304c18f78c33810ab8058076f3a451376e7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SFIOrsak",
+          "ar_raw": "1997-2024",
+          "kallrad": 3981,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa20a6985e820acb6c2664c3a9098e84e7adcbae0135fca4758e56ec03219631",
+        "path": "data/variable-documentation/fa20a6985e820acb6c2664c3a9098e84e7adcbae0135fca4758e56ec03219631.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -95022,6 +97255,35 @@
       "variant": "STATIV",
       "column": "SamRakFInk",
       "variable": "Sammanräknad förvärvsinkomst",
+      "register_version": "1997",
+      "source_task_id": "8beb2e7122b39766b8fa92ec17ee9c2df0c5de68441e0d7e01a5b2964c07cac9",
+      "id": "685607337aa18bb9071882dd50367521a415efb3088efcd428b762251304a8d0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SamRakFInk",
+          "ar_raw": "1997-2023",
+          "kallrad": 3999,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40b78c16db626762790805128c7f30eb78babd41e924070f251a11e2cfe219cc",
+        "path": "data/variable-documentation/40b78c16db626762790805128c7f30eb78babd41e924070f251a11e2cfe219cc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SamRakFInk",
+      "variable": "Sammanräknad förvärvsinkomst",
       "register_version": "1998",
       "source_task_id": "8beb2e7122b39766b8fa92ec17ee9c2df0c5de68441e0d7e01a5b2964c07cac9",
       "id": "3540c59e087d5e5b69eae3de38b620fc509c9cc82d5b7e411bcfa135e6d7a3f3",
@@ -95776,6 +98038,35 @@
       "variant": "STATIV",
       "column": "SamRakFInkFar",
       "variable": "Sammanräknad förvärvsinkomst, fader",
+      "register_version": "1997",
+      "source_task_id": "b1968beade4ff19d7625a2758afbe1816ca8478e6ad17bcde776af3b3ea3203d",
+      "id": "6fbb1af0b1bce25e87c17df9f3814f58271506ef513ed5eabf6d5b48743370fe",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SamRakFInkFar",
+          "ar_raw": "1997-2023",
+          "kallrad": 4000,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "032054b3706ebd04b337d48ed6168e07574ffc701ccc433d5651f53f1b754c53",
+        "path": "data/variable-documentation/032054b3706ebd04b337d48ed6168e07574ffc701ccc433d5651f53f1b754c53.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SamRakFInkFar",
+      "variable": "Sammanräknad förvärvsinkomst, fader",
       "register_version": "1998",
       "source_task_id": "b1968beade4ff19d7625a2758afbe1816ca8478e6ad17bcde776af3b3ea3203d",
       "id": "8c2b442aa8f43c637edba793a11b6eb58cfe717d66fcdf970af4fc3c2bf902c2",
@@ -96524,6 +98815,35 @@
         "path": "data/variable-documentation/bb99e5c34d86be58277ec6696067768b373eafc4c76d200a37c75105bdad5ebe.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SamRakFInkMor",
+      "variable": "Sammanräknad förvärvsinkomst, moder",
+      "register_version": "1997",
+      "source_task_id": "067d1737edb348bdd0a74eae119f0499e8355d694a7ea656d6997ac813a9f75e",
+      "id": "c7340ba3a436ee637e121d12848c7960c29f732f4b563674dfa0e6afcdeaf749",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SamRakFInkMor",
+          "ar_raw": "1997-2023",
+          "kallrad": 4001,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f64d588067e1f7f169ef60f557299afee73dcdcd53d7904ac1a9b6acbd77132b",
+        "path": "data/variable-documentation/f64d588067e1f7f169ef60f557299afee73dcdcd53d7904ac1a9b6acbd77132b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -97342,6 +99662,64 @@
       "variant": "STATIV",
       "column": "SenInvAr",
       "variable": "Senaste invandringsår",
+      "register_version": "1997",
+      "source_task_id": "75c3387651f355cdc3f8e3ad35c264d11a307c287e6c39dc42f214209c47ea8c",
+      "id": "5313df8857d1a517c19add8a81e439925d6f1167d7690b8c0b3f18c597e21e7e",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 4003,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ba820d86b0a5eaaae85cba8e1a0ab6a1ca3c9dc41060d0aef713e049358fc55",
+        "path": "data/variable-documentation/2ba820d86b0a5eaaae85cba8e1a0ab6a1ca3c9dc41060d0aef713e049358fc55.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvAr",
+      "variable": "Senaste invandringsår",
+      "register_version": "1998",
+      "source_task_id": "75c3387651f355cdc3f8e3ad35c264d11a307c287e6c39dc42f214209c47ea8c",
+      "id": "7c30f4a523738b6f5e835b7080c618ed698b132837c57e39a55b0ffb82bfbb1f",
+      "domain_id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 4003,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7e194ab4753b36761837a697923f7f8f5033cdf23eda26688457980bf6d2a5d6",
+        "path": "data/variable-documentation/7e194ab4753b36761837a697923f7f8f5033cdf23eda26688457980bf6d2a5d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvAr",
+      "variable": "Senaste invandringsår",
       "register_version": "1999",
       "source_task_id": "75c3387651f355cdc3f8e3ad35c264d11a307c287e6c39dc42f214209c47ea8c",
       "id": "0baa880437779c9b1509d94c91d6f4bd86f135c0bd7fec4a17293060eef28a97",
@@ -98154,6 +100532,64 @@
       "variant": "STATIV",
       "column": "SenInvArFar",
       "variable": "Senaste invandringsår fader",
+      "register_version": "1997",
+      "source_task_id": "7c5df8c9c9f7ee746a7dc1d1c70c866966f2ad7c39618a4494657beddf28fcb7",
+      "id": "b63a76b4ea383f2f357b54f01b0f8540e57b4abf3006b38f6c6286e30f38d0d0",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvArFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 4006,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "49aace737f185cd1dff4a695874938b520bd87c25c5ec3cae2535d71544d8d05",
+        "path": "data/variable-documentation/49aace737f185cd1dff4a695874938b520bd87c25c5ec3cae2535d71544d8d05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvArFar",
+      "variable": "Senaste invandringsår fader",
+      "register_version": "1998",
+      "source_task_id": "7c5df8c9c9f7ee746a7dc1d1c70c866966f2ad7c39618a4494657beddf28fcb7",
+      "id": "6b048adcbcd2970ec55a5c80f333e701d0a41c7788243b2c2eb9340e8969dab6",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvArFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 4006,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "586c3ac6b0e6de4d1fffff46a2cdb6fb021317775b8fd0ef9c896957651d9f96",
+        "path": "data/variable-documentation/586c3ac6b0e6de4d1fffff46a2cdb6fb021317775b8fd0ef9c896957651d9f96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvArFar",
+      "variable": "Senaste invandringsår fader",
       "register_version": "1999",
       "source_task_id": "7c5df8c9c9f7ee746a7dc1d1c70c866966f2ad7c39618a4494657beddf28fcb7",
       "id": "49b9c493c829311c8e69ddba4be4b31ed22b7e061293907d5f1c42615a1d1a15",
@@ -98902,6 +101338,64 @@
         "path": "data/variable-documentation/c17b79eef50b22f5371cdb70ced412a54aae299b18356856c11fa1f86d3c6200.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvArMor",
+      "variable": "Senaste invandringsår moder",
+      "register_version": "1997",
+      "source_task_id": "3c0c11e737947373f60ec747f9284863f335008c9fc452b636ec37472a57436d",
+      "id": "75ec45ad87cd57cf74d6c94d8889873e52358c3781a10d5bd4f159cc488f7474",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvArMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 4007,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "66bebabfc8a95e34f9b7706805309c7c32bd5f4168dc19274877886626a9c84a",
+        "path": "data/variable-documentation/66bebabfc8a95e34f9b7706805309c7c32bd5f4168dc19274877886626a9c84a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SenInvArMor",
+      "variable": "Senaste invandringsår moder",
+      "register_version": "1998",
+      "source_task_id": "3c0c11e737947373f60ec747f9284863f335008c9fc452b636ec37472a57436d",
+      "id": "5984620a72c5ccdf9c9c84df1aed32ef76402d7a58a081ed58a5edfc5c0a6252",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SenInvArMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 4007,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "296680c4f23d8475706bbce357b8eb398081dde8b269ae1734d8e20aa8998680",
+        "path": "data/variable-documentation/296680c4f23d8475706bbce357b8eb398081dde8b269ae1734d8e20aa8998680.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -106680,6 +109174,35 @@
       "variant": "STATIV",
       "column": "SjukTyp",
       "variable": "Förekomst av sjuk-/arbetsskadeersättning",
+      "register_version": "1997",
+      "source_task_id": "fc67c2e631e8652cacfdaeceba9156e48cf12d1c4b747a4f6f2ddce9b5e1f2ca",
+      "id": "767c4d0be83b774ea69aefa5112ec3c6b44f2cd4c1d8bd492af196c128fb5747",
+      "domain_id": "646e1c10cc220ff900f37a1cf5ddfe2ebeff7e94b8ab9b809e44229d8b95f854",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SjukTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 4024,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09e7109ac9f4ae761409165b9700a2bc26e81f2cf43cf3abfb2e4fe1ead70d6e",
+        "path": "data/variable-documentation/09e7109ac9f4ae761409165b9700a2bc26e81f2cf43cf3abfb2e4fe1ead70d6e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SjukTyp",
+      "variable": "Förekomst av sjuk-/arbetsskadeersättning",
       "register_version": "1998",
       "source_task_id": "fc67c2e631e8652cacfdaeceba9156e48cf12d1c4b747a4f6f2ddce9b5e1f2ca",
       "id": "74796a28b94eabd002130c0b941fccf81de89d85a051fc74092809c17fa2057d",
@@ -107428,6 +109951,35 @@
         "path": "data/variable-documentation/f3b1e2850d4649050aba432896fabb4151477a08323991dab259f467cc7ddf7f.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Smitt_Bdag",
+      "variable": "Smittbärarsjukpenning, bruttodagar",
+      "register_version": "1997",
+      "source_task_id": "289607b22754b1ad4075e45708ff1b05babe7862a0e1c8bd5bf28be93c98aeb5",
+      "id": "619fb9488fecf5d8399ae39ffb288d8d317f3e84c79149ec467ff62c550115eb",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Smitt_Bdag",
+          "ar_raw": "1997-2023",
+          "kallrad": 4025,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a91b90aa4f71b282714cc01ca9f158eb7ad08e8e04eb42738ca27191a8242c76",
+        "path": "data/variable-documentation/a91b90aa4f71b282714cc01ca9f158eb7ad08e8e04eb42738ca27191a8242c76.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -108188,6 +110740,35 @@
       "variant": "STATIV",
       "column": "Smitt_Belopp",
       "variable": "Smittbärarsjukpenning, ersättningsbelopp",
+      "register_version": "1997",
+      "source_task_id": "281396b15a1cb70e1d6759a899eeab8380a022f13125b8e36a52832cf610512d",
+      "id": "aac5c271de5a7ce656d59bb6a346bb38d49e8403423c14e3b4dd116316403458",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Smitt_Belopp",
+          "ar_raw": "1997-2023",
+          "kallrad": 4026,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "866c55e703d4aaa3cb7e75c3f2dfb793c4ab06ea95fa579d2d722cef702e1981",
+        "path": "data/variable-documentation/866c55e703d4aaa3cb7e75c3f2dfb793c4ab06ea95fa579d2d722cef702e1981.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Smitt_Belopp",
+      "variable": "Smittbärarsjukpenning, ersättningsbelopp",
       "register_version": "1998",
       "source_task_id": "281396b15a1cb70e1d6759a899eeab8380a022f13125b8e36a52832cf610512d",
       "id": "920f73b47d4cdf8e6a92483da48f46eb223ea614c88272ee0472cabc3b76dc5e",
@@ -108936,6 +111517,35 @@
         "path": "data/variable-documentation/d3571fdddf3bfb16202b4742a0ebdfbe2bd27b053664a460780b4ffed72c8150.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Smitt_Ndag",
+      "variable": "Smittbärarsjukpenning, nettodagar",
+      "register_version": "1997",
+      "source_task_id": "5593fc1b57421c148d566d92de3a1ba8e7c3de3527f25f981ec0aea903fa73ba",
+      "id": "2a68a9cf68b0e09e0828dab3d6c09fab21b747dafde1286859f838d11df7e406",
+      "domain_id": "bdba9fcf77ba2c013b6f7d7bed98224b1fe62f7bd498459e7e05553cd12d22a0",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Smitt_Ndag",
+          "ar_raw": "1997-2023",
+          "kallrad": 4027,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a88cf22311e9a2cec5e4f91f359eee5c0eeb788bc3275f8803b305d856196fc",
+        "path": "data/variable-documentation/8a88cf22311e9a2cec5e4f91f359eee5c0eeb788bc3275f8803b305d856196fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -110943,6 +113553,64 @@
       "variant": "STATIV",
       "column": "SocBidrManFar",
       "variable": "Månader med ekonomiskt bistånd, fader",
+      "register_version": "1997",
+      "source_task_id": "a2e0482aaf3f926ca4e59c3acc7d7e91ec70fc018a4fcf447b7e0a748aeba458",
+      "id": "764bf759e33234df2ee028b33c8743ea57ee08e0ce054265637f5dc61d3a04c0",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 4030,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "983f2d8916f3d042e95ec929fdee1019f8eede3c5dfd9be17f8717100e628bb9",
+        "path": "data/variable-documentation/983f2d8916f3d042e95ec929fdee1019f8eede3c5dfd9be17f8717100e628bb9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManFar",
+      "variable": "Månader med ekonomiskt bistånd, fader",
+      "register_version": "1998",
+      "source_task_id": "a2e0482aaf3f926ca4e59c3acc7d7e91ec70fc018a4fcf447b7e0a748aeba458",
+      "id": "b6768dad9075207d7b2e564072b9b05d2fe0dd311ca1350bd8ad036ec821d021",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManFar",
+          "ar_raw": "1997-2024",
+          "kallrad": 4030,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "187cfa991189238bef55e68520fef9fc6560284e1d6f172c414b4ac3018da002",
+        "path": "data/variable-documentation/187cfa991189238bef55e68520fef9fc6560284e1d6f172c414b4ac3018da002.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManFar",
+      "variable": "Månader med ekonomiskt bistånd, fader",
       "register_version": "1999",
       "source_task_id": "a2e0482aaf3f926ca4e59c3acc7d7e91ec70fc018a4fcf447b7e0a748aeba458",
       "id": "f4bc7a94e99cfede3c401d6347ca66c31157ced8d36f11629e48497c2fedc8fc",
@@ -111691,6 +114359,64 @@
         "path": "data/variable-documentation/0ec6e4c715f25c39cb840245991a61ae131271eee62eca7fe80b5e7d9f9ecef7.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManForStod",
+      "variable": "Månader med försörjningsstöd",
+      "register_version": "1997",
+      "source_task_id": "b75f93f1426f701227feffbdda40caacc2176a6ba42ff6657cf677b446052a42",
+      "id": "ef13e7625727ec839ea6d84a04e5f19dfe779c8dd11eaa067164a8da535e6091",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManForStod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4031,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "55ef8141272b1cf8d79bf15f719106b7acfca7379263b361d400186ed71f9635",
+        "path": "data/variable-documentation/55ef8141272b1cf8d79bf15f719106b7acfca7379263b361d400186ed71f9635.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManForStod",
+      "variable": "Månader med försörjningsstöd",
+      "register_version": "1998",
+      "source_task_id": "b75f93f1426f701227feffbdda40caacc2176a6ba42ff6657cf677b446052a42",
+      "id": "cd899a3550869f554d49b87d8987442f03ade53b64b9a208f268aafbe494038a",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManForStod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4031,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "042af1d191ee6807346c1fc8f2ec661ae7a1abe9db151d8ad1d395ce1439f471",
+        "path": "data/variable-documentation/042af1d191ee6807346c1fc8f2ec661ae7a1abe9db151d8ad1d395ce1439f471.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -112880,6 +115606,64 @@
         "path": "data/variable-documentation/4938715cf694c8722e3cf430fc5075e40ff806160abb715431a9f147a4e08cde.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManMor",
+      "variable": "Månader med ekonomiskt bistånd, moder",
+      "register_version": "1997",
+      "source_task_id": "09489165793f1304b6b3bf920595baaa2f45066755a781cc7128545991a16746",
+      "id": "f4167f3d6a0742fa1e901a9d284b2ff2a6cee9533fe4896935de4004277776ab",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 4033,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "36d43e4f91c586c4303f5ff777c06d3b957cd2c762a926ada8ff249eb901b850",
+        "path": "data/variable-documentation/36d43e4f91c586c4303f5ff777c06d3b957cd2c762a926ada8ff249eb901b850.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "SocBidrManMor",
+      "variable": "Månader med ekonomiskt bistånd, moder",
+      "register_version": "1998",
+      "source_task_id": "09489165793f1304b6b3bf920595baaa2f45066755a781cc7128545991a16746",
+      "id": "a052876a10510dac930cba867819d18059843bd629e8fd97413b3e3bd44fd679",
+      "domain_id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "SocBidrManMor",
+          "ar_raw": "1997-2024",
+          "kallrad": 4033,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8fc854089376875975bdb11aa3eb9215f639bcab2f309e0fafdda2eea11b7a20",
+        "path": "data/variable-documentation/8fc854089376875975bdb11aa3eb9215f639bcab2f309e0fafdda2eea11b7a20.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -120368,6 +123152,35 @@
       "variant": "STATIV",
       "column": "StKodGrund",
       "variable": "Avslutat grundskolan",
+      "register_version": "1998",
+      "source_task_id": "63e98dc6c11eabb342ac11fb9ca96c3f2b82b72b12a9ff837f39918c8944ea53",
+      "id": "263acb8c1f1a10d17744f730f459480d30c03052a1a2beb7b06865451b72307d",
+      "domain_id": "7318a42bc08cbd9106f9bc888324ca21d8d5ae7673769b73bf3467f23f2c9c85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StKodGrund",
+          "ar_raw": "1998-2024",
+          "kallrad": 4039,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "455f7d06b13c50e3499a1f2a2c6d03438441903d9aa708aad08dcd76d885da19",
+        "path": "data/variable-documentation/455f7d06b13c50e3499a1f2a2c6d03438441903d9aa708aad08dcd76d885da19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StKodGrund",
+      "variable": "Avslutat grundskolan",
       "register_version": "1999",
       "source_task_id": "63e98dc6c11eabb342ac11fb9ca96c3f2b82b72b12a9ff837f39918c8944ea53",
       "id": "19602638bfc034e42be9786ffb9b2f3dbbf7b7259598a2f55aa18eaa24f7a962",
@@ -121116,6 +123929,64 @@
         "path": "data/variable-documentation/3302a35c3e057339cd02f2f7de3b229f86e7858c034edc1daac2e5e96cfa47d5.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StKodGy",
+      "variable": "Registrerad på gymnasieskola",
+      "register_version": "1997",
+      "source_task_id": "581a31437feccbe861c294a35d9d75671e2b30427bf3710914ca0d41dad65f95",
+      "id": "905e2339482d1a01a4b402852845eb9228f5ad1f7d42b969879a344333557e5a",
+      "domain_id": "72a95c576c4c223ade9eed410ecccb9803f3897ad93c074ab0306d4909ee0e3d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StKodGy",
+          "ar_raw": "1997-2024",
+          "kallrad": 4040,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbef5899f471c44b4cb2c0a4f85c8b29b585f3aa037089dc807f75b29621612e",
+        "path": "data/variable-documentation/dbef5899f471c44b4cb2c0a4f85c8b29b585f3aa037089dc807f75b29621612e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StKodGy",
+      "variable": "Registrerad på gymnasieskola",
+      "register_version": "1998",
+      "source_task_id": "581a31437feccbe861c294a35d9d75671e2b30427bf3710914ca0d41dad65f95",
+      "id": "5550be443edf44d0216e2b07f6c22faec4c7e853a056afb6772b492e14af5c6b",
+      "domain_id": "72a95c576c4c223ade9eed410ecccb9803f3897ad93c074ab0306d4909ee0e3d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StKodGy",
+          "ar_raw": "1997-2024",
+          "kallrad": 4040,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3c13c5a59d0f41c1e291974d3beadaff3c0acdfadcc4a210e34c0d2e95a55b67",
+        "path": "data/variable-documentation/3c13c5a59d0f41c1e291974d3beadaff3c0acdfadcc4a210e34c0d2e95a55b67.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -121876,6 +124747,64 @@
       "variant": "STATIV",
       "column": "StKodGyAvg",
       "variable": "Avslutat gymnasiet",
+      "register_version": "1997",
+      "source_task_id": "1b14f7e47a83f39ec27f2fe065a1c046b0a528f38f840885a439cc8f104656ca",
+      "id": "86ea02db2e3b88d6161f4d8bf9355d98e4a5e57001d03beda8f4d5902b1f59e9",
+      "domain_id": "2d5c9be66f3256e41694f151676b0bd728beee68025300a5dd741dac4837eb6a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StKodGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 4041,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a30156a32926bd8c3fe264925dedf9d6066e4711159bc99e1bbbc961a08795ee",
+        "path": "data/variable-documentation/a30156a32926bd8c3fe264925dedf9d6066e4711159bc99e1bbbc961a08795ee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StKodGyAvg",
+      "variable": "Avslutat gymnasiet",
+      "register_version": "1998",
+      "source_task_id": "1b14f7e47a83f39ec27f2fe065a1c046b0a528f38f840885a439cc8f104656ca",
+      "id": "cc65646ecddfea0032fa92c01fba320dfe88a20af8bca95ded6a790a1e814438",
+      "domain_id": "2d5c9be66f3256e41694f151676b0bd728beee68025300a5dd741dac4837eb6a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StKodGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 4041,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "201fef32dd243931f8c42b5953df6e99e801c1be0074c1c6cdcc32fea081a532",
+        "path": "data/variable-documentation/201fef32dd243931f8c42b5953df6e99e801c1be0074c1c6cdcc32fea081a532.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StKodGyAvg",
+      "variable": "Avslutat gymnasiet",
       "register_version": "1999",
       "source_task_id": "1b14f7e47a83f39ec27f2fe065a1c046b0a528f38f840885a439cc8f104656ca",
       "id": "03856e5c1c1219f21e440a7cdd5078b9b1dd7173ef5c1566abe584d1fe4abedb",
@@ -122624,6 +125553,64 @@
         "path": "data/variable-documentation/0edd692e3b4252e1031b0f412a41847faeca331c01adc875a12cc6c344ea7418.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StVagGy",
+      "variable": "Studieväg i gymnasieskolan, start",
+      "register_version": "1997",
+      "source_task_id": "398b679979ec14656b54d90a54d5b81ea6d21324ec551314a9e4d2215afe6d85",
+      "id": "39edf18ccb89e739e715e5e7d2ef6a51b5aa22a847ebd53d54e6b27785d43aa3",
+      "domain_id": "7d7fcd924c603b00d2626414bf49cb007b01493d5badbd8a77c2e674c73b6941",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StVagGy",
+          "ar_raw": "1997-2024",
+          "kallrad": 4042,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "390b61964b8bd1d17a9f119668cc0ad28484260dff29c4fe67cea18accce0734",
+        "path": "data/variable-documentation/390b61964b8bd1d17a9f119668cc0ad28484260dff29c4fe67cea18accce0734.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StVagGy",
+      "variable": "Studieväg i gymnasieskolan, start",
+      "register_version": "1998",
+      "source_task_id": "398b679979ec14656b54d90a54d5b81ea6d21324ec551314a9e4d2215afe6d85",
+      "id": "6f94104717f46ff54f7806d488f7811b4516f01b862bda8355d2e90645ca08ad",
+      "domain_id": "7d7fcd924c603b00d2626414bf49cb007b01493d5badbd8a77c2e674c73b6941",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StVagGy",
+          "ar_raw": "1997-2024",
+          "kallrad": 4042,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f02b2cf0ca41c4769fc13ce884bce055329b6588135078429773980b034b3a3",
+        "path": "data/variable-documentation/9f02b2cf0ca41c4769fc13ce884bce055329b6588135078429773980b034b3a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -123384,6 +126371,64 @@
       "variant": "STATIV",
       "column": "StVagGyAvg",
       "variable": "Studieväg i gymnasieskolan",
+      "register_version": "1997",
+      "source_task_id": "df0f2e45468053bfb1b4ecbd030fe0eb504fd15413788e5b9cc39f343fffb240",
+      "id": "5f988b216909812f384386ca5594648126c979f69eeec0c9de0625f1ab18101d",
+      "domain_id": "7d7fcd924c603b00d2626414bf49cb007b01493d5badbd8a77c2e674c73b6941",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StVagGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 4043,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "57ed8fd5bd39439ffd9ccc83bab938e42aebfc4d8ca5886d63e594897b7cf25f",
+        "path": "data/variable-documentation/57ed8fd5bd39439ffd9ccc83bab938e42aebfc4d8ca5886d63e594897b7cf25f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StVagGyAvg",
+      "variable": "Studieväg i gymnasieskolan",
+      "register_version": "1998",
+      "source_task_id": "df0f2e45468053bfb1b4ecbd030fe0eb504fd15413788e5b9cc39f343fffb240",
+      "id": "93f01196ff6f0cf79d46e28ab2559486003cc5c9d87987cdf803d57858094a30",
+      "domain_id": "7d7fcd924c603b00d2626414bf49cb007b01493d5badbd8a77c2e674c73b6941",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StVagGyAvg",
+          "ar_raw": "1997-2024",
+          "kallrad": 4043,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48a98569415b5b3261ad772535974172f07ccb5b40f538508de48eb4d2875a9c",
+        "path": "data/variable-documentation/48a98569415b5b3261ad772535974172f07ccb5b40f538508de48eb4d2875a9c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StVagGyAvg",
+      "variable": "Studieväg i gymnasieskolan",
       "register_version": "1999",
       "source_task_id": "df0f2e45468053bfb1b4ecbd030fe0eb504fd15413788e5b9cc39f343fffb240",
       "id": "6742a1ca22921e5d81fbbcc5ce899ee10bd5491b27a4eb0c853f933bb104f5eb",
@@ -124132,6 +127177,35 @@
         "path": "data/variable-documentation/420efee486ea9595f25d9f898ab897820a70d0ff67297d78d8445c724fdfdd94.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Stud",
+      "variable": "Summa inkomst föranledd av studier",
+      "register_version": "1997",
+      "source_task_id": "165cc369191d866aa8a59f907f8accab9fe54008293566689f615e95cdcfbdce",
+      "id": "92c3d487d90ef49e7328b5aceea6595c7ba4297aee42a326f499f9e47c127a8e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Stud",
+          "ar_raw": "1997-2023",
+          "kallrad": 4044,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d338a55221be9b7fe2f430f8fe2c792f43802b84f447e870f18d98afbb745e9",
+        "path": "data/variable-documentation/5d338a55221be9b7fe2f430f8fe2c792f43802b84f447e870f18d98afbb745e9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -124892,6 +127966,35 @@
       "variant": "STATIV",
       "column": "StudDelt",
       "variable": "Studiedeltagande höstterminen",
+      "register_version": "1997",
+      "source_task_id": "69c5f6426e26291c5114db84e8b3f977ab4ffac4c63441649045da74fca031cd",
+      "id": "8c00e7008596140d083a5d1ad66b51a98751d4c7c862d8a36cd8bfdf6081fc6f",
+      "domain_id": "19a128bdee71cdc566ad03f139a16e802414b4c3ec52a068e4962f04c82a7c4c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StudDelt",
+          "ar_raw": "1997-2023",
+          "kallrad": 4045,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "366b6b6fd5ce8ee480735845ba587608cc1f68271eb55501a2b11cb7c187ce15",
+        "path": "data/variable-documentation/366b6b6fd5ce8ee480735845ba587608cc1f68271eb55501a2b11cb7c187ce15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StudDelt",
+      "variable": "Studiedeltagande höstterminen",
       "register_version": "1998",
       "source_task_id": "69c5f6426e26291c5114db84e8b3f977ab4ffac4c63441649045da74fca031cd",
       "id": "6ae500f2b5d3bda8d179a81768df09f9f1a2ec87a6a5abeaa1a56830dbe98f0e",
@@ -125646,6 +128749,35 @@
       "variant": "STATIV",
       "column": "StudMed",
       "variable": "Studiemedel/studiehjälp, lån och bidrag",
+      "register_version": "1997",
+      "source_task_id": "1ccba37c3d39deda2db764dae88bb6759a5a1b61f758aaa2ff950b143c4fa7f2",
+      "id": "f9759f152919775c30833282e8a939c22e759bf6d6753c5879842304077e61ef",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "StudMed",
+          "ar_raw": "1997-2023",
+          "kallrad": 4046,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8434aad868693d7d29aa365882ba2f17b440a6e39ece712d95871c63e5ebe0e3",
+        "path": "data/variable-documentation/8434aad868693d7d29aa365882ba2f17b440a6e39ece712d95871c63e5ebe0e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "StudMed",
+      "variable": "Studiemedel/studiehjälp, lån och bidrag",
       "register_version": "1998",
       "source_task_id": "1ccba37c3d39deda2db764dae88bb6759a5a1b61f758aaa2ff950b143c4fa7f2",
       "id": "8591010d6f80d4450c2afa144b2baff1fa31c7462d71b2b31f8d597c19ab98f3",
@@ -126394,6 +129526,35 @@
         "path": "data/variable-documentation/eda4d891bae4bf004694f724a8c50a1fef3684f794e91c88129e926ac434cfaa.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "Studerande",
+      "variable": "Förekomst av studier, hösttermin",
+      "register_version": "1997",
+      "source_task_id": "0b5c2bfdcab66e9ec7551402522c0c1231be0ecbcbebad3922e042459836ef2a",
+      "id": "d56b3107e02e31d43082bde30500b6da4bf24c2388b7f8a699483f6a5a4240e0",
+      "domain_id": "646e1c10cc220ff900f37a1cf5ddfe2ebeff7e94b8ab9b809e44229d8b95f854",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "Studerande",
+          "ar_raw": "1997-2023",
+          "kallrad": 4047,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a1f9de8f119c41606fb7f1c04d176377c6f49926e7df39cccf366cd0b6ca6488",
+        "path": "data/variable-documentation/a1f9de8f119c41606fb7f1c04d176377c6f49926e7df39cccf366cd0b6ca6488.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -136811,6 +139972,64 @@
       "variant": "STATIV",
       "column": "UtlSvBakgMakPartSam",
       "variable": "Utländsk/svensk bakgrund maka/partner/sambo",
+      "register_version": "1997",
+      "source_task_id": "21f8de23a124a5d0cfc8974cf9646b0cee26f66a3ae5d8cd7a7df303a50391f1",
+      "id": "84dd2b6f2c1a669386c18766d383df3a41df9c151c68ee1cff85e25c1adcc96c",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "UtlSvBakgMakPartSam",
+          "ar_raw": "1997-2024",
+          "kallrad": 4077,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f5ec608f37b64d7518e2bc1d02890206906c410db775c03c68d58183afb379aa",
+        "path": "data/variable-documentation/f5ec608f37b64d7518e2bc1d02890206906c410db775c03c68d58183afb379aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "UtlSvBakgMakPartSam",
+      "variable": "Utländsk/svensk bakgrund maka/partner/sambo",
+      "register_version": "1998",
+      "source_task_id": "21f8de23a124a5d0cfc8974cf9646b0cee26f66a3ae5d8cd7a7df303a50391f1",
+      "id": "9d4129257f80c0750ae7fdf1fddabb34f063b53c17ed9e8bdecfbc75430c0d26",
+      "domain_id": "f18646254b12456db3c765ff451a7fef7c4737feeb922c807c50f4a9cf0098a8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "UtlSvBakgMakPartSam",
+          "ar_raw": "1997-2024",
+          "kallrad": 4077,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d90db1a6c788543d686e457173664239dbfa96a901325715880fcb27e5746ca1",
+        "path": "data/variable-documentation/d90db1a6c788543d686e457173664239dbfa96a901325715880fcb27e5746ca1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "UtlSvBakgMakPartSam",
+      "variable": "Utländsk/svensk bakgrund maka/partner/sambo",
       "register_version": "1999",
       "source_task_id": "21f8de23a124a5d0cfc8974cf9646b0cee26f66a3ae5d8cd7a7df303a50391f1",
       "id": "b4217b342b7aeb02cc1b04e0b1a86cf7dab5506b3bd6a192f032c2267cb4024d",
@@ -137965,6 +141184,64 @@
         "path": "data/variable-documentation/55fc93618d4fa559c06e3559a24af368f6081ed45e7956bdd56e1797a7d2566e.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:58:55+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "VistTid",
+      "variable": "Vistelsetid",
+      "register_version": "1997",
+      "source_task_id": "dcdf2e765d7468c9fad1c409ff6d6d0021afb3748e476311c276c5fbbe37cd50",
+      "id": "0afead09aa8da5b1b6dffb9ba4a0acbd71921aa9318f2097c678a50e0f370430",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "VistTid",
+          "ar_raw": "1997-2024",
+          "kallrad": 4080,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6656762be5b2b24f17261f5cba376daf6f4d42b57c3b66799110a6f25f13bde",
+        "path": "data/variable-documentation/b6656762be5b2b24f17261f5cba376daf6f4d42b57c3b66799110a6f25f13bde.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
+    },
+    {
+      "register": "Registret för integrationsstudier STATIV",
+      "variant": "STATIV",
+      "column": "VistTid",
+      "variable": "Vistelsetid",
+      "register_version": "1998",
+      "source_task_id": "dcdf2e765d7468c9fad1c409ff6d6d0021afb3748e476311c276c5fbbe37cd50",
+      "id": "4b2fd278704b37eeb6caa7562343adbe654969a4a370a72da572d227ed0aeaa9",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T18:42:45+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "stativ",
+          "variabel": "VistTid",
+          "ar_raw": "1997-2024",
+          "kallrad": 4080,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dab5275a1f9aa82154a3be547e878af40119ace07190666f9ca5c9a2f436c70c",
+        "path": "data/variable-documentation/dab5275a1f9aa82154a3be547e878af40119ace07190666f9ca5c9a2f436c70c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T18:42:45+00:00"
     },
     {
       "register": "Registret för integrationsstudier STATIV",
@@ -139773,6 +143050,14 @@
       "path": "data/value-domain-values/22f3c719c150bb88b27426f9ce23a556c1c5ce0da7f2ae6e47621b14c4846049.json"
     },
     {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "varchar(4)",
+      "id": "248114510a31707dae2a3876676af7eac1f924ef953efc0b6293a0ef9320f03f",
+      "value_count": 290,
+      "path": "data/value-domain-values/248114510a31707dae2a3876676af7eac1f924ef953efc0b6293a0ef9320f03f.json"
+    },
+    {
       "version": "Sökandekategori",
       "level": "Sökandekategori, grupperad",
       "data_type": "varchar(2)",
@@ -140189,6 +143474,14 @@
       "path": "data/value-domain-values/5268a3f991058696600484c43aa6639fb4196fbc872789360fdff70948cef0f6.json"
     },
     {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "varchar(4)",
+      "id": "5481a1f31c4b3bbb365e175184eebc1e4a31024835179b7f008a3159222c4cdb",
+      "value_count": 289,
+      "path": "data/value-domain-values/5481a1f31c4b3bbb365e175184eebc1e4a31024835179b7f008a3159222c4cdb.json"
+    },
+    {
       "version": "Alternativ  ",
       "level": "Ja/nej-alternativ",
       "data_type": "varchar(50)",
@@ -140235,6 +143528,22 @@
       "id": "579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f",
       "value_count": 0,
       "path": "data/value-domain-values/579e052387e2b6583aa13d5f9d7bcfb912f805d645591e6412fe316b7b08742f.json"
+    },
+    {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "varchar(4)",
+      "id": "57af25c1738c63a188374c4b6d52952d1d0061f22d01fce64e57255d37c55698",
+      "value_count": 288,
+      "path": "data/value-domain-values/57af25c1738c63a188374c4b6d52952d1d0061f22d01fce64e57255d37c55698.json"
+    },
+    {
+      "version": "Familjetyp",
+      "level": "Familjetyp",
+      "data_type": "varchar(2)",
+      "id": "5987c87aa8b04a5eb70dedef95034e974892f442e50f632ad379ca7e7c96b4b2",
+      "value_count": 14,
+      "path": "data/value-domain-values/5987c87aa8b04a5eb70dedef95034e974892f442e50f632ad379ca7e7c96b4b2.json"
     },
     {
       "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
@@ -140725,6 +144034,14 @@
       "path": "data/value-domain-values/88ab9859679d4fe8e68389f6dd4bc4d349638e63c72756d6afa6d082516a81cb.json"
     },
     {
+      "version": "AMSYK, alternativ ",
+      "level": "AMSYK, alternativ omfattande fler nivåer",
+      "data_type": "varchar(6)",
+      "id": "895ee044ebcf00461ab3b3651e352f5269a61121c023462a7ae0707a1aa462b3",
+      "value_count": 1330,
+      "path": "data/value-domain-values/895ee044ebcf00461ab3b3651e352f5269a61121c023462a7ae0707a1aa462b3.json"
+    },
+    {
       "version": "Standard för svensk yrkesklassificering 2012",
       "level": "Yrkesgrupp",
       "data_type": "varchar(3)",
@@ -140811,6 +144128,14 @@
       "id": "91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e",
       "value_count": 0,
       "path": "data/value-domain-values/91f6fe1880520c94699c5337eb6b8f96ec84d5dc6719cc478674144f26fe473e.json"
+    },
+    {
+      "version": "Familjeställning ",
+      "level": "Familjeställning",
+      "data_type": "varchar(3)",
+      "id": "923355f1dc0c384dd6ea5591f555ede6cab0338c32fc9b60344df418830495d8",
+      "value_count": 29,
+      "path": "data/value-domain-values/923355f1dc0c384dd6ea5591f555ede6cab0338c32fc9b60344df418830495d8.json"
     },
     {
       "version": "Studievägskod, gymnasieskolan 2021",
@@ -140947,6 +144272,14 @@
       "id": "a80f16a6b4b04b9398c0732c21936f7c0f7874daa16ef3ae5fbca9b690147303",
       "value_count": 255,
       "path": "data/value-domain-values/a80f16a6b4b04b9398c0732c21936f7c0f7874daa16ef3ae5fbca9b690147303.json"
+    },
+    {
+      "version": "Civilstånd före 1998 ",
+      "level": "Civilstånd före 1998",
+      "data_type": "varchar(1)",
+      "id": "a90f1963c224d16c329b482188b690d6322f9f1fc5726d1cabbe7aff2532b499",
+      "value_count": 9,
+      "path": "data/value-domain-values/a90f1963c224d16c329b482188b690d6322f9f1fc5726d1cabbe7aff2532b499.json"
     },
     {
       "version": "Grund för bosättning    ",
@@ -141824,14 +145157,14 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 25,
+    "passes": 26,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "293983f74364210bfaf0414790bdf224691464018d102d870c664f1d35cbf342",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T18:28:44+00:00",
+    "retrieved_at": "2026-11-21T18:42:45+00:00",
     "task_count": 337,
     "expected_bindings": 4913,
-    "documented_bindings": 4800,
+    "documented_bindings": 4913,
     "errors": [
       "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
       "AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",

@@ -1,0 +1,64 @@
+{
+  "version": "Familjetyp",
+  "level": "Familjetyp",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "00",
+      "label": "Personer med ofullständiga och/eller motstridiga uppgifter i folkbokföringen"
+    },
+    {
+      "code": "11",
+      "label": "Make/maka-familj utan hemmaboende barn"
+    },
+    {
+      "code": "12",
+      "label": "Make/maka-familj med minst ett hemmaboende barn under 18 år"
+    },
+    {
+      "code": "13",
+      "label": "Make/maka-familj med yngsta hemmaboende son/dotter 18+ år"
+    },
+    {
+      "code": "21",
+      "label": "Sambo-familj utan hemmaboende barn"
+    },
+    {
+      "code": "22",
+      "label": "Sambo-familj med minst ett hemmaboende barn under 18 år"
+    },
+    {
+      "code": "23",
+      "label": "Sambo-familj med yngsta hemmaboende son/dotter 18+ år"
+    },
+    {
+      "code": "31",
+      "label": "Ensamstående far med minst ett hemmaboende barn under 18 år"
+    },
+    {
+      "code": "32",
+      "label": "Ensamstående far med yngsta hemmaboende son/dotter 18+ år"
+    },
+    {
+      "code": "41",
+      "label": "Ensamstående mor med minst ett hemmaboende barn under 18 år"
+    },
+    {
+      "code": "42",
+      "label": "Ensamstående mor med yngsta hemmaboende son/dotter 18+ år"
+    },
+    {
+      "code": "50",
+      "label": "Ensamstående (övriga)"
+    },
+    {
+      "code": "60",
+      "label": "Barn 15 år och yngre som felaktigt folkbokförts som ensamstående"
+    },
+    {
+      "code": "99",
+      "label": "Uppgift saknas"
+    }
+  ],
+  "id": "5987c87aa8b04a5eb70dedef95034e974892f442e50f632ad379ca7e7c96b4b2"
+}
