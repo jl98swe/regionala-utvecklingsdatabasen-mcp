@@ -4505,6 +4505,156 @@
       "variant": "Arbetsställeenheter",
       "column": "Ng",
       "variable": "Näringsgren",
+      "register_version": "2003",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "6c82baabe518fb3ba707b9d548ab1a040045c2668fb435f5f31cd2e272a364ad",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a789e670435a51ea88eb2a8fbda11d268fc2d0338f01f97c874060c13e45381",
+        "path": "data/variable-documentation/8a789e670435a51ea88eb2a8fbda11d268fc2d0338f01f97c874060c13e45381.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2004",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "a629d5c9d926329c87e9bdb10b63cc0c27c2d6ad32841df4f1416669d3b0be07",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "86a4adfe5718efff3a920e6f0e17dddbf2f380223322093db6df79393b78778a",
+        "path": "data/variable-documentation/86a4adfe5718efff3a920e6f0e17dddbf2f380223322093db6df79393b78778a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2005",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "3495137ce46a474d7ea2fc320f6d750f51411c5b2980817ed491a53af8f923d7",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f5d9168eeaf3c9d18177a6b259a5d2104d316de67c9eec95dbbfbb8d6713bec",
+        "path": "data/variable-documentation/0f5d9168eeaf3c9d18177a6b259a5d2104d316de67c9eec95dbbfbb8d6713bec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2006",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "0dcc023b0c7c01065350b2e7df91e4055e4bf072d8db35e798d8e5fb80357d04",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3bf61fbe0d483c61d984d773323bd2a9722cc5584cc9da18e2242c91845e7bef",
+        "path": "data/variable-documentation/3bf61fbe0d483c61d984d773323bd2a9722cc5584cc9da18e2242c91845e7bef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2007",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "b09cc112b2adaa12793a5b87fa9ca097f09101c8855d688d88d5009f930a42fa",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e86b27d92f71cf9cbbf2797054be12659203a26770e2f4bd27e41ec04678140",
+        "path": "data/variable-documentation/6e86b27d92f71cf9cbbf2797054be12659203a26770e2f4bd27e41ec04678140.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
       "register_version": "2008",
       "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
       "id": "783880c9b6d960f3313d294b098eb4fa571efa7c41d088972ad6b4899e7d5590",
@@ -5114,6 +5264,156 @@
       "variant": "Arbetsställeenheter",
       "column": "Ng1",
       "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2003",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "9da2fc4c3f2cd29ce281b014cb12eb57c7c94153798aa0b0289c21464cd95f3f",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "60815af9140e300a881d2b1980aaf779d5c390a16c777d74e1f4bf46f3256c4e",
+        "path": "data/variable-documentation/60815af9140e300a881d2b1980aaf779d5c390a16c777d74e1f4bf46f3256c4e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2004",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "4bde1ae6ee97f8fc1cc78e386862b14d70caaaf49166b1b1c0af08f382abdd48",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "da6e802ee70bbf5fef9549331ade45869b85d6197cef66d93b796fc5b2f3ba02",
+        "path": "data/variable-documentation/da6e802ee70bbf5fef9549331ade45869b85d6197cef66d93b796fc5b2f3ba02.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2005",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "362f4babbcec348159c8dfe2bc8f8cbf12eb5d4734e2550e4c219f57e54b4e71",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b05ff677dbd38e93e8a1e4a757e7e1631b7dd2f4a1ed4fa956285c599d92bc8",
+        "path": "data/variable-documentation/5b05ff677dbd38e93e8a1e4a757e7e1631b7dd2f4a1ed4fa956285c599d92bc8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2006",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "bf1cddba478db3c00b425e5461f7a02ffc94074d1be124f853aeef16254ba7ea",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d075e63da5121e36b46256d750a11997edd764247882427124014e25ddf3ff0e",
+        "path": "data/variable-documentation/d075e63da5121e36b46256d750a11997edd764247882427124014e25ddf3ff0e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2007",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "a4358d8c1e17925154ad01f28713729d09a703210200fe1013888aad3a35280d",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a521afeb5048fc28ed9471c6c6c54328ce29ba90a9f122a9731824385c9598e8",
+        "path": "data/variable-documentation/a521afeb5048fc28ed9471c6c6c54328ce29ba90a9f122a9731824385c9598e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
       "register_version": "2008",
       "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
       "id": "738ec5aeb0a8fa9a6ad9b80f2212ca81868b127ef7655ecd1db274fc88b4f439",
@@ -5717,6 +6017,156 @@
         "path": "data/variable-documentation/3531a3de573c516c580a50e704f49550eeac312e63c556ef187e96aa122ed0aa.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2003",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "5ce581d168bf1baa94ca58c607722506676e92209547dc7e29cb8ab7e8b0bbd9",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7dd19f51b8a8dcc28ff473e3a3d3e436e0f10f25e3da591d6f8ae518a6f88579",
+        "path": "data/variable-documentation/7dd19f51b8a8dcc28ff473e3a3d3e436e0f10f25e3da591d6f8ae518a6f88579.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2004",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "b9c0697a664071b3e585e8807ef1b45887d725f564f83a76c0aaa5a2b997343a",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c705092e314e76c220b2d922c5a48ab89f48ffe5f4d80ff4cff9157d03467233",
+        "path": "data/variable-documentation/c705092e314e76c220b2d922c5a48ab89f48ffe5f4d80ff4cff9157d03467233.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2005",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "afa7ab97a5c9373eff0b66b6457d8adb8ff6be67cbb5d7f81270d73ca629bc75",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d3004b29cf92ff1bf1cb6bf5c273f0e09c0a5d6c1f087d82c89d827aa87434ce",
+        "path": "data/variable-documentation/d3004b29cf92ff1bf1cb6bf5c273f0e09c0a5d6c1f087d82c89d827aa87434ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2006",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "4629932a9444113185f4420a73a71c9d18aedf7c14cdab9415379fe74ac1b22c",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15c374e58addfa65ab921a97a955b29e0bb116c1dff399bc405210fe66ba28a5",
+        "path": "data/variable-documentation/15c374e58addfa65ab921a97a955b29e0bb116c1dff399bc405210fe66ba28a5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2007",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "c289f1e2fd3ed289badc95eb50a58372f804ccfed32b35c738fe8e349c466fbc",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:14:04+00:00",
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7592fa2157644cfa9f2cd50e6d0268a437bf5cd98dc3b9bb88a36d586bcbebd0",
+        "path": "data/variable-documentation/7592fa2157644cfa9f2cd50e6d0268a437bf5cd98dc3b9bb88a36d586bcbebd0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:14:04+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -10248,15 +10698,15 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 3,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 4,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "7f7c89cff68bff77f41ed3d236ee3f47387df2ab2252c142b5b4679ca7deeb82",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T10:23:51+00:00",
+    "retrieved_at": "2026-11-21T12:14:04+00:00",
     "task_count": 16,
     "expected_bindings": 333,
-    "documented_bindings": 318,
+    "documented_bindings": 333,
     "errors": [
       "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
@@ -10273,6 +10723,7 @@
       "Ng1 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ng 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "NgS 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
-    ]
+    ],
+    "stalled_passes": 0
   }
 }
