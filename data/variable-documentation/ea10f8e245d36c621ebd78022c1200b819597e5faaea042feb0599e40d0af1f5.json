@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Studerande YH"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om personen är studerande inom aktuell utbildningsform"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Anger om personen är aktivt studerande på utbildningsomgångar som pågått minst en dag under en avsedd period (startade, avslutade samt under hela perioden pågående omgångar). Som aktiva studerande räknas endast studerande som funnits med på minst en förteckning över studerande under avsedd period.\r\nFrån och med referensår 2018 rekommenderas att variabeln FaktisktStuderande används istället"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Myndigheten för Yrkeshögskolan"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Ett totalregister över alla studerande och examinerade från Yrkeshögskolan under perioden 2005-2025."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Studerande inom yrkeshögskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla personer som varit antagna och påbörjat studier vid en utbildningsomgång som startat, pågått eller avslutats under året."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2005-01-01 - 2025-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om studerande och examinerade samlas in under vår och höst. Uppgifter om examinerade för senaste referensåret finns tillgängliga efter höstens insamling. De insamlade uppgifterna kompletteras med uppgifter från Registret över totalbefolkningen (RTB) och Registret över befolkningens utbildning (UREG). "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Studerande och examinerade"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Studerande och examinerade"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registrets syfte är att ligga till grund för statistik över  antal studerande och examinerade i yrkeshögskoleutbildning. Statistiken ska användas för att visa utvecklingen över tid och skillnader mellan redovisningsgrupper såsom kön, utbildningsinriktningar och län. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Yrkeshögskolan"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Yrkeshögskolan"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Yrkeshögskoleutbildning (YH) och dess föregångare kvalificerad yrkesutbildning (KY) är en eftergymnasial utbildningsform som kombinerar teoretiska studier och en stark arbetslivsanknytning.\r\n\r\nRegistrets syfte är att beskriva eftergymnasiala yrkesutbildningar med avseende på sökande, studerande och examinerade."
+    },
+    {
+      "name": "Tidsseriebrott - Register",
+      "value": "Den 31 december 2013 upphörde yrkeshögskolans föregångare kvalificerad yrkesutbildning (KY) som utbildningsform."
+    }
+  ],
+  "id": "ea10f8e245d36c621ebd78022c1200b819597e5faaea042feb0599e40d0af1f5"
+}

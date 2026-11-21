@@ -4,18 +4,1174 @@
   "group_id": "32074cbb551b02aadec3",
   "register": "Yrkeshögskolan",
   "variant": "Studerande och examinerade",
-  "bindings": [],
-  "domains": [],
+  "bindings": [
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AntagenSomBedriverStudier_Slutar",
+      "variable": "Antagen som bedrivit studier på omgång som slutat under året",
+      "register_version": "2005-2025",
+      "source_task_id": "723974a51a726762e0ba8d0f48dc40dc9019e7fdce73762015c1daab18f9a857",
+      "id": "1ffd09bbfc47c1899f48c7a7cfee31f795ac6a608da8bbf39c66d08c07437c13",
+      "domain_id": "61cf09a36311a28a912dc4728859ab891cb96424c0344a317f911dac504159df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AntagenSomBedriverStudier_slutar",
+          "ar_raw": "2005-2024",
+          "kallrad": 4103,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "78af2f944673d8828dbbe25ccf8b9f91c5a18145cd42ff4b4174e0676ea7209d",
+        "path": "data/variable-documentation/78af2f944673d8828dbbe25ccf8b9f91c5a18145cd42ff4b4174e0676ea7209d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AntagenSomBedriverStudier_Startar",
+      "variable": "Antagen som påbörjat studier på omgång som startat under året",
+      "register_version": "2005-2025",
+      "source_task_id": "cf151c0fd17b9663843dd216af6967f9f3d6967e64a9147e218653c022e5d5b2",
+      "id": "16ab4c31dc550838ace2e4b655cb23e6dd87138075ba29b941f216356d5c2050",
+      "domain_id": "61cf09a36311a28a912dc4728859ab891cb96424c0344a317f911dac504159df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AntagenSomBedriverStudier_startar",
+          "ar_raw": "2005-2024",
+          "kallrad": 4104,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c2e2398aa1701a4527fbdb8edf4672c535c9068c3a1bfbb2c22d126000728496",
+        "path": "data/variable-documentation/c2e2398aa1701a4527fbdb8edf4672c535c9068c3a1bfbb2c22d126000728496.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AvslutUnderAret",
+      "variable": "Utbildningsomgången har avslutats under året",
+      "register_version": "2005-2025",
+      "source_task_id": "af8a544ec5156054b0b0eaeecb2a4b26166f3c9294f40a96eb35445dccf810db",
+      "id": "bc624dab26996ae068e345a9fbd1167392737e4ae62921da34cb3b43d6be54dc",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AvslutUnderAret",
+          "ar_raw": "2005-2024",
+          "kallrad": 4105,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d2a599d312c730852ff97a25ca8fd5d542fb77f1e5cf2c9db00af12c0732735",
+        "path": "data/variable-documentation/8d2a599d312c730852ff97a25ca8fd5d542fb77f1e5cf2c9db00af12c0732735.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AvslutsArManad_Utb",
+      "variable": "Avslutsår månad",
+      "register_version": "2005-2025",
+      "source_task_id": "1ad5f9eed56b8936659a427e442299e31761d1f904858021caeef4536abdd25e",
+      "id": "2d213d1044e11d6fdb87ec5d2c777c547cd25b3995795d9a704f498a9316d0a1",
+      "domain_id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AvslutsArManad_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4106,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bab219b962a04c70d1dd028267b9e5ca7be5b75f6b78bca12c3c082904c4fc16",
+        "path": "data/variable-documentation/bab219b962a04c70d1dd028267b9e5ca7be5b75f6b78bca12c3c082904c4fc16.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AvslutsAr_Utb",
+      "variable": "Avslutsår",
+      "register_version": "2005-2025",
+      "source_task_id": "16bf4d21cc34adcd477699e817b9a82f545b0085b57fd18c3768cd55a8d62e3d",
+      "id": "641b97d5827562d7934c97ee5abbaf2dc966f89e14ec23e041943e3900e3e733",
+      "domain_id": "15b4af9385f094a29c9e5c48a5cd93e5350c1e56478935490dd6f3f3b44aab72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AvslutsAr_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4107,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1b8a7d92a7a6faaf75a85a8f75002b6770eaed98dd087409a397ecaa67fc1153",
+        "path": "data/variable-documentation/1b8a7d92a7a6faaf75a85a8f75002b6770eaed98dd087409a397ecaa67fc1153.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "AvslutsManad_Utb",
+      "variable": "Avslutsmånad",
+      "register_version": "2005-2025",
+      "source_task_id": "9470fdc2404a1c304866fe0752164f1b766fbdd7775dec61c78d54e00bf979bc",
+      "id": "bba35ae7e10e1ccdc2db73668619c199d34542a1f711802367950b6d45f3edb9",
+      "domain_id": "17d8b4cec1677dd43cdcb33459fb803b57b33700c1fad2e51d56177e2d045534",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "AvslutsManad_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4108,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f89ace7870719e76028c77c28c9f40dbfd426db17f3ee12872958a0799c517bc",
+        "path": "data/variable-documentation/f89ace7870719e76028c77c28c9f40dbfd426db17f3ee12872958a0799c517bc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "BeslutsAr",
+      "variable": "Beslutsår",
+      "register_version": "2005-2025",
+      "source_task_id": "466c17f9521c65e8856adeb19476f7fff12435e4cd4e97d56b76bb3b25246478",
+      "id": "f66439f308dc4bef5606f7d6eee3327ec25a0f899d321b12ead2b761731c0a98",
+      "domain_id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "Beslutsar",
+          "ar_raw": "2005-2024",
+          "kallrad": 4109,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "52b45e46eae7b9f33436b30598a878d6b78d0dd8236fa3da0554278171b50809",
+        "path": "data/variable-documentation/52b45e46eae7b9f33436b30598a878d6b78d0dd8236fa3da0554278171b50809.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Examen",
+      "variable": "Examinerad från yrkeshögskolan",
+      "register_version": "2005-2025",
+      "source_task_id": "3eaf54807ab55cf78cf322f5f1f9ad7093274beeecd72cf8b2051d5974904ad4",
+      "id": "4fa9e734af57427d791eda7ee83e87074a9d99c763da3335d0a821c3a2062851",
+      "domain_id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "Examen",
+          "ar_raw": "2007-2024",
+          "kallrad": 4110,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4780db2e6e22421fd98b7b97097975dee226ac9d934d9ad72fcb6cc65cfb2247",
+        "path": "data/variable-documentation/4780db2e6e22421fd98b7b97097975dee226ac9d934d9ad72fcb6cc65cfb2247.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "ExamenTyp_Utb",
+      "variable": "Examenstyp YH",
+      "register_version": "2005-2025",
+      "source_task_id": "916e89b0300a1104bb1b89af7963a027137dc5d488f17bf512d96ee4a6e70987",
+      "id": "74f7fb1484b53c2f9462ab049a9423ef66814cf22fbfae523cefd195db47ce6d",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "ExamenTyp_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4111,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aa2462896fb9995e7def222c354a152b0e803fbb5290957c643451d62e58c627",
+        "path": "data/variable-documentation/aa2462896fb9995e7def222c354a152b0e803fbb5290957c643451d62e58c627.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Examensdatum",
+      "variable": "Examensdatum",
+      "register_version": "2005-2025",
+      "source_task_id": "5a726b602b9ea85139963f4860c34521a2f71116b0c2105ab8f0c61dcd7c04e6",
+      "id": "022a4ecc41d1a01778bcbc1d31785535b60f5f982e6d2632a75d406f882595f9",
+      "domain_id": "d1b1899fe20c0c82ba531a630f91ca5e8c78de72786750fd289cbdc1553d1c23",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "Examensdatum",
+          "ar_raw": "2018-2024",
+          "kallrad": 4112,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cbfb2d39cbf37bca662ab0b82fd28a62d68ffe9cb9869cc42c550bac93f00618",
+        "path": "data/variable-documentation/cbfb2d39cbf37bca662ab0b82fd28a62d68ffe9cb9869cc42c550bac93f00618.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "FaktisktStuderande",
+      "variable": "FaktisktStuderande",
+      "register_version": "2005-2025",
+      "source_task_id": "aa045a70ac39a2b3728caf704577712aa3070ebe2c6f2c63e1bcbb63ef6d8f4e",
+      "id": "72da31d7c09c604a1a22a8d9bd37b21c8499677452c1fc0b1b43f29a00df2999",
+      "domain_id": "1d2c8ea34dffb98b9c9d12d541a109b674cad5c5f21fb0b87bdca2334c5c2e4b",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "FaktisktStuderande",
+          "ar_raw": "2018-2024",
+          "kallrad": 4113,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0e3557ad124020138c883db1da37e1defad5b295c5aa50486d7391da6d5efae",
+        "path": "data/variable-documentation/e0e3557ad124020138c883db1da37e1defad5b295c5aa50486d7391da6d5efae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "FaktisktStuderande_ht",
+      "variable": "FaktisktStuderande, höstterminen",
+      "register_version": "2005-2025",
+      "source_task_id": "d6517f42f3937e3686928fd9fa75bc2bad9fe9ac6222dfe4804506c68b96fc6e",
+      "id": "28fafa9ea8cdb0cdd7aee11b7cee3e26c869e6aab41e2fe81ec43a2abf8496ea",
+      "domain_id": "1d2c8ea34dffb98b9c9d12d541a109b674cad5c5f21fb0b87bdca2334c5c2e4b",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "FaktisktStuderande_ht",
+          "ar_raw": "2018-2024",
+          "kallrad": 4114,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "37cc1d514a5053d0cdbe4884a228bc93cc6999c85fb6d639e9c2f6f036c9a732",
+        "path": "data/variable-documentation/37cc1d514a5053d0cdbe4884a228bc93cc6999c85fb6d639e9c2f6f036c9a732.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "FaktisktStuderande_vt",
+      "variable": "FaktisktStuderande, vårterminen",
+      "register_version": "2005-2025",
+      "source_task_id": "8f0e38c4497c299f4fe3fa0097323c3ed361549e2d6b431dbc02a8e3c413fd2b",
+      "id": "a0370f7a76849e3331cec1d3eaa0ee1b15f61787b30f51601dac3764f1d3f5ac",
+      "domain_id": "1d2c8ea34dffb98b9c9d12d541a109b674cad5c5f21fb0b87bdca2334c5c2e4b",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "FaktisktStuderande_vt",
+          "ar_raw": "2018-2024",
+          "kallrad": 4115,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3a94e7499218212ec83834b5a2fdf8a553e1d24607be090a04651e751dcc3eb7",
+        "path": "data/variable-documentation/3a94e7499218212ec83834b5a2fdf8a553e1d24607be090a04651e751dcc3eb7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "OmgangsNr",
+      "variable": "Utbildningsomgångsnummer",
+      "register_version": "2005-2025",
+      "source_task_id": "2ae7716cc8013e02bc58f5244285b892176069a6db4981730d1d79a23021e600",
+      "id": "55532ebf017a70b0eb46c14e05a77ab8d8caf41bb5d4c5df10e79b94549fb60e",
+      "domain_id": "c449c5e7dddb3987aacc1894533c0a4ae99ba7f9b368e76f92b27c5496bf9997",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "OmgangsNr",
+          "ar_raw": "2005-2024",
+          "kallrad": 4116,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7dcfe17a5ac8c7dae45c8a71b6537a289532bf52d258d8e25f8392aa189306de",
+        "path": "data/variable-documentation/7dcfe17a5ac8c7dae45c8a71b6537a289532bf52d258d8e25f8392aa189306de.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "SUN3Niva_Utb_beraknad",
+      "variable": "Utbildningsnivå YH",
+      "register_version": "2005-2025",
+      "source_task_id": "c2f4639c7ac965c726aecec0d8bb33901916f5f6b4aa313b4eccd94dd397d88e",
+      "id": "a710da4a603f4e62e47d01600fc0e42303361ed95b9cc6aa7ad1b179b45bc8f5",
+      "domain_id": "9b67aeb806d08aee9a3338dcad921aa8ef3b55a38329745c75e021fd83d94a46",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "SUN3Niva_Utb_beraknad",
+          "ar_raw": "2005-2024",
+          "kallrad": 4118,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "31c2b9cd9aa278867f0366316f8a2440e2127608e8f1339d85a34a1e71269a4a",
+        "path": "data/variable-documentation/31c2b9cd9aa278867f0366316f8a2440e2127608e8f1339d85a34a1e71269a4a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "SUN3Nivaklartext_Utb_beraknad",
+      "variable": "Utbildningsnivå YH",
+      "register_version": "2005-2025",
+      "source_task_id": "fc069ccaed9f9865312b97f72bc123813ffb2bee4cf3af7f3d09ba2725d0ee75",
+      "id": "3d6d88bf8878e62988e724edd3c12e8b59899b581e42d7cb6d870dde75dcd4f1",
+      "domain_id": "1d9bf4ec8d2f11ed2bdc5c9cb19f02fe0ace80735547672dc1f98ac078529e25",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "SUN3Nivaklartext_Utb_beraknad",
+          "ar_raw": "2005-2024",
+          "kallrad": 4119,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1ade041f84f0deb2a8f66fa23479e73db2fb64c3b59eb58dba2ad6ffe4bd821",
+        "path": "data/variable-documentation/b1ade041f84f0deb2a8f66fa23479e73db2fb64c3b59eb58dba2ad6ffe4bd821.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "SUN5InrKlartext_Utb",
+      "variable": "Utbildningsinriktning MYH",
+      "register_version": "2005-2025",
+      "source_task_id": "22c57b834597dd64c7fab936e54da7bd73ba65e68f5335e78169aeeddbff69c4",
+      "id": "646d41926972f154bade225b15077ab21ace97f57c2c67ed7eb243f31e438f9d",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "SUN5InrKlartext_Utb",
+          "ar_raw": "2012-2024",
+          "kallrad": 4120,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bce08af499cdcc5a6d2e2a320538b9a91e6259aec750e62e1110ec6fe6267e0b",
+        "path": "data/variable-documentation/bce08af499cdcc5a6d2e2a320538b9a91e6259aec750e62e1110ec6fe6267e0b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StartArManad_Utb",
+      "variable": "Startår månad",
+      "register_version": "2005-2025",
+      "source_task_id": "dd529e6da2173b790da51b3dd3c1731240a7f808e093e6451a8eb5ffcf26430b",
+      "id": "bb7a12449a559ff26f13967c6c1f151694e01aff0dd85f521023753073833f26",
+      "domain_id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StartArManad_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4122,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aaa4a68aa44b1529c1b4d6d155556d1a0d3b94db1629f9ee27978c8822363838",
+        "path": "data/variable-documentation/aaa4a68aa44b1529c1b4d6d155556d1a0d3b94db1629f9ee27978c8822363838.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StartAr_Utb",
+      "variable": "Startår",
+      "register_version": "2005-2025",
+      "source_task_id": "8f7680cedbd1695dba39e6b411fb146d3766990ef6b56a0384cebc5c11120fcb",
+      "id": "7fb8da782b6755152a7d594f3cd1c876a9cfde52751f2b6461c028e33f23b260",
+      "domain_id": "15b4af9385f094a29c9e5c48a5cd93e5350c1e56478935490dd6f3f3b44aab72",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StartAr_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4123,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cbe70d203e0c5b7f2f82784192b4caa7821ad25e1afddf08644431f41985a3b9",
+        "path": "data/variable-documentation/cbe70d203e0c5b7f2f82784192b4caa7821ad25e1afddf08644431f41985a3b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StartManad_Utb",
+      "variable": "Startmånad YH",
+      "register_version": "2005-2025",
+      "source_task_id": "4fb20620550a4f72b036b1a7bf2a55ca935e91c70d656234f6b82de78621d3a5",
+      "id": "380670d6e133892aac4041d9a2fb8d4a3b821e4d1e8910bd00da510af42410a0",
+      "domain_id": "17d8b4cec1677dd43cdcb33459fb803b57b33700c1fad2e51d56177e2d045534",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StartManad_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4124,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eaa1db9d36c8aef375d111f797edb8c3a275661fa5f3476976ab8cbd6f831e25",
+        "path": "data/variable-documentation/eaa1db9d36c8aef375d111f797edb8c3a275661fa5f3476976ab8cbd6f831e25.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Studerande",
+      "variable": "Studerande YH",
+      "register_version": "2005-2025",
+      "source_task_id": "d0be659e1005446fbbfa4d1d3d9afd136fb3e5f31b8a41a86fde4c06b1439170",
+      "id": "3930f10c92ceb81b9ccb39ba2b85fe0cb214a1a86e686255506c85bba2faaeef",
+      "domain_id": "61cf09a36311a28a912dc4728859ab891cb96424c0344a317f911dac504159df",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "Studerande",
+          "ar_raw": "2005-2024",
+          "kallrad": 4125,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ea10f8e245d36c621ebd78022c1200b819597e5faaea042feb0599e40d0af1f5",
+        "path": "data/variable-documentation/ea10f8e245d36c621ebd78022c1200b819597e5faaea042feb0599e40d0af1f5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StudieForm_Utb",
+      "variable": "Studieform",
+      "register_version": "2005-2025",
+      "source_task_id": "1437838b059c2268317d6967d78e23a4751dba6d701b4c5071542b8ce6ef6a80",
+      "id": "fde345b343cc1e5151c1bf1f837ea7b7e39fb9dd44b7783a757c1e16c8fad006",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieForm_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4126,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3fac496e7b1d179d7058ff5d5ebd8fde14326165bea78422cc4a337142262177",
+        "path": "data/variable-documentation/3fac496e7b1d179d7058ff5d5ebd8fde14326165bea78422cc4a337142262177.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StudieKommun_Utb",
+      "variable": "Studiekommun",
+      "register_version": "2005-2025",
+      "source_task_id": "c64e3801bbd900def9a5d9100901bb846bdab256588f58990dabf20f379fd174",
+      "id": "2956cbc4f375fca7c6aaa49e7d612946ad0ac44a51aa0af8e06861011633c908",
+      "domain_id": "ceff2a81f5e1dc797be9762666fc25f60c4d422dcd8dde0029311eda0c047f91",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieKommun_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4127,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5d4e94d0d4695040d3025e914eaeef4eab8b9f35d0f4cc2fa73a660092120e1d",
+        "path": "data/variable-documentation/5d4e94d0d4695040d3025e914eaeef4eab8b9f35d0f4cc2fa73a660092120e1d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "StudieTakt_Utb",
+      "variable": "Studietakt",
+      "register_version": "2005-2025",
+      "source_task_id": "5beae09990d17cd5f838a70d2ca4fc1abb1134049eda5f3f3822111ba6265024",
+      "id": "7e21c6308f8e83ccee2c0a2a6020c46f295d646d6969e5af1f2173d1410a7cf1",
+      "domain_id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieTakt_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "20634ca0d50e0636cf78ada96928ac8f18ae1e2cf97132368d797f6f55dc5703",
+        "path": "data/variable-documentation/20634ca0d50e0636cf78ada96928ac8f18ae1e2cf97132368d797f6f55dc5703.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Studiekommun_senaste",
+      "variable": "Studiekommun, senaste",
+      "register_version": "2005-2025",
+      "source_task_id": "7e2f03b46166533102037315046a5016466f4aae796a3aeec849c557e9d9ceea",
+      "id": "47ec42ae83e00b1329b0310bfd38e75130229fdb063fc46494849117f8f6d90f",
+      "domain_id": "dcecf9461fbd06839749348d91ba00c1a6b1e27ed1e9bd13f09236064c4e6842",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieKommun_senaste",
+          "ar_raw": "2020-2024",
+          "kallrad": 4128,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4c57565b3148bb38b776881c50a93c8faefe5af62c2dd8d92ccf3499bd7c3ada",
+        "path": "data/variable-documentation/4c57565b3148bb38b776881c50a93c8faefe5af62c2dd8d92ccf3499bd7c3ada.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Studiekommun_senaste_kod",
+      "variable": "Studiekommun, senaste",
+      "register_version": "2005-2025",
+      "source_task_id": "eb97aa847c1d351ee24269e3f93fb2fd43be817f97b5020b40fc6175ac2c1d3f",
+      "id": "6c4f0b69e5d599519ebbd2c5a3b64a337124af76d0bb49a1f1a156da361e12c0",
+      "domain_id": "0ac0139a680101277e22d5f0e292852a3afc250fbc8228a948cf759c33866ff7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieKommun_senaste_kod",
+          "ar_raw": "2020-2024",
+          "kallrad": 4129,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "465c5853868b474e0739450b9bf841869d97af7eaf87710e2f37042a19fa016f",
+        "path": "data/variable-documentation/465c5853868b474e0739450b9bf841869d97af7eaf87710e2f37042a19fa016f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Studiekommun_start",
+      "variable": "Studiekommun, start",
+      "register_version": "2005-2025",
+      "source_task_id": "54882f69f6585cf74736cc1a3b3276e0b2f25ce64f4097e2348905437c5aaffb",
+      "id": "f742ce355f8d45f3832524fc80d101cebe5426f6d2e6682ce6ffca52829cc5b7",
+      "domain_id": "dcecf9461fbd06839749348d91ba00c1a6b1e27ed1e9bd13f09236064c4e6842",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieKommun_start",
+          "ar_raw": "2020-2024",
+          "kallrad": 4130,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f3250fc78ea1b8d7d7a77a3448069df3ede57d5ea139c9f36ab72e840cf8413",
+        "path": "data/variable-documentation/7f3250fc78ea1b8d7d7a77a3448069df3ede57d5ea139c9f36ab72e840cf8413.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "Studiekommun_start_kod",
+      "variable": "Studiekommun, start",
+      "register_version": "2005-2025",
+      "source_task_id": "bbff0b21cea5e50261b35968c069a4a8468129f3629f61a5c019889c2d1440b4",
+      "id": "ad5e0458634209f0aca5fd2e4aaf2ae63403a284b0448d7afc79261b57dee300",
+      "domain_id": "fc6190e0f840b7fe497d0c361a78ca2b269d816a26f827777be38f4cd2ebec09",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "StudieKommun_start_kod",
+          "ar_raw": "2020-2024",
+          "kallrad": 4131,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8365b024e726c01484c585a785391b6341a7cfd6e5c8ae4a27c34eb4321d55ec",
+        "path": "data/variable-documentation/8365b024e726c01484c585a785391b6341a7cfd6e5c8ae4a27c34eb4321d55ec.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "TerminStuderande_ht",
+      "variable": "Studerande, höstterminen",
+      "register_version": "2005-2025",
+      "source_task_id": "a01c13c8cec36b19a50081dee1293e5e5f20ffaf2c1acb32ee3c965035196386",
+      "id": "bcd77f3b787d7311b1666b3ee88bf90319d72414effd4b2e3d730634723af804",
+      "domain_id": "be07a821111abdb7b506d3bcba4e708d2e78872ed9a8be66d2f08f94bddecae8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "TerminStuderande_ht",
+          "ar_raw": "2005-2017",
+          "kallrad": 4133,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "be434759b1c76ba3284458afeb5cbde8bc70f0e10d135d76d0438f2080515704",
+        "path": "data/variable-documentation/be434759b1c76ba3284458afeb5cbde8bc70f0e10d135d76d0438f2080515704.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "TerminStuderande_vt",
+      "variable": "Studerande, vårterminen",
+      "register_version": "2005-2025",
+      "source_task_id": "dfb583cb1d584a8bddf695565e92b3f898ac55eb0429e9fc0b8b2184a8f5ecbf",
+      "id": "137771de213a53ce1981d4993cf20402bb761d816bb70b2ea9efa64a35eee644",
+      "domain_id": "be07a821111abdb7b506d3bcba4e708d2e78872ed9a8be66d2f08f94bddecae8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "TerminStuderande_vt",
+          "ar_raw": "2005-2017",
+          "kallrad": 4134,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "59a62edbb0213326400b3814c52483d589dbcfd32ee1898f7b4ad54a64cf37b4",
+        "path": "data/variable-documentation/59a62edbb0213326400b3814c52483d589dbcfd32ee1898f7b4ad54a64cf37b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "UtbildningsLangdGrp_Utb",
+      "variable": "Utbildningslängd",
+      "register_version": "2005-2025",
+      "source_task_id": "395889fdd997332afb91ff5c001ea69ef393de64615743289ab6d60096a67837",
+      "id": "de89856ced21bd992bd4c594947274516e219a2be505089e27102498a3018540",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "UtbildningsLangdGrp_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4135,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f2ea65395b20fd430ed301a57599c5ab7954de02827f8516644bf57b6c05d390",
+        "path": "data/variable-documentation/f2ea65395b20fd430ed301a57599c5ab7954de02827f8516644bf57b6c05d390.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "UtbildningsLangdPoangYH_Utb",
+      "variable": "Utbildningspoäng YH",
+      "register_version": "2005-2025",
+      "source_task_id": "9b004368abadb2cf4dc8da41513346546efb23dc2352c8fa335574535d882bc0",
+      "id": "d3babec6a4a38070b1494f4155a9a366029e70b4ec47398488b549aebe20745c",
+      "domain_id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "UtbildningsLangdPoangYH_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4136,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7a3a9b1e45c623183e5a0baf0d518f275f5a60d13215337e30ff92de0566c926",
+        "path": "data/variable-documentation/7a3a9b1e45c623183e5a0baf0d518f275f5a60d13215337e30ff92de0566c926.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "UtbildningsNamn_Utb",
+      "variable": "Utbildningsnamn",
+      "register_version": "2005-2025",
+      "source_task_id": "5d7f3b69dd55064dfdba625240fb6ff15921a3b7dfc08b49b92643f7a0630379",
+      "id": "627ca77d8cca25be0ed0cde1c52ba5f986034c5ce1084f6d9634783087e72b5d",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "UtbildningsNamn_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4137,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0828f081f9d2c88a674694bcffd28e26c19d50881b5dedba9517cfa102a66d49",
+        "path": "data/variable-documentation/0828f081f9d2c88a674694bcffd28e26c19d50881b5dedba9517cfa102a66d49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "UtbildningsNr",
+      "variable": "Utbildningsnummer",
+      "register_version": "2005-2025",
+      "source_task_id": "956738ccd84ca9eb230d23c2dc0c7801e79be19082b1e9a9cf420587c8833b6d",
+      "id": "1f42eb26f355cb87859279fac3f5fa6b685d75f1e667efd89b6c70ecb05b5a27",
+      "domain_id": "c449c5e7dddb3987aacc1894533c0a4ae99ba7f9b368e76f92b27c5496bf9997",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "UtbildningsNr",
+          "ar_raw": "2005-2024",
+          "kallrad": 4138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8cab2ecb892ca951e28459800b9dc6b72c14c346c03a2f0482218a5efe898460",
+        "path": "data/variable-documentation/8cab2ecb892ca951e28459800b9dc6b72c14c346c03a2f0482218a5efe898460.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    },
+    {
+      "register": "Yrkeshögskolan",
+      "variant": "Studerande och examinerade",
+      "column": "UtbildningsOmrade_Utb",
+      "variable": "Utbildningsområde inom yrkeshögskolan",
+      "register_version": "2005-2025",
+      "source_task_id": "f097eeb0c91d6a131d040080d30c2a4d0e1082207a1bcd3d04bb43970d732ff0",
+      "id": "00bec25aeb6ae67d0d742b33d4357e46fe3ba6de45f47dba0ea0d5a6c6b6f956",
+      "domain_id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:34:22+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "yh_stud",
+          "variabel": "UtbildningsOmrade_Utb",
+          "ar_raw": "2005-2024",
+          "kallrad": 4139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "254553c9a43ba8d6a0f36fadf6a787bade51b0a512ffe6a79d6e7499c293113f",
+        "path": "data/variable-documentation/254553c9a43ba8d6a0f36fadf6a787bade51b0a512ffe6a79d6e7499c293113f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:34:22+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Kommun historisk",
+      "level": "Kommun historisk",
+      "data_type": "varchar(4)",
+      "id": "0ac0139a680101277e22d5f0e292852a3afc250fbc8228a948cf759c33866ff7",
+      "value_count": 1199,
+      "path": "data/value-domain-values/0ac0139a680101277e22d5f0e292852a3afc250fbc8228a948cf759c33866ff7.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "nvarchar(255)",
+      "id": "1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63",
+      "value_count": 0,
+      "path": "data/value-domain-values/1287f77eac09f782421e0039602566e888375c830d1a654a67dd9033cd13da63.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "nvarchar(4)",
+      "id": "15b4af9385f094a29c9e5c48a5cd93e5350c1e56478935490dd6f3f3b44aab72",
+      "value_count": 0,
+      "path": "data/value-domain-values/15b4af9385f094a29c9e5c48a5cd93e5350c1e56478935490dd6f3f3b44aab72.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "nvarchar(2)",
+      "id": "17d8b4cec1677dd43cdcb33459fb803b57b33700c1fad2e51d56177e2d045534",
+      "value_count": 0,
+      "path": "data/value-domain-values/17d8b4cec1677dd43cdcb33459fb803b57b33700c1fad2e51d56177e2d045534.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(1)",
+      "id": "1d2c8ea34dffb98b9c9d12d541a109b674cad5c5f21fb0b87bdca2334c5c2e4b",
+      "value_count": 0,
+      "path": "data/value-domain-values/1d2c8ea34dffb98b9c9d12d541a109b674cad5c5f21fb0b87bdca2334c5c2e4b.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(34)",
+      "id": "1d9bf4ec8d2f11ed2bdc5c9cb19f02fe0ace80735547672dc1f98ac078529e25",
+      "value_count": 0,
+      "path": "data/value-domain-values/1d9bf4ec8d2f11ed2bdc5c9cb19f02fe0ace80735547672dc1f98ac078529e25.json"
+    },
+    {
+      "version": "Alternativ  ",
+      "level": "Ja/nej-alternativ",
+      "data_type": "char(1)",
+      "id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "value_count": 2,
+      "path": "data/value-domain-values/21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c.json"
+    },
+    {
+      "version": "Alternativ",
+      "level": "Alternativ",
+      "data_type": "char(1)",
+      "id": "61cf09a36311a28a912dc4728859ab891cb96424c0344a317f911dac504159df",
+      "value_count": 2,
+      "path": "data/value-domain-values/61cf09a36311a28a912dc4728859ab891cb96424c0344a317f911dac504159df.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(30)",
+      "id": "68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f",
+      "value_count": 0,
+      "path": "data/value-domain-values/68fffeb74d82e4264e26d85cd2475dfa12ab8844ba674b4d528a8233503c850f.json"
+    },
+    {
+      "version": "SUN 2020 - Utbildningsnivå",
+      "level": "Utbildningsnivå, 3 positioner",
+      "data_type": "varchar(3)",
+      "id": "9b67aeb806d08aee9a3338dcad921aa8ef3b55a38329745c75e021fd83d94a46",
+      "value_count": 50,
+      "path": "data/value-domain-values/9b67aeb806d08aee9a3338dcad921aa8ef3b55a38329745c75e021fd83d94a46.json"
+    },
+    {
+      "version": "Alternativ  ",
+      "level": "Ja/nej-alternativ",
+      "data_type": "varchar(1)",
+      "id": "be07a821111abdb7b506d3bcba4e708d2e78872ed9a8be66d2f08f94bddecae8",
+      "value_count": 2,
+      "path": "data/value-domain-values/be07a821111abdb7b506d3bcba4e708d2e78872ed9a8be66d2f08f94bddecae8.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(9)",
+      "id": "c449c5e7dddb3987aacc1894533c0a4ae99ba7f9b368e76f92b27c5496bf9997",
+      "value_count": 0,
+      "path": "data/value-domain-values/c449c5e7dddb3987aacc1894533c0a4ae99ba7f9b368e76f92b27c5496bf9997.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "nvarchar(255)",
+      "id": "c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735",
+      "value_count": 0,
+      "path": "data/value-domain-values/c8ea3ab291db941c73bda92009340f6d02f152b3ce8dcbfb4cb9b6b737425735.json"
+    },
+    {
+      "version": "Kommun historisk",
+      "level": "Kommun historisk",
+      "data_type": "nvarchar(255)",
+      "id": "ceff2a81f5e1dc797be9762666fc25f60c4d422dcd8dde0029311eda0c047f91",
+      "value_count": 1199,
+      "path": "data/value-domain-values/ceff2a81f5e1dc797be9762666fc25f60c4d422dcd8dde0029311eda0c047f91.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "varchar(10)",
+      "id": "d1b1899fe20c0c82ba531a630f91ca5e8c78de72786750fd289cbdc1553d1c23",
+      "value_count": 0,
+      "path": "data/value-domain-values/d1b1899fe20c0c82ba531a630f91ca5e8c78de72786750fd289cbdc1553d1c23.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(40)",
+      "id": "dcecf9461fbd06839749348d91ba00c1a6b1e27ed1e9bd13f09236064c4e6842",
+      "value_count": 0,
+      "path": "data/value-domain-values/dcecf9461fbd06839749348d91ba00c1a6b1e27ed1e9bd13f09236064c4e6842.json"
+    },
+    {
+      "version": "Kommun historisk",
+      "level": "Kommun historisk",
+      "data_type": "varchar(4)",
+      "id": "fc6190e0f840b7fe497d0c361a78ca2b269d816a26f827777be38f4cd2ebec09",
+      "value_count": 1200,
+      "path": "data/value-domain-values/fc6190e0f840b7fe497d0c361a78ca2b269d816a26f827777be38f4cd2ebec09.json"
+    }
+  ],
   "coverage": {
-    "complete": true,
-    "collector_sha256": "cddd3dda815a6846eba295846edf595aeea4d54947ad86ae65b70d06e4700520",
-    "passes": 1,
+    "complete": false,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "89de84c809f4139d5c1cfbfef4bfb7a25ed5ec94f805c9184265e365ec04799b",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-20T23:04:17+00:00",
+    "retrieved_at": "2026-11-21T07:34:22+00:00",
     "task_count": 36,
-    "expected_bindings": 0,
-    "errors": []
+    "expected_bindings": 36,
+    "documented_bindings": 35,
+    "errors": [
+      "SUN5Inr_Utb 2005-2025: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Utbildningsinriktning MYH', 'Vardemangdsniva': 'Utbildningsinriktning MYH', 'Vardekod': '211xy', 'Vardebenamning': 'Övriga utbildningar inom bild- och formkonst', 'Kolumnnamn': None, 'Datatyp': None}"
+    ]
   }
 }
