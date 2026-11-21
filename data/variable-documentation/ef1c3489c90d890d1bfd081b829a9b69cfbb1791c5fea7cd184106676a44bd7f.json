@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(3)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Utbildningsnivå "
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Klassificering av nivån för en persons genomförda utbildning. Tillhörande klassifikation är Svensk utbildningsnomenklatur (SUN). SUN är en standard för klassificering av enskilda utbildningar samtidigt som den utgör ett system för aggregering av utbildningar till större grupper."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "Vårterminen året före referensåret"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Utbildningsregistret : Personens högsta utbildning"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Ett totalregister över alla kursdeltagare i utbildning i svenska för invandrare under höstterminen 2018."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Kursdeltagare i svenskundervisning för invandrare"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla personer som har läst svenskundervisning för invandrare uppdelat på varje kurs och nivå."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Alla kursdeltagare som deltagit i utbildning i svenska för invandrare under höstterminen. En kursdeltagare är en person på en unik kurs under terminen."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2018-07-01 - 2018-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Statistiken grundar sig på datamaterial hämtat från skolenheter som bedrivit utbildning i svenska för invandrare under höstterminen 2018.\r\n\r\nEtt introduktionsbrev, ställt \"Till rektor\", skickas ut till skolenheterna. Statistikinsamlingen sker sedan genom att uppgifterna registreras via SIV, som är SCB:s verktyg för elektronisk insamling. Registreringen av uppgifterna sker antingen på elektronisk blankett eller på datafil från administrativa register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Kursdeltagare och utbildningsresultat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Kursdeltagare och resultat"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Ett totalregister över alla personer som har läst svenska för invandrare och deras utbildningsresultat. Samtliga studievägar och kurser som en person gått redovisas. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\nSkolformen hette fram till 1 juli 2012 Svenskundervisning för invandrare, men bytte då namn till Utbildning i svenska för invandrare. "
+    }
+  ],
+  "id": "ef1c3489c90d890d1bfd081b829a9b69cfbb1791c5fea7cd184106676a44bd7f"
+}

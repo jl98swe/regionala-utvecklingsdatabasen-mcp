@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Betyg"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Betyg på kursen."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Betyg i den studievägskurs som anges i variablerna Studieväg samt Kurs."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skolenheten anger uppgiften i kolumn Betyg i frågeformuläret."
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Ett totalregister över alla kursdeltagare i utbildning i svenska för invandrare under höstterminen 2021."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Kursdeltagare i svenskundervisning för invandrare"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla personer som har läst svenskundervisning för invandrare uppdelat på varje kurs och nivå."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Alla kursdeltagare som deltagit i utbildning i svenska för invandrare under höstterminen. En kursdeltagare är en person på en unik kurs under terminen."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-07-01 - 2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Statistiken grundar sig på datamaterial hämtat från skolenheter som bedrivit utbildning i svenska för invandrare under höstterminen 2021.\r\n\r\nEtt introduktionsbrev, ställt \"Till rektor\", skickas ut till skolenheterna. Statistikinsamlingen sker sedan genom att uppgifterna registreras via SIV, som är SCB:s verktyg för elektronisk insamling. Registreringen av uppgifterna sker antingen på elektronisk blankett eller på datafil från administrativa register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Kursdeltagare och utbildningsresultat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Kursdeltagare och resultat"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Ett totalregister över alla personer som har läst svenska för invandrare och deras utbildningsresultat. Samtliga studievägar och kurser som en person gått redovisas. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\nSkolformen hette fram till 1 juli 2012 Svenskundervisning för invandrare, men bytte då namn till Utbildning i svenska för invandrare. "
+    }
+  ],
+  "id": "f76d4089d80ba15413c0e1d4308896d9fcc7c4a8b650b05f5147aadfc121393c"
+}
