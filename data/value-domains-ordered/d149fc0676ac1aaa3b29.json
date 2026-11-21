@@ -1284,6 +1284,36 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v040x",
+      "variable": "Produktkod för produkt 1",
+      "register_version": "2003",
+      "source_task_id": "ab683e5d58a5a4112b7450284003525ffe4b47047b749a1cd05abd7fdea85cbc",
+      "id": "49fc29b87d9870db73760245f7f18505cc8ce89d27cdbcd7feaa49d1a98bf8e9",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V040X",
+          "ar_raw": "2003",
+          "kallrad": 978,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bfd71775710a7972a101865dd6134474f323f560d5f1c599be8a6ad192df090a",
+        "path": "data/variable-documentation/bfd71775710a7972a101865dd6134474f323f560d5f1c599be8a6ad192df090a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v041",
       "variable": "Antal kvinnor med gymnasial utbildning",
       "register_version": "2003",
@@ -1367,6 +1397,36 @@
         "path": "data/variable-documentation/23251565794b5843206f75638b02e72bb2a23650f094d77e949ebb5a2f6bc099.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v041x",
+      "variable": "Produktkod för produkt 2",
+      "register_version": "2003",
+      "source_task_id": "6a32b276102692cff6203084b47a6729e17dd9f4fd96fbda64426d084f75d361",
+      "id": "8cc70f9a959e7351a05aaf234ac1340b4a9b240e09f881e55164be75b9a14759",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V041X",
+          "ar_raw": "2003",
+          "kallrad": 983,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95f807d4abbebba9c61d45906b449404b1cd0002fe5b35512f1bf195e1810be9",
+        "path": "data/variable-documentation/95f807d4abbebba9c61d45906b449404b1cd0002fe5b35512f1bf195e1810be9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -1458,6 +1518,36 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v042x",
+      "variable": "Produktkod för produkt 3",
+      "register_version": "2003",
+      "source_task_id": "b995f78acb749f0bb540a5c873d4397bba8370105537406082989543bde0937b",
+      "id": "d5720e9eafad25419182ec1ea9f5cdc388759fdb6515b23467273ecb0524c3b8",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V042X",
+          "ar_raw": "2003",
+          "kallrad": 987,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7057d12077540176124379f056c21e060c1a229b07a09a49fdc19556e36b2f73",
+        "path": "data/variable-documentation/7057d12077540176124379f056c21e060c1a229b07a09a49fdc19556e36b2f73.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v043",
       "variable": "antal årsverken utförda av kvinnor med gymnasial utbildning",
       "register_version": "2003",
@@ -1541,6 +1631,36 @@
         "path": "data/variable-documentation/8a23eb75da8fe897fdeead4bbaba30e8d52f32e5c50471c75edd97f86c30fe1b.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v043x",
+      "variable": "Produktkod för produkt 4",
+      "register_version": "2003",
+      "source_task_id": "f8da87506038928c335c3925806136ccf7b8938e765f53dc24720d798352355a",
+      "id": "859f4b2825d6891d3401936e02a598fda23657476c99e721a78ada6b39895148",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V043X",
+          "ar_raw": "2003",
+          "kallrad": 992,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "04f9994f4b67c18773d4724f305f9b0fbce197982f90c2d634b88e801033a7f1",
+        "path": "data/variable-documentation/04f9994f4b67c18773d4724f305f9b0fbce197982f90c2d634b88e801033a7f1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -1632,6 +1752,36 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v044x",
+      "variable": "Produktkod för produkt 5",
+      "register_version": "2003",
+      "source_task_id": "747945b1e53385e2c6bf970660b321ce5c545aee9e68264b180a307e80f60dc2",
+      "id": "f2d2ce0e0f53232d4607692eac15bd2ce48fcbf936c53baf669b7b30d3884a8e",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V044X",
+          "ar_raw": "2003",
+          "kallrad": 996,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b68f6e5f31514922e4e54d863e059251308ca6c5978234f627657263df6a507",
+        "path": "data/variable-documentation/6b68f6e5f31514922e4e54d863e059251308ca6c5978234f627657263df6a507.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v045",
       "variable": "antal årsverken för FoU av gymnasial utb.",
       "register_version": "2003",
@@ -1715,6 +1865,36 @@
         "path": "data/variable-documentation/856767f3f7763a77edfca2c66a3a7f427c310a40d72135adc89f86606d061098.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:54:19+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v045x",
+      "variable": "Produktkod för produkt 6",
+      "register_version": "2003",
+      "source_task_id": "e0ec2ff8bbd13af376362a1ceabdd591d5300ad65541982cc0f1688c0fd596ba",
+      "id": "5030d6d6f1dfcc4eb2032dfc31b4a54b1bb231a01b2332b37a6595dea7b03a50",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V045X",
+          "ar_raw": "2003",
+          "kallrad": 1001,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "94022fcfe9912d960dcbc98fa0d3f1036770257287663fd2f4f421abee340f31",
+        "path": "data/variable-documentation/94022fcfe9912d960dcbc98fa0d3f1036770257287663fd2f4f421abee340f31.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -1806,6 +1986,36 @@
     {
       "register": "Forskning och utveckling i Sverige",
       "variant": "Företag",
+      "column": "v046x",
+      "variable": "Produktkod för produkt 7",
+      "register_version": "2003",
+      "source_task_id": "8d5221ebe18d9641ab86570fc0e936695068ebfaa0843c2cbd14fc947269279a",
+      "id": "b908308f4653f8656dcfcd46d856771d850b5dd403de6b733c4bdf7b5575a444",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V046X",
+          "ar_raw": "2003",
+          "kallrad": 1005,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3cce870977fd7375e7d58b2383f3d90441ba9a53fe6891c893e138e626398ef3",
+        "path": "data/variable-documentation/3cce870977fd7375e7d58b2383f3d90441ba9a53fe6891c893e138e626398ef3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
       "column": "v047",
       "variable": "antal årsverken för utveckling av gymnasial utb.",
       "register_version": "2003",
@@ -1889,6 +2099,36 @@
         "path": "data/variable-documentation/160f297f62a266c43a253c9f8f0d5442bd99044e17c3af7e5d3de77ff51479d1.json"
       },
       "documentation_retrieved_at": "2026-11-21T10:01:56+00:00"
+    },
+    {
+      "register": "Forskning och utveckling i Sverige",
+      "variant": "Företag",
+      "column": "v047x",
+      "variable": "Produktkod för produkt 8",
+      "register_version": "2003",
+      "source_task_id": "8cc4d0abb4bade5ee01105193a0949264635189d2a5f577dfc41de65504a58ff",
+      "id": "71382ca1e548e8d6f8f9f4df1c052a15ff2ebb370c9c8bc6508c37612113b839",
+      "domain_id": null,
+      "status": "documentation_only",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:49:32+00:00",
+      "orders": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "V047X",
+          "ar_raw": "2003",
+          "kallrad": 1009,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e074d5a612ec8f9dfffca80b11ea9de4ddc81e8b76a5cc0641e8f07b24cb8dc9",
+        "path": "data/variable-documentation/e074d5a612ec8f9dfffca80b11ea9de4ddc81e8b76a5cc0641e8f07b24cb8dc9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:49:32+00:00",
+      "domain_error": "Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "domain_error_collector": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27"
     },
     {
       "register": "Forskning och utveckling i Sverige",
@@ -6383,15 +6623,15 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "1cd40a74955c1066a61a32318880cd8661f620b0914e3b416accff280a60941d",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T10:01:56+00:00",
+    "retrieved_at": "2026-11-21T11:49:32+00:00",
     "task_count": 227,
     "expected_bindings": 225,
-    "documented_bindings": 217,
+    "documented_bindings": 225,
     "errors": [
       "AnstS: inga verifierade beställningsperioder i källversionerna ['2003']..['2003']",
       "Ar: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Ar\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Forskning och utveckling i Sverige\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Företag\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Referensår\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2005\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2005\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
@@ -6408,6 +6648,7 @@
       "v045x 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "v046x 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "v047x 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
-    ]
+    ],
+    "stalled_passes": 0
   }
 }
