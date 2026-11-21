@@ -97,6 +97,35 @@
       "variant": "Individer, 16 år och äldre",
       "column": "AStuDag",
       "variable": "Antal dagar i \"åtgärdsstudier\"",
+      "register_version": "1997",
+      "source_task_id": "c9cc057d373a84247f487149c4fb97a46d077e72e2a2110bc51bd8ba1faf55d7",
+      "id": "adf38bcef0f9b8ac8ff2ac0f8137977b64c379e5abdfee9cecff235b4aa888eb",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AStuDag",
+          "ar_raw": "1997-2023",
+          "kallrad": 3475,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3b744eebed076f213941a73a77b7b4c457931a4dd6d73fde9392fc8cfdb75adf",
+        "path": "data/variable-documentation/3b744eebed076f213941a73a77b7b4c457931a4dd6d73fde9392fc8cfdb75adf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AStuDag",
+      "variable": "Antal dagar i \"åtgärdsstudier\"",
       "register_version": "1998",
       "source_task_id": "c9cc057d373a84247f487149c4fb97a46d077e72e2a2110bc51bd8ba1faf55d7",
       "id": "18dc4fb1b52c90d9e42006062e7209ebfb94e1d36f609ee7834dbf2e230bea65",
@@ -439,6 +468,35 @@
         "path": "data/variable-documentation/829073be9cdcc7cf8a4613607da8c552c03805dba0e3bd928a038dfa1147573d.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ASysDag",
+      "variable": "Antal dagar i \"åtgärdssysselsättning\"",
+      "register_version": "1997",
+      "source_task_id": "91d9b5205c289d1d290f5926edb29f48f335e58198d088692d81f61dad5ac1f9",
+      "id": "8fa615467020649552f9211e1cd53137441a439d8e80515e9a3551d518dc16cf",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ASysDag",
+          "ar_raw": "1997-2023",
+          "kallrad": 3476,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "32fb8cb9bcadae7cb36d600ea0c770e9047d4f3d77473a3c0e14c5cd164d3d2f",
+        "path": "data/variable-documentation/32fb8cb9bcadae7cb36d600ea0c770e9047d4f3d77473a3c0e14c5cd164d3d2f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -793,6 +851,35 @@
       "variant": "Individer, 16 år och äldre",
       "column": "ASysTyp",
       "variable": "Antal dagar i \"åtgärdssysselsättning\", förekomst av",
+      "register_version": "1997",
+      "source_task_id": "b75596133632a56feeae61cb2b6d9505ab931590b0c158d7d0c144ba8c1cb15c",
+      "id": "a4daeb4c2ff8e6e726a1ca32e014dbe1d94c0555b846de36354adc7709ff103b",
+      "domain_id": "de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ASysTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 3477,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cee1816f0a31efb4854250f34a32df9300a4c4c24446609ee1eda963dfa85bef",
+        "path": "data/variable-documentation/cee1816f0a31efb4854250f34a32df9300a4c4c24446609ee1eda963dfa85bef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ASysTyp",
+      "variable": "Antal dagar i \"åtgärdssysselsättning\", förekomst av",
       "register_version": "1998",
       "source_task_id": "b75596133632a56feeae61cb2b6d9505ab931590b0c158d7d0c144ba8c1cb15c",
       "id": "812321cb1806f4f095f8a0cf0dc4eff5138c9e59c7a2f4adcdce135c3cfd811b",
@@ -1135,6 +1222,35 @@
         "path": "data/variable-documentation/b55de13978d9a37c1e825ddd81bab8747a27c81407f7886eebd95680b4abc62e.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AldPens",
+      "variable": "Summa inkomst föranledd av åldersrelaterade pensioner",
+      "register_version": "1997",
+      "source_task_id": "9a36561d67ec8ac8799a4c414e4fd8139b574661c981c1c823920c5ff8dc2c27",
+      "id": "ac3932dfeb5629b831982065f5ec05f5646cea2c2a1d1e7a078515957862c78c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AldPens",
+          "ar_raw": "1997-2023",
+          "kallrad": 3479,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25581c06c1b36669a8f39c2eb540ec738ad3c3e22915e416cc0df85f21bf08bb",
+        "path": "data/variable-documentation/25581c06c1b36669a8f39c2eb540ec738ad3c3e22915e416cc0df85f21bf08bb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -1489,6 +1605,35 @@
       "variant": "Individer, 16 år och äldre",
       "column": "AntAns",
       "variable": "Antal förvärvskällor",
+      "register_version": "1997",
+      "source_task_id": "56412f2f631829c244ba1558aebb3d58c9717d7efd20e0841c61ff62edbeabfd",
+      "id": "7f8c351547d6037957f25a1d7fa57b438327ed33fe2e5de0c37b2d766979795d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AntAns",
+          "ar_raw": "1997-2021",
+          "kallrad": 3481,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac73eb7f2cba6f0ea954aedade994b4ec2aacea0e2eea079ac44b0ba69cbc5bd",
+        "path": "data/variable-documentation/ac73eb7f2cba6f0ea954aedade994b4ec2aacea0e2eea079ac44b0ba69cbc5bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AntAns",
+      "variable": "Antal förvärvskällor",
       "register_version": "1998",
       "source_task_id": "56412f2f631829c244ba1558aebb3d58c9717d7efd20e0841c61ff62edbeabfd",
       "id": "a8faf15bff1298c259cdc836f1966dbe72e2ace47899f8d57156e1a20e57c977",
@@ -1837,6 +1982,35 @@
       "variant": "Individer, 16 år och äldre",
       "column": "AstKommun",
       "variable": "Kommun för arbetsställe",
+      "register_version": "1997",
+      "source_task_id": "23db4a6be4b7266aaf98ba46c72479e27efd45d82415e4ac6fbc1d7cbab30ed5",
+      "id": "bff8441c5cc51963640c53123eb9c11c61ea36fe876ff7be219f003e96d392ce",
+      "domain_id": "e63b1b01fb8d8a5657398eba8fd619422f4e51ee07b799602fafd9edf6a0a379",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "AstKommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3483,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b07f92f6ec2e3c918d10fd1761d56418842382832396d3817cbf188cf8c991c9",
+        "path": "data/variable-documentation/b07f92f6ec2e3c918d10fd1761d56418842382832396d3817cbf188cf8c991c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "AstKommun",
+      "variable": "Kommun för arbetsställe",
       "register_version": "1998",
       "source_task_id": "23db4a6be4b7266aaf98ba46c72479e27efd45d82415e4ac6fbc1d7cbab30ed5",
       "id": "5a5114d8e4af3d5d3760dfd0e0eb8d76320c3667c46dafae6de492ca957545e9",
@@ -2179,6 +2353,35 @@
         "path": "data/variable-documentation/01279ea1087e1203e12fef6eb43f3e2d286542de1fab0c869004871e16524569.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "DekLon",
+      "variable": "Löneinkomst",
+      "register_version": "1997",
+      "source_task_id": "033f6b1a61681b5ad16667f8d765604c6240696f25f6b7e85d3d35bd6ad2c145",
+      "id": "c364a00f5068d6911c960e2ae725fcc6a6935f1e2edaeee75e0b7793fab6a6f7",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "DekLon",
+          "ar_raw": "1997-2023",
+          "kallrad": 3487,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "73f5787a1f52244aeeb5f732cbf5ddf8f766416c697568a944695ebdce514dc1",
+        "path": "data/variable-documentation/73f5787a1f52244aeeb5f732cbf5ddf8f766416c697568a944695ebdce514dc1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -3838,6 +4041,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "ExamAr",
       "variable": "Examensår",
+      "register_version": "1997",
+      "source_task_id": "d0b4be95d4425e860ee4e3a976e7fc8652f7dda529805fe3ec0b47d9ac862906",
+      "id": "c140715ae969b0c731e41e3e0db3a37c0e340b72f67992579075f7e379cd97f9",
+      "domain_id": "981e44c0dde393587dea7fdc51a301a3ee52f0dd9158969601579b04f3e35ce1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ExamAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3503,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9494d7717091aa4e6259b0f25929af2b336e72fa0918a27970d168f045beb3bd",
+        "path": "data/variable-documentation/9494d7717091aa4e6259b0f25929af2b336e72fa0918a27970d168f045beb3bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ExamAr",
+      "variable": "Examensår",
+      "register_version": "1998",
+      "source_task_id": "d0b4be95d4425e860ee4e3a976e7fc8652f7dda529805fe3ec0b47d9ac862906",
+      "id": "ffecab9692c3e89c3bf91d821f77a201e854d05a0d08dcced8c1d9b263d9994d",
+      "domain_id": "981e44c0dde393587dea7fdc51a301a3ee52f0dd9158969601579b04f3e35ce1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ExamAr",
+          "ar_raw": "1997-2024",
+          "kallrad": 3503,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3d76e58b72bf336f8bd3e23722171779141c4d583e18cde7998f13d98d32d4a",
+        "path": "data/variable-documentation/e3d76e58b72bf336f8bd3e23722171779141c4d583e18cde7998f13d98d32d4a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ExamAr",
+      "variable": "Examensår",
       "register_version": "1999",
       "source_task_id": "d0b4be95d4425e860ee4e3a976e7fc8652f7dda529805fe3ec0b47d9ac862906",
       "id": "1b78698c9161d66546d1ac1e2e0e4de4ea6a1c67c438db8fa1ca44687947c34c",
@@ -4151,6 +4412,64 @@
         "path": "data/variable-documentation/804f1f2ddbbf903a1590ab2c3c99361b582d059d53a70e83cfe706176300360c.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "FamTypF",
+      "variable": "Familjetyp",
+      "register_version": "1997",
+      "source_task_id": "5cd9d48f8393b3de1609cbfa419af394efbe4ab7b7ce1374eb7c09a1985cacb4",
+      "id": "92ff248e846c2b5395de16d506fe47d5cd6df265cb6f2f4277207e24574ad78b",
+      "domain_id": "a7453198ace037acd33c347412aff15b92edcafb4e04f667846eaf44cbba94f8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "FamTypF",
+          "ar_raw": "1997-2024",
+          "kallrad": 3505,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "51a6f8f5528a8ee1279b3189115ed86f4948bb5beafac1c89186d404925d9611",
+        "path": "data/variable-documentation/51a6f8f5528a8ee1279b3189115ed86f4948bb5beafac1c89186d404925d9611.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "FamTypF",
+      "variable": "Familjetyp",
+      "register_version": "1998",
+      "source_task_id": "5cd9d48f8393b3de1609cbfa419af394efbe4ab7b7ce1374eb7c09a1985cacb4",
+      "id": "129bf411ee09c135f8cebc05a1b62b83f75c27f9a5f15d176d45cbbb71cc6ebe",
+      "domain_id": "a7453198ace037acd33c347412aff15b92edcafb4e04f667846eaf44cbba94f8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "FamTypF",
+          "ar_raw": "1997-2024",
+          "kallrad": 3505,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "686ad3cec196bc8a06f0169e204b4803150585a13a5f4b915ee1619981b3e9fd",
+        "path": "data/variable-documentation/686ad3cec196bc8a06f0169e204b4803150585a13a5f4b915ee1619981b3e9fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -4476,6 +4795,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "FoDelt",
       "variable": "Registrerad på högskola, forskarutbildning",
+      "register_version": "1997",
+      "source_task_id": "4ca2d399ca301bf60b37baa7f819455314e8bf5f8c46225b4840aca2b8ace638",
+      "id": "aedc1ea2ae573560faff28527a2921e43d1b18cac367ca68b80da38c2c890c30",
+      "domain_id": "3ab36b47b3425b83196e44cabd91995713c66c9bf6c1d2c36a80d871ac7462c2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "FoDelt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3506,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67e3a57ab702485421854fa31fc5fe37d9d54e5a43b99cbaf78ba7e0aec9cc2b",
+        "path": "data/variable-documentation/67e3a57ab702485421854fa31fc5fe37d9d54e5a43b99cbaf78ba7e0aec9cc2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "FoDelt",
+      "variable": "Registrerad på högskola, forskarutbildning",
+      "register_version": "1998",
+      "source_task_id": "4ca2d399ca301bf60b37baa7f819455314e8bf5f8c46225b4840aca2b8ace638",
+      "id": "171e76243d5df0ade9a1353ada73bd79d598e231011e8e4d35fa459b0b171709",
+      "domain_id": "3ab36b47b3425b83196e44cabd91995713c66c9bf6c1d2c36a80d871ac7462c2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "FoDelt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3506,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "389eb95a9b2abec9fa053abb1e440b5782bad4ee01b07029158c0a9959482a15",
+        "path": "data/variable-documentation/389eb95a9b2abec9fa053abb1e440b5782bad4ee01b07029158c0a9959482a15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "FoDelt",
+      "variable": "Registrerad på högskola, forskarutbildning",
       "register_version": "1999",
       "source_task_id": "4ca2d399ca301bf60b37baa7f819455314e8bf5f8c46225b4840aca2b8ace638",
       "id": "52090243848e26b4053828b6cbb518e94cce0940a7bafe4ce4ca2152d248c964",
@@ -4789,6 +5166,64 @@
         "path": "data/variable-documentation/5dd82316852e4e4bdde53e582390870150c78f93b267c9d5bceb3c4585056a8d.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ForPeng_Ndag",
+      "variable": "Föräldrapenning, antal nettodagar",
+      "register_version": "1997",
+      "source_task_id": "d284f0dc2916884f8404d3d1da5ff91c013e8a5684c4c3cce96359f050fa903c",
+      "id": "b7014bdfc301b3d831138ae58651d7346f5f534eba0feaef1e0374421fd0bd89",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ForPeng_Ndag",
+          "ar_raw": "1997-2016",
+          "kallrad": 3507,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c795b4b44610d6d140a1c6160c693c66b42f0e9bc9526170210c02399bd4523f",
+        "path": "data/variable-documentation/c795b4b44610d6d140a1c6160c693c66b42f0e9bc9526170210c02399bd4523f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "ForPeng_Ndag",
+      "variable": "Föräldrapenning, antal nettodagar",
+      "register_version": "1998",
+      "source_task_id": "d284f0dc2916884f8404d3d1da5ff91c013e8a5684c4c3cce96359f050fa903c",
+      "id": "e0dd06f5395416946d75f4c3c62ae593b7a15512d51674bd05b2a479ba1c1ec2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "ForPeng_Ndag",
+          "ar_raw": "1997-2016",
+          "kallrad": 3507,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "adad39de71426d47d1ed590534b8abfbaa834cbe3990c9fd72ae71f0d6b51195",
+        "path": "data/variable-documentation/adad39de71426d47d1ed590534b8abfbaa834cbe3990c9fd72ae71f0d6b51195.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -5114,6 +5549,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "HSDelt",
       "variable": "Registrerad på högskola, grundutbildning",
+      "register_version": "1997",
+      "source_task_id": "6080e09032e07ca151b694b7ffd797ba7a14d3cab461d9014a961d3c1731b76d",
+      "id": "d1eba5bfbc10fd2cfafa16b4ff09ad6595e605418f4cda82b2c3fdd36b124c4c",
+      "domain_id": "3ab36b47b3425b83196e44cabd91995713c66c9bf6c1d2c36a80d871ac7462c2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "HSDelt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3509,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ddec0f047358e921fc6f186c2096eea8014b6efa625ed7c0ef960e28f543ade6",
+        "path": "data/variable-documentation/ddec0f047358e921fc6f186c2096eea8014b6efa625ed7c0ef960e28f543ade6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "HSDelt",
+      "variable": "Registrerad på högskola, grundutbildning",
+      "register_version": "1998",
+      "source_task_id": "6080e09032e07ca151b694b7ffd797ba7a14d3cab461d9014a961d3c1731b76d",
+      "id": "2a027ad82ca8cc16f494e7d2c4240c07f0cb1a6f1d3ede513df0776081cea989",
+      "domain_id": "3ab36b47b3425b83196e44cabd91995713c66c9bf6c1d2c36a80d871ac7462c2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "HSDelt",
+          "ar_raw": "1997-2024",
+          "kallrad": 3509,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "63d42e0c25231e972dfa2e6ed21ca5a2eb9a474e69da38e1c676f57419429793",
+        "path": "data/variable-documentation/63d42e0c25231e972dfa2e6ed21ca5a2eb9a474e69da38e1c676f57419429793.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "HSDelt",
+      "variable": "Registrerad på högskola, grundutbildning",
       "register_version": "1999",
       "source_task_id": "6080e09032e07ca151b694b7ffd797ba7a14d3cab461d9014a961d3c1731b76d",
       "id": "0aa1093054c0b0aab6d46861ec98803f038fe7a816804f294598390929928272",
@@ -5433,6 +5926,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU1AstKommun",
       "variable": "Arbetsställets kommun, största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "328c8fd69b621f85ba4a9b7f11a4175942eb8789f0e9fd4d4aba1fbf27652885",
+      "id": "a717eb8b2515685c9b8a3d0691e46949e4d17905e50402a4bd47cb2ccb0fa730",
+      "domain_id": "64a2011e682e263f3b19e7001a6ac12764c31473c1a7367de41af64e39d83825",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3522,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b93d45674ca2325b28fb0816c36ab4f71a70aee310cee575cd4dc608b3165aa",
+        "path": "data/variable-documentation/6b93d45674ca2325b28fb0816c36ab4f71a70aee310cee575cd4dc608b3165aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1AstKommun",
+      "variable": "Arbetsställets kommun, största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "328c8fd69b621f85ba4a9b7f11a4175942eb8789f0e9fd4d4aba1fbf27652885",
+      "id": "f92de4f8a49106b3dff3914763b430ae4a6903fc601fd02ad8682ac076a40f2e",
+      "domain_id": "121d816abf59c3e9e13fe96476979cc44a9d6b74aefd83a60c3069d3660ed039",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3522,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b73b7c50ce7eefd5389a00b6629478d6ca8198d374d0949493e5443248e4ceaa",
+        "path": "data/variable-documentation/b73b7c50ce7eefd5389a00b6629478d6ca8198d374d0949493e5443248e4ceaa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1AstKommun",
+      "variable": "Arbetsställets kommun, största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "328c8fd69b621f85ba4a9b7f11a4175942eb8789f0e9fd4d4aba1fbf27652885",
       "id": "30f7527fbfeae32c71ee4de1e39f8c0eaffb04e333f379322604b0d8b95ace55",
@@ -5746,6 +6297,64 @@
         "path": "data/variable-documentation/b893f92b300247fd31291840e05589512c1183b06571388e858ef471dda5ac4e.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1AstNr",
+      "variable": "Arbetsställenummer, största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "345ce9578774a305ad9de274bb48d06cb2d3444b4d427b4ab558aa138cc7f146",
+      "id": "9e1f117a16673623d53708366ed511143761bbe27695241e7e3f7aa3a1cb03a9",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3523,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ef8746d2e51f3c407f8a480b03ec074088cad62e202d87b40058224dc002a19f",
+        "path": "data/variable-documentation/ef8746d2e51f3c407f8a480b03ec074088cad62e202d87b40058224dc002a19f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1AstNr",
+      "variable": "Arbetsställenummer, största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "345ce9578774a305ad9de274bb48d06cb2d3444b4d427b4ab558aa138cc7f146",
+      "id": "cc2f11f7745d26e24c2f64312ef3dfcd61c6b4dd35e5c0812f1c39ffa1b0bba9",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3523,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3bc5637e1af781bfa933b529cd742c4458ced902f6706bb61ce006abc4097289",
+        "path": "data/variable-documentation/3bc5637e1af781bfa933b529cd742c4458ced902f6706bb61ce006abc4097289.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -6624,6 +7233,64 @@
         "path": "data/variable-documentation/55d5d2890fffdc0ff2c37b6b7b44ef947888240f5a56da67dbaaa888347f6315.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1Ink",
+      "variable": "Total bruttolön eller företagarinkomst, största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "5db9109dad54a2b6892092024083f4652e6b0dff4115567b87bce8d2b7a39219",
+      "id": "7bbc2c90913cfd8be06937f900f14fb4cb633dd673a5385bbfac96828bfe4548",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3528,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "39ef7272f8d54af4aeef199082aa4a17fa103291af509f85e0c7fe11d3f65bbe",
+        "path": "data/variable-documentation/39ef7272f8d54af4aeef199082aa4a17fa103291af509f85e0c7fe11d3f65bbe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1Ink",
+      "variable": "Total bruttolön eller företagarinkomst, största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "5db9109dad54a2b6892092024083f4652e6b0dff4115567b87bce8d2b7a39219",
+      "id": "535162b87f44c4fa1224d53113b7bd1e87f3d1bb82ca49053be17c03429f5581",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3528,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4d7a5041a30b5fd01846eb5eea4354d4830e76b132ca232665f4d2a2732083e9",
+        "path": "data/variable-documentation/4d7a5041a30b5fd01846eb5eea4354d4830e76b132ca232665f4d2a2732083e9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -8370,6 +9037,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU1YrkStalln",
       "variable": "Yrkesställning, största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "a6aae292aa9c3d5106cafac14dce626eaca5e85f3f8181dc57376539bc46c22d",
+      "id": "85b225a44ac7ccdc253c6730615c5b1d2ebdda9735451d33663e8ad2e142b8ef",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3539,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cede113d05667a575c067533787c258116c39a90d8d9523d6ccc436577867acf",
+        "path": "data/variable-documentation/cede113d05667a575c067533787c258116c39a90d8d9523d6ccc436577867acf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1YrkStalln",
+      "variable": "Yrkesställning, största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "a6aae292aa9c3d5106cafac14dce626eaca5e85f3f8181dc57376539bc46c22d",
+      "id": "23eeb7bd6b2f1e494996b30a66916543c578ddc67ccb17c097cb9ec508b74fac",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU1YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3539,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "21728ad0a651b103c99ab539d3390511d2e07d126a07803684da07170a19d7a3",
+        "path": "data/variable-documentation/21728ad0a651b103c99ab539d3390511d2e07d126a07803684da07170a19d7a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU1YrkStalln",
+      "variable": "Yrkesställning, största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "a6aae292aa9c3d5106cafac14dce626eaca5e85f3f8181dc57376539bc46c22d",
       "id": "0ecb5b99c1a90529b359a9cd9ccf213143b08d1f3ad2f849563a00f92a6639d0",
@@ -8689,6 +9414,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU2AstKommun",
       "variable": "Kommun för arbetsställe, näst största förvärvskälla",
+      "register_version": "1997",
+      "source_task_id": "f916886a3dca70fc105b2dbf6132053825fafcbef525aba45252d76702b6302b",
+      "id": "9372da51f9ca7afa0923b6ecf595be28743c3b409d460e2f97339c4b9799ca43",
+      "domain_id": "64a2011e682e263f3b19e7001a6ac12764c31473c1a7367de41af64e39d83825",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3540,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "62c61027841aee25cb2b0f28011ac54a967d87851d5a2744e09b4d327c92c3c8",
+        "path": "data/variable-documentation/62c61027841aee25cb2b0f28011ac54a967d87851d5a2744e09b4d327c92c3c8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2AstKommun",
+      "variable": "Kommun för arbetsställe, näst största förvärvskälla",
+      "register_version": "1998",
+      "source_task_id": "f916886a3dca70fc105b2dbf6132053825fafcbef525aba45252d76702b6302b",
+      "id": "eb935eae97d1fd8b5c23988859db19f02f4db97a7a8973fb75fbbf7ff5a194d7",
+      "domain_id": "121d816abf59c3e9e13fe96476979cc44a9d6b74aefd83a60c3069d3660ed039",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3540,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6f314df1a80eec6987b3ffbcc87820df1f0615ddc07ca50f7c9d4c357f2017a6",
+        "path": "data/variable-documentation/6f314df1a80eec6987b3ffbcc87820df1f0615ddc07ca50f7c9d4c357f2017a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2AstKommun",
+      "variable": "Kommun för arbetsställe, näst största förvärvskälla",
       "register_version": "1999",
       "source_task_id": "f916886a3dca70fc105b2dbf6132053825fafcbef525aba45252d76702b6302b",
       "id": "1ba421d6cf19f35e8c21cc98fdf7010ab676429f7bd2ab5559f9a6c128d4cf89",
@@ -9002,6 +9785,64 @@
         "path": "data/variable-documentation/f2820fbe6739517bb12b244d418400157777b18dc7c01e220ba083134048ef19.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2AstNr",
+      "variable": "Arbetsställenummer, näst största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "5fc3a254538c5abc45980f6be9df850a5746bf4812c8bc57ff9fd97880e1d1ea",
+      "id": "12a099856c5dbaea965dd25e82f4893b7f93651d230ca8778b9df2cd02624288",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3541,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0cb5cc20ed93e4f4e2ebf485a08c0c51b08ea4138203f64ebb7acc7c12d46e90",
+        "path": "data/variable-documentation/0cb5cc20ed93e4f4e2ebf485a08c0c51b08ea4138203f64ebb7acc7c12d46e90.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2AstNr",
+      "variable": "Arbetsställenummer, näst största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "5fc3a254538c5abc45980f6be9df850a5746bf4812c8bc57ff9fd97880e1d1ea",
+      "id": "1004eba422ed58cfb050dfded5468a9c8dd7c58bbdeca92b1064979b2a0bc233",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3541,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e898d1ac0a4e783f369c5c24e2ebb3c98ebef769647657a98c4ac7c7d775d8dc",
+        "path": "data/variable-documentation/e898d1ac0a4e783f369c5c24e2ebb3c98ebef769647657a98c4ac7c7d775d8dc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -9880,6 +10721,64 @@
         "path": "data/variable-documentation/a90e92da33f750c4f5c3e195a3df2824f55662a78ec6ab62e84e7fd5eca05cf5.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2Ink",
+      "variable": "Total bruttolön eller företagarinkomst, näst största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "7a057eb4c4a7b8f45bce8bdf1f72061246814acaa684a0395af2238ed0aadc05",
+      "id": "43007c355352f2b896d79def22041673f708b1cd85c6e33e04a27c91e1d6a964",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3546,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "054e05a356593ee6b1c4e8a15d63a9b535946608f8593fbcb926015c375b7a0b",
+        "path": "data/variable-documentation/054e05a356593ee6b1c4e8a15d63a9b535946608f8593fbcb926015c375b7a0b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2Ink",
+      "variable": "Total bruttolön eller företagarinkomst, näst största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "7a057eb4c4a7b8f45bce8bdf1f72061246814acaa684a0395af2238ed0aadc05",
+      "id": "4c27bdda172c248fda1ce15d564223ae4e0cbb88baf1f0542f9e8939fa8e3b61",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3546,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "36339b485cd2bac1c2490c678b54c0bdc83f5411b2f156fd50c12cd90518554b",
+        "path": "data/variable-documentation/36339b485cd2bac1c2490c678b54c0bdc83f5411b2f156fd50c12cd90518554b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -11365,6 +12264,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU2YrkStalln",
       "variable": "Yrkesställning, näst största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "c2369357bcf3b5255b248d0c903b4546bdd2db74183823ed7608848c68d8a064",
+      "id": "4824aad8e40fd9105fd55d52e90063d5ac6608aee555c0b1a9e66d7238883afa",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3556,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f9c47c505c92d03bc0787e57511b2488fee6fbe17cc22281083d58e6e6eb515",
+        "path": "data/variable-documentation/9f9c47c505c92d03bc0787e57511b2488fee6fbe17cc22281083d58e6e6eb515.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2YrkStalln",
+      "variable": "Yrkesställning, näst största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "c2369357bcf3b5255b248d0c903b4546bdd2db74183823ed7608848c68d8a064",
+      "id": "71fc67848479da48142e46462b84d3049866d6691b4eea2e62409de83935ae03",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU2YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3556,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "152720787090922198cf23fe02f618313b39bdc9e4ba234c18585ee7fdfa4a4f",
+        "path": "data/variable-documentation/152720787090922198cf23fe02f618313b39bdc9e4ba234c18585ee7fdfa4a4f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU2YrkStalln",
+      "variable": "Yrkesställning, näst största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "c2369357bcf3b5255b248d0c903b4546bdd2db74183823ed7608848c68d8a064",
       "id": "9d24121553c17773e6feb85db16bac8958f686d1ea2aaf01987f5942b9c3871e",
@@ -11684,6 +12641,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU3AstKommun",
       "variable": "Kommun för arbetsställe, tredje största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "710a84781cb62754f7125a88fe273bf4631b6828bfeab6456ee3421df0d8d25d",
+      "id": "c709b3884d9c9ab1e0a8d88507022b90937c5b4fda20b5e4825f501d40e35192",
+      "domain_id": "64a2011e682e263f3b19e7001a6ac12764c31473c1a7367de41af64e39d83825",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3557,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "76c26b27511667adf0dfafb18366f96d8a26d0c79079d4d244ae41a5c4076e62",
+        "path": "data/variable-documentation/76c26b27511667adf0dfafb18366f96d8a26d0c79079d4d244ae41a5c4076e62.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3AstKommun",
+      "variable": "Kommun för arbetsställe, tredje största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "710a84781cb62754f7125a88fe273bf4631b6828bfeab6456ee3421df0d8d25d",
+      "id": "45d2e19d721ad774e8f28ba5ad9cdf541034610609d1b051c94533d7aaecf5e9",
+      "domain_id": "121d816abf59c3e9e13fe96476979cc44a9d6b74aefd83a60c3069d3660ed039",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3AstKommun",
+          "ar_raw": "1997-2018",
+          "kallrad": 3557,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09e15c43fbd685d9fc6f74b1631f8a921a3d59c66394a019f6586921c4cab21a",
+        "path": "data/variable-documentation/09e15c43fbd685d9fc6f74b1631f8a921a3d59c66394a019f6586921c4cab21a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3AstKommun",
+      "variable": "Kommun för arbetsställe, tredje största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "710a84781cb62754f7125a88fe273bf4631b6828bfeab6456ee3421df0d8d25d",
       "id": "a697e24cdcc355c29790c1bb3b4f8e9e91f6744c7d01d12d7ef434560e644dce",
@@ -11997,6 +13012,64 @@
         "path": "data/variable-documentation/12717890ff2d23ed286ec3c8c19e0cabcd0e2be4958e557a903252324220a5b3.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3AstNr",
+      "variable": "Arbetsställenummer, tredje största förvävskällan",
+      "register_version": "1997",
+      "source_task_id": "7fea87c17a15a3fb2b6f752695ce422e544854856b1e69d62cfcaa1aecab5649",
+      "id": "1f25858e3a2e21895214497692215b0c9692b95a23bdc3761d814977571a6d6c",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3558,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f0489f145dc01695f99fea2333ab201dc3ac588a2a3196011ea4ef2ba3acb0c",
+        "path": "data/variable-documentation/2f0489f145dc01695f99fea2333ab201dc3ac588a2a3196011ea4ef2ba3acb0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3AstNr",
+      "variable": "Arbetsställenummer, tredje största förvävskällan",
+      "register_version": "1998",
+      "source_task_id": "7fea87c17a15a3fb2b6f752695ce422e544854856b1e69d62cfcaa1aecab5649",
+      "id": "aee884d728e4ba843f5da670de3d7bc1e4b84affeb425a35c12ac19b76b3f25c",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3AstNr",
+          "ar_raw": "1997-2018",
+          "kallrad": 3558,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4879170d59093bd005630b275027cf9c3883abc640c74cbf0d85859b874d552",
+        "path": "data/variable-documentation/d4879170d59093bd005630b275027cf9c3883abc640c74cbf0d85859b874d552.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -12881,6 +13954,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU3Ink",
       "variable": "Total bruttolön eller företagarinkomst, tredje största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "64a76127b4dfd3b6ebedfc13dcb8f268d34baba2162f08823579597003e232e9",
+      "id": "c22020b050ecc8713a6830151eda56fd0f41824bc3cbbee0b0cf8142b003d00d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3563,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f615d733b9010e5f740d2d4b3f1dc28b9510c799fc3746f6e2f6efa6d2e5aaf9",
+        "path": "data/variable-documentation/f615d733b9010e5f740d2d4b3f1dc28b9510c799fc3746f6e2f6efa6d2e5aaf9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3Ink",
+      "variable": "Total bruttolön eller företagarinkomst, tredje största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "64a76127b4dfd3b6ebedfc13dcb8f268d34baba2162f08823579597003e232e9",
+      "id": "bddc6077f2c07436dd19811724fa8f818c33d67905bb73d8cea63df63ab324b6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3Ink",
+          "ar_raw": "1997-2018",
+          "kallrad": 3563,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1703c99021f27d0a4679e023543b9d8dd8d099a06ab681333dc3d2a261812934",
+        "path": "data/variable-documentation/1703c99021f27d0a4679e023543b9d8dd8d099a06ab681333dc3d2a261812934.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3Ink",
+      "variable": "Total bruttolön eller företagarinkomst, tredje största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "64a76127b4dfd3b6ebedfc13dcb8f268d34baba2162f08823579597003e232e9",
       "id": "bb61e3c100f732d019b601cc4cd90e3fe49da08eb1962fa35a0657c96fe6ab89",
@@ -13577,6 +14708,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "KU3YrkStalln",
       "variable": "Yrkesställning, tredje största förvärvskällan",
+      "register_version": "1997",
+      "source_task_id": "7385a215906f6e2c7769abe8ce467014acd5cc5cf37deca7bbd022a23decfc88",
+      "id": "d1bee73399d9a9d3b2e9ab9564cdecdddc1e21f6f03716fb8899e783abff1e52",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3568,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d8afa2a39306d6b44922ebc93d7964dfb2eb633dfe935ccd25c58c123c5e922b",
+        "path": "data/variable-documentation/d8afa2a39306d6b44922ebc93d7964dfb2eb633dfe935ccd25c58c123c5e922b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3YrkStalln",
+      "variable": "Yrkesställning, tredje största förvärvskällan",
+      "register_version": "1998",
+      "source_task_id": "7385a215906f6e2c7769abe8ce467014acd5cc5cf37deca7bbd022a23decfc88",
+      "id": "b76c5ede4e0e1159c6b5a57484b476f65ddc6c3c17ffc5cbbc4badc619a7df4f",
+      "domain_id": "0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KU3YrkStalln",
+          "ar_raw": "1997-2018",
+          "kallrad": 3568,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "37fab41c6a1230316cee7860e4003a59eb3fda4081adda0d1f4c37e343ab3251",
+        "path": "data/variable-documentation/37fab41c6a1230316cee7860e4003a59eb3fda4081adda0d1f4c37e343ab3251.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KU3YrkStalln",
+      "variable": "Yrkesställning, tredje största förvärvskällan",
       "register_version": "1999",
       "source_task_id": "7385a215906f6e2c7769abe8ce467014acd5cc5cf37deca7bbd022a23decfc88",
       "id": "5660077e7e3bba77baeec6d73c4a4603891bec77570746a44929f97920640b9c",
@@ -13890,6 +15079,64 @@
         "path": "data/variable-documentation/ceee0c8254ad1ae58c67bf3e22de9b8cb7a50ed30947344e77ac546bb9c91040.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KallKod",
+      "variable": "Källkod",
+      "register_version": "1997",
+      "source_task_id": "208a4349af3223197c2f2265806ae4c7e6e79a92513ad2535f3f52bb39221660",
+      "id": "664ff4934315d69c7b8fe9e1cc464c730e217b50e3c9c1a4a13118bef512463c",
+      "domain_id": "a2bac653589236cadf7ba58b0ed77fa767019ef7ff4c2284e7334e8c887cc21b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KallKod",
+          "ar_raw": "1997-2024",
+          "kallrad": 3569,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "17e88fb3af766d1c0021ba0726497530a2eff5e5e8995a2eccebbe76c1565de8",
+        "path": "data/variable-documentation/17e88fb3af766d1c0021ba0726497530a2eff5e5e8995a2eccebbe76c1565de8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "KallKod",
+      "variable": "Källkod",
+      "register_version": "1998",
+      "source_task_id": "208a4349af3223197c2f2265806ae4c7e6e79a92513ad2535f3f52bb39221660",
+      "id": "a308dc889d348e9280a16e61c68794cd78ee25fade3ccc6bf550413ba4fd10ed",
+      "domain_id": "a2bac653589236cadf7ba58b0ed77fa767019ef7ff4c2284e7334e8c887cc21b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "KallKod",
+          "ar_raw": "1997-2024",
+          "kallrad": 3569,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "190cdf010b582e7cdb2f39d775d26e877bf54e2a22904ef56529c7caf257faad",
+        "path": "data/variable-documentation/190cdf010b582e7cdb2f39d775d26e877bf54e2a22904ef56529c7caf257faad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -14621,6 +15868,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "SektorKodSReg",
       "variable": "Sektorkod",
+      "register_version": "1997",
+      "source_task_id": "983d716dc908c515afb1f3b264e5e8476c149c044be61b9c6c6c92f432e09c40",
+      "id": "c5dba6fb75c7f10cde06bb5845e879d1c1dc7c8a87cee88f1b8f95950f50e071",
+      "domain_id": "2a601186880c9341348d720a207ec38b8a157fe88124ee91c20af729ddf418a0",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "SektorKodSReg",
+          "ar_raw": "1997-2023",
+          "kallrad": 3606,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c38164129b4cf6bcaa0fedce45504aa4ab0cbb19851e4dc09e07897c0fdb13f",
+        "path": "data/variable-documentation/0c38164129b4cf6bcaa0fedce45504aa4ab0cbb19851e4dc09e07897c0fdb13f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "SektorKodSReg",
+      "variable": "Sektorkod",
+      "register_version": "1998",
+      "source_task_id": "983d716dc908c515afb1f3b264e5e8476c149c044be61b9c6c6c92f432e09c40",
+      "id": "83d4eabcb3847b6f04f38af8df44f96f0901f3faa4f9ee2c48b81ffceff5fd3c",
+      "domain_id": "2a601186880c9341348d720a207ec38b8a157fe88124ee91c20af729ddf418a0",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "SektorKodSReg",
+          "ar_raw": "1997-2023",
+          "kallrad": 3606,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "194a42c497b8f5d3984107e23c13ee45672813782be1017d37d59e7e1381c43f",
+        "path": "data/variable-documentation/194a42c497b8f5d3984107e23c13ee45672813782be1017d37d59e7e1381c43f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "SektorKodSReg",
+      "variable": "Sektorkod",
       "register_version": "1999",
       "source_task_id": "983d716dc908c515afb1f3b264e5e8476c149c044be61b9c6c6c92f432e09c40",
       "id": "84f3d12c2c93dd91bd6af22af9f77d4f336d91e1aa1755673aa5b66cd24fc193",
@@ -14934,6 +16239,64 @@
         "path": "data/variable-documentation/d68c62ddfe6f78f89cd74e80b3a08997e785da370232ef45db5cf3f09110835c.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "StudDelt",
+      "variable": "Studiedeltagande höstterminen",
+      "register_version": "1997",
+      "source_task_id": "f078260ee9a4756d1a7a9e773aa54acb7d9d8643e1bc6875ac0fbd6ca8852ec8",
+      "id": "392500ea503a09cebd888363c7ea06f43fe3302c734ac7f7f0a5b3e6ee31ebdf",
+      "domain_id": "19a128bdee71cdc566ad03f139a16e802414b4c3ec52a068e4962f04c82a7c4c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "StudDelt",
+          "ar_raw": "1997-2023",
+          "kallrad": 3609,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ff3213ed4bf264e2f08f3f47ce03abc688fbce1e43ef4c39f985d94340bd3608",
+        "path": "data/variable-documentation/ff3213ed4bf264e2f08f3f47ce03abc688fbce1e43ef4c39f985d94340bd3608.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "StudDelt",
+      "variable": "Studiedeltagande höstterminen",
+      "register_version": "1998",
+      "source_task_id": "f078260ee9a4756d1a7a9e773aa54acb7d9d8643e1bc6875ac0fbd6ca8852ec8",
+      "id": "e722344f7d2d53e8b87a357213b61b75950cd2dd2b366339c8e5fdbe87111df7",
+      "domain_id": "19a128bdee71cdc566ad03f139a16e802414b4c3ec52a068e4962f04c82a7c4c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "StudDelt",
+          "ar_raw": "1997-2023",
+          "kallrad": 3609,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3984616485a76d9375df81339b2e1123ba69c595e1dcb96c807e84339c394724",
+        "path": "data/variable-documentation/3984616485a76d9375df81339b2e1123ba69c595e1dcb96c807e84339c394724.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -15259,6 +16622,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "StudDeltTyp",
       "variable": "Förekomst av studier, hösttermin",
+      "register_version": "1997",
+      "source_task_id": "68ae701b6067d95549fb384045db371f9953f2dbc1fb9562850ab51f0905549c",
+      "id": "33796466643071c51aaeb80f330791558fbb27d6741ab49e577fcd86238af86e",
+      "domain_id": "de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "StudDeltTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 3610,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "51db7a0b63f9c8b2096d8d438b05c4b80cdaedaeed01b324562d5b26f13fd597",
+        "path": "data/variable-documentation/51db7a0b63f9c8b2096d8d438b05c4b80cdaedaeed01b324562d5b26f13fd597.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "StudDeltTyp",
+      "variable": "Förekomst av studier, hösttermin",
+      "register_version": "1998",
+      "source_task_id": "68ae701b6067d95549fb384045db371f9953f2dbc1fb9562850ab51f0905549c",
+      "id": "9862fc0eee11dbbadc904890617819a621bfa11573c9733dd74bcd1a6903587a",
+      "domain_id": "de6ce971edfed25d1c8eb476360422661b30f45da4e7b3395a9ecf275992c4d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "StudDeltTyp",
+          "ar_raw": "1997-2023",
+          "kallrad": 3610,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e48877bfd3c3f987c5cf545ecf9ad1b383b60960cb56b91d55f318b435230839",
+        "path": "data/variable-documentation/e48877bfd3c3f987c5cf545ecf9ad1b383b60960cb56b91d55f318b435230839.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "StudDeltTyp",
+      "variable": "Förekomst av studier, hösttermin",
       "register_version": "1999",
       "source_task_id": "68ae701b6067d95549fb384045db371f9953f2dbc1fb9562850ab51f0905549c",
       "id": "a3c99f0e230f479832f29c0d5dcabf3498abd00968e41d7c523e9e48878ab06c",
@@ -15572,6 +16993,64 @@
         "path": "data/variable-documentation/f5d690db49170f1cf4dc49c18aa66bdabfbd9ad89f5f40b2a2f3d9dbd6c2c0cc.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000Grp",
+      "variable": "Utbildningsgrupp enl SUN 2000",
+      "register_version": "1997",
+      "source_task_id": "54041393ba43cec20d0d948bea5cf0aaa0924e2e21a6540d5ac9b7bc080fe421",
+      "id": "0a3b8139cde3014407ef9067b0d9f551e263af26052a648dedd4919710282a31",
+      "domain_id": "74f660afea0499f1f2f41a82a7b86472f26dcff08fa78839297b6c67e5230719",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Grp",
+          "ar_raw": "1997-2021",
+          "kallrad": 3611,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c28b46a17e76f8699678ee1d2d816df0f8527b6f7db34a7a3d246949d53f8b2",
+        "path": "data/variable-documentation/0c28b46a17e76f8699678ee1d2d816df0f8527b6f7db34a7a3d246949d53f8b2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000Grp",
+      "variable": "Utbildningsgrupp enl SUN 2000",
+      "register_version": "1998",
+      "source_task_id": "54041393ba43cec20d0d948bea5cf0aaa0924e2e21a6540d5ac9b7bc080fe421",
+      "id": "cf81b34599bfb87212be13be97b87ffe5d6eb68e7178fa1fc137d6c88d3e3a34",
+      "domain_id": "74f660afea0499f1f2f41a82a7b86472f26dcff08fa78839297b6c67e5230719",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Grp",
+          "ar_raw": "1997-2021",
+          "kallrad": 3611,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3b43755733a9bade1fb20013b6ea9ba9313aeb84eaa0e0bd2f6b012587b92987",
+        "path": "data/variable-documentation/3b43755733a9bade1fb20013b6ea9ba9313aeb84eaa0e0bd2f6b012587b92987.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -15897,6 +17376,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "Sun2000Inr",
       "variable": "Utbildningsinriktning (4 positioner)",
+      "register_version": "1997",
+      "source_task_id": "5b2ef3338370a2806cc82e8c4c34ca39287ac3b7138caaf180dab38efc9f377b",
+      "id": "af9a718355d7688695d24ee052a844df47370a7f5fd9b549219e94f61ff848d7",
+      "domain_id": "1269577f2faa3419ff72724e8fd8fec507911217777d83fcea22e187dd19a8e5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Inr",
+          "ar_raw": "1997-2021",
+          "kallrad": 3612,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bf8b345cfb4ffe269be8c25e3e92b92569eef3a9a9fbec5f761ea724826ec835",
+        "path": "data/variable-documentation/bf8b345cfb4ffe269be8c25e3e92b92569eef3a9a9fbec5f761ea724826ec835.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000Inr",
+      "variable": "Utbildningsinriktning (4 positioner)",
+      "register_version": "1998",
+      "source_task_id": "5b2ef3338370a2806cc82e8c4c34ca39287ac3b7138caaf180dab38efc9f377b",
+      "id": "095b578588693cace80b7f68eb58179d109fa6a6073fd5472c204d1ece8e8657",
+      "domain_id": "1269577f2faa3419ff72724e8fd8fec507911217777d83fcea22e187dd19a8e5",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Inr",
+          "ar_raw": "1997-2021",
+          "kallrad": 3612,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3926e722e0a58bfe81319838ab6c1c1cfab9717c21abd6ac917a2a16dca82747",
+        "path": "data/variable-documentation/3926e722e0a58bfe81319838ab6c1c1cfab9717c21abd6ac917a2a16dca82747.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000Inr",
+      "variable": "Utbildningsinriktning (4 positioner)",
       "register_version": "1999",
       "source_task_id": "5b2ef3338370a2806cc82e8c4c34ca39287ac3b7138caaf180dab38efc9f377b",
       "id": "07bc963a9a508c5348d3fd11cd7a00eff3fdbcbe6d558345320a0761ebfdf99b",
@@ -16216,6 +17753,64 @@
       "variant": "Individer, 16 år och äldre",
       "column": "Sun2000niva",
       "variable": "Utbildningsnivå (3 positioner)",
+      "register_version": "1997",
+      "source_task_id": "c18c7b563ae59f5fdd11a067ff41f2c7113de703638efa248b77d3aaa7da6078",
+      "id": "d2ec45c12591dcfd475175e7ee9dbf83b16ee97e3fec8758738f97dc7b474ff4",
+      "domain_id": "9fdde77e29e0a3d81af9f2a35381cdd019d76e33a98bf8ba9ff7c8ef37fa9d09",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Niva",
+          "ar_raw": "1997-2018",
+          "kallrad": 3613,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ac879d1269a4fdf7f3b0be4a35da15819cae18c9550108076cc88944b280aff3",
+        "path": "data/variable-documentation/ac879d1269a4fdf7f3b0be4a35da15819cae18c9550108076cc88944b280aff3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000niva",
+      "variable": "Utbildningsnivå (3 positioner)",
+      "register_version": "1998",
+      "source_task_id": "c18c7b563ae59f5fdd11a067ff41f2c7113de703638efa248b77d3aaa7da6078",
+      "id": "9672d75726b43388339aeba23c9a160d790d905f9da163158becb1b16b8bf088",
+      "domain_id": "9fdde77e29e0a3d81af9f2a35381cdd019d76e33a98bf8ba9ff7c8ef37fa9d09",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Niva",
+          "ar_raw": "1997-2018",
+          "kallrad": 3613,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cad088f3f69d813450b27260ea5dfbb1dc738cb0db907982b5d7df38258c2f73",
+        "path": "data/variable-documentation/cad088f3f69d813450b27260ea5dfbb1dc738cb0db907982b5d7df38258c2f73.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000niva",
+      "variable": "Utbildningsnivå (3 positioner)",
       "register_version": "1999",
       "source_task_id": "c18c7b563ae59f5fdd11a067ff41f2c7113de703638efa248b77d3aaa7da6078",
       "id": "6546ec598b1a15a2882df7e26b051a5b7d8ca607566e7e65bc8ee7636313064e",
@@ -16529,6 +18124,64 @@
         "path": "data/variable-documentation/a5db006990bbcbae536736bcacf8b15225b7af43e2f24b7793332d293714664b.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:51:26+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000niva_old",
+      "variable": "Utbildningsnivå (aggregat Old)",
+      "register_version": "1997",
+      "source_task_id": "fbc8edcc34b37d0ff19f2470001d9b08bd9c9ffefd17420af6c64abc6f1caafd",
+      "id": "573ef93ac883270e182702cbfa29fab0f4ae28ff7b26f72ec14803a2eef59883",
+      "domain_id": "78292e19d7351b8fea80560c032333d518d55488e1e576bb47bfbce04ba91d1f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Niva_Old",
+          "ar_raw": "1997-2018",
+          "kallrad": 3614,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c9a1b36d18df80e1ba68cd1e63c3181af809e3d7110be86457253c5d73e6057",
+        "path": "data/variable-documentation/0c9a1b36d18df80e1ba68cd1e63c3181af809e3d7110be86457253c5d73e6057.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Individer, 16 år och äldre",
+      "column": "Sun2000niva_old",
+      "variable": "Utbildningsnivå (aggregat Old)",
+      "register_version": "1998",
+      "source_task_id": "fbc8edcc34b37d0ff19f2470001d9b08bd9c9ffefd17420af6c64abc6f1caafd",
+      "id": "b0760fedaed555b6cd21ae5225cc8f3dadebcacfa8f0946b70887aab2bd2a8c6",
+      "domain_id": "78292e19d7351b8fea80560c032333d518d55488e1e576bb47bfbce04ba91d1f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T12:59:27+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "lisa_individ",
+          "variabel": "Sun2000Niva_Old",
+          "ar_raw": "1997-2018",
+          "kallrad": 3614,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "44d416ae5f2fa6adebf36676e588db76258131e32972eb635917c7fb866aa6e2",
+        "path": "data/variable-documentation/44d416ae5f2fa6adebf36676e588db76258131e32972eb635917c7fb866aa6e2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T12:59:27+00:00"
     },
     {
       "register": "Longitudinell integrationsdatabas (LISA)",
@@ -16884,6 +18537,14 @@
       "path": "data/value-domain-values/0648c8ec211349bfb16098fb86b66c089ae87bbf17cc2acbda87716258aef80f.json"
     },
     {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "121d816abf59c3e9e13fe96476979cc44a9d6b74aefd83a60c3069d3660ed039",
+      "value_count": 290,
+      "path": "data/value-domain-values/121d816abf59c3e9e13fe96476979cc44a9d6b74aefd83a60c3069d3660ed039.json"
+    },
+    {
       "version": "Standard för svensk yrkesklassificering 1996",
       "level": "Yrkesgrupp",
       "data_type": "char(3)",
@@ -16996,6 +18657,14 @@
       "path": "data/value-domain-values/5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30.json"
     },
     {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "64a2011e682e263f3b19e7001a6ac12764c31473c1a7367de41af64e39d83825",
+      "value_count": 289,
+      "path": "data/value-domain-values/64a2011e682e263f3b19e7001a6ac12764c31473c1a7367de41af64e39d83825.json"
+    },
+    {
       "version": "LKF 2001-01-01/ Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -17100,12 +18769,28 @@
       "path": "data/value-domain-values/954c8a68514d2ca2a19878f441008848368077b118b48b344086eb4a93ae5258.json"
     },
     {
+      "version": "År",
+      "level": "Årtal fr.o.m. 1900 och framåt",
+      "data_type": "char(4)",
+      "id": "981e44c0dde393587dea7fdc51a301a3ee52f0dd9158969601579b04f3e35ce1",
+      "value_count": 129,
+      "path": "data/value-domain-values/981e44c0dde393587dea7fdc51a301a3ee52f0dd9158969601579b04f3e35ce1.json"
+    },
+    {
       "version": "SUN 2000 - Utbildningsnivå",
       "level": "Utbildningsnivå, 3 positioner",
       "data_type": "char(3)",
       "id": "9fdde77e29e0a3d81af9f2a35381cdd019d76e33a98bf8ba9ff7c8ef37fa9d09",
       "value_count": 51,
       "path": "data/value-domain-values/9fdde77e29e0a3d81af9f2a35381cdd019d76e33a98bf8ba9ff7c8ef37fa9d09.json"
+    },
+    {
+      "version": "Källkod",
+      "level": "Källkod",
+      "data_type": "char(3)",
+      "id": "a2bac653589236cadf7ba58b0ed77fa767019ef7ff4c2284e7334e8c887cc21b",
+      "value_count": 85,
+      "path": "data/value-domain-values/a2bac653589236cadf7ba58b0ed77fa767019ef7ff4c2284e7334e8c887cc21b.json"
     },
     {
       "version": "LKF 2004-01-01/ Län, kommuner och församlingar",
@@ -17228,6 +18913,14 @@
       "path": "data/value-domain-values/e3941a8c6e4037b38ca946ab258f339dd3b0d71eaf7fbdfd821d5ee9d4c5779a.json"
     },
     {
+      "version": "LKF 1998-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "e63b1b01fb8d8a5657398eba8fd619422f4e51ee07b799602fafd9edf6a0a379",
+      "value_count": 290,
+      "path": "data/value-domain-values/e63b1b01fb8d8a5657398eba8fd619422f4e51ee07b799602fafd9edf6a0a379.json"
+    },
+    {
       "version": "KU1StatusSsyk",
       "level": "KU1StatusSsyk",
       "data_type": "char(1)",
@@ -17319,39 +19012,39 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 4,
+    "passes": 5,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "4f8101876e396627b8d65080235be96f4efd582f1fde3be4a9345e742843f1cf",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T12:01:49+00:00",
+    "retrieved_at": "2026-11-21T12:59:27+00:00",
     "task_count": 69,
     "expected_bindings": 637,
-    "documented_bindings": 580,
+    "documented_bindings": 637,
     "errors": [
-      "KU1AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2008: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2008: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2008: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU1AstSNI2002 2002: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU2AstSNI2002 2002: Exportens värdemängdsnivå matchar inte vald nivå: []",
-      "KU3AstSNI2002 2002: Exportens värdemängdsnivå matchar inte vald nivå: []"
+      "KU1AstSNI2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2008: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2008: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2008: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2006: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2006: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2006: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2005: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2005: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2005: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2004: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2004: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2004: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU1AstSNI2002 2002: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU2AstSNI2002 2002: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "KU3AstSNI2002 2002: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ],
     "stalled_passes": 0
   }
