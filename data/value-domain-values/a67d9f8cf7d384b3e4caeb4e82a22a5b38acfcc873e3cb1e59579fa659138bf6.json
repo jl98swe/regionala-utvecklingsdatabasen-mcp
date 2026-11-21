@@ -1,0 +1,24 @@
+{
+  "version": "Direktövergång från grundskola och grundsärskola    ",
+  "level": "Direktövergång från grundskola och grundsärskola",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Eleven gick inte direkt från grundskolan eller grundsärskolan till gymnasieskolan "
+    },
+    {
+      "code": "1",
+      "label": "Eleven gick direkt från grundskolan till gymnasieskolan"
+    },
+    {
+      "code": "2",
+      "label": "Eleven gick direkt från grundsärskolan (exkl.träningsskolan) till gymnasieskolan"
+    },
+    {
+      "code": "3",
+      "label": "Eleven gick direkt från träningsskolan till gymnasieskolan"
+    }
+  ],
+  "id": "a67d9f8cf7d384b3e4caeb4e82a22a5b38acfcc873e3cb1e59579fa659138bf6"
+}

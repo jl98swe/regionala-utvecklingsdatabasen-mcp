@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Meritvärde"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Meritvärde är summan av ett antal av elevens bästa betyg, där bokstavsbetyg ersätts med ett visst antal poäng. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Hur många betyg som meritvärdet ska beräknas på och hur många poäng som ett betyg är värt kan variera."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Meritvärdet är summan av elevens 16 bästa betyg i slutbetyget. Betyg i moderna språk kan ingå bland de 16 bästa betygen. \r\n\r\nHögsta meritvärde är 320. För beräkningen ersätts bokstavsbetygen med följande poäng: betyget A= 20, B= 17,5, C=15, D=12,5 och E=10. \r\n\r\nVärdet 0,00 innebär att eleven inte har fått kunskapsrelaterade betyg eller att uppgift saknas. "
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Grundskola: betyg åk 9 : Grundskolan: betyg åk 9"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Poäng"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registret över elever i gymnasieskolan innehåller bl.a. uppgifter om elevens bakgrund, vilken årskurs eleven går i, vilken utbildning eleven studerar samt utbildning och födelseland om elevens föräldrar. "
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever i gymnasieskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Elever inskrivna i gymnasieskolan per 15 oktober"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-10-15"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen av uppgifter om uppgifter om elever i gymnasieskolan sker i samarbete med Centrala Studiestödsnämnden (CSN). SCB erhåller ett register från CSN i slutet av oktober för referensåret samt ett kompletterande register avseende december för referensåret. Registren bearbetas därefter vidare hos SCB. Skolenheten där eleven är inskriven lämnar uppgifter elektroniskt för de elever som saknar information om inriktning samt fullständiga studievägskoder."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Elever per 15 oktober"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Elever"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Innehåller uppgifter på individnivå om elever i gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram och årskurs."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Gymnasieskola: elever per 15 oktober"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Gymnasieskola: elever"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att det ska ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\n\r\nRegistret innehåller uppgifter på individnivå om elever i gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram och årskurs."
+    }
+  ],
+  "id": "24526d9ed2c8e23fca1995017f9976a422efb11b28df5789f2b3c6ae5cc0c46c"
+}

@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(9)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Studieväg i gymnasieskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Studieväg för studentens gymnasieutbildning."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Studievägskoder för elever som läser enligt Gy2011."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Register hos Centrala studiestödsnämnden (CSN)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registret över elever i gymnasieskolan innehåller bl.a. uppgifter om elevens bakgrund, vilken årskurs eleven går i, vilken utbildning eleven studerar samt utbildning och födelseland om elevens föräldrar. \r\n\r\nFrån och med 2011 ingår elever som läser ett fjärde år på Teknikprogrammet."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever i gymnasieskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Elever inskrivna i gymnasieskolan per 15 oktober"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2015-10-15"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Insamlingen av uppgifter om uppgifter om elever i gymnasieskolan sker i samarbete med Centrala Studiestödsnämnden (CSN). SCB erhåller ett register från CSN i slutet av oktober för referensåret samt ett kompletterande register avseende december för referensåret. Registren bearbetas därefter vidare hos SCB. Skolenheten där eleven är inskriven lämnar uppgifter elektroniskt för de elever som saknar information om inriktning samt fullständiga studievägskoder."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Elever per 15 oktober"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Elever"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Innehåller uppgifter på individnivå om elever i gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram och årskurs."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Gymnasieskola: elever per 15 oktober"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Gymnasieskola: elever"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att det ska ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\n\r\nRegistret innehåller uppgifter på individnivå om elever i gymnasieskolan. Exempel på variabler är skola, studieväg, gymnasieprogram och årskurs."
+    }
+  ],
+  "id": "80011b530568fb1cc08e0dbb34050d10ba9d143737588e609aa9709518ef8487"
+}
