@@ -514,15 +514,16 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 1,
+    "collector_sha256": "6ea1936f0c2535867495c238e981707daee56c40227ec19ca97d8909909babd0",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "33f319c79eea6305eb4d0f65a4cfd7386f0d765b1381573f0c55dd9ee56ccb77",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T06:46:13+00:00",
+    "retrieved_at": "2026-11-21T10:43:10+00:00",
     "task_count": 16,
     "expected_bindings": 16,
     "documented_bindings": 16,
-    "errors": []
+    "errors": [],
+    "stalled_passes": 1
   }
 }
