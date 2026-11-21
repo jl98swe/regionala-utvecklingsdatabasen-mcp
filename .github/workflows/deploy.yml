@@ -5,8 +5,10 @@ on:
     branches: [main]
     paths:
       - src/order-domains.ts
+      - src/order-notes.ts
       - src/server.ts
       - data/order-source-index.json
+      - data/order-source-review.json
   workflow_run:
     workflows: [Hämta värdemängder från SCB]
     types: [completed]

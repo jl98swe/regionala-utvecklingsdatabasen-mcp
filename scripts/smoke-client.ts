@@ -6,7 +6,7 @@ const c=new Client({name:'regionala-utvecklingsdatabasen-smoke',version:'1.0.0'}
 await c.connect(new StreamableHTTPClientTransport(new URL(url),{fetch:(input,init)=>fetch(input,{...init,signal:AbortSignal.timeout(30_000)})}));
 try{
  const tools=await c.listTools();assert.equal(tools.tools.length,9);
- assert.equal(c.getServerVersion()?.version,'0.7.1');
+ assert.equal(c.getServerVersion()?.version,'0.7.2');
  for(const name of ['sok_variabler','hamta_kodmall'])assert.match(tools.tools.find(t=>t.name===name)!.description!,/inget ska sparas/);
  const support=await c.callTool({name:'hamta_kodmall',arguments:{mall:'projektstod'}});
  assert.notEqual(support.isError,true);
@@ -46,6 +46,13 @@ try{
  assert.ok(od.total>0);assert.ok(od.results.every(v=>typeof v.code==='string'));
  assert.ok(od.binding.orders.some(o=>o.databasvy==='fodelseuppg'));
  console.log(JSON.stringify({tool:'hamta_vardemangd',case:'order_scoped_birth_register',total:od.total,status:'PASS'}));
+ const assumptions=await c.callTool({name:'sok_vardemangder',arguments:{databasvy:'fek_lve',kolumn:'MedeltalAnstallda',registerversion:'1998'}});
+ assert.notEqual(assumptions.isError,true,JSON.stringify(assumptions));
+ const an=assumptions.structuredContent as {view_notes:{databasvy:string;definition_assumptions:{period:string;verification:string}[]}[]};
+ assert.equal(an.view_notes[0]!.databasvy,'fek_lve');
+ assert.equal(an.view_notes[0]!.definition_assumptions[0]!.period,'1998–2002');
+ assert.equal(an.view_notes[0]!.definition_assumptions[0]!.verification,'user_approved_assumption_not_independently_verified');
+ console.log(JSON.stringify({case:'approved_old_definition_assumption',status:'PASS'}));
  const note=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],perioder:[1997,1998],kontext:{ar_begrepp:'registerar'}}]}});
  assert.notEqual(note.isError,true);assert.match(JSON.stringify(note.structuredContent),/crosses_breakpoint/);
  const h=await c.callTool({name:'hamta_kodmall',arguments:{mall:'harmonisera_argangar',urval:[{databasvy:'avggymn',variabler:['totalpoang'],period:2004},{databasvy:'avggymn',variabler:['totalpoang'],period:2005}]}});

@@ -327,7 +327,14 @@
         "variant": "Grundutbildning, examina"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "context_notes": [
+      {
+        "status": "prior_method_exists",
+        "basis": "Användarens uppgift 2026-11-21",
+        "message": "Årshanteringen har beskrivits i tidigare framtagna skript. Dessa ska kontrolleras innan tomma årsfält behandlas som en ny metodfråga. Den exakta tidigare metoden återges inte här utan verifiering av skriptet."
+      }
+    ]
   },
   "hreg_examenforsk": {
     "status": "reviewed",
@@ -421,7 +428,12 @@
         "variant": "Indvider in- och utvandring"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "period_handling": {
+      "status": "user_explained",
+      "basis": "Användarens förklaring 2026-11-21",
+      "message": "Årshanteringen för in- och utvandring har redan förklarats av användaren. Tomt årsfält i variabelförteckningen ska inte ensamt behandlas som en ny oklarhet om vyns tidsupplägg. Detta fyller inte i beställningens historiska årstäckning."
+    }
   },
   "fodelseland_lisa": {
     "status": "reviewed",
@@ -491,7 +503,12 @@
         "variant": "Folkbokförda personer"
       }
     ],
-    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+    "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år.",
+    "period_handling": {
+      "status": "user_explained",
+      "basis": "Användarens förklaring 2026-11-21",
+      "message": "Fodelseuppg har enligt användaren ett liknande tidsupplägg som in- och utvandring. Tomt årsfält i variabelförteckningen ska inte ensamt behandlas som en ny oklarhet om vyns tidsupplägg. Detta fyller inte i beställningens historiska årstäckning."
+    }
   },
   "inrflyttflode": {
     "status": "reviewed",

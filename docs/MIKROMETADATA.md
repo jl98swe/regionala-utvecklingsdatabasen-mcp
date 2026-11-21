@@ -117,3 +117,17 @@ hämtade poster kompletteras successivt; en tom eller ännu inte hämtad definit
 ska inte tolkas som att SCB saknar dokumentation. `hamta_vardemangd` returnerar
 `documentation.status` och insamlade originalfält. Källans populationsbeskrivning
 ändrar inte populationen i MONA-beställningen.
+
+
+### Godkända antaganden och tidigare förklarad årshantering
+
+`view_notes` i värdemängdssökningen och uppslaget visar användarens godkända
+antaganden för äldre FEK-definitioner: MedeltalAnstallda 1998–2002 och
+SysselsattaRAMS 2002, med definitionerna från SCB:s dokumentation från 2003
+som referens. Antagandena returneras även när sökt registerårgång inte finns
+i SCB-katalogen. Inga källversioner eller historiska kodlistor skapas.
+
+Användarens förklaringar för fodelseuppg och in_utvandring_lisa samt hänvisningen
+till tidigare HREG-metodskript visas separat. De ändrar inte tomma årsfält till
+påhittade tillgängliga år. Underlaget i tidigare HREG-skript ska läsas innan
+metoden återges eller ändras.
