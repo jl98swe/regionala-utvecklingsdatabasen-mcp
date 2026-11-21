@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(5)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Näringsgren för statistiken"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Klassificering av enhetens näringsgren/bransch. Tilldelas av SCB för statistiska ändamål."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Om arbetsstället är en hjälpenhet, (dvs. om verksamheten på arbetsstället till minst 50% består av tjänster och arbeten till stöd för andra\r\narbetsställen inom företaget) blir näringsgren för arbetsstället den verksamhet som bedrivs, (t.ex. intern biblioteksverksamhet), medan den statistiska näringsgrenen blir företagsenhetens huvudnäringsgren. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Statistisk näringsgren som är framtagen för statistiska ändamål och aggregeras från den lokala verksamhetsenheten eller de lokala verksamhetsenheterna. Notera att en verksamhetsenhet kan ha flera SNI-koder. \r\n"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Företagsdatabasen (FDB) : Lokala verksamhetsenheter"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Verksamhetsenheten är en branschmässigt avgränsad del av en företagsenhet. Företagsenheter som är verksamma i flera branscher bör delas upp i flera verksamhetsenheter."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga verksamhetsenheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Verksamhetsenheter i Sverige, både verksamma och ej verksamma. Verksamhetsenheten (VE) är en branschmässigt avgränsad del av en företagsenhet. Företagsenheter med flera branscher kan delas upp i flera VE."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-11-26"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Verksamhetsenheter skapas av SCB och får ett unikt identitetsnummer i FDB när en juridisk enhet blir verksam."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Verksamhetsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Verksamhetsenheten sammanför delar av en företagsenhet som bidrar i utövandet av verksamhet på en fastställd SNI-nivå, ”bransch”. VE ska ge en uttömmande uppdelning av företagsenhet. VE ska vara en observationsenhet, och definieras av SCB i kontakt med uppgiftslämnarna. Företagsenhet är den grundläggande enheten i institutionell statistik. "
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Verksamhetsenheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Verksamhetsenheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Verksamhetsenheten (VE) är en branschmässigt avgränsad del av en företagsenhet. Företagsenheter med flera branscher kan delas upp i flera VE. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Företagsdatabasen (FDB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Register över samtliga svenska företag och organisationer som är registrerade för mervärdesskatt, som arbetsgivare eller som innehavare av firma."
+    }
+  ],
+  "id": "012866c47b8f4945d71ac3a12131fc2c5cfc30ad754ca2d70a5c03074ee072dd"
+}
