@@ -1,18 +1,19 @@
 {
-  "checked_at": "2026-11-21T10:39:11+00:00",
+  "checked_at": "2026-11-21T10:57:41+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 7108,
-    "documentation": 6791,
-    "nonempty_definition": 6791,
-    "nonempty_method": 6791,
-    "verified_domains": 7108,
-    "enumerated": 3459,
-    "not_enumerated": 3649,
+    "bindings": 8211,
+    "documentation": 7909,
+    "nonempty_definition": 7909,
+    "nonempty_method": 7909,
+    "verified_domains": 8188,
+    "enumerated": 4009,
+    "not_enumerated": 4179,
     "complete_groups": 31,
-    "groups_with_source_errors": 16,
+    "groups_with_source_errors": 18,
+    "documentation_only": 23,
     "groups": 51,
-    "unique_domains": 668
+    "unique_domains": 724
   },
   "integrity_errors": [],
   "groups": [
@@ -41,17 +42,18 @@
       ],
       "complete": false,
       "expected_bindings": 957,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "enumerated": 111,
-      "not_enumerated": 89,
-      "source_errors": 12,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 397,
+      "enumerated": 241,
+      "not_enumerated": 156,
+      "documentation_only": 3,
+      "source_errors": 3,
       "source_error_examples": [
-        "AGI1InstKod10 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}",
-        "AGI2InstKod10 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}"
+        "KU1AstSNI2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "KU2AstSNI2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -61,17 +63,18 @@
       ],
       "complete": false,
       "expected_bindings": 637,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 74,
-      "enumerated": 126,
-      "source_errors": 15,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 380,
+      "not_enumerated": 135,
+      "enumerated": 245,
+      "documentation_only": 20,
+      "source_errors": 20,
       "source_error_examples": [
         "KU1AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "KU1InstKod6 2000: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 1999', 'Vardemangdsniva': '6-siffrig kod  ', 'Vardekod': '110922', 'Vardebenamning': 'Icke-finansiella företag Övrigt ägande Partrederier', 'Kolumnnamn': None, 'Datatyp': None}"
+        "KU2AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -417,15 +420,18 @@
       ],
       "complete": false,
       "expected_bindings": 333,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "enumerated": 113,
-      "not_enumerated": 87,
-      "source_errors": 0,
-      "source_error_examples": []
+      "bindings": 318,
+      "documentation": 318,
+      "nonempty_definition": 318,
+      "nonempty_method": 318,
+      "verified_domains": 318,
+      "enumerated": 162,
+      "not_enumerated": 156,
+      "source_errors": 15,
+      "source_error_examples": [
+        "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
+      ]
     },
     {
       "id": "f1883ff97d5dd76aa9a3",
@@ -453,15 +459,18 @@
       ],
       "complete": false,
       "expected_bindings": 469,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 83,
-      "enumerated": 117,
-      "source_errors": 0,
-      "source_error_examples": []
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 400,
+      "not_enumerated": 175,
+      "enumerated": 225,
+      "source_errors": 6,
+      "source_error_examples": [
+        "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
+      ]
     },
     {
       "id": "706105d6a6b9f2bbf344",
@@ -633,12 +642,12 @@
       ],
       "complete": false,
       "expected_bindings": 778,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 200,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 400,
+      "not_enumerated": 400,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -671,13 +680,13 @@
       ],
       "complete": false,
       "expected_bindings": 411,
-      "bindings": 215,
-      "verified_domains": 215,
-      "enumerated": 174,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "not_enumerated": 41,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 400,
+      "enumerated": 318,
+      "not_enumerated": 82,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -960,15 +969,15 @@
       "documented_columns": 5
     },
     "fdb_ae": {
-      "documented_versions": 156,
+      "documented_versions": 212,
       "documented_columns": 11
     },
     "fdb_ae_ng": {
-      "documented_versions": 42,
+      "documented_versions": 73,
       "documented_columns": 3
     },
     "fdb_ae_ngs": {
-      "documented_versions": 42,
+      "documented_versions": 73,
       "documented_columns": 3
     },
     "fdb_ast": {
@@ -984,11 +993,11 @@
       "documented_columns": 3
     },
     "fdb_je": {
-      "documented_versions": 209,
+      "documented_versions": 376,
       "documented_columns": 23
     },
     "fdb_je_ng": {
-      "documented_versions": 24,
+      "documented_versions": 57,
       "documented_columns": 3
     },
     "fdb_lve": {
@@ -1084,7 +1093,7 @@
       "documented_columns": 5
     },
     "iot": {
-      "documented_versions": 239,
+      "documented_versions": 439,
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
@@ -1104,8 +1113,8 @@
       "documented_columns": 66
     },
     "lisa_individ": {
-      "documented_versions": 400,
-      "documented_columns": 139
+      "documented_versions": 800,
+      "documented_columns": 151
     },
     "moms": {
       "documented_versions": 291,
@@ -1124,11 +1133,11 @@
       "documented_columns": 3
     },
     "sfi_kursdelt_ht": {
-      "documented_versions": 200,
+      "documented_versions": 400,
       "documented_columns": 17
     },
     "sfi_kursdelt_vt": {
-      "documented_versions": 197,
+      "documented_versions": 397,
       "documented_columns": 17
     },
     "sivstock": {
