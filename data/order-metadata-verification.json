@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T14:39:50+00:00",
+  "checked_at": "2026-11-21T14:53:08+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 14318,
-    "documentation": 14318,
-    "nonempty_definition": 14318,
-    "nonempty_method": 14318,
-    "verified_domains": 14237,
-    "enumerated": 6772,
-    "not_enumerated": 7465,
-    "complete_groups": 41,
+    "bindings": 14659,
+    "documentation": 14659,
+    "nonempty_definition": 14659,
+    "nonempty_method": 14659,
+    "verified_domains": 14577,
+    "enumerated": 6868,
+    "not_enumerated": 7709,
+    "complete_groups": 42,
     "groups_with_source_errors": 9,
-    "documentation_only": 81,
+    "documentation_only": 82,
     "groups": 51,
-    "unique_domains": 998
+    "unique_domains": 1004
   },
   "integrity_errors": [],
   "groups": [
@@ -136,15 +136,15 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 1400,
-      "documentation": 1400,
-      "nonempty_definition": 1400,
-      "nonempty_method": 1400,
-      "verified_domains": 1394,
-      "not_enumerated": 708,
-      "enumerated": 686,
-      "documentation_only": 6,
-      "source_errors": 7,
+      "bindings": 1600,
+      "documentation": 1600,
+      "nonempty_definition": 1600,
+      "nonempty_method": 1600,
+      "verified_domains": 1593,
+      "not_enumerated": 816,
+      "enumerated": 777,
+      "documentation_only": 7,
+      "source_errors": 8,
       "source_error_examples": [
         "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
         "AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
@@ -720,15 +720,15 @@
       "views": [
         "lisa_ftg"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 1541,
-      "bindings": 1400,
-      "documentation": 1400,
-      "nonempty_definition": 1400,
-      "nonempty_method": 1400,
-      "verified_domains": 1400,
-      "not_enumerated": 1273,
-      "enumerated": 127,
+      "bindings": 1541,
+      "documentation": 1541,
+      "nonempty_definition": 1541,
+      "nonempty_method": 1541,
+      "verified_domains": 1541,
+      "not_enumerated": 1409,
+      "enumerated": 132,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -1107,7 +1107,7 @@
       "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 1400,
+      "documented_versions": 1541,
       "documented_columns": 68
     },
     "lisa_individ": {
@@ -1139,7 +1139,7 @@
       "documented_columns": 17
     },
     "sivstock": {
-      "documented_versions": 13,
+      "documented_versions": 15,
       "documented_columns": 2
     },
     "slutbetyg_ak9": {
@@ -1147,7 +1147,7 @@
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 1398,
+      "documented_versions": 1598,
       "documented_columns": 304
     },
     "uhv": {
