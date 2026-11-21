@@ -1,0 +1,87 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "6bc9ed1d4e419ad37519",
+  "register": "Longitudinell integrationsdatabas (LISA)",
+  "variant": "Indvider in- och utvandring",
+  "bindings": [
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Indvider in- och utvandring",
+      "column": "InvUtvManad",
+      "variable": "Månad",
+      "register_version": "In- och utvandrade",
+      "source_task_id": "915616516f1d30e7fda9d35f6de25c0517a76a13d334ac6bc26cc57780e76f19",
+      "id": "376fbfe2b95246a8032402b4912ca30eff11fa733a87f85fccb7319af1688c64",
+      "domain_id": "bee23a9b9561ddcaf489713175fa8b3da72986569c5fd0d7f454464d5dd2d2bf",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:18:44+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "in_utvandring_lisa",
+          "variabel": "InvUtvManad",
+          "ar_raw": null,
+          "kallrad": 3235,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Longitudinell integrationsdatabas (LISA)",
+      "variant": "Indvider in- och utvandring",
+      "column": "PostTyp",
+      "variable": "Posttyp",
+      "register_version": "In- och utvandrade",
+      "source_task_id": "2a6d2d35789a6ad46a24180299dfdba980b5f7385a7172f43d7f3622f7677802",
+      "id": "1dd644b6b9604abbbc26df436d0c392f316b914504c396154c9def00a3c1df98",
+      "domain_id": "630f7e2c6feccb0ad8fc9eca8f47e5962a9058c991ce69989588c30a6df02429",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:18:44+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "in_utvandring_lisa",
+          "variabel": "Posttyp",
+          "ar_raw": null,
+          "kallrad": 3237,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "In- eller utvandring ",
+      "level": "In- eller utvandring ",
+      "data_type": "varchar(3)",
+      "id": "630f7e2c6feccb0ad8fc9eca8f47e5962a9058c991ce69989588c30a6df02429",
+      "value_count": 2,
+      "path": "data/value-domain-values/630f7e2c6feccb0ad8fc9eca8f47e5962a9058c991ce69989588c30a6df02429.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "varchar(6)",
+      "id": "bee23a9b9561ddcaf489713175fa8b3da72986569c5fd0d7f454464d5dd2d2bf",
+      "value_count": 0,
+      "path": "data/value-domain-values/bee23a9b9561ddcaf489713175fa8b3da72986569c5fd0d7f454464d5dd2d2bf.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "6621c8b06eb894e972233a7c08b6a48c8d549e721c32b276192bd2becade6c22",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:18:44+00:00",
+    "task_count": 2,
+    "expected_bindings": 2,
+    "errors": []
+  }
+}
