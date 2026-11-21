@@ -1,0 +1,20 @@
+{
+  "version": "Del av kursen",
+  "level": "Validering",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Ingen validering"
+    },
+    {
+      "code": "1",
+      "label": "Del av kurs har validerats"
+    },
+    {
+      "code": "2",
+      "label": "Hela kursen har validerats"
+    }
+  ],
+  "id": "0824252f8376481121376ca2ce033ad47294ac10cce811d1d5366830d46c86cc"
+}

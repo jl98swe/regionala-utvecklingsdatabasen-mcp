@@ -1,0 +1,24 @@
+{
+  "version": "Prövning och validering i komvux fr.o.m. 2012",
+  "level": "Prövning och validering",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "",
+      "label": "Ej prövning eller validering"
+    },
+    {
+      "code": "1",
+      "label": "Prövning. Kursdeltagaren har gjort en prövning på kursen och därefter fått ett betyg. Kursdeltagaren har inte deltagit i undervisningen."
+    },
+    {
+      "code": "2",
+      "label": "Prövning efter validering. Kursdeltagarens kompetens har validerats och därefter har prövning gjorts. Kursdeltagaren har inte deltagit i undervisningen."
+    },
+    {
+      "code": "3",
+      "label": "Validering. Kursdeltagarens kompetens har validerats. Ingen prövning har gjorts. Intyg kan ha givits."
+    }
+  ],
+  "id": "3d5a86a02d07608f58315b39f019979165a5e1a7e70c16389f505797c0abaa08"
+}
