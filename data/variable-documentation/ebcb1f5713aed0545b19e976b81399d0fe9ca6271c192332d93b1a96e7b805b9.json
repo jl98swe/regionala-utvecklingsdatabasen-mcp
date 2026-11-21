@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(12)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Disponibel inkomst/levnadsnivå, fader"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Disponibel inkomst i förhållande till skälig levnadsnivå, för individens fader. Skälig levnadsnivå beräknas utifrån en riksnorm för varje år."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Anges i procent. T.ex. 134% betyder att familjen har en disponibel inkomst som är 34% högre än den skäliga levnadsnivå som gäller för den familjens storlek och sammansättning. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd utifrån Inkomst- och taxeringsregistret.\r\nSkapas utifrån familjens disponibla inkomst med hänsyn tagen till hyra och aktuellt års basbelopp. Variabeln visar uppgift för individens biologiska far eller individens adoptivfar vid adoption. Om det finns en adoptivfar väljs denna i första hand\r\n"
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "Förälder 31/12"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Procent"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 1999."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1999-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "ebcb1f5713aed0545b19e976b81399d0fe9ca6271c192332d93b1a96e7b805b9"
+}
