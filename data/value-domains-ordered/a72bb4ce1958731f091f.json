@@ -14829,11 +14829,11 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
-    "passes": 4,
+    "passes": 5,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "36623cc3c3df35c4abde07c64206853296f56516b0e98f62a12c66285ef278fa",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T12:43:07+00:00",
+    "retrieved_at": "2026-11-21T13:32:22+00:00",
     "task_count": 23,
     "expected_bindings": 501,
     "documented_bindings": 501,
@@ -14848,6 +14848,6 @@
       "Ast_Sni2002 2003: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
       "Ast_Sni2002 2002: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
     ],
-    "stalled_passes": 0
+    "stalled_passes": 1
   }
 }
