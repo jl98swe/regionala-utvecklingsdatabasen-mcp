@@ -747,7 +747,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6d5f21489c9684fa0c068238e216e3205bba0d10e104a05be3ce1611f44f81af",
+        "path": "data/variable-documentation/6d5f21489c9684fa0c068238e216e3205bba0d10e104a05be3ce1611f44f81af.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -1460,7 +1465,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c3e9fd6755ddbcf4de1fbea67bf518aa8126b5c9316e269608a4e949809e74a9",
+        "path": "data/variable-documentation/c3e9fd6755ddbcf4de1fbea67bf518aa8126b5c9316e269608a4e949809e74a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -1739,7 +1749,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5ea0855bae3c3ebccd7f9d9a61b69c0ca371ac7b9b8b48e3a6c237c4415b66ae",
+        "path": "data/variable-documentation/5ea0855bae3c3ebccd7f9d9a61b69c0ca371ac7b9b8b48e3a6c237c4415b66ae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -2452,7 +2467,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "005f43168ca48862446509f930fe579a9495f141af0d4d0004f1e1921d4f28b6",
+        "path": "data/variable-documentation/005f43168ca48862446509f930fe579a9495f141af0d4d0004f1e1921d4f28b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -3165,7 +3185,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9a5b15fb2eb1f51eacf451b98114acb85f12aa3383d673f66fb20d6a310b07a5",
+        "path": "data/variable-documentation/9a5b15fb2eb1f51eacf451b98114acb85f12aa3383d673f66fb20d6a310b07a5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -3289,7 +3314,12 @@
           "method": "exact"
         }
       ],
-      "order_years_unknown": false
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f511293f3639bf84eeec747a1eb1ab6a8b4b641b9a9aa6636787e199f4890248",
+        "path": "data/variable-documentation/f511293f3639bf84eeec747a1eb1ab6a8b4b641b9a9aa6636787e199f4890248.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T08:52:35+00:00"
     },
     {
       "register": "Komvux",
@@ -6571,14 +6601,74 @@
   ],
   "coverage": {
     "complete": false,
-    "collector_sha256": "1b06d8f4e8b92e70de3ed8798abd5fd350e5f4e0c9b29b52fabb2fd1f659ed99",
-    "passes": 1,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "d8e7bb787c25f12f20752f49f5d18bfb78c7968c7ab228703cba8bd57ff85b5a",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:34:19+00:00",
+    "retrieved_at": "2026-11-21T08:52:35+00:00",
     "task_count": 13,
     "expected_bindings": 307,
-    "errors": []
+    "documented_bindings": 6,
+    "errors": [
+      "ProVal 2019: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"ProVal\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Komvux\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Kursdeltagare\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Prövning och validering\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2010\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2019 vårterminen\", exact=True))\n    6 × locator resolved to 0 elements\n      - unexpected value \"0\"\n    - waiting for\" https://mikrometadata.scb.se/\" navigation to finish...\n    - navigated to \"https://mikrometadata.scb.se/\"\n    57 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
+      "Provn 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "SkolKommun 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "TPoang 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "UtbAnord 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Valid 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Yrkespaketkod 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Avb 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Betyg 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ForLaggn 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Hman 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Niva 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Nyelev 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ProVal 2018: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Provn 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "SkolKommun 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "TPoang 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "UtbAnord 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Valid 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Yrkespaketkod 2023: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Avb 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Betyg 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ForLaggn 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Hman 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Niva 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Nyelev 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ProVal 2017: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Provn 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "SkolKommun 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "TPoang 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "UtbAnord 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Valid 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Yrkespaketkod 2022: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Avb 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Betyg 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ForLaggn 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Hman 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Niva 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Nyelev 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ProVal 2016: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Provn 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "SkolKommun 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "TPoang 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "UtbAnord 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Valid 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Yrkespaketkod 2021: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Avb 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Betyg 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ForLaggn 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Hman 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Niva 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "ProVal 2015: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Provn 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "SkolKommun 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "TPoang 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "UtbAnord 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Valid 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n",
+      "Yrkespaketkod 2020: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n"
+    ]
   }
 }
