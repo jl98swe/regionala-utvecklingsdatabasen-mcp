@@ -8386,15 +8386,16 @@
   ],
   "coverage": {
     "complete": true,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 3,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 4,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "cc813ee1e8f67c850ef16f470b8d6bf19d3beb5039e4e907722f41615afa413e",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T10:23:39+00:00",
+    "retrieved_at": "2026-11-21T12:12:16+00:00",
     "task_count": 59,
     "expected_bindings": 280,
     "documented_bindings": 280,
-    "errors": []
+    "errors": [],
+    "stalled_passes": 1
   }
 }
