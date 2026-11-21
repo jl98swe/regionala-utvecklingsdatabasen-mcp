@@ -1,0 +1,78 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Sysselsatt utifrån inkomst från annat nordiskt land"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Personen har fått status som sysselsatt efter hänsyn tagits till inkomst från annat nordiskt land."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Personen har någon gång under det år som infaller två år tidigare än referensåret fått utbetalning, motsvarande ersättning för arbete som är underlag för arbetsgivaravgift enligt AGI, från arbetsgivare i Danmark, Finland, Island eller Norge. Detta enligt uppgifter som Skatteverket har erhållit från dessa länders skattemyndigheter. \r\n\r\nEndast personer som inte klassificerats som arbetslös, studerande, pensionär eller sjuk under referensmånaden blir sysselsatt utifrån inkomst från annat nordiskt land. "
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2020."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31 - 2020-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB)."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Preliminära månadsuppgifter: första redovisningen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Prel. månadsuppg: första redovisningen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "De preliminära uppgifterna för perioden januari 2020 till februari 2026 har reviderats. I denna variant redovisas de uppgifter som låg till grund för den statistik som redovisades vid det första publiceringstillfället. Syftet med att ta fram preliminära register är att möjliggöra en så snabb redovisning som möjligt av statistik om arbetsmarknadsstatus efter referensmånaden."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    }
+  ],
+  "id": "7df4ee6884ba3712fd63d55aabe60e67d0ead59cc5171bc0531246a2f2196d4b"
+}

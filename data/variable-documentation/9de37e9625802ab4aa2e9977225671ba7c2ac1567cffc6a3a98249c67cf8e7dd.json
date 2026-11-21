@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Rehabiliteringsersättning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Den som deltar i en arbetslivsinriktad rehabilitering har rätt till rehabiliteringsersättning. Med arbetslivsinriktad rehabilitering menas åtgärder som behövs för att man ska kunna få eller behålla ett arbete. \r\n"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "\r\n"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Försäkringskassan"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Variabeln är en känslig personuppgift enligt dataskyddsförordningen, för att få behandla en sådan uppgift måste det finnas stöd för behandlingen."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2020."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31 - 2020-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB)."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Preliminära månadsuppgifter: första redovisningen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Prel. månadsuppg: första redovisningen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "De preliminära uppgifterna för perioden januari 2020 till februari 2026 har reviderats. I denna variant redovisas de uppgifter som låg till grund för den statistik som redovisades vid det första publiceringstillfället. Syftet med att ta fram preliminära register är att möjliggöra en så snabb redovisning som möjligt av statistik om arbetsmarknadsstatus efter referensmånaden."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    }
+  ],
+  "id": "9de37e9625802ab4aa2e9977225671ba7c2ac1567cffc6a3a98249c67cf8e7dd"
+}

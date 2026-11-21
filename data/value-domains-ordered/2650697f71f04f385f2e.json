@@ -10,6 +10,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "Agkat",
       "variable": "Ägarkontroll",
+      "register_version": "2020",
+      "source_task_id": "3f15c2e3304cf68c75daebded00ad3d777deddb76be9591e48deaa532d530132",
+      "id": "84d6fd8af12f6dc177dbe2741efea043bd3a624bbc51207e297cb283e2b098f0",
+      "domain_id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Agkat",
+          "ar_raw": "202001-202512",
+          "kallrad": 76,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b2da67c72799368f82edef608b8360712f46bfbae3fb3ab11ece0fd544a26fd7",
+        "path": "data/variable-documentation/b2da67c72799368f82edef608b8360712f46bfbae3fb3ab11ece0fd544a26fd7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Agkat",
+      "variable": "Ägarkontroll",
+      "register_version": "2021",
+      "source_task_id": "3f15c2e3304cf68c75daebded00ad3d777deddb76be9591e48deaa532d530132",
+      "id": "b21cde1675e4765b05764a55c62fc796701bc84600bbe961664ab747076a1acb",
+      "domain_id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Agkat",
+          "ar_raw": "202001-202512",
+          "kallrad": 76,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7344ee45fa011c3b4c41d47e9325175537c4e40cc5b981cfad0754ab4add468f",
+        "path": "data/variable-documentation/7344ee45fa011c3b4c41d47e9325175537c4e40cc5b981cfad0754ab4add468f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Agkat",
+      "variable": "Ägarkontroll",
       "register_version": "2022",
       "source_task_id": "3f15c2e3304cf68c75daebded00ad3d777deddb76be9591e48deaa532d530132",
       "id": "4d5e45d5f02ef39d327ef25cbc429f8e14bc3850afd3a51c9177f590c9d3140c",
@@ -120,6 +178,64 @@
         "path": "data/variable-documentation/dcbbd55d98cd5a7a26708075c8aa86784a9772c8255b75965cfe9e4bde9ccadd.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla1",
+      "variable": "Andel av inkomsten som är föranledd av arbete",
+      "register_version": "2020",
+      "source_task_id": "7bc93e3767da14b16fa7d3a83260df903d84ec250bdfdce60997095644dc2006",
+      "id": "be7e86609d1050c6f61ff8b988e6a1c38b75ccb7cb86b5fdfff7856a23274ade",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla1",
+          "ar_raw": "202001-202512",
+          "kallrad": 77,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "55cf06d96c3ee5ad4a06658464fbf542c8b43f36934303ac3aa4bebd09f25d41",
+        "path": "data/variable-documentation/55cf06d96c3ee5ad4a06658464fbf542c8b43f36934303ac3aa4bebd09f25d41.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla1",
+      "variable": "Andel av inkomsten som är föranledd av arbete",
+      "register_version": "2021",
+      "source_task_id": "7bc93e3767da14b16fa7d3a83260df903d84ec250bdfdce60997095644dc2006",
+      "id": "92c55d64b0c01e2b3ec438f4bc6827e73f69095dc0e7349e7ae3da021720b95d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla1",
+          "ar_raw": "202001-202512",
+          "kallrad": 77,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9e7e2bf3a411abf8446d35750ac3d105ce6d4a6cab0c55976ef1398026dd3841",
+        "path": "data/variable-documentation/9e7e2bf3a411abf8446d35750ac3d105ce6d4a6cab0c55976ef1398026dd3841.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -242,6 +358,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "AndelInkKalla2",
       "variable": "Andel av inkomsten som är föranledd av arbetslöshet",
+      "register_version": "2020",
+      "source_task_id": "42195980324ee0ab3dc77acfc6ae7d472de49aa0ef735e0a1f3e992de3913954",
+      "id": "15b5cb2020bf40ca64464283393899efc845cb6b9c4a1fd98648b4591f0bf513",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla2",
+          "ar_raw": "202001-202512",
+          "kallrad": 78,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1de56fc23eada9196985f7c660e0721b500fb11a669f15c9552be58837e30af",
+        "path": "data/variable-documentation/b1de56fc23eada9196985f7c660e0721b500fb11a669f15c9552be58837e30af.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla2",
+      "variable": "Andel av inkomsten som är föranledd av arbetslöshet",
+      "register_version": "2021",
+      "source_task_id": "42195980324ee0ab3dc77acfc6ae7d472de49aa0ef735e0a1f3e992de3913954",
+      "id": "c9cc11c40a2aa8e5d3593de9a160df3df470c0772a04c25349453976910ec4fe",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla2",
+          "ar_raw": "202001-202512",
+          "kallrad": 78,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4df4c24766e451aff36f3f8980a291222f7e586591c50b1e24bc4800abe34b66",
+        "path": "data/variable-documentation/4df4c24766e451aff36f3f8980a291222f7e586591c50b1e24bc4800abe34b66.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla2",
+      "variable": "Andel av inkomsten som är föranledd av arbetslöshet",
       "register_version": "2022",
       "source_task_id": "42195980324ee0ab3dc77acfc6ae7d472de49aa0ef735e0a1f3e992de3913954",
       "id": "5ae653a0560236216de52effbb08b77ec1a606e5b787e3d0e6fad2eacee1fc34",
@@ -352,6 +526,64 @@
         "path": "data/variable-documentation/49de12ecfca13072ee6b9e5a9fba17da03bd8794e2506934f661d473a0ad0538.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla3",
+      "variable": "Andel av inkomsten som är föranledd av studier",
+      "register_version": "2020",
+      "source_task_id": "1dfd8a9fec076c7090620463ae8129f3f6d6508912b6bdb5584c514c94a8879b",
+      "id": "e501613e08fa420304b7459759a7d3808e5dfc68029ddb9fa7554e7f861a5897",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla3",
+          "ar_raw": "202001-202512",
+          "kallrad": 79,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1b0d3cbb6eeb1fb8ea63d9cd3a14267d3bdcee1ba32feed6ea7d0655d506fb65",
+        "path": "data/variable-documentation/1b0d3cbb6eeb1fb8ea63d9cd3a14267d3bdcee1ba32feed6ea7d0655d506fb65.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla3",
+      "variable": "Andel av inkomsten som är föranledd av studier",
+      "register_version": "2021",
+      "source_task_id": "1dfd8a9fec076c7090620463ae8129f3f6d6508912b6bdb5584c514c94a8879b",
+      "id": "e4e962733916f88563ce47cec546642855174a92090fdb47122d8d8a7eef5807",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla3",
+          "ar_raw": "202001-202512",
+          "kallrad": 79,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf0980a673ed0b1cdaef0f2c15c3f7b857f29efab0b3d069b19a9d6243f71b1f",
+        "path": "data/variable-documentation/cf0980a673ed0b1cdaef0f2c15c3f7b857f29efab0b3d069b19a9d6243f71b1f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -474,6 +706,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "AndelInkKalla4",
       "variable": "Andel av inkomsten som är föranledd av pension",
+      "register_version": "2020",
+      "source_task_id": "5f49ba9eb6480d81c04714f8397833f9c74c55602724300c0113a7114ed3811d",
+      "id": "71dfafe0d3f5f2bdd7acac34c57fbedc2e1923092dd0a9849f1676b1cf287f4d",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla4",
+          "ar_raw": "202001-202512",
+          "kallrad": 80,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e508089883e1e30a05c6971c4dd11ef437fdd608c2a1cf365813e567f1fcb4c9",
+        "path": "data/variable-documentation/e508089883e1e30a05c6971c4dd11ef437fdd608c2a1cf365813e567f1fcb4c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla4",
+      "variable": "Andel av inkomsten som är föranledd av pension",
+      "register_version": "2021",
+      "source_task_id": "5f49ba9eb6480d81c04714f8397833f9c74c55602724300c0113a7114ed3811d",
+      "id": "e4bd40238f95c783f0d69ec81b62b1435b0cffc94b5df39e36922f67493ff4db",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla4",
+          "ar_raw": "202001-202512",
+          "kallrad": 80,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4486198f2c58946d221ed8b1dcad128fc73b4f824a2becf3ddde4c2e60c35bc",
+        "path": "data/variable-documentation/d4486198f2c58946d221ed8b1dcad128fc73b4f824a2becf3ddde4c2e60c35bc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla4",
+      "variable": "Andel av inkomsten som är föranledd av pension",
       "register_version": "2022",
       "source_task_id": "5f49ba9eb6480d81c04714f8397833f9c74c55602724300c0113a7114ed3811d",
       "id": "ca5b6bf2d64b9a54e33abf8d09679b0166dc0d601d8f14db0f87d520fe2e7638",
@@ -584,6 +874,64 @@
         "path": "data/variable-documentation/916711b1af48719b4bd5edebdd5bf043f4bef8bac54fdcd88b4d956eabcba3bb.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla5",
+      "variable": "Andel av inkomsten som är föranledd av långvarigt nedsatt arbetsförmåga",
+      "register_version": "2020",
+      "source_task_id": "6582c73ec4a570d5a069308e1720d218e25d281e62b843c9901a8109775c7fad",
+      "id": "fb827ba235cddc8884ee0dbe08913b1a3b55a1bfc3cda69a377f2499b9a2bc35",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla5",
+          "ar_raw": "202001-202512",
+          "kallrad": 81,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cff244534af4a026d1fcd90fa6b7ad54d1329bf94bbb1746d93c8ddecb714fe3",
+        "path": "data/variable-documentation/cff244534af4a026d1fcd90fa6b7ad54d1329bf94bbb1746d93c8ddecb714fe3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla5",
+      "variable": "Andel av inkomsten som är föranledd av långvarigt nedsatt arbetsförmåga",
+      "register_version": "2021",
+      "source_task_id": "6582c73ec4a570d5a069308e1720d218e25d281e62b843c9901a8109775c7fad",
+      "id": "0f02076f07649049b899dffd2a061bb845c4f0b8e4670bbed67b41c14ffc3c32",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla5",
+          "ar_raw": "202001-202512",
+          "kallrad": 81,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e8de9afa4f5f250bf0a7e1146d4b780733f6104cebdfcc94accaccedff6f3b5",
+        "path": "data/variable-documentation/6e8de9afa4f5f250bf0a7e1146d4b780733f6104cebdfcc94accaccedff6f3b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -706,6 +1054,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "AndelInkKalla6",
       "variable": "Andel av inkomsten som är föranledd av sjukdom",
+      "register_version": "2020",
+      "source_task_id": "2dc7a0f5bd412cfaf44c24d5f8ec97110a8065b3bc5a1fe85fa53bfc4a33354f",
+      "id": "7c09004ce645480975d41c1127f1910f6898171e03ca72e01b9e42d04ee5108e",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla6",
+          "ar_raw": "202001-202512",
+          "kallrad": 82,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ae4337631fd932411316a10f2487c2ee308605f044b7c4a1018a56f219e0a005",
+        "path": "data/variable-documentation/ae4337631fd932411316a10f2487c2ee308605f044b7c4a1018a56f219e0a005.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla6",
+      "variable": "Andel av inkomsten som är föranledd av sjukdom",
+      "register_version": "2021",
+      "source_task_id": "2dc7a0f5bd412cfaf44c24d5f8ec97110a8065b3bc5a1fe85fa53bfc4a33354f",
+      "id": "c1d9c3548ef3235b49c5587003b20eb5a13be505e54dd9ecbfc8abb68785780a",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla6",
+          "ar_raw": "202001-202512",
+          "kallrad": 82,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0b3f1093e13c5e339f9ff085db20ed888e1627d6c9ceeeb3dd3b83d14387efe9",
+        "path": "data/variable-documentation/0b3f1093e13c5e339f9ff085db20ed888e1627d6c9ceeeb3dd3b83d14387efe9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla6",
+      "variable": "Andel av inkomsten som är föranledd av sjukdom",
       "register_version": "2022",
       "source_task_id": "2dc7a0f5bd412cfaf44c24d5f8ec97110a8065b3bc5a1fe85fa53bfc4a33354f",
       "id": "cf5ceeff24ad356c52a64300cd22a4c42ccda8ef17e05384d4ce884df1b882fc",
@@ -816,6 +1222,64 @@
         "path": "data/variable-documentation/d2a75811d23cabf8b25ce3608132fef573b8edfdb93ed61abc358b37d7a75791.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla7",
+      "variable": "Andel av inkomsten som är föranledd av föräldraledighet eller omvårdnad av närstående",
+      "register_version": "2020",
+      "source_task_id": "3681390cc3a452c10554b487e0767b4ae353459585fa9ffa6b1d6d8a5cf36950",
+      "id": "a1ec2fc396680006c46d80f917104e8b42280a58ab0f10b90a952d697bdc870b",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla7",
+          "ar_raw": "202001-202512",
+          "kallrad": 83,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d17980c7a18532014efb9af322cc853a97098630f157a868f3c5ee41810eb65",
+        "path": "data/variable-documentation/7d17980c7a18532014efb9af322cc853a97098630f157a868f3c5ee41810eb65.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla7",
+      "variable": "Andel av inkomsten som är föranledd av föräldraledighet eller omvårdnad av närstående",
+      "register_version": "2021",
+      "source_task_id": "3681390cc3a452c10554b487e0767b4ae353459585fa9ffa6b1d6d8a5cf36950",
+      "id": "9188cf7518bf913a35ab7ecf1d4c237041346952f04cc0a3e040ed8e2979ebcb",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla7",
+          "ar_raw": "202001-202512",
+          "kallrad": 83,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9417164d446f2fa63ffacbbf563234aac2cfe1014668b41af2ac530bbd254834",
+        "path": "data/variable-documentation/9417164d446f2fa63ffacbbf563234aac2cfe1014668b41af2ac530bbd254834.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -938,6 +1402,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "AndelInkKalla8",
       "variable": "Andel av inkomsten som är föranledd av ekonomiskt stöd",
+      "register_version": "2020",
+      "source_task_id": "de95c95af12845ad1006bc66ac96d31038171d9adc0fe9ed4af2917394001859",
+      "id": "e4328c49dc3a0d1baf876025cb52a7e719580655464122a4245d6d47e3a28047",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla8",
+          "ar_raw": "202001-202512",
+          "kallrad": 84,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "98bda2cc22f2889f8e88980f904abaea319ecab79a7fc1782a13661ba8cf8a2b",
+        "path": "data/variable-documentation/98bda2cc22f2889f8e88980f904abaea319ecab79a7fc1782a13661ba8cf8a2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla8",
+      "variable": "Andel av inkomsten som är föranledd av ekonomiskt stöd",
+      "register_version": "2021",
+      "source_task_id": "de95c95af12845ad1006bc66ac96d31038171d9adc0fe9ed4af2917394001859",
+      "id": "c61092453ec32fbf57909dcd46900c14a9685f983b04aee1b5e1d4dca70a41f8",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AndelInkKalla8",
+          "ar_raw": "202001-202512",
+          "kallrad": 84,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e2b0a8ee7aee79019e08fe1007e300db9e927bd2f82b88a58d42887442a768bc",
+        "path": "data/variable-documentation/e2b0a8ee7aee79019e08fe1007e300db9e927bd2f82b88a58d42887442a768bc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AndelInkKalla8",
+      "variable": "Andel av inkomsten som är föranledd av ekonomiskt stöd",
       "register_version": "2022",
       "source_task_id": "de95c95af12845ad1006bc66ac96d31038171d9adc0fe9ed4af2917394001859",
       "id": "80712ab4baac651ca9ae75946b7d039005aee043e72a2edc5fab17830d66b768",
@@ -1048,6 +1570,64 @@
         "path": "data/variable-documentation/7f8af9a546df59e1809e150aba52f6aa63e8a01c74ae72ab91503c854041e499.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstKommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2020",
+      "source_task_id": "057bf86dabfe12a0c82de5aef78442e58a6fba6c60f018cf0580e89c8406ba04",
+      "id": "675e59a0e6153f16afb0a5d2841713ccd4317189ad4a21bb6fad065033ae8efa",
+      "domain_id": "428a00cd2937292e1c5d9fa6e6820841d2032795e839163d199dcd253d115456",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstKommun",
+          "ar_raw": "202001-202512",
+          "kallrad": 85,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7f498c683789f99d3cdb5808be927135c4f098958fc403b4b610bf5c629fc556",
+        "path": "data/variable-documentation/7f498c683789f99d3cdb5808be927135c4f098958fc403b4b610bf5c629fc556.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstKommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2021",
+      "source_task_id": "057bf86dabfe12a0c82de5aef78442e58a6fba6c60f018cf0580e89c8406ba04",
+      "id": "e10a0aeb92ce54f05bb1947ddd5f1d6c920435777cd98c87caf68040560fe24a",
+      "domain_id": "03e31b46506d3d5cb3b4b5ec2f0984088f623f368b224fb5b1f6fe3a9223e714",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstKommun",
+          "ar_raw": "202001-202512",
+          "kallrad": 85,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "48a12db8b93ba23ca44220a693ebf9b5071304edf16f8e6c1ea03d19ced5f7eb",
+        "path": "data/variable-documentation/48a12db8b93ba23ca44220a693ebf9b5071304edf16f8e6c1ea03d19ced5f7eb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -1170,6 +1750,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "AstNgS07",
       "variable": "Näringsgren för arbetsställe",
+      "register_version": "2020",
+      "source_task_id": "050879641fabef37b81e739d455bbd2708fc611258c964a6ee734c1706c34422",
+      "id": "345ce41fc5e616bfa99b1ca7b969c2480d619d4424e4e8006d1ea3b9208d4222",
+      "domain_id": "18c7363ff81c5933c7b7f5ac62c351c72a37570e1562518a2b564c7bf754fbc8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNgS07",
+          "ar_raw": "202001-202512",
+          "kallrad": 86,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1c2e9801f638ee5bb4390d89c6419cf70cab6a802faa84ec596407a3af0c2b5a",
+        "path": "data/variable-documentation/1c2e9801f638ee5bb4390d89c6419cf70cab6a802faa84ec596407a3af0c2b5a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNgS07",
+      "variable": "Näringsgren för arbetsställe",
+      "register_version": "2021",
+      "source_task_id": "050879641fabef37b81e739d455bbd2708fc611258c964a6ee734c1706c34422",
+      "id": "23d184468efe5e22c78943458b2d76be3728260174e7febc6a2044f29069e995",
+      "domain_id": "18c7363ff81c5933c7b7f5ac62c351c72a37570e1562518a2b564c7bf754fbc8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNgS07",
+          "ar_raw": "202001-202512",
+          "kallrad": 86,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ab4cf0f9b25da17e801a69f5c4072391c58e03b99c666816e7a2f152c051019e",
+        "path": "data/variable-documentation/ab4cf0f9b25da17e801a69f5c4072391c58e03b99c666816e7a2f152c051019e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNgS07",
+      "variable": "Näringsgren för arbetsställe",
       "register_version": "2022",
       "source_task_id": "050879641fabef37b81e739d455bbd2708fc611258c964a6ee734c1706c34422",
       "id": "0dae80080bd3fc0d098efd876f79ef38a44cc31a03193794373c91d3e91654eb",
@@ -1280,6 +1918,64 @@
         "path": "data/variable-documentation/489b8e536cf981ec38f64624f7510c0851245479194dd30acafde9b546036d34.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNr",
+      "variable": "Arbetsställenummer",
+      "register_version": "2020",
+      "source_task_id": "43ef7f4ee8c63bee784bb778d97f580b0ec386a55350d12a30919b9340925113",
+      "id": "99ba16a9e44f8678af79ef5dec3cbaca9cbf3ae430368983d086699f3dbccb2d",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNr",
+          "ar_raw": "202001-202512",
+          "kallrad": 87,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "10fd6345843c765f35949e8301dcc81ab2d7db5682f12247adcdeb29bb0ed4f8",
+        "path": "data/variable-documentation/10fd6345843c765f35949e8301dcc81ab2d7db5682f12247adcdeb29bb0ed4f8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "AstNr",
+      "variable": "Arbetsställenummer",
+      "register_version": "2021",
+      "source_task_id": "43ef7f4ee8c63bee784bb778d97f580b0ec386a55350d12a30919b9340925113",
+      "id": "d2494cb33fe5cca3d1146dc8e214fc919fe04c366ac82451cfcb446616ea84b3",
+      "domain_id": "5584bace38306878fd02ca6bf76ee43699e53cdae79a8b3a2338ad248b801e30",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "AstNr",
+          "ar_raw": "202001-202512",
+          "kallrad": 87,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7a9a4f1ef3e85b973bc1f438783be9f59685981e8a096632b0a7eccddb0af92c",
+        "path": "data/variable-documentation/7a9a4f1ef3e85b973bc1f438783be9f59685981e8a096632b0a7eccddb0af92c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -1402,6 +2098,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BAS",
       "variable": "Arbetsmarknadsstatus",
+      "register_version": "2020",
+      "source_task_id": "e811d9302953fb8f4e3789f74144752d787ad52dc2ec48d75bc350b52800fa1a",
+      "id": "858d8458e2c22ee677a1436a307c49665989bee38657f398a0e88fbc7a2b63a4",
+      "domain_id": "6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BAS",
+          "ar_raw": "202001-202512",
+          "kallrad": 88,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "be80c68a8dac4ca5d7d559a87ad02614dcdbdd736d9d07a6f1d9feb36c987c54",
+        "path": "data/variable-documentation/be80c68a8dac4ca5d7d559a87ad02614dcdbdd736d9d07a6f1d9feb36c987c54.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BAS",
+      "variable": "Arbetsmarknadsstatus",
+      "register_version": "2021",
+      "source_task_id": "e811d9302953fb8f4e3789f74144752d787ad52dc2ec48d75bc350b52800fa1a",
+      "id": "ea6e0641dba1d4f35ba06b776d45bbd1b6baf67841866be38212b2300db81079",
+      "domain_id": "6991380be1f1758e5a0b7be5b81bc466e7dd21d1a0c430c1e1f854d206f0a935",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BAS",
+          "ar_raw": "202001-202512",
+          "kallrad": 88,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01c511d875f92ba5470038474a37a7f291179193414c89e4262bc24b3d0c3fea",
+        "path": "data/variable-documentation/01c511d875f92ba5470038474a37a7f291179193414c89e4262bc24b3d0c3fea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BAS",
+      "variable": "Arbetsmarknadsstatus",
       "register_version": "2022",
       "source_task_id": "e811d9302953fb8f4e3789f74144752d787ad52dc2ec48d75bc350b52800fa1a",
       "id": "0e61ea1f0c285dd5014874c24189eb46c62f0c5466cad27a5047602b39fc0b83",
@@ -1512,6 +2266,64 @@
         "path": "data/variable-documentation/d8dd22a2bafd5967e4c608e366a27072ff615723fe523dafb401fb29eba07b3b.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BASAlt",
+      "variable": "Arbetsmarknadsstatus",
+      "register_version": "2020",
+      "source_task_id": "a9575bf12fcb9db92ef8e83ecd1c791600e010fcad0fcbe24b82c304a1ebbb6e",
+      "id": "3e3aa45bde2d605b28c5295e8e3a98bb315b750768122fd9c2ccc7855d1ad640",
+      "domain_id": "e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BASAlt",
+          "ar_raw": "202001-202512",
+          "kallrad": 89,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e16d32b4798f632f2ee458a8a69ecd155facf3887688274275950837a71439c5",
+        "path": "data/variable-documentation/e16d32b4798f632f2ee458a8a69ecd155facf3887688274275950837a71439c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BASAlt",
+      "variable": "Arbetsmarknadsstatus",
+      "register_version": "2021",
+      "source_task_id": "a9575bf12fcb9db92ef8e83ecd1c791600e010fcad0fcbe24b82c304a1ebbb6e",
+      "id": "588a52ea8ba28080a9415e72c5bd55e929a9357a59d638dffc22d5768192872d",
+      "domain_id": "e57811e7bc52cf8bb1ac76bcaa19993cb019e1e48b828fb8ac020f2c81febe23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BASAlt",
+          "ar_raw": "202001-202512",
+          "kallrad": 89,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c2885868d2f8e1b75864a07a50c191f5bd2a7b0f2886be5950e4af72314724f",
+        "path": "data/variable-documentation/9c2885868d2f8e1b75864a07a50c191f5bd2a7b0f2886be5950e4af72314724f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -1634,6 +2446,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BAlosStat",
       "variable": "Klassificerad som arbetslös",
+      "register_version": "2020",
+      "source_task_id": "be94219fff96bd3a6e671de29490db05b8395d9397138d66df3c277f0e6a75be",
+      "id": "a5aae21bc9dd82fb78845422b5a5f3fd41ad15707fd4eb4ce6f3327a596ef1bf",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BAlosStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 90,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97405f39026099624a7b02ec73a385b1472e861c2a650f623b85161ec134520c",
+        "path": "data/variable-documentation/97405f39026099624a7b02ec73a385b1472e861c2a650f623b85161ec134520c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BAlosStat",
+      "variable": "Klassificerad som arbetslös",
+      "register_version": "2021",
+      "source_task_id": "be94219fff96bd3a6e671de29490db05b8395d9397138d66df3c277f0e6a75be",
+      "id": "067d5faac4b25e1c28046e5576cd49d2015aacb6a9f347ff39da42f375c5a5e7",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BAlosStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 90,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6ea5e1f5d96378951108da9587688436d5f24eb084c0bcf32c7f2e8fdec37914",
+        "path": "data/variable-documentation/6ea5e1f5d96378951108da9587688436d5f24eb084c0bcf32c7f2e8fdec37914.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BAlosStat",
+      "variable": "Klassificerad som arbetslös",
       "register_version": "2022",
       "source_task_id": "be94219fff96bd3a6e671de29490db05b8395d9397138d66df3c277f0e6a75be",
       "id": "30e1b757f6b1342fa5cf9b9a0edf7fff95f72a977a8c22f33ae0a21169dcae12",
@@ -1744,6 +2614,35 @@
         "path": "data/variable-documentation/5a11cdd287dee93562d2ae53edc0c50a54f37ff00e7a0d8ae67c21810dd833ce.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BImpAstNr",
+      "variable": "Justering av angivet arbetsställenummer från AGI",
+      "register_version": "2020",
+      "source_task_id": "322b3087d0b643cb84c27ba608c9a80b35fd39f415ba1a098deacf91da910f26",
+      "id": "f1d4bc225694da69f56ec21d8e524e6be04335660cacbc76c7a31e2d21a5fee9",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BImpAstNr",
+          "ar_raw": "202001-202412",
+          "kallrad": 91,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "200a7329e0a6bf56049e9e06be70c31771e4c8142850d1a25d8f50145d228d07",
+        "path": "data/variable-documentation/200a7329e0a6bf56049e9e06be70c31771e4c8142850d1a25d8f50145d228d07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -1866,6 +2765,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BLonGar",
       "variable": "Markering av erhållen lönegaranti",
+      "register_version": "2020",
+      "source_task_id": "dc83f35f0418e8f2b5d3b7ba1d1f950d51ab03a27b1ac755c6eee7b5c338e333",
+      "id": "fc4aaf35f7a4396a519b6820783c9810e704069dd710ecb45b9da21b528bb632",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BLonGar",
+          "ar_raw": "202001-202512",
+          "kallrad": 92,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b39568a90a4a21ff4c0e3624496c2cae4679a89f549f50408506fa735ac0ab93",
+        "path": "data/variable-documentation/b39568a90a4a21ff4c0e3624496c2cae4679a89f549f50408506fa735ac0ab93.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BLonGar",
+      "variable": "Markering av erhållen lönegaranti",
+      "register_version": "2021",
+      "source_task_id": "dc83f35f0418e8f2b5d3b7ba1d1f950d51ab03a27b1ac755c6eee7b5c338e333",
+      "id": "04501468c691090ee9f8e84fa6fb44e5dcea298452a43cdd6b39ed380d3acd09",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BLonGar",
+          "ar_raw": "202001-202512",
+          "kallrad": 92,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f700108b8c40c1ec37439d1e7f09dcb17f62bc524e61e9ae7a86906768acb54e",
+        "path": "data/variable-documentation/f700108b8c40c1ec37439d1e7f09dcb17f62bc524e61e9ae7a86906768acb54e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BLonGar",
+      "variable": "Markering av erhållen lönegaranti",
       "register_version": "2022",
       "source_task_id": "dc83f35f0418e8f2b5d3b7ba1d1f950d51ab03a27b1ac755c6eee7b5c338e333",
       "id": "0e198e761ece55f20b768fe16cd57b06b6101f2318b9e252c2b77928e25b6e04",
@@ -1976,6 +2933,64 @@
         "path": "data/variable-documentation/50a02df638c99a487c4faa4ff038ce68db3edb31ecdc82dc1aa7ba5362d447e0.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BNordInk",
+      "variable": "Sysselsatt utifrån inkomst från annat nordiskt land",
+      "register_version": "2020",
+      "source_task_id": "4f96c06495f61aab113c818af717cdb78e852d5a71dfcdbe8bf3d6b6de4c53ac",
+      "id": "c6b2f8275e98fc89b4f683675d705788306b8d4495a98861a046f72b37198d95",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BNordInk",
+          "ar_raw": "202001-202512",
+          "kallrad": 93,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7df4ee6884ba3712fd63d55aabe60e67d0ead59cc5171bc0531246a2f2196d4b",
+        "path": "data/variable-documentation/7df4ee6884ba3712fd63d55aabe60e67d0ead59cc5171bc0531246a2f2196d4b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BNordInk",
+      "variable": "Sysselsatt utifrån inkomst från annat nordiskt land",
+      "register_version": "2021",
+      "source_task_id": "4f96c06495f61aab113c818af717cdb78e852d5a71dfcdbe8bf3d6b6de4c53ac",
+      "id": "84888e8bd8db4de428cb72596c84cb185e046d44a09d2e46b0f70e8f0a7aacf4",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BNordInk",
+          "ar_raw": "202001-202512",
+          "kallrad": 93,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "87a2b8e9ae93cac8eab592a0ecd1ced5389ce13e96a23dbfafd24f4e14dabea9",
+        "path": "data/variable-documentation/87a2b8e9ae93cac8eab592a0ecd1ced5389ce13e96a23dbfafd24f4e14dabea9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -2098,6 +3113,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BPensStat",
       "variable": "Klassificerad som pensionär",
+      "register_version": "2020",
+      "source_task_id": "4540c708dc179b8105839da1244e430d6e4414faab9eb9662796969df5903e29",
+      "id": "20aeef081fd93c42e55baee9c13fb7d98fd7f39846a8b67059b1382e5cf2f8e1",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BPensStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 94,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d04983500ce763edf3157f1b0d0fa7cd4764e68e5d9d853bed797d68b653661",
+        "path": "data/variable-documentation/2d04983500ce763edf3157f1b0d0fa7cd4764e68e5d9d853bed797d68b653661.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BPensStat",
+      "variable": "Klassificerad som pensionär",
+      "register_version": "2021",
+      "source_task_id": "4540c708dc179b8105839da1244e430d6e4414faab9eb9662796969df5903e29",
+      "id": "c4f08b6442eee6b9d800455ebc45353ca1f71d0264f3ce167fa339a0258b56b9",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BPensStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 94,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad06815f49b7c4f5027d59f3e7cbbb7a1d7a35ec19cf674ba1a42b2f32852308",
+        "path": "data/variable-documentation/ad06815f49b7c4f5027d59f3e7cbbb7a1d7a35ec19cf674ba1a42b2f32852308.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BPensStat",
+      "variable": "Klassificerad som pensionär",
       "register_version": "2022",
       "source_task_id": "4540c708dc179b8105839da1244e430d6e4414faab9eb9662796969df5903e29",
       "id": "d10d31cb333f9fb3d2098a9601dcd95f81ce56c3f6d4354a3ef2a4df445a5283",
@@ -2208,6 +3281,64 @@
         "path": "data/variable-documentation/c80477ff8f3edd9657b6110652e038307fc8b4bf2dd76c4faa0046ba1bc40764.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BSjukStat",
+      "variable": "Klassificerad som sjuk",
+      "register_version": "2020",
+      "source_task_id": "d3c02982bbb0eb95a71e8bb3fa32d09f3ed87e88c9c53b6c14692089548ebb2d",
+      "id": "0ee0fd0d38b5cc7f65edb2201b4c35be5431d302f7cfed32eb010a907ea54d99",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BSjukStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 95,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b2f149215b4d30baac86a7e35ef3f2ac127ef2916f7525c29a4b898758ef471",
+        "path": "data/variable-documentation/2b2f149215b4d30baac86a7e35ef3f2ac127ef2916f7525c29a4b898758ef471.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BSjukStat",
+      "variable": "Klassificerad som sjuk",
+      "register_version": "2021",
+      "source_task_id": "d3c02982bbb0eb95a71e8bb3fa32d09f3ed87e88c9c53b6c14692089548ebb2d",
+      "id": "40ecd8d98cfdccdb869dbd6e1abe87921f5278d75dbae80737a4d0ad8f8b6fbd",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BSjukStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 95,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97d311aac83c9a983734a07e5016afa441621ea4e7fa4a431009b65825de32c2",
+        "path": "data/variable-documentation/97d311aac83c9a983734a07e5016afa441621ea4e7fa4a431009b65825de32c2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -2330,6 +3461,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BStudStat",
       "variable": "Klassificerad som studerande",
+      "register_version": "2020",
+      "source_task_id": "8a67a8fb82472ffa53d564f7db28f029faef7fb486d83c2d21b1ceffd899a3d1",
+      "id": "bbb739a515071019d8538973c60092d84c780c9bda0efb406a5b9d6e3d78de7c",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BStudStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 96,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "20ae20c2cf9d231d8a69c99e2ba0926512596d23c88ce35248cbbf248dac5601",
+        "path": "data/variable-documentation/20ae20c2cf9d231d8a69c99e2ba0926512596d23c88ce35248cbbf248dac5601.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BStudStat",
+      "variable": "Klassificerad som studerande",
+      "register_version": "2021",
+      "source_task_id": "8a67a8fb82472ffa53d564f7db28f029faef7fb486d83c2d21b1ceffd899a3d1",
+      "id": "12bce060de9e59577850f87eb0714cb73707a3dbe26eba3e5564844c396378fe",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BStudStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 96,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f233d14ad36a356ae24e4548c5b70a313b493571d1f93b373b8c59cd6a58c0d2",
+        "path": "data/variable-documentation/f233d14ad36a356ae24e4548c5b70a313b493571d1f93b373b8c59cd6a58c0d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BStudStat",
+      "variable": "Klassificerad som studerande",
       "register_version": "2022",
       "source_task_id": "8a67a8fb82472ffa53d564f7db28f029faef7fb486d83c2d21b1ceffd899a3d1",
       "id": "9fe901787f3c157c0ef16302a6d01fe2ce6ed5893f877a6951d9c0af1fab1d0c",
@@ -2440,6 +3629,64 @@
         "path": "data/variable-documentation/fd0362b08c31a4e12a369bb9acee7a6500efb845ada0e1dd7f68b6f3323871b0.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BSyssStat",
+      "variable": "Klassificerad som sysselsatt",
+      "register_version": "2020",
+      "source_task_id": "138c53bfab3cb3a2e07976950dd94a968edf19c916c7b3dad0b5a19fa2fb6022",
+      "id": "2cd35478754d30b28603da85e48a9d0a0ef03a340098e313e7cc5d6d2b91677c",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BSyssStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 97,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9529d2a2e948ec058235ed06281dfb37aebf7bef5e31259d9cecf464f9924c4a",
+        "path": "data/variable-documentation/9529d2a2e948ec058235ed06281dfb37aebf7bef5e31259d9cecf464f9924c4a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BSyssStat",
+      "variable": "Klassificerad som sysselsatt",
+      "register_version": "2021",
+      "source_task_id": "138c53bfab3cb3a2e07976950dd94a968edf19c916c7b3dad0b5a19fa2fb6022",
+      "id": "e7dff9c52f80cc0b02b573886c622a712b8e290bcbd87f59e7895a5d1071e33c",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BSyssStat",
+          "ar_raw": "202001-202512",
+          "kallrad": 97,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ab4bf215a6684b7daa8176a052b3942bcda6007292ff11fde4ea1c54cd1c5706",
+        "path": "data/variable-documentation/ab4bf215a6684b7daa8176a052b3942bcda6007292ff11fde4ea1c54cd1c5706.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -2562,6 +3809,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "BTFranv",
       "variable": "Tillfälligt frånvarande",
+      "register_version": "2020",
+      "source_task_id": "84d80cd5a363f9dcf82c9d5c8538883bd86c188756d639c932915b53d1a651e1",
+      "id": "a6837a621f70e67ff4d84bb0fa39388d1109a6089a39baa52ed12a2ca55e6fc5",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BTFranv",
+          "ar_raw": "202001-202512",
+          "kallrad": 98,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b38a0f7902fe3b18121974850bf6b3815228a03e3c6722ffce3d8e3b4892f19",
+        "path": "data/variable-documentation/6b38a0f7902fe3b18121974850bf6b3815228a03e3c6722ffce3d8e3b4892f19.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BTFranv",
+      "variable": "Tillfälligt frånvarande",
+      "register_version": "2021",
+      "source_task_id": "84d80cd5a363f9dcf82c9d5c8538883bd86c188756d639c932915b53d1a651e1",
+      "id": "01452863c043e3b4cf3dc7a6c350b73bfa1b82d026ad8e9a090af8b2a1c3ebe2",
+      "domain_id": "21709fc17098ce55312586782c992e9cdd04af326e250fbf7cf950def9190e6c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BTFranv",
+          "ar_raw": "202001-202512",
+          "kallrad": 98,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b474af6bcccd8e308f7c4156f46b88562b5551a14bd6c7b0388c5a455e2596f9",
+        "path": "data/variable-documentation/b474af6bcccd8e308f7c4156f46b88562b5551a14bd6c7b0388c5a455e2596f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BTFranv",
+      "variable": "Tillfälligt frånvarande",
       "register_version": "2022",
       "source_task_id": "84d80cd5a363f9dcf82c9d5c8538883bd86c188756d639c932915b53d1a651e1",
       "id": "d3f96597c64e81c7efa4d1c27f1817009759825a0d0fca197a0d1301a9448074",
@@ -2672,6 +3977,64 @@
         "path": "data/variable-documentation/cefd596edfbf8ed44c82a5c964f886fb30427ce3f5b3686699166731e9908032.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BYrkstalln",
+      "variable": "Yrkesställning",
+      "register_version": "2020",
+      "source_task_id": "4d802870f777f7bde0aa827a0b6e92cd46a21827e6959c2a30f6a64ad7307b11",
+      "id": "1f9f98e939b271454a7fb1e8a4e230dc137e87f744a551142612fece08712791",
+      "domain_id": "383c23fe3ee5b2ad143b409165d7c58bd701530427db3e1ff87e3c541fe82bde",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BYrkstalln",
+          "ar_raw": "202001-202512",
+          "kallrad": 99,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e0d35d95143019e9cf23bfde9f780912d0c3985c6b3746537799650d9e65fede",
+        "path": "data/variable-documentation/e0d35d95143019e9cf23bfde9f780912d0c3985c6b3746537799650d9e65fede.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "BYrkstalln",
+      "variable": "Yrkesställning",
+      "register_version": "2021",
+      "source_task_id": "4d802870f777f7bde0aa827a0b6e92cd46a21827e6959c2a30f6a64ad7307b11",
+      "id": "45ba8d465eaa97592e0a1a8c425b4bd19a69e376cff08868506bf8a6e75bfca2",
+      "domain_id": "383c23fe3ee5b2ad143b409165d7c58bd701530427db3e1ff87e3c541fe82bde",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "BYrkstalln",
+          "ar_raw": "202001-202512",
+          "kallrad": 99,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c3298ba9ca217e2c5ca586577f1e81b98b1059a42a83d3495d81439d8c4f18f",
+        "path": "data/variable-documentation/6c3298ba9ca217e2c5ca586577f1e81b98b1059a42a83d3495d81439d8c4f18f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -2852,6 +4215,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "HuvInkKalla1M",
       "variable": "Huvudsaklig inkomstkälla",
+      "register_version": "2020",
+      "source_task_id": "3ea9bcdff6b64e8021db74a9996d3442d99bd9230bfdef54aac4d04997d9285d",
+      "id": "fefe54ad985a4b9199aa3561a37d2e9c87718a60c34327e0ad52d2fff00e7339",
+      "domain_id": "f13f7d016daad08954c261fe9986d9085a45055e03b922b150e1f83c406f7ebf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "HuvInkKalla1M",
+          "ar_raw": "202001-202512",
+          "kallrad": 101,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8f609a4df88297eba0257bbbac76c0c49b7ee8b1864657dff8cede54d71cd0c",
+        "path": "data/variable-documentation/b8f609a4df88297eba0257bbbac76c0c49b7ee8b1864657dff8cede54d71cd0c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "HuvInkKalla1M",
+      "variable": "Huvudsaklig inkomstkälla",
+      "register_version": "2021",
+      "source_task_id": "3ea9bcdff6b64e8021db74a9996d3442d99bd9230bfdef54aac4d04997d9285d",
+      "id": "04bbd21259b70bef65a9e669549ef57359ea708b970f8befa679b80a6ddc4b3d",
+      "domain_id": "f13f7d016daad08954c261fe9986d9085a45055e03b922b150e1f83c406f7ebf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "HuvInkKalla1M",
+          "ar_raw": "202001-202512",
+          "kallrad": 101,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d440d8ad3ee4b9d3741bdbe840dc974d6b18922563c75978efd824d756db017",
+        "path": "data/variable-documentation/0d440d8ad3ee4b9d3741bdbe840dc974d6b18922563c75978efd824d756db017.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "HuvInkKalla1M",
+      "variable": "Huvudsaklig inkomstkälla",
       "register_version": "2022",
       "source_task_id": "3ea9bcdff6b64e8021db74a9996d3442d99bd9230bfdef54aac4d04997d9285d",
       "id": "d7ccaca8081df275fcce02045b6231a9d7c30ef0f05294aab7056e4b8b1239f4",
@@ -2962,6 +4383,64 @@
         "path": "data/variable-documentation/93d49207e3ca8a84aae830372dc20614e007d8d554bd415884cf85aed7105ebc.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IALDF",
+      "variable": "Äldreförsörjningsstöd",
+      "register_version": "2020",
+      "source_task_id": "82828a21452b150fe35ad491db87aadcffc518837ecb80a980461a4a7d586998",
+      "id": "14a16997015dede36d69c4abf5633e71fa6138ec6468eab4dd3c6887640e9c3b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IALDF",
+          "ar_raw": "202001-202512",
+          "kallrad": 102,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9c83e348e4fbf749d84d2d955a15a51e468f2edb72ae97cd8e0487bef14eb432",
+        "path": "data/variable-documentation/9c83e348e4fbf749d84d2d955a15a51e468f2edb72ae97cd8e0487bef14eb432.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IALDF",
+      "variable": "Äldreförsörjningsstöd",
+      "register_version": "2021",
+      "source_task_id": "82828a21452b150fe35ad491db87aadcffc518837ecb80a980461a4a7d586998",
+      "id": "e093847903624a78182f18945ddd2d6cbed9c3d941d03caee1f37d9f17267329",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IALDF",
+          "ar_raw": "202001-202512",
+          "kallrad": 102,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "45d065c4a01d666f697fc7dc3c32f8af081468faf400ed80ba9b5c4127c2826b",
+        "path": "data/variable-documentation/45d065c4a01d666f697fc7dc3c32f8af081468faf400ed80ba9b5c4127c2826b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -3084,6 +4563,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "IBB",
       "variable": "Viktat inkomstbasbelopp",
+      "register_version": "2020",
+      "source_task_id": "64d1add124d068dfc55f5577d7a96e26e0245d093eb60d0acd1e59e4e16c88cd",
+      "id": "2688d973c3b83f288924b23f99ebb8f4dad6c3b494bf11153b3fc4284a01b658",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBB",
+          "ar_raw": "202001-202512",
+          "kallrad": 103,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dae308b3648903dc688f72c40f72a1be25829d99f0d405d12b34b1fee1cd451b",
+        "path": "data/variable-documentation/dae308b3648903dc688f72c40f72a1be25829d99f0d405d12b34b1fee1cd451b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBB",
+      "variable": "Viktat inkomstbasbelopp",
+      "register_version": "2021",
+      "source_task_id": "64d1add124d068dfc55f5577d7a96e26e0245d093eb60d0acd1e59e4e16c88cd",
+      "id": "a3fa785c67ad51713da7faa0ca6d16e7878c2b3eec2011570f38ffb5dc327093",
+      "domain_id": "412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBB",
+          "ar_raw": "202001-202512",
+          "kallrad": 103,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "404fe151af7909280cc417629526e6b9cf732f07343c227125b4a9dc26e4badb",
+        "path": "data/variable-documentation/404fe151af7909280cc417629526e6b9cf732f07343c227125b4a9dc26e4badb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBB",
+      "variable": "Viktat inkomstbasbelopp",
       "register_version": "2022",
       "source_task_id": "64d1add124d068dfc55f5577d7a96e26e0245d093eb60d0acd1e59e4e16c88cd",
       "id": "f48b68da1d5c91cdbd79a5c66ed0dcff2444b684da7428bbbb7084c1e19e1c44",
@@ -3194,6 +4731,64 @@
         "path": "data/variable-documentation/8787725d2e61babbb3db439fc04056c936a3f8cbd8c830cc4e28b5fcbc308aad.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBOSTBU",
+      "variable": "Bostadsbidrag för barnfamiljer samt makar och ensamstående yngre än 29 år",
+      "register_version": "2020",
+      "source_task_id": "e29918ad75ab39ddab9df56d557f42aab9235f9fbeeebf903f86b4b8882d2f34",
+      "id": "1200cf0d10b835034669d192081ba0090391119ea6fdc20b5efa9bf012a9484a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBOSTBU",
+          "ar_raw": "202001-202512",
+          "kallrad": 104,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bfd95bd1b66b718bb085f84a2a672bc9e0b945b7663331636b2caf5789b7c9a4",
+        "path": "data/variable-documentation/bfd95bd1b66b718bb085f84a2a672bc9e0b945b7663331636b2caf5789b7c9a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBOSTBU",
+      "variable": "Bostadsbidrag för barnfamiljer samt makar och ensamstående yngre än 29 år",
+      "register_version": "2021",
+      "source_task_id": "e29918ad75ab39ddab9df56d557f42aab9235f9fbeeebf903f86b4b8882d2f34",
+      "id": "7da14e9e4f84ac2224b49b670b687356e0789f925afe6d3e64c6f2a4811bb0a3",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBOSTBU",
+          "ar_raw": "202001-202512",
+          "kallrad": 104,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c78caec5f19faf68247fb3f3494324c02b96cad65b3e26a232d13cf04e68ba7",
+        "path": "data/variable-documentation/0c78caec5f19faf68247fb3f3494324c02b96cad65b3e26a232d13cf04e68ba7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -3316,6 +4911,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "IBTPAP",
       "variable": "Bostadstillägg till pensionärer",
+      "register_version": "2020",
+      "source_task_id": "3dc4195b671245f7c64c8cc78b32a4242c585875ead1413233a3819aeb88221c",
+      "id": "ee55f99e3c14fdf49f8168c14ee43f6355046294e1f759cf4f92d5cd874ab045",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBTPAP",
+          "ar_raw": "202001-202512",
+          "kallrad": 105,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "325a067931a3b70d433c6df36673c164d9a0b5315eaa88c4648cdec35965eab3",
+        "path": "data/variable-documentation/325a067931a3b70d433c6df36673c164d9a0b5315eaa88c4648cdec35965eab3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBTPAP",
+      "variable": "Bostadstillägg till pensionärer",
+      "register_version": "2021",
+      "source_task_id": "3dc4195b671245f7c64c8cc78b32a4242c585875ead1413233a3819aeb88221c",
+      "id": "70fdcad3391d09349fa928646257e704b82bf9c7bacacdc9ec333dcc7c92080b",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBTPAP",
+          "ar_raw": "202001-202512",
+          "kallrad": 105,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "323477b1d87be8d11274aadd7bcb212cd5821c1f30b7124936b83ccd07258d12",
+        "path": "data/variable-documentation/323477b1d87be8d11274aadd7bcb212cd5821c1f30b7124936b83ccd07258d12.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBTPAP",
+      "variable": "Bostadstillägg till pensionärer",
       "register_version": "2022",
       "source_task_id": "3dc4195b671245f7c64c8cc78b32a4242c585875ead1413233a3819aeb88221c",
       "id": "1165a58c67778b894c597ebb4df5d8afedefe9f3ad75de02763e09a52195be41",
@@ -3426,6 +5079,64 @@
         "path": "data/variable-documentation/b910f6c75f6f1c383ff30ea252a92e95dc28124b98d60ed8fdfb544a723c8bf8.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBTPSAP",
+      "variable": "Särskilt bostadstillägg för pensionärer",
+      "register_version": "2020",
+      "source_task_id": "aa35d113922c9e24cb947461c3dceb258aec64f02219d64cd5246c93029ac0c2",
+      "id": "8b89bf11ac8d571e50b26514c0458b8f16a6aca1130e3446d1d35ac0a2b5c12c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBTPSAP",
+          "ar_raw": "202001-202512",
+          "kallrad": 106,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bbdb3eb09d5712370397ca5cfc8e1de18f004d26cf8f82eba75801a8d977e327",
+        "path": "data/variable-documentation/bbdb3eb09d5712370397ca5cfc8e1de18f004d26cf8f82eba75801a8d977e327.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IBTPSAP",
+      "variable": "Särskilt bostadstillägg för pensionärer",
+      "register_version": "2021",
+      "source_task_id": "aa35d113922c9e24cb947461c3dceb258aec64f02219d64cd5246c93029ac0c2",
+      "id": "ffd47bb1869ad0c83f33427ae6840e437ba64f4251b312423db82bfe88c18381",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IBTPSAP",
+          "ar_raw": "202001-202512",
+          "kallrad": 106,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ce3ce360926a7ff2d249e4482f183420f7d70fdce578dccd437305ffad9c6e12",
+        "path": "data/variable-documentation/ce3ce360926a7ff2d249e4482f183420f7d70fdce578dccd437305ffad9c6e12.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -3548,6 +5259,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "IETABE",
       "variable": "Etableringsersättning, utbetalt belopp",
+      "register_version": "2020",
+      "source_task_id": "8ec8454cdd38cdde9a5a17d9fe632157ddffd812b6a140963cb99a5d6bf7dcf4",
+      "id": "2467adeae09385dcc283e57cdab5974696bccd2d24fd4aa6d4a7fa3ef3714fae",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IETABE",
+          "ar_raw": "202001-202512",
+          "kallrad": 107,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6ab83f5cc56ac9f0055ad951029aa1a5c07d2e7320009b8f4feb47e4cf94eab4",
+        "path": "data/variable-documentation/6ab83f5cc56ac9f0055ad951029aa1a5c07d2e7320009b8f4feb47e4cf94eab4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IETABE",
+      "variable": "Etableringsersättning, utbetalt belopp",
+      "register_version": "2021",
+      "source_task_id": "8ec8454cdd38cdde9a5a17d9fe632157ddffd812b6a140963cb99a5d6bf7dcf4",
+      "id": "ebd762326c1f982a952ed7d4d35ad999d97b415d0ed41be47e1381bab172c3e8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "IETABE",
+          "ar_raw": "202001-202512",
+          "kallrad": 107,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f415d383b7795ea50d2695085ac5fb9cd5cdfc6b767737ccdc07c1bdd6721e73",
+        "path": "data/variable-documentation/f415d383b7795ea50d2695085ac5fb9cd5cdfc6b767737ccdc07c1bdd6721e73.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "IETABE",
+      "variable": "Etableringsersättning, utbetalt belopp",
       "register_version": "2022",
       "source_task_id": "8ec8454cdd38cdde9a5a17d9fe632157ddffd812b6a140963cb99a5d6bf7dcf4",
       "id": "70d310ddb42438301d6b9adc179367d313666fa07c04ba1f82e464f8c1618d3e",
@@ -3658,6 +5427,35 @@
         "path": "data/variable-documentation/8f812506b5e1c456b87290762b0f4a98a184f453b021c8f06abb833dad961270.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "ISOCB",
+      "variable": "Ekonomiskt bistånd",
+      "register_version": "2020",
+      "source_task_id": "12233dcebf349a72ee7294790a44b7c302e7a14d291853b21d38f601e953d327",
+      "id": "07f5091d8cb5b8baeb0df6bf9649c27e72341ab079fc4ec1026b96e3e90252ed",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "ISOCB",
+          "ar_raw": "202001-202412",
+          "kallrad": 108,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2ba51344caeeb5993d2c60b39f7f6ad40af2ab5a81046463b25466fc068acc0e",
+        "path": "data/variable-documentation/2ba51344caeeb5993d2c60b39f7f6ad40af2ab5a81046463b25466fc068acc0e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -3809,6 +5607,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "InkKalla1",
       "variable": "Ersättning för arbete",
+      "register_version": "2020",
+      "source_task_id": "154cc767aa4e65695f23913df8889d5d24c097b220eb9cbae6bfc87bbf4bc858",
+      "id": "6f419a0222dc25eb48cda5971aab6a04bb250c36861e46b750f18740285e4a30",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla1",
+          "ar_raw": "202001-202512",
+          "kallrad": 110,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d591dd76cca9c086f22daf6ac6483426a8a08d00cf29403eb61f6a56882a9ca7",
+        "path": "data/variable-documentation/d591dd76cca9c086f22daf6ac6483426a8a08d00cf29403eb61f6a56882a9ca7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla1",
+      "variable": "Ersättning för arbete",
+      "register_version": "2021",
+      "source_task_id": "154cc767aa4e65695f23913df8889d5d24c097b220eb9cbae6bfc87bbf4bc858",
+      "id": "4e24a9af51206bc8019595988ee8e0aeed33eb9fadff660623dd156f0b4e9db4",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla1",
+          "ar_raw": "202001-202512",
+          "kallrad": 110,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f24d01648bd19435bdf3477897fba320905deae2613f4abc4d5320cedd702581",
+        "path": "data/variable-documentation/f24d01648bd19435bdf3477897fba320905deae2613f4abc4d5320cedd702581.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla1",
+      "variable": "Ersättning för arbete",
       "register_version": "2022",
       "source_task_id": "154cc767aa4e65695f23913df8889d5d24c097b220eb9cbae6bfc87bbf4bc858",
       "id": "3d6e3b2a6e303521c96946861874ac4fa6c1c58acc7542a69d4589e7ea0e7b87",
@@ -3919,6 +5775,64 @@
         "path": "data/variable-documentation/afb68b17fcaa91cfa9b7f5ee967634cb4fb1f12af8849ad41d84c522166a7a56.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla2",
+      "variable": "Ersättning vid arbetslöshet",
+      "register_version": "2020",
+      "source_task_id": "2bc3a49673f0a111b4a5a78398dde43c5b65d4235796e0555ae441d59c2e7f45",
+      "id": "fbadbc4f0e1f8214192215a7dee6b8cf831a9bfbc2c46143f3c56ba03530e2f4",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla2",
+          "ar_raw": "202001-202512",
+          "kallrad": 111,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a18148ca401a1f19407b538c7df642e85b9dd5f34f491800244d3092b5517a5b",
+        "path": "data/variable-documentation/a18148ca401a1f19407b538c7df642e85b9dd5f34f491800244d3092b5517a5b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla2",
+      "variable": "Ersättning vid arbetslöshet",
+      "register_version": "2021",
+      "source_task_id": "2bc3a49673f0a111b4a5a78398dde43c5b65d4235796e0555ae441d59c2e7f45",
+      "id": "45f44c2db4e9ce648551f882e43d00549029fdee3181ef4a09bf75739076e292",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla2",
+          "ar_raw": "202001-202512",
+          "kallrad": 111,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c948d0802efbfc4376a2904acef7916c554f5726cb861cecab31f867097ee42d",
+        "path": "data/variable-documentation/c948d0802efbfc4376a2904acef7916c554f5726cb861cecab31f867097ee42d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -4041,6 +5955,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "InkKalla3",
       "variable": "Ersättning för studier",
+      "register_version": "2020",
+      "source_task_id": "acf134f66fa87a7d50c78692330ebf95ad19f46b96f397bfb8dfa1983df86c5e",
+      "id": "556a8ae5bc06e7ba3eb061a4f213e2455196e7daaf45a9a4036b6046f6ac1911",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla3",
+          "ar_raw": "202001-202512",
+          "kallrad": 112,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5cfe097f4cdf04e7b4567dab7fbf319a28a3acd2eaf5295eb55ae2c4973f488d",
+        "path": "data/variable-documentation/5cfe097f4cdf04e7b4567dab7fbf319a28a3acd2eaf5295eb55ae2c4973f488d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla3",
+      "variable": "Ersättning för studier",
+      "register_version": "2021",
+      "source_task_id": "acf134f66fa87a7d50c78692330ebf95ad19f46b96f397bfb8dfa1983df86c5e",
+      "id": "d0df0e5d8137067e135eb50dd4d5bb063d152659d705e240e10fc7e85ab3edde",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla3",
+          "ar_raw": "202001-202512",
+          "kallrad": 112,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b64e89d4be7884981f92840d75910a8a142f10b382458b944363b2614f6fad49",
+        "path": "data/variable-documentation/b64e89d4be7884981f92840d75910a8a142f10b382458b944363b2614f6fad49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla3",
+      "variable": "Ersättning för studier",
       "register_version": "2022",
       "source_task_id": "acf134f66fa87a7d50c78692330ebf95ad19f46b96f397bfb8dfa1983df86c5e",
       "id": "ed60f4507f1b88747b79f7957aad355b566606e0f05ded085b67b79cdd266d30",
@@ -4151,6 +6123,64 @@
         "path": "data/variable-documentation/b7c8b3cdd8e3e70b1803b73ea636cf9e54aa97d8120b51eee3b5b01fb2d8b9ec.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla4",
+      "variable": "Pension",
+      "register_version": "2020",
+      "source_task_id": "62c5fbfce9d350ce61dac6fa8a634e590bb1414841ee06be67dc38cb825bf253",
+      "id": "17ce8edce72e36d36248985ffa317ca261c54008a1de15de0896129a97c20ac0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla4",
+          "ar_raw": "202001-202512",
+          "kallrad": 113,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "596619069fa1f1c5c659ebb6d7e7fd71e9d23a0b10cebcd2522a623ec5a74d79",
+        "path": "data/variable-documentation/596619069fa1f1c5c659ebb6d7e7fd71e9d23a0b10cebcd2522a623ec5a74d79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla4",
+      "variable": "Pension",
+      "register_version": "2021",
+      "source_task_id": "62c5fbfce9d350ce61dac6fa8a634e590bb1414841ee06be67dc38cb825bf253",
+      "id": "1c242fe0babac823d9fa15bddc002cfba9457bf28b5b92e7a05948cdc6e6f92f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla4",
+          "ar_raw": "202001-202512",
+          "kallrad": 113,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "29e5084c8bba4ad587a25b1d520c54d2006977358ac765052e11abac9b2c9895",
+        "path": "data/variable-documentation/29e5084c8bba4ad587a25b1d520c54d2006977358ac765052e11abac9b2c9895.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -4273,6 +6303,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "InkKalla5",
       "variable": "Ersättning vid långvarigt nedsatt arbetsförmåga",
+      "register_version": "2020",
+      "source_task_id": "13914cf6813c842baa0efb3ee0b6d0bed58fa10dd0114fbc2db0dae9f1f485a9",
+      "id": "c96bf43ead56bedd274952b972ee876ecf6c969875e411b0807a921bf893b1ef",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla5",
+          "ar_raw": "202001-202512",
+          "kallrad": 114,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad71dd2dfbcb5fc8d92646979c23c3fe2947c604373b7be1cfaf807a34189d82",
+        "path": "data/variable-documentation/ad71dd2dfbcb5fc8d92646979c23c3fe2947c604373b7be1cfaf807a34189d82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla5",
+      "variable": "Ersättning vid långvarigt nedsatt arbetsförmåga",
+      "register_version": "2021",
+      "source_task_id": "13914cf6813c842baa0efb3ee0b6d0bed58fa10dd0114fbc2db0dae9f1f485a9",
+      "id": "b0420dda8bbd0ca92ae1a923363d24a0d061f3d9ff57a312ef39bdcda75054ba",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla5",
+          "ar_raw": "202001-202512",
+          "kallrad": 114,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0e664fe5f302eb128109b832aa1e9d8b3bdefc2560b94eb125fd90b7160b26ff",
+        "path": "data/variable-documentation/0e664fe5f302eb128109b832aa1e9d8b3bdefc2560b94eb125fd90b7160b26ff.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla5",
+      "variable": "Ersättning vid långvarigt nedsatt arbetsförmåga",
       "register_version": "2022",
       "source_task_id": "13914cf6813c842baa0efb3ee0b6d0bed58fa10dd0114fbc2db0dae9f1f485a9",
       "id": "f030d70d92e957c3ee5c7464c26a7650e56b2b7e4c3980b3080ecd99bf8aa51b",
@@ -4383,6 +6471,64 @@
         "path": "data/variable-documentation/cb01add2f0e5ecc8ff0a5af256ed2e016eb3d99fdd224121932bb4e707b47d0a.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla6",
+      "variable": "Ersättning vid sjukdom",
+      "register_version": "2020",
+      "source_task_id": "847daa3784f3e83fc1a6a02cbf4cdf91469c6e94b73eee12836f6e8ed379bef4",
+      "id": "d5e307f59b4decb83e5d8c77f2014f1902a64d948506cb62a1893f711207b5aa",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla6",
+          "ar_raw": "202001-202512",
+          "kallrad": 115,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "87f694f56ce153ae7aa8aa0e3ff4d4745e198f163dff7f8806846fc297a939e5",
+        "path": "data/variable-documentation/87f694f56ce153ae7aa8aa0e3ff4d4745e198f163dff7f8806846fc297a939e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla6",
+      "variable": "Ersättning vid sjukdom",
+      "register_version": "2021",
+      "source_task_id": "847daa3784f3e83fc1a6a02cbf4cdf91469c6e94b73eee12836f6e8ed379bef4",
+      "id": "41191994db4fd312b3f890f2a0374611b8b7c21546dee135191f6c64cad27410",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla6",
+          "ar_raw": "202001-202512",
+          "kallrad": 115,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e78ff5467f083cda96fef4bcad25ec477321a5e8fcea5a8e87009739412126a4",
+        "path": "data/variable-documentation/e78ff5467f083cda96fef4bcad25ec477321a5e8fcea5a8e87009739412126a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -4505,6 +6651,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "InkKalla7",
       "variable": "Ersättning vid föräldraledighet och/eller närståendeomvårdnad",
+      "register_version": "2020",
+      "source_task_id": "4fed6acf92d07e5c7d2e13258e448bc2bd2edf7c4fba811c8b6a520062be78ce",
+      "id": "0258ae81f94f77b8bbbf25fb65ab691ee200c16d73ba45be005775ece4f6948f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla7",
+          "ar_raw": "202001-202512",
+          "kallrad": 116,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9f5dbb7657265165c6e78d27a897dcb6e79ef56ac6613d71a81d044071a70434",
+        "path": "data/variable-documentation/9f5dbb7657265165c6e78d27a897dcb6e79ef56ac6613d71a81d044071a70434.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla7",
+      "variable": "Ersättning vid föräldraledighet och/eller närståendeomvårdnad",
+      "register_version": "2021",
+      "source_task_id": "4fed6acf92d07e5c7d2e13258e448bc2bd2edf7c4fba811c8b6a520062be78ce",
+      "id": "ea36f1e4285a5f04fb303cad8754df020f0fb70589dd606e1ba884de657367fe",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla7",
+          "ar_raw": "202001-202512",
+          "kallrad": 116,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b554440bc2a04c8f65eea2e0f4de5cbca1a793401296a780b4c82868d8bc00c0",
+        "path": "data/variable-documentation/b554440bc2a04c8f65eea2e0f4de5cbca1a793401296a780b4c82868d8bc00c0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla7",
+      "variable": "Ersättning vid föräldraledighet och/eller närståendeomvårdnad",
       "register_version": "2022",
       "source_task_id": "4fed6acf92d07e5c7d2e13258e448bc2bd2edf7c4fba811c8b6a520062be78ce",
       "id": "cf3bf5869bf9330681ae4080420eefca6a5823281854ecbd93b2e74d2da68406",
@@ -4615,6 +6819,64 @@
         "path": "data/variable-documentation/4cbba0b903ba0885c97a9f631bf2ca9f8dabee4e85706bc2b03c2e024641100a.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla8",
+      "variable": "Ekonomiskt stöd",
+      "register_version": "2020",
+      "source_task_id": "b3ad64bebb5753e9d748e9c3d8e024692c9c6a8d146f13ad670a75c992f5228c",
+      "id": "4edad9610ca39d682bafe2be3b3a7c3b144a8f5aee29ec04b2302856f7a6a67d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla8",
+          "ar_raw": "202001-202512",
+          "kallrad": 117,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c17feadbab3bd8d38f06742364e7b1350493e7a0c3a9b815e355e4311136497b",
+        "path": "data/variable-documentation/c17feadbab3bd8d38f06742364e7b1350493e7a0c3a9b815e355e4311136497b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "InkKalla8",
+      "variable": "Ekonomiskt stöd",
+      "register_version": "2021",
+      "source_task_id": "b3ad64bebb5753e9d748e9c3d8e024692c9c6a8d146f13ad670a75c992f5228c",
+      "id": "80063ec947d80d619f6b68a33be7f8c800a9d592eae42286109f0b37e069834c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "InkKalla8",
+          "ar_raw": "202001-202512",
+          "kallrad": 117,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "46f8eb6fd317d2b37df8cf641b749f719de8de4754c11ebafca7784d17469c78",
+        "path": "data/variable-documentation/46f8eb6fd317d2b37df8cf641b749f719de8de4754c11ebafca7784d17469c78.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -4737,6 +6999,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "Jurform",
       "variable": "Juridisk form",
+      "register_version": "2020",
+      "source_task_id": "7a8bdecc3a6fac52fce3707037e6a7525493285683a63af37533f84ae1dfc7ca",
+      "id": "361656bf73b8e8f9cca71460990c057b3b104b6533e2cc7af3662c9c987e42e2",
+      "domain_id": "0e1783545ea1177d791c4f734afda380919b6206ee53fedfdf585dcb23b73faa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Jurform",
+          "ar_raw": "202001-202512",
+          "kallrad": 118,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8f9a4a21bb920f48865d975ab237da5539f6b891c56d34e5d8cdb8aad06d71a4",
+        "path": "data/variable-documentation/8f9a4a21bb920f48865d975ab237da5539f6b891c56d34e5d8cdb8aad06d71a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Jurform",
+      "variable": "Juridisk form",
+      "register_version": "2021",
+      "source_task_id": "7a8bdecc3a6fac52fce3707037e6a7525493285683a63af37533f84ae1dfc7ca",
+      "id": "d1aa96f393e57b8a9557699441ce42257aca36998f81860474ed6660458b7226",
+      "domain_id": "0e1783545ea1177d791c4f734afda380919b6206ee53fedfdf585dcb23b73faa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Jurform",
+          "ar_raw": "202001-202512",
+          "kallrad": 118,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "53abab2a978b153c45dccc3b5de34df38c7b96fa13ca4771cb57fe48a21dd210",
+        "path": "data/variable-documentation/53abab2a978b153c45dccc3b5de34df38c7b96fa13ca4771cb57fe48a21dd210.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Jurform",
+      "variable": "Juridisk form",
       "register_version": "2022",
       "source_task_id": "7a8bdecc3a6fac52fce3707037e6a7525493285683a63af37533f84ae1dfc7ca",
       "id": "f73fa060b60afe9c1e5bb8f8e9cd9c56a969dafed793fb09b40a4974b396918f",
@@ -4847,6 +7167,64 @@
         "path": "data/variable-documentation/11389ba9478ed6f4b3211f7b400a57955bebd7e15480966c00eea0df9668cd0e.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2020",
+      "source_task_id": "628e1ab5248a3511d806dd84827a74ed4205cd460df7050180b9c95c7f19eaa1",
+      "id": "637cd40366aa99f53280b146dd86c1ba7120d553a7e18f57cfbe51b063f62f8b",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Kommun",
+          "ar_raw": "202001-202512",
+          "kallrad": 119,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "91ab4112be195e4b092230b0b9f413b8695f4c7d5c11fbbdce3a9c00474fea8d",
+        "path": "data/variable-documentation/91ab4112be195e4b092230b0b9f413b8695f4c7d5c11fbbdce3a9c00474fea8d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Kommun",
+      "variable": "Kommun",
+      "register_version": "2021",
+      "source_task_id": "628e1ab5248a3511d806dd84827a74ed4205cd460df7050180b9c95c7f19eaa1",
+      "id": "40ddf4b08b369571983e56e5d3c70629edabb9c9037b0e2ae2948ff30d6832db",
+      "domain_id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Kommun",
+          "ar_raw": "202001-202512",
+          "kallrad": 119,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee74ede9bb1d278757d77f112cf8e17cb17b52d03df7da6609d2d32029c5a1d6",
+        "path": "data/variable-documentation/ee74ede9bb1d278757d77f112cf8e17cb17b52d03df7da6609d2d32029c5a1d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -4969,6 +7347,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "Lan",
       "variable": "Län",
+      "register_version": "2020",
+      "source_task_id": "70488e0784aefb0d97c14b6e80fb5f91190c88892e2298a6c7596f4b30705859",
+      "id": "24096528e7a209fe8386022b19803b346cc278570caae5ae54097b263d53eedd",
+      "domain_id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Lan",
+          "ar_raw": "202001-202512",
+          "kallrad": 120,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "257dd54c950b878e30314bfff91d214acbe8dbe9645b78e528825b00804dd2f6",
+        "path": "data/variable-documentation/257dd54c950b878e30314bfff91d214acbe8dbe9645b78e528825b00804dd2f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Lan",
+      "variable": "Län",
+      "register_version": "2021",
+      "source_task_id": "70488e0784aefb0d97c14b6e80fb5f91190c88892e2298a6c7596f4b30705859",
+      "id": "843bd8877b9990cf011b39d68425fe4f04c48c2498d81b730de72ceb6299e5f4",
+      "domain_id": "c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Lan",
+          "ar_raw": "202001-202512",
+          "kallrad": 120,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d3d91e3a6bfb4b45463f7356fe960d0fb7fddc77919c8916594e991130e51645",
+        "path": "data/variable-documentation/d3d91e3a6bfb4b45463f7356fe960d0fb7fddc77919c8916594e991130e51645.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Lan",
+      "variable": "Län",
       "register_version": "2022",
       "source_task_id": "70488e0784aefb0d97c14b6e80fb5f91190c88892e2298a6c7596f4b30705859",
       "id": "9fa67a8bc6db78e2c4212b4c3545b2eef9eaae1d00c212168c977252e453cedb",
@@ -5079,6 +7515,64 @@
         "path": "data/variable-documentation/d7c9988b4416c29df4d0fa71b1d954193fe12a510f185cec16821875ca02ca81.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Sektor",
+      "variable": "Institutionell sektor",
+      "register_version": "2020",
+      "source_task_id": "19c600e67f21dd30d50c7a39767bb66477a6c1d9a6cdfe4a1eaf0e14d5be0f04",
+      "id": "74804c558c8a99bd8c93a55005225eb09c67ac5f76c972b51a82434b18bee388",
+      "domain_id": "457c1928b009d7fd0d6de700392fd9bab6aa4a0fdb68258d930ffb2ac479f644",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Sektor",
+          "ar_raw": "202001-202512",
+          "kallrad": 124,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "674ff6ddabbff18e06ee99c6a02b865e9c1497796285c7218203243fa7997c6b",
+        "path": "data/variable-documentation/674ff6ddabbff18e06ee99c6a02b865e9c1497796285c7218203243fa7997c6b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "Sektor",
+      "variable": "Institutionell sektor",
+      "register_version": "2021",
+      "source_task_id": "19c600e67f21dd30d50c7a39767bb66477a6c1d9a6cdfe4a1eaf0e14d5be0f04",
+      "id": "d0512eb8d493d5ed39854364a8993230776e6354c7695ca9b457f96a6a504401",
+      "domain_id": "457c1928b009d7fd0d6de700392fd9bab6aa4a0fdb68258d930ffb2ac479f644",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "Sektor",
+          "ar_raw": "202001-202512",
+          "kallrad": 124,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d62e9ad6dc8567e287a5abecda0756f5a0dd70dc4cca5064a58f929fb9b22de7",
+        "path": "data/variable-documentation/d62e9ad6dc8567e287a5abecda0756f5a0dd70dc4cca5064a58f929fb9b22de7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -5201,6 +7695,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "TAK",
       "variable": "Aktivitetsersättning",
+      "register_version": "2020",
+      "source_task_id": "26edc49c3803cceb785058579094153a33763a2e2e2c9e82392b4e2a1d4429f5",
+      "id": "113f165418a6746af78b45b3d8de0d2baa5c76a4d57e1466b8f6ef92dcaacc2e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TAK",
+          "ar_raw": "202001-202512",
+          "kallrad": 125,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c0cb157f39e9435942821f6f84b29d3190338c7c0d1b4b3e1e9417b1a0802838",
+        "path": "data/variable-documentation/c0cb157f39e9435942821f6f84b29d3190338c7c0d1b4b3e1e9417b1a0802838.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TAK",
+      "variable": "Aktivitetsersättning",
+      "register_version": "2021",
+      "source_task_id": "26edc49c3803cceb785058579094153a33763a2e2e2c9e82392b4e2a1d4429f5",
+      "id": "523b30e1ade46cd6b7916137af7f100ba8984c30f437edf4219acf7f8943b7d8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TAK",
+          "ar_raw": "202001-202512",
+          "kallrad": 125,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1042027f93f95c1c3e1184674d030582203e733217ac0616146356e2274991d",
+        "path": "data/variable-documentation/b1042027f93f95c1c3e1184674d030582203e733217ac0616146356e2274991d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TAK",
+      "variable": "Aktivitetsersättning",
       "register_version": "2022",
       "source_task_id": "26edc49c3803cceb785058579094153a33763a2e2e2c9e82392b4e2a1d4429f5",
       "id": "c5016478bab4164b40c2cd54c706c4f693c352c03dde60c573cb03a70d451d73",
@@ -5311,6 +7863,64 @@
         "path": "data/variable-documentation/38e48c02bc52676299c9bc0bbf7fb8df2bf8869100d6ad891a2ab18afc25131a.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TFORPT",
+      "variable": "Föräldrapenning, tillfällig vård av barn",
+      "register_version": "2020",
+      "source_task_id": "576307df739dcfd3184256db84b2419ac7f18526ee69ea866ad22a3402a1f888",
+      "id": "af73a3beb34dd3b920b2fac016a8a0868a47e5fb379fff6ec031082fffe62931",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TFORPT",
+          "ar_raw": "202001-202512",
+          "kallrad": 126,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "02d6011042cbf5f61496703d76065ac7846ef78c6c9c52401c27a32b77d7b1f9",
+        "path": "data/variable-documentation/02d6011042cbf5f61496703d76065ac7846ef78c6c9c52401c27a32b77d7b1f9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TFORPT",
+      "variable": "Föräldrapenning, tillfällig vård av barn",
+      "register_version": "2021",
+      "source_task_id": "576307df739dcfd3184256db84b2419ac7f18526ee69ea866ad22a3402a1f888",
+      "id": "3e385593f02c00192725249775c0cf9f85dd72af08e055531c82abb585090a2f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TFORPT",
+          "ar_raw": "202001-202512",
+          "kallrad": 126,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "462f2da70b568efcf12177974fdd3ccd4e67192514142be52df58f98d64bc2d4",
+        "path": "data/variable-documentation/462f2da70b568efcf12177974fdd3ccd4e67192514142be52df58f98d64bc2d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -5462,6 +8072,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "TREHAB",
       "variable": "Rehabiliteringsersättning",
+      "register_version": "2020",
+      "source_task_id": "11458194c237886dff240c26b0a101b5a50e849ce9cb6c1487b4351421d6ccd0",
+      "id": "5efc5c987889c1c0f2a97269feca41e19a8b3681020b221c108a42a2d158ed39",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TREHAB",
+          "ar_raw": "202001-202512",
+          "kallrad": 128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9de37e9625802ab4aa2e9977225671ba7c2ac1567cffc6a3a98249c67cf8e7dd",
+        "path": "data/variable-documentation/9de37e9625802ab4aa2e9977225671ba7c2ac1567cffc6a3a98249c67cf8e7dd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TREHAB",
+      "variable": "Rehabiliteringsersättning",
+      "register_version": "2021",
+      "source_task_id": "11458194c237886dff240c26b0a101b5a50e849ce9cb6c1487b4351421d6ccd0",
+      "id": "54ba1563957e8b2bb79ae05b967880992ecd3ef79b9004b1717483ac8da0441d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TREHAB",
+          "ar_raw": "202001-202512",
+          "kallrad": 128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd9e6f6e52f2bc15a4e5952e5687dc4a175e229c178af950cf19dbb96d190d00",
+        "path": "data/variable-documentation/fd9e6f6e52f2bc15a4e5952e5687dc4a175e229c178af950cf19dbb96d190d00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TREHAB",
+      "variable": "Rehabiliteringsersättning",
       "register_version": "2022",
       "source_task_id": "11458194c237886dff240c26b0a101b5a50e849ce9cb6c1487b4351421d6ccd0",
       "id": "7bb86ac3ed9564b89cd03c6adf0ecd2e21ee9f05a4e1a486b71b7c0f35ccad6a",
@@ -5572,6 +8240,64 @@
         "path": "data/variable-documentation/68d53c487cf90631cff004b4c2a661a5d3c04f9b868e3348b5ab00300e93e92f.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:00:37+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TSE",
+      "variable": "Sjukersättning",
+      "register_version": "2020",
+      "source_task_id": "2a8a38aab1a4d3bb1cea5dc1b94295ae64e6b6ccc2eab56a76beaf58a9967b2b",
+      "id": "a564867bb9de10ffc9cd89a744cb8760fb062316e9f92b16b45c42a96f53fa22",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TSE",
+          "ar_raw": "202001-202512",
+          "kallrad": 129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b46c9525233a31e19b38fbb216d06867abc6e7464cac4568a036f764d44be4c",
+        "path": "data/variable-documentation/2b46c9525233a31e19b38fbb216d06867abc6e7464cac4568a036f764d44be4c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TSE",
+      "variable": "Sjukersättning",
+      "register_version": "2021",
+      "source_task_id": "2a8a38aab1a4d3bb1cea5dc1b94295ae64e6b6ccc2eab56a76beaf58a9967b2b",
+      "id": "5b01d87149e3da54fcc7cd66d1d8bfc01f5e8a957555ae71a81e127d42659f34",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TSE",
+          "ar_raw": "202001-202512",
+          "kallrad": 129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "075f0ffec0e19621c9cd16d9e56717b7ffdbb7af52a01184b7eb7bfa78db22ab",
+        "path": "data/variable-documentation/075f0ffec0e19621c9cd16d9e56717b7ffdbb7af52a01184b7eb7bfa78db22ab.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
     },
     {
       "register": "Befolkningens arbetsmarknadsstatus (BAS)",
@@ -5694,6 +8420,64 @@
       "variant": "Prel. månadsuppg: första redovisningen",
       "column": "TSJUKP",
       "variable": "Sjukpenning",
+      "register_version": "2020",
+      "source_task_id": "924c2fc19ac2022f6575a5d66467d3ff58de80c751621017917629b5f283ae20",
+      "id": "d540a65aa4fea1cfd713cc9b0cfb205ef419fdcf2b545387d15031f6e8605b72",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TSJUKP",
+          "ar_raw": "202001-202512",
+          "kallrad": 130,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2644d584b990b18be03aa367091725bbe3e9690d6e25668fd2eb9885a4420616",
+        "path": "data/variable-documentation/2644d584b990b18be03aa367091725bbe3e9690d6e25668fd2eb9885a4420616.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TSJUKP",
+      "variable": "Sjukpenning",
+      "register_version": "2021",
+      "source_task_id": "924c2fc19ac2022f6575a5d66467d3ff58de80c751621017917629b5f283ae20",
+      "id": "fd12ad08f81b76c171a07bc40252fffca47d155dec5fa71230e1043f626210dc",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:18:41+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "bas_prelmanad",
+          "variabel": "TSJUKP",
+          "ar_raw": "202001-202512",
+          "kallrad": 130,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad2dbc9d633eb887101ba582fe0a07eb4287104e9c5d3859aad71fd6569f90fd",
+        "path": "data/variable-documentation/ad2dbc9d633eb887101ba582fe0a07eb4287104e9c5d3859aad71fd6569f90fd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:18:41+00:00"
+    },
+    {
+      "register": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "variant": "Prel. månadsuppg: första redovisningen",
+      "column": "TSJUKP",
+      "variable": "Sjukpenning",
       "register_version": "2022",
       "source_task_id": "924c2fc19ac2022f6575a5d66467d3ff58de80c751621017917629b5f283ae20",
       "id": "86a46a65e8e52b28c96ede78a26567487037080bede7d3fbea848913b3a43c46",
@@ -5808,6 +8592,14 @@
   ],
   "domains": [
     {
+      "version": "2021-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "03e31b46506d3d5cb3b4b5ec2f0984088f623f368b224fb5b1f6fe3a9223e714",
+      "value_count": 291,
+      "path": "data/value-domain-values/03e31b46506d3d5cb3b4b5ec2f0984088f623f368b224fb5b1f6fe3a9223e714.json"
+    },
+    {
       "version": "Standard för indelning efter juridisk form 2020",
       "level": "Nivå 1",
       "data_type": "char(2)",
@@ -5864,12 +8656,28 @@
       "path": "data/value-domain-values/412a426562d09e2054f33ee5461fed33605cdae58dde189ce1e6ff67afe75575.json"
     },
     {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "428a00cd2937292e1c5d9fa6e6820841d2032795e839163d199dcd253d115456",
+      "value_count": 291,
+      "path": "data/value-domain-values/428a00cd2937292e1c5d9fa6e6820841d2032795e839163d199dcd253d115456.json"
+    },
+    {
       "version": "Standard för institutionell sektorindelning 2014",
       "level": "Detaljgrupp",
       "data_type": "char(6)",
       "id": "457c1928b009d7fd0d6de700392fd9bab6aa4a0fdb68258d930ffb2ac479f644",
       "value_count": 53,
       "path": "data/value-domain-values/457c1928b009d7fd0d6de700392fd9bab6aa4a0fdb68258d930ffb2ac479f644.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395",
+      "value_count": 21,
+      "path": "data/value-domain-values/4c7934644968fa524ab56221f0a031302b9a4a2a05a0c797194dfd3c48951395.json"
     },
     {
       "version": "Beskrivande text",
@@ -5912,6 +8720,14 @@
       "path": "data/value-domain-values/743a35404a741e4d607a2204831f97303942c6776e5c6785686df65cdeb3da52.json"
     },
     {
+      "version": "2021-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "value_count": 290,
+      "path": "data/value-domain-values/7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631.json"
+    },
+    {
       "version": "2022-01-01/ Län, kommuner och församlingar ",
       "level": "Län",
       "data_type": "char(2)",
@@ -5942,6 +8758,22 @@
       "id": "c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e",
       "value_count": 7,
       "path": "data/value-domain-values/c30361a925a41b83109e31d91c6312fc4f6a18fbffb86511e9c4cb99085cea7e.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "value_count": 290,
+      "path": "data/value-domain-values/c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85.json"
+    },
+    {
+      "version": "2021-01-01/ Län, kommuner och församlingar ",
+      "level": "Län",
+      "data_type": "char(2)",
+      "id": "c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c",
+      "value_count": 21,
+      "path": "data/value-domain-values/c6860311bbd3145f6d87a014c7d6ceb661f1b2a93d469587d0a781815d1ddb8c.json"
     },
     {
       "version": "2024-01-01 /Län, kommuner och församlingar",
@@ -6009,16 +8841,16 @@
     }
   ],
   "coverage": {
-    "complete": false,
+    "complete": true,
     "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "7635969219e00e78d0eb3197a9f42317661df274ee31c5e1f65f8e2adb77b466",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T07:00:37+00:00",
+    "retrieved_at": "2026-11-21T10:18:41+00:00",
     "task_count": 52,
     "expected_bindings": 296,
-    "documented_bindings": 200,
+    "documented_bindings": 296,
     "errors": []
   }
 }

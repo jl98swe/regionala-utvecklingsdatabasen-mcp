@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Tillfälligt frånvarande"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om en individ ska räknas som tillfälligt frånvarande och därmed sysselsatt med hjälp av pengar från Försäkringskassan. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Personen har under minst en av de elva månader som föregår referensmånaden fått utbetalning av ersättning för arbete som är underlag för arbetsgivaravgifter enligt AGI. Dessutom har fått utbetald ersättning från Försäkringskassan under samtliga efterföljande månader fram till och med referensmånaden. Ersättningen från Försäkringskassan ska vara av typen föräldrapenning, tillfällig föräldrapenning, graviditetspenning, sjukpenning, rehabiliteringspenning, arbets- eller yrkesskadepenning, närståendepenning, smittbärarpenning eller ersättning till riskgrupp.  "
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Variabeln är en känslig personuppgift enligt dataskyddsförordningen, för att få behandla en sådan uppgift måste det finnas stöd för behandlingen."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus respektive referensmånad under 2020."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2019-12-31 - 2020-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från uppgiftskällorna Skatteverket, Bolagsverket, Arbetsförmedlingen, Försäkringskassan, Centrala studiestödsnämnden, Socialstyrelsen och Pensionsmyndigheten, samt från Registret över totalbefolkningen (RTB)."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Preliminära månadsuppgifter: första redovisningen"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Prel. månadsuppg: första redovisningen"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "De preliminära uppgifterna för perioden januari 2020 till februari 2026 har reviderats. I denna variant redovisas de uppgifter som låg till grund för den statistik som redovisades vid det första publiceringstillfället. Syftet med att ta fram preliminära register är att möjliggöra en så snabb redovisning som möjligt av statistik om arbetsmarknadsstatus efter referensmånaden."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    }
+  ],
+  "id": "6b38a0f7902fe3b18121974850bf6b3815228a03e3c6722ffce3d8e3b4892f19"
+}
