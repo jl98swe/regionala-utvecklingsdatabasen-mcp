@@ -1,0 +1,28 @@
+{
+  "version": "Lägenhetskategori",
+  "level": "Lägenhetskategori",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Vanlig bostad"
+    },
+    {
+      "code": "2",
+      "label": "Specialbostad för äldre eller funktionshindrade"
+    },
+    {
+      "code": "3",
+      "label": "Specialbostad, studentbostad"
+    },
+    {
+      "code": "4",
+      "label": "Annan specialbostad"
+    },
+    {
+      "code": "9",
+      "label": "Uppgift saknas"
+    }
+  ],
+  "id": "c092427a1580d19c0fd6186d85e2bad9c941d8125cb25727fbd621c865e4767e"
+}

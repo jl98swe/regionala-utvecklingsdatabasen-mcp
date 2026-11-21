@@ -1,0 +1,48 @@
+{
+  "version": "Lägenhetstyp4",
+  "level": "Lägenhetstyp",
+  "data_type": "varchar(8)",
+  "values": [
+    {
+      "code": "1R+",
+      "label": "Lägenheter utan köksutrustning"
+    },
+    {
+      "code": "1RK",
+      "label": "1 rum och kök"
+    },
+    {
+      "code": "1RKV+KS",
+      "label": "1 rum och kokvrå/kokskåp"
+    },
+    {
+      "code": "2RK",
+      "label": "2 rum och kök"
+    },
+    {
+      "code": "2RKV+KS",
+      "label": "2 eller flera rum och kokvrå/kokskåp"
+    },
+    {
+      "code": "3RK",
+      "label": "3 rum och kök"
+    },
+    {
+      "code": "4RK",
+      "label": "4 rum och kök"
+    },
+    {
+      "code": "5RK",
+      "label": "5 rum och kök"
+    },
+    {
+      "code": "6+RK",
+      "label": "6 eller flera rum och kök"
+    },
+    {
+      "code": "UPPGSAKN",
+      "label": "Uppgift saknas"
+    }
+  ],
+  "id": "346d1f2227c9cc806543b1e38037cdd541db5155908af1f414bd37adf7fe03c1"
+}
