@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T11:30:40+00:00",
+  "checked_at": "2026-11-21T11:47:32+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 8817,
-    "documentation": 8562,
-    "nonempty_definition": 8562,
-    "nonempty_method": 8562,
-    "verified_domains": 8785,
-    "enumerated": 4299,
-    "not_enumerated": 4486,
-    "complete_groups": 34,
-    "groups_with_source_errors": 14,
-    "documentation_only": 32,
+    "bindings": 9404,
+    "documentation": 9268,
+    "nonempty_definition": 9268,
+    "nonempty_method": 9268,
+    "verified_domains": 9363,
+    "enumerated": 4539,
+    "not_enumerated": 4824,
+    "complete_groups": 35,
+    "groups_with_source_errors": 11,
+    "documentation_only": 41,
     "groups": 51,
-    "unique_domains": 805
+    "unique_domains": 822
   },
   "integrity_errors": [],
   "groups": [
@@ -325,20 +325,17 @@
       "views": [
         "fh_del"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 245,
-      "bindings": 200,
-      "documentation": 139,
-      "nonempty_definition": 139,
-      "nonempty_method": 139,
-      "verified_domains": 200,
-      "enumerated": 183,
-      "not_enumerated": 17,
-      "source_errors": 65,
-      "source_error_examples": [
-        "KursInr 2024: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}",
-        "KursInr 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kursinr', 'Vardemangdsniva': 'Kursinriktning, folkhögskolan', 'Vardekod': '096', 'Vardebenamning': 'Romani chib', 'Kolumnnamn': None, 'Datatyp': None}"
-      ]
+      "bindings": 245,
+      "documentation": 245,
+      "nonempty_definition": 245,
+      "nonempty_method": 245,
+      "verified_domains": 245,
+      "enumerated": 225,
+      "not_enumerated": 20,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "d149fc0676ac1aaa3b29",
@@ -661,19 +658,16 @@
         "kvx_kursdelt_vt"
       ],
       "complete": false,
-      "expected_bindings": 307,
-      "bindings": 200,
-      "verified_domains": 200,
-      "enumerated": 177,
-      "documentation": 6,
-      "nonempty_definition": 6,
-      "nonempty_method": 6,
-      "not_enumerated": 23,
-      "source_errors": 58,
-      "source_error_examples": [
-        "ProVal 2019: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"ProVal\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Komvux\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Kursdeltagare\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Prövning och validering\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2010\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2019 vårterminen\", exact=True))\n    6 × locator resolved to 0 elements\n      - unexpected value \"0\"\n    - waiting for\" https://mikrometadata.scb.se/\" navigation to finish...\n    - navigated to \"https://mikrometadata.scb.se/\"\n    57 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
-        "Provn 2024: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n"
-      ]
+      "expected_bindings": 770,
+      "bindings": 342,
+      "verified_domains": 342,
+      "enumerated": 308,
+      "documentation": 206,
+      "nonempty_definition": 206,
+      "nonempty_method": 206,
+      "not_enumerated": 34,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "13e34ef1f296df0a710d",
@@ -700,13 +694,14 @@
       ],
       "complete": false,
       "expected_bindings": 501,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 155,
-      "enumerated": 45,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 391,
+      "not_enumerated": 307,
+      "enumerated": 84,
+      "documentation_only": 9,
       "source_errors": 9,
       "source_error_examples": [
         "Ast_Sni2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []",
@@ -720,18 +715,15 @@
       ],
       "complete": false,
       "expected_bindings": 1541,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 175,
-      "enumerated": 25,
-      "source_errors": 5,
-      "source_error_examples": [
-        "Org_InstKod10 2023: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 2014', 'Vardemangdsniva': '10-siffrig kod  ', 'Vardekod': '1110004121', 'Vardebenamning': 'Icke-finansiella bolag, utom statliga affärsverk, filialer i Sverige till icke-finansiella bolag i utlandet och icke-vinstdrivande organisationer som betjänar icke-finansiella bolag Privat svenskt utan koncern Enkla bolag', 'Kolumnnamn': None, 'Datatyp': None}",
-        "Org_InstKod6 2000: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Enhetsindelning 1999', 'Vardemangdsniva': '6-siffrig kod  ', 'Vardekod': '110922', 'Vardebenamning': 'Icke-finansiella företag Övrigt ägande Partrederier', 'Kolumnnamn': None, 'Datatyp': None}"
-      ]
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 400,
+      "not_enumerated": 347,
+      "enumerated": 53,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "6bc9ed1d4e419ad37519",
@@ -1023,8 +1015,8 @@
       "documented_columns": 2
     },
     "fh_del": {
-      "documented_versions": 139,
-      "documented_columns": 15
+      "documented_versions": 245,
+      "documented_columns": 16
     },
     "fodelseuppg": {
       "documented_versions": 97,
@@ -1099,20 +1091,20 @@
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
-      "documented_versions": 6,
-      "documented_columns": 6
+      "documented_versions": 206,
+      "documented_columns": 13
     },
     "kvx_kursdelt_vt": {
-      "documented_versions": 6,
-      "documented_columns": 6
+      "documented_versions": 206,
+      "documented_columns": 13
     },
     "lisa_arbst": {
-      "documented_versions": 200,
-      "documented_columns": 21
+      "documented_versions": 400,
+      "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 200,
-      "documented_columns": 66
+      "documented_versions": 400,
+      "documented_columns": 68
     },
     "lisa_individ": {
       "documented_versions": 800,
