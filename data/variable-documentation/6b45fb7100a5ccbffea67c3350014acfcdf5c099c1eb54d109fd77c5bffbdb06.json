@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "smalldatetime"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Källtid"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Datum för angivelse från källa."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Aktualiteten bedöms vara olika för olika källor och källtiden skrivs därför tillbaka mellan 0 och 480 dagar. Datum när företaget blev inaktivt avseende moms- och/eller f-skatt och/eller arbetsgivarregistrering."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Företagsdatabasen (FDB) : Juridiska enheter"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Datum"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller samtliga jurdiska enheter vid aktuell tidpunkt."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga juridiska enheter i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE) i FDB: samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Samtliga juridiska enheter (JE) som var registrerade år 2014."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2014-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Samtliga uppgifter om juridiska enheter är hämtade direkt från Företagsdatabasen och Koncernregistret, bortsett från några få kombinationsvariabler som är konstruerade med hjälp av information från Företagsdatabasen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Juridiska enheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Juridiska enheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Juridiska enheter (JE) i SCB:s företagsregister omfattar samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Registernamn",
+      "value": "SCB:s företagsregister"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "SCB:s företagsregister"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "SCB ska, enligt förordning SFS 1984:692, hålla ett allmänt företagsregister. Registret innehåller samtliga registrerade företag i Sverige och dess arbetsställen. "
+    }
+  ],
+  "id": "6b45fb7100a5ccbffea67c3350014acfcdf5c099c1eb54d109fd77c5bffbdb06"
+}

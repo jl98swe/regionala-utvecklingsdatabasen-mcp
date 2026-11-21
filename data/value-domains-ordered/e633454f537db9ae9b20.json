@@ -1,0 +1,1192 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "e633454f537db9ae9b20",
+  "register": "SCB:s företagsregister",
+  "variant": "Juridiska enheter",
+  "bindings": [
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "1999",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "2551b6bc4b5943e7c14bd96199df584d5cc35451d767c6079ad7050ae20ab193",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "904b94de9335023cfe406b9b4ca022445d4e4ec7609c6ee0bbebd1def65a8a6d",
+        "path": "data/variable-documentation/904b94de9335023cfe406b9b4ca022445d4e4ec7609c6ee0bbebd1def65a8a6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2000",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "806d8ebc7be8902ea0b55c8b314361981c268b7a18abe40240fe19ef5a8ed79a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2021ea7f0b48675a07245c88faccb58f5d2e5c05752ae4c505f01193915e7c36",
+        "path": "data/variable-documentation/2021ea7f0b48675a07245c88faccb58f5d2e5c05752ae4c505f01193915e7c36.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2001",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "f509a81b99d43fe90ee67a7966318c64fedabf6fb94701c2b66defb761c752d5",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa1e2c58ba0be9944f596a3d177ff8f2ff2a38724867eb0109fe88ee47224a61",
+        "path": "data/variable-documentation/fa1e2c58ba0be9944f596a3d177ff8f2ff2a38724867eb0109fe88ee47224a61.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2002",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "b08dd3ce04218fbea3a0ac7d5f7925b72b7aa223e3e3bd3a75d61b61e225d1a5",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d7ff6bf77f7a41f167aa26644cccdef8fed56191c8b1a6de03fabfbba07a0fd2",
+        "path": "data/variable-documentation/d7ff6bf77f7a41f167aa26644cccdef8fed56191c8b1a6de03fabfbba07a0fd2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2003",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "02888db18990e39c0e94ca1ee66e7bc6d8c1a07df303ad0712bb159e2b3a39f1",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b24914794da547e32918270286732ad11e442145e0a58bbbf16ab76027e0baf9",
+        "path": "data/variable-documentation/b24914794da547e32918270286732ad11e442145e0a58bbbf16ab76027e0baf9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2004",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "e074c5ee8b558ca516e8323e510d6db05e1a5d35c72c4bf59e887a1ba47e46b5",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ef458e2b4d43101ef3d013ab515921b39146ffc9d3a5c324de3d1f57e881fea0",
+        "path": "data/variable-documentation/ef458e2b4d43101ef3d013ab515921b39146ffc9d3a5c324de3d1f57e881fea0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2005",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "710ad6dbb253eb1e63c8f492ab03917ee38817dc3b54deb8b4a2b448c026388d",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5924fc4a69c5697565264725c2b2f1dc9e7ce67d3bcc19af7d197390652908ee",
+        "path": "data/variable-documentation/5924fc4a69c5697565264725c2b2f1dc9e7ce67d3bcc19af7d197390652908ee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2006",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "83bc1fa6b0e147a025ca9ea81023824e7cceb371119264c1e04333fae8172fa6",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6f18e921dda2da23e3f7aacaf9fe465721402623fd480455584e33d2ce3e10b4",
+        "path": "data/variable-documentation/6f18e921dda2da23e3f7aacaf9fe465721402623fd480455584e33d2ce3e10b4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2007",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "928176401e123379c2b9b3fadcacca741d2d24cd72a23aba40cc7afe24fa194b",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4ac66ffd7dedae405660b7d9b259375275e46ec6de6b364c2f065af61b52cb10",
+        "path": "data/variable-documentation/4ac66ffd7dedae405660b7d9b259375275e46ec6de6b364c2f065af61b52cb10.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2008",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "412a4a4007d89370fe161b19dbc0bc2b3f0fcc8210afcd7dc7bfae1300232ada",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b31af876ed824845023c27184bd26084e5102f572094aa5f2365904134c4bd2a",
+        "path": "data/variable-documentation/b31af876ed824845023c27184bd26084e5102f572094aa5f2365904134c4bd2a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2009",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "4f130500b0a699c11f0d5a34dade16146b49c3597a06c6a3bf2adbd9f9172f9a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "73b5866c59ad11b556cc4b90f37080b6a101dc4894c631d89dfeebfecaa75f46",
+        "path": "data/variable-documentation/73b5866c59ad11b556cc4b90f37080b6a101dc4894c631d89dfeebfecaa75f46.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2010",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "88c6a16595b355d8798aba7b464bb4df6f666f83614691e40e24458debf9c63e",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "800048489974b8076c7fc16d48033d4f0bc96c0469f75b696d1c384270b05a0f",
+        "path": "data/variable-documentation/800048489974b8076c7fc16d48033d4f0bc96c0469f75b696d1c384270b05a0f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2011",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "b4251da3520b32d6fff7f86da185c5f2982b9db572df07c6a499d2cde8657d0d",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e3a4d6a050604bb79d4e3b3fadca5190308f385835bee4631283dd32fdb40988",
+        "path": "data/variable-documentation/e3a4d6a050604bb79d4e3b3fadca5190308f385835bee4631283dd32fdb40988.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2012",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "91ae490b1e1b2d7de9ab910b8a481901dda9f7cc034695e2badf10d18f73eb7e",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c8b4e1969728fd75359a6cfd6a035684c3792f7a8cf9d7903d3c60e6379081c",
+        "path": "data/variable-documentation/0c8b4e1969728fd75359a6cfd6a035684c3792f7a8cf9d7903d3c60e6379081c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2013",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "6c83b7a91767bf397ad07efce502f6f12d1178049d2de702806120c6fcfce360",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e5779b4f21ebcc9d0b940e89f31f77d269961bb98cbb87d172b17fd28d3a713c",
+        "path": "data/variable-documentation/e5779b4f21ebcc9d0b940e89f31f77d269961bb98cbb87d172b17fd28d3a713c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2014",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "0bdd20581a33f48e16428fe252983289747a3f5dbd8fb5a55db05a5e3bf04405",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6b45fb7100a5ccbffea67c3350014acfcdf5c099c1eb54d109fd77c5bffbdb06",
+        "path": "data/variable-documentation/6b45fb7100a5ccbffea67c3350014acfcdf5c099c1eb54d109fd77c5bffbdb06.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2015",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "eddc117e91f2b9aba184f8d3f9b180e0d16293928614a8b54098be500a5417fb",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d0ee19600bf28fdcf5a2e4a039f24b580541589fc654ff9acd6971929fb2f7f6",
+        "path": "data/variable-documentation/d0ee19600bf28fdcf5a2e4a039f24b580541589fc654ff9acd6971929fb2f7f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2016",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "b060b4b7e85e589606ab3c3476df74803b8b2635b9895e01d148bfb933eefb68",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6d7ba45832d68d1276ae87a8db416a33b6eecf497ebbda0c018c63e879bef3d8",
+        "path": "data/variable-documentation/6d7ba45832d68d1276ae87a8db416a33b6eecf497ebbda0c018c63e879bef3d8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2017",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "e8bc477847eefcc85ffbd589f13ad7c97cd8a66acdd959ae77e314e59e5675ee",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbe0007ce9fd144b7bc3a36fb4ae58d7c8cfa343311e8d5b77ec02551530aa87",
+        "path": "data/variable-documentation/dbe0007ce9fd144b7bc3a36fb4ae58d7c8cfa343311e8d5b77ec02551530aa87.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2018",
+      "source_task_id": "8081ee8d46348bf4016ec9402243d956f9d3386e231f60c0372c7187eba003c2",
+      "id": "61424335e855c2aae5a618b6aa96db45f0761faf54da1aaac22714cdda6e73a7",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 365,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6fa9af4570f41ea7c259fc2cb67874913a7e651d3eb29c4a4213e7d2d88d54ea",
+        "path": "data/variable-documentation/6fa9af4570f41ea7c259fc2cb67874913a7e651d3eb29c4a4213e7d2d88d54ea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "1999",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "3ab67971b7910fe5eb8840b772f474fe9dcacd0c8076f407136e12eaa57c3f93",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8c01b75a8af7442a4a1c9c60de28c0f78e4282db3b09f1c1e8572493c3631b43",
+        "path": "data/variable-documentation/8c01b75a8af7442a4a1c9c60de28c0f78e4282db3b09f1c1e8572493c3631b43.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2000",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "5aaac75e98d06131fb7ac69a78ea347d5be800535fd11da1f36c2726a89f34cf",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9696437ff7c3c0f6098a0fd09eeed1e5d9dbfcbb3a95dbd1350873854ea77bfc",
+        "path": "data/variable-documentation/9696437ff7c3c0f6098a0fd09eeed1e5d9dbfcbb3a95dbd1350873854ea77bfc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2001",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "c6bb1facb3df2aef1cf21df4e5499c11de9605e6b7056c6405dc2d8ab41e24df",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7565bd615b5d4383580a39a4e0fc70c65a24b85f831743de2d0f71e2a51c1bff",
+        "path": "data/variable-documentation/7565bd615b5d4383580a39a4e0fc70c65a24b85f831743de2d0f71e2a51c1bff.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2002",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "89dc8867fa81f8a271e8b3861b81776e5c47052964cf8f6a99f5079fcfef9def",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a2ad30e70f9520fcc9774a858a45820882f1d646016b58cb84ea0fe85a646729",
+        "path": "data/variable-documentation/a2ad30e70f9520fcc9774a858a45820882f1d646016b58cb84ea0fe85a646729.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2003",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "c29ef414a588c677f5a1a60419d9d9f931a9e285e6137a827ba2b46811ab2ee1",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1b27c5ed3392ff30a0889acd577192b2644705f42a05400a7d45b59dff022f2",
+        "path": "data/variable-documentation/b1b27c5ed3392ff30a0889acd577192b2644705f42a05400a7d45b59dff022f2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2004",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "bf8059c169c417b80de7766c8b38b0468176827d74655dd7633002ddfed0977d",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4c409c48b5ed2c3fd2bafccffc5915020d4014015e726a159cd76ca01b6d1104",
+        "path": "data/variable-documentation/4c409c48b5ed2c3fd2bafccffc5915020d4014015e726a159cd76ca01b6d1104.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2005",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "34e219ecd2612870dda1567be96286477093549bcde5be22c8fae1e969910361",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b8b603d3843c2b8b16dabf4c9f978d892e88f064244f04d17559305153267287",
+        "path": "data/variable-documentation/b8b603d3843c2b8b16dabf4c9f978d892e88f064244f04d17559305153267287.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2006",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "0609deba473fb5e3a38555ad3e4a008674932213d8e765089a147d2f832e7a89",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "865c9ffd365b5c728ead002d63cb3badd20c8f8ca0c8d60b92841f959f177c4a",
+        "path": "data/variable-documentation/865c9ffd365b5c728ead002d63cb3badd20c8f8ca0c8d60b92841f959f177c4a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2007",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "833def7fb8e712e6188e574a2945caf5dedb060c508e279842a16b16a244d188",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "86c20410c664a8f5b0d404d2b9515e3d95b430fabb3a3bc4a96b69cb14bcda96",
+        "path": "data/variable-documentation/86c20410c664a8f5b0d404d2b9515e3d95b430fabb3a3bc4a96b69cb14bcda96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2008",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "f2967f7a06e987e1f5b488e74cbb66737d470aa061212fa2b18d0751afe79ce7",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "01209f0d53477133bbd7a5c77e2a3af3cdaf8fa8b1dbdf9701db54cc98a0cbce",
+        "path": "data/variable-documentation/01209f0d53477133bbd7a5c77e2a3af3cdaf8fa8b1dbdf9701db54cc98a0cbce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2009",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "953fdeb82324b5cee23105923df2840e69399d30238f148c37b5b53ebc0ed814",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bb0fca58ded88b6d1363da884a4e92547c059eb06ea845be2fd0da9714f0b38b",
+        "path": "data/variable-documentation/bb0fca58ded88b6d1363da884a4e92547c059eb06ea845be2fd0da9714f0b38b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2010",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "28917cbdc9fa1df218104f0790fbb3c0a843627dfff5fc17577c118de9fc1164",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "91392d78988b66cffb59a49e6055c0531f37d4ec3aa938b4adf7cf8caa55b9d6",
+        "path": "data/variable-documentation/91392d78988b66cffb59a49e6055c0531f37d4ec3aa938b4adf7cf8caa55b9d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2011",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "795873cff93b6376431355a8167d78a38bf2903ebc053889f7ced017a41eee3e",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e9856449c451a1198021054b3f4f5fdacade5e121feb73dbe62a7fb726f8b63e",
+        "path": "data/variable-documentation/e9856449c451a1198021054b3f4f5fdacade5e121feb73dbe62a7fb726f8b63e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2012",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "cd9df9c2872e4da146932ab7972ad1aa0ffb2fdf8228b120bd4993148a5077a4",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a42d9efb02ba38b6e6ea98fb1941935f7b865cdd5e664b58d461d4de32cb93e0",
+        "path": "data/variable-documentation/a42d9efb02ba38b6e6ea98fb1941935f7b865cdd5e664b58d461d4de32cb93e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2013",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "5d3e6344b6af427d7c27f60ed20431217ca284a83e22cb4aa56669fb2988a25a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fa5547aa13572070c7df6a974c18e47fc6eda112d869c9f9db56fed7dd3cc1e",
+        "path": "data/variable-documentation/1fa5547aa13572070c7df6a974c18e47fc6eda112d869c9f9db56fed7dd3cc1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2014",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "81ee3a62c34d456c1a504b56ced928f043e155ca282b482b3b6bb0c61ff278a4",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7c85f420b7d229add76e4877ccc083fbd9418f9d6c5fd182167346137c17f2ae",
+        "path": "data/variable-documentation/7c85f420b7d229add76e4877ccc083fbd9418f9d6c5fd182167346137c17f2ae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2015",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "4b2c37359977f1f55be395dc8bb75a6c310a33728b798e09a9d038936d0a2a80",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "42ab83aa0b40b08a33b431fcc071aa5d64dc63c932e4d1f37123754b5d19ad07",
+        "path": "data/variable-documentation/42ab83aa0b40b08a33b431fcc071aa5d64dc63c932e4d1f37123754b5d19ad07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2016",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "de65220d3e0c5256cbb371a385fc504f73daecb9c71505f707977c74eb8bbe77",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c77955e092696334001e7084eadd16ac3d5046ddd7e3d7abc9a49e3283516284",
+        "path": "data/variable-documentation/c77955e092696334001e7084eadd16ac3d5046ddd7e3d7abc9a49e3283516284.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2017",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "c2a93c9cd3e4c8c0075317b7881a61bf72e822e531ed055dc4e5a8d9e920900f",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc5bfe7d5a9e228ac1ab69e5e5dd3402fc6c6a6867c142cc0d7ed498c7c9293f",
+        "path": "data/variable-documentation/dc5bfe7d5a9e228ac1ab69e5e5dd3402fc6c6a6867c142cc0d7ed498c7c9293f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2018",
+      "source_task_id": "b83c7579be660e576cff53ad8ba90af18a8586963c3f291d56563813251f849e",
+      "id": "5679f5c1109c078cfcb592ab67c9480a77e36647e1dbfd6c10f80e6aa593382a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:50:07+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 366,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "49ba9646e485c102545f9a0f91078d4375a89b15895bdff7e2aed5786a37f3d3",
+        "path": "data/variable-documentation/49ba9646e485c102545f9a0f91078d4375a89b15895bdff7e2aed5786a37f3d3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:50:07+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "smalldatetime",
+      "id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "value_count": 0,
+      "path": "data/value-domain-values/a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "b7120632a0208128c50cde18538c39105b07b2f5506ab8a98af8373a47adcc83",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:50:07+00:00",
+    "task_count": 2,
+    "expected_bindings": 40,
+    "documented_bindings": 40,
+    "errors": []
+  }
+}
