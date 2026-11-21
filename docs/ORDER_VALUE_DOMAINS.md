@@ -101,7 +101,7 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 
 ### fek_lve
 
-Granskning 2026-11-21 i Mikrometadata: lgr6101 benämns Medelantal anställda, definieras som årsanställda omräknade till heltid och har måttenhet Antal. lhar6103 benämns Sysselsatta (RAMS), definieras som antal sysselsatta enligt RAMS och har måttenhet Antal. Objekttypen är Lokal verksamhetsenhet. Dessa används som dokumentationsalias för de två motsvarande beställningsnamnen; de bevisar inte numerisk skala eller bearbetning i MONA. Endast dokumenterade källversioner används: 2003–2024 respektive 2003–2021. Beställningens tidigare år blir inte verifierade av dessa källversioner.
+Granskning 2026-11-21 i Mikrometadata: lgr6101 benämns Medelantal anställda, definieras som årsanställda omräknade till heltid och har måttenhet Antal. lhar6103 benämns Sysselsatta (RAMS), definieras som antal sysselsatta enligt RAMS och har måttenhet Antal. Objekttypen är Lokal verksamhetsenhet. Dessa används som dokumentationsalias för de två motsvarande beställningsnamnen; de bevisar inte numerisk skala eller bearbetning i MONA. Endast dokumenterade källversioner används: 2003–2024 respektive 2003–2021. Beställningens tidigare år blir inte verifierade av dessa källversioner. Användarbeslut 2026-11-21: samma definition antas gälla för MedeltalAnstallda 1998–2002 och SysselsattaRAMS 2002. Detta är ett uttryckligt antagande; inga SCB-versioner eller kodlistor skapas för dessa tidigare år.
 
 
 - [Källunderlag](https://mikrometadata.scb.se/)
