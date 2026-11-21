@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T11:11:02+00:00",
+  "checked_at": "2026-11-21T11:23:54+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 8411,
-    "documentation": 8109,
-    "nonempty_definition": 8109,
-    "nonempty_method": 8109,
-    "verified_domains": 8385,
-    "enumerated": 4108,
-    "not_enumerated": 4277,
-    "complete_groups": 31,
-    "groups_with_source_errors": 18,
-    "documentation_only": 26,
+    "bindings": 8770,
+    "documentation": 8515,
+    "nonempty_definition": 8515,
+    "nonempty_method": 8515,
+    "verified_domains": 8738,
+    "enumerated": 4252,
+    "not_enumerated": 4486,
+    "complete_groups": 32,
+    "groups_with_source_errors": 16,
+    "documentation_only": 32,
     "groups": 51,
-    "unique_domains": 753
+    "unique_domains": 787
   },
   "integrity_errors": [],
   "groups": [
@@ -292,16 +292,16 @@
       ],
       "complete": false,
       "expected_bindings": 519,
-      "bindings": 247,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 247,
-      "not_enumerated": 247,
-      "source_errors": 47,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 399,
+      "not_enumerated": 399,
+      "documentation_only": 1,
+      "source_errors": 1,
       "source_error_examples": [
-        "V0806 2006: Locator expected to have class 're.compile('\\\\bmud-theme-primary\\\\b')'\nActual value: mud-table-row mud-table-row-stripe\nError: element(s) not found \nCall log:\n  - Expect \"to_have_class\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"V0806\", exact=True)).filter(has=get_by_role(\"cell\", name=\"FRIDA\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Enskilda näringsidkare\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Avdragsgilla kostnader för resor mellan bostad och arbetsplats över 7 000 kr m.m.\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2000\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2006\", exact=True))\n    3 × locator resolved to <tr class=\"mud-table-row mud-table-row-stripe\">…</tr>\n      - unexpected value \"mud-table-row mud-table-row-stripe\"\n",
-        "V0806 2006: Locator.fill: Timeout 60000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"textbox\", name=\"Söktext\", exact=True)\n"
+        "V7600 2017: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -399,13 +399,14 @@
       ],
       "complete": false,
       "expected_bindings": 118,
-      "bindings": 113,
-      "documentation": 113,
-      "nonempty_definition": 113,
-      "nonempty_method": 113,
+      "bindings": 118,
+      "documentation": 118,
+      "nonempty_definition": 118,
+      "nonempty_method": 118,
       "verified_domains": 113,
       "not_enumerated": 46,
       "enumerated": 67,
+      "documentation_only": 5,
       "source_errors": 5,
       "source_error_examples": [
         "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
@@ -576,12 +577,16 @@
         "avggymn"
       ],
       "complete": false,
-      "expected_bindings": 0,
-      "source_errors": 21,
-      "source_error_examples": [
-        "Antal_Ar: inga verifierade beställningsperioder i källversionerna ['Läsåret 2004/2005', 'Läsåret 2024/2025']..['Läsåret 2004/2005', 'Läsåret 2024/2025']",
-        "Avgangen: inga verifierade beställningsperioder i källversionerna ['Läsåret 2013/2014', 'Läsåret 2024/2025']..['Läsåret 2013/2014', 'Läsåret 2024/2025']"
-      ]
+      "expected_bindings": 354,
+      "bindings": 200,
+      "documentation": 200,
+      "nonempty_definition": 200,
+      "nonempty_method": 200,
+      "verified_domains": 200,
+      "not_enumerated": 57,
+      "enumerated": 143,
+      "source_errors": 0,
+      "source_error_examples": []
     },
     {
       "id": "549b90ffd0085daedb04",
@@ -913,25 +918,27 @@
       "views": [
         "yh_stud"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 36,
-      "bindings": 35,
-      "documentation": 35,
-      "nonempty_definition": 35,
-      "nonempty_method": 35,
-      "verified_domains": 35,
-      "enumerated": 10,
+      "bindings": 36,
+      "documentation": 36,
+      "nonempty_definition": 36,
+      "nonempty_method": 36,
+      "verified_domains": 36,
+      "enumerated": 11,
       "not_enumerated": 25,
-      "source_errors": 1,
-      "source_error_examples": [
-        "SUN5Inr_Utb 2005-2025: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Utbildningsinriktning MYH', 'Vardemangdsniva': 'Utbildningsinriktning MYH', 'Vardekod': '211xy', 'Vardebenamning': 'Övriga utbildningar inom bild- och formkonst', 'Kolumnnamn': None, 'Datatyp': None}"
-      ]
+      "source_errors": 0,
+      "source_error_examples": []
     }
   ],
   "views": {
     "ak6": {
       "documented_versions": 76,
       "documented_columns": 6
+    },
+    "avggymn": {
+      "documented_versions": 200,
+      "documented_columns": 20
     },
     "bas": {
       "documented_versions": 190,
@@ -982,7 +989,7 @@
       "documented_columns": 3
     },
     "fdb_ast": {
-      "documented_versions": 113,
+      "documented_versions": 118,
       "documented_columns": 5
     },
     "fdb_fe": {
@@ -1038,7 +1045,7 @@
       "documented_columns": 8
     },
     "frida_ne": {
-      "documented_versions": 182,
+      "documented_versions": 371,
       "documented_columns": 38
     },
     "ftg_fou": {
@@ -1154,8 +1161,8 @@
       "documented_columns": 6
     },
     "yh_stud": {
-      "documented_versions": 35,
-      "documented_columns": 35
+      "documented_versions": 36,
+      "documented_columns": 36
     }
   },
   "interpretation": "Complete gäller bara granskade källvarianter och identifierade dokumentationsversioner. Det är inte full täckning av alla beställda variabler. Tomma metodfält fylls inte ut; documentation_only betyder att kodexporten inte är verifierad."
