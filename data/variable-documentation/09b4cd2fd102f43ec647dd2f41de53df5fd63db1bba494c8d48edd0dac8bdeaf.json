@@ -1,0 +1,78 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Prövning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Bedömning av kunskaper i förhållande till såväl uppställda kunskapsmål i kursplaner som till betygskriterier."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Fylls i fältet \"Prövning\" i frågeformuläret"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Ett totalregister över alla kursdeltagare i kommunal vuxenutbildning under vårterminen 2020."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Kursdeltagare i kommunal vuxenutbildning"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla kursdeltagare som varit inskrivna i kommunal vuxenutbildning under läsåret. En kursdeltagare är en person på en unik kurs och skola under en viss period."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Alla kursdeltagare som varit inskrivna i kommunal vuxenutbildning under terminen. En kursdeltagare är en person på en unik kurs och skolenhet under terminen."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2020-01-01 - 2020-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Statistiken grundar sig på datamaterial hämtat från skolenheter som bedrivit kommunal vuxenutbildning vårterminen 2020.\r\n\r\nEtt introduktionsbrev, ställd \"Till rektor\", skickas ut till skolenheterna. Statistikinsamlingen sker sedan genom att uppgifterna registreras via SIV, som är SCB:s verktyg för elektronisk insamling. Registreringen av uppgifterna sker antingen på elektronisk blankett eller på datafil från administrativa register."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Kursdeltagare i kommunal vuxenutbildning"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Kursdeltagare"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Ett totalregister över kursdeltagare i kommunal vuxenutbildning. Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att det ska ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Kommunal vuxenutbildning"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Komvux"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå. "
+    }
+  ],
+  "id": "09b4cd2fd102f43ec647dd2f41de53df5fd63db1bba494c8d48edd0dac8bdeaf"
+}
