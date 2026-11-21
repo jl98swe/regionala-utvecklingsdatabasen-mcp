@@ -5724,8 +5724,8 @@
     },
     {
       "databasvy": "fek_lve",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_columns_unresolved",
+      "evidence": "Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner.",
       "sources": [],
       "variables": [
         {
@@ -5758,6 +5758,32 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Företagens ekonomi (FEK)",
+      "candidate_sources": [
+        {
+          "register": "Företagens ekonomi (FEK)",
+          "variant": "FEK Slutdata (LVE)"
+        }
+      ],
+      "candidate_aliases": [
+        {
+          "ordered_column": "MedeltalAnstallda",
+          "source_column": "lgr6101",
+          "source_variable": "Medelantal anställda",
+          "source_period": "2003–2024",
+          "status": "needs_definition_review"
+        },
+        {
+          "ordered_column": "SysselsattaRAMS",
+          "source_column": "lhar6103",
+          "source_variable": "Sysselsatta (RAMS)",
+          "source_period": "2003–2021",
+          "status": "needs_definition_review"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
@@ -18439,8 +18465,8 @@
     },
     {
       "databasvy": "ftg_fou_fe",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_variant_unresolved",
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
       "sources": [],
       "variables": [
         {
@@ -20207,12 +20233,22 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
       "databasvy": "ftg_fou_je",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_variant_unresolved",
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
       "sources": [],
       "variables": [
         {
@@ -21925,12 +21961,22 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
       "databasvy": "ftg_fou_mikroftg_fe",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_variant_unresolved",
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
       "sources": [],
       "variables": [
         {
@@ -23631,12 +23677,22 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
       "databasvy": "ftg_fou_mikroftg_je",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_variant_unresolved",
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
       "sources": [],
       "variables": [
         {
@@ -25295,6 +25351,16 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
@@ -25705,39 +25771,147 @@
     },
     {
       "databasvy": "grund_fkl_fth",
-      "status": "unresolved",
-      "evidence": "",
-      "sources": [],
+      "status": "reviewed",
+      "evidence": "Sammansatt vy: sju av åtta sakvariabler återfinns i Grundskola elever och Förskoleklass. Den särskiljande HMANFTH finns exakt i Fritidshem elever Grundskola, liksom SkolKodFTH och SkolenhetskodFTH före löpnummerersättningen. Tillsammans täcks samtliga åtta sakvariabler. Alternativa källdefinitioner bevaras separat; ingen prioritering eller automatisk sammanslagning.",
+      "sources": [
+        {
+          "register": "Grundskola: elever",
+          "variant": "Individregister"
+        },
+        {
+          "register": "Förskoleklass",
+          "variant": "Grundskola"
+        },
+        {
+          "register": "Fritidshem: elever",
+          "variant": "Grundskola"
+        }
+      ],
       "variables": [
         {
           "variabel": "Ak",
           "ar_raw": "2008-2016",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Ak",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2016",
+              "method": "exact"
+            },
+            {
+              "task_id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Ak",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2016",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Arskurs",
           "ar_raw": "2017-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Arskurs",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Arskurs",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "HMANFTH",
           "ar_raw": "2008-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "e4feecd2fdd40d7c014b830062594d14c6dd876cc0a73c52943de3c18e80f81d",
+              "register": "Fritidshem: elever",
+              "variant": "Grundskola",
+              "source_column": "HMANFTH",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Hman",
           "ar_raw": "2008-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Hman",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Hman",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "0a4fc4aba552899efef6d38fd5a7b75c6fc088b9e385bd2a033def25481b6200",
+              "register": "Fritidshem: elever",
+              "variant": "Grundskola",
+              "source_column": "Hman",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Inriktning",
           "ar_raw": "2008-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Inriktning",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Inriktning",
+              "first_version": "15 oktober 2008",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "P1481_LopNr_PersonNr",
@@ -25772,21 +25946,99 @@
         {
           "variabel": "SKom",
           "ar_raw": "2008-2016",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "SKom",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2016",
+              "method": "exact"
+            },
+            {
+              "task_id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "SKom",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2016",
+              "method": "exact"
+            },
+            {
+              "task_id": "d38abc8a67128af7a3e857e699af71be095adc47f39375a1e60deb42f342e2a4",
+              "register": "Fritidshem: elever",
+              "variant": "Grundskola",
+              "source_column": "SKom",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2016",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Skolkommun",
           "ar_raw": "2017-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Skolkommun",
+              "first_version": "15 oktober 2017",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Skolkommun",
+              "first_version": "15 oktober 2017",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "42c4c535ecbc8f25d2f4467017e63471a7af88ae78b8142f398cc248f8bbb11e",
+              "register": "Fritidshem: elever",
+              "variant": "Grundskola",
+              "source_column": "Skolkommun",
+              "first_version": "15 oktober 2017",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Verkform",
           "ar_raw": "2009-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+              "register": "Grundskola: elever",
+              "variant": "Individregister",
+              "source_column": "Verkform",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            },
+            {
+              "task_id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+              "register": "Förskoleklass",
+              "variant": "Grundskola",
+              "source_column": "Verkform",
+              "first_version": "15 oktober 2009",
+              "last_version": "15 oktober 2025",
+              "method": "exact"
+            }
+          ]
         }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
@@ -26625,75 +26877,190 @@
     },
     {
       "databasvy": "hushallperson",
-      "status": "unresolved",
-      "evidence": "",
-      "sources": [],
+      "status": "reviewed",
+      "evidence": "Alla 12 icke-identifierande kolumner överensstämmer exakt. Beställningen börjar 2011; RTB Hushåll börjar 2011-12-31, medan alternativet Hushållens boende Individer börjar 2012. Årsspecifika hushålls-ID i beställningen behålls som identifierare och matchas inte mot värdemängder. Kopplingen ger dokumentationsstöd, inte bevis för beställningens population.",
+      "sources": [
+        {
+          "register": "Befolkningsregistret (RTB)",
+          "variant": "Hushåll"
+        }
+      ],
       "variables": [
         {
           "variabel": "AntalBarn",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "AntalBarn",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "AntalBarnUnder18",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "AntalBarnUnder18",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "AntalBarnUnder25",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "AntalBarnUnder25",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "AntalBarnUnder6",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "AntalBarnUnder6",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Civil",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "Civil",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "HushallsStallning",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "HushallsStallning",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "HushallsStorlek",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "HushallsStorlek",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "HushallsTyp",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "HushallsTyp",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Imp_Hushall",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "Imp_Hushall",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Kommun",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "Kommun",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Lan",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "Lan",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "P1481_LopNr_HushallsID_2011",
@@ -26788,9 +27155,23 @@
         {
           "variabel": "YngstaBarn",
           "ar_raw": "2011-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+              "register": "Befolkningsregistret (RTB)",
+              "variant": "Hushåll",
+              "source_column": "YngstaBarn",
+              "first_version": "2011-12-31",
+              "last_version": "2026-09-30",
+              "method": "exact"
+            }
+          ]
         }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/",
+        "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/registret-over-totalbefolkningen-rtb/"
       ]
     },
     {
@@ -27730,8 +28111,8 @@
     },
     {
       "databasvy": "kcr",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_not_in_index",
+      "evidence": "SCB:s FDB-dokumentation identifierar Koncernregistret (KCR). Beställningen innehåller koncernmoder, moderbolag, ägarandel och nivå. KCR och dessa specifika kolumner saknas i Mikrometadata-indexet; Internationella företag ersätter inte hela koncernregistret.",
       "sources": [],
       "variables": [
         {
@@ -27806,6 +28187,10 @@
           "status": "identity_not_enumerated",
           "matches": []
         }
+      ],
+      "identified_register": "Koncernregistret (KCR)",
+      "references": [
+        "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf"
       ]
     },
     {
@@ -33872,8 +34257,8 @@
     },
     {
       "databasvy": "ruma",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_not_in_index",
+      "evidence": "SCB:s kvalitetsdeklaration för Regionala Trender och Prognoser 2025 identifierar RUMA som samlingsregister för utbildning och arbetsmarknad, baserat på RTB, BAS, UREG och YREG. Registerrubriken och beställningens RUMA-kolumner saknas i det hämtade Mikrometadata-indexet. Underregistren ersätter inte RUMA:s egna klassifikationer.",
       "sources": [],
       "variables": [
         {
@@ -33960,6 +34345,10 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Registret över Utbildning, Matchning och Arbetsmarknad (RUMA)",
+      "references": [
+        "https://www.scb.se/contentassets/9a731a170df2441780abaad993cb1efe/uf0515_kd_2025_cah_260528.pdf"
       ]
     },
     {
@@ -40199,27 +40588,111 @@
     },
     {
       "databasvy": "uhv",
-      "status": "unresolved",
-      "evidence": "",
-      "sources": [],
+      "status": "reviewed",
+      "evidence": "Alla sex sakvariabler matchar exakt i båda varianterna. SCB anger att Utrikeshandel med varor består av Intrastat och Extrastat. Båda används som dokumentationskällor, separat; beställningsfilen avgör inte vilket delsystem en observation kommer från.",
+      "sources": [
+        {
+          "register": "Utrikeshandel med varor",
+          "variant": "Intrastat, löpande priser"
+        },
+        {
+          "register": "Utrikeshandel med varor",
+          "variant": "Extrastat, löpande priser"
+        }
+      ],
       "variables": [
         {
           "variabel": "AnnanKvant",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "AnnanKvant",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "6df2e8e8e73eae547ac0fd139aeed8a7e82143ca7c71ed381a2f3540cc1f5718",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "AnnanKvant",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "InfUtf",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "InfUtf",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "2586344cf1772e1f21df81f894b90b608d39ffa76278c43fc9369849605f9542",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "InfUtf",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Landskod",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Landskod",
+              "first_version": "2017",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Landskod",
+              "first_version": "1999",
+              "last_version": "2016",
+              "method": "exact"
+            },
+            {
+              "task_id": "78d875d0c3a180d3eb1db6d85c4eadeb87dca3503858d887cb0ab771e6c85cd3",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Landskod",
+              "first_version": "2017",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "d529a54ea2ed4793e8a70bca9f0293608d9ba2366727b632e31b815626139952",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Landskod",
+              "first_version": "1999",
+              "last_version": "2016",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "P1481_LopNr_PeOrgNr",
@@ -40230,27 +40703,115 @@
         {
           "variabel": "Varde",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Varde",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Varde",
+              "first_version": "2011",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "84f120e4e87ada584770838641826178e01ea3b549377147cb68f927d5023a03",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Varde",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Varukod",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Varukod",
+              "first_version": "2017",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Varukod",
+              "first_version": "1999",
+              "last_version": "2016",
+              "method": "exact"
+            },
+            {
+              "task_id": "67bd86eae5e3ab7d8033f9224dfc58782a349b990a8ff48c27383452e439c654",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Varukod",
+              "first_version": "2017",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "5c8d8a9c545846e1a1cdbcd3876ba68a4b7681ead652ee875107bafc9c168308",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Varukod",
+              "first_version": "1999",
+              "last_version": "2016",
+              "method": "exact"
+            }
+          ]
         },
         {
           "variabel": "Vikt",
           "ar_raw": "1997-2024",
-          "status": "unresolved_view",
-          "matches": []
+          "status": "matched",
+          "matches": [
+            {
+              "task_id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+              "register": "Utrikeshandel med varor",
+              "variant": "Intrastat, löpande priser",
+              "source_column": "Vikt",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            },
+            {
+              "task_id": "1a955c2ee64067aa27f62ce62ea35a7241d2ac7037a28a906fafd013a2aa7627",
+              "register": "Utrikeshandel med varor",
+              "variant": "Extrastat, löpande priser",
+              "source_column": "Vikt",
+              "first_version": "1999",
+              "last_version": "2026",
+              "method": "exact"
+            }
+          ]
         }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/",
+        "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/utrikeshandel-med-varor/"
       ]
     },
     {
       "databasvy": "ureg_ky_yh_fhsk",
-      "status": "unresolved",
-      "evidence": "",
+      "status": "register_identified_variant_unresolved",
+      "evidence": "Alla åtta sakvariabler återfinns i flera UREG-varianter. Namnsuffixet KY/YH/FHSK räcker inte för att avgöra om beställningen är ett källurval eller annan bearbetning. Inga varianter godkänns enbart från kolumnöverlapp.",
       "sources": [],
       "variables": [
         {
@@ -40307,6 +40868,24 @@
           "status": "unresolved_view",
           "matches": []
         }
+      ],
+      "identified_register": "Utbildningsregistret",
+      "candidate_sources": [
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Personens samtliga utbildningar"
+        },
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Personens högsta utbildning"
+        },
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Samlat betygsdokument/studiebevis"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
       ]
     },
     {
@@ -52128,6 +52707,330 @@
       ]
     },
     {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Årskurs",
+      "Kolumnnamn": "Ak",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2016",
+      "id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Årskurs",
+      "Kolumnnamn": "Ak",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2016",
+      "id": "79f33b4db0fe551a6b203de055da8c4278368ecf165b5213bd7ab8f1c01f449f",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Årskurs",
+      "Kolumnnamn": "Arskurs",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Årskurs",
+      "Kolumnnamn": "Arskurs",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "f15ca938e4100da35dd4facdc6738c5d47eb757bd5fe190c0dd92b4bcda6b378",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Fritidshem: elever",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Huvudman",
+      "Kolumnnamn": "HMANFTH",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "e4feecd2fdd40d7c014b830062594d14c6dd876cc0a73c52943de3c18e80f81d",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "HMANFTH",
+          "ar_raw": "2008-2024",
+          "kallrad": 3130,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Huvudman",
+      "Kolumnnamn": "Hman",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Huvudman",
+      "Kolumnnamn": "Hman",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "8ee24b534f4978f51a719674195e206895d1ff805b1dbaa6185ce1e4b0420610",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Fritidshem: elever",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Huvudman",
+      "Kolumnnamn": "Hman",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2025",
+      "id": "0a4fc4aba552899efef6d38fd5a7b75c6fc088b9e385bd2a033def25481b6200",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Inriktning av fristående skola/skolenhet",
+      "Kolumnnamn": "Inriktning",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Inriktning av fristående skola/skolenhet",
+      "Kolumnnamn": "Inriktning",
+      "VersionForsta": "15 oktober 2008",
+      "VersionSista": "15 oktober 2025",
+      "id": "445d0dc9df811b6c8d1f669328a22b7b5900717e4bc59957406b253141a8afd7",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "SKom",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2016",
+      "id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "SKom",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2016",
+      "id": "4c0eab0167fc90f794df77fd9e070f8350631ac941e0335c364e74e8fdb5ab96",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Fritidshem: elever",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "SKom",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2016",
+      "id": "d38abc8a67128af7a3e857e699af71be095adc47f39375a1e60deb42f342e2a4",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "Skolkommun",
+      "VersionForsta": "15 oktober 2017",
+      "VersionSista": "15 oktober 2025",
+      "id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "Skolkommun",
+      "VersionForsta": "15 oktober 2017",
+      "VersionSista": "15 oktober 2025",
+      "id": "b7db160d0577b4b012f59e2ce8ec10de40a276af5cee41fd10dd6c5e0fe37fa9",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Fritidshem: elever",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "Skolkommun",
+      "VersionForsta": "15 oktober 2017",
+      "VersionSista": "15 oktober 2025",
+      "id": "42c4c535ecbc8f25d2f4467017e63471a7af88ae78b8142f398cc248f8bbb11e",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Grundskola: elever",
+      "Registervariantrubrik": "Individregister",
+      "Variabelnamn": "Skolform",
+      "Kolumnnamn": "Verkform",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2025",
+      "id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Förskoleklass",
+      "Registervariantrubrik": "Grundskola",
+      "Variabelnamn": "Skolform",
+      "Kolumnnamn": "Verkform",
+      "VersionForsta": "15 oktober 2009",
+      "VersionSista": "15 oktober 2025",
+      "id": "a538a620379cd744c98c6fa4abddf71099da16d6e9739fc967b2c1783cce234d",
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ]
+    },
+    {
       "Registerrubrik": "Universitets- och högskoleregistret ",
       "Registervariantrubrik": "Grundutbildning, examina",
       "Variabelnamn": "Examens omfattning i högskolepoäng",
@@ -52771,6 +53674,222 @@
           "variabel": "koktyp",
           "ar_raw": "2012-2024",
           "kallrad": 3206,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Antal barn",
+      "Kolumnnamn": "AntalBarn",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "87487b2fc203204e7451d1fb958d9bc741b9b5336ba5d37a45a84d9580fb33c3",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3207,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Antal barn under 18 år",
+      "Kolumnnamn": "AntalBarnUnder18",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "c5e12149187c70d6874a599a8f76b3741536ab154cf40853068b3af39c5b547a",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "ar_raw": "2011-2024",
+          "kallrad": 3208,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Antal barn under 25 år",
+      "Kolumnnamn": "AntalBarnUnder25",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "ee94a7123c265ce37fc1931adb340998e819bea33024d20b53fd000faecc704f",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "ar_raw": "2011-2024",
+          "kallrad": 3209,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Antal barn under 6 år",
+      "Kolumnnamn": "AntalBarnUnder6",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "5e04b8eeb007ede160164d176678bde1c556921b44b434ae3ad7f19a2125b121",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "ar_raw": "2011-2024",
+          "kallrad": 3210,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Civilstånd",
+      "Kolumnnamn": "Civil",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "e0c1110bc5b8494b234e8d50eff2d47b3c75968bd955e8d6cabb9487be8f9b12",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "ar_raw": "2011-2024",
+          "kallrad": 3211,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Hushållsställning",
+      "Kolumnnamn": "HushallsStallning",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "9da84cb0cedbc7d8f67e7ea0d015169ad414006efb3262d1ef482aa75889c768",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "ar_raw": "2011-2024",
+          "kallrad": 3212,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Hushållsstorlek",
+      "Kolumnnamn": "HushallsStorlek",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "6b2d83f0d24ecc20ed424110e0181adce35bcd8e01eaefcc36caa04a7e636ccd",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "ar_raw": "2011-2024",
+          "kallrad": 3213,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Hushållstyp, bostadshushåll",
+      "Kolumnnamn": "HushallsTyp",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "dd4dbd1c38cc613f3d5a897b6948d2c38c880fbd7a10ffbc18c6bdca9a7baa09",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "ar_raw": "2011-2024",
+          "kallrad": 3214,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Imputeringsmarkering",
+      "Kolumnnamn": "Imp_Hushall",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "df6efc12075da9a1d48c3a108a61663874a509f3d2f03376f6ec5fb3e7833b80",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "ar_raw": "2011-2024",
+          "kallrad": 3215,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Kommun",
+      "Kolumnnamn": "Kommun",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "af9d8b111a76296163bc4967a98d43d634c3a155154fe81246e9d1742172918a",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "ar_raw": "2011-2024",
+          "kallrad": 3216,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Län",
+      "Kolumnnamn": "Lan",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "a3d92aa75c62271cd71dd19895985c4975e286a05722b014d623eff5d4a8055d",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "ar_raw": "2011-2024",
+          "kallrad": 3217,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Befolkningsregistret (RTB)",
+      "Registervariantrubrik": "Hushåll",
+      "Variabelnamn": "Ålder yngsta barnet",
+      "Kolumnnamn": "YngstaBarn",
+      "VersionForsta": "2011-12-31",
+      "VersionSista": "2026-09-30",
+      "id": "b1db8f6f6880a512c8f86b3200e033b013a874cf66d5d28bf6b94c630e3de3e0",
+      "orders": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "ar_raw": "2011-2024",
+          "kallrad": 3233,
           "method": "exact"
         }
       ]
@@ -66659,6 +67778,312 @@
           "variabel": "YrkStallnNyMet",
           "ar_raw": "2003",
           "kallrad": 4082,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Annan kvantitet",
+      "Kolumnnamn": "AnnanKvant",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "3744b2ed345c230733f817bda7c8e6be9ef9a409dfdcd46dbcccd008b678534d",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Annan kvantitet",
+      "Kolumnnamn": "AnnanKvant",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "6df2e8e8e73eae547ac0fd139aeed8a7e82143ca7c71ed381a2f3540cc1f5718",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "ar_raw": "1997-2024",
+          "kallrad": 4083,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Flöde",
+      "Kolumnnamn": "InfUtf",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "4097366b44d96f927c46c9e26ccc93b9db40f45644c9db54facd957dcb29d898",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Flöde Extrastat",
+      "Kolumnnamn": "InfUtf",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "2586344cf1772e1f21df81f894b90b608d39ffa76278c43fc9369849605f9542",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "ar_raw": "1997-2024",
+          "kallrad": 4084,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Land",
+      "Kolumnnamn": "Landskod",
+      "VersionForsta": "2017",
+      "VersionSista": "2026",
+      "id": "f1ad995e3a4c3fc6a77c826c72f54a0402d7e36ef4af8f7a97f39c23dbaa3771",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Landskod utrikeshandel",
+      "Kolumnnamn": "Landskod",
+      "VersionForsta": "1999",
+      "VersionSista": "2016",
+      "id": "11cba05887c1c6ecc9a0b92ead359a8c7b7e8a99cd387bdebace58b450fb47aa",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Land",
+      "Kolumnnamn": "Landskod",
+      "VersionForsta": "2017",
+      "VersionSista": "2026",
+      "id": "78d875d0c3a180d3eb1db6d85c4eadeb87dca3503858d887cb0ab771e6c85cd3",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Landskod utrikeshandel",
+      "Kolumnnamn": "Landskod",
+      "VersionForsta": "1999",
+      "VersionSista": "2016",
+      "id": "d529a54ea2ed4793e8a70bca9f0293608d9ba2366727b632e31b815626139952",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4085,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Fakturerat värde",
+      "Kolumnnamn": "Varde",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "44431010cb35a9500a2d78e88c90db8f74a20ce8636b62db48074273fea9bf1d",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Statistiskt värde",
+      "Kolumnnamn": "Varde",
+      "VersionForsta": "2011",
+      "VersionSista": "2026",
+      "id": "d8a426744ae599b46f19ea00415f36a934e6b48875e67df63e55584780970d2b",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Statistiskt värde",
+      "Kolumnnamn": "Varde",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "84f120e4e87ada584770838641826178e01ea3b549377147cb68f927d5023a03",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "ar_raw": "1997-2024",
+          "kallrad": 4087,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Varugrupp KN",
+      "Kolumnnamn": "Varukod",
+      "VersionForsta": "2017",
+      "VersionSista": "2026",
+      "id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Varukod enligt kombinerade nomenklaturen",
+      "Kolumnnamn": "Varukod",
+      "VersionForsta": "1999",
+      "VersionSista": "2016",
+      "id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Varugrupp KN",
+      "Kolumnnamn": "Varukod",
+      "VersionForsta": "2017",
+      "VersionSista": "2026",
+      "id": "67bd86eae5e3ab7d8033f9224dfc58782a349b990a8ff48c27383452e439c654",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Varukod enligt kombinerade nomenklaturen",
+      "Kolumnnamn": "Varukod",
+      "VersionForsta": "1999",
+      "VersionSista": "2016",
+      "id": "5c8d8a9c545846e1a1cdbcd3876ba68a4b7681ead652ee875107bafc9c168308",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Intrastat, löpande priser",
+      "Variabelnamn": "Vikt (kg)",
+      "Kolumnnamn": "Vikt",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "3eccdf4063c0cf5aaca51e5f8d9523194c5c8a9f0ab219ad3c64bf45f10523d6",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
+          "method": "exact"
+        }
+      ]
+    },
+    {
+      "Registerrubrik": "Utrikeshandel med varor",
+      "Registervariantrubrik": "Extrastat, löpande priser",
+      "Variabelnamn": "Vikt (kg)",
+      "Kolumnnamn": "Vikt",
+      "VersionForsta": "1999",
+      "VersionSista": "2026",
+      "id": "1a955c2ee64067aa27f62ce62ea35a7241d2ac7037a28a906fafd013a2aa7627",
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "ar_raw": "1997-2024",
+          "kallrad": 4089,
           "method": "exact"
         }
       ]

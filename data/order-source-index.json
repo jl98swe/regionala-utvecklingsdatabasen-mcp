@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
-  "plan_sha256": "09395f0823686673cf76b4faab4c87a03e2ce2de9ef4ec432eb3081ff0845f87",
+  "plan_sha256": "8735f7b5cec3c058e0e7929725e3dfba52a15f4c461309eebc9746df392062ff",
   "groups": [
     {
       "id": "f42ff157566cbf11639f",
@@ -4280,6 +4280,92 @@
       "priority": 100
     },
     {
+      "id": "7d5f670e34d74ccd7a79",
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Hushåll",
+      "views": [
+        "hushallperson"
+      ],
+      "columns": [
+        "AntalBarn",
+        "AntalBarnUnder18",
+        "AntalBarnUnder25",
+        "AntalBarnUnder6",
+        "Civil",
+        "HushallsStallning",
+        "HushallsStorlek",
+        "HushallsTyp",
+        "Imp_Hushall",
+        "Kommun",
+        "Lan",
+        "YngstaBarn"
+      ],
+      "mappings": [
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarn",
+          "source_column": "AntalBarn"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder18",
+          "source_column": "AntalBarnUnder18"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder25",
+          "source_column": "AntalBarnUnder25"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "AntalBarnUnder6",
+          "source_column": "AntalBarnUnder6"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Civil",
+          "source_column": "Civil"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStallning",
+          "source_column": "HushallsStallning"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsStorlek",
+          "source_column": "HushallsStorlek"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "HushallsTyp",
+          "source_column": "HushallsTyp"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Imp_Hushall",
+          "source_column": "Imp_Hushall"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Kommun",
+          "source_column": "Kommun"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "Lan",
+          "source_column": "Lan"
+        },
+        {
+          "databasvy": "hushallperson",
+          "variabel": "YngstaBarn",
+          "source_column": "YngstaBarn"
+        }
+      ],
+      "path": "data/value-domains-ordered/7d5f670e34d74ccd7a79.json",
+      "priority": 100
+    },
+    {
       "id": "fe474caa2967510781c4",
       "register": "Befolkningsregistret (RTB)",
       "variant": "Inrikes flyttningar",
@@ -6503,6 +6589,44 @@
       "priority": 100
     },
     {
+      "id": "4825dc158c2eb788ca23",
+      "register": "Fritidshem: elever",
+      "variant": "Grundskola",
+      "views": [
+        "grund_fkl_fth"
+      ],
+      "columns": [
+        "HMANFTH",
+        "Hman",
+        "SKom",
+        "Skolkommun"
+      ],
+      "mappings": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "HMANFTH",
+          "source_column": "HMANFTH"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "source_column": "Hman"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "source_column": "SKom"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "source_column": "Skolkommun"
+        }
+      ],
+      "path": "data/value-domains-ordered/4825dc158c2eb788ca23.json",
+      "priority": 100
+    },
+    {
       "id": "37afa537b16904cbd897",
       "register": "Företagsdatabasen (FDB)",
       "variant": "AST-enheter",
@@ -7011,6 +7135,62 @@
       "priority": 100
     },
     {
+      "id": "67d671c997bcf2376367",
+      "register": "Förskoleklass",
+      "variant": "Grundskola",
+      "views": [
+        "grund_fkl_fth"
+      ],
+      "columns": [
+        "Ak",
+        "Arskurs",
+        "Hman",
+        "Inriktning",
+        "SKom",
+        "Skolkommun",
+        "Verkform"
+      ],
+      "mappings": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "source_column": "Ak"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "source_column": "Arskurs"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "source_column": "Hman"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "source_column": "Inriktning"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "source_column": "SKom"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "source_column": "Skolkommun"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "source_column": "Verkform"
+        }
+      ],
+      "path": "data/value-domains-ordered/67d671c997bcf2376367.json",
+      "priority": 100
+    },
+    {
       "id": "c0f397b35df80f98619d",
       "register": "Grundskola: betyg åk 6",
       "variant": "Grundskola, betyg åk 6",
@@ -7138,6 +7318,62 @@
         }
       ],
       "path": "data/value-domains-ordered/c8edbeb5fdd65b469cc4.json",
+      "priority": 100
+    },
+    {
+      "id": "2084ab40b3962dd9993c",
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "views": [
+        "grund_fkl_fth"
+      ],
+      "columns": [
+        "Ak",
+        "Arskurs",
+        "Hman",
+        "Inriktning",
+        "SKom",
+        "Skolkommun",
+        "Verkform"
+      ],
+      "mappings": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "source_column": "Ak"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "source_column": "Arskurs"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "source_column": "Hman"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "source_column": "Inriktning"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "source_column": "SKom"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "source_column": "Skolkommun"
+        },
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "source_column": "Verkform"
+        }
+      ],
+      "path": "data/value-domains-ordered/2084ab40b3962dd9993c.json",
       "priority": 100
     },
     {
@@ -9044,6 +9280,106 @@
       "priority": 100
     },
     {
+      "id": "ffbb0689db14354dca31",
+      "register": "Utrikeshandel med varor",
+      "variant": "Extrastat, löpande priser",
+      "views": [
+        "uhv"
+      ],
+      "columns": [
+        "AnnanKvant",
+        "InfUtf",
+        "Landskod",
+        "Varde",
+        "Varukod",
+        "Vikt"
+      ],
+      "mappings": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "source_column": "AnnanKvant"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "source_column": "InfUtf"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "source_column": "Landskod"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "source_column": "Varde"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "source_column": "Varukod"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "source_column": "Vikt"
+        }
+      ],
+      "path": "data/value-domains-ordered/ffbb0689db14354dca31.json",
+      "priority": 100
+    },
+    {
+      "id": "614a290a1c8f38fb067b",
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "views": [
+        "uhv"
+      ],
+      "columns": [
+        "AnnanKvant",
+        "InfUtf",
+        "Landskod",
+        "Varde",
+        "Varukod",
+        "Vikt"
+      ],
+      "mappings": [
+        {
+          "databasvy": "uhv",
+          "variabel": "AnnanKvant",
+          "source_column": "AnnanKvant"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "InfUtf",
+          "source_column": "InfUtf"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Landskod",
+          "source_column": "Landskod"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Varde",
+          "source_column": "Varde"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "source_column": "Varukod"
+        },
+        {
+          "databasvy": "uhv",
+          "variabel": "Vikt",
+          "source_column": "Vikt"
+        }
+      ],
+      "path": "data/value-domains-ordered/614a290a1c8f38fb067b.json",
+      "priority": 100
+    },
+    {
       "id": "32074cbb551b02aadec3",
       "register": "Yrkeshögskolan",
       "variant": "Studerande och examinerade",
@@ -9280,7 +9616,8 @@
       "status": "reviewed",
       "unmatched_variables": [
         "DodDatumArMan"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "exportimport",
@@ -9315,7 +9652,8 @@
         "Stkl",
         "StklText",
         "Sydam"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "fdb_ae",
@@ -9325,7 +9663,8 @@
         "AdmStatStartDatKtid",
         "SlutDatKtid",
         "StartDatKtid"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fdb_ast",
@@ -9336,7 +9675,8 @@
         "AstK",
         "SlutDatKtid",
         "StartDatKtid"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fdb_je",
@@ -9349,7 +9689,8 @@
         "MomsStatStartDatKtid",
         "SlutDatKtid",
         "StartDatKtid"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fdb_lve",
@@ -9359,7 +9700,8 @@
         "LVEStatStartDatKtid",
         "SlutDatKtid",
         "StartDatKtid"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fdb_ve",
@@ -9370,15 +9712,43 @@
         "StartDatKtid",
         "VEStatSlutDatKtid",
         "VEStatStartDatKtid"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fek_lve",
-      "status": "unresolved",
+      "status": "register_identified_columns_unresolved",
       "unmatched_variables": [
         "MedeltalAnstallda",
         "SysselsattaRAMS"
-      ]
+      ],
+      "identified_register": "Företagens ekonomi (FEK)",
+      "candidate_sources": [
+        {
+          "register": "Företagens ekonomi (FEK)",
+          "variant": "FEK Slutdata (LVE)"
+        }
+      ],
+      "candidate_aliases": [
+        {
+          "ordered_column": "MedeltalAnstallda",
+          "source_column": "lgr6101",
+          "source_variable": "Medelantal anställda",
+          "source_period": "2003–2024",
+          "status": "needs_definition_review"
+        },
+        {
+          "ordered_column": "SysselsattaRAMS",
+          "source_column": "lhar6103",
+          "source_variable": "Sysselsatta (RAMS)",
+          "source_period": "2003–2021",
+          "status": "needs_definition_review"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner."
     },
     {
       "databasvy": "fh_k_skoluppg",
@@ -9387,28 +9757,32 @@
         "BOrt",
         "Kommun",
         "LansKod"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "fodelseland_lisa",
       "status": "reviewed",
       "unmatched_variables": [
         "FodelseLandNamn_Grp"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "fodelseuppg",
       "status": "reviewed",
       "unmatched_variables": [
         "Fodelseforsamling_kod"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "frida_ne",
       "status": "reviewed",
       "unmatched_variables": [
         "V7620"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "ftg_fou",
@@ -10576,11 +10950,12 @@
         "v951",
         "v952",
         "v953"
-      ]
+      ],
+      "evidence": "Företags-FoU identifierad som register; endast de exakt överensstämmande variablerna kopplas. Senare variabelsystem, FE/JE och mikrobolagsvyer lämnas öppna."
     },
     {
       "databasvy": "ftg_fou_fe",
-      "status": "unresolved",
+      "status": "register_identified_variant_unresolved",
       "unmatched_variables": [
         "ACAT01",
         "ACAT02",
@@ -10875,11 +11250,22 @@
         "SIZE_CLASS",
         "STRAT_NONRESP",
         "WEIGHT_NONRESP"
-      ]
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
     },
     {
       "databasvy": "ftg_fou_je",
-      "status": "unresolved",
+      "status": "register_identified_variant_unresolved",
       "unmatched_variables": [
         "ERD_REC_BES_GROUP",
         "ERD_REC_BES_UNAF",
@@ -11164,11 +11550,22 @@
         "NUMBER_EMPLOYEES",
         "SEAT",
         "TYPE_INST"
-      ]
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
     },
     {
       "databasvy": "ftg_fou_mikroftg_fe",
-      "status": "unresolved",
+      "status": "register_identified_variant_unresolved",
       "unmatched_variables": [
         "ACAT01",
         "ACAT02",
@@ -11452,11 +11849,22 @@
         "NUMBER_EMPLOYEES",
         "SEAT",
         "SIZE_CLASS"
-      ]
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
     },
     {
       "databasvy": "ftg_fou_mikroftg_je",
-      "status": "unresolved",
+      "status": "register_identified_variant_unresolved",
       "unmatched_variables": [
         "ERD_REC_BES_GROUP",
         "ERD_REC_BES_UNAF",
@@ -11732,7 +12140,18 @@
         "NUMBER_EMPLOYEES",
         "SEAT",
         "TYPE_INST"
-      ]
+      ],
+      "identified_register": "Forskning och utveckling i Sverige",
+      "candidate_sources": [
+        {
+          "register": "Forskning och utveckling i Sverige",
+          "variant": "Företag"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
     },
     {
       "databasvy": "gdb_ast",
@@ -11748,7 +12167,8 @@
         "Tatort_2018",
         "Tatort_2020",
         "Tatort_2023"
-      ]
+      ],
+      "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
     },
     {
       "databasvy": "gdb_ind",
@@ -11762,7 +12182,8 @@
         "Tatort_2018",
         "Tatort_2020",
         "Tatort_2023"
-      ]
+      ],
+      "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
     },
     {
       "databasvy": "gdb_skolor",
@@ -11778,7 +12199,8 @@
         "Tatort_2018",
         "Tatort_2020",
         "Tatort_2023"
-      ]
+      ],
+      "evidence": "Användaren anger Geografidatabasen. SCB-indexet har Adresser/Fastigheter, men inga verifierade motsvarigheter till beställningens individ-/arbetsställe-/skolbearbetningar. Inga koordinat- eller DeSO-alias antas."
     },
     {
       "databasvy": "grs_svdk",
@@ -11797,7 +12219,8 @@
         "SyssMark_Arb",
         "Utb_Niva",
         "Utd_Kombi"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "grs_svno",
@@ -11816,21 +12239,8 @@
         "SyssMark_Arb",
         "Utb_Niva",
         "Utb_Niva_Kombi"
-      ]
-    },
-    {
-      "databasvy": "grund_fkl_fth",
-      "status": "unresolved",
-      "unmatched_variables": [
-        "Ak",
-        "Arskurs",
-        "HMANFTH",
-        "Hman",
-        "Inriktning",
-        "SKom",
-        "Skolkommun",
-        "Verkform"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "hreg_examen",
@@ -11841,7 +12251,8 @@
         "TMGrp",
         "TMGrpnamn",
         "Termin"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "hreg_examenforsk",
@@ -11849,7 +12260,8 @@
       "unmatched_variables": [
         "SUN2000Inr",
         "SUN2020Inr"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "hreg_poang",
@@ -11858,39 +12270,24 @@
         "HPPAvkSum",
         "LasAr",
         "TillgodoBen"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "hreg_registrerade",
       "status": "reviewed",
       "unmatched_variables": [
         "LProg"
-      ]
-    },
-    {
-      "databasvy": "hushallperson",
-      "status": "unresolved",
-      "unmatched_variables": [
-        "AntalBarn",
-        "AntalBarnUnder18",
-        "AntalBarnUnder25",
-        "AntalBarnUnder6",
-        "Civil",
-        "HushallsStallning",
-        "HushallsStorlek",
-        "HushallsTyp",
-        "Imp_Hushall",
-        "Kommun",
-        "Lan",
-        "YngstaBarn"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "in_utvandring_lisa",
       "status": "reviewed",
       "unmatched_variables": [
         "InvUtvLand_Grp"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "inrflyttflode",
@@ -11898,21 +12295,24 @@
       "unmatched_variables": [
         "FolkbDatManad",
         "FolkbDatManadG_harledd"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "inrikesflytt_1968_1997",
       "status": "reviewed",
       "unmatched_variables": [
         "BearbArDatumManad"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "inrikesflytt_tidiga_1998",
       "status": "reviewed",
       "unmatched_variables": [
         "BearbArDatumManad"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "iot",
@@ -11930,11 +12330,12 @@
         "CDISP5HB_INKLGP",
         "CDISP5_INKLGP",
         "CDISP_INKLGP"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "kcr",
-      "status": "unresolved",
+      "status": "register_identified_not_in_index",
       "unmatched_variables": [
         "AgProc",
         "Anst",
@@ -11945,21 +12346,28 @@
         "Bolagstyp",
         "Landskod",
         "Niva"
-      ]
+      ],
+      "identified_register": "Koncernregistret (KCR)",
+      "references": [
+        "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf"
+      ],
+      "evidence": "SCB:s FDB-dokumentation identifierar Koncernregistret (KCR). Beställningen innehåller koncernmoder, moderbolag, ägarandel och nivå. KCR och dessa specifika kolumner saknas i Mikrometadata-indexet; Internationella företag ersätter inte hela koncernregistret."
     },
     {
       "databasvy": "kvx_kursdelt_ht",
       "status": "reviewed",
       "unmatched_variables": [
         "KursKod_omkodad"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "kvx_kursdelt_vt",
       "status": "reviewed",
       "unmatched_variables": [
         "KursKod_omkodad"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "landgruppering",
@@ -11967,7 +12375,8 @@
       "unmatched_variables": [
         "Landnamn",
         "Varldsdel"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "lisa_individ",
@@ -11984,7 +12393,8 @@
         "DispInkKE_INKLGP",
         "SektorKodJ",
         "TTJLONU"
-      ]
+      ],
+      "evidence": "SCB:s varianter har äldre individserier t.o.m. 2009 respektive serier från 2010. Variabelns eget beställningsår och faktiskt visade SCB-versioner avgör urvalet; samma variabelnamn antas inte ha oförändrad definition."
     },
     {
       "databasvy": "opf_funk",
@@ -11993,7 +12403,8 @@
         "Funk1",
         "Funk2",
         "Funk3"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ovl_styrelse",
@@ -12002,7 +12413,8 @@
         "Funk1",
         "Funk2",
         "Funk3"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "population_personnr",
@@ -12015,7 +12427,8 @@
         "Kon",
         "LopNrByte",
         "SamordnNr"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "rtb",
@@ -12023,11 +12436,12 @@
       "unmatched_variables": [
         "Medb_Klartext_Grp",
         "Medblandnamn_Grp"
-      ]
+      ],
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
     },
     {
       "databasvy": "ruma",
-      "status": "unresolved",
+      "status": "register_identified_not_in_index",
       "unmatched_variables": [
         "Match",
         "Match_18",
@@ -12042,7 +12456,12 @@
         "SUN2020Grp_E23",
         "SUN2020Grp_RMI23",
         "SUN2020Grp_T23"
-      ]
+      ],
+      "identified_register": "Registret över Utbildning, Matchning och Arbetsmarknad (RUMA)",
+      "references": [
+        "https://www.scb.se/contentassets/9a731a170df2441780abaad993cb1efe/uf0515_kd_2025_cah_260528.pdf"
+      ],
+      "evidence": "SCB:s kvalitetsdeklaration för Regionala Trender och Prognoser 2025 identifierar RUMA som samlingsregister för utbildning och arbetsmarknad, baserat på RTB, BAS, UREG och YREG. Registerrubriken och beställningens RUMA-kolumner saknas i det hämtade Mikrometadata-indexet. Underregistren ersätter inte RUMA:s egna klassifikationer."
     },
     {
       "databasvy": "ruma_e20",
@@ -12050,7 +12469,8 @@
       "unmatched_variables": [
         "SUN2000Grp_E20",
         "SUN2000Grp_E20_klartext"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ruma_e23",
@@ -12058,7 +12478,8 @@
       "unmatched_variables": [
         "SUN2020Grp_E23",
         "SUN2020Grp_E23_klartext"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ruma_t17",
@@ -12066,7 +12487,8 @@
       "unmatched_variables": [
         "SUN2000Grp_T17",
         "SUN2000Grp_T17_klartext"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ruma_t20",
@@ -12074,7 +12496,8 @@
       "unmatched_variables": [
         "SUN2000Grp_T20",
         "SUN2000Grp_T20_klartext"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ruma_t23",
@@ -12082,23 +12505,12 @@
       "unmatched_variables": [
         "SUN2020Grp_T23",
         "SUN2020Grp_T23_klartext"
-      ]
-    },
-    {
-      "databasvy": "uhv",
-      "status": "unresolved",
-      "unmatched_variables": [
-        "AnnanKvant",
-        "InfUtf",
-        "Landskod",
-        "Varde",
-        "Varukod",
-        "Vikt"
-      ]
+      ],
+      "evidence": ""
     },
     {
       "databasvy": "ureg_ky_yh_fhsk",
-      "status": "unresolved",
+      "status": "register_identified_variant_unresolved",
       "unmatched_variables": [
         "ExamAr",
         "ExamKommun",
@@ -12108,7 +12520,26 @@
         "Kallkod",
         "SUN2000Inr",
         "SUN2020Inr"
-      ]
+      ],
+      "identified_register": "Utbildningsregistret",
+      "candidate_sources": [
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Personens samtliga utbildningar"
+        },
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Personens högsta utbildning"
+        },
+        {
+          "register": "Utbildningsregistret",
+          "variant": "Samlat betygsdokument/studiebevis"
+        }
+      ],
+      "references": [
+        "https://mikrometadata.scb.se/"
+      ],
+      "evidence": "Alla åtta sakvariabler återfinns i flera UREG-varianter. Namnsuffixet KY/YH/FHSK räcker inte för att avgöra om beställningen är ett källurval eller annan bearbetning. Inga varianter godkänns enbart från kolumnöverlapp."
     },
     {
       "databasvy": "uvas",
@@ -12117,7 +12548,8 @@
         "Alderslut",
         "UVAS_g",
         "UVAS_n"
-      ]
+      ],
+      "evidence": ""
     }
   ]
 }

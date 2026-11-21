@@ -2,7 +2,7 @@
 
 Beställningsmetadata: `f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be`. SCB-index uppdaterat 2026-11-15.
 
-88 vyer; 1403 variabelposter kopplade; 197 identifierarposter utan uppräknad värdemängd; 2538 poster kvar att reda ut.
+88 vyer; 1429 variabelposter kopplade; 197 identifierarposter utan uppräknad värdemängd; 2512 poster kvar att reda ut.
 
 Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, eller med en entydig skillnad i skiftläge. Kandidatlistor är inte godkända kopplingar.
 
@@ -34,7 +34,7 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `fdb_lve_ngs` | 3/3 | Företagsdatabasen (FDB) → Lokala verksamhetsenheter | reviewed |
 | `fdb_ve` | 6/11 | Företagsdatabasen (FDB) → Verksamhetsenheter | reviewed |
 | `fdb_ve_ngs` | 3/3 | Företagsdatabasen (FDB) → Verksamhetsenheter | reviewed |
-| `fek_lve` | 0/2 | Öppen | unresolved |
+| `fek_lve` | 0/2 | Företagens ekonomi (FEK) (variant eller kolumnkoppling öppen) | register_identified_columns_unresolved |
 | `fh_del` | 16/16 | Folkhögskolan → Deltagarregister | reviewed |
 | `fh_k_skoluppg` | 0/3 | Öppen | unresolved |
 | `flergen_adopforaldrar` | 0/0 | Flergenerationsregistret → Personer med adoptivföräldrar | reviewed |
@@ -45,29 +45,29 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `frida_n3a` | 8/8 | FRIDA → Bilaga N3A | reviewed |
 | `frida_ne` | 38/39 | FRIDA → Enskilda näringsidkare | reviewed |
 | `ftg_fou` | 247/1409 | Forskning och utveckling i Sverige → Företag | reviewed |
-| `ftg_fou_fe` | 0/293 | Öppen | unresolved |
-| `ftg_fou_je` | 0/283 | Öppen | unresolved |
-| `ftg_fou_mikroftg_fe` | 0/282 | Öppen | unresolved |
-| `ftg_fou_mikroftg_je` | 0/274 | Öppen | unresolved |
+| `ftg_fou_fe` | 0/293 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
+| `ftg_fou_je` | 0/283 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
+| `ftg_fou_mikroftg_fe` | 0/282 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
+| `ftg_fou_mikroftg_je` | 0/274 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
 | `gdb_ast` | 0/10 | Öppen | register_identified_columns_unresolved |
 | `gdb_ind` | 0/8 | Öppen | register_identified_columns_unresolved |
 | `gdb_skolor` | 0/10 | Öppen | register_identified_columns_unresolved |
 | `grs_svdk` | 0/13 | Öppen | unresolved |
 | `grs_svno` | 0/13 | Öppen | unresolved |
-| `grund_fkl_fth` | 0/8 | Öppen | unresolved |
+| `grund_fkl_fth` | 8/8 | Grundskola: elever → Individregister; Förskoleklass → Grundskola; Fritidshem: elever → Grundskola | reviewed |
 | `hreg_examen` | 6/11 | Universitets- och högskoleregistret → Grundutbildning, examina | reviewed |
 | `hreg_examenforsk` | 5/7 | Universitets- och högskoleregistret → Forskarutbildning, examina | reviewed |
 | `hreg_forstaar` | 1/1 | Universitets- och högskoleregistret → Grundutbildning, registrerade | reviewed |
 | `hreg_poang` | 5/8 | Universitets- och högskoleregistret → Grundutb, avklarade poäng | reviewed |
 | `hreg_registrerade` | 8/9 | Universitets- och högskoleregistret → Grundutbildning, registrerade | reviewed |
 | `hushallboende` | 11/11 | Hushållens boende → Individer | reviewed |
-| `hushallperson` | 0/12 | Öppen | unresolved |
+| `hushallperson` | 12/12 | Befolkningsregistret (RTB) → Hushåll | reviewed |
 | `in_utvandring_lisa` | 2/3 | Longitudinell integrationsdatabas (LISA) → Indvider in- och utvandring | reviewed |
 | `inrflyttflode` | 7/9 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
 | `inrikesflytt_1968_1997` | 5/6 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
 | `inrikesflytt_tidiga_1998` | 5/6 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
 | `iot` | 26/38 | Inkomst och taxering (IoT) → Individer och dödsbon | reviewed |
-| `kcr` | 0/9 | Öppen | unresolved |
+| `kcr` | 0/9 | Koncernregistret (KCR) (variant eller kolumnkoppling öppen) | register_identified_not_in_index |
 | `kvx_kursdelt_ht` | 13/14 | Komvux → Kursdeltagare | reviewed |
 | `kvx_kursdelt_vt` | 13/14 | Komvux → Kursdeltagare | reviewed |
 | `landgruppering` | 0/2 | Öppen | unresolved |
@@ -81,7 +81,7 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `population_personnr` | 0/7 | Öppen | unresolved |
 | `rtb` | 4/6 | Befolkningsregistret (RTB) → Folkbokförda personer | reviewed |
 | `rtbfamilj` | 3/3 | Befolkningsregistret (RTB) → Familjer från 1998- | reviewed |
-| `ruma` | 0/13 | Öppen | unresolved |
+| `ruma` | 0/13 | Registret över Utbildning, Matchning och Arbetsmarknad (RUMA) (variant eller kolumnkoppling öppen) | register_identified_not_in_index |
 | `ruma_e20` | 0/2 | Öppen | unresolved |
 | `ruma_e23` | 0/2 | Öppen | unresolved |
 | `ruma_t17` | 0/2 | Öppen | unresolved |
@@ -92,10 +92,106 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `sivstock` | 2/2 | Registret för integrationsstudier STATIV → STATIV | reviewed |
 | `slutbetyg_ak9` | 11/11 | Grundskola: betyg åk 9 → Grundskolan: betyg åk 9 | reviewed |
 | `stativ` | 305/305 | Registret för integrationsstudier STATIV → STATIV | reviewed |
-| `uhv` | 0/6 | Öppen | unresolved |
-| `ureg_ky_yh_fhsk` | 0/8 | Öppen | unresolved |
+| `uhv` | 6/6 | Utrikeshandel med varor → Intrastat, löpande priser; Utrikeshandel med varor → Extrastat, löpande priser | reviewed |
+| `ureg_ky_yh_fhsk` | 0/8 | Utbildningsregistret (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
 | `uvas` | 0/3 | Öppen | unresolved |
 | `yh_stud` | 36/36 | Yrkeshögskolan → Studerande och examinerade | reviewed |
+
+## Granskning av register och alternativ
+
+### fek_lve
+
+Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner.
+
+Ej godkända variantalternativ: Företagens ekonomi (FEK) → FEK Slutdata (LVE).
+
+- Ej godkänt alias: `MedeltalAnstallda` → `lgr6101` (Medelantal anställda, 2003–2024).
+- Ej godkänt alias: `SysselsattaRAMS` → `lhar6103` (Sysselsatta (RAMS), 2003–2021).
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### ftg_fou_fe
+
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### ftg_fou_je
+
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### ftg_fou_mikroftg_fe
+
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### ftg_fou_mikroftg_je
+
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### grund_fkl_fth
+
+Sammansatt vy: sju av åtta sakvariabler återfinns i Grundskola elever och Förskoleklass. Den särskiljande HMANFTH finns exakt i Fritidshem elever Grundskola, liksom SkolKodFTH och SkolenhetskodFTH före löpnummerersättningen. Tillsammans täcks samtliga åtta sakvariabler. Alternativa källdefinitioner bevaras separat; ingen prioritering eller automatisk sammanslagning.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
+### hushallperson
+
+Alla 12 icke-identifierande kolumner överensstämmer exakt. Beställningen börjar 2011; RTB Hushåll börjar 2011-12-31, medan alternativet Hushållens boende Individer börjar 2012. Årsspecifika hushålls-ID i beställningen behålls som identifierare och matchas inte mot värdemängder. Kopplingen ger dokumentationsstöd, inte bevis för beställningens population.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+- [Källunderlag](https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/registret-over-totalbefolkningen-rtb/)
+
+### kcr
+
+SCB:s FDB-dokumentation identifierar Koncernregistret (KCR). Beställningen innehåller koncernmoder, moderbolag, ägarandel och nivå. KCR och dessa specifika kolumner saknas i Mikrometadata-indexet; Internationella företag ersätter inte hela koncernregistret.
+
+
+- [Källunderlag](https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf)
+
+### ruma
+
+SCB:s kvalitetsdeklaration för Regionala Trender och Prognoser 2025 identifierar RUMA som samlingsregister för utbildning och arbetsmarknad, baserat på RTB, BAS, UREG och YREG. Registerrubriken och beställningens RUMA-kolumner saknas i det hämtade Mikrometadata-indexet. Underregistren ersätter inte RUMA:s egna klassifikationer.
+
+
+- [Källunderlag](https://www.scb.se/contentassets/9a731a170df2441780abaad993cb1efe/uf0515_kd_2025_cah_260528.pdf)
+
+### uhv
+
+Alla sex sakvariabler matchar exakt i båda varianterna. SCB anger att Utrikeshandel med varor består av Intrastat och Extrastat. Båda används som dokumentationskällor, separat; beställningsfilen avgör inte vilket delsystem en observation kommer från.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+- [Källunderlag](https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/utrikeshandel-med-varor/)
+
+### ureg_ky_yh_fhsk
+
+Alla åtta sakvariabler återfinns i flera UREG-varianter. Namnsuffixet KY/YH/FHSK räcker inte för att avgöra om beställningen är ett källurval eller annan bearbetning. Inga varianter godkänns enbart från kolumnöverlapp.
+
+Ej godkända variantalternativ: Utbildningsregistret → Personens samtliga utbildningar; Utbildningsregistret → Personens högsta utbildning; Utbildningsregistret → Samlat betygsdokument/studiebevis.
+
+
+- [Källunderlag](https://mikrometadata.scb.se/)
+
 
 ## Återstående namn
 
@@ -123,12 +219,10 @@ Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och käll
 - `gdb_skolor`: `DeSO_2018`, `DeSO_2025`, `Kommun`, `Ruta100swX`, `Ruta100swY`, `Skolform`, `Tatort_2015`, `Tatort_2018`, `Tatort_2020`, `Tatort_2023`
 - `grs_svdk`: `AstKom_Arb`, `AstKom_Namn_Arb`, `AstSni2002_Arb`, `AstSni2007_Arb`, `AstSni92_Arb`, `FtgStl`, `InstSekt_Arb`, `InstSekt_Arb_NyIndeln`, `NovMark_Arb`, `SumLon_Arb`, `SyssMark_Arb`, `Utb_Niva`, `Utd_Kombi`
 - `grs_svno`: `AstKom_Arb`, `AstKom_Namn_Arb`, `AstSni2002_Arb`, `AstSni2007_Arb`, `AstSni92_Arb`, `FtgStl`, `InstSekt_Arb`, `InstSekt_Arb_NyIndeln`, `NovMark_Arb`, `SumLon_Arb`, `SyssMark_Arb`, `Utb_Niva`, `Utb_Niva_Kombi`
-- `grund_fkl_fth`: `Ak`, `Arskurs`, `HMANFTH`, `Hman`, `Inriktning`, `SKom`, `Skolkommun`, `Verkform`
 - `hreg_examen`: `Inrnamn`, `SUN2020Inr`, `TMGrp`, `TMGrpnamn`, `Termin`
 - `hreg_examenforsk`: `SUN2000Inr`, `SUN2020Inr`
 - `hreg_poang`: `HPPAvkSum`, `LasAr`, `TillgodoBen`
 - `hreg_registrerade`: `LProg`
-- `hushallperson`: `AntalBarn`, `AntalBarnUnder18`, `AntalBarnUnder25`, `AntalBarnUnder6`, `Civil`, `HushallsStallning`, `HushallsStorlek`, `HushallsTyp`, `Imp_Hushall`, `Kommun`, `Lan`, `YngstaBarn`
 - `in_utvandring_lisa`: `InvUtvLand_Grp`
 - `inrflyttflode`: `FolkbDatManad`, `FolkbDatManadG_harledd`
 - `inrikesflytt_1968_1997`: `BearbArDatumManad`
@@ -149,6 +243,5 @@ Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och käll
 - `ruma_t17`: `SUN2000Grp_T17`, `SUN2000Grp_T17_klartext`
 - `ruma_t20`: `SUN2000Grp_T20`, `SUN2000Grp_T20_klartext`
 - `ruma_t23`: `SUN2020Grp_T23`, `SUN2020Grp_T23_klartext`
-- `uhv`: `AnnanKvant`, `InfUtf`, `Landskod`, `Varde`, `Varukod`, `Vikt`
 - `ureg_ky_yh_fhsk`: `ExamAr`, `ExamKommun`, `ExamLan`, `ExamTer`, `Kallar`, `Kallkod`, `SUN2000Inr`, `SUN2020Inr`
 - `uvas`: `Alderslut`, `UVAS_g`, `UVAS_n`
