@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T13:21:35+00:00",
+  "checked_at": "2026-11-21T13:40:22+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 12083,
-    "documentation": 12018,
-    "nonempty_definition": 12018,
-    "nonempty_method": 12018,
-    "verified_domains": 12004,
-    "enumerated": 5919,
-    "not_enumerated": 6085,
-    "complete_groups": 38,
+    "bindings": 12596,
+    "documentation": 12596,
+    "nonempty_definition": 12596,
+    "nonempty_method": 12596,
+    "verified_domains": 12517,
+    "enumerated": 6052,
+    "not_enumerated": 6465,
+    "complete_groups": 39,
     "groups_with_source_errors": 9,
     "documentation_only": 79,
     "groups": 51,
-    "unique_domains": 926
+    "unique_domains": 930
   },
   "integrity_errors": [],
   "groups": [
@@ -470,8 +470,8 @@
       "documentation_only": 10,
       "source_errors": 10,
       "source_error_examples": [
-        "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "Ng1 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ng 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -647,14 +647,14 @@
       "views": [
         "iot"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 778,
-      "bindings": 600,
-      "documentation": 600,
-      "nonempty_definition": 600,
-      "nonempty_method": 600,
-      "verified_domains": 600,
-      "not_enumerated": 600,
+      "bindings": 778,
+      "documentation": 778,
+      "nonempty_definition": 778,
+      "nonempty_method": 778,
+      "verified_domains": 778,
+      "not_enumerated": 778,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -666,13 +666,13 @@
       ],
       "complete": false,
       "expected_bindings": 770,
-      "bindings": 471,
-      "verified_domains": 471,
-      "enumerated": 420,
-      "documentation": 406,
-      "nonempty_definition": 406,
-      "nonempty_method": 406,
-      "not_enumerated": 51,
+      "bindings": 606,
+      "documentation": 606,
+      "nonempty_definition": 606,
+      "nonempty_method": 606,
+      "verified_domains": 606,
+      "enumerated": 536,
+      "not_enumerated": 70,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -722,13 +722,13 @@
       ],
       "complete": false,
       "expected_bindings": 1541,
-      "bindings": 600,
-      "documentation": 600,
-      "nonempty_definition": 600,
-      "nonempty_method": 600,
-      "verified_domains": 600,
-      "not_enumerated": 526,
-      "enumerated": 74,
+      "bindings": 800,
+      "documentation": 800,
+      "nonempty_definition": 800,
+      "nonempty_method": 800,
+      "verified_domains": 800,
+      "not_enumerated": 709,
+      "enumerated": 91,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -1091,15 +1091,15 @@
       "documented_columns": 5
     },
     "iot": {
-      "documented_versions": 639,
+      "documented_versions": 817,
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
-      "documented_versions": 406,
+      "documented_versions": 606,
       "documented_columns": 13
     },
     "kvx_kursdelt_vt": {
-      "documented_versions": 404,
+      "documented_versions": 604,
       "documented_columns": 13
     },
     "lisa_arbst": {
@@ -1107,7 +1107,7 @@
       "documented_columns": 22
     },
     "lisa_ftg": {
-      "documented_versions": 600,
+      "documented_versions": 800,
       "documented_columns": 68
     },
     "lisa_individ": {
