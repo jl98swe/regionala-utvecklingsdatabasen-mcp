@@ -140,13 +140,13 @@ jobs:
           python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
           import json,pathlib
           index=json.load(open('data/order-source-index.json'))
-          total=complete=bindings=blocked=0
+          total=complete=bindings=blocked=documented=0
           for g in index['groups']:
               total+=1;p=pathlib.Path(g['path'])
               if not p.exists():continue
               d=json.loads(p.read_text());c=d['coverage']
-              complete+=bool(c['complete']);bindings+=len(d['bindings']);blocked+=bool(c.get('errors'))
-          print(f'Granskade källvarianter: {total}. Kompletta: {complete}. Sparade variabelversioner: {bindings}. Blockerade: {blocked}.')
+              complete+=bool(c['complete']);bindings+=len(d['bindings']);blocked+=bool(c.get('errors'));documented+=sum(bool(b.get('documentation')) for b in d['bindings'])
+          print(f'Granskade källvarianter: {total}. Kompletta: {complete}. Sparade variabelversioner: {bindings}. Med beskrivningstabell: {documented}. Blockerade: {blocked}.')
           PY
           python - <<'PY'
           import json,os,urllib.request

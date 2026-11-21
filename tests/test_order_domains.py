@@ -3,7 +3,7 @@ from pathlib import Path
 import sys
 ROOT=Path(__file__).parents[1];sys.path.insert(0,str(ROOT/'scripts'))
 from harvest_mikrometadata import digest
-from harvest_order_domains import eligible,export_sets,documentation_record
+from harvest_order_domains import eligible,export_sets,documentation_record,collection_complete
 class OrderTests(unittest.TestCase):
  def test_period_scope_does_not_invent_order_availability(self):
   self.assertTrue(eligible('1997-2024','2010'))
@@ -35,6 +35,13 @@ class OrderTests(unittest.TestCase):
   self.assertEqual(d['fields'],[{'name':k,'value':v} for k,v in rows])
   self.assertEqual(d['id'],digest({k:v for k,v in d.items() if k!='id'}))
   with self.assertRaises(ValueError):documentation_record([('Annan rubrik','exempel')])
+ def test_existing_code_lists_do_not_mark_partial_documentation_complete(self):
+  bindings={'a':{'documentation':{'id':'example'}},'b':{}}
+  self.assertFalse(collection_complete({'a','b'},bindings,[]))
+  bindings['b']['documentation']={'id':'example2'}
+  self.assertTrue(collection_complete({'a','b'},bindings,[]))
+  self.assertFalse(collection_complete({'a','b'},bindings,['export error']))
+  self.assertFalse(collection_complete(set(),bindings,[]))
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'

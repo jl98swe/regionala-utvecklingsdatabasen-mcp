@@ -78,6 +78,9 @@ def capture_documentation(page):
  if not (ROOT/path).exists():atomic_save(ROOT/path,document)
  return {'id':document['id'],'path':path}
 
+def collection_complete(expected,bindings,errors):
+ return bool(expected) and expected.issubset(bindings) and all(bindings[k].get('documentation') for k in expected) and not errors
+
 def main(a):
  from playwright.sync_api import sync_playwright,expect
  expect.set_options(timeout=60000)
@@ -94,7 +97,7 @@ def main(a):
   refs={b['domain_id'] for b in byid.values()}
   data['bindings']=sorted(byid.values(),key=lambda b:(b['column'],b['variable'],b['register_version']))
   data['domains']=sorted((d for d in domains.values() if d['id'] in refs),key=lambda d:d['id'])
-  data['coverage']={'complete':complete,'collector_sha256':COLLECTOR_SHA,'passes':passes+1,'metadata_sha256':plan['metadata_sha256'],'task_sha256':task_hash,'source_updated':update,'retrieved_at':now,'task_count':len(tasks),'expected_bindings':len(expected),'errors':errors}
+  data['coverage']={'complete':complete,'collector_sha256':COLLECTOR_SHA,'passes':passes+1,'metadata_sha256':plan['metadata_sha256'],'task_sha256':task_hash,'source_updated':update,'retrieved_at':now,'task_count':len(tasks),'expected_bindings':len(expected),'documented_bindings':sum(bool(byid.get(k,{}).get('documentation')) for k in expected),'errors':errors}
   atomic_save(path,data)
  with sync_playwright() as p:
   browser=p.chromium.launch(headless=True);page=browser.new_page(accept_downloads=True);page.set_default_timeout(60000)
@@ -176,7 +179,7 @@ def main(a):
      time.sleep(.2)
     except Exception as e:
      errors.append(f"{task['Kolumnnamn']} {label}: {e}");save();print("FEL | "+errors[-1],flush=True)
-  complete=bool(expected) and expected.issubset(byid) and not errors
+  complete=collection_complete(expected,byid,errors)
   save(complete)
   print(f'KLAR | exporter={checked} | sparade={len(byid)} | förväntade={len(expected)} | komplett={complete}',flush=True)
   browser.close()
