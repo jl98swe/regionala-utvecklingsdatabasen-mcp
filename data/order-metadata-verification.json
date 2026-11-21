@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T12:50:59+00:00",
+  "checked_at": "2026-11-21T13:21:35+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 11192,
-    "documentation": 11127,
-    "nonempty_definition": 11127,
-    "nonempty_method": 11127,
-    "verified_domains": 11114,
-    "enumerated": 5472,
-    "not_enumerated": 5642,
-    "complete_groups": 37,
+    "bindings": 12083,
+    "documentation": 12018,
+    "nonempty_definition": 12018,
+    "nonempty_method": 12018,
+    "verified_domains": 12004,
+    "enumerated": 5919,
+    "not_enumerated": 6085,
+    "complete_groups": 38,
     "groups_with_source_errors": 9,
-    "documentation_only": 78,
+    "documentation_only": 79,
     "groups": 51,
-    "unique_domains": 894
+    "unique_domains": 926
   },
   "integrity_errors": [],
   "groups": [
@@ -42,18 +42,18 @@
       ],
       "complete": false,
       "expected_bindings": 957,
-      "bindings": 597,
-      "documentation": 597,
-      "nonempty_definition": 597,
-      "nonempty_method": 597,
-      "verified_domains": 594,
-      "enumerated": 360,
-      "not_enumerated": 234,
+      "bindings": 797,
+      "documentation": 797,
+      "nonempty_definition": 797,
+      "nonempty_method": 797,
+      "verified_domains": 794,
+      "enumerated": 475,
+      "not_enumerated": 319,
       "documentation_only": 3,
       "source_errors": 3,
       "source_error_examples": [
-        "KU1AstSNI2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "KU2AstSNI2002 2010: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "KU1AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "KU2AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -63,18 +63,18 @@
       ],
       "complete": false,
       "expected_bindings": 637,
-      "bindings": 580,
-      "documentation": 580,
-      "nonempty_definition": 580,
-      "nonempty_method": 580,
-      "verified_domains": 556,
-      "not_enumerated": 199,
-      "enumerated": 357,
+      "bindings": 637,
+      "documentation": 637,
+      "nonempty_definition": 637,
+      "nonempty_method": 637,
+      "verified_domains": 613,
+      "not_enumerated": 218,
+      "enumerated": 395,
       "documentation_only": 24,
       "source_errors": 24,
       "source_error_examples": [
-        "KU1AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "KU2AstSNI2002 2009: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "KU1AstSNI2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "KU2AstSNI2002 2009: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -136,15 +136,15 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 600,
-      "documentation": 600,
-      "nonempty_definition": 600,
-      "nonempty_method": 600,
-      "verified_domains": 597,
-      "not_enumerated": 304,
-      "enumerated": 293,
-      "documentation_only": 3,
-      "source_errors": 4,
+      "bindings": 800,
+      "documentation": 800,
+      "nonempty_definition": 800,
+      "nonempty_method": 800,
+      "verified_domains": 796,
+      "not_enumerated": 399,
+      "enumerated": 397,
+      "documentation_only": 4,
+      "source_errors": 5,
       "source_error_examples": [
         "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
         "AstSNI2002 2010: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
@@ -430,8 +430,8 @@
       "documentation_only": 15,
       "source_errors": 15,
       "source_error_examples": [
-        "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
-        "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []"
+        "Ng1 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []",
+        "Ng 2007: tidigare verifierat exporthinder: Exportens värdemängdsnivå matchar inte vald nivå: []"
       ]
     },
     {
@@ -547,15 +547,15 @@
       "views": [
         "slutbetyg_ak9"
       ],
-      "complete": false,
+      "complete": true,
       "expected_bindings": 234,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 57,
-      "enumerated": 143,
+      "bindings": 234,
+      "documentation": 234,
+      "nonempty_definition": 234,
+      "nonempty_method": 234,
+      "verified_domains": 234,
+      "not_enumerated": 62,
+      "enumerated": 172,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -649,12 +649,12 @@
       ],
       "complete": false,
       "expected_bindings": 778,
-      "bindings": 400,
-      "documentation": 400,
-      "nonempty_definition": 400,
-      "nonempty_method": 400,
-      "verified_domains": 400,
-      "not_enumerated": 400,
+      "bindings": 600,
+      "documentation": 600,
+      "nonempty_definition": 600,
+      "nonempty_method": 600,
+      "verified_domains": 600,
+      "not_enumerated": 600,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -684,13 +684,13 @@
       ],
       "complete": false,
       "expected_bindings": 998,
-      "bindings": 600,
-      "documentation": 600,
-      "nonempty_definition": 600,
-      "nonempty_method": 600,
-      "verified_domains": 600,
-      "enumerated": 478,
-      "not_enumerated": 122,
+      "bindings": 800,
+      "documentation": 800,
+      "nonempty_definition": 800,
+      "nonempty_method": 800,
+      "verified_domains": 800,
+      "enumerated": 639,
+      "not_enumerated": 161,
       "source_errors": 0,
       "source_error_examples": []
     },
@@ -1091,7 +1091,7 @@
       "documented_columns": 5
     },
     "iot": {
-      "documented_versions": 439,
+      "documented_versions": 639,
       "documented_columns": 29
     },
     "kvx_kursdelt_ht": {
@@ -1111,7 +1111,7 @@
       "documented_columns": 68
     },
     "lisa_individ": {
-      "documented_versions": 1177,
+      "documented_versions": 1434,
       "documented_columns": 151
     },
     "moms": {
@@ -1131,23 +1131,23 @@
       "documented_columns": 3
     },
     "sfi_kursdelt_ht": {
-      "documented_versions": 596,
+      "documented_versions": 796,
       "documented_columns": 17
     },
     "sfi_kursdelt_vt": {
-      "documented_versions": 595,
+      "documented_versions": 794,
       "documented_columns": 17
     },
     "sivstock": {
-      "documented_versions": 6,
+      "documented_versions": 9,
       "documented_columns": 2
     },
     "slutbetyg_ak9": {
-      "documented_versions": 200,
+      "documented_versions": 234,
       "documented_columns": 11
     },
     "stativ": {
-      "documented_versions": 600,
+      "documented_versions": 799,
       "documented_columns": 304
     },
     "uhv": {
