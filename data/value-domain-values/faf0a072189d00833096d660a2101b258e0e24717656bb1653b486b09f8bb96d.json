@@ -1,0 +1,24 @@
+{
+  "version": "Betyg i SFI fr.o.m 1 januari 2022",
+  "level": "Betyg i SFI",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Uppgift om betygssteg saknas"
+    },
+    {
+      "code": "-",
+      "label": "Streck i betyg"
+    },
+    {
+      "code": "G",
+      "label": "Godkänt"
+    },
+    {
+      "code": "I",
+      "label": "Icke godkänt"
+    }
+  ],
+  "id": "faf0a072189d00833096d660a2101b258e0e24717656bb1653b486b09f8bb96d"
+}

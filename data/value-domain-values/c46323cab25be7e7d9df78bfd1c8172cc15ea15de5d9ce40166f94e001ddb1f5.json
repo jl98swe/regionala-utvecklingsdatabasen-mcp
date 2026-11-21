@@ -1,0 +1,20 @@
+{
+  "version": "Förekomst",
+  "level": "Ja/nej",
+  "data_type": "varchar(50)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Har inget pågående sjukfall"
+    },
+    {
+      "code": "0",
+      "label": "Nej"
+    },
+    {
+      "code": "1",
+      "label": "Ja"
+    }
+  ],
+  "id": "c46323cab25be7e7d9df78bfd1c8172cc15ea15de5d9ce40166f94e001ddb1f5"
+}

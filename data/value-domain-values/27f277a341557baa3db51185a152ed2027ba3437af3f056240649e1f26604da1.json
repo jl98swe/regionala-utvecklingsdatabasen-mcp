@@ -1,0 +1,24 @@
+{
+  "version": "Typ av ekonomiskt bistånd",
+  "level": "Typ av ekonomiskt bistånd",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Enbart försörjningsstöd"
+    },
+    {
+      "code": "2",
+      "label": "Enbart introduktionsersättning"
+    },
+    {
+      "code": "3",
+      "label": "Både försörjningsstöd och introduktionsersättning"
+    },
+    {
+      "code": "NULL",
+      "label": "Ingår ej i socialbidragsregistret"
+    }
+  ],
+  "id": "27f277a341557baa3db51185a152ed2027ba3437af3f056240649e1f26604da1"
+}

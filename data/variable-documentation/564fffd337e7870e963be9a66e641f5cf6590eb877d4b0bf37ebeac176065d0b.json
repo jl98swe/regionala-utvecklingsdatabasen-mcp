@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(8)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Beslutsdatum för uppehållstillstånd som föranledde mottagning"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger datum för det beslut om uppehållstillstånd som föranledde mottagning i kommunen."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Denna uppgift finns endast för personer som blivit kommunmottagna. Alla andra personer som fått uppehållstillstånd har inte UTDatum, exempelvis de som fått uppehållstillstånd för arbete, studier och anhörig-skäl. Eftersom en person kan få fler beslut om uppehållstillstånd så kan BeslDatum (och ibland även GFB_klassgrupp) ändras mellan olika vers-ioner av STATIV. Men uppgiften i UTDatum, som avser det beslut som låg närmast i tid innan kommunmottagning, ändras inte om ett nytt beslut om uppehållstillstånd tas."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Migrationsverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Datum"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": " "
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2024."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2024-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "564fffd337e7870e963be9a66e641f5cf6590eb877d4b0bf37ebeac176065d0b"
+}

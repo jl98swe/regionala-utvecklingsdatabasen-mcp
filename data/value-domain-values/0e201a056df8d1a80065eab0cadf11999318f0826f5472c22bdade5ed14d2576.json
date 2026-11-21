@@ -1,0 +1,32 @@
+{
+  "version": "Sysselsättningsstatus fr.o.m 2019",
+  "level": "Sysselsättningsstatus fr.o.m 2019 ",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Förvärvsarbetande 16-74 år"
+    },
+    {
+      "code": "4",
+      "label": "Ej förvärvsarbetande, samtliga under 15 år "
+    },
+    {
+      "code": "5",
+      "label": "Ej förvärvsarbetande, men med arbetsgivardeklaration på individnivå (AGI), kontrolluppgift från arbetsgivare eller företaginkomst under året "
+    },
+    {
+      "code": "6",
+      "label": "Ej förvärvsarbetande, utan arbetsgivardeklaration på individnivå (AGI), kontrolluppgift från arbetsgivare eller företagarinkomst under året"
+    },
+    {
+      "code": "7",
+      "label": "Förvärvsarbetande 15 år "
+    },
+    {
+      "code": "8",
+      "label": "Förvärvsarbetande > 74 år "
+    }
+  ],
+  "id": "0e201a056df8d1a80065eab0cadf11999318f0826f5472c22bdade5ed14d2576"
+}

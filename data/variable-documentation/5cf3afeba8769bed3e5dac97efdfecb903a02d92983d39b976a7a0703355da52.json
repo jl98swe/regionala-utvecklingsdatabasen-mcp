@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Sammanräknad förvärvsinkomst, moder"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Beräknad inkomst av tjänst och näringsverksamhet i deklarationen, för individens moder"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Anges i hundratals kronor"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd variabel från IoT och RTB.  Inkomst av tjänst beräknat med utgångspunkt från deklarerade delbelopp + inkomst av näringsverksamhet. Anges i hundratal kronor. Negativa värden kan förekomma."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Från och med 2020 ingår även nordiska inkomster. I Inkomst- och taxeringsregistret har man även lagt till dessa inkomster bakåt i tiden till och med år 2011.\r\n\r\nVariabler om ekonomiskt bistånd hämtas från Socialstyrelsen. För mer information om ekonomiskt bistånd samt riksnorm över tid, se http://www.socialstyrelsen.se/ekonomisktbistand. \r\n\r\nI STATIV finns inga uppgifter om var en person har bott under året, utan enbart information om den aktuella folkbokföringskommunen 31/12. En person kan alltså ha flyttat under året och fått ekonomiskt bistånd från någon annan kommun än den aktuella folkbokföringskommunen. Därför stämmer inte de totala utbetalda beloppen per kommun i STATIV överens med de totala utbetalda beloppen i Socialstyrelsens publicering.\r\n\r\nFrån och med 2012 ingår inte längre introduktionsersättning i Socialstyrelsens insamling till statistiken om ekonomiskt bistånd. \r\n\r\nAnges i hundratal kronor.\r\n\r\nInkomster till följd av passiv näringsverksamhet förkommer i både SamRakFInk"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2023."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "5cf3afeba8769bed3e5dac97efdfecb903a02d92983d39b976a7a0703355da52"
+}

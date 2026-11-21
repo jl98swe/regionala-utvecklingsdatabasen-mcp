@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Långtidsarbetslös"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om personen har varit långtidsarbetslös."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "\r\n"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Uppgift om personen klassas som långtidsarbetslös den senaste inskriv-ningsperioden. För att klassas som långtidsarbetslös ska en person 25 år och äldre varit klassad som öppet arbetslös i minst sex månader den senaste perioden. En person under 25 år ska ha varit klassad som öppet arbetslös i minst 100 dagar den senaste perioden."
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "31/12"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Arbetsförmedlingen"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Uppgifterna är inte jämförbara med Arbetsförmedlingens publicerade uppgifter då det är möjligt att vara inskriven på Arbetsförmedlingen utan att vara folkbokförd. STATIV innehåller endast uppgifter om folk-bokförda personer."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2023."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "1526104247b7c9d75255b94e831d4687ad7efe18c0b4d88feba57e61e00dcc83"
+}

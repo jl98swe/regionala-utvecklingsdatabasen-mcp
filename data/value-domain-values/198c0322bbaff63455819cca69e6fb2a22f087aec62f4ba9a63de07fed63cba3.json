@@ -1,0 +1,212 @@
+{
+  "version": "SUN 2000 - Utbildningsnivå",
+  "level": "Utbildningsnivå, 3 positioner",
+  "data_type": "char(3)",
+  "values": [
+    {
+      "code": "000",
+      "label": "Övrig och ospecificerad förskoleutbildning"
+    },
+    {
+      "code": "001",
+      "label": "Förskola"
+    },
+    {
+      "code": "002",
+      "label": "Förskoleklass"
+    },
+    {
+      "code": "100",
+      "label": "Övrig och ospecificerad förgymnasial utbildning kortare än 9 år"
+    },
+    {
+      "code": "102",
+      "label": "Grundskoleutbildning, årskurs 1-6"
+    },
+    {
+      "code": "106",
+      "label": "Folkskoleutbildning"
+    },
+    {
+      "code": "200",
+      "label": "Övrig och ospecificerad förgymnasial utbildning, 9 (10) år"
+    },
+    {
+      "code": "204",
+      "label": "Realskoleutbildning"
+    },
+    {
+      "code": "206",
+      "label": "Grundskoleutbildning, årskurs 7-9"
+    },
+    {
+      "code": "310",
+      "label": "Övrig och ospecificerad gymnasial utbildning, kortare än två år"
+    },
+    {
+      "code": "312",
+      "label": "Gymnasial utbildning kortare än två år, teoretisk och studieförberedande, ej slutbetyg"
+    },
+    {
+      "code": "313",
+      "label": "Gymnasial utbildning kortare än två år, yrkesinriktad, ej slutbetyg"
+    },
+    {
+      "code": "316",
+      "label": "Gymnasial utbildning kortare än två år, teoretisk och studieförberedande"
+    },
+    {
+      "code": "317",
+      "label": "Gymnasial utbildning kortare än två år, yrkesinriktad"
+    },
+    {
+      "code": "320",
+      "label": "Övrig och ospecificerad gymnasial utbildning, två år"
+    },
+    {
+      "code": "322",
+      "label": "Gymnasial utbildning två år, teoretisk och studieförberedande, ej slutbetyg"
+    },
+    {
+      "code": "323",
+      "label": "Gymnasial utbildning två år, yrkesinriktad, ej slutbetyg"
+    },
+    {
+      "code": "326",
+      "label": "Gymnasial utbildning två år, teoretisk och studieförberedande"
+    },
+    {
+      "code": "327",
+      "label": "Gymnasial utbildning två år, yrkesinriktad"
+    },
+    {
+      "code": "330",
+      "label": "Övrig och ospecificerad gymnasial utbildning, tre år"
+    },
+    {
+      "code": "332",
+      "label": "Gymnasial utbildning tre år, teoretisk och studieförberedande, ej slutbetyg"
+    },
+    {
+      "code": "333",
+      "label": "Gymnasial utbildning tre år, yrkesinriktad, ej slutbetyg"
+    },
+    {
+      "code": "336",
+      "label": "Gymnasial utbildning tre år, teoretisk och studieförberedande"
+    },
+    {
+      "code": "337",
+      "label": "Gymnasial utbildning tre år, yrkesinriktad"
+    },
+    {
+      "code": "410",
+      "label": "Övrig och ospecificerad eftergymnasial utbildning, kortare än två år"
+    },
+    {
+      "code": "412",
+      "label": "Högskoleutbildning, 20 poäng eller 30 högskolepoäng, ej examen"
+    },
+    {
+      "code": "413",
+      "label": "Gymnasial påbyggnadsutbildning"
+    },
+    {
+      "code": "415",
+      "label": "Eftergymnasial utbildning kortare än två år, ej universitet/högskola"
+    },
+    {
+      "code": "417",
+      "label": "Högskoleutbildning kortare än två år, yrkesinriktad"
+    },
+    {
+      "code": "520",
+      "label": "Övrig och ospecificerad eftergymnasial utbildning, två år"
+    },
+    {
+      "code": "522",
+      "label": "Högskoleutbildning, 80 poäng eller 120 högskolepoäng, ej examen"
+    },
+    {
+      "code": "525",
+      "label": "Eftergymnasial utbildning två år, ej universitet/högskola"
+    },
+    {
+      "code": "526",
+      "label": "Högskoleutbildning två år, generell"
+    },
+    {
+      "code": "527",
+      "label": "Högskoleutbildning två år, yrkesinriktad"
+    },
+    {
+      "code": "530",
+      "label": "Övrig och ospecificerad eftergymnasial utbildning, tre år"
+    },
+    {
+      "code": "532",
+      "label": "Högskoleutbildning, 120 poäng eller 180 högskolepoäng, ej examen"
+    },
+    {
+      "code": "535",
+      "label": "Eftergymnasial utbildning tre år, ej universitet/högskola"
+    },
+    {
+      "code": "536",
+      "label": "Högskoleutbildning tre år, generell"
+    },
+    {
+      "code": "537",
+      "label": "Högskoleutbildning tre år, yrkesinriktad"
+    },
+    {
+      "code": "540",
+      "label": "Övrig och ospecificerad eftergymnasial utbildning, fyra år"
+    },
+    {
+      "code": "545",
+      "label": "Eftergymnasial utbildning fyra år, ej universitet/högskola"
+    },
+    {
+      "code": "546",
+      "label": "Högskoleutbildning fyra år, generell"
+    },
+    {
+      "code": "547",
+      "label": "Högskoleutbildning fyra år, yrkesinriktad"
+    },
+    {
+      "code": "550",
+      "label": "Övrig och ospecificerad eftergymnasial utbildning, fem år eller längre"
+    },
+    {
+      "code": "555",
+      "label": "Eftergymnasial utbildning, fem år eller längre, ej universitet/högskola"
+    },
+    {
+      "code": "556",
+      "label": "Högskoleutbildning fem år eller längre, generell"
+    },
+    {
+      "code": "557",
+      "label": "Högskoleutbildning fem år eller längre, yrkesinriktad"
+    },
+    {
+      "code": "600",
+      "label": "Övrig och ospecificerad forskarutbildning"
+    },
+    {
+      "code": "620",
+      "label": "Licentiatutbildning"
+    },
+    {
+      "code": "640",
+      "label": "Doktorsutbildning"
+    },
+    {
+      "code": "999",
+      "label": "Uppgift saknas"
+    }
+  ],
+  "id": "198c0322bbaff63455819cca69e6fb2a22f087aec62f4ba9a63de07fed63cba3"
+}
