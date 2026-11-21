@@ -172,6 +172,10 @@ def main(a):
     label,bid,identity=versions[depth]
     old=byid.get(bid)
     if old and old.get('domain_id') and old.get('documentation') and (old.get('source_updated')==update or depth>0):continue
+    if old and old.get('status')=='documentation_only' and old.get('domain_error_collector')==COLLECTOR_SHA and old.get('source_updated')==update:
+     # En blockerad kodexport får inte förbruka nästa batch före ohämtade versioner.
+     errors.append(f"{task['Kolumnnamn']} {label}: tidigare verifierat exporthinder: {old.get('domain_error','okänt')}")
+     continue
     remaining+=1
     if checked>=a.max_checks:continue
     checked+=1
@@ -218,7 +222,8 @@ def main(a):
      print(f"OK | {task['Kolumnnamn']} | {label} | {len(domain['values'])} | {checked}/{a.max_checks}",flush=True)
      time.sleep(.2)
     except Exception as e:
-     if byid.get(bid,{}).get('status')=='documentation_only':byid[bid]['domain_error']=str(e)
+     if byid.get(bid,{}).get('status')=='documentation_only':
+      byid[bid]['domain_error']=str(e);byid[bid]['domain_error_collector']=COLLECTOR_SHA
      errors.append(f"{task['Kolumnnamn']} {label}: {e}");save();print("FEL | "+errors[-1],flush=True)
   complete=collection_complete(expected,byid,errors)
   save(complete)
