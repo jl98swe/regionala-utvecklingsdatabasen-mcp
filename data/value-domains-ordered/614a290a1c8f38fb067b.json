@@ -3432,6 +3432,35 @@
       "variant": "Intrastat, löpande priser",
       "column": "Varukod",
       "variable": "Varugrupp KN",
+      "register_version": "2017",
+      "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
+      "id": "ffa109785ad25ac29f8e1ff251b57ae1fb32c8035b49b32b6d6e5c2ab5a68db2",
+      "domain_id": "a1f25dfc730e94492d48da19b7ff1de34449557d696afd551de29190f0698591",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5dfe95ce2c6464e1f8d2e8763d3b1b64588c4d077b2f298388a9a0427fcdd00",
+        "path": "data/variable-documentation/d5dfe95ce2c6464e1f8d2e8763d3b1b64588c4d077b2f298388a9a0427fcdd00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varugrupp KN",
       "register_version": "2018",
       "source_task_id": "b22d19f9e3bab21a4263e823c4d9cc5c6e90ed246fed2a3225b4a583479cb7fc",
       "id": "392e1222edde4c6e52595005a651334c3e4d4605afbd8068ee8edb3d8fad025f",
@@ -3716,6 +3745,441 @@
         "path": "data/variable-documentation/c5cce9f7cc7e92025f9b67259c1f5e833ecb6d7f3e7004da69e71f8b560c6e14.json"
       },
       "documentation_retrieved_at": "2026-11-21T06:19:14+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2002",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "b8a3378a54373f872ff9a85c2edd9c9082b96a796822e03663001e3fe1fc114f",
+      "domain_id": "f136c953af6398421c36b0e6dcd8d26604fea39df8222ddfe6e0c3aa5aee1598",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "578c2b5bfb738e2ec7c355a03d036376a877a8b4c8ee6a64b22bb2b58ee5689b",
+        "path": "data/variable-documentation/578c2b5bfb738e2ec7c355a03d036376a877a8b4c8ee6a64b22bb2b58ee5689b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2003",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "9602afd70b66a75edc8a0e36555378ab174bc6f0ed22d7d4ca767c8b0fa1dff7",
+      "domain_id": "740f8d3f992b875601cbfea48593df4a23b71d5bdb8423787509281d113adfa0",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5063d847b4aa5bc61dc2230f423fdc8e8ded7bd723630ada547a4983241e5ade",
+        "path": "data/variable-documentation/5063d847b4aa5bc61dc2230f423fdc8e8ded7bd723630ada547a4983241e5ade.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2004",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "83335f67b1364a80b5c00a2b5b24a04c7bda78db46f03e5c187ba8d87c513ed4",
+      "domain_id": "401e9c8534fc582c8a2289e66d9672eec56d174ec93113f4d0a8d5cb098f1e07",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd99d7b77627f57eb9921239a16fbaa4d7467fe0fad5345a962f7916c692113b",
+        "path": "data/variable-documentation/fd99d7b77627f57eb9921239a16fbaa4d7467fe0fad5345a962f7916c692113b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2005",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "50e3cfe35db24745e528e5cba3e29b605f22ee10ca1f560336deb2f1b367420d",
+      "domain_id": "579d6d01db4d1a8028475ae335d6e17d62cc331b814b9a14075adf2a40afe326",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0478a3a0a4ccc075b7ec65ef823b3ff12c5781e513894f8bc0a25068be8d0f6d",
+        "path": "data/variable-documentation/0478a3a0a4ccc075b7ec65ef823b3ff12c5781e513894f8bc0a25068be8d0f6d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2006",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "fdfb4698cbe3231f4a1727d96f0d233d14a7515e7ba800783f0164d54de55b3b",
+      "domain_id": "679acd5094fe122382cc316f42bcb02e9eacfab124a65ec6d53e14aaee54018c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "51ea6b6bd22fcbb1a188b34e6d2a9210e1a0f86163dc44131343bc52283bd839",
+        "path": "data/variable-documentation/51ea6b6bd22fcbb1a188b34e6d2a9210e1a0f86163dc44131343bc52283bd839.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2007",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "3bf9ca2f1dd99015e09918fbb3a510113fe2944834e009b91bcbbf0bdfd071c6",
+      "domain_id": "f4edce5fd30103cc8f1a83bc38ce872256562db141f9267aa786b6e7699abdb8",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d409d4986d3d67f05f1ae2c05f49fbcc241d027decd18f5020cd4a534e38bf62",
+        "path": "data/variable-documentation/d409d4986d3d67f05f1ae2c05f49fbcc241d027decd18f5020cd4a534e38bf62.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2008",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "c103cea2fc84d8b34611a7ed3f8ed3f394c21bc1c3c69ac5d8d52c39a4f841d4",
+      "domain_id": "e857622c0e5b8e7f2139c7b6d7fd2cea7fed4111e5e6440bbf66a30d56c3b3d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69e475c9804df28247ad0dd058d64f16be9b8988624ce524e028b560b5efa016",
+        "path": "data/variable-documentation/69e475c9804df28247ad0dd058d64f16be9b8988624ce524e028b560b5efa016.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2009",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "05548394b14315e4ec71fbdafb34dca86018cee20d1b61bb616c701f9cd9ed32",
+      "domain_id": "627019ed1c10611232da223ccf5896ed96321c831ba915097e7d0dcee0a3d7f3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0726e8663ebbdd9abe6c55408897f93a3c6a8996faf9d8eee6d5690c9f77a658",
+        "path": "data/variable-documentation/0726e8663ebbdd9abe6c55408897f93a3c6a8996faf9d8eee6d5690c9f77a658.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2010",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "f54022d52e93c541d53879a6b7b50ffbb37bd01d4d5e1edacda463c1c5ea20ef",
+      "domain_id": "ea69c26edc05564b99aefea4823f9648a807c31adb9874080af03cc8b9f01f2d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a0925aaa82423cf6ebb09cd398562df086a6a3fb6960f48c7a97f77809ac3ee5",
+        "path": "data/variable-documentation/a0925aaa82423cf6ebb09cd398562df086a6a3fb6960f48c7a97f77809ac3ee5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2011",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "116f080b7225cd615cc3510cb9203434509ef2e712a718e2b785c64777bdbce7",
+      "domain_id": "bb2a2def0c8f4d28fc03683807ad47fe1add1081ac1ce0b4805481e7957faf2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "197a5eb1cbe1cb7829b3344dc891ccc670c33d85dda5d5a1514bfe1f558c660d",
+        "path": "data/variable-documentation/197a5eb1cbe1cb7829b3344dc891ccc670c33d85dda5d5a1514bfe1f558c660d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2012",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "660acd5af06f6c40dee675f2a333646aba24a81ad933374160e92a5ca3f3e355",
+      "domain_id": "c5489612d430ecc4f42f7847685679a9c1762f8a6bac77743bfdabfd6cf83474",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "630802c1a0595df0c17bb6ddf75906786aa921d4bad4f0929357c25a469df7c5",
+        "path": "data/variable-documentation/630802c1a0595df0c17bb6ddf75906786aa921d4bad4f0929357c25a469df7c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2013",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "7600c85494564fd4d5352bcbd4b3ace45a7c9817e5ac5469cbb630d7155eae7b",
+      "domain_id": "ee63ed035c1b8480e22f2097ef1d3493adafe1e659705784977ad4a082c1f360",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ce0da35971a2fbab8f62b72f88b8c9a8a06d7bf6153f70a03ae62c8fc2f021a",
+        "path": "data/variable-documentation/8ce0da35971a2fbab8f62b72f88b8c9a8a06d7bf6153f70a03ae62c8fc2f021a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2014",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "c4069e72a1bee4ae201678e56f3dc6c9113b78b50d6e77e5cbd08812e80c4aac",
+      "domain_id": "c7cd2c201548b59296ad62b0bfdbfe6f4350f0941096dd603db6f5886fd43b65",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0cf72db2652c6230f8bc1e9772b63ba82cea3d4ddbf1efb03a4559c1d3fcbea7",
+        "path": "data/variable-documentation/0cf72db2652c6230f8bc1e9772b63ba82cea3d4ddbf1efb03a4559c1d3fcbea7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2015",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "a712b5b35f795989aa565adf2d8a2f8bd8d8b095e212d870dce544274fc4558e",
+      "domain_id": "512359d3b28feb4295c6ecb825172f4ab492c179dc6aa69bf2bfe11d09ebb18a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "80a9ae2d4577d438a0580b3e1b14aa11ffec490708b6b0ad84153176446d7b5e",
+        "path": "data/variable-documentation/80a9ae2d4577d438a0580b3e1b14aa11ffec490708b6b0ad84153176446d7b5e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
+    },
+    {
+      "register": "Utrikeshandel med varor",
+      "variant": "Intrastat, löpande priser",
+      "column": "Varukod",
+      "variable": "Varukod enligt kombinerade nomenklaturen",
+      "register_version": "2016",
+      "source_task_id": "1c5a7f0d467e26f31844e9f9b26570f6e81e64fe65a8007f3e4187c4ffa85ded",
+      "id": "4d4541b307960f36f97c0e8d09539e8842010f5c42db74334a103bac80601e01",
+      "domain_id": "669bc0a48b335594b94b44c4ab1b9781bef307a928d9643cd0ee6f5dcfb0e8dd",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T11:27:17+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "uhv",
+          "variabel": "Varukod",
+          "ar_raw": "1997-2024",
+          "kallrad": 4088,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "909877d2c1a506d3333f99e93969444bcef6ce5cb9d5f359abdb3d22dc338cc2",
+        "path": "data/variable-documentation/909877d2c1a506d3333f99e93969444bcef6ce5cb9d5f359abdb3d22dc338cc2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T11:27:17+00:00"
     },
     {
       "register": "Utrikeshandel med varor",
@@ -4498,12 +4962,36 @@
       "path": "data/value-domain-values/1d57ba65964b1ed7470465e2597e7ccb3783a7457ae4980148574d8f20bb4910.json"
     },
     {
+      "version": "Kombinerade nomenklaturen, 2004",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "401e9c8534fc582c8a2289e66d9672eec56d174ec93113f4d0a8d5cb098f1e07",
+      "value_count": 10175,
+      "path": "data/value-domain-values/401e9c8534fc582c8a2289e66d9672eec56d174ec93113f4d0a8d5cb098f1e07.json"
+    },
+    {
       "version": "Kombinerade nomenklaturen, 2001",
       "level": "KN 8",
       "data_type": "int",
       "id": "4a3575b156a9166828a755a64f0e8b92708995e34711451c45b67683be3fc8f2",
       "value_count": 10278,
       "path": "data/value-domain-values/4a3575b156a9166828a755a64f0e8b92708995e34711451c45b67683be3fc8f2.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2015    ",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "512359d3b28feb4295c6ecb825172f4ab492c179dc6aa69bf2bfe11d09ebb18a",
+      "value_count": 9386,
+      "path": "data/value-domain-values/512359d3b28feb4295c6ecb825172f4ab492c179dc6aa69bf2bfe11d09ebb18a.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2005",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "579d6d01db4d1a8028475ae335d6e17d62cc331b814b9a14075adf2a40afe326",
+      "value_count": 10096,
+      "path": "data/value-domain-values/579d6d01db4d1a8028475ae335d6e17d62cc331b814b9a14075adf2a40afe326.json"
     },
     {
       "version": "Kombinerade nomenklaturen 2021",
@@ -4514,12 +5002,44 @@
       "path": "data/value-domain-values/60399d7b14bb2192610238534a8ed2374dc875b83975426a59647e00693333ee.json"
     },
     {
+      "version": "Kombinerade nomenklaturen, 2009",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "627019ed1c10611232da223ccf5896ed96321c831ba915097e7d0dcee0a3d7f3",
+      "value_count": 9569,
+      "path": "data/value-domain-values/627019ed1c10611232da223ccf5896ed96321c831ba915097e7d0dcee0a3d7f3.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2016",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "669bc0a48b335594b94b44c4ab1b9781bef307a928d9643cd0ee6f5dcfb0e8dd",
+      "value_count": 9414,
+      "path": "data/value-domain-values/669bc0a48b335594b94b44c4ab1b9781bef307a928d9643cd0ee6f5dcfb0e8dd.json"
+    },
+    {
       "version": "Kombinerade nomenklaturen 2024",
       "level": "8-siffer KN 2024",
       "data_type": "int",
       "id": "66e2018e5905c2c926641eea1d79b5519970e42b921a46806a9fa88c8add061b",
       "value_count": 9763,
       "path": "data/value-domain-values/66e2018e5905c2c926641eea1d79b5519970e42b921a46806a9fa88c8add061b.json"
+    },
+    {
+      "version": "Kombinerade Nomenklaturen, 2006",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "679acd5094fe122382cc316f42bcb02e9eacfab124a65ec6d53e14aaee54018c",
+      "value_count": 9842,
+      "path": "data/value-domain-values/679acd5094fe122382cc316f42bcb02e9eacfab124a65ec6d53e14aaee54018c.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2003",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "740f8d3f992b875601cbfea48593df4a23b71d5bdb8423787509281d113adfa0",
+      "value_count": 10405,
+      "path": "data/value-domain-values/740f8d3f992b875601cbfea48593df4a23b71d5bdb8423787509281d113adfa0.json"
     },
     {
       "version": "Landsbeteckningar enligt ISO3166-1:1997, tvåbokstavskoder, anpassad version",
@@ -4554,6 +5074,14 @@
       "path": "data/value-domain-values/9f80250856b894cb269327415bedab9a1c37aed4c5c9723d82c609c8947774ce.json"
     },
     {
+      "version": "Kombinerade nomenklaturen 2017 ",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "a1f25dfc730e94492d48da19b7ff1de34449557d696afd551de29190f0698591",
+      "value_count": 9528,
+      "path": "data/value-domain-values/a1f25dfc730e94492d48da19b7ff1de34449557d696afd551de29190f0698591.json"
+    },
+    {
       "version": "Beskrivande text",
       "level": "Beskrivande text",
       "data_type": "numeric",
@@ -4570,12 +5098,76 @@
       "path": "data/value-domain-values/b2c94410046643dd839350e054021f31abc35106f9da0de6443b0af3039de0c5.json"
     },
     {
+      "version": "Kombinerade nomenklaturen, 2011",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "bb2a2def0c8f4d28fc03683807ad47fe1add1081ac1ce0b4805481e7957faf2a",
+      "value_count": 9294,
+      "path": "data/value-domain-values/bb2a2def0c8f4d28fc03683807ad47fe1add1081ac1ce0b4805481e7957faf2a.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2012",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "c5489612d430ecc4f42f7847685679a9c1762f8a6bac77743bfdabfd6cf83474",
+      "value_count": 9383,
+      "path": "data/value-domain-values/c5489612d430ecc4f42f7847685679a9c1762f8a6bac77743bfdabfd6cf83474.json"
+    },
+    {
       "version": "Handelsflöde",
       "level": "Flöde",
       "data_type": "char(1)",
       "id": "c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543",
       "value_count": 2,
       "path": "data/value-domain-values/c65d78e48a42e106f458703af9698907a9c26d711a43f71b633f86ca14281543.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen 2014",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "c7cd2c201548b59296ad62b0bfdbfe6f4350f0941096dd603db6f5886fd43b65",
+      "value_count": 9379,
+      "path": "data/value-domain-values/c7cd2c201548b59296ad62b0bfdbfe6f4350f0941096dd603db6f5886fd43b65.json"
+    },
+    {
+      "version": "Kombinerade Nomenklaturen, 2008",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "e857622c0e5b8e7f2139c7b6d7fd2cea7fed4111e5e6440bbf66a30d56c3b3d7",
+      "value_count": 9699,
+      "path": "data/value-domain-values/e857622c0e5b8e7f2139c7b6d7fd2cea7fed4111e5e6440bbf66a30d56c3b3d7.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2010",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "ea69c26edc05564b99aefea4823f9648a807c31adb9874080af03cc8b9f01f2d",
+      "value_count": 9443,
+      "path": "data/value-domain-values/ea69c26edc05564b99aefea4823f9648a807c31adb9874080af03cc8b9f01f2d.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2013",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "ee63ed035c1b8480e22f2097ef1d3493adafe1e659705784977ad4a082c1f360",
+      "value_count": 9376,
+      "path": "data/value-domain-values/ee63ed035c1b8480e22f2097ef1d3493adafe1e659705784977ad4a082c1f360.json"
+    },
+    {
+      "version": "Kombinerade nomenklaturen, 2002",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "f136c953af6398421c36b0e6dcd8d26604fea39df8222ddfe6e0c3aa5aee1598",
+      "value_count": 10401,
+      "path": "data/value-domain-values/f136c953af6398421c36b0e6dcd8d26604fea39df8222ddfe6e0c3aa5aee1598.json"
+    },
+    {
+      "version": "Kombinerade Nomenklaturen, 2007",
+      "level": "KN 8",
+      "data_type": "int",
+      "id": "f4edce5fd30103cc8f1a83bc38ce872256562db141f9267aa786b6e7699abdb8",
+      "value_count": 9720,
+      "path": "data/value-domain-values/f4edce5fd30103cc8f1a83bc38ce872256562db141f9267aa786b6e7699abdb8.json"
     },
     {
       "version": "Kombinerade nomenklaturen, 1999",
@@ -4587,33 +5179,17 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "complete": true,
+    "collector_sha256": "18619d1609f3158080146fa6989e28fcf125d53038a5084f1debaefbb5891f27",
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "1b4d58b46c4d862df82661617720f995f0c334f37505dddceb5d99457a1a8cf8",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T07:58:42+00:00",
+    "retrieved_at": "2026-11-21T11:27:17+00:00",
     "task_count": 9,
     "expected_bindings": 170,
-    "documented_bindings": 154,
-    "errors": [
-      "Varukod 2016: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2016', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
-      "Varukod 2015: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2015    ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och",
-      "Varukod 2014: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2014', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och amm",
-      "Varukod 2013: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2013', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
-      "Varukod 2012: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2012', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
-      "Varukod 2011: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2011', 'Vardemangdsniva': 'KN 8', 'Vardekod': '02023010', 'Vardebenamning': 'Framkvartsparter av nötkreatur eller andra oxdjur, benfritt, fryst, framkvartsparter, hela eller styckade i högst fem bitar, varje kvartspart i ett stycke; kompenserade kvartsparter i två stycken, av vilka den ena innehåller framkvartsparten hel eller styckad i högst fem ",
-      "Varukod 2010: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2010', 'Vardemangdsniva': 'KN 8', 'Vardekod': '29339980', 'Vardebenamning': 'Föreningar, heterocykliska, med enbart kväve som heteroatom[er] (exkl. föreningar som i sin struktur har en icke-kondenserad pyrazol-, imidazol-, pyridin- eller triazinring, även hydrogenerade, ett kinolin- eller isokinolinringsystem, även hydrogenerade, inte vidare konde",
-      "Varukod 2017: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen 2017 ', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
-      "Varukod 2009: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2009', 'Vardemangdsniva': 'KN 8', 'Vardekod': '29339980', 'Vardebenamning': 'Föreningar, heterocykliska, med enbart kväve som heteroatom[er] (exkl. föreningar som i sin struktur har en icke-kondenserad pyrazol-, imidazol-, pyridin- eller triazinring, även hydrogenerade, ett kinolin- eller isokinolinringsystem, även hydrogenerade, inte vidare konde",
-      "Varukod 2008: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2008', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
-      "Varukod 2007: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2007', 'Vardemangdsniva': 'KN 8', 'Vardekod': '31029000', 'Vardebenamning': 'Kvävegödselmedel, mineraliska eller kemiska (exkl. karbamid; ammoniumsulfat; dubbelsalter och blandningar av ammoniumsulfat och ammoniumnitrat; ammoniumnitrat, natriumnitrat; dubbelsalter och blandningar av  kalciumnitrat och ammoniumnitrat; blandningar av karbamid och am",
-      "Varukod 2006: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade Nomenklaturen, 2006', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
-      "Varukod 2005: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2005', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
-      "Varukod 2004: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2004', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
-      "Varukod 2003: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2003', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j",
-      "Varukod 2002: Ofullständig SCB-exportrad: {'Vardemangdsversion': 'Kombinerade nomenklaturen, 2002', 'Vardemangdsniva': 'KN 8', 'Vardekod': '44034995', 'Vardebenamning': 'Abura, afrikansk mahogny, afrormosia, ako, alan, andiroba, aningré, avodiré, azobé, balau, balsa, ljus bossé, mörk bossé, cativo, cedro, dabema, mörkröd meranti, dibétou, doussié, framiré, freijo, fromager, fuma, geronggang, ilomba, imbuia, ipé, iroko, jaboty, jelutong, j"
-    ]
+    "documented_bindings": 170,
+    "errors": [],
+    "stalled_passes": 0
   }
 }
