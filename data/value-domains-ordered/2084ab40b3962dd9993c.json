@@ -1,0 +1,2602 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "2084ab40b3962dd9993c",
+  "register": "Grundskola: elever",
+  "variant": "Individregister",
+  "bindings": [
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "fdc2fa78d6344782264f2c6366041a0c335207d0f7c62a63fdac9249e478fc5f",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d95908954ccf045103072ec99a9f2144ed15da58b06f769b39cf73b7424ff23b",
+        "path": "data/variable-documentation/d95908954ccf045103072ec99a9f2144ed15da58b06f769b39cf73b7424ff23b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "790acc594556221339ce5e7636f362994db267a1e5d70b1a9fbca7a78ec7274f",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d8e9bf4298fe708d30dbcc4b15999a7493c9fa3f70dfec3edb59360d0e64fda9",
+        "path": "data/variable-documentation/d8e9bf4298fe708d30dbcc4b15999a7493c9fa3f70dfec3edb59360d0e64fda9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "1ebf7bc6e1d315ded8f964cdc45e48623bebf80c37e41e5d1abf2db4990b9daa",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "92386f5032c8b04e0cc6c71d1ecf66d0c2b9228fd1fe71074c6664cc5856121b",
+        "path": "data/variable-documentation/92386f5032c8b04e0cc6c71d1ecf66d0c2b9228fd1fe71074c6664cc5856121b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "b4881a8a9abe03bd064111384b41b7af9a9846597fe6a4a1bdba0f91c8c13104",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4b9610b6ee5f2f8fb82b9e26038e570fa1660dec35904c3e6e8999a74813beb",
+        "path": "data/variable-documentation/a4b9610b6ee5f2f8fb82b9e26038e570fa1660dec35904c3e6e8999a74813beb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "d0f2ffc544e8da21e9669f64204f497d0e682f5708a7462866fe9e1a9e360e9b",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68541d8051f818f66ce72213538ffc74e4d48296a9125e2a30c215fb88e86012",
+        "path": "data/variable-documentation/68541d8051f818f66ce72213538ffc74e4d48296a9125e2a30c215fb88e86012.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "5ae658bf97e2a2bec0f77b83dbc773a65096a2671638e53a86d9536f8dcac9ef",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6273e1f99c5edf6311a351cd195bd83671caa52f5a87495c2c9f916bd8eab02d",
+        "path": "data/variable-documentation/6273e1f99c5edf6311a351cd195bd83671caa52f5a87495c2c9f916bd8eab02d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "a80ecc597af2ced519d82a5403d0ae775cf60d29a8c5c6c63bd3a3dfd8a15b62",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9a77bc8b51c2558f57c91cdf975458b063e1b3358da181347f8d3063fdf168b6",
+        "path": "data/variable-documentation/9a77bc8b51c2558f57c91cdf975458b063e1b3358da181347f8d3063fdf168b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Ak",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "b3313875a6a387606a9ada9adfec8eec6c4bfab011dec52382b2d148e89dde79",
+      "id": "df04fc2e39e1eff84bda2d3d088411973d1c1b00aad28bc0f03cf77acba3e53f",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Ak",
+          "ar_raw": "2008-2016",
+          "kallrad": 3128,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "adc8a39f8f8ff62bc2534320f3e0e28d8e3901fbd73e08156b8b39d5b6e77c33",
+        "path": "data/variable-documentation/adc8a39f8f8ff62bc2534320f3e0e28d8e3901fbd73e08156b8b39d5b6e77c33.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "408b3f3ae4ac440f50551a097274d408f68d9598d2a629b63e5469c43fafc7bd",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2382469bd6176408ac08f3c1e3f8315ee246b60cbc4f73c0fd95a76d7130088a",
+        "path": "data/variable-documentation/2382469bd6176408ac08f3c1e3f8315ee246b60cbc4f73c0fd95a76d7130088a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "869bf617f20535d2c6bcf8460fd6cf6dccd67c3d545aa619fa2f4a71452300db",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d2234db11c2e57321a0a93f0d64de700c4b74ea880c4fc25ece7c4e524c491d6",
+        "path": "data/variable-documentation/d2234db11c2e57321a0a93f0d64de700c4b74ea880c4fc25ece7c4e524c491d6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "f85a0af02c0c11ea5381ab28ee351c4ceaf51283cb23cba95049275a9b2646c9",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "11b8e35002affc26fa8d4dc71cb31a62ea617ae40473cde62b25d02af1b8b659",
+        "path": "data/variable-documentation/11b8e35002affc26fa8d4dc71cb31a62ea617ae40473cde62b25d02af1b8b659.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "e9d7ba45435771209d199cc67e63d0dede7eeb9371e39ddea44d26ada086d8c4",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7fc716393213ffb093d9c9a8819baa351caec4799f8ff35591d834dd3f95ca24",
+        "path": "data/variable-documentation/7fc716393213ffb093d9c9a8819baa351caec4799f8ff35591d834dd3f95ca24.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "df1aea195853ed16fdc670c62e2a8f898b60bb267998f443ed356ae57032fb71",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8eafaa76c8b0c11a6b2ab80ddcc42719dc65ca6bec6be99de46b68640629b431",
+        "path": "data/variable-documentation/8eafaa76c8b0c11a6b2ab80ddcc42719dc65ca6bec6be99de46b68640629b431.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "24853d1080ff596f294533afdee92dd3f621159a9ffeac373dff4c79854a0b24",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "10c4700fc146bcbc69b3d19992cda80413855ccdb2371478a0219585202ab01d",
+        "path": "data/variable-documentation/10c4700fc146bcbc69b3d19992cda80413855ccdb2371478a0219585202ab01d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "65f83c5d8712babeecd1d6a8c1fc98fd8989ba61369cbed04d5eb416a6e74e17",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6341e857210c79900c67f36494333096ae1253bea3122bf1e763c6e94bc2a860",
+        "path": "data/variable-documentation/6341e857210c79900c67f36494333096ae1253bea3122bf1e763c6e94bc2a860.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Arskurs",
+      "variable": "Årskurs",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "eecbfb4e31602f9fe63b905dea007e2a78c791e42f0ec6ce346d947a3ba945e9",
+      "id": "8e38b16e82f79e4a424a8872eb8bbf579fe1d6568e66690b8f14dca2953bd91b",
+      "domain_id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Arskurs",
+          "ar_raw": "2017-2024",
+          "kallrad": 3129,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "591eb773ca76569ff208123b9ef4de058d3cfe5c815299f18eceb6f3b1ef67dd",
+        "path": "data/variable-documentation/591eb773ca76569ff208123b9ef4de058d3cfe5c815299f18eceb6f3b1ef67dd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2008",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "bd5f66953f21b13060a6a788e9f19868b8be158eae426a1ff8786c64be8a163c",
+      "domain_id": "2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0fc318561bb38331792963b7b30c049231991379e6604f9afe8868474183c008",
+        "path": "data/variable-documentation/0fc318561bb38331792963b7b30c049231991379e6604f9afe8868474183c008.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "331018ff5910f0de446a0b4eaf6c86a6f5db261d79821e336aabe7af055acdab",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "07be0eaa23534a8fa68eac8ff5324a1c421d862afd157f0b34b8efde8788ebdd",
+        "path": "data/variable-documentation/07be0eaa23534a8fa68eac8ff5324a1c421d862afd157f0b34b8efde8788ebdd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "d0fb4abf65692514077704d89e17514da731d016b2416805937c7f86e3c11ec6",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cb898d53d958c9da92f94043537efde5e0a6c5d6645a2e83b7e8e7d219251348",
+        "path": "data/variable-documentation/cb898d53d958c9da92f94043537efde5e0a6c5d6645a2e83b7e8e7d219251348.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "ed62ffcf25fae0df0ebaf22f0cafd3b91608dc19d6fc25a9a84c49f9ef1e09e8",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9fc322d032fd1f1f57bc05f13cb3232b236de9375053777ea965a8003ddb80db",
+        "path": "data/variable-documentation/9fc322d032fd1f1f57bc05f13cb3232b236de9375053777ea965a8003ddb80db.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "2fe3ba1b177a36cc8142dbf8b50585077f32e95ccb9c621e48a7759c0918a1c9",
+      "domain_id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "895a711413a77f085f90ea90564d519bd1b6abc8a0601a1d07674cbaff81aca8",
+        "path": "data/variable-documentation/895a711413a77f085f90ea90564d519bd1b6abc8a0601a1d07674cbaff81aca8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "64930eaca1939c6d99153e3809916a1c777605ddc4878bf6e13fa0aad32d0b39",
+      "domain_id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eac85d15b120e9b76a8a040fa497bea3e57e8e8bc2b3c52eecc0470670e32255",
+        "path": "data/variable-documentation/eac85d15b120e9b76a8a040fa497bea3e57e8e8bc2b3c52eecc0470670e32255.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "e08e43196800aa1bff550975c5273c048ab03cfca69b1899a9a82a4651503a34",
+      "domain_id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a07c5233e46f91e6928959368afb89f0586e67e7df2272e536b79ce725039700",
+        "path": "data/variable-documentation/a07c5233e46f91e6928959368afb89f0586e67e7df2272e536b79ce725039700.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "abb637f0c135964b6189f3df9c3056d9f7341a1624180d6e688b83b074dda42b",
+      "domain_id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b77be621bf1b7a5eb10d11176458311c2ef2c0c56b53c75ef52623ab6835d5b2",
+        "path": "data/variable-documentation/b77be621bf1b7a5eb10d11176458311c2ef2c0c56b53c75ef52623ab6835d5b2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "be6dd168d8c13f228084a054603a97cb6dcb9ccd22b8b9b973ece0a457b06ea9",
+      "domain_id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "06a2d770e150cfbf1ccf0fe797bae1f64df1c99981b24988f4dabb2837f32797",
+        "path": "data/variable-documentation/06a2d770e150cfbf1ccf0fe797bae1f64df1c99981b24988f4dabb2837f32797.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "aa7de0cab2ecfcab7b16a74780cef92e621fdc266c8501f7cf2ec9e5ee4c94eb",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a6045491744fe4cdbab3a89071bddf1358c1488d0da2a293cf4914fa03016341",
+        "path": "data/variable-documentation/a6045491744fe4cdbab3a89071bddf1358c1488d0da2a293cf4914fa03016341.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "082ea6953ebe3ad1f5ce5f17909e7b97753bde281cc66a92056c166dc08dd9d9",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbf80f39cc079ee4589242cbbca8b8bdf48d976789f37a742a0b24330e63afa8",
+        "path": "data/variable-documentation/dbf80f39cc079ee4589242cbbca8b8bdf48d976789f37a742a0b24330e63afa8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "db343bf0785036a2db2cd0e0800bf5d83aba64c4083a84d28577d9aff3ec1881",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0405e6a71038b51261c760bde88b9ae9effaba9ed91feb0f3ae0ba76bc3b221b",
+        "path": "data/variable-documentation/0405e6a71038b51261c760bde88b9ae9effaba9ed91feb0f3ae0ba76bc3b221b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "5fa31fcb0ab3f5d68adf095f42aad0d2bf511422865f203fb793b5e350fcb77e",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3fb8e1d88826e4f8dfdc23478a1f54262f4a343beeb5088ac30e2bdaed87c928",
+        "path": "data/variable-documentation/3fb8e1d88826e4f8dfdc23478a1f54262f4a343beeb5088ac30e2bdaed87c928.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "da723414393ad81afb6f2296dd7dac5f1fd37d054c43c0e7f21e9b4ef9f5aa70",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "15df12592db4605b09105b3cb93908d41a283bc5ffd028bb4c6af5f1f26809fe",
+        "path": "data/variable-documentation/15df12592db4605b09105b3cb93908d41a283bc5ffd028bb4c6af5f1f26809fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "6db23de35add2caaea94e2ab134990ceabb404c16f0c04876cca8c6b33b0e8a3",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e63d3dae53af924ffb6bac341c5516de4238b381905d05f52083cb13d05b2b22",
+        "path": "data/variable-documentation/e63d3dae53af924ffb6bac341c5516de4238b381905d05f52083cb13d05b2b22.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "ea261d95dc8e382b9cf672901d0d2cd0492a9f12f30d190f9a5bbdf09cd52b35",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbefc345e9d1d1692fd5adaaa6bde5baec9d516e0c2a8166c8fa3532b677006e",
+        "path": "data/variable-documentation/dbefc345e9d1d1692fd5adaaa6bde5baec9d516e0c2a8166c8fa3532b677006e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Hman",
+      "variable": "Huvudman",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "b055bca103d89161a036b518f09e8702bd22f0706ec685b3c0b46cd689774cc9",
+      "id": "1962f27535dbf0d0d9c13840398d42dac9511d517fe852d92ccd47a9bc9a20e0",
+      "domain_id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Hman",
+          "ar_raw": "2008-2024",
+          "kallrad": 3131,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b79b96a0b857024a7906cc14c9f18ab2326a336a6a44fe41ad7f4c4e2fcb9347",
+        "path": "data/variable-documentation/b79b96a0b857024a7906cc14c9f18ab2326a336a6a44fe41ad7f4c4e2fcb9347.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2008",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "aa5bb5c74c03811e4d783771ec61d014c3f494755b9501680674d5f9c97a1dcd",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "29437b75ab4510bad45e7a98a58b6bf959573e699cbd5ad49807bc5e391abe07",
+        "path": "data/variable-documentation/29437b75ab4510bad45e7a98a58b6bf959573e699cbd5ad49807bc5e391abe07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "246ecb78836ce8df3032e96872ae0db46a6882803d2807bbd3b24ea0119acf77",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8005787577da9b183b8de5bc250383b90e702f4f959124cfec853453be805d65",
+        "path": "data/variable-documentation/8005787577da9b183b8de5bc250383b90e702f4f959124cfec853453be805d65.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "b688c4ea620539edd88943eb3cfee1d27bd03de3441a6892aa0b8c5a5d1ed8b4",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6240e774d3dd49dd2bb917c33057a4621323570b7ce11160937f7a22f82eba0d",
+        "path": "data/variable-documentation/6240e774d3dd49dd2bb917c33057a4621323570b7ce11160937f7a22f82eba0d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "0007e6507666da21d0615bb9c28e6a68045471b2f2384a4cd497661d3cd71eb1",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "67387095acb19c9a8ce0b82545decfbdf180f887a29f4ac990ec32cb32f03ae1",
+        "path": "data/variable-documentation/67387095acb19c9a8ce0b82545decfbdf180f887a29f4ac990ec32cb32f03ae1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "5e5b1abe8dec7d8aee72ee4d57d2517461e073acfbcfcf2463273b000a8f1c43",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a2c73c40ceac879f22f6ccf45a39185f2003702092b342bc0ab7143e00be5b0",
+        "path": "data/variable-documentation/8a2c73c40ceac879f22f6ccf45a39185f2003702092b342bc0ab7143e00be5b0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "e8336ee2d59858073fac486a790d2eee70a866175b41d4ce08ec1694a248a623",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "14f8480cd54a64aa4df29d4d16964f065db49ff8a117553f44e6392e0300ab72",
+        "path": "data/variable-documentation/14f8480cd54a64aa4df29d4d16964f065db49ff8a117553f44e6392e0300ab72.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "21809a3ddc94210ab1389e5e5a982839367037d155742f915960c6663d8856aa",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "093e53f5be23ca7188091d9c04f7f972b9d1502e66cce878f60f8347626b134f",
+        "path": "data/variable-documentation/093e53f5be23ca7188091d9c04f7f972b9d1502e66cce878f60f8347626b134f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "d7b347c0743512c0ce39e67108a85906263d1525bb232a0a5eb146ed5a3725ec",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "353d8eabc3c785880d0a8140f52cfd7ae441ac7731aef025fa2b1d4e1556bbb2",
+        "path": "data/variable-documentation/353d8eabc3c785880d0a8140f52cfd7ae441ac7731aef025fa2b1d4e1556bbb2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "695cd68c1cd9eacabf8ecd99d7cf39fd1ac259a3c032713b1b9c1aa470889cf9",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "34c3a4fdebbf9dcf682c1bfa214ea943068d529cc2c6b3fa6eafef93c84691b8",
+        "path": "data/variable-documentation/34c3a4fdebbf9dcf682c1bfa214ea943068d529cc2c6b3fa6eafef93c84691b8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "93365703c89fb7fb28a870c9cb97923f64a98633b9b43b496b90784ae2c2c1fc",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fe5d13b8bdd8a1ab807984ce701fcda3fc73dea6324b4d874ae221c636b0466a",
+        "path": "data/variable-documentation/fe5d13b8bdd8a1ab807984ce701fcda3fc73dea6324b4d874ae221c636b0466a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "fc0ffe477f4fd4832e4c292686ad662875511b830aa153143001b421e43c70c7",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9ea8aff5342d4b8cb169160f139f40e7f55f239147746507e93203fab3166f7b",
+        "path": "data/variable-documentation/9ea8aff5342d4b8cb169160f139f40e7f55f239147746507e93203fab3166f7b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "ba8448b5f2eeb322a8b92c225be1e80eaed76d01862dac60ba7a780995b5925e",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2fa75acad6e48658ef70da0208c8256049a7540bcb4eba285f9abde6929e1bf1",
+        "path": "data/variable-documentation/2fa75acad6e48658ef70da0208c8256049a7540bcb4eba285f9abde6929e1bf1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "fe9590e62fee2e7f29849a7a3511d2411a2a70958c9a483f6eec08f99e525d1f",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0242b753f17c9e58ef7600a709a352689604a0344a1391066457832c150782c4",
+        "path": "data/variable-documentation/0242b753f17c9e58ef7600a709a352689604a0344a1391066457832c150782c4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "88cb77780733b287c63ef6b946e8990fda1d8c6333bd2958a5f7672cfc7d4c33",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c230548da242100720bf848eeaa6d15c4245149d263958c4a5e1f81e85a3960f",
+        "path": "data/variable-documentation/c230548da242100720bf848eeaa6d15c4245149d263958c4a5e1f81e85a3960f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "dc082095c068f1ca22277cf4cc6c7906cb60cb24de0af9c90daa348b421ed56c",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f52bf8e9ac7e7b54b6707b3937f43353af983cdacc618c3dcfbfc87359f1c703",
+        "path": "data/variable-documentation/f52bf8e9ac7e7b54b6707b3937f43353af983cdacc618c3dcfbfc87359f1c703.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "fefa7d0d88a15d1b9b8827b0228dc829f9d8e2913d05640cadc4a680c7c90b90",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69408109213176fde013d4063cac1569889323b87cffe4194de5dd3d2ca3c732",
+        "path": "data/variable-documentation/69408109213176fde013d4063cac1569889323b87cffe4194de5dd3d2ca3c732.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Inriktning",
+      "variable": "Inriktning av fristående skola/skolenhet",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "41f011c597bda805bd881bbd6ec04ba3fda51a3ed04898cb4d4bc79daa78fbad",
+      "id": "05241f8700b2229fa5e37263ade3b1e8d57e645e47495fd344714a9e43251f8b",
+      "domain_id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Inriktning",
+          "ar_raw": "2008-2024",
+          "kallrad": 3132,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "21772dc71abcb07adac1fc46b7ff31ad83eaa22ddb0760a63496ac4d8ce3af00",
+        "path": "data/variable-documentation/21772dc71abcb07adac1fc46b7ff31ad83eaa22ddb0760a63496ac4d8ce3af00.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "c6b9dd0e9a35b9bb16c2ff14f7967d9e7708db1c3678154b3cf3aaaebf34d1ef",
+      "domain_id": "44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c78296daacfd1b6488482ce308deee1da5def6d823eb6a0b0bdbdef28932947c",
+        "path": "data/variable-documentation/c78296daacfd1b6488482ce308deee1da5def6d823eb6a0b0bdbdef28932947c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "5fad5e5588a6dd0aaaea1f0e983dafbf3db8981a03c7ef17ae1037dc5cd19531",
+      "domain_id": "266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "09219c9d5174a2a18a9d29b58de93014b05216be6f540259863213e471d73ad3",
+        "path": "data/variable-documentation/09219c9d5174a2a18a9d29b58de93014b05216be6f540259863213e471d73ad3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "cee00e3528f4eabbcee5f9c9451fc8eb9d1b72b5c3810235fdf8e2798a7ca9fc",
+      "domain_id": "c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f1c1284054fba0a675a8645ce586eaab3bcfe2df815783cb15ef8ab411bdf1fa",
+        "path": "data/variable-documentation/f1c1284054fba0a675a8645ce586eaab3bcfe2df815783cb15ef8ab411bdf1fa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "55db9084fb375f2859823cd0a10c569d0c272106fea209e2001ce2a39ac11ef2",
+      "domain_id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7b4e5a400f0dcee1a451f5b978ca4ce2367e19f026e214b4130b072dc9b9735f",
+        "path": "data/variable-documentation/7b4e5a400f0dcee1a451f5b978ca4ce2367e19f026e214b4130b072dc9b9735f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "159e3e092a8cbd7c1588dbdd8e6c55d2d5aae66e98c1ee8145d1e48792ff292c",
+      "domain_id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fd834593ccc73f1e6eb16fda2c3c67f99f06648bce57535b098adfd1410ac2b7",
+        "path": "data/variable-documentation/fd834593ccc73f1e6eb16fda2c3c67f99f06648bce57535b098adfd1410ac2b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "57ab07fbc69fae2d20fd65b34120b32088f1fade297b63ea8dec8959576b6050",
+      "domain_id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f142ad6a6e4fbad2c03ce2502c1a0b9cfd62b1b9c80b296e512196572823d3de",
+        "path": "data/variable-documentation/f142ad6a6e4fbad2c03ce2502c1a0b9cfd62b1b9c80b296e512196572823d3de.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "a18b81cd9db2597be0f1b92052e182871100ec71107c55ab19946e4638ba9048",
+      "domain_id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a548676a24d06fec8d6357655e965e39e465a76826f38312d7a2968486961d77",
+        "path": "data/variable-documentation/a548676a24d06fec8d6357655e965e39e465a76826f38312d7a2968486961d77.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "SKom",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "e38fae44ca4910ad5d70380e64b40053e118b5329fffbe3710d632ee1ed6ee92",
+      "id": "8417fbac4c2e101e3435fe674378b32de5882bad33791c0c431e951e89e9671c",
+      "domain_id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "SKom",
+          "ar_raw": "2008-2016",
+          "kallrad": 3138,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d97e02f08898b336b6feb9efbf6840137fb05f8e95fbede35212bf3f0022563",
+        "path": "data/variable-documentation/0d97e02f08898b336b6feb9efbf6840137fb05f8e95fbede35212bf3f0022563.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "6941c4a53f64381060224ae1ee7423de18872487d17f7293591df1a3b028221b",
+      "domain_id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2d3853736db844b65b1c20bc03761e503fad12cf485b0d25ea6bb67d3bd01553",
+        "path": "data/variable-documentation/2d3853736db844b65b1c20bc03761e503fad12cf485b0d25ea6bb67d3bd01553.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "022f7ca7c2e96e91e4a08b1124809fb626e1f60eeca7ced949cdec8fd1b7d7a2",
+      "domain_id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd123565e29efb6c88226d94abe675e028b3a6527dd356bcab78aca7dcc9f186",
+        "path": "data/variable-documentation/dd123565e29efb6c88226d94abe675e028b3a6527dd356bcab78aca7dcc9f186.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "caddad57f56cfb246a255d4262f2059f8cc8271fd2a8efae6761c8738c453c06",
+      "domain_id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a0f70fb1d23529b5a0e9dc2209170375dedd59263828bbb3005291ff64621587",
+        "path": "data/variable-documentation/a0f70fb1d23529b5a0e9dc2209170375dedd59263828bbb3005291ff64621587.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "6b0a970641cad9f0995ea090647a26f373c51ec9d95d9b94cdae7bd2ff24ada0",
+      "domain_id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ab39240df709de0bfd2c6bb11203976704cd674dedeec4fe1e7dcfad31f9247f",
+        "path": "data/variable-documentation/ab39240df709de0bfd2c6bb11203976704cd674dedeec4fe1e7dcfad31f9247f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "ddd837bf713618537a431b6a6381fede83d787879ed40d9f3b68a6376e647eb8",
+      "domain_id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "953ea324b6bf42e0d1b865d7d286d5a58f0cf4dfa3645491e15879a25e79ad11",
+        "path": "data/variable-documentation/953ea324b6bf42e0d1b865d7d286d5a58f0cf4dfa3645491e15879a25e79ad11.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "cb60b467038b1ca90a754444de1da799911d4f84b24444c966fa040f8a5e366d",
+      "domain_id": "accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0bdbefaa4d4fe8243a4690fd2ad96334922432cea21a6bb0916762d7cf960c80",
+        "path": "data/variable-documentation/0bdbefaa4d4fe8243a4690fd2ad96334922432cea21a6bb0916762d7cf960c80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "dfa8723d6b6af73a08914e546ae13e6b56fa4d6e8f848626d13bbd527d6902b6",
+      "domain_id": "2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6bdbad1e17465cfd64bf97f133d47d06f29f226ba48b386c261b321a7bd6cea",
+        "path": "data/variable-documentation/b6bdbad1e17465cfd64bf97f133d47d06f29f226ba48b386c261b321a7bd6cea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Skolkommun",
+      "variable": "Kommun",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "cbf3fc1d4d2f8258550214ba6754bb09dbe04bfb0b07b27582966fcbe8f26980",
+      "id": "13853e9e1e4f10400fc8f41862af319b0de8d36af48dad6b241362ba31fb9b70",
+      "domain_id": "fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Skolkommun",
+          "ar_raw": "2017-2024",
+          "kallrad": 3139,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc802a778ef095dde64010f2ef89aaf6faa727de870e34dfe9066242f4dc917a",
+        "path": "data/variable-documentation/bc802a778ef095dde64010f2ef89aaf6faa727de870e34dfe9066242f4dc917a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2009",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "77f72e072fb8723420a3301722345762a5416794c668027e2d61c7e62fec2309",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "47b75637f439446e26a915a2db7e613a3e16547c9329175923ce03f39501453e",
+        "path": "data/variable-documentation/47b75637f439446e26a915a2db7e613a3e16547c9329175923ce03f39501453e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2010",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "6498a7aed4410ed55e35aaab412b50cf05702542d157db8b2b97a226773b25ba",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "28b7ba5079b9d760a0c4432d4e6f67c33132310582414d8e799cc9af08a1680d",
+        "path": "data/variable-documentation/28b7ba5079b9d760a0c4432d4e6f67c33132310582414d8e799cc9af08a1680d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2011",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "4697bb3f8674596bff47a26053de524fc9cea31934c4ad9e59763b60c78dd400",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "74f3af839032f079abb98bfd5200fc3e9156f10bf10c418f6564aa794f786658",
+        "path": "data/variable-documentation/74f3af839032f079abb98bfd5200fc3e9156f10bf10c418f6564aa794f786658.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2012",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "1acb2f0f35c8d3883395e77e687d0fcec67c043699ea04098d431edfe4032757",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cfdd61533182cbff5463528d53e8eb84972e5123d6705917744c80a0abf4d003",
+        "path": "data/variable-documentation/cfdd61533182cbff5463528d53e8eb84972e5123d6705917744c80a0abf4d003.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2013",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "c80fa38227cdc3e3738ea78a23d67ea14f6ceee6789f054164fbebd46968f267",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc4cc85f8a6823b7b4ef403aee214a0e6de4b088587418e00f3d8180149d2ff6",
+        "path": "data/variable-documentation/bc4cc85f8a6823b7b4ef403aee214a0e6de4b088587418e00f3d8180149d2ff6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2014",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "357918bc8d9d6caa1d74983861b891fd8f1d981cc4438c001b6fa5c183e2fa37",
+      "domain_id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5bf13e809d251742216931a215a8d9c45dd09b6e3076a6ebf5daedb82a7695ce",
+        "path": "data/variable-documentation/5bf13e809d251742216931a215a8d9c45dd09b6e3076a6ebf5daedb82a7695ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2015",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "3b26be254805bfaeb4c055adab618d15f8bdd562748405d2b2c72cae6a09cfe8",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c0994653918844f6e35d83fe83b06a1451ac3f9054137a14ee90e23afc346aa",
+        "path": "data/variable-documentation/0c0994653918844f6e35d83fe83b06a1451ac3f9054137a14ee90e23afc346aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2016",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "d5347db60f70e51f7a55bcbf7c5aa45162b463ac466a7912d7f47704b1d29b2b",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "119b8afbdea4df500e195b7de498ba5968153daec1ac3982af8f9cba6d6efcf4",
+        "path": "data/variable-documentation/119b8afbdea4df500e195b7de498ba5968153daec1ac3982af8f9cba6d6efcf4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2017",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "c252af206e8342e3dcda4e695f7ddd13f4f23d46d38a54b15fcbccbdfb9d1405",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1fb4c3ecd899ee95cc883f1d9567faa7f8bd120aa19c641d13d7233c9a5d320",
+        "path": "data/variable-documentation/b1fb4c3ecd899ee95cc883f1d9567faa7f8bd120aa19c641d13d7233c9a5d320.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2018",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "73449caf6e32d90491b02b502c82ef8bd35488fc1e54275a1e52953b22ec043c",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "25316b9769f55c059a26aaed6f66107ef1a73195350dd6f60649e5128752ca02",
+        "path": "data/variable-documentation/25316b9769f55c059a26aaed6f66107ef1a73195350dd6f60649e5128752ca02.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2019",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "d8d793df23b306d78d5b4d8609893759fb5ed9f5bdf97285d29e431e550bff1d",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "70b91382d473a7b8ef97e03d9e55bb2ac6b3b9b6c48398bc035a725e5adb346e",
+        "path": "data/variable-documentation/70b91382d473a7b8ef97e03d9e55bb2ac6b3b9b6c48398bc035a725e5adb346e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2020",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "2340eb2fad3fc08e176f1ab2faf62990c05ec93911b90a3d01ceaccfeb1a8ad4",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bdae04e6fbb79b90fab83a02b9ff24f3f8364549b407b10a44874fe972f8de02",
+        "path": "data/variable-documentation/bdae04e6fbb79b90fab83a02b9ff24f3f8364549b407b10a44874fe972f8de02.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2021",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "44d65018f67469d9c8daab0b15879d9bf00e0fbd9d6c5a8f0fa028fdc2a0f038",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "889c512ac65d7269a9b01e0ddce8eff4c60f79084e39bdc7fa3828428085c8ad",
+        "path": "data/variable-documentation/889c512ac65d7269a9b01e0ddce8eff4c60f79084e39bdc7fa3828428085c8ad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2022",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "3a1e529a2bf4c6c75910db21385acf48ba49a356b66e36cce061a5edfc2d2ca2",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f512c31ef33247ede8e692de25dc18f965c9cfcb1b488926573ba8bf34f0213b",
+        "path": "data/variable-documentation/f512c31ef33247ede8e692de25dc18f965c9cfcb1b488926573ba8bf34f0213b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2023",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "8a1183b6d88289338c76d384915cb677d865f5dd619e6f6965df2ce2cebe515c",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40c71726eb7c36366d37cf16138cf3412c95d0b95ef03b4a70f4f17dee98b598",
+        "path": "data/variable-documentation/40c71726eb7c36366d37cf16138cf3412c95d0b95ef03b4a70f4f17dee98b598.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    },
+    {
+      "register": "Grundskola: elever",
+      "variant": "Individregister",
+      "column": "Verkform",
+      "variable": "Skolform",
+      "register_version": "15 oktober 2024",
+      "source_task_id": "52dba77fc6bb7bf9934420f6b33d4bab59dc935f390e8615fff8aed695f9fe8f",
+      "id": "6c08b04572639b84565ed024be38b11f1ad8bb9d03b1e373c68ee526dab52223",
+      "domain_id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:16:25+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "grund_fkl_fth",
+          "variabel": "Verkform",
+          "ar_raw": "2009-2024",
+          "kallrad": 3140,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b746fd7140ff76fcecda560c2a8da99394c0e7f240696ab657bfd324322b7133",
+        "path": "data/variable-documentation/b746fd7140ff76fcecda560c2a8da99394c0e7f240696ab657bfd324322b7133.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:16:25+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "LKF 2017-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a",
+      "value_count": 290,
+      "path": "data/value-domain-values/25ad3bce6cd59f356434218dda8a9fb8cdf277fdf9ec66a720d1ae7357d0731a.json"
+    },
+    {
+      "version": "2018-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9",
+      "value_count": 290,
+      "path": "data/value-domain-values/262e2a06dea9a830d468b31e4d8519464b06b1a63472e9686444bf370d1699d9.json"
+    },
+    {
+      "version": "LKF 2010-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e",
+      "value_count": 290,
+      "path": "data/value-domain-values/266d7b778cb8c8321d0273ae7d9ebc99025689e9da00c66c5a79564648b6113e.json"
+    },
+    {
+      "version": "2023-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2",
+      "value_count": 290,
+      "path": "data/value-domain-values/2c9d82847d5e4d130ad692f256d1aacb293369552a151439cccfe7e30e63aca2.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "char(2)",
+      "id": "2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560",
+      "value_count": 7,
+      "path": "data/value-domain-values/2cbd580d276720192335941e42b8db72297caee0d9bcd04116c2905cc73c9560.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "bigint",
+      "id": "2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350",
+      "value_count": 7,
+      "path": "data/value-domain-values/2d167ab6e4f7c5f6c64c2ca9cbd43816f3a72783e2643e40dc80e4787cd6e350.json"
+    },
+    {
+      "version": "Skolform",
+      "level": "Skolform t.o.m. 2014",
+      "data_type": "char(2)",
+      "id": "32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58",
+      "value_count": 17,
+      "path": "data/value-domain-values/32f28df743ba0cb9e04b2adc63b112ad0737d845ae449ff209ab09024aa22c58.json"
+    },
+    {
+      "version": "LKF 2014-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff",
+      "value_count": 290,
+      "path": "data/value-domain-values/35c402263d6c9db1bada3cd2b4f6b1028be36335e227f682c8cf53e24b8ad2ff.json"
+    },
+    {
+      "version": "Huvudman fr.om. 2015 ",
+      "level": "Huvudman inkl utlandsskolor",
+      "data_type": "bigint",
+      "id": "37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b",
+      "value_count": 5,
+      "path": "data/value-domain-values/37975ee0cf201677b29f6634057e2e398afa956796eb255d2f26b29a82c6600b.json"
+    },
+    {
+      "version": "2019-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc",
+      "value_count": 290,
+      "path": "data/value-domain-values/420c4e57e1a7ddb996971145a505b3c4274dba0c921a2085ee6cfb20c33c1afc.json"
+    },
+    {
+      "version": "LKF 2009-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58",
+      "value_count": 290,
+      "path": "data/value-domain-values/44f3c1c9a26b43ffbfe435f490b18a65f84ed69cf526ece0d863134d9108fb58.json"
+    },
+    {
+      "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca",
+      "value_count": 290,
+      "path": "data/value-domain-values/4e06e860b6a9f35a0bac09426e9f587598a069baaf982e87013f871cfc2d2dca.json"
+    },
+    {
+      "version": "Huvudman ",
+      "level": "Huvudman",
+      "data_type": "char(1)",
+      "id": "591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a",
+      "value_count": 7,
+      "path": "data/value-domain-values/591416f5ebcc561d5ec4b116dae58ad9dd9521b7f00097ace8df95960b580f2a.json"
+    },
+    {
+      "version": "Skolform fr.o.m. 2015",
+      "level": "Skolform fr.o.m. 2015 ",
+      "data_type": "char(2)",
+      "id": "64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79",
+      "value_count": 16,
+      "path": "data/value-domain-values/64a948fc7ae629e94ccaef1c6f4df4edd43983fe722cc46d8a6b080e3d5c8c79.json"
+    },
+    {
+      "version": "LKF 2016-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971",
+      "value_count": 290,
+      "path": "data/value-domain-values/7127cf8aaab46781d1349dfb796db4e671fa340f6a803105c0545ea9e8754971.json"
+    },
+    {
+      "version": "2021-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631",
+      "value_count": 290,
+      "path": "data/value-domain-values/7eb81344b5d5e84540bcb023fddc72bf675de9213af7d8b445c63d9d91a87631.json"
+    },
+    {
+      "version": "Inriktning",
+      "level": "Inriktning 2",
+      "data_type": "char(2)",
+      "id": "87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e",
+      "value_count": 6,
+      "path": "data/value-domain-values/87bfac53215857e653190bcee7831903a6e7468213f51e80ae79d7b91e34ca0e.json"
+    },
+    {
+      "version": "Årskurs",
+      "level": "Årskurs, grundskola 0-10",
+      "data_type": "char(2)",
+      "id": "a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024",
+      "value_count": 12,
+      "path": "data/value-domain-values/a1bd2e62b2b76f26622f7257b4922dcadfad8a433ad9dfbfaf9378ed62589024.json"
+    },
+    {
+      "version": "2022-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c",
+      "value_count": 290,
+      "path": "data/value-domain-values/accaa2348661f443693d7d3962248f5263b16795ad8d89753ab154385670f25c.json"
+    },
+    {
+      "version": "Huvudman fr.om. 2015 ",
+      "level": "Huvudman inkl utlandsskolor",
+      "data_type": "char(1)",
+      "id": "b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f",
+      "value_count": 5,
+      "path": "data/value-domain-values/b683bc002854408e29f31cd8ce444835c6c65594c8365c5258e47adb5959e89f.json"
+    },
+    {
+      "version": "LKF 2015-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35",
+      "value_count": 290,
+      "path": "data/value-domain-values/b881dbf8205b68ec4423a21898addff2e603ea6904f4ca840954ce269eab2c35.json"
+    },
+    {
+      "version": "LKF 2011-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942",
+      "value_count": 290,
+      "path": "data/value-domain-values/c53e26a025adf734acbe8f2d2479f62da5439ccb403f9b8a839b3a7e7605f942.json"
+    },
+    {
+      "version": "2020-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85",
+      "value_count": 290,
+      "path": "data/value-domain-values/c67d6950d8e1bc4f137d10e239d68f5b4dbb4422abaffefc81c838ee66d32f85.json"
+    },
+    {
+      "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23",
+      "value_count": 290,
+      "path": "data/value-domain-values/cbf6258bbc4db03470bf5c1c9eb5bff2f1f66b4fc682513759636893d6fd3d23.json"
+    },
+    {
+      "version": "2024-01-01 /Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4",
+      "value_count": 290,
+      "path": "data/value-domain-values/fdd1b92d0fa6bfeb6303a84a5f5e0d90614093b3c1063f7e8856a1b911da93e4.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "80a07d3ce284a4a15f39cf820edf32776160ba5e6a10437356f776193bfd0542",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "910cb96d1c2099d23f6cbd4f52cc07eba1da31e7452f59faea33128dfae1f1c1",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:16:25+00:00",
+    "task_count": 7,
+    "expected_bindings": 82,
+    "documented_bindings": 82,
+    "errors": []
+  }
+}

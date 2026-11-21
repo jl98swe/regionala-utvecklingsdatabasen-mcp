@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(4)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Kommun"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Regional indelning i kommuner. "
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Kommun för där grundskolan ligger. "
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skolregistret"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registret över elever i grundskolan, individer, innehåller bl.a. uppgifter om elevens bakgrund, vilken årskurs eleven går i, eventuellt språk eleven studerar samt utbildning och födelseland för elevens föräldrar. \r\n\r\n\r\n"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Elever inskrivna i grundskolan"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Elever inskrivna i grundskolan."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2009-10-15"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna lämnas av skolan. \r\n\r\nUppgifter om elever i sameskolor samt fristående skolor med konfessionell inriktning ingår inte eftersom de uppgifterna endast samlas in på gruppnivå. Uppgifter om elever med annat modersmål än svenska samlas in på gruppnivå för samtliga grundskolor.\r\n\r\nDatafilen innehåller även uppgifter om elever i fritidshem och i förskoleklass men dessa dokumenteras under \"Fritidshem: elever\" respektive \"Förskoleklass: elever\"."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individregister"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individregister"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Uppgiftslämnaren är skola/skolenhet. Insamlingen består av uppgifter på individnivå.\r\n\r\nSyftet med insamlingen är att det skall ge information om grundskolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Grundskola: elever per 15 oktober"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Grundskola: elever"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Undersökningen om elever i grundskola är en del av Skolverkets uppföljningssystem för skolväsendet. Syftet med systemet är att det ska ge en samlad bild av verksamheten och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\n\r\nUppgifter samlas dels in på individnivå och dels på gruppnivå. Uppgiftslämnaren är skolan/skolenheten.\r\n"
+    }
+  ],
+  "id": "c78296daacfd1b6488482ce308deee1da5def6d823eb6a0b0bdbdef28932947c"
+}
