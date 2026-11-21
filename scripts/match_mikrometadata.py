@@ -58,7 +58,7 @@ def build_plan(metadata,inventory,reviewed):
       matches.append({'task_id':tid,'register':selection['register'],'variant':selection['variant'],'source_column':s['Kolumnnamn'],'first_version':s['VersionForsta'],'last_version':s['VersionSista'],'method':relation['method']})
    status='identity_not_enumerated' if identity(r['variabel']) else ('matched' if matches else ('no_column_match' if selections else 'unresolved_view'))
    mapped.append({'variabel':r['variabel'],'ar_raw':r['ar_raw'],'status':status,'matches':matches})
-  results.append({'databasvy':view,'status':review.get('status','unresolved'),'evidence':review.get('evidence',''),'sources':selections,'variables':mapped})
+  results.append({'databasvy':view,'status':review.get('status','unresolved'),'evidence':review.get('evidence',''),'sources':selections,'variables':mapped,**{k:review[k] for k in ('identified_register','candidate_sources','candidate_aliases','references') if k in review}})
  return {'schema_version':'1.0','metadata_sha256':metadata['source_sha256'],'scb_source_updated':inventory['source_updated'],'source':'https://mikrometadata.scb.se/','views':results,'tasks':list(tasks.values())}
 
 if __name__=='__main__':
@@ -75,8 +75,15 @@ if __name__=='__main__':
  lines=['# Beställningens registerkopplingar','',f"Beställningsmetadata: `{plan['metadata_sha256']}`. SCB-index uppdaterat {plan['scb_source_updated']}.",'',f"{len(plan['views'])} vyer; {counts['matched']} variabelposter kopplade; {counts['identity_not_enumerated']} identifierarposter utan uppräknad värdemängd; {counts['no_column_match']+counts['unresolved_view']} poster kvar att reda ut.",'','Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, eller med en entydig skillnad i skiftläge. Kandidatlistor är inte godkända kopplingar.','','| Beställningsvy | Kopplade/icke-identifierare | Granskade källvarianter | Status |','|---|---:|---|---|']
  for v in plan['views']:
   variables=[x for x in v['variables'] if x['status']!='identity_not_enumerated'];matched=sum(x['status']=='matched' for x in variables)
-  sources='; '.join(s['register'].strip()+' → '+s['variant'].strip() for s in v['sources']) or 'Öppen'
+  sources='; '.join(s['register'].strip()+' → '+s['variant'].strip() for s in v['sources']) or (v.get('identified_register','')+' (variant eller kolumnkoppling öppen)' if v.get('identified_register') else 'Öppen')
   lines.append(f"| `{v['databasvy']}` | {matched}/{len(variables)} | {sources.replace('|','/')} | {v['status']} |")
+ lines+=['','## Granskning av register och alternativ','']
+ for v in plan['views']:
+  if not v.get('identified_register') and v['databasvy'] not in ('hushallperson','grund_fkl_fth','uhv'):continue
+  lines+=['### '+v['databasvy'],'',v['evidence'],'']
+  if v.get('candidate_sources'):lines+=['Ej godkända variantalternativ: '+ '; '.join(s['register']+' → '+s['variant'] for s in v['candidate_sources'])+'.','']
+  for a in v.get('candidate_aliases',[]):lines.append('- Ej godkänt alias: `'+a['ordered_column']+'` → `'+a['source_column']+'` ('+a['source_variable']+', '+a['source_period']+').')
+  lines+=['']+[ '- [Källunderlag]('+url+')' for url in v.get('references',[])]+['']
  lines+=['','## Återstående namn','', 'Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och källraderna finns i [matchningsplanen](../data/order-source-plan.json). Identifierare är inte med i denna lista.','']
  for v in plan['views']:
   missing=[x['variabel'] for x in v['variables'] if x['status'] not in ('matched','identity_not_enumerated')]

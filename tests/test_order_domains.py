@@ -42,6 +42,16 @@ class OrderTests(unittest.TestCase):
   self.assertTrue(collection_complete({'a','b'},bindings,[]))
   self.assertFalse(collection_complete({'a','b'},bindings,['export error']))
   self.assertFalse(collection_complete(set(),bindings,[]))
+ def test_swedish_school_dates_remain_actual_periods(self):
+  self.assertTrue(eligible('2008-2024','15 oktober 2024'))
+  self.assertFalse(eligible('2008-2024','15 oktober 2025'))
+  self.assertFalse(eligible('2008-2024','31 februari 2024'))
+ def test_candidates_never_become_approved_column_aliases(self):
+  from match_mikrometadata import build_plan
+  p=build_plan({'source_sha256':'example','records':[{'databasvy':'example','variabel':'X','ar_raw':'2024','kallrad':1}]},{'source_updated':'example','rows':[{'Registerrubrik':'Example','Registervariantrubrik':'Example','Kolumnnamn':'X'}]},{'example':{'status':'register_identified_variant_unresolved','identified_register':'Example','candidate_sources':[{'register':'Example','variant':'Example'}]}})
+  self.assertEqual(p['tasks'],[])
+  self.assertEqual(p['views'][0]['variables'][0]['status'],'unresolved_view')
+  self.assertEqual(p['views'][0]['identified_register'],'Example')
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'

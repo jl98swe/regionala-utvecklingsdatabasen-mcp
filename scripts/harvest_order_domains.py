@@ -11,6 +11,10 @@ def group_id(register,variant):return digest([register,variant])[:20]
 def eligible(raw,label):
  if not raw:return True  # Source documentation only; does not assert order availability.
  label=label.strip()
+ months=['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december']
+ swedish=re.fullmatch(r'(\d{1,2}) ('+'|'.join(months)+r') (\d{4})',label)
+ if swedish:
+  day,month,year=swedish.groups();label=f'{year}-{months.index(month)+1:02d}-{int(day):02d}'
  # Compare the actual documented period; do not manufacture yearly versions.
  if re.fullmatch(r'\d{4}-\d{2}-\d{2}',label):
   try:datetime.strptime(label,'%Y-%m-%d')

@@ -14,7 +14,7 @@ def build():
   mappings=sorted({(o['databasvy'],o['variabel'],t['Kolumnnamn']) for t in tasks for o in t['orders']})
   groups.append({'id':gid,'register':tasks[0]['Registerrubrik'],'variant':tasks[0]['Registervariantrubrik'],'views':views,'columns':columns,'mappings':[{'databasvy':v,'variabel':c,'source_column':s} for v,c,s in mappings],'path':f'data/value-domains-ordered/{gid}.json','priority':min((priority.index(v) if v in priority else 100 for v in views))})
  groups.sort(key=lambda g:(g['priority'],g['register'],g['variant']))
- index={'schema_version':'2.0','metadata_sha256':plan['metadata_sha256'],'plan_sha256':digest({'metadata':plan['metadata_sha256'],'groups':groups}),'groups':groups,'unresolved_views':[{'databasvy':v['databasvy'],'status':v['status'],'unmatched_variables':[r['variabel'] for r in v['variables'] if r['status'] not in ('matched','identity_not_enumerated')]} for v in plan['views'] if any(r['status'] not in ('matched','identity_not_enumerated') for r in v['variables'])]}
+ index={'schema_version':'2.0','metadata_sha256':plan['metadata_sha256'],'plan_sha256':digest({'metadata':plan['metadata_sha256'],'groups':groups}),'groups':groups,'unresolved_views':[{'databasvy':v['databasvy'],'status':v['status'],'unmatched_variables':[r['variabel'] for r in v['variables'] if r['status'] not in ('matched','identity_not_enumerated')],**{k:v[k] for k in ('identified_register','candidate_sources','candidate_aliases','references','evidence') if k in v}} for v in plan['views'] if any(r['status'] not in ('matched','identity_not_enumerated') for r in v['variables'])]}
  atomic_save(ROOT/'data/order-source-index.json',index)
  return plan,index
 

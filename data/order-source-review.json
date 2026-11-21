@@ -607,5 +607,190 @@
       }
     ],
     "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+  },
+  "hushallperson": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Befolkningsregistret (RTB)",
+        "variant": "Hushåll"
+      }
+    ],
+    "evidence": "Alla 12 icke-identifierande kolumner överensstämmer exakt. Beställningen börjar 2011; RTB Hushåll börjar 2011-12-31, medan alternativet Hushållens boende Individer börjar 2012. Årsspecifika hushålls-ID i beställningen behålls som identifierare och matchas inte mot värdemängder. Kopplingen ger dokumentationsstöd, inte bevis för beställningens population.",
+    "references": [
+      "https://mikrometadata.scb.se/",
+      "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/registret-over-totalbefolkningen-rtb/"
+    ]
+  },
+  "grund_fkl_fth": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Grundskola: elever",
+        "variant": "Individregister"
+      },
+      {
+        "register": "Förskoleklass",
+        "variant": "Grundskola"
+      },
+      {
+        "register": "Fritidshem: elever",
+        "variant": "Grundskola"
+      }
+    ],
+    "evidence": "Sammansatt vy: sju av åtta sakvariabler återfinns i Grundskola elever och Förskoleklass. Den särskiljande HMANFTH finns exakt i Fritidshem elever Grundskola, liksom SkolKodFTH och SkolenhetskodFTH före löpnummerersättningen. Tillsammans täcks samtliga åtta sakvariabler. Alternativa källdefinitioner bevaras separat; ingen prioritering eller automatisk sammanslagning.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "uhv": {
+    "status": "reviewed",
+    "sources": [
+      {
+        "register": "Utrikeshandel med varor",
+        "variant": "Intrastat, löpande priser"
+      },
+      {
+        "register": "Utrikeshandel med varor",
+        "variant": "Extrastat, löpande priser"
+      }
+    ],
+    "evidence": "Alla sex sakvariabler matchar exakt i båda varianterna. SCB anger att Utrikeshandel med varor består av Intrastat och Extrastat. Båda används som dokumentationskällor, separat; beställningsfilen avgör inte vilket delsystem en observation kommer från.",
+    "references": [
+      "https://mikrometadata.scb.se/",
+      "https://www.scb.se/vara-tjanster/bestall-data-och-statistik/register/utrikeshandel-med-varor/"
+    ]
+  },
+  "fek_lve": {
+    "status": "register_identified_columns_unresolved",
+    "sources": [],
+    "identified_register": "Företagens ekonomi (FEK)",
+    "candidate_sources": [
+      {
+        "register": "Företagens ekonomi (FEK)",
+        "variant": "FEK Slutdata (LVE)"
+      }
+    ],
+    "candidate_aliases": [
+      {
+        "ordered_column": "MedeltalAnstallda",
+        "source_column": "lgr6101",
+        "source_variable": "Medelantal anställda",
+        "source_period": "2003–2024",
+        "status": "needs_definition_review"
+      },
+      {
+        "ordered_column": "SysselsattaRAMS",
+        "source_column": "lhar6103",
+        "source_variable": "Sysselsatta (RAMS)",
+        "source_period": "2003–2021",
+        "status": "needs_definition_review"
+      }
+    ],
+    "evidence": "Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "ureg_ky_yh_fhsk": {
+    "status": "register_identified_variant_unresolved",
+    "sources": [],
+    "identified_register": "Utbildningsregistret",
+    "candidate_sources": [
+      {
+        "register": "Utbildningsregistret",
+        "variant": "Personens samtliga utbildningar"
+      },
+      {
+        "register": "Utbildningsregistret",
+        "variant": "Personens högsta utbildning"
+      },
+      {
+        "register": "Utbildningsregistret",
+        "variant": "Samlat betygsdokument/studiebevis"
+      }
+    ],
+    "evidence": "Alla åtta sakvariabler återfinns i flera UREG-varianter. Namnsuffixet KY/YH/FHSK räcker inte för att avgöra om beställningen är ett källurval eller annan bearbetning. Inga varianter godkänns enbart från kolumnöverlapp.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "ruma": {
+    "status": "register_identified_not_in_index",
+    "sources": [],
+    "identified_register": "Registret över Utbildning, Matchning och Arbetsmarknad (RUMA)",
+    "evidence": "SCB:s kvalitetsdeklaration för Regionala Trender och Prognoser 2025 identifierar RUMA som samlingsregister för utbildning och arbetsmarknad, baserat på RTB, BAS, UREG och YREG. Registerrubriken och beställningens RUMA-kolumner saknas i det hämtade Mikrometadata-indexet. Underregistren ersätter inte RUMA:s egna klassifikationer.",
+    "references": [
+      "https://www.scb.se/contentassets/9a731a170df2441780abaad993cb1efe/uf0515_kd_2025_cah_260528.pdf"
+    ]
+  },
+  "kcr": {
+    "status": "register_identified_not_in_index",
+    "sources": [],
+    "identified_register": "Koncernregistret (KCR)",
+    "evidence": "SCB:s FDB-dokumentation identifierar Koncernregistret (KCR). Beställningen innehåller koncernmoder, moderbolag, ägarandel och nivå. KCR och dessa specifika kolumner saknas i Mikrometadata-indexet; Internationella företag ersätter inte hela koncernregistret.",
+    "references": [
+      "https://www.scb.se/contentassets/f18a54653a0e4554b1b246befd71607b/nv0101_do_2012.pdf"
+    ]
+  },
+  "ftg_fou_fe": {
+    "status": "register_identified_variant_unresolved",
+    "sources": [],
+    "identified_register": "Forskning och utveckling i Sverige",
+    "candidate_sources": [
+      {
+        "register": "Forskning och utveckling i Sverige",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "ftg_fou_je": {
+    "status": "register_identified_variant_unresolved",
+    "sources": [],
+    "identified_register": "Forskning och utveckling i Sverige",
+    "candidate_sources": [
+      {
+        "register": "Forskning och utveckling i Sverige",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "ftg_fou_mikroftg_fe": {
+    "status": "register_identified_variant_unresolved",
+    "sources": [],
+    "identified_register": "Forskning och utveckling i Sverige",
+    "candidate_sources": [
+      {
+        "register": "Forskning och utveckling i Sverige",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
+  },
+  "ftg_fou_mikroftg_je": {
+    "status": "register_identified_variant_unresolved",
+    "sources": [],
+    "identified_register": "Forskning och utveckling i Sverige",
+    "candidate_sources": [
+      {
+        "register": "Forskning och utveckling i Sverige",
+        "variant": "Företag"
+      }
+    ],
+    "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.",
+    "references": [
+      "https://mikrometadata.scb.se/"
+    ]
   }
 }
