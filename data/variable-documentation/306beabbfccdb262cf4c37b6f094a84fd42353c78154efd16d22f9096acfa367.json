@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(50)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Typ av utbildningsanordnare"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Typ av utbildningsanordnare."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Den typ av utbildningsanordnare som kursdeltagaren läser den studievägskurs som anges i variablerna Studieväg och Kurs"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "SCB:s Skolregister"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Ett totalregister över alla kursdeltagare i utbildning i svenska för invandrare under läsåret 2003/2004."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Kursdeltagare i svenskundervisning för invandrare"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla personer som har läst svenskundervisning för invandrare uppdelat på varje kurs och nivå."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Alla kursdeltagare som deltagit i utbildning i svenska för invandrare under läsåret 2003/2004. En kursdeltagare är en person på en unik kurs under terminen."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2003-07-01 - 2004-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Statistiken grundar sig på datamaterial hämtat från skolor som bedrivit utbildning i svenska för invandrare under läsåret 2003/2004."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Kursdeltagare och utbildningsresultat"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Kursdeltagare och resultat"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Ett totalregister över alla personer som har läst svenska för invandrare och deras utbildningsresultat. Samtliga studievägar och kurser som en person gått redovisas. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Komvux svenska för invandrare (sfi)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Uppgifterna utgör en del i Skolverkets nationella uppföljningssystem för skolsektorn. Syftet med uppföljningssystemet är att ge en samlad bild av skolans verksamhet och vara underlag för uppföljning och utvärdering på nationell och lokal nivå.\r\nSkolformen hette fram till 1 juli 2012 Svenskundervisning för invandrare, men bytte då namn till Utbildning i svenska för invandrare. "
+    }
+  ],
+  "id": "306beabbfccdb262cf4c37b6f094a84fd42353c78154efd16d22f9096acfa367"
+}

@@ -1,0 +1,32 @@
+{
+  "version": "Betyg i SFI",
+  "level": "Betyg i SFI t.o.m. 2011",
+  "data_type": "varchar(50)",
+  "values": [
+    {
+      "code": "",
+      "label": "Värde saknas/Värde ska ej finnas"
+    },
+    {
+      "code": "4",
+      "label": "Betyg 4 (skala 1- 5 där 5 är högst)"
+    },
+    {
+      "code": "5",
+      "label": "Betyg 5 (skala 1-5 där 5 är högst)"
+    },
+    {
+      "code": "G",
+      "label": "Godkänt"
+    },
+    {
+      "code": "I",
+      "label": "Icke godkänt"
+    },
+    {
+      "code": "V",
+      "label": "Väl godkänt"
+    }
+  ],
+  "id": "0ec98871cd1c9f7dd42a9c38cb3ae06f2a35739d6dff6c310b2fcf5725a07e4c"
+}
