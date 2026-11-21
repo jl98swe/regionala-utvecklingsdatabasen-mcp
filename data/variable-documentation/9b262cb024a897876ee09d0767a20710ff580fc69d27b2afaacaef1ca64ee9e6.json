@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Län"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Kod för regional indelning i län."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Län där personen är folkbokförd."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Befolkningsregistret (RTB) : Folkbokförda personer"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-06-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. För dessa görs viss rättning och härledningar av nya variabler."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Hushåll"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Hushåll"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Ett hushåll består av de personer som är folkbokförda på samma lägenhet. Med lägenhet avses även småhus. Regional indelning avser 1 jan året efter aktuellt år."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    }
+  ],
+  "id": "9b262cb024a897876ee09d0767a20710ff580fc69d27b2afaacaef1ca64ee9e6"
+}

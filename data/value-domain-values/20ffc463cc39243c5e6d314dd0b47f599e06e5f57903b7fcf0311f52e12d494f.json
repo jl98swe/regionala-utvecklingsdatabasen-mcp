@@ -1,0 +1,20 @@
+{
+  "version": "Imputeringsmarkering",
+  "level": "Imputeringsmarkering",
+  "data_type": "tinyint",
+  "values": [
+    {
+      "code": "NULL",
+      "label": "Hushållet är ej imputerat (lägenhetsnyckel saknas)"
+    },
+    {
+      "code": "0",
+      "label": "Hushållet är ej imputerat (lägenhetsnyckel finns)"
+    },
+    {
+      "code": "1",
+      "label": "Hushållet är imputerat (lägenhetsnyckel saknas)"
+    }
+  ],
+  "id": "20ffc463cc39243c5e6d314dd0b47f599e06e5f57903b7fcf0311f52e12d494f"
+}
