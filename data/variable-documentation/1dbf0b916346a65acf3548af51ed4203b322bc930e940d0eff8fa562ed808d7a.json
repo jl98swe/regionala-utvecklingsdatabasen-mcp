@@ -1,0 +1,98 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Klassificerad som sysselsatt"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Klassificerad som sysselsatt enligt uppsatta kriterier."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "En person som klassificeras som sysselsatt uppfyller minst ett av följande kriterier:\r\n• har under november fått en utbetalning av ersättning för arbete som är underlag för arbetsgivaravgifter enligt Skatteverkets arbetsgivardeklaration på individnivå (AGI).\r\n• antas under november driva ett verksamt företag som enskild näringsidkare, handels- eller kommanditbolagsdelägare. \r\n• antas under november driva ett aktivt företag som företagare i AB.\r\n• antas under november vara tillfälligt frånvarande från arbetet.\r\n• antas vara sysselsatt utifrån inkomst från annat nordiskt land under referensåret."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus under november månad 2024  för samtliga personer som var folkbokförda den 31/12 2024."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer per den sista i  referensmånaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2024-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från de slutliga månadsuppgifterna samt från Utbildningsregistret. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Årsuppgifter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Årsuppgifter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller uppgifter om samtliga personer som var folkbokförda i Sverige vid slutet av året och beskriver varje individs arbetsmarknadsstatus under november månad."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVersion",
+      "value": "Förändringen utgörs framför allt av striktare krav för att antas vara en verksam företagare och därmed klassificeras som att egenföretagare. För företagare i AB inkluderas nu inkomstuppgifter från deklarationen av K10-bilagan vid kategoriseringen av yrkesställning."
+    }
+  ],
+  "id": "1dbf0b916346a65acf3548af51ed4203b322bc930e940d0eff8fa562ed808d7a"
+}

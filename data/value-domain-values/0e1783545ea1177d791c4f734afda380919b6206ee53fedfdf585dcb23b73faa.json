@@ -1,0 +1,156 @@
+{
+  "version": "Standard för indelning efter juridisk form 2020",
+  "level": "Nivå 1",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": "00",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "10",
+      "label": "Fysiska personer"
+    },
+    {
+      "code": "21",
+      "label": "Enkla bolag"
+    },
+    {
+      "code": "22",
+      "label": "Partrederier"
+    },
+    {
+      "code": "23",
+      "label": "Värdepappersfonder"
+    },
+    {
+      "code": "31",
+      "label": "Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "32",
+      "label": "Gruvbolag"
+    },
+    {
+      "code": "41",
+      "label": "Bankaktiebolag"
+    },
+    {
+      "code": "42",
+      "label": "Försäkringsaktiebolag"
+    },
+    {
+      "code": "43",
+      "label": "Europabolag"
+    },
+    {
+      "code": "49",
+      "label": "Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "51",
+      "label": "Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "53",
+      "label": "Bostadsrättsföreningar"
+    },
+    {
+      "code": "54",
+      "label": "Kooperativa hyresrättsföreningar"
+    },
+    {
+      "code": "55",
+      "label": "Europakooperativ och Europeisk gruppering för territoriellt samarbete - EGTS"
+    },
+    {
+      "code": "61",
+      "label": "Ideella föreningar"
+    },
+    {
+      "code": "62",
+      "label": "Samfällighetsföreningar, vägföreningar, vägsamfälligheter"
+    },
+    {
+      "code": "63",
+      "label": "Registrerade trossamfund"
+    },
+    {
+      "code": "71",
+      "label": "Familjestiftelser"
+    },
+    {
+      "code": "72",
+      "label": "Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "81",
+      "label": "Statliga enheter"
+    },
+    {
+      "code": "82",
+      "label": "Kommuner"
+    },
+    {
+      "code": "83",
+      "label": "Kommunalförbund"
+    },
+    {
+      "code": "84",
+      "label": "Regioner"
+    },
+    {
+      "code": "85",
+      "label": "Allmänna försäkringskassor"
+    },
+    {
+      "code": "86",
+      "label": "Enheter inom svenska kyrkan"
+    },
+    {
+      "code": "87",
+      "label": "Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "88",
+      "label": "Hypoteksföreningar"
+    },
+    {
+      "code": "89",
+      "label": "Regionala statliga myndigheter"
+    },
+    {
+      "code": "91",
+      "label": "Dödsbon"
+    },
+    {
+      "code": "92",
+      "label": "Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "93",
+      "label": "Sparbanker"
+    },
+    {
+      "code": "94",
+      "label": "Understödsföreningar"
+    },
+    {
+      "code": "95",
+      "label": "Arbetslöshetskassor"
+    },
+    {
+      "code": "96",
+      "label": "Utländska juridiska personer"
+    },
+    {
+      "code": "98",
+      "label": "Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "99",
+      "label": "Juridisk form ej utredd"
+    }
+  ],
+  "id": "0e1783545ea1177d791c4f734afda380919b6206ee53fedfdf585dcb23b73faa"
+}

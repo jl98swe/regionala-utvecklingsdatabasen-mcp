@@ -1,0 +1,106 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Tillfälligt frånvarande"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om en individ ska räknas som tillfälligt frånvarande och därmed sysselsatt med hjälp av pengar från Försäkringskassan. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Personen är sysselsatt i november och har under minst en av de elva månader som föregår fått utbetalning av ersättning för arbete som är underlag för arbetsgivaravgifter enligt AGI. Dessutom har fått utbetald ersättning från Försäkringskassan under samtliga efterföljande månader fram till och med referensmånaden. Ersättningen från Försäkringskassan ska vara av typen föräldrapenning, tillfällig föräldrapenning, graviditetspenning, sjukpenning, rehabiliteringspenning, arbets- eller yrkesskadepenning, närståendepenning, smittbärarpenning eller ersättning till riskgrupp.  "
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS) : Slutliga månadsuppgifter"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Variabeln är en känslig personuppgift enligt dataskyddsförordningen, för att få behandla en sådan uppgift måste det finnas stöd för behandlingen."
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller uppgifter om arbetsmarknadsstatus under november månad 2022  för samtliga personer som var folkbokförda den 31/12 2022."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i månaden innan referensmånaden"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer per den sista i referensmånaden"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer per den sista i  referensmånaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Sveriges folkbokförda befolkning per den sista dagen i månaden innan referensmånaden. "
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter inhämtas från de slutliga månadsuppgifterna samt från Utbildningsregistret. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Årsuppgifter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Årsuppgifter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller uppgifter om samtliga personer som var folkbokförda i Sverige vid slutet av året och beskriver varje individs arbetsmarknadsstatus under november månad."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Befolkningens arbetsmarknadsstatus"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningens arbetsmarknadsstatus (BAS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Syftet med registret är att utifrån administrativ data producera statistik som visar befolkningens arbetsmarknadsstatus. "
+    },
+    {
+      "name": "Tidsseriebrott - RegisterVersion",
+      "value": "Förändringen utgörs framför allt av striktare krav för att antas vara en verksam företagare och därmed klassificeras som att egenföretagare. För företagare i AB inkluderas nu inkomstuppgifter från deklarationen av K10-bilagan vid kategoriseringen av yrkesställning."
+    }
+  ],
+  "id": "c3504229fc81cd2d42bf55ae4e1267575267ccce05155005299c6538000959dd"
+}

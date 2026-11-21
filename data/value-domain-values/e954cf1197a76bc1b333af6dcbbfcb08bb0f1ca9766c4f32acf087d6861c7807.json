@@ -1,0 +1,72 @@
+{
+  "version": "Yrkesställning",
+  "level": "Yrkesställning - detaljerad nivå",
+  "data_type": "varchar(3)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Sysselsatt någon annan månad än november"
+    },
+    {
+      "code": "200",
+      "label": "Anställd - ej kombinatör - en anställning"
+    },
+    {
+      "code": "201",
+      "label": "Anställd - ej kombinatör - flera anställningar"
+    },
+    {
+      "code": "211",
+      "label": "Anställd - kombinatör (anställd och egenföretagare)"
+    },
+    {
+      "code": "221",
+      "label": "Anställd - kombinatör (anställd och företagare i AB)"
+    },
+    {
+      "code": "241",
+      "label": "Anställd - kombinatör (anställd, egenföretagare och företagare i AB)"
+    },
+    {
+      "code": "400",
+      "label": "Egenföretagare - ej kombinatör - en verksamhet"
+    },
+    {
+      "code": "401",
+      "label": "Egenföretagare - ej kombinatör - flera verksamheter som egenföretagare"
+    },
+    {
+      "code": "411",
+      "label": "Egenföretagare - kombinatör (anställd och egenföretagare)"
+    },
+    {
+      "code": "431",
+      "label": "Egenföretagare – ej kombinatör – flera verksamheter som egenföretagare och företagare i AB"
+    },
+    {
+      "code": "441",
+      "label": "Egenföretagare - kombinatör (anställd, egenföretagare och företagare i AB)"
+    },
+    {
+      "code": "500",
+      "label": "Företagare i AB - ej kombinatör - en verksamhet"
+    },
+    {
+      "code": "501",
+      "label": "Företagare i AB - ej kombinatör - flera verksamheter som företagare i AB"
+    },
+    {
+      "code": "521",
+      "label": "Företagare i AB - kombinatör (anställd och företagare i AB)"
+    },
+    {
+      "code": "531",
+      "label": "Företagare i AB – ej kombinatör – flera verksamheter som egenföretagare och företagare i AB"
+    },
+    {
+      "code": "541",
+      "label": "Företagare i AB - kombinatör (anställd, egenföretagare och företagare i AB)"
+    }
+  ],
+  "id": "e954cf1197a76bc1b333af6dcbbfcb08bb0f1ca9766c4f32acf087d6861c7807"
+}
