@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
-  "plan_sha256": "8735f7b5cec3c058e0e7929725e3dfba52a15f4c461309eebc9746df392062ff",
+  "plan_sha256": "990d7a41f06ee24c4080b0def840e7b6455549827a911090ef9f70b2a9820e5f",
   "groups": [
     {
       "id": "f42ff157566cbf11639f",
@@ -4983,6 +4983,116 @@
       "priority": 100
     },
     {
+      "id": "54ec6dcb4718623e641f",
+      "register": "FRIDA",
+      "variant": "Forskning och utveckling",
+      "views": [
+        "ftg_fou"
+      ],
+      "columns": [
+        "AI_FTEXI_F",
+        "AI_FTEXI_M",
+        "AI_FTE_F",
+        "AI_FTE_M",
+        "AI_IRD_CAP",
+        "AI_IRD_CUR_LC",
+        "AI_IRD_CUR_LC_EXT",
+        "AI_IRD_CUR_O",
+        "FTEXI_OCCUP_RSE_T",
+        "FTEXI_OCCUP_TXRSE_T",
+        "FTEXI_OCCUP_T_T",
+        "FTE_OCCUP_T_T",
+        "HCXI_OCCUP_RSE_T",
+        "HCXI_OCCUP_TXRSE_T",
+        "HCXI_OCCUP_T_T",
+        "HC_OCCUP_T_T"
+      ],
+      "mappings": [
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTEXI_F",
+          "source_column": "AI_FTEXI_F"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTEXI_M",
+          "source_column": "AI_FTEXI_M"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTE_F",
+          "source_column": "AI_FTE_F"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_FTE_M",
+          "source_column": "AI_FTE_M"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CAP",
+          "source_column": "AI_IRD_CAP"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_LC",
+          "source_column": "AI_IRD_CUR_LC"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_LC_EXT",
+          "source_column": "AI_IRD_CUR_LC_EXT"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "AI_IRD_CUR_O",
+          "source_column": "AI_IRD_CUR_O"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_RSE_T",
+          "source_column": "FTEXI_OCCUP_RSE_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_TXRSE_T",
+          "source_column": "FTEXI_OCCUP_TXRSE_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTEXI_OCCUP_T_T",
+          "source_column": "FTEXI_OCCUP_T_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "FTE_OCCUP_T_T",
+          "source_column": "FTE_OCCUP_T_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_RSE_T",
+          "source_column": "HCXI_OCCUP_RSE_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_TXRSE_T",
+          "source_column": "HCXI_OCCUP_TXRSE_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HCXI_OCCUP_T_T",
+          "source_column": "HCXI_OCCUP_T_T"
+        },
+        {
+          "databasvy": "ftg_fou",
+          "variabel": "HC_OCCUP_T_T",
+          "source_column": "HC_OCCUP_T_T"
+        }
+      ],
+      "path": "data/value-domains-ordered/54ec6dcb4718623e641f.json",
+      "priority": 100
+    },
+    {
       "id": "9f8c72683514a04e9c41",
       "register": "Folkhögskolan",
       "variant": "Deltagarregister",
@@ -6627,6 +6737,32 @@
       "priority": 100
     },
     {
+      "id": "c2bd25ff9ccbd37bd539",
+      "register": "Företagens ekonomi (FEK)",
+      "variant": "FEK Slutdata (LVE)",
+      "views": [
+        "fek_lve"
+      ],
+      "columns": [
+        "MedeltalAnstallda",
+        "SysselsattaRAMS"
+      ],
+      "mappings": [
+        {
+          "databasvy": "fek_lve",
+          "variabel": "MedeltalAnstallda",
+          "source_column": "lgr6101"
+        },
+        {
+          "databasvy": "fek_lve",
+          "variabel": "SysselsattaRAMS",
+          "source_column": "lhar6103"
+        }
+      ],
+      "path": "data/value-domains-ordered/c2bd25ff9ccbd37bd539.json",
+      "priority": 100
+    },
+    {
       "id": "37afa537b16904cbd897",
       "register": "Företagsdatabasen (FDB)",
       "variant": "AST-enheter",
@@ -7698,6 +7834,38 @@
         }
       ],
       "path": "data/value-domains-ordered/6e642322b112c54f06b1.json",
+      "priority": 100
+    },
+    {
+      "id": "cc109f02e9e702eeb881",
+      "register": "Inkomst och taxering (IoT)",
+      "variant": "Bostadshushåll",
+      "views": [
+        "iot"
+      ],
+      "columns": [
+        "BKE04HB",
+        "CDISP504HB",
+        "CDISP5HB"
+      ],
+      "mappings": [
+        {
+          "databasvy": "iot",
+          "variabel": "BKE04HB",
+          "source_column": "BKE04HB"
+        },
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP504HB",
+          "source_column": "CDISP504HB"
+        },
+        {
+          "databasvy": "iot",
+          "variabel": "CDISP5HB",
+          "source_column": "CDISP5HB"
+        }
+      ],
+      "path": "data/value-domains-ordered/cc109f02e9e702eeb881.json",
       "priority": 100
     },
     {
@@ -9186,6 +9354,58 @@
       "priority": 100
     },
     {
+      "id": "1ba936c1664e9f377577",
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "views": [
+        "fdb_ae"
+      ],
+      "columns": [
+        "SlutDatKtid",
+        "StartDatKtid"
+      ],
+      "mappings": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "source_column": "SlutDatKtid"
+        },
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "source_column": "StartDatKtid"
+        }
+      ],
+      "path": "data/value-domains-ordered/1ba936c1664e9f377577.json",
+      "priority": 100
+    },
+    {
+      "id": "e633454f537db9ae9b20",
+      "register": "SCB:s företagsregister",
+      "variant": "Juridiska enheter",
+      "views": [
+        "fdb_je"
+      ],
+      "columns": [
+        "SlutDatKtid",
+        "StartDatKtid"
+      ],
+      "mappings": [
+        {
+          "databasvy": "fdb_je",
+          "variabel": "SlutDatKtid",
+          "source_column": "SlutDatKtid"
+        },
+        {
+          "databasvy": "fdb_je",
+          "variabel": "StartDatKtid",
+          "source_column": "StartDatKtid"
+        }
+      ],
+      "path": "data/value-domains-ordered/e633454f537db9ae9b20.json",
+      "priority": 100
+    },
+    {
       "id": "47a86c7f3cc616967e0f",
       "register": "Universitets- och högskoleregistret ",
       "variant": "Forskarutbildning, examina",
@@ -9660,11 +9880,9 @@
       "status": "reviewed",
       "unmatched_variables": [
         "AdmStatSlutDatKtid",
-        "AdmStatStartDatKtid",
-        "SlutDatKtid",
-        "StartDatKtid"
+        "AdmStatStartDatKtid"
       ],
-      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år. Kompletterande definitionskälla för endast StartDatKtid, SlutDatKtid: SCB:s företagsregister / Arbetsställeenheter. Exakta kolumnnamn och motsvarande objekttyp/ämne; övriga kolumner får inte automatiskt matchas mot denna extra variant. Källversionerna begränsar dokumentationen, inte beställningens egna år."
     },
     {
       "databasvy": "fdb_ast",
@@ -9686,11 +9904,9 @@
         "AdmStatStartDatKtid",
         "ArbGivStatStartDatKtid",
         "FSkattStatStartDatKtid",
-        "MomsStatStartDatKtid",
-        "SlutDatKtid",
-        "StartDatKtid"
+        "MomsStatStartDatKtid"
       ],
-      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år. Kompletterande definitionskälla för endast StartDatKtid, SlutDatKtid: SCB:s företagsregister / Juridiska enheter. Exakta kolumnnamn och motsvarande objekttyp/ämne; övriga kolumner får inte automatiskt matchas mot denna extra variant. Källversionerna begränsar dokumentationen, inte beställningens egna år."
     },
     {
       "databasvy": "fdb_lve",
@@ -9714,41 +9930,6 @@
         "VEStatStartDatKtid"
       ],
       "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
-    },
-    {
-      "databasvy": "fek_lve",
-      "status": "register_identified_columns_unresolved",
-      "unmatched_variables": [
-        "MedeltalAnstallda",
-        "SysselsattaRAMS"
-      ],
-      "identified_register": "Företagens ekonomi (FEK)",
-      "candidate_sources": [
-        {
-          "register": "Företagens ekonomi (FEK)",
-          "variant": "FEK Slutdata (LVE)"
-        }
-      ],
-      "candidate_aliases": [
-        {
-          "ordered_column": "MedeltalAnstallda",
-          "source_column": "lgr6101",
-          "source_variable": "Medelantal anställda",
-          "source_period": "2003–2024",
-          "status": "needs_definition_review"
-        },
-        {
-          "ordered_column": "SysselsattaRAMS",
-          "source_column": "lhar6103",
-          "source_variable": "Sysselsatta (RAMS)",
-          "source_period": "2003–2021",
-          "status": "needs_definition_review"
-        }
-      ],
-      "references": [
-        "https://mikrometadata.scb.se/"
-      ],
-      "evidence": "Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner."
     },
     {
       "databasvy": "fh_k_skoluppg",
@@ -9796,14 +9977,6 @@
         "ACAT06",
         "ACAT07",
         "ACAT08",
-        "AI_FTEXI_F",
-        "AI_FTEXI_M",
-        "AI_FTE_F",
-        "AI_FTE_M",
-        "AI_IRD_CAP",
-        "AI_IRD_CUR_LC",
-        "AI_IRD_CUR_LC_EXT",
-        "AI_IRD_CUR_O",
         "AgKat",
         "Antal_man",
         "BGrupp",
@@ -9826,18 +9999,14 @@
         "FETyp",
         "FTEXI_OCCUP_RSE_F",
         "FTEXI_OCCUP_RSE_M",
-        "FTEXI_OCCUP_RSE_T",
         "FTEXI_OCCUP_TXRSE_F",
         "FTEXI_OCCUP_TXRSE_M",
-        "FTEXI_OCCUP_TXRSE_T",
-        "FTEXI_OCCUP_T_T",
         "FTE_OCCUP_RSE_F",
         "FTE_OCCUP_RSE_M",
         "FTE_OCCUP_RSE_T",
         "FTE_OCCUP_TXRSE_F",
         "FTE_OCCUP_TXRSE_M",
         "FTE_OCCUP_TXRSE_T",
-        "FTE_OCCUP_T_T",
         "FTE_SE110_RSE",
         "FTE_SE110_TXRSE",
         "FTE_SE121_RSE",
@@ -9883,11 +10052,8 @@
         "FtgStat",
         "HCXI_OCCUP_RSE_F",
         "HCXI_OCCUP_RSE_M",
-        "HCXI_OCCUP_RSE_T",
         "HCXI_OCCUP_TXRSE_F",
         "HCXI_OCCUP_TXRSE_M",
-        "HCXI_OCCUP_TXRSE_T",
-        "HCXI_OCCUP_T_T",
         "HC_ISCED_ED8_F",
         "HC_ISCED_ED8_M",
         "HC_OCCUP_RSE_F",
@@ -9896,7 +10062,6 @@
         "HC_OCCUP_TXRSE_F",
         "HC_OCCUP_TXRSE_M",
         "HC_OCCUP_TXRSE_T",
-        "HC_OCCUP_T_T",
         "HC_SE110_RSE",
         "HC_SE110_TXRSE",
         "HC_SE121_RSE",
@@ -10951,7 +11116,7 @@
         "v952",
         "v953"
       ],
-      "evidence": "Företags-FoU identifierad som register; endast de exakt överensstämmande variablerna kopplas. Senare variabelsystem, FE/JE och mikrobolagsvyer lämnas öppna."
+      "evidence": "Företags-FoU identifierad som register; endast de exakt överensstämmande variablerna kopplas. Senare variabelsystem, FE/JE och mikrobolagsvyer lämnas öppna. Komplettering 2026-11-21: 16 exakta kolumnnamn finns i FRIDA / Forskning och utveckling. Beskrivningstabellen anger uttryckligen Forskning och utveckling i Sverige : Företag som källa och att uppgifterna hämtas från FoU-undersökningen. Extra varianten används bara för de uppräknade kolumnernas dokumentation; dess population och registerversion bevaras separat."
     },
     {
       "databasvy": "ftg_fou_fe",
@@ -11256,12 +11421,17 @@
         {
           "register": "Forskning och utveckling i Sverige",
           "variant": "Företag"
+        },
+        {
+          "register": "FRIDA",
+          "variant": "Forskning och utveckling",
+          "scope": "candidate_not_approved"
         }
       ],
       "references": [
         "https://mikrometadata.scb.se/"
       ],
-      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning."
     },
     {
       "databasvy": "ftg_fou_je",
@@ -11556,12 +11726,17 @@
         {
           "register": "Forskning och utveckling i Sverige",
           "variant": "Företag"
+        },
+        {
+          "register": "FRIDA",
+          "variant": "Forskning och utveckling",
+          "scope": "candidate_not_approved"
         }
       ],
       "references": [
         "https://mikrometadata.scb.se/"
       ],
-      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning."
     },
     {
       "databasvy": "ftg_fou_mikroftg_fe",
@@ -11855,12 +12030,17 @@
         {
           "register": "Forskning och utveckling i Sverige",
           "variant": "Företag"
+        },
+        {
+          "register": "FRIDA",
+          "variant": "Forskning och utveckling",
+          "scope": "candidate_not_approved"
         }
       ],
       "references": [
         "https://mikrometadata.scb.se/"
       ],
-      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning."
     },
     {
       "databasvy": "ftg_fou_mikroftg_je",
@@ -12146,12 +12326,17 @@
         {
           "register": "Forskning och utveckling i Sverige",
           "variant": "Företag"
+        },
+        {
+          "register": "FRIDA",
+          "variant": "Forskning och utveckling",
+          "scope": "candidate_not_approved"
         }
       ],
       "references": [
         "https://mikrometadata.scb.se/"
       ],
-      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas."
+      "evidence": "FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning."
     },
     {
       "databasvy": "gdb_ast",
@@ -12318,20 +12503,17 @@
       "databasvy": "iot",
       "status": "reviewed",
       "unmatched_variables": [
-        "BKE04HB",
         "CDISP04HB",
         "CDISP04HB_INKLGP",
         "CDISP04H_INKLGP",
         "CDISP04_INKLGP",
-        "CDISP504HB",
         "CDISP504HB_INKLGP",
         "CDISP504_INKLGP",
-        "CDISP5HB",
         "CDISP5HB_INKLGP",
         "CDISP5_INKLGP",
         "CDISP_INKLGP"
       ],
-      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år."
+      "evidence": "Granskad register-/variantbeteckning och överensstämmande kolumnprofil i SCB-exporten. Kopplingen gäller värdemängder; den bevisar inte beställningens population eller tillgängliga år. Kompletterande definitionskälla för endast BKE04HB, CDISP504HB, CDISP5HB: Inkomst och taxering (IoT) / Bostadshushåll. Exakta kolumnnamn och motsvarande objekttyp/ämne; övriga kolumner får inte automatiskt matchas mot denna extra variant. Källversionerna begränsar dokumentationen, inte beställningens egna år."
     },
     {
       "databasvy": "kcr",

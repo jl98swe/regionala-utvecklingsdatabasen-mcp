@@ -2,9 +2,9 @@
 
 Beställningsmetadata: `f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be`. SCB-index uppdaterat 2026-11-15.
 
-88 vyer; 1429 variabelposter kopplade; 197 identifierarposter utan uppräknad värdemängd; 2512 poster kvar att reda ut.
+88 vyer; 1454 variabelposter kopplade; 197 identifierarposter utan uppräknad värdemängd; 2487 poster kvar att reda ut.
 
-Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, eller med en entydig skillnad i skiftläge. Kandidatlistor är inte godkända kopplingar.
+Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställningsår eller populationer. Kolumnnamn matchas exakt, med en entydig skillnad i skiftläge eller genom uttryckligt granskade alias i konfigurationen. Extra källor kan begränsas till namngivna beställningskolumner. Kandidatlistor är inte godkända kopplingar.
 
 | Beställningsvy | Kopplade/icke-identifierare | Granskade källvarianter | Status |
 |---|---:|---|---|
@@ -22,19 +22,19 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `fad_foretag` | 5/5 | Registerbaserad arbetsmarkn.stat (RAMS) → FAD, Företag | reviewed |
 | `fad_nedl_ast` | 5/5 | Registerbaserad arbetsmarkn.stat (RAMS) → FAD, Arbetsställen | reviewed |
 | `fad_nedl_ftg` | 5/5 | Registerbaserad arbetsmarkn.stat (RAMS) → FAD, Företag | reviewed |
-| `fdb_ae` | 9/13 | Företagsdatabasen (FDB) → Arbetsställeenheter | reviewed |
+| `fdb_ae` | 11/13 | Företagsdatabasen (FDB) → Arbetsställeenheter; SCB:s företagsregister → Arbetsställeenheter | reviewed |
 | `fdb_ae_ng` | 3/3 | Företagsdatabasen (FDB) → Arbetsställeenheter | reviewed |
 | `fdb_ae_ngs` | 3/3 | Företagsdatabasen (FDB) → Arbetsställeenheter | reviewed |
 | `fdb_ast` | 5/10 | Företagsdatabasen (FDB) → AST-enheter | reviewed |
 | `fdb_fe` | 7/7 | Företagsdatabasen (FDB) → Företagsenheter | reviewed |
 | `fdb_fe_ngs` | 3/3 | Företagsdatabasen (FDB) → Företagsenheter | reviewed |
-| `fdb_je` | 21/28 | Företagsdatabasen (FDB) → Juridiska enheter | reviewed |
+| `fdb_je` | 23/28 | Företagsdatabasen (FDB) → Juridiska enheter; SCB:s företagsregister → Juridiska enheter | reviewed |
 | `fdb_je_ng` | 3/3 | Företagsdatabasen (FDB) → Juridiska enheter | reviewed |
 | `fdb_lve` | 4/8 | Företagsdatabasen (FDB) → Lokala verksamhetsenheter | reviewed |
 | `fdb_lve_ngs` | 3/3 | Företagsdatabasen (FDB) → Lokala verksamhetsenheter | reviewed |
 | `fdb_ve` | 6/11 | Företagsdatabasen (FDB) → Verksamhetsenheter | reviewed |
 | `fdb_ve_ngs` | 3/3 | Företagsdatabasen (FDB) → Verksamhetsenheter | reviewed |
-| `fek_lve` | 0/2 | Företagens ekonomi (FEK) (variant eller kolumnkoppling öppen) | register_identified_columns_unresolved |
+| `fek_lve` | 2/2 | Företagens ekonomi (FEK) → FEK Slutdata (LVE) | reviewed |
 | `fh_del` | 16/16 | Folkhögskolan → Deltagarregister | reviewed |
 | `fh_k_skoluppg` | 0/3 | Öppen | unresolved |
 | `flergen_adopforaldrar` | 0/0 | Flergenerationsregistret → Personer med adoptivföräldrar | reviewed |
@@ -44,7 +44,7 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `frida_k10` | 20/20 | FRIDA → Bilaga K10 | reviewed |
 | `frida_n3a` | 8/8 | FRIDA → Bilaga N3A | reviewed |
 | `frida_ne` | 38/39 | FRIDA → Enskilda näringsidkare | reviewed |
-| `ftg_fou` | 247/1409 | Forskning och utveckling i Sverige → Företag | reviewed |
+| `ftg_fou` | 263/1409 | Forskning och utveckling i Sverige → Företag; FRIDA → Forskning och utveckling | reviewed |
 | `ftg_fou_fe` | 0/293 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
 | `ftg_fou_je` | 0/283 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
 | `ftg_fou_mikroftg_fe` | 0/282 | Forskning och utveckling i Sverige (variant eller kolumnkoppling öppen) | register_identified_variant_unresolved |
@@ -66,7 +66,7 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 | `inrflyttflode` | 7/9 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
 | `inrikesflytt_1968_1997` | 5/6 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
 | `inrikesflytt_tidiga_1998` | 5/6 | Befolkningsregistret (RTB) → Inrikes flyttningar | reviewed |
-| `iot` | 26/38 | Inkomst och taxering (IoT) → Individer och dödsbon | reviewed |
+| `iot` | 29/38 | Inkomst och taxering (IoT) → Individer och dödsbon; Inkomst och taxering (IoT) → Bostadshushåll | reviewed |
 | `kcr` | 0/9 | Koncernregistret (KCR) (variant eller kolumnkoppling öppen) | register_identified_not_in_index |
 | `kvx_kursdelt_ht` | 13/14 | Komvux → Kursdeltagare | reviewed |
 | `kvx_kursdelt_vt` | 13/14 | Komvux → Kursdeltagare | reviewed |
@@ -101,47 +101,43 @@ Kopplingarna gäller dokumenterade koddefinitioner. De bevisar inte nya beställ
 
 ### fek_lve
 
-Vynamnet anger FEK och LVE. LVE-varianten har motsvarande benämningar men andra kolumnnamn; alias används inte innan definition, måttenhet och versionsskillnader granskats. Beställningen börjar tidigare än indexets 2003 för dessa kolumner.
+Granskning 2026-11-21 i Mikrometadata: lgr6101 benämns Medelantal anställda, definieras som årsanställda omräknade till heltid och har måttenhet Antal. lhar6103 benämns Sysselsatta (RAMS), definieras som antal sysselsatta enligt RAMS och har måttenhet Antal. Objekttypen är Lokal verksamhetsenhet. Dessa används som dokumentationsalias för de två motsvarande beställningsnamnen; de bevisar inte numerisk skala eller bearbetning i MONA. Endast dokumenterade källversioner används: 2003–2024 respektive 2003–2021. Beställningens tidigare år blir inte verifierade av dessa källversioner.
 
-Ej godkända variantalternativ: Företagens ekonomi (FEK) → FEK Slutdata (LVE).
-
-- Ej godkänt alias: `MedeltalAnstallda` → `lgr6101` (Medelantal anställda, 2003–2024).
-- Ej godkänt alias: `SysselsattaRAMS` → `lhar6103` (Sysselsatta (RAMS), 2003–2021).
 
 - [Källunderlag](https://mikrometadata.scb.se/)
 
 ### ftg_fou_fe
 
-FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning.
 
-Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag; FRIDA → Forskning och utveckling.
 
 
 - [Källunderlag](https://mikrometadata.scb.se/)
 
 ### ftg_fou_je
 
-FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning.
 
-Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag; FRIDA → Forskning och utveckling.
 
 
 - [Källunderlag](https://mikrometadata.scb.se/)
 
 ### ftg_fou_mikroftg_fe
 
-FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning.
 
-Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag; FRIDA → Forskning och utveckling.
 
 
 - [Källunderlag](https://mikrometadata.scb.se/)
 
 ### ftg_fou_mikroftg_je
 
-FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas.
+FoU-vyerna innehåller ERD/FTEXI/HCXI-mått för företagssektorn. Mikrometadata har Företag men skiljer inte här FE, JE eller mikroföretag i registervariantrubrikerna. Flera nya engelska beställningskolumner saknas i indexet; FRIDA:s få gemensamma mått är inte bevis för samma register. Inga nya kolumnalias antas. Granskning 2026-11-21: fyra exakta FTEXI/HCXI-kolumner finns även i FRIDA:s FoU-variant, men den anger företagsenhet och minst 10 anställda (undantag för forskningsinstitut). Den är därför inte godkänd som källa för denna vy utan verifiering av FE/JE, population och bearbetning.
 
-Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag.
+Ej godkända variantalternativ: Forskning och utveckling i Sverige → Företag; FRIDA → Forskning och utveckling.
 
 
 - [Källunderlag](https://mikrometadata.scb.se/)
@@ -199,17 +195,16 @@ Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och käll
 
 - `doda`: `DodDatumArMan`
 - `exportimport`: `Afrika`, `AntArbst`, `AntFirm`, `Areg`, `Asien`, `Besoksort`, `Bransch1`, `Bransch1Text`, `Bransch2`, `Bransch3`, `EU`, `ExpStkl`, `ExpStklText`, `FjOstern`, `ImpStkl`, `ImpStklText`, `JuridForm`, `JuridFormText`, `Kom`, `KomText` … (29 totalt)
-- `fdb_ae`: `AdmStatSlutDatKtid`, `AdmStatStartDatKtid`, `SlutDatKtid`, `StartDatKtid`
+- `fdb_ae`: `AdmStatSlutDatKtid`, `AdmStatStartDatKtid`
 - `fdb_ast`: `ASTStatSlutDatKtid`, `ASTStatStartDatKtid`, `AstK`, `SlutDatKtid`, `StartDatKtid`
-- `fdb_je`: `AdmStatSlutDatKtid`, `AdmStatStartDatKtid`, `ArbGivStatStartDatKtid`, `FSkattStatStartDatKtid`, `MomsStatStartDatKtid`, `SlutDatKtid`, `StartDatKtid`
+- `fdb_je`: `AdmStatSlutDatKtid`, `AdmStatStartDatKtid`, `ArbGivStatStartDatKtid`, `FSkattStatStartDatKtid`, `MomsStatStartDatKtid`
 - `fdb_lve`: `LVEStatSlutDatKtid`, `LVEStatStartDatKtid`, `SlutDatKtid`, `StartDatKtid`
 - `fdb_ve`: `HjalpVerksamhet`, `SlutDatKtid`, `StartDatKtid`, `VEStatSlutDatKtid`, `VEStatStartDatKtid`
-- `fek_lve`: `MedeltalAnstallda`, `SysselsattaRAMS`
 - `fh_k_skoluppg`: `BOrt`, `Kommun`, `LansKod`
 - `fodelseland_lisa`: `FodelseLandNamn_Grp`
 - `fodelseuppg`: `Fodelseforsamling_kod`
 - `frida_ne`: `V7620`
-- `ftg_fou`: `ACAT01`, `ACAT02`, `ACAT03`, `ACAT04`, `ACAT05`, `ACAT06`, `ACAT07`, `ACAT08`, `AI_FTEXI_F`, `AI_FTEXI_M`, `AI_FTE_F`, `AI_FTE_M`, `AI_IRD_CAP`, `AI_IRD_CUR_LC`, `AI_IRD_CUR_LC_EXT`, `AI_IRD_CUR_O`, `AgKat`, `Antal_man`, `BGrupp`, `BlNr` … (1162 totalt)
+- `ftg_fou`: `ACAT01`, `ACAT02`, `ACAT03`, `ACAT04`, `ACAT05`, `ACAT06`, `ACAT07`, `ACAT08`, `AgKat`, `Antal_man`, `BGrupp`, `BlNr`, `DWEIGHT`, `ERD_REC_BES_GROUP`, `ERD_REC_BES_UNAF`, `ERD_REC_GOV`, `ERD_REC_HES`, `ERD_REC_PNP`, `ERD_REC_RI`, `ERD_REC_ROW_BES_GROUP` … (1146 totalt)
 - `ftg_fou_fe`: `ACAT01`, `ACAT02`, `ACAT03`, `ACAT04`, `ACAT05`, `ACAT06`, `ACAT07`, `ACAT08`, `ERD_REC_BES_GROUP`, `ERD_REC_BES_UNAF`, `ERD_REC_GOV`, `ERD_REC_HES`, `ERD_REC_PNP`, `ERD_REC_RI`, `ERD_REC_ROW_BES_GROUP`, `ERD_REC_ROW_BES_UNAF`, `ERD_REC_ROW_GOV`, `ERD_REC_ROW_HES`, `ERD_REC_ROW_IO`, `ERD_REC_ROW_PNP` … (293 totalt)
 - `ftg_fou_je`: `ERD_REC_BES_GROUP`, `ERD_REC_BES_UNAF`, `ERD_REC_GOV`, `ERD_REC_HES`, `ERD_REC_PNP`, `ERD_REC_RI`, `ERD_REC_ROW_BES_GROUP`, `ERD_REC_ROW_BES_UNAF`, `ERD_REC_ROW_GOV`, `ERD_REC_ROW_HES`, `ERD_REC_ROW_IO`, `ERD_REC_ROW_PNP`, `ERD_REC_T`, `FTEXI_OCCUP_F_T`, `FTEXI_OCCUP_M_T`, `FTEXI_OCCUP_RSE_F`, `FTEXI_OCCUP_RSE_M`, `FTEXI_OCCUP_RSE_T`, `FTEXI_OCCUP_T`, `FTEXI_OCCUP_TXRSE_F` … (283 totalt)
 - `ftg_fou_mikroftg_fe`: `ACAT01`, `ACAT02`, `ACAT03`, `ACAT04`, `ACAT05`, `ACAT06`, `ACAT07`, `ACAT08`, `ERD_REC_BES_GROUP`, `ERD_REC_BES_UNAF`, `ERD_REC_GOV`, `ERD_REC_HES`, `ERD_REC_PNP`, `ERD_REC_RI`, `ERD_REC_ROW_BES_GROUP`, `ERD_REC_ROW_BES_UNAF`, `ERD_REC_ROW_GOV`, `ERD_REC_ROW_HES`, `ERD_REC_ROW_IO`, `ERD_REC_ROW_PNP` … (282 totalt)
@@ -227,7 +222,7 @@ Nedan visas högst 20 öppna kolumner per vy. Den fullständiga listan och käll
 - `inrflyttflode`: `FolkbDatManad`, `FolkbDatManadG_harledd`
 - `inrikesflytt_1968_1997`: `BearbArDatumManad`
 - `inrikesflytt_tidiga_1998`: `BearbArDatumManad`
-- `iot`: `BKE04HB`, `CDISP04HB`, `CDISP04HB_INKLGP`, `CDISP04H_INKLGP`, `CDISP04_INKLGP`, `CDISP504HB`, `CDISP504HB_INKLGP`, `CDISP504_INKLGP`, `CDISP5HB`, `CDISP5HB_INKLGP`, `CDISP5_INKLGP`, `CDISP_INKLGP`
+- `iot`: `CDISP04HB`, `CDISP04HB_INKLGP`, `CDISP04H_INKLGP`, `CDISP04_INKLGP`, `CDISP504HB_INKLGP`, `CDISP504_INKLGP`, `CDISP5HB_INKLGP`, `CDISP5_INKLGP`, `CDISP_INKLGP`
 - `kcr`: `AgProc`, `Anst`, `AnstSumSE`, `AntalSE`, `AntalUtlD`, `BokslManLast`, `Bolagstyp`, `Landskod`, `Niva`
 - `kvx_kursdelt_ht`: `KursKod_omkodad`
 - `kvx_kursdelt_vt`: `KursKod_omkodad`
