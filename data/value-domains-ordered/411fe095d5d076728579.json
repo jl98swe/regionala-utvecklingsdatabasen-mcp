@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "411fe095d5d076728579",
+  "register": "Befolkningsregistret (RTB)",
+  "variant": "Familjer från 1998-",
+  "bindings": [],
+  "domains": [],
+  "coverage": {
+    "complete": false,
+    "collector_sha256": "f6e9475bec6e202a0ba8b50e1663c62d2d65de55cf9c720fa281051e25eecf7d",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "e56927823c7db5ccb7a44461291f056c9bd12aab79c70ef9d50373c33ee2ff25",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:11:21+00:00",
+    "task_count": 3,
+    "expected_bindings": 0,
+    "errors": [
+      "AntalPersoner: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']",
+      "Famstall: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']",
+      "Famtyp: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']"
+    ]
+  }
+}
