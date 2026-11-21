@@ -1,0 +1,102 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Antal sysselsatta år 2"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antal sysselsatta på företaget år 2."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS) : Arbetsställen"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Registerversionen innehåller information om nybildningar, uppdelningar och sammanslagningar av företag, information som tas fram med hjälp av registerdata."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Företag i Sverige med minst en sysselsatt enligt RAMS"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Företag i Sverige med minst en sysselsatt enligt RAMS/BAS"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla företag som har minst en sysselsatt enligt Registerbaserad arbetsmarknadsstatistik (RAMS) och Befolkningens arbetsmarknadsstatus (BAS)."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Alla företag som har minst en sysselsatt enligt Registerbaserad arbetsmarknadsstatistik (RAMS)."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "1998-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifter om företag hämtas från Företagsdatabasen och till viss del även från administrativa data från Skatteverket."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Verksamhetsenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Verksamhetsenheten sammanför delar av en företagsenhet som bidrar i utövandet av verksamhet på en fastställd SNI-nivå, ”bransch”. VE ska ge en uttömmande uppdelning av företagsenhet. VE ska vara en observationsenhet, och definieras av SCB i kontakt med uppgiftslämnarna. Företagsenhet är den grundläggande enheten i institutionell statistik. "
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Företagens och arbetsställenas dynamik (FAD), Företag"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "FAD, Företag"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller information om kvarvarande, nybildade och avknoppade företag, information som tas fram med hjälp av registerdata."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registerbaserad arbetsmarknadsstatistik (RAMS)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registerbaserad arbetsmarkn.stat (RAMS)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Totalräknat register över befolkningen med uppgifter om sysselsättning, pendling, arbetskraftsflöden m.m."
+    }
+  ],
+  "id": "add518d1c5f5b005481c174fb1ca677d246c1fb95316c78b64826278c5b8b4e6"
+}
