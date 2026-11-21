@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "47a86c7f3cc616967e0f",
+  "register": "Universitets- och högskoleregistret ",
+  "variant": "Forskarutbildning, examina",
+  "bindings": [
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Forskarutbildning, examina",
+      "column": "ExTypGrp",
+      "variable": "Gruppering efter typ av examen",
+      "register_version": "1970 - 2025",
+      "source_task_id": "ea05ed2f63ea477471886d8713cb453019f7710d336d54e432ad493d3ecc1015",
+      "id": "cadae49883a53c6fc35e0c3769996459300ff8ea834280b2407072f1e77c4e5f",
+      "domain_id": "ccf320e8fafbaf7f882380fc5e6b3b40973e382368d4572f360cbd87ced6ce17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:11:10+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examenforsk",
+          "variabel": "ExTypGrp",
+          "ar_raw": null,
+          "kallrad": 3153,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Forskarutbildning, examina",
+      "column": "HsKod",
+      "variable": "Universitet/högskola",
+      "register_version": "1970 - 2025",
+      "source_task_id": "283707e1c810941cc35a7f6a915709d04002b1892b5bde78e730172160cb27a9",
+      "id": "9bc8a73ea25ca7595acaec24ec7e7e359482ef738e980c84a66bf5f8744fae5d",
+      "domain_id": "4cb1d1f678c60ceaa4ca078ae40b1b0cea0d97c7dfcd7c08e21bb89095ac0a44",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:11:10+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examenforsk",
+          "variabel": "HsKod",
+          "ar_raw": null,
+          "kallrad": 3154,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Forskarutbildning, examina",
+      "column": "KAr",
+      "variable": "År för examen",
+      "register_version": "1970 - 2025",
+      "source_task_id": "1181653996c1a63e87c823719666e157cdcf347ceec20616fc3baae8e254237c",
+      "id": "0c6640eb55f7b464f08b02a1ccd034dcfadd6903ae3778bda091182153392a80",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:11:10+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_examenforsk",
+          "variabel": "KAr",
+          "ar_raw": null,
+          "kallrad": 3155,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Forskarutbildning, examina",
+      "column": "LAr",
+      "variable": "Läsår ",
+      "register_version": "1970 - 2025",
+      "source_task_id": "eda37ea645f1b8f6cd23ec47276acb880c3f5c6f2e89cade20fbcd3861e3e55c",
+      "id": "9694759f5b74702ea330bff44125b2c62e1127527af97e38b8ccc5b831c95fd9",
+      "domain_id": "ee75474b45f778493c296b7862e255558efc33a3686c4dcc32598b050d5d5746",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:11:10+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "hreg_examenforsk",
+          "variabel": "LAr",
+          "ar_raw": null,
+          "kallrad": 3156,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    },
+    {
+      "register": "Universitets- och högskoleregistret ",
+      "variant": "Forskarutbildning, examina",
+      "column": "Termin",
+      "variable": "Termin för examen",
+      "register_version": "1970 - 2025",
+      "source_task_id": "348384dfcf5933a52421ccea60dd073228beab7be5152da9e74ad8a66ecf2e0c",
+      "id": "0961b24e6aa46e2201d15b4ecdc78f425b28586ae338766c09aee585dc160f79",
+      "domain_id": "7656f4f90ae52532e353e5e3e37f09d192a23c0a4cab37f345fe0284c59f79cc",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T05:11:10+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "hreg_examenforsk",
+          "variabel": "Termin",
+          "ar_raw": null,
+          "kallrad": 3160,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true
+    }
+  ],
+  "domains": [
+    {
+      "version": "Universitet/högskolor, forskarutb",
+      "level": "Universitet/högskolor, forskarutb",
+      "data_type": "char(3)",
+      "id": "4cb1d1f678c60ceaa4ca078ae40b1b0cea0d97c7dfcd7c08e21bb89095ac0a44",
+      "value_count": 38,
+      "path": "data/value-domain-values/4cb1d1f678c60ceaa4ca078ae40b1b0cea0d97c7dfcd7c08e21bb89095ac0a44.json"
+    },
+    {
+      "version": "Termin, alternativ 2",
+      "level": "Termin, alternativ 2",
+      "data_type": "char(1)",
+      "id": "7656f4f90ae52532e353e5e3e37f09d192a23c0a4cab37f345fe0284c59f79cc",
+      "value_count": 2,
+      "path": "data/value-domain-values/7656f4f90ae52532e353e5e3e37f09d192a23c0a4cab37f345fe0284c59f79cc.json"
+    },
+    {
+      "version": "ExTypGrp",
+      "level": "ExTypGrp",
+      "data_type": "char(1)",
+      "id": "ccf320e8fafbaf7f882380fc5e6b3b40973e382368d4572f360cbd87ced6ce17",
+      "value_count": 2,
+      "path": "data/value-domain-values/ccf320e8fafbaf7f882380fc5e6b3b40973e382368d4572f360cbd87ced6ce17.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "char(4)",
+      "id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "value_count": 0,
+      "path": "data/value-domain-values/ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "char(6)",
+      "id": "ee75474b45f778493c296b7862e255558efc33a3686c4dcc32598b050d5d5746",
+      "value_count": 0,
+      "path": "data/value-domain-values/ee75474b45f778493c296b7862e255558efc33a3686c4dcc32598b050d5d5746.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "f6e9475bec6e202a0ba8b50e1663c62d2d65de55cf9c720fa281051e25eecf7d",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "ef75fc5c6d615809cc086121fa8bb56666c12eed98209cf5ff3d0a40d9c4fe25",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T05:11:10+00:00",
+    "task_count": 5,
+    "expected_bindings": 5,
+    "errors": []
+  }
+}
