@@ -1,0 +1,372 @@
+{
+  "version": "Sökandekategori",
+  "level": "Sökandekategori",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "11",
+      "label": "Öppet arbetslös"
+    },
+    {
+      "code": "12",
+      "label": "Arbetslösa, vägledningsservice"
+    },
+    {
+      "code": "13",
+      "label": "Arbetslösa,  väntar på beslutad åtgärd"
+    },
+    {
+      "code": "14",
+      "label": "Arbetssökande med förhinder"
+    },
+    {
+      "code": "15",
+      "label": "Kommuninsats"
+    },
+    {
+      "code": "16",
+      "label": "Skolsamverkan"
+    },
+    {
+      "code": "20",
+      "label": "Etableringsjobb"
+    },
+    {
+      "code": "21",
+      "label": "Deltidsarbetslös"
+    },
+    {
+      "code": "22",
+      "label": "Timanställd"
+    },
+    {
+      "code": "23",
+      "label": "Yrkesfiskare"
+    },
+    {
+      "code": "24",
+      "label": "Skyddat arbete Samhall"
+    },
+    {
+      "code": "28",
+      "label": "Etableringsprogrammet, kartläggning"
+    },
+    {
+      "code": "30",
+      "label": "Introduktionsjobb"
+    },
+    {
+      "code": "31",
+      "label": "Tillfälligt arbete"
+    },
+    {
+      "code": "32",
+      "label": "Utbildningskontrakt"
+    },
+    {
+      "code": "33",
+      "label": "Nystartsjobb"
+    },
+    {
+      "code": "34",
+      "label": "Utresande EU/EES-sökande"
+    },
+    {
+      "code": "35",
+      "label": "Ombytessökande Samhall"
+    },
+    {
+      "code": "36",
+      "label": "Särskilt nystartsjobb"
+    },
+    {
+      "code": "37",
+      "label": "Nystartsjobb, deltids- och timanställd"
+    },
+    {
+      "code": "38",
+      "label": "Lönebidrag för utveckling i anställning"
+    },
+    {
+      "code": "39",
+      "label": "Lönebidrag för trygghet i anställning"
+    },
+    {
+      "code": "40",
+      "label": "Yrkesintroduktion"
+    },
+    {
+      "code": "41",
+      "label": "Ombytessökande"
+    },
+    {
+      "code": "42",
+      "label": "Lönebidrag för anställning"
+    },
+    {
+      "code": "43",
+      "label": "Offentligt skyddat arbete, OSA"
+    },
+    {
+      "code": "44",
+      "label": "Akademikerjobb"
+    },
+    {
+      "code": "44",
+      "label": "Rekryteringsstöd"
+    },
+    {
+      "code": "45",
+      "label": "Förstärkt särskilt anställningsstöd"
+    },
+    {
+      "code": "45",
+      "label": "Individuellt anställningsstöd"
+    },
+    {
+      "code": "46",
+      "label": "Start av näringsverksamhet"
+    },
+    {
+      "code": "47",
+      "label": "Allmänt anställningsstöd"
+    },
+    {
+      "code": "47",
+      "label": "Trainee brist"
+    },
+    {
+      "code": "48",
+      "label": "Förstärkt anställningsstöd (2-årsinskr)"
+    },
+    {
+      "code": "48",
+      "label": "Trainee välfärd"
+    },
+    {
+      "code": "49",
+      "label": "Särskilt anställningsstöd"
+    },
+    {
+      "code": "50",
+      "label": "Förstärkt anställningsstöd (4-årsinskr)"
+    },
+    {
+      "code": "50",
+      "label": "Modernt beredskapsjobb"
+    },
+    {
+      "code": "51",
+      "label": "Beredskapsarbete"
+    },
+    {
+      "code": "51",
+      "label": "Extratjänster"
+    },
+    {
+      "code": "51",
+      "label": "Plusjobb"
+    },
+    {
+      "code": "52",
+      "label": "Arbetslivsutveckling"
+    },
+    {
+      "code": "53",
+      "label": "Utbildningsvikariat"
+    },
+    {
+      "code": "54",
+      "label": "Arbetspraktik"
+    },
+    {
+      "code": "55",
+      "label": "Arbetsplatsintroduktion"
+    },
+    {
+      "code": "55",
+      "label": "Lyft"
+    },
+    {
+      "code": "56",
+      "label": "Kulturarvslyftet"
+    },
+    {
+      "code": "56",
+      "label": "Offentligt tillfälligt arbete"
+    },
+    {
+      "code": "57",
+      "label": "Projektarbete (arbetslöshetsersättning)"
+    },
+    {
+      "code": "58",
+      "label": "Lönebidrag för utveckling i anställning hos Samhall"
+    },
+    {
+      "code": "58",
+      "label": "Resursarbete i offentlig verksamhet"
+    },
+    {
+      "code": "58",
+      "label": "Utvecklingsanställning Samhall"
+    },
+    {
+      "code": "59",
+      "label": "Prova-på-plats"
+    },
+    {
+      "code": "60",
+      "label": "Interpraktik"
+    },
+    {
+      "code": "61",
+      "label": "Ungdomspraktik"
+    },
+    {
+      "code": "62",
+      "label": "Akademikerpraktik"
+    },
+    {
+      "code": "63",
+      "label": "Ungdomsintroduktion med utbildningsbidr"
+    },
+    {
+      "code": "64",
+      "label": "Datortek"
+    },
+    {
+      "code": "65",
+      "label": "Kommunalt ungdomsprogram"
+    },
+    {
+      "code": "66",
+      "label": "Ungdomsgarantin"
+    },
+    {
+      "code": "67",
+      "label": "Praktisk kompetensutveckling"
+    },
+    {
+      "code": "68",
+      "label": "Etableringsprogrammet"
+    },
+    {
+      "code": "69",
+      "label": "Jobbgaranti för ungdomar"
+    },
+    {
+      "code": "70",
+      "label": "Jobb- och utvecklingsgarantin"
+    },
+    {
+      "code": "71",
+      "label": "Arbetslivsinriktad rehabilitering"
+    },
+    {
+      "code": "72",
+      "label": "Arbetslivsintroduktion"
+    },
+    {
+      "code": "72",
+      "label": "Särskilt introduktionsstöd, SIUS"
+    },
+    {
+      "code": "73",
+      "label": "Aktiviteter inom vägledning och platsför"
+    },
+    {
+      "code": "74",
+      "label": "Förmedlingsinsatser"
+    },
+    {
+      "code": "74",
+      "label": "Jobbsökar-/vägledningsinsatser"
+    },
+    {
+      "code": "75",
+      "label": "Projekt med arbetsmarknadspolitisk inrik"
+    },
+    {
+      "code": "76",
+      "label": "Fördjupad kartläggning och vägledning"
+    },
+    {
+      "code": "77",
+      "label": "Anställningsstöd för långtidssjukskrivna"
+    },
+    {
+      "code": "78",
+      "label": "Instegsjobb"
+    },
+    {
+      "code": "79",
+      "label": "Jobb- och utvecklingsgarantin fas 3"
+    },
+    {
+      "code": "80",
+      "label": "Förberedande insatser"
+    },
+    {
+      "code": "81",
+      "label": "Arbetsmarknadsutbildning"
+    },
+    {
+      "code": "82",
+      "label": "IT-satsning"
+    },
+    {
+      "code": "83",
+      "label": "Förberedande utbildning"
+    },
+    {
+      "code": "84",
+      "label": "Bristyrkesutbildning för anställda"
+    },
+    {
+      "code": "85",
+      "label": "Lärlingsplats"
+    },
+    {
+      "code": "86",
+      "label": "Validering"
+    },
+    {
+      "code": "87",
+      "label": "Arbetsträning med handledare"
+    },
+    {
+      "code": "88",
+      "label": "Arbetsträning inom praktiskt basår"
+    },
+    {
+      "code": "89",
+      "label": "Friåret"
+    },
+    {
+      "code": "91",
+      "label": "Särskild kategori som ej statistikförs"
+    },
+    {
+      "code": "95",
+      "label": "Öppet arbetslös, upphävande av beslut"
+    },
+    {
+      "code": "96",
+      "label": "Öppet arbetslös, felregistrering av beslut"
+    },
+    {
+      "code": "97",
+      "label": "Öppet arbetslös, avbrott/återkallande av beslut"
+    },
+    {
+      "code": "98",
+      "label": "Öppet arbetslös, slutförd beslutsperiod"
+    },
+    {
+      "code": "99",
+      "label": "Kalmarmodellen"
+    }
+  ],
+  "id": "73ecb7e084e749be15f3be8c40714f3d04fdcbffd651ea47c3f5612b4379058e"
+}

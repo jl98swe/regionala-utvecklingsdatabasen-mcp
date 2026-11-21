@@ -1,0 +1,20 @@
+{
+  "version": "Status för beslut om ELO",
+  "level": "Status för beslut om ELO ",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Ej lots"
+    },
+    {
+      "code": "0",
+      "label": "Avbrott"
+    },
+    {
+      "code": "1",
+      "label": "Pågående"
+    }
+  ],
+  "id": "12cf3e1c54d3232a58fa84eaed32d2446d59280c6b97fc00f91330f6acc87d3d"
+}

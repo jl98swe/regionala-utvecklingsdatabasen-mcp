@@ -1,0 +1,68 @@
+{
+  "version": "Orsak till avbrott för EPA-beslut",
+  "level": "Avbrottsorsak EPA-beslut",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Ej avbrott"
+    },
+    {
+      "code": "10",
+      "label": "Anställning på heltid"
+    },
+    {
+      "code": "11",
+      "label": "Uppfyllt arbetsvillkor 6 månader på heltid"
+    },
+    {
+      "code": "12",
+      "label": "Påbörjad högskoleutbildning som berättigar till studiemedel"
+    },
+    {
+      "code": "13",
+      "label": "Går i gymnasieskola"
+    },
+    {
+      "code": "20",
+      "label": "Ej styrkt rätten till etableringsplan"
+    },
+    {
+      "code": "21",
+      "label": "Prestationsförmåga under 25 procent"
+    },
+    {
+      "code": "22",
+      "label": "Får ej vistas i landet"
+    },
+    {
+      "code": "30",
+      "label": "Pension"
+    },
+    {
+      "code": "31",
+      "label": "Dödsfall"
+    },
+    {
+      "code": "40",
+      "label": "Ansökt >12 månader efter folkbokföring"
+    },
+    {
+      "code": "41",
+      "label": "Enligt den nyanländes egen begäran (avbrott)"
+    },
+    {
+      "code": "42",
+      "label": "Enligt den nyanländes begäran (avslag)"
+    },
+    {
+      "code": "43",
+      "label": "Maximal tid i etableringsplan har löpt ut"
+    },
+    {
+      "code": "44",
+      "label": "Avvisat erbjudet lämpligt arbete"
+    }
+  ],
+  "id": "86a53dcfcb5f5d2c98fd591015a6eca78688d5b417797bd8cf8d47bec14088b9"
+}

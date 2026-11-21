@@ -1,0 +1,20 @@
+{
+  "version": "Orsak till deltid EPA-beslut",
+  "level": "Orsak till deltid EPA  ",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Heltid eller ej EPA-beslut"
+    },
+    {
+      "code": "1",
+      "label": "Förhindrad enligt 5 § förordning om etableringsinsatser"
+    },
+    {
+      "code": "2",
+      "label": "Vård av barn med föräldrapenning enligt 5 § förordning om etableringsinsatser"
+    }
+  ],
+  "id": "5f960aacfa0c8332e0411552238a2f5257f6cd1b6821dafe9ad629a7b347331c"
+}

@@ -1,0 +1,40 @@
+{
+  "version": "Orsak till avbrott för ELO",
+  "level": "Orsak till avbrott för ELO   ",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Ej lots eller ej avbrott"
+    },
+    {
+      "code": "1",
+      "label": "Upphörande av etableringsplan"
+    },
+    {
+      "code": "2",
+      "label": "Avbrott enligt den sökandes egen begäran"
+    },
+    {
+      "code": "3",
+      "label": "Byte - begäran av sökande"
+    },
+    {
+      "code": "4",
+      "label": "Byte - på grund av flytt"
+    },
+    {
+      "code": "5",
+      "label": "Sökande är förhindrad att delta i aktivitet"
+    },
+    {
+      "code": "6",
+      "label": "Kontakten med sökande har upphört av okänd orsak"
+    },
+    {
+      "code": "7",
+      "label": "Upphörande av tjänst"
+    }
+  ],
+  "id": "5f7e91a51f34ef374ee8d0de64ef13f13825950a4e5c9d47090d1c2811d0f2dc"
+}

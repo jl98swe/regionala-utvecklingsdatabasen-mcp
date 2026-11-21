@@ -1,0 +1,36 @@
+{
+  "version": "Huvudman, alternativ 2 ",
+  "level": "Huvudman",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Ej relevant, uppgift saknas eller svensk skola i utlandet. "
+    },
+    {
+      "code": "*",
+      "label": "Uppgift saknas eller svensk skola i utlandet"
+    },
+    {
+      "code": "1",
+      "label": "Kommunal"
+    },
+    {
+      "code": "2",
+      "label": "Landsting"
+    },
+    {
+      "code": "3",
+      "label": "Statlig"
+    },
+    {
+      "code": "4",
+      "label": "Sameskola"
+    },
+    {
+      "code": "5",
+      "label": "Fristående"
+    }
+  ],
+  "id": "1aa5a0b05589c1e315e9ebdfbe3a9f3924e8795c247114e487d4325639cfb45c"
+}

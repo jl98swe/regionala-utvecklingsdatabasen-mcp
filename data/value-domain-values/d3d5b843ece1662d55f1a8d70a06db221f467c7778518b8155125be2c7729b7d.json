@@ -1,0 +1,28 @@
+{
+  "version": "Boform",
+  "level": "Boform, grupperad",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "Egna hem"
+    },
+    {
+      "code": "2",
+      "label": "Hyresrätt"
+    },
+    {
+      "code": "3",
+      "label": "Bostadsrätt"
+    },
+    {
+      "code": "4",
+      "label": "Övrigt"
+    }
+  ],
+  "id": "d3d5b843ece1662d55f1a8d70a06db221f467c7778518b8155125be2c7729b7d"
+}

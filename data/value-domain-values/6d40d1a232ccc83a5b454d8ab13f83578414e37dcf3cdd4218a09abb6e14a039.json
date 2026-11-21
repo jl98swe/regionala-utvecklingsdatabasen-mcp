@@ -1,0 +1,32 @@
+{
+  "version": "EPA_Status",
+  "level": "EPA_Status",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "0",
+      "label": "Väntar på beslut om EPA"
+    },
+    {
+      "code": "1",
+      "label": "Pågående EPA"
+    },
+    {
+      "code": "2",
+      "label": "Avslag EPA"
+    },
+    {
+      "code": "3",
+      "label": "Avbrott EPA"
+    },
+    {
+      "code": "4",
+      "label": "Tiden med EPA har löpt ut"
+    },
+    {
+      "code": "5",
+      "label": "Avvisat erbjudet lämpligt arbete"
+    }
+  ],
+  "id": "6d40d1a232ccc83a5b454d8ab13f83578414e37dcf3cdd4218a09abb6e14a039"
+}

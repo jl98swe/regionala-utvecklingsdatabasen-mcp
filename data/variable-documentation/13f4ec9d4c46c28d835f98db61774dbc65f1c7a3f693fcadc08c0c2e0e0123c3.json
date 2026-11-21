@@ -1,0 +1,82 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Yrkesställning grov nivå"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Definieras utifrån det arbetsställe vid vilken personen bedöms ha bedrivit sin huvudsakliga verksamhet."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd utifrån variabeln BYrkStalln i registret Befolkningens arbetsmarknadsstatus (BAS).\r\n\r\nUppgiften finns för sysselsatta och avser personens huvudsakliga yrkesställning under november. I de fall då det för den sysselsatta personen både finns uppgift om utbetald ersättning för arbete enligt AGI och att personen antas driva ett verksamt företag som enskild näringsidkare, handels- eller kommanditbolagsägare eller företagare i eget aktiebolag bestäms yrkesställningen genom att relatera den utbetalda ersättningen för arbete med företagarinkomsten.\r\n\r\nDå barn 0–14 år inte räknas som sysselsatta har de fått värdet NULL. "
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "November"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2023."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2023-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "13f4ec9d4c46c28d835f98db61774dbc65f1c7a3f693fcadc08c0c2e0e0123c3"
+}

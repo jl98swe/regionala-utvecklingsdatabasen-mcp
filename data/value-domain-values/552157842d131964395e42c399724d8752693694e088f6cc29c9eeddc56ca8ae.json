@@ -1,0 +1,20 @@
+{
+  "version": "Regelverk etablering",
+  "level": "Regelverk etablering",
+  "data_type": "varchar(4)",
+  "values": [
+    {
+      "code": "Båda",
+      "label": "Deltar i etablering enligt båda regelverken"
+    },
+    {
+      "code": "Plan",
+      "label": "Endast deltagit i aktiviteter inom en etableringsplan"
+    },
+    {
+      "code": "Prog",
+      "label": "Endast deltagit i etableringsprogrammet"
+    }
+  ],
+  "id": "552157842d131964395e42c399724d8752693694e088f6cc29c9eeddc56ca8ae"
+}

@@ -1,0 +1,20 @@
+{
+  "version": "Behörighet till gymnasieskolan",
+  "level": "Behörighet till gymnasieskolan, ej programbestämd",
+  "data_type": "char(2)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Eleven är ej betygssatt enligt GrF"
+    },
+    {
+      "code": "00",
+      "label": "Ej behörig"
+    },
+    {
+      "code": "01",
+      "label": "Behörig"
+    }
+  ],
+  "id": "fadb4fad12c8c0ce0f6d9298244bfeee5407f0173e53e42a991ca3d7b7be130b"
+}

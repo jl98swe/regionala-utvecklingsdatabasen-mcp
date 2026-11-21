@@ -1,0 +1,28 @@
+{
+  "version": "Kassagrupp inom arbetslöshetskassan",
+  "level": "Kassagrupp inom arbetslöshetskassan",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "1",
+      "label": "A-kassa"
+    },
+    {
+      "code": "2",
+      "label": "ALFA-kassa"
+    },
+    {
+      "code": "3",
+      "label": "Ingen"
+    },
+    {
+      "code": "NULL",
+      "label": "Ingår ej i Arbetsförmedlingens register"
+    }
+  ],
+  "id": "e73850a079b0af3566dfa2634647dfe99d584094a9dd696fe15f76e5226d54df"
+}

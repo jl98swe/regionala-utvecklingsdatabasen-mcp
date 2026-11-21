@@ -1,0 +1,28 @@
+{
+  "version": "Flyktingkategori",
+  "level": "Nivå 1",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Kvotflykting"
+    },
+    {
+      "code": "2",
+      "label": "Från Migrationsverket med anläggningsboende (ABO)"
+    },
+    {
+      "code": "3",
+      "label": "Övriga med \"flyktingliknande\" skäl"
+    },
+    {
+      "code": "4",
+      "label": "Anknytningar"
+    },
+    {
+      "code": "6",
+      "label": "Från Migrationsverket med eget boende (EBO)"
+    }
+  ],
+  "id": "f84ec5673b1b9c978cb16534a568c55068cd907bce992826dc15c1438053b1cd"
+}
