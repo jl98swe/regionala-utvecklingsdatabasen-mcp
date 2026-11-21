@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T10:57:41+00:00",
+  "checked_at": "2026-11-21T11:11:02+00:00",
   "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
   "totals": {
-    "bindings": 8211,
-    "documentation": 7909,
-    "nonempty_definition": 7909,
-    "nonempty_method": 7909,
-    "verified_domains": 8188,
-    "enumerated": 4009,
-    "not_enumerated": 4179,
+    "bindings": 8411,
+    "documentation": 8109,
+    "nonempty_definition": 8109,
+    "nonempty_method": 8109,
+    "verified_domains": 8385,
+    "enumerated": 4108,
+    "not_enumerated": 4277,
     "complete_groups": 31,
     "groups_with_source_errors": 18,
-    "documentation_only": 23,
+    "documentation_only": 26,
     "groups": 51,
-    "unique_domains": 724
+    "unique_domains": 753
   },
   "integrity_errors": [],
   "groups": [
@@ -136,13 +136,14 @@
       ],
       "complete": false,
       "expected_bindings": 4913,
-      "bindings": 200,
-      "documentation": 200,
-      "nonempty_definition": 200,
-      "nonempty_method": 200,
-      "verified_domains": 200,
-      "not_enumerated": 96,
-      "enumerated": 104,
+      "bindings": 400,
+      "documentation": 400,
+      "nonempty_definition": 400,
+      "nonempty_method": 400,
+      "verified_domains": 397,
+      "not_enumerated": 194,
+      "enumerated": 203,
+      "documentation_only": 3,
       "source_errors": 4,
       "source_error_examples": [
         "Lan: Locator expected to have count '1'\nActual value: 0 \nCall log:\n  - Expect \"to_have_count\" with timeout 60000ms\n  - waiting for get_by_role(\"table\").first.get_by_role(\"row\").filter(has=get_by_role(\"cell\", name=\"Lan\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Registret för integrationsstudier STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"STATIV\", exact=True)).filter(has=get_by_role(\"cell\", name=\"Län\", exact=True)).filter(has=get_by_role(\"cell\", name=\"1997\", exact=True)).filter(has=get_by_role(\"cell\", name=\"2024\", exact=True))\n    63 × locator resolved to 0 elements\n       - unexpected value \"0\"\n",
@@ -1141,12 +1142,12 @@
       "documented_columns": 17
     },
     "sivstock": {
-      "documented_versions": 3,
+      "documented_versions": 6,
       "documented_columns": 2
     },
     "stativ": {
-      "documented_versions": 200,
-      "documented_columns": 183
+      "documented_versions": 400,
+      "documented_columns": 304
     },
     "uhv": {
       "documented_versions": 280,
