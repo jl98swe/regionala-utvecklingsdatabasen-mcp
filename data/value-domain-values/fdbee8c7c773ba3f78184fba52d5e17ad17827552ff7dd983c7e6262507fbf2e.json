@@ -1,0 +1,24 @@
+{
+  "version": "Betyg",
+  "level": "Betyg",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "G",
+      "label": "Godkänt"
+    },
+    {
+      "code": "U",
+      "label": "Underkänt"
+    },
+    {
+      "code": "V",
+      "label": "Väl godkänt"
+    }
+  ],
+  "id": "fdbee8c7c773ba3f78184fba52d5e17ad17827552ff7dd983c7e6262507fbf2e"
+}

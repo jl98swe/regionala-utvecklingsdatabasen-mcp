@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "char(1)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Studiedeltagande höstterminen"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Den högst prioriterade utbildning personen deltagit i under höstterminen."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Den högst prioriterade utbildning personen deltagit i under höstterminen."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Den högst prioriterade utbildningen personen deltagit i under andra halvåret. Källregister: Skolverkets elevregister, Universitets- och högskoleregistret, Folkhögskolan hösttermin,  CSN, YH-myndigheten samt Arbetsförmedlingen). Källkoderna översätts till ett gemensamt värdeförråd."
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "Andra halvåret"
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Studiedeltagande (RPU) : Studiedeltagande"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2005."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2005-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika register. Externa data kommer bl.a. från Migrationsverket och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "af8bc9122090f0db163abfd2f92d4421ce7f16dfcc54d50ca70304f725dd6a86"
+}

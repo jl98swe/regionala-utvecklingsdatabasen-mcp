@@ -1,0 +1,72 @@
+{
+  "version": "Orsak",
+  "level": "Orsak",
+  "data_type": "varchar(1)",
+  "values": [
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "9",
+      "label": "Eleven beräknas fortsätta läsa inom SFI nästa termin"
+    },
+    {
+      "code": "A",
+      "label": "Eleven har gjort avbrott pga arbete eller långtidspraktik"
+    },
+    {
+      "code": "B",
+      "label": "Eleven har avslutat den gamla kursplanen för att övergå till ny kursplan. Jämställs med fortsättare inom SFI."
+    },
+    {
+      "code": "G",
+      "label": "Eleven har flyttat till en annan kommun"
+    },
+    {
+      "code": "I",
+      "label": "Eleven har avslutat kursen men inte nått upp till nivån för betyget godkänd och erhållit betyg"
+    },
+    {
+      "code": "J",
+      "label": "Eleven sluttestades direkt vid kursanmälan och fick betyg"
+    },
+    {
+      "code": "K",
+      "label": "Eleven har uteblivit av okänd anledning"
+    },
+    {
+      "code": "M",
+      "label": "Eleven har uteblivit av annan orsak än tidigare nämnda"
+    },
+    {
+      "code": "O",
+      "label": "Eleven har avslutat kursen och fått betyg."
+    },
+    {
+      "code": "Q",
+      "label": "Eleven har gjort avbrott pga graviditet/barnledighet eller problem med barnomsorg"
+    },
+    {
+      "code": "R",
+      "label": "Eleven har gjort en överenskommelse med skolan om ett studieuppehåll"
+    },
+    {
+      "code": "S",
+      "label": "Eleven har gjort avbrott pga sjukdom"
+    },
+    {
+      "code": "U",
+      "label": "Eleven har inte beviljats uppehållstillstånd och har lämnat landet eller återvänt av andra skäl"
+    },
+    {
+      "code": "Y",
+      "label": "Eleven har gått över till annan utbildningssamordnare (ej SFI) utan att ha godkänts i Sfi."
+    },
+    {
+      "code": "Z",
+      "label": "Eleven har slutat pga att kommunen avskilt honom/henne"
+    }
+  ],
+  "id": "7d1999f05d5c2e0eae7e94fef39e7304c18f78c33810ab8058076f3a451376e7"
+}
