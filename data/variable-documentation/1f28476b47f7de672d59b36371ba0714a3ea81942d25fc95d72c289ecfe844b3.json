@@ -1,0 +1,114 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Konsumtionsenhet enligt 2004 års definition"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Konsumtionsenhet enligt 2004 års definition.\r\n"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Familjens totala konsumtionsvikt byggs upp enligt:\r\n1,00 Första vuxen (ensamboende eller sammanboende)\r\n0,51 Andra vuxen (sammanboende)\r\n0,60 Ytterligare vuxen\r\n0,52 Barn 1, 0-19 år"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Familjebegreppet från registret över totalbefolkningen har används för att koda rätt konsumtionenhet för repsektive individ i familjen. Därefter summeras familjemedlemmarnas konsumtionsenheter till familjens konsumtionsenhet."
+    },
+    {
+      "name": "VariabelReferenstid",
+      "value": "2016-12-31"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal konsumtionsenheter"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Uppgifterna avser ett preliminärt uttag av produktionsmaterial från Skatteverket. Leveransen till SCB sker i september. \r\nSyftet med att framställa ett preliminärt register är att kunna redovisa statistiken tidigare."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Skattskyldiga personer, folkbokförda samt dödsbon"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Urval av inkomsttagare för åren 1960-1966"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Perssoner som är födda den 5, 15 eller 25 dagen i månaden."
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Skattskyldiga personer, både folkbokförda och ej folkbokförda, resterande folkbokförda samt dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Populationen utgörs av skatteskyldiga personer enligt skattelagstiftningen i Sverige. Från och med 1999 ingår även ett antal personer med, av Skatteverket tilldelat, samordningsnummer. Denna grupp utgörs av ej folkbokförda personer som betalar skatt i Sverige. Utöver dessa grupper ingår resterande folkbokförda personer den 31/12 samt dödsbon."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2016-01-01 - 2016-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Grundmaterialet till registret består av taxeringsuppgifter, underlag från deklarationsmaterialet och kontrolluppgifter från Skatteverket samt uppgifter från andra administrativa källor."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer och dödsbon"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Statistiken avser att belysa skatter och taxerade inkomster på individnivå. "
+    },
+    {
+      "name": "Registernamn",
+      "value": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Inkomst och taxering (IoT)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om inkomster, avdrag, skatter, förmögenheter och sociala ersättningar för hela Sveriges befolkning och skattskyldiga personer."
+    }
+  ],
+  "id": "1f28476b47f7de672d59b36371ba0714a3ea81942d25fc95d72c289ecfe844b3"
+}
