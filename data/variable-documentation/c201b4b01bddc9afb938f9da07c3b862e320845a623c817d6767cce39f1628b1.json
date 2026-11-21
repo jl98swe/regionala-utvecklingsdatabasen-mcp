@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Föräldrapenning, antal nettodagar"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antalet utbetalda dagar som avser händelser som skett under året. Antalet utbetalda nettodagar är bruttodagar *omfattningen under ett år."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Försäkringskassan"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Antal"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler för de folkbokförda 31/12, 2005."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige 16 år och äldre"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 16 år och äldre per den 31/12 härrörande år"
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2005-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Databasen samlar in data från en mängd olika SCB-register. Externa data kommer från Försäkringskassan och Arbetsförmedlingen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Individer, 16 år och äldre"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Individer, 16 år och äldre"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Registervarianten innehåller samtliga personer 16 år och äldre, som varit folkbokförda i Sverige den 31/12 respektive år.\r\n\r\nSe LISA:s Bakgrundsfakta för mer information om respektive variabel, www.scb.se/LISA"
+    },
+    {
+      "name": "Registernamn",
+      "value": "Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier (LISA)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Longitudinell integrationsdatabas (LISA)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Statistikdatabasen LISA:s syfte är att utgöra underlag för beskrivning och analys avseende individers övergångar mellan exempelvis perioder med förvärvsarbete, arbetslöshet och sjukdom kopplade till ett stort antal bakgrundsvariabler. "
+    }
+  ],
+  "id": "c201b4b01bddc9afb938f9da07c3b862e320845a623c817d6767cce39f1628b1"
+}

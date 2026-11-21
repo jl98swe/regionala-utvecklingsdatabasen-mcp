@@ -1,0 +1,528 @@
+{
+  "version": "Enhetsindelning 1999",
+  "level": "6-siffrig kod  ",
+  "data_type": "char(6)",
+  "values": [
+    {
+      "code": "000000",
+      "label": "Okänt"
+    },
+    {
+      "code": "110131",
+      "label": "Icke-finansiella företag Statligt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "110149",
+      "label": "Icke-finansiella företag Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "110161",
+      "label": "Icke-finansiella företag Statligt ägande Ideella föreningar"
+    },
+    {
+      "code": "110172",
+      "label": "Icke-finansiella företag Statligt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "110231",
+      "label": "Icke-finansiella företag Kommunalt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "110249",
+      "label": "Icke-finansiella företag Kommunalt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "110251",
+      "label": "Icke-finansiella företag Kommunalt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "110253",
+      "label": "Icke-finansiella företag Kommunalt ägande Bostadsrättsföreningar"
+    },
+    {
+      "code": "110261",
+      "label": "Icke-finansiella företag Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "110272",
+      "label": "Icke-finansiella företag Kommunalt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "110921",
+      "label": "Icke-finansiella företag Övrigt ägande Enkla bolag"
+    },
+    {
+      "code": "110922",
+      "label": "Icke-finansiella företag Övrigt ägande Partrederier\n"
+    },
+    {
+      "code": "110931",
+      "label": "Icke-finansiella företag Övrigt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "110949",
+      "label": "Icke-finansiella företag Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "110951",
+      "label": "Icke-finansiella företag Övrigt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "110953",
+      "label": "Icke-finansiella företag Övrigt ägande Bostadsrättsföreningar"
+    },
+    {
+      "code": "110961",
+      "label": "Icke-finansiella företag Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "110962",
+      "label": "Icke-finansiella företag Övrigt ägande Samfällighetsföreningar, vägföreningar, vägsamfälligheter"
+    },
+    {
+      "code": "110972",
+      "label": "Icke-finansiella företag Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "110999",
+      "label": "Icke-finansiella företag Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "120181",
+      "label": "Statliga affärsverk Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "130941",
+      "label": "Filialer till icke-finansiella företag i utlandet Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "130996",
+      "label": "Filialer till icke-finansiella företag i utlandet Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "140187",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Statligt ägande Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "140249",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Kommunalt kontrollerade enheter Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "140921",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Övrigt ägande Enkla bolag"
+    },
+    {
+      "code": "140949",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "140951",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Övrigt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "140961",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "140972",
+      "label": "Icke-finansiella företags icke-vinstdrivande organisationer Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "211181",
+      "label": "Centralbanker Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "212141",
+      "label": "Banker (utom centralbanker) Statligt ägande Bankaktiebolag"
+    },
+    {
+      "code": "212941",
+      "label": "Banker (utom centralbanker) Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "212993",
+      "label": "Banker (utom centralbanker) Övrigt ägande Sparbanker"
+    },
+    {
+      "code": "213941",
+      "label": "Bankfilialer till banker i utlandet Övrigt ägande Bankaktiebolag"
+    },
+    {
+      "code": "214149",
+      "label": "Bostadsinstitut Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "214949",
+      "label": "Bostadsinstitut Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "214988",
+      "label": "Bostadsinstitut Övrigt ägande Hypoteksföreningar"
+    },
+    {
+      "code": "215149",
+      "label": "Andra monetära kreditmarknadsföretag Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "215249",
+      "label": "Andra monetära kreditmarknadsföretag Kommunalt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "215949",
+      "label": "Andra monetära kreditmarknadsföretag Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "215988",
+      "label": "Andra monetära kreditmarknadsföretag Övrigt ägande Hypoteksföreningar"
+    },
+    {
+      "code": "216923",
+      "label": "Monetära värdepappersfonder Övrigt ägande Värdepappersfonder\n"
+    },
+    {
+      "code": "221149",
+      "label": "Icke-monetära kreditmarknadsföretag Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "221949",
+      "label": "Icke-monetära kreditmarknadsföretag Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "222996",
+      "label": "Icke-monetära värdepappersfonder Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "223149",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "223949",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "223996",
+      "label": "Icke-monetära värdepappersbolag och fondkommissionärer Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "224949",
+      "label": "Investmentbolag Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "229949",
+      "label": "Övriga finansinstitut Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "229972",
+      "label": "Övriga finansinstitut Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "229999",
+      "label": "Övriga finansinstitut Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "231142",
+      "label": "Försäkringsföretag och pensionsinstitut utom pensionsstiftelser och understödsföreningar Statligt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "231242",
+      "label": "Försäkringsföretag och pensionsinstitut utom pensionsstiftelser och understödsföreningar Kommunalt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "231942",
+      "label": "Försäkringsföretag och pensionsinstitut utom pensionsstiftelser och understödsföreningar Övrigt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "231992",
+      "label": "Försäkringsföretag och pensionsinstitut utom pensionsstiftelser och understödsföreningar Övrigt ägande Ömsesidiga försäkringsbolag"
+    },
+    {
+      "code": "232996",
+      "label": "Filialer till försäkringsföretag och pensionsinstitut i utlandet Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "233242",
+      "label": "Pensionsstiftelser och understödsföreningar Kommunalt ägande Försäkringsaktiebolag"
+    },
+    {
+      "code": "233961",
+      "label": "Pensionsstiftelser och understödsföreningar Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "233972",
+      "label": "Pensionsstiftelser och understödsföreningar Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "233994",
+      "label": "Pensionsstiftelser och understödsföreningar Övrigt ägande Understödsföreningar"
+    },
+    {
+      "code": "240149",
+      "label": "Finansiella serviceföretag Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "240931",
+      "label": "Finansiella serviceföretag Övrigt ägande Handelsbolag, kommanditbolag"
+    },
+    {
+      "code": "240949",
+      "label": "Finansiella serviceföretag Övrigt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "240951",
+      "label": "Finansiella serviceföretag Övrigt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "250961",
+      "label": "Finansiella företags icke-vinstdrivande organisationer Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "250972",
+      "label": "Finansiella företags icke-vinstdrivande organisationer Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "311181",
+      "label": "Statlig förvaltning utom Riksgäldskontoret Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "311189",
+      "label": "Statlig förvaltning utom Riksgäldskontoret Statligt ägande Regionala statliga myndigheter"
+    },
+    {
+      "code": "311972",
+      "label": "Statlig förvaltning utom Riksgäldskontoret Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "312181",
+      "label": "Riksgäldskontoret Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "320149",
+      "label": "Andra institutioner hänförliga till statliga sektorn Statligt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "320161",
+      "label": "Andra institutioner hänförliga till statliga sektorn Statligt ägande Ideella föreningar"
+    },
+    {
+      "code": "320172",
+      "label": "Andra institutioner hänförliga till statliga sektorn Statligt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "320185",
+      "label": "Andra institutioner hänförliga till statliga sektorn Statligt ägande Allmänna försäkringskassor"
+    },
+    {
+      "code": "320187",
+      "label": "Andra institutioner hänförliga till statliga sektorn Statligt ägande Offentliga korporationer och anstalter"
+    },
+    {
+      "code": "320261",
+      "label": "Andra institutioner hänförliga till statliga sektorn Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "320272",
+      "label": "Andra institutioner hänförliga till statliga sektorn Kommunalt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "320285",
+      "label": "Andra institutioner hänförliga till statliga sektorn Kommunalt ägande Allmänna försäkringskassor"
+    },
+    {
+      "code": "320961",
+      "label": "Andra institutioner hänförliga till statliga sektorn Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "320972",
+      "label": "Andra institutioner hänförliga till statliga sektorn Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "411282",
+      "label": "Primärkommuner Kommunalt ägande Kommuner"
+    },
+    {
+      "code": "412261",
+      "label": "Kommunalförbund som till övervägande del består av kommuner Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "412283",
+      "label": "Kommunalförbund som till övervägande del består av kommuner Kommunalt ägande Kommunalförbund"
+    },
+    {
+      "code": "413249",
+      "label": "Andra institutioner hänförliga till primärkommunal undersektor Kommunalt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "413251",
+      "label": "Andra institutioner hänförliga till primärkommunal undersektor Kommunalt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "413261",
+      "label": "Andra institutioner hänförliga till primärkommunal undersektor Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "413272",
+      "label": "Andra institutioner hänförliga till primärkommunal undersektor Kommunalt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "413972",
+      "label": "Andra institutioner hänförliga till primärkommunal undersektor Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "421284",
+      "label": "Landsting Kommunalt ägande Landsting"
+    },
+    {
+      "code": "423249",
+      "label": "Andra institutioner hänförliga till landstingskommunal undersektor Kommunalt ägande Aktiebolag utom bank- och försäkringsaktiebolag"
+    },
+    {
+      "code": "423261",
+      "label": "Andra institutioner hänförliga till landstingskommunal undersektor Kommunalt ägande Ideella föreningar"
+    },
+    {
+      "code": "423272",
+      "label": "Andra institutioner hänförliga till landstingskommunal undersektor Kommunalt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "500172",
+      "label": "Socialförsäkringsfonder Statligt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "500181",
+      "label": "Socialförsäkringsfonder Statligt ägande Statliga enheter"
+    },
+    {
+      "code": "611910",
+      "label": "Hushåll med företagarinkomst från rörelse med anställda Övrigt ägande Fysiska personer"
+    },
+    {
+      "code": "611921",
+      "label": "Hushåll med företagarinkomst från rörelse med anställda Övrigt ägande Enkla bolag"
+    },
+    {
+      "code": "611961",
+      "label": "Hushåll med företagarinkomst från rörelse med anställda Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "611971",
+      "label": "Hushåll med företagarinkomst från rörelse med anställda Övrigt ägande Familjestiftelser\n"
+    },
+    {
+      "code": "611991",
+      "label": "Hushåll med företagarinkomst från rörelse med anställda Övrigt ägande Dödsbon"
+    },
+    {
+      "code": "612910",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Fysiska personer"
+    },
+    {
+      "code": "612921",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Enkla bolag"
+    },
+    {
+      "code": "612922",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Partrederier"
+    },
+    {
+      "code": "612961",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "612971",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "612991",
+      "label": "Hushåll med företagarinkomst från rörelse utan anställda Övrigt ägande Dödsbon"
+    },
+    {
+      "code": "710172",
+      "label": "Hushållens icke-vinstdrivande organisationer Statligt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "710187",
+      "label": "Hushållens icke-vinstdrivande organisationer Statligt ägande Offentliga korporationer och anstalter\n"
+    },
+    {
+      "code": "710251",
+      "label": "Hushållens icke-vinstdrivande organisationer Kommunalt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "710261",
+      "label": "Hushållens icke-vinstdrivande organisationer Kommunalt ägande Ideella föreningar\n"
+    },
+    {
+      "code": "710262",
+      "label": "Hushållens icke-vinstdrivande organisationer Kommunalt ägande Samfällighetsföreningar, vägföreningar, vägsamfälligheter"
+    },
+    {
+      "code": "710272",
+      "label": "Hushållens icke-vinstdrivande organisationer Kommunalt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "710921",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Enkla bolag\n"
+    },
+    {
+      "code": "710951",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Ekonomiska föreningar utom bostadsrättsföreningar"
+    },
+    {
+      "code": "710961",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "710962",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Samfällighetsföreningar, vägföreningar, vägsamfälligheter"
+    },
+    {
+      "code": "710971",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Familjestiftelser"
+    },
+    {
+      "code": "710972",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "710995",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Arbetslöshetskassor"
+    },
+    {
+      "code": "710996",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "710998",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Övriga svenska juridiska personer bildade enligt särskild lagstiftning"
+    },
+    {
+      "code": "710999",
+      "label": "Hushållens icke-vinstdrivande organisationer Övrigt ägande Juridisk form ej utredd"
+    },
+    {
+      "code": "721961",
+      "label": "Svenska kyrkan Övrigt ägande Ideella föreningar"
+    },
+    {
+      "code": "721972",
+      "label": "Svenska kyrkan Övrigt ägande Övriga stiftelser och fonder, inkl pensionsstiftelser och personalstiftelser"
+    },
+    {
+      "code": "721986",
+      "label": "Svenska kyrkan Övrigt ägande Enheter inom svenska kyrkan"
+    },
+    {
+      "code": "722963",
+      "label": "Andra registrerade trossamfund Övrigt ägande Registrerade trossamfund\n"
+    },
+    {
+      "code": "811996",
+      "label": "EU:s medlemsländer Övrigt ägande Utländska juridiska personer"
+    },
+    {
+      "code": "820996",
+      "label": "Övriga utlandet Övrigt ägande Utländska juridiska personer"
+    }
+  ],
+  "id": "ca6684b57e045ea38cdb370e2cdcafe8c1c4db844d7e5d2800a8f1dd870e0d47"
+}
