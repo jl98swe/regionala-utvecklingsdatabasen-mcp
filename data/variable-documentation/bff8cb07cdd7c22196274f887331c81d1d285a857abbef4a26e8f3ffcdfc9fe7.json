@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Sjukfall, nettodagar"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antalet utbetalda dagar som avser händelser som skett under året. Antalet utbetalda nettodagar är bruttodagar *omfattningen under ett år."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Modellberäknat genomsnittligt antal arbetade timmar. Härrör från en modellberäkning baserad på arbetade timmar som samlas in i konjunkturlöneundersökningarna som fördelas ut över sektor och bransch."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Longitudinell integrationsdatabas (LISA) : Individer, 15 år och äldre"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Dagar"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "bff8cb07cdd7c22196274f887331c81d1d285a857abbef4a26e8f3ffcdfc9fe7"
+}

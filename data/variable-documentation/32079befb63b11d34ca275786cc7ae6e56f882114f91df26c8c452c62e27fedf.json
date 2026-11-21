@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Disponibel inkomst i förhållande till levnadsnivå"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Disponibel inkomst i förhållande till levnadsnivå."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Levnadsnivå skapas utifrån familjens disponibla inkomst med hänsyn tagen till medelhyra i hyreslägenhet och aktuellt års prisbasbelopp. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd variabler från IoT och RTB. Disponibel inkomst i STATIV är samma som disponibel inkomst i Inkomst- och taxeringsregistret.   Ekonomiskt bistånd fördelas olika i STATIV och IoT. I STATIV fördelas beloppet på samtliga familjemedlemmar (individer med samma LopKom  och HID ) över 18 år. I beräkningen av DispInkLevN används fördelningen i STATIV. Beräknas utifrån den disponibla inkomsten i IoT. Anges i procent. T.ex. 134 procent betyder att familjen har en disponibel inkomst som är 34 procent högre än den levnadsnivå som gäller för den familjens storlek och sammansättning.  Om ett värde finns i variabeln DispInkLevN för ett barn så baseras det på familjens sammanlagda inkomster. Från och med 2020 ingår även nordiska inkomster. IoT har man även lagt till dessa inkomster bakåt i tiden till och med år 2011."
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Kronor (SEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Från och med 2016  har boendekostnader som används för att beräkna levnadsnivå hämtas från Boende, byggande och bebyggelse>>Hyror i bostadslägenheter>>Hyror 2016–2017, http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0406__BO0406E/BO0406Tab05/?rxid=c1e9dbf0-7207-45a1-9d11-aa5a5e4909de. Välj tabellinnehåll: Medelhyra i hyreslägenhet, region (välj alla), antal rum (välj alla), Alla byggår, Ny månadshyra per lägen-het, År. Beloppet är årsuppräknat. Därmed måste månadshyra multipli-ceras med 12. \r\n2015 hämtades boendekostnader från SSD: Boende, byggande och be-byggelse>>Hyror i bostadslägenheter>>Hyror m.m. för hyreslägenheter 2003–2015. http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0406__BO0406A/Bhudef4ny/?rxid=933bb83a-79a8-4e2f-8aae-cbd989b8b3f2.  Välj tabellinnehåll: Ny månadshyra per lägenhet, kr, välj regionerna, värdeår, skippa årsintervall, välj lägenhetstyp och sedan aktuellt år.\r\nInnan 2015 hämtades boendekostnaden från http://www.scb.se/BO0406/ Hyr"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "32079befb63b11d34ca275786cc7ae6e56f882114f91df26c8c452c62e27fedf"
+}

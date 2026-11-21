@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Sammanräknad förvärvsinkomst"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Beräknad inkomst av tjänst och näringsverksamhet i deklarationen."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Skapad variabel i IoT. Inkomst av tjänst beräknat med utgångspunkt från deklarerade delbelopp(TTJ>0) + inkomst av näringsverksamhet(NRV).     Inkomster till följd av passiv näringsverksamhet förkommer i både SamRakFInk och SumKapInk i STATIV. Anges i hundratal kronor. Negativa värden kan förekomma."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Inkomst och taxering (IoT) : Individer och dödsbon"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "100-tal kronor"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": "Från och med 2020 ingår även nordiska inkomster. I Inkomst- och taxeringsregistret har man även lagt till dessa inkomster bakåt i tiden till och med år 2011.\r\n\r\nVariabler om ekonomiskt bistånd hämtas från Socialstyrelsen. För mer information om ekonomiskt bistånd samt riksnorm över tid, se http://www.socialstyrelsen.se/ekonomisktbistand. \r\n\r\nI STATIV finns inga uppgifter om var en person har bott under året, utan enbart information om den aktuella folkbokföringskommunen 31/12. En person kan alltså ha flyttat under året och fått ekonomiskt bistånd från någon annan kommun än den aktuella folkbokföringskommunen. Därför stämmer inte de totala utbetalda beloppen per kommun i STATIV överens med de totala utbetalda beloppen i Socialstyrelsens publicering.\r\nFrån och med 2012 ingår inte längre introduktionsersättning i Socialstyrelsens insamling till statistiken om ekonomiskt bistånd. \r\n\r\nAnges i hundratal kronor.\r\n\r\nInkomster till följd av passiv näringsverksamhet förkommer i både SamRakFInk o"
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV är ett register vars huvudsakliga syfte är att utgöra underlag för den officiella \r\nstatistiken över integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Primärt är det respektive myndighet som samlar in och registrerar uppgifterna i \r\nadministrativa syften. Eftersom informationen samlas in för administrativa syften är \r\ndet också myndigheters register och administrativa system som styr vad och hur det \r\nsamlas in. Det sker ingen direktinsamling för STATIV."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "8ae63a14942b452a258715894e8933ed3d460b3467fb1ec7199f3d7af9ef40d1"
+}
