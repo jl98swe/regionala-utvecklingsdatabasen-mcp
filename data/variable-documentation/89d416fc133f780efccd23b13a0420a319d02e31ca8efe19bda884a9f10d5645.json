@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "smalldatetime"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Källtid"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Datum för angivelse från källa."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Aktualiteten bedöms vara olika för olika källor och källtiden skrivs därför tillbaka mellan 0 och 480 dagar. Datum när företaget blev inaktivt avseende moms- och/eller f-skatt och/eller arbetsgivarregistrering."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Företagsdatabasen (FDB) : Arbetsställeenheter"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "Datum"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Innehåller samtliga arbetsställen vid aktuell tidpunkt."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga arbetsställen i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Arbetsställeenheten (AE) är en geografiskt avgränsad del av ett företag (en adress) där verksamhet bedrivs. Matrisen omfattar både verksamma och nedlagda arbetsställeenheter."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Samtliga  arbetsställeenheter (AE) som fanns registrerade i november 2007."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2007-11-30"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Samtliga uppgifter om arbetsställen är hämtade direkt från Företagsdatabasen och Koncernregistret, bortsett från några få kombinationsvariabler som är konstruerade med hjälp av information från Företagsdatabasen."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Arbetsställeenhet"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Arbetsställeenhet är en del av (eller ett helt) företag som finns på en geografiskt identifierad plats (adress, fastighet edy). På denna plats bedrivs ekonomisk verksamhet inom företaget vilken (med vissa specificerade undantag) sysselsätter en eller flera personer."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Arbetsställeenheter"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Arbetsställeenheter"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Arbetsställeenheten (AE) är en geografiskt avgränsad del av ett företag (en adress) där verksamhet bedrivs. Omfattar både verksamma och nedlagda arbetsställeenheter. Används bl.a. vid beställningar av tidsserier."
+    },
+    {
+      "name": "Registernamn",
+      "value": "SCB:s företagsregister"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "SCB:s företagsregister"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "SCB ska, enligt förordning SFS 1984:692, hålla ett allmänt företagsregister. Registret innehåller samtliga registrerade företag i Sverige och dess arbetsställen. "
+    }
+  ],
+  "id": "89d416fc133f780efccd23b13a0420a319d02e31ca8efe19bda884a9f10d5645"
+}

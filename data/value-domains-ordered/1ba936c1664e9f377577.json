@@ -1,0 +1,1192 @@
+{
+  "schema_version": "2.0",
+  "source": "https://mikrometadata.scb.se/",
+  "group_id": "1ba936c1664e9f377577",
+  "register": "SCB:s företagsregister",
+  "variant": "Arbetsställeenheter",
+  "bindings": [
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "1999",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "cdf9e9973bc2f17a1210d088bd3be3438140f021b3848ac721f8a031b5ddbee2",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "175ce449f0dce549a808bb836fee2398f30a362f41da4836c8a297e4ce121a5d",
+        "path": "data/variable-documentation/175ce449f0dce549a808bb836fee2398f30a362f41da4836c8a297e4ce121a5d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2000",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "b9de3f5431c11265e8bc5c7778a5d4b7191777af47b6d7677ff5c25edb10c528",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "505efea683b835c6785857c66c2540d14665dca1f793fb10a807ff01ab05a527",
+        "path": "data/variable-documentation/505efea683b835c6785857c66c2540d14665dca1f793fb10a807ff01ab05a527.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2001",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "49c5faa66eca7b9a017b8bd66074e4a5d30ab92948ed610c0d8302db3adb9850",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cff4abe4f88efd96ab06bd83760b82cdbc882359d08d9d6330fcf14edca3984",
+        "path": "data/variable-documentation/1cff4abe4f88efd96ab06bd83760b82cdbc882359d08d9d6330fcf14edca3984.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2002",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "70f32fa29594175211b734ef8d314d11fce5c3c553faaad15da914482cf86aaf",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1ad950fd1c8aeb1194ee7bbe7b3e5dc2260f9b91f4dff549f5c714de17fb541a",
+        "path": "data/variable-documentation/1ad950fd1c8aeb1194ee7bbe7b3e5dc2260f9b91f4dff549f5c714de17fb541a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2003",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "a1525b9cc0af5e5b9e9a279421631e3afdfa7b722ba56cc8ebf48eba0ed3e093",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ba3d2c25d2403cd2fc93736d562a7233e4cdacab509105d092183b1f6f668a0",
+        "path": "data/variable-documentation/8ba3d2c25d2403cd2fc93736d562a7233e4cdacab509105d092183b1f6f668a0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2004",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "547cbc359f3cf9e6d5c7b31a9e1692f3e381df05702fdcb0069beb510db01230",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3d7842af903d3ec7fbeb9b2cbc6793598ccadf9a244794fbdb612b624c5dbf2d",
+        "path": "data/variable-documentation/3d7842af903d3ec7fbeb9b2cbc6793598ccadf9a244794fbdb612b624c5dbf2d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2005",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "4b50861fff956a2bd9e15770dcc2aeab3becb7fb26b4f3fb3319ed6803f41bd5",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e320b59e0e942dd6c0336136c50de59521e427f4faf8aed88d64c936342d5a9",
+        "path": "data/variable-documentation/8e320b59e0e942dd6c0336136c50de59521e427f4faf8aed88d64c936342d5a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2006",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "fbd5b5949f50c7d316bf8e9edf7abadab59e0df5ae57811b5ab8ab3d62aaa565",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "114794fe1a9fa29030ff32ff065d0c6a5098075d94c47e23e58e827ab8201d15",
+        "path": "data/variable-documentation/114794fe1a9fa29030ff32ff065d0c6a5098075d94c47e23e58e827ab8201d15.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2007",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "88207ca00242b457e6707bf95cacc486361de68f422ff6ef66d57e4e65b073e7",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89d416fc133f780efccd23b13a0420a319d02e31ca8efe19bda884a9f10d5645",
+        "path": "data/variable-documentation/89d416fc133f780efccd23b13a0420a319d02e31ca8efe19bda884a9f10d5645.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2008",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "39b26ef6c390754f2b517b478e54502da7c8ff3f0f846418f161b9f9dafbb5f4",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "591c74bcf268bd8b22ba02ed279996b366cd7ab5e8eed98c9235979850399f9c",
+        "path": "data/variable-documentation/591c74bcf268bd8b22ba02ed279996b366cd7ab5e8eed98c9235979850399f9c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2009",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "be88e86a3d6548b84d15a6a9e33d46d52d66bab237477fea7cf3ab0e7b94b2cd",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "89f223ca2d2ae4311a0a370fd645de37cd464b628edf5c04d0cb494d9b8c7e1e",
+        "path": "data/variable-documentation/89f223ca2d2ae4311a0a370fd645de37cd464b628edf5c04d0cb494d9b8c7e1e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2010",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "d5035227fb8f8455f8931edae97e72ead0daa046e45719026e834ffe763e605a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c880a1fb80ca08504699c66255a5fad464d6d28ad36c47135ec5ad1aff55c55",
+        "path": "data/variable-documentation/0c880a1fb80ca08504699c66255a5fad464d6d28ad36c47135ec5ad1aff55c55.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2011",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "c47f5fa973da259af8737f3dd7d2e991cca56c742cdd2bb68670bb534fc0a83c",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d5b82d1cff5b3c1ccc10c8727fa73490aa627d72b354d8529ba807eeac000843",
+        "path": "data/variable-documentation/d5b82d1cff5b3c1ccc10c8727fa73490aa627d72b354d8529ba807eeac000843.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2012",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "bede37906f0006fe77df3e33ed46ccfec01daa3eb35ceddb044713233706dde9",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9b27b87383cc659d06f9d258621bfdadb54a1454b39aa4813fa7e9e62552871b",
+        "path": "data/variable-documentation/9b27b87383cc659d06f9d258621bfdadb54a1454b39aa4813fa7e9e62552871b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2013",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "85a68be0da6f15b55b045da389530d450919c87d89a9941e6e894ab0eac629ea",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "07a47ba365070b3ed7599d726aa6faf90b9ad6d43710d56d0b9c6cb7372c0c8e",
+        "path": "data/variable-documentation/07a47ba365070b3ed7599d726aa6faf90b9ad6d43710d56d0b9c6cb7372c0c8e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2014",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "76a82dc304d63746f69db912e478dc641188102831b19b5f32c9c3dbadf7e63d",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3262269fc85d1b2aa5c3fdf25e3e5f4d450a8db08bdca84baa834fbe1d9c70c0",
+        "path": "data/variable-documentation/3262269fc85d1b2aa5c3fdf25e3e5f4d450a8db08bdca84baa834fbe1d9c70c0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2015",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "332c709e22aef3203f5747a20103bfc72982d3a27e6d8c74eed72327da42c907",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4ac1cf022696a44ce84ddd9aaa67d0d76845357314b06cd037287b712907d23",
+        "path": "data/variable-documentation/a4ac1cf022696a44ce84ddd9aaa67d0d76845357314b06cd037287b712907d23.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2016",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "acc37091083a8a371452ca83ffa6a0dceb2e74f3ceee162fa3a56fcec2a24839",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "177ff3f5e23edf277dfd399812242604cf672550d647951d746cceca01638eef",
+        "path": "data/variable-documentation/177ff3f5e23edf277dfd399812242604cf672550d647951d746cceca01638eef.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2017",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "9c019c94dea69861268f67e91594788e0ff7c321ec95be6a9258d05687f536ef",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c0c083b56568d447f8c74bf0fc4420c46baea3902fd8ed1358994f8e566ab856",
+        "path": "data/variable-documentation/c0c083b56568d447f8c74bf0fc4420c46baea3902fd8ed1358994f8e566ab856.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "SlutDatKtid",
+      "variable": "Källtid",
+      "register_version": "2018",
+      "source_task_id": "1907a4f4eea361a9d32e930b45d4de0dc019d5d54ce378e7006656529ff888ab",
+      "id": "10209af9c69a36f7da139300da41bda932298e5ee667f8c9e6d56139c316947c",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "SlutDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 303,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f1ba2655766f95dae7795245415ff0defc04ded074d796f4087d79758e18aff3",
+        "path": "data/variable-documentation/f1ba2655766f95dae7795245415ff0defc04ded074d796f4087d79758e18aff3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "1999",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "b0bfd95d04ef1e1b604ab48581eab79e70f18553bf90c7895710f57380b5c910",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6da139f9c4341210d250217bff77ffe745072b42f7c1bf26a9a745e32ea9e1fb",
+        "path": "data/variable-documentation/6da139f9c4341210d250217bff77ffe745072b42f7c1bf26a9a745e32ea9e1fb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2000",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "17250d46ca507eed3650f0a77aba3b3f85ef95112c9b94f017335d1829948779",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "353820bd34394691895eda3b47b03b3a6a5f6dad585df6322ea8acf2e4df5ae7",
+        "path": "data/variable-documentation/353820bd34394691895eda3b47b03b3a6a5f6dad585df6322ea8acf2e4df5ae7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2001",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "04888d0bae88ec067b9e77617e6962d5185bad4d9dd7a46abf73ba3156ecde14",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "201148d83507f79cb1f3e5d8828ac0b786cf1fa6fd13d44c51de07d7f5b25731",
+        "path": "data/variable-documentation/201148d83507f79cb1f3e5d8828ac0b786cf1fa6fd13d44c51de07d7f5b25731.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2002",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "9dce3587dae044a90706dc04ca605a8d5dd09a0e8b987fe3dc14b5000c028111",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4948c40cd1fda67295334a919058167a5abd90ba9002b412cdaa8c7723694a85",
+        "path": "data/variable-documentation/4948c40cd1fda67295334a919058167a5abd90ba9002b412cdaa8c7723694a85.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2003",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "64d91451af6a24f528751c3fe73078262c46cada9d17c7b81c01886e2f3b3f8d",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3c184fe72ea09acd8c943e557338bc55da7f7e59c3090cc63101f7d325c76862",
+        "path": "data/variable-documentation/3c184fe72ea09acd8c943e557338bc55da7f7e59c3090cc63101f7d325c76862.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2004",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "905b6b89fb282070d3205ac913b246fa9f28325a7e8f9758c403ed34ddfb17ad",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d4975016d94a0405ed8aaa66307f276759381a03c2407a102e12f3dfa463a9b3",
+        "path": "data/variable-documentation/d4975016d94a0405ed8aaa66307f276759381a03c2407a102e12f3dfa463a9b3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2005",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "dda577bd36d7b95b61eb2631fc530969548f0f6e2aa92a3e6c780512f48d83ef",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9d4e87330ad0ac3c949b591ec69a77c5190679aebe0e9b5c8695dc7fe7c36435",
+        "path": "data/variable-documentation/9d4e87330ad0ac3c949b591ec69a77c5190679aebe0e9b5c8695dc7fe7c36435.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2006",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "450fe31c3005ff2563fe489e4ef10810bac6cdbfba67ca45275dfa9a730ebd33",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "93202ac5d7c33f72b57a8cab940591698c7a51a6f50a6089f035ca6e52e15566",
+        "path": "data/variable-documentation/93202ac5d7c33f72b57a8cab940591698c7a51a6f50a6089f035ca6e52e15566.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2007",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "6edf0dd0e6e059eaa753e9f89fe5978e59968324111aa5c0497ccadd2301cfe9",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "43c57aab15e9f0b86c1c2e584e96682f82eaeb6d168239a61bd21ac648dc4c84",
+        "path": "data/variable-documentation/43c57aab15e9f0b86c1c2e584e96682f82eaeb6d168239a61bd21ac648dc4c84.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2008",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "d5066f4ad3d65df76e1f756a35d581d929c8ddc3b160a6696d87a19e830c6ecf",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "42dd91faccbae914db9a5edfba3656f2a4f0824b353215fb9feff0015729dc49",
+        "path": "data/variable-documentation/42dd91faccbae914db9a5edfba3656f2a4f0824b353215fb9feff0015729dc49.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2009",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "a371cfe6efecbad03e5297276d45914ff35ac1935196f3b4102d3e2e575acb48",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "31e32de425da3c784501307e4b457345815f6c6b8c22d4b9ec94a050e04770a1",
+        "path": "data/variable-documentation/31e32de425da3c784501307e4b457345815f6c6b8c22d4b9ec94a050e04770a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2010",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "91aca0452c60b66f145737d9d48cbbed52472c90173bf473f4c516bb4e62edcd",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cf6698d2f689d9aaa773940ae2cefb85f171b8358ee14a31f724202cc6c3b4e6",
+        "path": "data/variable-documentation/cf6698d2f689d9aaa773940ae2cefb85f171b8358ee14a31f724202cc6c3b4e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2011",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "79ae3f63ed1bbaa4dba6c44f83449723dd169274782984a5d5ac6d2c4ed59fe3",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8dc19c5ee81d28639a93d573b59276b02aedcc0a4b7c3ed7b84774d3f97ec643",
+        "path": "data/variable-documentation/8dc19c5ee81d28639a93d573b59276b02aedcc0a4b7c3ed7b84774d3f97ec643.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2012",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "033b5d7b3effb904a4d7882e5c9a082ab21027b5c22c8d7fa55f98cf5ae28b0b",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ccc79a82918bb3f36f87828fb9d52bde837e8a62c494965a273881cda893347d",
+        "path": "data/variable-documentation/ccc79a82918bb3f36f87828fb9d52bde837e8a62c494965a273881cda893347d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2013",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "3ec65dd381a71508d0347c0652ecfddfc65505e258e4f9aa3d769fe4018c5e2a",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f5c896a6b6c41061ef05881e37efe48ff5a9a26cbb50c26cac4cf091a145eca1",
+        "path": "data/variable-documentation/f5c896a6b6c41061ef05881e37efe48ff5a9a26cbb50c26cac4cf091a145eca1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2014",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "3e3509bd3ecd4705817dd7900bd66391af9fb19daa614206e79be7899fca6865",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "55e8e0b95abf4cdaf3ead7396686395349b0aba67133dd8657aa21e0ca5b90a3",
+        "path": "data/variable-documentation/55e8e0b95abf4cdaf3ead7396686395349b0aba67133dd8657aa21e0ca5b90a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2015",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "29f3f3203d134c2fd8a373bb9b50a990c10e61779661556dd5c4ab66a1b24b58",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "40c2f576a8523b4fc1d892fd3a01186762d9c5d31e097364e2378aa77fe76407",
+        "path": "data/variable-documentation/40c2f576a8523b4fc1d892fd3a01186762d9c5d31e097364e2378aa77fe76407.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2016",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "4fdc846c3ed51aa22f5765b5a09bf319b2f1f17569169746af194e0e47a35833",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "558701ed020b514b7800f94d4ce30e47f9399c7cfa14cbd0cc1bfa531c93bda6",
+        "path": "data/variable-documentation/558701ed020b514b7800f94d4ce30e47f9399c7cfa14cbd0cc1bfa531c93bda6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2017",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "4ec50154aa4eae37b2652604066af703b454f8319937399725dd5e03d5a9730e",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0bc6f3ea3acd1349002166021436e95fa709f6d1cccef5bb45330e27764eedc4",
+        "path": "data/variable-documentation/0bc6f3ea3acd1349002166021436e95fa709f6d1cccef5bb45330e27764eedc4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    },
+    {
+      "register": "SCB:s företagsregister",
+      "variant": "Arbetsställeenheter",
+      "column": "StartDatKtid",
+      "variable": "Källtid",
+      "register_version": "2018",
+      "source_task_id": "f0066ffc170ce6a909071e8b0fc16e49478ce0d958a24786cadd2ebbaf1fabb3",
+      "id": "6a4230ff426f25bb8b5619b94239a2bbee8957b8a01113f899da95f7e3179bb7",
+      "domain_id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T06:46:15+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "StartDatKtid",
+          "ar_raw": "1999-2018",
+          "kallrad": 304,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cfc2309a2852d68ad410028f6f496f551c0732cd4802c8eda22066e82a3c450",
+        "path": "data/variable-documentation/1cfc2309a2852d68ad410028f6f496f551c0732cd4802c8eda22066e82a3c450.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T06:46:15+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "smalldatetime",
+      "id": "a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a",
+      "value_count": 0,
+      "path": "data/value-domain-values/a99b21a84e92cd8fd3052cf78542491cb90d596d2b17ac98160f0dd3d0f4d43a.json"
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 1,
+    "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
+    "task_sha256": "c15089dc5c9e95365eb1adbf20c05d11b594d4f14515240d425c638e2ab4907a",
+    "source_updated": "2026-11-15",
+    "retrieved_at": "2026-11-21T06:46:15+00:00",
+    "task_count": 2,
+    "expected_bindings": 40,
+    "documented_bindings": 40,
+    "errors": []
+  }
+}
