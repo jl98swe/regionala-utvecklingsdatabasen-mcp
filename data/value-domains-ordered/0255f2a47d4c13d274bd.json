@@ -10,6 +10,151 @@
       "variant": "Arbetsställeenheter",
       "column": "AEStat",
       "variable": "Arbetsställeenhetens status",
+      "register_version": "1999",
+      "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
+      "id": "f05326163a5c1c8403e749e7227d80ec82a15d6fe14f1bfe457ba58200500670",
+      "domain_id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AEStat",
+          "ar_raw": "1999-2018",
+          "kallrad": 290,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc8df4f89de34e467f6304f3ffd992df0f5806229beda024843a1f3d844f9057",
+        "path": "data/variable-documentation/cc8df4f89de34e467f6304f3ffd992df0f5806229beda024843a1f3d844f9057.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AEStat",
+      "variable": "Arbetsställeenhetens status",
+      "register_version": "2000",
+      "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
+      "id": "1047fd4415db185f83d0d0a791615c569a7daeb88e7010fbf934ad1f73b838dd",
+      "domain_id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AEStat",
+          "ar_raw": "1999-2018",
+          "kallrad": 290,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c88d0b931171c7df684792b25390c3fe26b68e0f4428852dc97cec3fd9ccf522",
+        "path": "data/variable-documentation/c88d0b931171c7df684792b25390c3fe26b68e0f4428852dc97cec3fd9ccf522.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AEStat",
+      "variable": "Arbetsställeenhetens status",
+      "register_version": "2001",
+      "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
+      "id": "c2ab395600bb65748eb687c8690caf6b79d819a51825f22dfee842e5fc579d5b",
+      "domain_id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AEStat",
+          "ar_raw": "1999-2018",
+          "kallrad": 290,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "348d1ebcdaf66571fc25517e0b9c2d520d59d5e4fbc606d2b898b8322d29492e",
+        "path": "data/variable-documentation/348d1ebcdaf66571fc25517e0b9c2d520d59d5e4fbc606d2b898b8322d29492e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AEStat",
+      "variable": "Arbetsställeenhetens status",
+      "register_version": "2002",
+      "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
+      "id": "eb76266f8cc0322b9122ddeb39e85bf8c7bae345a2cdd4835c635ab4c3362db1",
+      "domain_id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AEStat",
+          "ar_raw": "1999-2018",
+          "kallrad": 290,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c8921ef723f82db73c12992e71598198afc0efd9058a2e0bddf49939813c57e8",
+        "path": "data/variable-documentation/c8921ef723f82db73c12992e71598198afc0efd9058a2e0bddf49939813c57e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AEStat",
+      "variable": "Arbetsställeenhetens status",
+      "register_version": "2003",
+      "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
+      "id": "e1a726ea16a1ccec5347c762fbf7632c8b8a39bdbf9a552cf15c1b33d0220b3e",
+      "domain_id": "0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AEStat",
+          "ar_raw": "1999-2018",
+          "kallrad": 290,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ff147b5ad414865a9b14db57b5ad0f747c98c5a9fa9e06b3988c2bb6063f5d04",
+        "path": "data/variable-documentation/ff147b5ad414865a9b14db57b5ad0f747c98c5a9fa9e06b3988c2bb6063f5d04.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AEStat",
+      "variable": "Arbetsställeenhetens status",
       "register_version": "2004",
       "source_task_id": "68ad4a364065f2180dce3578e543e383cab02c9f589ccaa2c91e8b10759aa8b7",
       "id": "a5272bb8f1d575a4c798f1697e188ad81d9489c173e99b7fbb625fa63af81e84",
@@ -439,6 +584,325 @@
         "path": "data/variable-documentation/d1e23b4a5d2ab2ae22f6750e4668d83e4459c0279e0b8a0c19d3c28dbd33c47e.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:20:56+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "1999",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "0df034b234622c90d41589b5d71365b8737e590f0f0d6d3a8ae86ac2bc8dc92e",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0fa0d0491ee5dd4f1fa16e60f7df4e827abe3e46e36b3b4f3b35ae059353cec1",
+        "path": "data/variable-documentation/0fa0d0491ee5dd4f1fa16e60f7df4e827abe3e46e36b3b4f3b35ae059353cec1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2000",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "34c170cfef3a1cced2d3ca60aa6b1a70e19f6011f0e0fc6efd02d30bd6fd31b3",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1341ac8e4a2dcc5feb9b75e11fc2236ab52a32958f4891dfa25757eb28e52caf",
+        "path": "data/variable-documentation/1341ac8e4a2dcc5feb9b75e11fc2236ab52a32958f4891dfa25757eb28e52caf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2001",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "1bc7ba3f296116835547e8d7ce2a9eb3e133488c9419f63c2b827a186fb202ee",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "17bff993fcac56da61aeefbb8d9d5b5827f2c6d93134894129e2c31a525431d9",
+        "path": "data/variable-documentation/17bff993fcac56da61aeefbb8d9d5b5827f2c6d93134894129e2c31a525431d9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2002",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "893377ee7df19fb2c6ede5eb4fca5fff968a3c18142297b7b9292375dab122e5",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f47a51ca8e960487ee73e5c5259e4553a71f975ba8d8c3243c5c9d712bccc4f8",
+        "path": "data/variable-documentation/f47a51ca8e960487ee73e5c5259e4553a71f975ba8d8c3243c5c9d712bccc4f8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2003",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "e6ddc630a848cb247cf8f91d0805554d8307637beb6e9ae7f5731efcd03a136f",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5c6410e1537f86ff6967a074d7bb92cfcb869424640f93fb93387ae3e009d0e0",
+        "path": "data/variable-documentation/5c6410e1537f86ff6967a074d7bb92cfcb869424640f93fb93387ae3e009d0e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2004",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "95fa14ffd34d90a00081b562d1a63aede395185247210c8359d88d525a663bef",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4df10d93ccb804b4872e8efdcc8eddbe965205c761ef10c3ad02c73068d0e63a",
+        "path": "data/variable-documentation/4df10d93ccb804b4872e8efdcc8eddbe965205c761ef10c3ad02c73068d0e63a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2005",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "9e86e40978f0b6398b7408bd804cff69f4ac6087ca62581bf78cc19abc112460",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f6b7432b18687716650cecf60efde4369687e8e9ae49a747ef44659785ab460",
+        "path": "data/variable-documentation/2f6b7432b18687716650cecf60efde4369687e8e9ae49a747ef44659785ab460.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2006",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "f0b4980143bcd913ea89feb03e9a5b11a732f8bf19151807408f0bee60bdc664",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9b8cb6b89f02198bbbfbb062d855074be5cb0d4763b2302d3119348bfd317afe",
+        "path": "data/variable-documentation/9b8cb6b89f02198bbbfbb062d855074be5cb0d4763b2302d3119348bfd317afe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2007",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "2f75f83fa86be4eed858403536b70a1fa1875d1e2f73915ff89d79c398f09651",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b121d836ef1444b90ad6d6f9f14e2aebd5d549fc0f3843e0a192e42d2f0e121e",
+        "path": "data/variable-documentation/b121d836ef1444b90ad6d6f9f14e2aebd5d549fc0f3843e0a192e42d2f0e121e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2008",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "bfa30a526c54f159eb7700b5ffc7794742e423a4c14fc3da7ee9a63b73aa2304",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "210428501f76b2054dd9d3c6d40a521ae2fe9383a553599a4cd063236e21b592",
+        "path": "data/variable-documentation/210428501f76b2054dd9d3c6d40a521ae2fe9383a553599a4cd063236e21b592.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AETyp",
+      "variable": "Arbetsställetyp",
+      "register_version": "2009",
+      "source_task_id": "1cb24bde89debf1300a0e832a062758a72e7da8905047f04d3ae75eabef134c3",
+      "id": "5721bef1ace01d107d076c2fa35801b83ec6ff10cea96f0eecb32a5b540b864e",
+      "domain_id": "de0978f6e636d2c273f42e1192b2709b41f367f295d1ae573c7ad8d912ec0068",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AETyp",
+          "ar_raw": "1999-2024",
+          "kallrad": 291,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8328360a71f72a2e41ea30692b76446bce260b9045560f8fcd41b9b7f5f6202e",
+        "path": "data/variable-documentation/8328360a71f72a2e41ea30692b76446bce260b9045560f8fcd41b9b7f5f6202e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -1054,6 +1518,296 @@
       "variant": "Arbetsställeenheter",
       "column": "Anst",
       "variable": "Aktuellt antal anställda",
+      "register_version": "1999",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "01158c05b44770f354b244450154fc89e632ccdc5ed5b7be92c49bbf9ee23640",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "282ca906388f7899557b56c765da35831037692d59b220314e1745abeab6cc79",
+        "path": "data/variable-documentation/282ca906388f7899557b56c765da35831037692d59b220314e1745abeab6cc79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2000",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "f9921bcc75a9cb6a1fb5639e5a06b81451dab2a506c0a4935b0f867e7b3cdbe6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a96716bf0204e6e37f29dcbde272ce93b9e89078b5575e17fb20de3dbeeab798",
+        "path": "data/variable-documentation/a96716bf0204e6e37f29dcbde272ce93b9e89078b5575e17fb20de3dbeeab798.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2001",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "de4c2dc8bf230c5d9b6aa90c88e557aef2c5530d0496021ddb89c952a0e70e1e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b956a22586ebc9684d6da88c7f6f3a1d95ba24ecab3fdfb71f3c0dd598f01b7a",
+        "path": "data/variable-documentation/b956a22586ebc9684d6da88c7f6f3a1d95ba24ecab3fdfb71f3c0dd598f01b7a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2002",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "1e1a35e901a918aaa54e43d99c06fc380a3eaa320af007bf979c1a60baf15357",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "827d3ac2186554f4d08402410a2bc576e4d8ee7aa8d9768cfde4d7a2bc312fb2",
+        "path": "data/variable-documentation/827d3ac2186554f4d08402410a2bc576e4d8ee7aa8d9768cfde4d7a2bc312fb2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2003",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "93a611aa4a8f07f55025d624efcf0aaf0b75a34635898684804c1ab72e8930e2",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f72a2de00dd41e6bd5f6304ca78d4209cc2f6feeee0d9cb79997ae283efca90c",
+        "path": "data/variable-documentation/f72a2de00dd41e6bd5f6304ca78d4209cc2f6feeee0d9cb79997ae283efca90c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2004",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "71a72eace7f6a150b4590c7d2b91f25a52215f79ff4e43c962ab62692ab5e90c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e9683e47c68f6f4f4462cad0d5b89a8ae62349ec0a2ad143ab58ac0d4e059429",
+        "path": "data/variable-documentation/e9683e47c68f6f4f4462cad0d5b89a8ae62349ec0a2ad143ab58ac0d4e059429.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2005",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "718c4fa78f50e2923803145f8ad9891d088b8ccce0cd25ebc2e1f4cd7a1bbc3a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2024e7f56b54af6a4d05d1217dd34398e572dd2ce24424f41361ba6b43167afa",
+        "path": "data/variable-documentation/2024e7f56b54af6a4d05d1217dd34398e572dd2ce24424f41361ba6b43167afa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2006",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "d518d5768a48baeb970c8c5139b60dba33f97ba2226242245a30df91f04b91ee",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cecacc35fdb0300b0b54e4ae6f2e0c1e23554855fa56b89f19f04b2dd2863a78",
+        "path": "data/variable-documentation/cecacc35fdb0300b0b54e4ae6f2e0c1e23554855fa56b89f19f04b2dd2863a78.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2007",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "2c40664691fd4bd0c9e012c762b011353b477ff1884808b8743e0cf111d5399f",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a53d373a0990479ed84358f77ba7993966c77c891d3f866def9d531302c3b9a9",
+        "path": "data/variable-documentation/a53d373a0990479ed84358f77ba7993966c77c891d3f866def9d531302c3b9a9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
+      "register_version": "2008",
+      "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
+      "id": "af8d8d2d5b2f4316e16ea6d3a4a6c3c03fe18d52f88a7a02c28c231b4dd96410",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Anst",
+          "ar_raw": "1999-2024",
+          "kallrad": 295,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ecc575bc42a38bfa689cb434472090eb54e3801f5001c243ab9f012b9246aa3b",
+        "path": "data/variable-documentation/ecc575bc42a38bfa689cb434472090eb54e3801f5001c243ab9f012b9246aa3b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Anst",
+      "variable": "Aktuellt antal anställda",
       "register_version": "2009",
       "source_task_id": "83fa043762912117cb78f56d1f4a2b6176be48d4d02097a36cec7ddfa9a1de05",
       "id": "92e32cc1b44af2598bc55f61943cb9f19c68d5b9392940770c1a24132b8785ac",
@@ -1518,6 +2272,325 @@
       "variant": "Arbetsställeenheter",
       "column": "AnstS",
       "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "1999",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "7ba08641fd403406097f9e5a808ac52a8fb5cec7a392ce7311ed956d3a38dfa1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "86fada0e2501c5713267c8fc24697638d9bbb884fe08ad2d8199c1b845a0d6ac",
+        "path": "data/variable-documentation/86fada0e2501c5713267c8fc24697638d9bbb884fe08ad2d8199c1b845a0d6ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2000",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "3f7b20bf01ba2c1abc77887446a325aad12ff11f0ea2eb77b46b924d4617405c",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "395c43a1eafc4595ee91e961c58a380f29230282a4bbe5974a4df3bfd3542d05",
+        "path": "data/variable-documentation/395c43a1eafc4595ee91e961c58a380f29230282a4bbe5974a4df3bfd3542d05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2001",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "bf6e2391cc4fe74ad95f6d72d4579ac27e178c9f1c7baefdde0ac18353433202",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41d208e66f1e58eb85de1229d2c81d808f86e2d4ffedb5a1a4db794ac052dbfd",
+        "path": "data/variable-documentation/41d208e66f1e58eb85de1229d2c81d808f86e2d4ffedb5a1a4db794ac052dbfd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2002",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "9864be4ad8a4637399dab2a97660811eb107d01b7bb19a050044f38014fd9a19",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2e953bebd15268b23eb5b6114059234c42e7b198a761a398121306952fb099d1",
+        "path": "data/variable-documentation/2e953bebd15268b23eb5b6114059234c42e7b198a761a398121306952fb099d1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2003",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "641ed38877092c1221659e5eafb27830883c6c18974fcc0f78114f970bd20112",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "64c3b55657a84b53db16d99989bf25a019f927739eaa3994e5294322393371b6",
+        "path": "data/variable-documentation/64c3b55657a84b53db16d99989bf25a019f927739eaa3994e5294322393371b6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2004",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "90646849aa7b2fe07af5c6db740f22aae7ee3d1d7ab77d8b44806baf7cc7ffa6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9ff81ac00da00b5b29a97701723e840f099d606b01c52c62076aba95065e9420",
+        "path": "data/variable-documentation/9ff81ac00da00b5b29a97701723e840f099d606b01c52c62076aba95065e9420.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2005",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "93b9efe78926cc64b8ac8418e1dde23c6976fd87fa90f6c0f798ba82a8801a36",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2f1ac232ceb577db6e8f3e397933f5403f15a8ef7cef2e6e3c098ab2341a37ba",
+        "path": "data/variable-documentation/2f1ac232ceb577db6e8f3e397933f5403f15a8ef7cef2e6e3c098ab2341a37ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2006",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "d1d2fbcc811056c1cef387f74e783a2e701b07e858d97dd497384e1e7c59c0f0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eb855c3d32281449131b1c1f19e0721686bc07e5ba718cfdb69bdf743db8d9bf",
+        "path": "data/variable-documentation/eb855c3d32281449131b1c1f19e0721686bc07e5ba718cfdb69bdf743db8d9bf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2007",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "e6ef44b2a30af0fc99e9d2936456299440d095d8a99101e2c89339b0f89fdc45",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dff517ba864ff19b49c09716d82472adef87910d15f213d15a8765dc7385c1b5",
+        "path": "data/variable-documentation/dff517ba864ff19b49c09716d82472adef87910d15f213d15a8765dc7385c1b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2008",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "b3f2bed206bedd926f8200c71c187309afd1f4fd215f1af209da93070e2917e6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "13e16411270c32a9c0725606d49c3ded71eb079ec4edab58875c2cbce4431035",
+        "path": "data/variable-documentation/13e16411270c32a9c0725606d49c3ded71eb079ec4edab58875c2cbce4431035.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
+      "register_version": "2009",
+      "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
+      "id": "ac918b36d466982f0438f5404c3c281fe2178891f86bdf019a0b5a6ac95b785d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstS",
+          "ar_raw": "1999-2024",
+          "kallrad": 296,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6635a592d3f40f324f2a2e14617f520faa1dd8374ffb64743f32ee4d92b96cd0",
+        "path": "data/variable-documentation/6635a592d3f40f324f2a2e14617f520faa1dd8374ffb64743f32ee4d92b96cd0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstS",
+      "variable": "Aktuellt antal anställda enligt statistiskt mått",
       "register_version": "2010",
       "source_task_id": "a0d446ff9ef895c9e02943cfe275bee2d5fe828b213a9a3cdce85a8ba206a2f6",
       "id": "d841a63710717eae96f825585de3b2f73825f97590e7ed4a97377d5826ca6ed9",
@@ -1947,6 +3020,180 @@
         "path": "data/variable-documentation/ef0499d2e72b107e82df148ed8bc92cb853cfbc40abd23cfab4c0550aeaf906d.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:20:56+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "1999",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "af9f2e72b38a8336de8a67a94c08e76997b43e5590766f8741411a6f950ef2a4",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2c6a8785a9bdae9a4c69b71d77cbc57e19370475c27ec3ff11d094ffee97b11f",
+        "path": "data/variable-documentation/2c6a8785a9bdae9a4c69b71d77cbc57e19370475c27ec3ff11d094ffee97b11f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "2000",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "729437e1ea1d1e1092b739dbf8cdd17eae687880558fdbc92ba7c70cf373861d",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0c4d619cb02bb4152ad559ecb945227b62eab6c1521c8477d62c86070be5f214",
+        "path": "data/variable-documentation/0c4d619cb02bb4152ad559ecb945227b62eab6c1521c8477d62c86070be5f214.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "2001",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "413eba8ede3746194bc7ac4f562da47c6cd919c2c1295831ab16de0d16a6c237",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "66eb109636c64d657812d8793978bf47ccb4d5e8bf2c889a91381fa1955f23b7",
+        "path": "data/variable-documentation/66eb109636c64d657812d8793978bf47ccb4d5e8bf2c889a91381fa1955f23b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "2002",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "59839af1c8e9fdad85bbe03243216810108bae62b3e73857892fdcba4f2c99df",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d12b07655d37ab3a7319572a5495c3a75bd5f1b5def2b69b1599b3fecb716d60",
+        "path": "data/variable-documentation/d12b07655d37ab3a7319572a5495c3a75bd5f1b5def2b69b1599b3fecb716d60.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "2003",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "b0a0972e0d747108ae6665d72bfce34893f47e121c838e23d530e12094b3c957",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd0d809c282f2abe41fbab19b0faa01b3812f70bee4afb0d11c3d02193ea55d2",
+        "path": "data/variable-documentation/bd0d809c282f2abe41fbab19b0faa01b3812f70bee4afb0d11c3d02193ea55d2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "AnstSDiff",
+      "variable": "Differens mellan antal anställda för statistiken och för arbetsstället",
+      "register_version": "2004",
+      "source_task_id": "996f61662ae888525b4e6082bbb23ed662188c1f86f1c64fcbdad282f9049d9f",
+      "id": "fef041a779669bd63a5b7641ea43d5a0f093a563554a59c53ac07b3ed364a9fb",
+      "domain_id": "0aa78bde2191b6ac34dbf4f9144bd4c8483e5d5da4d1080caa0762f3138d7afa",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "AnstSDiff",
+          "ar_raw": "1999-2019",
+          "kallrad": 297,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f32e4d3664aa879d133264a267933cfa856da691ae59aa128021b1b5f4b80d3d",
+        "path": "data/variable-documentation/f32e4d3664aa879d133264a267933cfa856da691ae59aa128021b1b5f4b80d3d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -2562,6 +3809,180 @@
       "variant": "Arbetsställeenheter",
       "column": "Kommun",
       "variable": "Kommun för arbetsställe",
+      "register_version": "1999",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "6097c50258dbcf9ba6cd53597e6e91561ecad729d3e2f7791cd81ff4cb832c8a",
+      "domain_id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bc8e7f4ea097c629a67860b68c0e18e7eb3f613ac6cedeb4d64a05da61d6397a",
+        "path": "data/variable-documentation/bc8e7f4ea097c629a67860b68c0e18e7eb3f613ac6cedeb4d64a05da61d6397a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2000",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "f728ff2c55ea637dd44a25ed19f73c400be12ce1f652ac727e624a945b83663a",
+      "domain_id": "b29f5f2b84ec5e1dec1d2ddca1b2ae80ac2082c0cc7a71711f5d584cd6cf3112",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c7051c069251f5c03fea0000778f4d65db5e5b4a81d3456ebb9ddfd9bece3870",
+        "path": "data/variable-documentation/c7051c069251f5c03fea0000778f4d65db5e5b4a81d3456ebb9ddfd9bece3870.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2001",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "7242977d5d56649e44cc7b1155f12590909b61bc56eca454b8fa448f88a37422",
+      "domain_id": "19177568bdf7c8703432a7ca17b2e9b5b1425703835e00b7dd274bf6b8ebdc33",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "809af79230c349907447f373ac0b7422b4d2345eff1eafbcbd99a62a7b56cac4",
+        "path": "data/variable-documentation/809af79230c349907447f373ac0b7422b4d2345eff1eafbcbd99a62a7b56cac4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2002",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "82d15439d95c2e931c2120faf7242f4d808fe8abbd6eff1598222ac0f70ffe8f",
+      "domain_id": "6904cca739ea1561b31fa199a1cf13c87470e4c69c72d0ce308898481aea119a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8dd6623dee6ec7c728325021196143435bfbbf8e310fa8f35eeb55eec59c5894",
+        "path": "data/variable-documentation/8dd6623dee6ec7c728325021196143435bfbbf8e310fa8f35eeb55eec59c5894.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2003",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "1ae8fcf995000099857fe62d71b29ad936731512474622d5bef40e0f29e0a243",
+      "domain_id": "d70c80257bb3d1eab040c66785cb1a5eafe5f79c15935d54eeb93b056ee69f83",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b1dd9eea44612adcc63504711dfd71da66b68e54325241949c383bcd4fa931b9",
+        "path": "data/variable-documentation/b1dd9eea44612adcc63504711dfd71da66b68e54325241949c383bcd4fa931b9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
+      "register_version": "2004",
+      "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
+      "id": "a231fc547d6666289c1c53056365b601085ddc473594313bd8d61207d1b31b37",
+      "domain_id": "8ed0eef8cf673d1dc001fcb75512592a00e2583ef35bb294de4670485e9df39b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Kommun",
+          "ar_raw": "1999-2018",
+          "kallrad": 299,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4a296f4254b0d986b7a5affb158ea7e1a9bf5071252e7f85caec8ad592268ba",
+        "path": "data/variable-documentation/a4a296f4254b0d986b7a5affb158ea7e1a9bf5071252e7f85caec8ad592268ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Kommun",
+      "variable": "Kommun för arbetsställe",
       "register_version": "2005",
       "source_task_id": "eb3e04deaaa24d142969620a8bc78b6008bed11aee584c069650b6769e3dd84a",
       "id": "133b3bc7be2f4192a15cde959fc66026fcde0915a0ec93fef7250f6169eb5407",
@@ -2962,6 +4383,209 @@
         "path": "data/variable-documentation/f955b9e15793700cf08b3792ba07fb6f750335c449ab88cb2945a40346b1e25e.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:20:56+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "1999",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "a0fe33e0896cec0078e2aa4615def0b331f9e33fe51fb303cde37941c0bef2d7",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "18bfc9ccdd3f2f7a8c4460bab44f9121f21beec0c30f6869a7557ab584df032a",
+        "path": "data/variable-documentation/18bfc9ccdd3f2f7a8c4460bab44f9121f21beec0c30f6869a7557ab584df032a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2000",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "c49708a131326ec7e65bd7bad0e9aa785de9417a09e9fb139c7c13370393e68e",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bcca3f88a9ae0d3746f226649af4d34a0a935f3dfe44a0638b8be7a7ec51d2ac",
+        "path": "data/variable-documentation/bcca3f88a9ae0d3746f226649af4d34a0a935f3dfe44a0638b8be7a7ec51d2ac.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2001",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "d4977499dd6c9b47056593ec4b44ee80a34a6e9b4f09bc766ec62543a6ac04cf",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f9755f904582821166a2a46e3f0d6054dc42e3e45e1bdfe3acbdcd963e20c40d",
+        "path": "data/variable-documentation/f9755f904582821166a2a46e3f0d6054dc42e3e45e1bdfe3acbdcd963e20c40d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2002",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "fec06d20957db017e4fe380153061afe4ec544e7e8f93ece69a937b6f1d686ac",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b6b543050677af83f6bb694cef51c512a8bb90e592edaa5f74c063f0c45e643c",
+        "path": "data/variable-documentation/b6b543050677af83f6bb694cef51c512a8bb90e592edaa5f74c063f0c45e643c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2008",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "783880c9b6d960f3313d294b098eb4fa571efa7c41d088972ad6b4899e7d5590",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e125ae2fca565ead020c60159fa29f98604fe92ae7021d0ad4ea72ab8c7c3683",
+        "path": "data/variable-documentation/e125ae2fca565ead020c60159fa29f98604fe92ae7021d0ad4ea72ab8c7c3683.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2009",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "a1d3f9008f1c816cc6f3db669d78ce82991de8ba165b8501b5081abd1a9c68b6",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "72259500a5ce62dcb7914f5eab3cd0c41317adc9a35c7ad9ea56a873ca2fe8ad",
+        "path": "data/variable-documentation/72259500a5ce62dcb7914f5eab3cd0c41317adc9a35c7ad9ea56a873ca2fe8ad.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng",
+      "variable": "Näringsgren",
+      "register_version": "2010",
+      "source_task_id": "c2edc693c4093b51729231fece1dff8648f61e1309945a0fa12d6818df65c8fe",
+      "id": "066c5dea47d002dcb47517d71733cba394f081073190e6a29d90c20aa7d741a8",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "Ng",
+          "ar_raw": "1999-2024",
+          "kallrad": 305,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e65a5f773fdd1bc32838e43baae9b1d2d4a9290c9431d6d021d963afb27b6cb",
+        "path": "data/variable-documentation/6e65a5f773fdd1bc32838e43baae9b1d2d4a9290c9431d6d021d963afb27b6cb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -3374,6 +4998,209 @@
       "variant": "Arbetsställeenheter",
       "column": "Ng1",
       "variable": "Näringsgren, huvudsaklig",
+      "register_version": "1999",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "dec8613b9db1281fd7e22e8a30fc5a945449b4317b79a6d498047576db08e87c",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "26a86242e9958f14400818d0ecbf542e8f567bf7ae827c6c1388081ccb4a5be3",
+        "path": "data/variable-documentation/26a86242e9958f14400818d0ecbf542e8f567bf7ae827c6c1388081ccb4a5be3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2000",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "db03f79f77bd8f4dab7be393de9e238994bc0a89b377c7c66e8306b6109f9921",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ee428734b5328990636eba0919c96a3292593c26be785bc7ea302b9927b02899",
+        "path": "data/variable-documentation/ee428734b5328990636eba0919c96a3292593c26be785bc7ea302b9927b02899.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2001",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "981fb599eb7e1a03c477888041793b81c8e4577489661cc09a579576a6491e17",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cca665974541cae85955d20dba6035bd8cff1bbdceb19a587d2e568cd3898856",
+        "path": "data/variable-documentation/cca665974541cae85955d20dba6035bd8cff1bbdceb19a587d2e568cd3898856.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2002",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "d48a587a876cf8cbf67f9109de08b45cd6fd86b39ff5115dce5ab09f15003ab0",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "97f58f482d9e679ddb23ec0cb716bec2a440e03f0d2e67345f69bf814b28e634",
+        "path": "data/variable-documentation/97f58f482d9e679ddb23ec0cb716bec2a440e03f0d2e67345f69bf814b28e634.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2008",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "738ec5aeb0a8fa9a6ad9b80f2212ca81868b127ef7655ecd1db274fc88b4f439",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f601f6113103d452cbf77b65ca29db02c74b2c4e03593d8ff97f0617b6dc1629",
+        "path": "data/variable-documentation/f601f6113103d452cbf77b65ca29db02c74b2c4e03593d8ff97f0617b6dc1629.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2009",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "3cbadaf80d22814d4a879ed3861b22253a0a3423feb31b755f32c89b79717d3d",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "14d27bdcb185e5d87a13b5581ab71e762467bcdbbc4ce47409af5d2da0396ba8",
+        "path": "data/variable-documentation/14d27bdcb185e5d87a13b5581ab71e762467bcdbbc4ce47409af5d2da0396ba8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
+      "register_version": "2010",
+      "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
+      "id": "ee517b0f965b9d0f4d3f514c108e6574e21b62e0f658d01457dbf0d1465e9f8d",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae",
+          "variabel": "Ng1",
+          "ar_raw": "1999-2024",
+          "kallrad": 300,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e03caf21c97864046549e908f88aa872e385d3149e3fb26a3030276ad8db6714",
+        "path": "data/variable-documentation/e03caf21c97864046549e908f88aa872e385d3149e3fb26a3030276ad8db6714.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "Ng1",
+      "variable": "Näringsgren, huvudsaklig",
       "register_version": "2011",
       "source_task_id": "c8cc6e782ff00ab1efdb19766cc1fc3f10db1dc75c8bf96453b7dea19cf9e490",
       "id": "ea633a3d117ab80890fd8489f6ea954fd565628c98ec1ad9d75d7caba3a00496",
@@ -3780,6 +5607,209 @@
       "variant": "Arbetsställeenheter",
       "column": "NgS",
       "variable": "Näringsgren för statistiken",
+      "register_version": "1999",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "1f1c3f1f6e9c0d4d339a84c0cab3c6b73acb69633db4aeae6dc723bb185ce814",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1fbc36ef324b0cddf902ac2a3abbf08635961c41d6f3db6c0b8102e816556775",
+        "path": "data/variable-documentation/1fbc36ef324b0cddf902ac2a3abbf08635961c41d6f3db6c0b8102e816556775.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2000",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "1757b1e688956e52b11fa9d459b75763ca7dd5a174fc5694f38c2e47f7620e48",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "255f4f40f105e784cd46c09843f389ca1dc428522fe6ff5cd22ece4bd64433fc",
+        "path": "data/variable-documentation/255f4f40f105e784cd46c09843f389ca1dc428522fe6ff5cd22ece4bd64433fc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2001",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "150b51c80416088b8dc7842361db877c5fc6a60550eb500a6c52494ee0ea611e",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "254d128b64a8643e4b55e9a5b90eae4525aa366c6d1e6e72e301ab87fd91c85c",
+        "path": "data/variable-documentation/254d128b64a8643e4b55e9a5b90eae4525aa366c6d1e6e72e301ab87fd91c85c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2002",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "e45e4f8b603edf083e59c1fc820b8920a2e10854deb42d7d2676688e601b58fb",
+      "domain_id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3531a3de573c516c580a50e704f49550eeac312e63c556ef187e96aa122ed0aa",
+        "path": "data/variable-documentation/3531a3de573c516c580a50e704f49550eeac312e63c556ef187e96aa122ed0aa.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2008",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "01873b5b62ca9b8c18448e2499fb17855083a0ab5c6cf2da95a1883271188ad6",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4b6a7bb92075106911560362158ccc4a81cd580104dc18cc9d847b268f68f3e8",
+        "path": "data/variable-documentation/4b6a7bb92075106911560362158ccc4a81cd580104dc18cc9d847b268f68f3e8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2009",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "5490ab96691a590c0c92001a4c1abceed4b7bcaec93180c0fa6b4df877af2189",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a14df0a97cd7598b62111243e0d98eef889daa456420d035cd7e8b07987a77b7",
+        "path": "data/variable-documentation/a14df0a97cd7598b62111243e0d98eef889daa456420d035cd7e8b07987a77b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
+      "register_version": "2010",
+      "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
+      "id": "5aeb8d5132936dd68ba5ed293f7a7a5943272ace192713994afe6d092a466673",
+      "domain_id": "f6bc45089783ee32475cea732e96b8f9336f0c5ad6fccf947ad1634c97c07143",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "NgS",
+          "ar_raw": "1999-2024",
+          "kallrad": 309,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ed172c96ed7c4855d93166eadf17d1bfca527447ee026a0f0a36d3a939c7b085",
+        "path": "data/variable-documentation/ed172c96ed7c4855d93166eadf17d1bfca527447ee026a0f0a36d3a939c7b085.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "NgS",
+      "variable": "Näringsgren för statistiken",
       "register_version": "2011",
       "source_task_id": "1a37014d7ab2d82ecb3a268a20fe4b5bd3e91fe239e291137343545d3a9517c0",
       "id": "fd42506b7515ecb41001399a58b083157a9ced547491f1dc5674ad1a5c77cdba",
@@ -4180,6 +6210,438 @@
         "path": "data/variable-documentation/f864df1af7b5a3d1c13f194c6d33ce85b2645bf53b131f2e80b89aa1f98bb524.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:20:56+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "1999",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "650621be450a5c5afe20603d08e1bb1168fa48ca78393fc8efbd864e078c23fc",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "69c3552f7a3dedcc7af3fea3c180f26f8ea3a88e07a6a29775c97e953c815d64",
+        "path": "data/variable-documentation/69c3552f7a3dedcc7af3fea3c180f26f8ea3a88e07a6a29775c97e953c815d64.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2000",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "047b19bae094f08383501989696d9ac74b97e66ded8b01313f50d4279daf4d5c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b9fd02cc648e63b2ea10aae7e490a24fa78cd8040be1a2bdbc20c715760731f6",
+        "path": "data/variable-documentation/b9fd02cc648e63b2ea10aae7e490a24fa78cd8040be1a2bdbc20c715760731f6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2001",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "bdccc8ad375c868c773c2fe93de2dce905d55633e5f117797d66f84ab2282077",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dc12e2e88322d1f6afc01fc56badf517dc72fcfe524a1ef4aca337c8489096db",
+        "path": "data/variable-documentation/dc12e2e88322d1f6afc01fc56badf517dc72fcfe524a1ef4aca337c8489096db.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2002",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "1c846fc928d7f6fc06c12b15cd3f76898a87d47136fc6f637d2c228331483029",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9963da7ab49fd3438477e74e34c70f01fa71476d8a0a853fbe21372650d338f3",
+        "path": "data/variable-documentation/9963da7ab49fd3438477e74e34c70f01fa71476d8a0a853fbe21372650d338f3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2003",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "577a1ade6cd6eff95fb8641fce7be16c5195ad6ce6ac3dd82ad877be1d78e050",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c1ecd56f1aab01cce6e453aeb01289f3bad67daa2c7cd8163086d86ec8f33a07",
+        "path": "data/variable-documentation/c1ecd56f1aab01cce6e453aeb01289f3bad67daa2c7cd8163086d86ec8f33a07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2004",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "4f469592e7225e43f4ab520f0cba9bd93114b1e5ad16e52ade7e26c38d54c96f",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f21bf25100c4e994e83d514c8e22a842f543022b754e4f5132320effd9f5b939",
+        "path": "data/variable-documentation/f21bf25100c4e994e83d514c8e22a842f543022b754e4f5132320effd9f5b939.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2005",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "bfd737905c2b117bc704e4e23156be88e66ae0efbb0ca53ffc375bf4c14533fe",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "292189c9ab94ecad2802729432cec6877f9e93ad5fba503937a3b97e6ddf94da",
+        "path": "data/variable-documentation/292189c9ab94ecad2802729432cec6877f9e93ad5fba503937a3b97e6ddf94da.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2006",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "87159eb5a47fb98fcca6d45a33ca226b7c2f294f9197e0f1fbf76d9566b19e98",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8ff9ac2fb4762f41ad6bc8b908387772517d87babfaf4e7fa7169bd4f0cf7afb",
+        "path": "data/variable-documentation/8ff9ac2fb4762f41ad6bc8b908387772517d87babfaf4e7fa7169bd4f0cf7afb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2007",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "99d7e99e0ea51852286313a9dd79750393506cd0bffba43a6e46a85e59222906",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d5095a70803c6a9373fb2f669234a8d7ab13c398354b7f9c7dd9c354ea78eeb",
+        "path": "data/variable-documentation/0d5095a70803c6a9373fb2f669234a8d7ab13c398354b7f9c7dd9c354ea78eeb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2008",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "913148bd6f0fe991dbdb1e75821da3bc23948b6d555c5a74b75072f5ef1e64d6",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9144772fbb3904f854998e1eaf55128d6e581aabb4bfe1584406c9473efa44fb",
+        "path": "data/variable-documentation/9144772fbb3904f854998e1eaf55128d6e581aabb4bfe1584406c9473efa44fb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2009",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "2f1f655a7a58efb9374af9a53b94a65001dafc339db7cd1348d3fe318d25afd1",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1908780d321d5067530bce9da70d77c381c7ef1594f6e3a2355f239cab086d99",
+        "path": "data/variable-documentation/1908780d321d5067530bce9da70d77c381c7ef1594f6e3a2355f239cab086d99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av näringsgrenar",
+      "register_version": "2010",
+      "source_task_id": "5d80baf04b30d288dd5ace2a982635dcdde617e468ae1a7eaa279aa2d24bb4b6",
+      "id": "8320dec8608970461869bcfbf297121656a5c8bcd88cf5b8fe31864ad0a30cb1",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7fefd243250a8cb2221618fd6309ac075c0b21746b8870dfa9cce19d245a2a29",
+        "path": "data/variable-documentation/7fefd243250a8cb2221618fd6309ac075c0b21746b8870dfa9cce19d245a2a29.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -4690,6 +7152,438 @@
       "variant": "Arbetsställeenheter",
       "column": "RangOrdning",
       "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "1999",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "5059cba6f87ec1a3e4a2694d29bfe01a3e60a8ad76c3ceb496eed9ea26e89abe",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "172a717b48c4cb9822ed64184f2ddd303baebc7b01f8c8c7452d42c7347dbcf2",
+        "path": "data/variable-documentation/172a717b48c4cb9822ed64184f2ddd303baebc7b01f8c8c7452d42c7347dbcf2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2000",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "94a5925574bde5c3ca1de8ae7528b67eff36ba54b8bea8951e8794e235e04cf3",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ff5863535e96fa2ff6bb1d490b73515bc4816845943eb56a4b6a24ff951c7323",
+        "path": "data/variable-documentation/ff5863535e96fa2ff6bb1d490b73515bc4816845943eb56a4b6a24ff951c7323.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2001",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "c6cdd2d47c5875f5f57bfaeeaf685a278ea05c09f9243f73ca19c36f66b23f59",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "61fb005baf7dc07ad1ebd0a2645955db37351ce1e85cec30024239693a6aca3f",
+        "path": "data/variable-documentation/61fb005baf7dc07ad1ebd0a2645955db37351ce1e85cec30024239693a6aca3f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2002",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "f95f6808a9f703821b74722d134a84cc5cd22d13737a571cba465978ffe16f79",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0b8cda07aa57c40cb2d5781ae79e96c8bf7073b1e1065d13f257b53780167ae7",
+        "path": "data/variable-documentation/0b8cda07aa57c40cb2d5781ae79e96c8bf7073b1e1065d13f257b53780167ae7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2003",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "0df32c74f4d14e0282ef807dbd2b7b02fccc80e5a9d144e49b77ecc44679e697",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b4d51c1e660df0e3b0fe12dc8ae68cc640847324dc41ae59b28a713d4ebba174",
+        "path": "data/variable-documentation/b4d51c1e660df0e3b0fe12dc8ae68cc640847324dc41ae59b28a713d4ebba174.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2004",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "3638499c4a853e066dfc1aa8623e7c92e30f81917852935a8764edbc48f007f5",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c0187adbb5d30f1925f84227052b7085178347b866b4fdf9af22c5be093b3bb2",
+        "path": "data/variable-documentation/c0187adbb5d30f1925f84227052b7085178347b866b4fdf9af22c5be093b3bb2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2005",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "a3b800c104fe2a75608c9a9b0fa8cca42313db16ed291e8c81a3d1a53cdff2fa",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ad31cfe21dccb41ce88fc8609009f2c3d29b25f64e3732250e145525b817bfcf",
+        "path": "data/variable-documentation/ad31cfe21dccb41ce88fc8609009f2c3d29b25f64e3732250e145525b817bfcf.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2006",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "e2e525c070c5da787dd6e30a74daf07747caa1583f8fd7a4c587666bf688f601",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "04bacbd12f9e566df72c75182980c364e8b4eba6e2c5ec439ce5e21700b8ab99",
+        "path": "data/variable-documentation/04bacbd12f9e566df72c75182980c364e8b4eba6e2c5ec439ce5e21700b8ab99.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2007",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "0ce4910d8e91d75da49f905386d8e412f639c00c7f3fd8a6f4f4c552c99e7867",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f8fb0052edd3a7b21a93e9815df3df24d97696c8b524053e81a2e3e236aa2411",
+        "path": "data/variable-documentation/f8fb0052edd3a7b21a93e9815df3df24d97696c8b524053e81a2e3e236aa2411.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2008",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "221ad475af286f030d5f82e3c1610e549e91719d2c986da7fa7b268e529af0fe",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "92ab09600c9c150fd8582668c25b12691683bf0fb75b299f0c57a10b1a9e91e5",
+        "path": "data/variable-documentation/92ab09600c9c150fd8582668c25b12691683bf0fb75b299f0c57a10b1a9e91e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2009",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "860de7e84c05b34b7f6536638ce41ec5e2241e5bce35b39eebfda69b0a54e4ea",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c30a84778ecfbc06544c4ef98445ab8ecc2efc3e16f6bb6d4cc8a803d4eba86d",
+        "path": "data/variable-documentation/c30a84778ecfbc06544c4ef98445ab8ecc2efc3e16f6bb6d4cc8a803d4eba86d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
+      "register_version": "2010",
+      "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
+      "id": "165ccd54dd369262ef79a016eada79444bc402cec4664cb39b4738c826cfdf1c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 307,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "RangOrdning",
+          "ar_raw": "1999-2024",
+          "kallrad": 311,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "eed73356cf7f8dde45a9596799da571d5ccce99929069796f149e5ea3c3e4a0d",
+        "path": "data/variable-documentation/eed73356cf7f8dde45a9596799da571d5ccce99929069796f149e5ea3c3e4a0d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "RangOrdning",
+      "variable": "Rangordning av statistiska näringsgrenar",
       "register_version": "2011",
       "source_task_id": "e2800e2974020117170c65e592f2a33ca5539a936b39fdfe5e019fe6fad3c05c",
       "id": "05b1dd343c6af9ab6229ceb5443400ab4edb1d8ecf7d6aeef6b2f3354eb9da0f",
@@ -5194,6 +8088,438 @@
       "variant": "Arbetsställeenheter",
       "column": "TidOmsPct",
       "variable": "Procent efter tid eller omsättning",
+      "register_version": "1999",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "343153b70e88e11e64c8bb5d34492f812ad0d49ccfd7faeb4a1257bf782ce2fb",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5dda2930139bcd309fb19f290c22dc30380c6192353bc93bb7b9e6874b186f27",
+        "path": "data/variable-documentation/5dda2930139bcd309fb19f290c22dc30380c6192353bc93bb7b9e6874b186f27.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2000",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "f876126e532b8539793862886f63f3353abd4644c1cfd06633039c338d80d33f",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "85b82e3813dbe149e1fc6e9b3bc8d68a8475eec6db3686b663d3dafebc7836d4",
+        "path": "data/variable-documentation/85b82e3813dbe149e1fc6e9b3bc8d68a8475eec6db3686b663d3dafebc7836d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2001",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "a2f2792ccf2a105d5b9e48ba892176001c5f3ba88528bc26e5308ce628b1372c",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7cdde1e6a3d027a8b5d7b2bcd35b6e641c775faab09137962376de709886cab9",
+        "path": "data/variable-documentation/7cdde1e6a3d027a8b5d7b2bcd35b6e641c775faab09137962376de709886cab9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2002",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "acd08f3d618cf55cbbb9fa5cbff9e805b2b89b16ecdb090879e2e5fd35949811",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "af7f3eb1580cc5711471037e77f4971e7a782819d9bb77c1f7b5be0654a19198",
+        "path": "data/variable-documentation/af7f3eb1580cc5711471037e77f4971e7a782819d9bb77c1f7b5be0654a19198.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2003",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "57c2c169317220a2d3e15596a25ec706ad7681975a9b89fe4e84bba67da19737",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "95b3f10d06a3d3e7e49fcac48bae839bca0a2443bef155abf952cd285391cf5d",
+        "path": "data/variable-documentation/95b3f10d06a3d3e7e49fcac48bae839bca0a2443bef155abf952cd285391cf5d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2004",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "2bf8326b23ad10b900bdfcde5b8fb63008d81bc27fa358f65b5a0982167230c0",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f38014733634b5118a09aa634bff48f0e2fad35b34864a9dc5d01ff539c8919d",
+        "path": "data/variable-documentation/f38014733634b5118a09aa634bff48f0e2fad35b34864a9dc5d01ff539c8919d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2005",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "ea51ea136712bb4f9bc37c13c981bef137cbf370fd58ce05e33dc80ea07abd11",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0b66c477707fd68a4b06d92088b2c4cc51e5b9375b6be1ae81e4fea511c6d7ba",
+        "path": "data/variable-documentation/0b66c477707fd68a4b06d92088b2c4cc51e5b9375b6be1ae81e4fea511c6d7ba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2006",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "a3aef00ed43512102591512b8315f8080f05d9b2e1da14099c9dd9c273c639ce",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "879f0abc5be79fec598c48fe3f0f0942cd8d3162e4150f2b3af6027992f2d3fe",
+        "path": "data/variable-documentation/879f0abc5be79fec598c48fe3f0f0942cd8d3162e4150f2b3af6027992f2d3fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2007",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "86657ab1bd8ae2d636a02cfbeaaff751f0c45f608f9a84ef9c3dc0cd44fe500f",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ec5fb3e4fffe36becfd9c29b0df94c45cf782134927eb732798fe1c3c6374ad0",
+        "path": "data/variable-documentation/ec5fb3e4fffe36becfd9c29b0df94c45cf782134927eb732798fe1c3c6374ad0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2008",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "b60285c7a45fba3c565c2b6a887ad26cfa3e4401e33ad2efb1a66b34a14368a4",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dd3d8c287699889a71457b8dca5f47f7f27cfb33af9a4bfebaa3bee3a1bb4bed",
+        "path": "data/variable-documentation/dd3d8c287699889a71457b8dca5f47f7f27cfb33af9a4bfebaa3bee3a1bb4bed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2009",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "89e86e5860462303cc5e56d7c29c448db73f4ef9171fe46e03af79bd25f475bd",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9637b9b17a8137ad2916f4699e6ea57730e5c89a15585fa89c05f6312746a8bd",
+        "path": "data/variable-documentation/9637b9b17a8137ad2916f4699e6ea57730e5c89a15585fa89c05f6312746a8bd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
+      "register_version": "2010",
+      "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
+      "id": "292774855655d9c723ad127dcdbf0b978aa1b19095e26dc905374fae37c9a861",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b3a6269b82ec1a1e44d06046a1efddbb2461b2aad4e614ff741d0a75f69cd6e5",
+        "path": "data/variable-documentation/b3a6269b82ec1a1e44d06046a1efddbb2461b2aad4e614ff741d0a75f69cd6e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent efter tid eller omsättning",
       "register_version": "2011",
       "source_task_id": "ea527eab255097a6422b4bde634b37a805dbf68d3408751497590fdb25439b2f",
       "id": "8138b3dde7f410639c0776bd932239b7fd00ba698b3d7cadb03f0ee78f8d46ca",
@@ -5692,6 +9018,438 @@
         "path": "data/variable-documentation/e38055b40baf374ad0ede36e13a4ce46a7ef033a82403fc9820e57076fb808c0.json"
       },
       "documentation_retrieved_at": "2026-11-21T07:20:56+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "1999",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "7c137edabfdce87c545a50a8253bee011b1960b2ab6c0c305611c9ff56817f15",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "82dfd2c9ab89188441a78e0f50c8e7f0d5d07070043119db775bea6d9bc5244c",
+        "path": "data/variable-documentation/82dfd2c9ab89188441a78e0f50c8e7f0d5d07070043119db775bea6d9bc5244c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2000",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "00c0067a0749a2b653bf9754e76e13f6eb41316dd203b52cdb5c11e28bf5d0ec",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0d1ab4407c37a5479b75dfdd47d151cd29d4d729e3dbc378c9186dddfb34f976",
+        "path": "data/variable-documentation/0d1ab4407c37a5479b75dfdd47d151cd29d4d729e3dbc378c9186dddfb34f976.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2001",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "baf0ab9e9b3a5a51c5bde877a361ca08c878ee220f5e67de9ccebdc53aed27ce",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "4c0e68cf1550c5d2f128460142be9174c99bbf740c03f75277e51a407c532e07",
+        "path": "data/variable-documentation/4c0e68cf1550c5d2f128460142be9174c99bbf740c03f75277e51a407c532e07.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2002",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "2fe8ba2b3bf6963373de5d0d025f75864932686a17ea4ff1ad64d770addae8c3",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a7e4320a4d9a93ca557e3dd07363415aff62433bd5feaee0f2249479f76edabd",
+        "path": "data/variable-documentation/a7e4320a4d9a93ca557e3dd07363415aff62433bd5feaee0f2249479f76edabd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2003",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "a46f7da315c9c12f30836ddded03fbe9cb941346ffcfb8358b656725e88be546",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b56893cfe5862a2b3e070aa133e73a8b26c4cde89405a613ad4de6cb7bab55c",
+        "path": "data/variable-documentation/5b56893cfe5862a2b3e070aa133e73a8b26c4cde89405a613ad4de6cb7bab55c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2004",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "ab452acf092208531aa341e7cb04dcd78083a19672c922986b7f32b833781683",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "452901c3979c4abb0797e9046e69dfa92f3df776e007bd1192040acd1c6da359",
+        "path": "data/variable-documentation/452901c3979c4abb0797e9046e69dfa92f3df776e007bd1192040acd1c6da359.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2005",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "bb58ca8227be85137f5050a22ed10840f540f32607712d652e847128ab364042",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c528d3a8c7b04abf5307f8bade73b8de861696b13a908785e2407a548988c215",
+        "path": "data/variable-documentation/c528d3a8c7b04abf5307f8bade73b8de861696b13a908785e2407a548988c215.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2006",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "260516bb73c68639126d2625a3b2e82e3bdc1e9e406d358593dafa08ea0c0b34",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1eb95e49e72575d21005a0310ec55d7ae24ed80724f427a5331a9f1f1c99f7cc",
+        "path": "data/variable-documentation/1eb95e49e72575d21005a0310ec55d7ae24ed80724f427a5331a9f1f1c99f7cc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2007",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "94e88e6350cc59b08eb4a58cd1a6a30322017b7d0c42b0a20cd957b516aa2d90",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "66e099c18f347e4781ddf9d0a5d4bf8032edc4a06af23685579eb36ecb7ade32",
+        "path": "data/variable-documentation/66e099c18f347e4781ddf9d0a5d4bf8032edc4a06af23685579eb36ecb7ade32.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2008",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "7447d5beda47a4cda06370f388d4ca94b321107339db26661e2dee42effab434",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d81828cef14961937d9400d9fa976a9a9432133660fc8d8eb612a99ce85bb05b",
+        "path": "data/variable-documentation/d81828cef14961937d9400d9fa976a9a9432133660fc8d8eb612a99ce85bb05b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2009",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "163f72e85e9cd763ff16f856befc040db6269b17ffe2f3b2a010da5b54c4d9bf",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ce6b6d5f11388fdf370ebbe514cf272305f5f2badeb4c9851f341bd4ba4c6b69",
+        "path": "data/variable-documentation/ce6b6d5f11388fdf370ebbe514cf272305f5f2badeb4c9851f341bd4ba4c6b69.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
+    },
+    {
+      "register": "Företagsdatabasen (FDB)",
+      "variant": "Arbetsställeenheter",
+      "column": "TidOmsPct",
+      "variable": "Procent för tid eller omsättning",
+      "register_version": "2010",
+      "source_task_id": "9ac6e1025dd768a7b94f455b9fcb412874434a438277f99ba4f9bca907c232ac",
+      "id": "b23d8ac89c6a87eaf3878644039ff90572246a0d712ec5e8a3de23f9d64b6bbd",
+      "domain_id": "cd8fffb5a018757b21ec2191ce48f2f1052f641f2ab92dd1c19870782a997673",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:23:51+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "fdb_ae_ng",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 308,
+          "method": "exact"
+        },
+        {
+          "databasvy": "fdb_ae_ngs",
+          "variabel": "TidOmsPct",
+          "ar_raw": "1999-2024",
+          "kallrad": 312,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "43cc767e0ab1ce5b6d8e675df74a98c3339844cc0f70bc90a26aafa6d51cc649",
+        "path": "data/variable-documentation/43cc767e0ab1ce5b6d8e675df74a98c3339844cc0f70bc90a26aafa6d51cc649.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:23:51+00:00"
     },
     {
       "register": "Företagsdatabasen (FDB)",
@@ -6224,6 +9982,14 @@
       "path": "data/value-domain-values/0d3e2fee8386bf69332c6844121eb46fdd3040c7506a93a5541ffc94d7827eb1.json"
     },
     {
+      "version": "LKF 2001-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "19177568bdf7c8703432a7ca17b2e9b5b1425703835e00b7dd274bf6b8ebdc33",
+      "value_count": 292,
+      "path": "data/value-domain-values/19177568bdf7c8703432a7ca17b2e9b5b1425703835e00b7dd274bf6b8ebdc33.json"
+    },
+    {
       "version": "2023-01-01 /Län, kommuner och församlingar",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6304,6 +10070,14 @@
       "path": "data/value-domain-values/5a627593b3e786e29e7628d4208d992c4c597a1db5610806be5a13f3320a1b59.json"
     },
     {
+      "version": "LKF 2002-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "6904cca739ea1561b31fa199a1cf13c87470e4c69c72d0ce308898481aea119a",
+      "value_count": 292,
+      "path": "data/value-domain-values/6904cca739ea1561b31fa199a1cf13c87470e4c69c72d0ce308898481aea119a.json"
+    },
+    {
       "version": "2018-01-01/ Län, kommuner och församlingar ",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6336,6 +10110,14 @@
       "path": "data/value-domain-values/8e913d96d4609772a10a253751995228d6df9db0e665e8b07ed8fa30ca7cbd34.json"
     },
     {
+      "version": "LKF 2004-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "8ed0eef8cf673d1dc001fcb75512592a00e2583ef35bb294de4670485e9df39b",
+      "value_count": 293,
+      "path": "data/value-domain-values/8ed0eef8cf673d1dc001fcb75512592a00e2583ef35bb294de4670485e9df39b.json"
+    },
+    {
       "version": "LKF 2009-01-01/ Län, kommuner och församlingar ",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6358,6 +10140,14 @@
       "id": "a44c76a8d01be5482edf8654458c2633da4e0d2f5800d2c69575f1936968432f",
       "value_count": 293,
       "path": "data/value-domain-values/a44c76a8d01be5482edf8654458c2633da4e0d2f5800d2c69575f1936968432f.json"
+    },
+    {
+      "version": "LKF 2000-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "b29f5f2b84ec5e1dec1d2ddca1b2ae80ac2082c0cc7a71711f5d584cd6cf3112",
+      "value_count": 292,
+      "path": "data/value-domain-values/b29f5f2b84ec5e1dec1d2ddca1b2ae80ac2082c0cc7a71711f5d584cd6cf3112.json"
     },
     {
       "version": "LKF 2013-01-01/ Län, kommuner och församlingar ",
@@ -6392,6 +10182,22 @@
       "path": "data/value-domain-values/cfebad7a10502be40969d279d3f05ec331811785f3b71ff2844dbd6c5803370b.json"
     },
     {
+      "version": "LKF 2003-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "d70c80257bb3d1eab040c66785cb1a5eafe5f79c15935d54eeb93b056ee69f83",
+      "value_count": 293,
+      "path": "data/value-domain-values/d70c80257bb3d1eab040c66785cb1a5eafe5f79c15935d54eeb93b056ee69f83.json"
+    },
+    {
+      "version": "Svensk standard för näringsgrensindelning, SNI 92, Aktiviteter",
+      "level": "Detaljgrupp",
+      "data_type": "char(5)",
+      "id": "dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf",
+      "value_count": 756,
+      "path": "data/value-domain-values/dbaaca0896e40a02dd0d29208d65264fa5eed15b80b712f547e457187fae7adf.json"
+    },
+    {
       "version": "AETyp",
       "level": "Arbetsställetyp",
       "data_type": "tinyint",
@@ -6406,6 +10212,14 @@
       "id": "e60e5da5e34ed694410a47cc87f60bab018752e14efd7ecf6d4850479f5eb248",
       "value_count": 3,
       "path": "data/value-domain-values/e60e5da5e34ed694410a47cc87f60bab018752e14efd7ecf6d4850479f5eb248.json"
+    },
+    {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2",
+      "value_count": 289,
+      "path": "data/value-domain-values/ebff61ca4db053a77ce43834f4f39577654af31bff8434a9cd8312182bcc02d2.json"
     },
     {
       "version": "2022-01-01/ Län, kommuner och församlingar ",
@@ -6435,14 +10249,30 @@
   "coverage": {
     "complete": false,
     "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
-    "passes": 2,
+    "passes": 3,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "7f7c89cff68bff77f41ed3d236ee3f47387df2ab2252c142b5b4679ca7deeb82",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T07:20:56+00:00",
+    "retrieved_at": "2026-11-21T10:23:51+00:00",
     "task_count": 16,
     "expected_bindings": 333,
-    "documented_bindings": 200,
-    "errors": []
+    "documented_bindings": 318,
+    "errors": [
+      "Ng1 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "NgS 2007: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "NgS 2006: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "NgS 2005: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "NgS 2004: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng1 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "Ng 2003: Exportens värdemängdsnivå matchar inte vald nivå: []",
+      "NgS 2003: Exportens värdemängdsnivå matchar inte vald nivå: []"
+    ]
   }
 }
