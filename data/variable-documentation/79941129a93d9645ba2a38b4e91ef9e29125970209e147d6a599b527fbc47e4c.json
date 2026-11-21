@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Total export av varor och tjänster"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Total omsättning av varor och tjänster till utlandet både inom och utanför EU."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Total omsättning av varor och tjänster till utlandet både inom och utanför EU."
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Summa av M35 Export av varor till annat EG-land\r\n+ M36 Export + M39 Tjänster till annat EG-land + M40 Tjänster till utlandet"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "1000-tal kronor (KSEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Momsdeklarationsregistret är en registerbaserad sammanställning av momsdeklarationer från momspliktiga företag. Registret innehåller alla deklarationer för 2015 från respektive företag \r\r\noch utgör kalenderårsversion 2015 för det Dagsaktuella momsdeklarationsregistret.\r\n"
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga juridiska enheter (JE) i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE): samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2015-01-01 - 2015-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Momsdeklarationsregistret består av uppgifter från momsdeklarationer som levereras dagligen från Skatteverket till SCB via spridnings- och hämtningssystem (SHS). Registret uppdaterades med nya och korrigerade momsdeklarationer till och med februari år 2018."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Månadsvisa momsdeklarationer från juridiska enheter som är mervärdeskattepliktiga."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Mervärdesskatteregistret (Moms)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Mervärdesskatteregistret"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om erlagd mervärdesskatt för alla företag."
+    }
+  ],
+  "id": "79941129a93d9645ba2a38b4e91ef9e29125970209e147d6a599b527fbc47e4c"
+}

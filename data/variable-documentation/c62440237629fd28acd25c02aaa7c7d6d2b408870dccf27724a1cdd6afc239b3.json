@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Tjänster till utlandet"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Omsättning av tjänster till utlandet"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Omsättning av tjänster till utlandet.\r\nExport av tjänster"
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "1000-tal kronor (KSEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Momsdeklarationsregistret är en registerbaserad sammanställning av momsdeklarationer från momspliktiga företag. Registret innehåller alla deklarationer för 2006 från respektive företag \r\r\noch utgör kalenderårsversion 2006 för det Dagsaktuella momsdeklarationsregistret."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga juridiska enheter (JE) i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE): samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": "Undantag är icke mervärdeskatteregistrerade juridiska enheter."
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2006-01-01 - 2006-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Momsdeklarationsregistret består av uppgifter från momsdeklarationer som levereras veckovis från Skatteverket till SCB via spridnings- och hämtningssystem (SHS). Dessutom kompletterades registret med uppgifter från företag som redovisar moms en gång per år via inkomstdeklaration. "
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Månadsvisa momsdeklarationer från juridiska enheter som är mervärdeskattepliktiga."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Mervärdesskatteregistret (Moms)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Mervärdesskatteregistret"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om erlagd mervärdesskatt för alla företag."
+    }
+  ],
+  "id": "c62440237629fd28acd25c02aaa7c7d6d2b408870dccf27724a1cdd6afc239b3"
+}

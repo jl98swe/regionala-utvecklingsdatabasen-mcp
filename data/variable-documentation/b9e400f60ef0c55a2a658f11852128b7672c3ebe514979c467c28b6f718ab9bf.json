@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "numeric"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "M50 Beskattningsunderlag vid import"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "M50 Beskattningsunderlag vid import."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": "Med import avses, när en vara förs in till Sverige från ett land utanför EU, eller från ett område inom EU som ligger utanför mervärdesskatteområdet, t.ex. Åland.\r\n\r\nMoms behöver inte betalas för varor där omsättningen är undantagen från skatteplikt enligt mervärdesskattelagen. "
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": ""
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Skatteverket"
+    },
+    {
+      "name": "Måttenhet",
+      "value": "1000-tal kronor (KSEK)"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "Momsdeklarationsregistret är en registerbaserad sammanställning av momsdeklarationer från momspliktiga företag. Registret innehåller alla deklarationer för 2022 från respektive företag och utgör kalenderårsversion 2022 för det Dagsaktuella momsdeklarationsregistret."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Samtliga juridiska enheter (JE) i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Juridiska enheter (JE): samtliga juridiska personer, fysiska personer med firma och/eller som är arbetsgivare och/eller momsregistrerade och/eller F-skatteregistrerade, samt vissa dödsbon."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2022-01-01 - 2022-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Momsdeklarationsregistret består av uppgifter från momsdeklarationer som levereras dagligen från Skatteverket till SCB via spridnings- och hämtningssystem (SHS). Registret uppdaterades med nya och korrigerade momsdeklarationer till och med februari år 2025."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Organisation"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Juridisk person. Inkluderar privata och offentliga organisationer. Används när objektet avser den juridiska enheten totalt."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Momsdeklarationsregistret"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "Månadsvisa momsdeklarationer från juridiska enheter som är mervärdeskattepliktiga."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Mervärdesskatteregistret (Moms)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Mervärdesskatteregistret"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "Innehåller uppgifter om erlagd mervärdesskatt för alla företag."
+    }
+  ],
+  "id": "b9e400f60ef0c55a2a658f11852128b7672c3ebe514979c467c28b6f718ab9bf"
+}
