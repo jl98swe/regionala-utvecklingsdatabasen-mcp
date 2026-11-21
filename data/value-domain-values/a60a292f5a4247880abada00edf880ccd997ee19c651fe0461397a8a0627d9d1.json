@@ -1,0 +1,40 @@
+{
+  "version": "Betyg",
+  "level": "Godkänt eller ej, inkl gradering",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": "1",
+      "label": "Ej uppnått målen"
+    },
+    {
+      "code": "2",
+      "label": "Ämne/ämnesblock ingår ej i elevens utbildning"
+    },
+    {
+      "code": "3",
+      "label": "Anpassad studiegång enl 5 kap 10§ Grundskoleförordn. Endast för obligatoriska ämnen."
+    },
+    {
+      "code": "A",
+      "label": "Eleven saknar slutbetyg i samtliga ämnen"
+    },
+    {
+      "code": "F",
+      "label": "Eleven har inte fått mål- och kunskapsrelaterade betyg"
+    },
+    {
+      "code": "G",
+      "label": "Godkänd"
+    },
+    {
+      "code": "M",
+      "label": "Mycket väl godkänd"
+    },
+    {
+      "code": "V",
+      "label": "Väl godkänd"
+    }
+  ],
+  "id": "a60a292f5a4247880abada00edf880ccd997ee19c651fe0461397a8a0627d9d1"
+}
