@@ -1,0 +1,94 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "int"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Antal personer"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Antal personer i familjen"
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Härledd variabel som visar antal personer i familjen.\r\n\r\nVid avgränsningen av familjer utgår man från relationer mellan personer som är folkbokförda på samma fastighet. Uppgifterna kommer från Skatteverket.\r\n"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2013-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna är hämtade från Skatteverkets folkbokföringsdatabas. För dessa görs viss rättning och härledningar av nya variabler."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "Familjer från 1998-"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "Familjer från 1998-"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "En RTB-familj baseras på de personer som är folkbokförda på samma fastighet och som har relationer med varandra. En RTB-familj omfattar maximalt två generationer med utgångspunkt från den yngsta generationen. Sambor som saknar gemensamt barn kan inte relateras till varandra och utgör därför två RTB-familjer. Se vidare i Relaterad information. Regional indelning avser 1 jan året efter aktuellt år."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret över totalbefolkningen (RTB)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Befolkningsregistret (RTB)"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "RTB innehåller uppgifter som är av grundläggande betydelse för information om den folkbokförda befolkningen i Sverige."
+    },
+    {
+      "name": "Relaterat dokument - Registerversion",
+      "value": "Familjeinformation.docx"
+    },
+    {
+      "name": "Relaterat dokument - Registervariant",
+      "value": "Relaterat dokument om Familj.docx"
+    }
+  ],
+  "id": "b737f371c905719d816e20bb49c75e8e0794f02fd4299816534631a4772ea0bc"
+}

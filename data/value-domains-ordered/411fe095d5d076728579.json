@@ -4,22 +4,2410 @@
   "group_id": "411fe095d5d076728579",
   "register": "Befolkningsregistret (RTB)",
   "variant": "Familjer från 1998-",
-  "bindings": [],
-  "domains": [],
+  "bindings": [
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "1998-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "f655dd72cb971df59a219657d0652e3091644ca915dab2f83cd65fee6d520133",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3661f8165c3315b807703404f57ce57bfc15a53f131b15ccd95317d979faa5a5",
+        "path": "data/variable-documentation/3661f8165c3315b807703404f57ce57bfc15a53f131b15ccd95317d979faa5a5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "1999-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "f48ab129ae53eb13f2721fee8b06996618e9c8a2a820e1f2d5d56b45837ff82e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "41aec7f1a1066f741cc1a46f794984ec6a995844a719ffe919acea95a3e8efa1",
+        "path": "data/variable-documentation/41aec7f1a1066f741cc1a46f794984ec6a995844a719ffe919acea95a3e8efa1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2000-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "cb8c3943c6946b440d907035fa1b9e4fe75b91581dfe72c5bdb703478815bd28",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "04bcafedc127240437d053a4509999da75ae1b561a16dfb93e8ba30a5465ab2b",
+        "path": "data/variable-documentation/04bcafedc127240437d053a4509999da75ae1b561a16dfb93e8ba30a5465ab2b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2001-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "25aca4e4582086e41e7a0bc44344905c386cad37dd83229019162be9af4b7aec",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ab5274295244881fed49c7e80cb31198be96866e80e9694547f4ba50733ff5f7",
+        "path": "data/variable-documentation/ab5274295244881fed49c7e80cb31198be96866e80e9694547f4ba50733ff5f7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2002-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "c19d2e22e30034a34bb032c79490aaf1e84e7448c4eae75b6ec1c8026c363a09",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e06eed591e873d71e0872ddc7b650a1b08e474bba314347e0b7047a4b79de9fe",
+        "path": "data/variable-documentation/e06eed591e873d71e0872ddc7b650a1b08e474bba314347e0b7047a4b79de9fe.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2003-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "47a7f6a8e774215458e7827577eb8511c82ee302e3de22c67653c84930074333",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b67b65e5a8d7d545d66720fb3528dda76449b47f38dbd7d0f065307eea4d6a29",
+        "path": "data/variable-documentation/b67b65e5a8d7d545d66720fb3528dda76449b47f38dbd7d0f065307eea4d6a29.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2004-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "994a9af52b222182ca64a39c18cc512e151ae54380c876964f7d2e299b532ba0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "96d24834f06e3daa9f39ca9d7626c534e4be1f040a549d6a6d6c385b48dddce0",
+        "path": "data/variable-documentation/96d24834f06e3daa9f39ca9d7626c534e4be1f040a549d6a6d6c385b48dddce0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2005-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "8fba60ece1250730e55f1680758056b075d777aed7ce67ac959bb33b516cd6a8",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c2dc91932b5d64e36d9ad92251d7e89458d4998dd1db09fd2b0af0f6cf6c4c05",
+        "path": "data/variable-documentation/c2dc91932b5d64e36d9ad92251d7e89458d4998dd1db09fd2b0af0f6cf6c4c05.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2006-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "c3819508522edb1402c48265d7f1414af1d3908fc85fcefe4a8bd6a6cec23c40",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5763b5e2512570ebc53a455df861c7ccb098f5f05ffd784d86e9b5fea4794ae9",
+        "path": "data/variable-documentation/5763b5e2512570ebc53a455df861c7ccb098f5f05ffd784d86e9b5fea4794ae9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2007-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "1e7f5e91e989330c8ff61e4dd79a3fb0cd5a8d78ae8fa334a3ecf59db97484e4",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "aaeae264ff36263d3beeff3275243faa3c7f2b04d5f95f9703857cf2d1b4f0ae",
+        "path": "data/variable-documentation/aaeae264ff36263d3beeff3275243faa3c7f2b04d5f95f9703857cf2d1b4f0ae.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2008-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "e823540c55081e0103c73d51e32d1d02e2c87e9420381b617b48fdf27d1288e7",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "92687895a64bd995218a7363f047cd3252bec1302ae48bbd39b79c648ff6d187",
+        "path": "data/variable-documentation/92687895a64bd995218a7363f047cd3252bec1302ae48bbd39b79c648ff6d187.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2009-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "92b9017006ac719250b13878440e48179a45214769c95068e9861c8a3f9e80ef",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7ec9c8481adc9773f20e32acbfefea490d201baffe0eacb2aaa5d2004f1a8c31",
+        "path": "data/variable-documentation/7ec9c8481adc9773f20e32acbfefea490d201baffe0eacb2aaa5d2004f1a8c31.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2010-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "2447cdb01faf61c6debce2c3f5fd8d6208903c2c836a3c996bff2101550663cd",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "72c8792bf45f26d375714a3db193a8d8f4cc8595c8468f2e414b413802f0b2ee",
+        "path": "data/variable-documentation/72c8792bf45f26d375714a3db193a8d8f4cc8595c8468f2e414b413802f0b2ee.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2011-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "22b08e0bd907e4f83a06474ff9ad92aa0eff1363639559fce0be4b42c802f4f1",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e314cb0f45edde14ddc559db20fe327bd7284a2cbeeab076207b0c28ba7e4546",
+        "path": "data/variable-documentation/e314cb0f45edde14ddc559db20fe327bd7284a2cbeeab076207b0c28ba7e4546.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2012-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "708f2db4406d855ed6ba9d4390bbf286efb9592fc878ed470895188b8a7c7aca",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5b177702d4aea49c524e05d0a505779b4bd2004e84c9ff7cd5f6df2210db93e5",
+        "path": "data/variable-documentation/5b177702d4aea49c524e05d0a505779b4bd2004e84c9ff7cd5f6df2210db93e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2013-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "ed7374ae52f38afe54fbb466ae574c12af7d54dd3e7fb2df3686e550d69fb802",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b737f371c905719d816e20bb49c75e8e0794f02fd4299816534631a4772ea0bc",
+        "path": "data/variable-documentation/b737f371c905719d816e20bb49c75e8e0794f02fd4299816534631a4772ea0bc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2014-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "f63b1d74a29605f3957ed651cd3eb1ff8c9f96b95f2d970072131e8019ff5b4e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f8f24efbea907bc90dd7f50253032f82fc6d2e15ab188a0e4b3dac81a573963d",
+        "path": "data/variable-documentation/f8f24efbea907bc90dd7f50253032f82fc6d2e15ab188a0e4b3dac81a573963d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2015-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "52347cd5db0146861b1a455324b9dcda259e8d0dba1f15237f9a0f07b01ef2be",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8e910ef9191c0226d38a461b8398e621488a140fcfbf97649e801ffb817556f0",
+        "path": "data/variable-documentation/8e910ef9191c0226d38a461b8398e621488a140fcfbf97649e801ffb817556f0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2016-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "eadfe956d7fdc71c3aadd2bc31ee23aaea790ba154a0539ff05b89282a738f8e",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2b078981c5d02e57dda59e07ae71b8d75a74a77ffaefda91c43786af5cc9eb0f",
+        "path": "data/variable-documentation/2b078981c5d02e57dda59e07ae71b8d75a74a77ffaefda91c43786af5cc9eb0f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2017-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "f9f8b6c10e24f1185200fa842a1365b623775418da64ba1bef37f5ffe38b1a7d",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f0d2a3541b5989f8e7b27e98b528be5a923bfaa876267e2719723fddbc4e6455",
+        "path": "data/variable-documentation/f0d2a3541b5989f8e7b27e98b528be5a923bfaa876267e2719723fddbc4e6455.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2018-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "246fbc62836f04e20a6463fdb97e93b2e874a4d449a5cfa6e6dd51d5ab079435",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "00de8a66d8213b7ecef86a6d3bbb0ae919eecdd22334c126f0eb5bfe8c37ee82",
+        "path": "data/variable-documentation/00de8a66d8213b7ecef86a6d3bbb0ae919eecdd22334c126f0eb5bfe8c37ee82.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2019-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "90810b2cdff589a188145ce8c8fac4a96516808564e3b33d3ca5a1fa2fe420a6",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "60c050fb74be21c78564961d4699f317268d877e42776ba29dda11762ea589a7",
+        "path": "data/variable-documentation/60c050fb74be21c78564961d4699f317268d877e42776ba29dda11762ea589a7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2020-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "97b34a3f81d968cc15f514de8c6ed82ccdf70bd99173587da57971673d359d66",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6c2ad253056aae5d8847441ad7097c51dbff992552f791b4ef0cb44a363b73b7",
+        "path": "data/variable-documentation/6c2ad253056aae5d8847441ad7097c51dbff992552f791b4ef0cb44a363b73b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2021-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "1a676e6a6914907ccf9f37b0d3500bfe549b78d6b5d3b4cfbb9bb7aeb4869e1a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd325b76687f24378c0bf476ebde9e7b8864b4671b08ce46e4bfb62bf2b3cfb2",
+        "path": "data/variable-documentation/bd325b76687f24378c0bf476ebde9e7b8864b4671b08ce46e4bfb62bf2b3cfb2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2022-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "e757cd023b38635e2e2a20c8d2eb593bf047123553644d9dc1cafba68b7c7fa5",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a585075b22d71fb1f69e4df4111d8a90fe1a09e715c71f81c123f4c6667c25c5",
+        "path": "data/variable-documentation/a585075b22d71fb1f69e4df4111d8a90fe1a09e715c71f81c123f4c6667c25c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2023-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "04bad801a906f8f5471f28e8f02e62ea2dee03f9fbd36d60fabb047f114a9d8a",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e5a19778ba6f26cb4922bf584f2d6104ae2c4cf08c3d2e0bcb0a4b88c0c99013",
+        "path": "data/variable-documentation/e5a19778ba6f26cb4922bf584f2d6104ae2c4cf08c3d2e0bcb0a4b88c0c99013.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "AntalPersoner",
+      "variable": "Antal personer",
+      "register_version": "2024-12-31",
+      "source_task_id": "d1db018d13c44401a79b89ad4c9234f8a4efd467da30c692bef4362ab2c7c421",
+      "id": "8ed6aa2160e1e6a4b6d5dc029ccf57c6284cf9bfb8f1c4ad92fa87e1c7c883b0",
+      "domain_id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "AntalPersoner",
+          "ar_raw": "1998-2024",
+          "kallrad": 3686,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dbf6ebde5cb40ea03a13659d2599e0cfbc84096ddd542cbe44bb0ffa9e863308",
+        "path": "data/variable-documentation/dbf6ebde5cb40ea03a13659d2599e0cfbc84096ddd542cbe44bb0ffa9e863308.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "1998-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "de5494840ed55d2604f22079955f6a51509be034b89e6b386d1cc98be73ff52e",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fa70c6343405c14091b74ad0cb63d618c51031b11b329ee35943bef5e4966e8c",
+        "path": "data/variable-documentation/fa70c6343405c14091b74ad0cb63d618c51031b11b329ee35943bef5e4966e8c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "1999-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "6f87257bf9da19c691859f65a0856f5c1cf800c924cef52a1e1505b8adcf8ece",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "be2e5600dca2d3fae20f35ddf9d928cb877a0d7c8141b8aa47236e2aee7e3a4d",
+        "path": "data/variable-documentation/be2e5600dca2d3fae20f35ddf9d928cb877a0d7c8141b8aa47236e2aee7e3a4d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2000-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "1dd38f72a719815b02750584e92e0de2f39ae9e3b59cbb9d31c63ccf772fbc78",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d6e1299197041a3c66dbbb0c38076ec7fc0bded392432c9df246815840a0419b",
+        "path": "data/variable-documentation/d6e1299197041a3c66dbbb0c38076ec7fc0bded392432c9df246815840a0419b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2001-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "b1e117cdcd390c71e33a8b816f5fece359a0de6b8a33434ae8529fd56c678969",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "185ef875541cb65d33dc8e4020254fdf6f9e6b6b5e6d3bc00d24cff79a1e5c76",
+        "path": "data/variable-documentation/185ef875541cb65d33dc8e4020254fdf6f9e6b6b5e6d3bc00d24cff79a1e5c76.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2002-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "81133044c9ca1d99767d3fc5d7636c13498214312b40ff33a90207fe25310d9b",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3303240a2532990b688713505a393b1b5701f2d5eec096c7e0379988f1922ea4",
+        "path": "data/variable-documentation/3303240a2532990b688713505a393b1b5701f2d5eec096c7e0379988f1922ea4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2003-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "9df74ef74ada9e2250f932775d6b55a8b9265cce48518f7b9ed867caec5dc06f",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a4c2b1de377688138b2e804736d3d77b03f0c91105e8cb102dd09dee37aca842",
+        "path": "data/variable-documentation/a4c2b1de377688138b2e804736d3d77b03f0c91105e8cb102dd09dee37aca842.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2004-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "e0c7e29097219638b865d253b68ea2be51d4dcab75bd1a62d4c665aff761b962",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d5797a408fed6f37d920e53bbd93d929124c438b4c58bdb660a2288e13865c5",
+        "path": "data/variable-documentation/8d5797a408fed6f37d920e53bbd93d929124c438b4c58bdb660a2288e13865c5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2005-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "729b9fe2bfd22462245c33bf82441d46e7e9592225fa646a35df9e6433845ba9",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b4590ea42f9e9d2cd10740cb3babf88967568afb883158d9f55d0f364817a83b",
+        "path": "data/variable-documentation/b4590ea42f9e9d2cd10740cb3babf88967568afb883158d9f55d0f364817a83b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2006-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "253c311dbff793d873f1a1ab128bbfb2ec30b39f4a99ece81b12ce4b9eb6e370",
+      "domain_id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "2206035035adc66e10aa1f206d69502d4ef43bbe65cdb4e13502ea13c9d7a328",
+        "path": "data/variable-documentation/2206035035adc66e10aa1f206d69502d4ef43bbe65cdb4e13502ea13c9d7a328.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2007-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "3de51ae882ab86df231d0514a2b97d1816a5b1cf04d833c4f5d52eb997960cd0",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "0f5705585ee6733aa3dc670d2f67d3bdb2870d25589137382eceaef95d648461",
+        "path": "data/variable-documentation/0f5705585ee6733aa3dc670d2f67d3bdb2870d25589137382eceaef95d648461.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2008-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "d540e81c58e6ee02d3373d7e4e030aacd687a8e5bce76f4ebfd701b8b850e48b",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5dd47c9a40cf95f7a5a5504d75e6922dba770a615b66c0db97f2a9dcc3f485e0",
+        "path": "data/variable-documentation/5dd47c9a40cf95f7a5a5504d75e6922dba770a615b66c0db97f2a9dcc3f485e0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2009-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "4ef2ab3f62f894591a6eb5a31b86a4c95b8ef99303d9199c82f64dbaaefc1642",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "072031a2628ef66dcccd9f93190adfce4671ea8ace3954f3a4ec6bc877303863",
+        "path": "data/variable-documentation/072031a2628ef66dcccd9f93190adfce4671ea8ace3954f3a4ec6bc877303863.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2010-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "eb6b3033cec014a2d620cbd583eff53af69e3647389b92869959fbd6ad2dd020",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "30de78671a12c1100b2e74c858cf12ac7c9de1892337238bb839d150690e4485",
+        "path": "data/variable-documentation/30de78671a12c1100b2e74c858cf12ac7c9de1892337238bb839d150690e4485.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2011-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "20de0d37b83c0915f8da3448e859ad8e6ca9f48f594eeb9ab26bcbbc20ab842b",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6e315d460faa9674bcdb9888d77d8994a21f80e98662b57d96c56572df5e405a",
+        "path": "data/variable-documentation/6e315d460faa9674bcdb9888d77d8994a21f80e98662b57d96c56572df5e405a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2012-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "3837d51a5def43e800c99f94b5fbc066a1d0ad8654c992f1071050f6c218847a",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1f19f82a0b03eabbb6bbd4cfae0349a19c9034430549b14b1403fc7263cbbd22",
+        "path": "data/variable-documentation/1f19f82a0b03eabbb6bbd4cfae0349a19c9034430549b14b1403fc7263cbbd22.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2013-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "9bf2609de8809ef0ab09cd07e6bb72adfe174d2f1f903b9d1ae568566ba29505",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6fe99dfa23e59bd9c27162db7c52cdff510ddeae5a49119c779981684c01c296",
+        "path": "data/variable-documentation/6fe99dfa23e59bd9c27162db7c52cdff510ddeae5a49119c779981684c01c296.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2014-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "0a8a7710d822c0935022cd03b3e0122504005cc3a99ce4a82c7ed23011409e24",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "17fd861596ddf1e938ea81400f0b730b9d43ffedfbf8aa26a64831927c1a731a",
+        "path": "data/variable-documentation/17fd861596ddf1e938ea81400f0b730b9d43ffedfbf8aa26a64831927c1a731a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2015-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "4e9556c9edf0cd1f296f7f2b8c82b46e455af270ac98d060c3c33697dec01927",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d414fea68578bf685ad72537e50f9c402ac498320c9ad0a17a9f97e21b0f9af0",
+        "path": "data/variable-documentation/d414fea68578bf685ad72537e50f9c402ac498320c9ad0a17a9f97e21b0f9af0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2016-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "e5565ec7884bbaa5b0bd9a0a00e14d4724c882365d43b429eb496b535583de26",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "887f865470495c63775fc4c2c8f016833363a3f8fb16801c226c6ecc29852dba",
+        "path": "data/variable-documentation/887f865470495c63775fc4c2c8f016833363a3f8fb16801c226c6ecc29852dba.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2017-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "b2e8b287b52dce83398c47f2ec2f3eb46d47e05674949713a026e18c4eab323a",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "5474dded1cf2ee2b72b3e4e8c29920940308ce2245cacb12099bfe74c5c47ff2",
+        "path": "data/variable-documentation/5474dded1cf2ee2b72b3e4e8c29920940308ce2245cacb12099bfe74c5c47ff2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2018-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "a78c411b7cef824dd35a582946e2e24359adaa20824ea13ecb5c143d5bcb92b9",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "d1ae733f6227b4293f0e60029b74adb7b0df426364b8944378544f8791168155",
+        "path": "data/variable-documentation/d1ae733f6227b4293f0e60029b74adb7b0df426364b8944378544f8791168155.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2019-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "d3d53e286e4bf2502d86432a974c5267d93738e979564b10c1f181292311de04",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "982d7c210886ebd8a97d10eb7ce1dfff254d095b3a402b0b9a1d93d4ed7c7c43",
+        "path": "data/variable-documentation/982d7c210886ebd8a97d10eb7ce1dfff254d095b3a402b0b9a1d93d4ed7c7c43.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2020-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "1552906bdf7b4ee4ce59bfd8e28465e09bca9c7e64c35e4e05114ee51de6735e",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "900fae2276891705ebaf84509ef9930711fefd80f5ac0211d3efac6bbd6804e6",
+        "path": "data/variable-documentation/900fae2276891705ebaf84509ef9930711fefd80f5ac0211d3efac6bbd6804e6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2021-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "23d37e111d278c62598bcd72af6a8d54e65063e5fc5885e7a6b21157822dadaa",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a9b03139a3aced1c8d4bdfa521fba018d3d47d2f8b3c36efa5e7abeccd6ded1c",
+        "path": "data/variable-documentation/a9b03139a3aced1c8d4bdfa521fba018d3d47d2f8b3c36efa5e7abeccd6ded1c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2022-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "b4b006c25597abcc92d629ce648ef7ca0c4e671a2f47213d15c27221400ce03b",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "125c03d4e3f90194a9a90339660008c916ca9583ba8909a053c852252bec1915",
+        "path": "data/variable-documentation/125c03d4e3f90194a9a90339660008c916ca9583ba8909a053c852252bec1915.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2023-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "75e17d88ce5a650cff49e8dca61ba1996c6ff831cf3ca89649122317ecf34a09",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a953683c64f482192abedaba1685c5915bb1668115edec137c207100fb408d7",
+        "path": "data/variable-documentation/8a953683c64f482192abedaba1685c5915bb1668115edec137c207100fb408d7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famstall",
+      "variable": "Familjeställning",
+      "register_version": "2024-12-31",
+      "source_task_id": "6fd255606096fd4d15d68fa472e37315f46e8d86381f22a96f6114e9d1b671bc",
+      "id": "fcb7a7fd45db183424e7df1b69172f474e40df2bbad6de2274a63e7f38b2ffc5",
+      "domain_id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamStall",
+          "ar_raw": "1998-2024",
+          "kallrad": 3687,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "e8d6e3ed1e2a1fe5fb7d3383624571ad211342e3e4d4d19b7caf982360d0cb80",
+        "path": "data/variable-documentation/e8d6e3ed1e2a1fe5fb7d3383624571ad211342e3e4d4d19b7caf982360d0cb80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "1998-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "f2d1728b13a518337990c0e0dab043c4f19792d2666dc7680ef241d2eb3039f2",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8a407a611e9263ee0979cad876f97815c103c3ced4f59a15cab71ade55c26d80",
+        "path": "data/variable-documentation/8a407a611e9263ee0979cad876f97815c103c3ced4f59a15cab71ade55c26d80.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "1999-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "f9a51482397887a4f3f4ab948cf8b79bcc2cc163f5a30b47d1f1fbd13503e322",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "3f0b53fe45322586fe6d041bc3e53a1921f61da19670373931da5af005086576",
+        "path": "data/variable-documentation/3f0b53fe45322586fe6d041bc3e53a1921f61da19670373931da5af005086576.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2000-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "852f3bc2d2fd614c1a540c388da6e0562295c9fd7725c2df9c488e622ea4cc57",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "7d187c67e2cfd9cc1628bcdb0155a9fc7a3de3041203dc2ee8a36c94c526f53f",
+        "path": "data/variable-documentation/7d187c67e2cfd9cc1628bcdb0155a9fc7a3de3041203dc2ee8a36c94c526f53f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2001-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "3d57930a058b856cec4d2047417abe85463151f5136d94450156f25cca84acb4",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f67d1b0443c107fb7fcd52a18141ffc6fb82d8c329c0071f099fec6e9a2058b5",
+        "path": "data/variable-documentation/f67d1b0443c107fb7fcd52a18141ffc6fb82d8c329c0071f099fec6e9a2058b5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2002-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "3856a9dd146765b09cd0b93e3e86479ae544ba3b50676367be59dbd30bd320e4",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "964ac7bc0abce5766171db0196a40e084243ff70cce81c6c80799b77bbcc2d5d",
+        "path": "data/variable-documentation/964ac7bc0abce5766171db0196a40e084243ff70cce81c6c80799b77bbcc2d5d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2003-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "359975d5857b4b843d3d47ce6e65ae11ad023a09d04c5c30d0bab6e16bee7eaf",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "6d5238957cf103e5b4bd1ec958aaa0c010043ce9f82465498d3ff2046550430a",
+        "path": "data/variable-documentation/6d5238957cf103e5b4bd1ec958aaa0c010043ce9f82465498d3ff2046550430a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2004-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "49d9369dbdaa4f0f7a383d947e7f6c98b4fa809c69c1ee1b663a0caa71481b3c",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "a673d0eebfd19b97d5b17144e27fb7823cefd22b70e6a6af5bc74b8951b129f4",
+        "path": "data/variable-documentation/a673d0eebfd19b97d5b17144e27fb7823cefd22b70e6a6af5bc74b8951b129f4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2005-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "ee9dc99e2e0464f81ed4ae14221e7a19c3d2371f8f8b06acf0eb38647c01adc3",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "68935cc29be4c0b7eec988d97754f47ffcf89be53384d3ff51a3b5c3fbecd7e3",
+        "path": "data/variable-documentation/68935cc29be4c0b7eec988d97754f47ffcf89be53384d3ff51a3b5c3fbecd7e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2006-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "2e1fdb7b3bc378771ac6340b4359d868fcf364eb878d1872af55fb038b4a1fae",
+      "domain_id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "dace01714c39efeee0932a0e9d8c53ecf91f1a6177d65b00bffe60f2ddfcd963",
+        "path": "data/variable-documentation/dace01714c39efeee0932a0e9d8c53ecf91f1a6177d65b00bffe60f2ddfcd963.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2007-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "876f58456da2b2032b1355d06878126389d8712a5bcf2e3a7edeee48d2af4b44",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "8d98cf78cde440a55f453942d3845a3cc829f0b64e862286545d8d67bec415c0",
+        "path": "data/variable-documentation/8d98cf78cde440a55f453942d3845a3cc829f0b64e862286545d8d67bec415c0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2008-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "4336247a2439257e56a0cbdfe7d060ddbdc9512ffc5e161ffe5e13b414d3851e",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1cca10369c4f14fd336e439b732bbb64c9790c0ef38b9e334b9a8367feeee9bb",
+        "path": "data/variable-documentation/1cca10369c4f14fd336e439b732bbb64c9790c0ef38b9e334b9a8367feeee9bb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2009-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "46b32937c5bf22b49f458e58b8a59cde897fe00cf5429bdb8ce88afacfb33822",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c57a28c987c56d9096a0848bc0bbe974b32050a046e701237ed9ed5adc8397f2",
+        "path": "data/variable-documentation/c57a28c987c56d9096a0848bc0bbe974b32050a046e701237ed9ed5adc8397f2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2010-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "e796ba8bcafbcfd359e67a055ea95d4a76accb8ed86bb9f18b7f922e3809555c",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "fb3c1fb737884123cb89f39be4fafdd50aac0b14657a92660353382ddcd568d1",
+        "path": "data/variable-documentation/fb3c1fb737884123cb89f39be4fafdd50aac0b14657a92660353382ddcd568d1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2011-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "dec27ea9a86825940bdc69b58bec4e3836e7a97d36b58c6ebbe61f4ed614cab0",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "bd0481a72933e4c7eee82c5344695a72d64fdd7f17940557744d6aef5b23b6e4",
+        "path": "data/variable-documentation/bd0481a72933e4c7eee82c5344695a72d64fdd7f17940557744d6aef5b23b6e4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2012-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "45cef62bb5a6df5eece34ab7b83f7608124af82aa9504ec1a18910500894df91",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "1f10595693fab96d66edd9361396b4092d9b95a14b5500aafd654baa80c50884",
+        "path": "data/variable-documentation/1f10595693fab96d66edd9361396b4092d9b95a14b5500aafd654baa80c50884.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2013-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "4006d9a1841f7c48985955ae601e77d73a4611f8bc6937a101e565bfd72e1c4a",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "239fd2646835c9e7a0b515bed4e8f7feff27c8b4030aa70a3226acea98984d3c",
+        "path": "data/variable-documentation/239fd2646835c9e7a0b515bed4e8f7feff27c8b4030aa70a3226acea98984d3c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2014-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "2ebb581b137e45149a218aa8437a4a6a2424b512cb994a9d6e8bea02e77664ae",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "84afb64efab7dafacda1807c194939a7a2f1c2bf2ea17e32359f9189d67735a6",
+        "path": "data/variable-documentation/84afb64efab7dafacda1807c194939a7a2f1c2bf2ea17e32359f9189d67735a6.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2015-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "a8c7322a1169c0147c687aac135d4a98fab8a598f5f6c034a0997aa8cfb6d6aa",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "c0074d80058d6dbd7b7b7f22f48178359a2e2715a6e310a55d5f015e92afc75c",
+        "path": "data/variable-documentation/c0074d80058d6dbd7b7b7f22f48178359a2e2715a6e310a55d5f015e92afc75c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2016-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "f8de3c60b9b9c5424d642505d414199465fe39c1295e74b2231baeaa48aa4125",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "90fbe1038124f2c41740a01943087e125d577ed9eee36d2a3cb754dc15969dcd",
+        "path": "data/variable-documentation/90fbe1038124f2c41740a01943087e125d577ed9eee36d2a3cb754dc15969dcd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2017-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "074cf0b8caba1ce7e7972ff46b898d0239ef568901bd181ec911699c46db5701",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "769cedbc55058378dd421ecbda3a9750d304c81d1e44127b968126d5fff249a1",
+        "path": "data/variable-documentation/769cedbc55058378dd421ecbda3a9750d304c81d1e44127b968126d5fff249a1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2018-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "0e16c08badf9a8e51826dbb4c6d3cc56b93b04e59d8f5efc34884c2ef7410e4a",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "ebc1c46a8764c4c829ca15b7e2b80cabb9bc09ca37e65f891b173d7f0d145668",
+        "path": "data/variable-documentation/ebc1c46a8764c4c829ca15b7e2b80cabb9bc09ca37e65f891b173d7f0d145668.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2019-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "8215ea1035fc3ffa936c507296bbbf8d3f48c40e65c3caa1fa76694a7c53d4cc",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "9fa899d2109653f34d2dc46b8c96ded70b779489295d67ef7b3b26e84246dee7",
+        "path": "data/variable-documentation/9fa899d2109653f34d2dc46b8c96ded70b779489295d67ef7b3b26e84246dee7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2020-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "b86b5987724a13e5c8e95252ce4b5b261f18e06d5cdf654cc748dfbe7fd027e0",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "cc6eeaa942c780814a4318911ad43202dffa67c8bec442cac82b9b9320a26022",
+        "path": "data/variable-documentation/cc6eeaa942c780814a4318911ad43202dffa67c8bec442cac82b9b9320a26022.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2021-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "eb9d37a2ed4f3f53ebf95b42dbb645b2bb15542040d53c77a777715e778bbed3",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "f7378157966f2e47518b6e6118447f21fc3b98d65a533f1ac4753ad0809c6450",
+        "path": "data/variable-documentation/f7378157966f2e47518b6e6118447f21fc3b98d65a533f1ac4753ad0809c6450.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2022-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "d6d849e08998fad530028df7edc3ccf0c8df2f81a411ddeb29124f9149117cee",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "b9200b1a4af1096fa13c54f55080de2984eff37f6ab6bfcb261dfbb6272d71c7",
+        "path": "data/variable-documentation/b9200b1a4af1096fa13c54f55080de2984eff37f6ab6bfcb261dfbb6272d71c7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2023-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "73942eb9522f9518c0cd96571a6f0dd7a85841c8a6b1048f2dd4574be593041f",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "51fe2b7ed14b213d35752c228a9d7a48f0b27aa269c15b81c3330f5de644fd46",
+        "path": "data/variable-documentation/51fe2b7ed14b213d35752c228a9d7a48f0b27aa269c15b81c3330f5de644fd46.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    },
+    {
+      "register": "Befolkningsregistret (RTB)",
+      "variant": "Familjer från 1998-",
+      "column": "Famtyp",
+      "variable": "Familjetyp",
+      "register_version": "2024-12-31",
+      "source_task_id": "386c908742f27ec90cb3ff1a067ca5cd5db4f4578d1372a23807080078298a32",
+      "id": "51578e28c2120626afff71c4388f05b071467524a8028f51433073b5954e4cf1",
+      "domain_id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T07:37:28+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "rtbfamilj",
+          "variabel": "FamTyp",
+          "ar_raw": "1998-2024",
+          "kallrad": 3688,
+          "method": "case_only"
+        }
+      ],
+      "order_years_unknown": false,
+      "documentation": {
+        "id": "016ed142de250541e3b16ad0b4fc01b25e1defa3372b066246c002b49a279cd0",
+        "path": "data/variable-documentation/016ed142de250541e3b16ad0b4fc01b25e1defa3372b066246c002b49a279cd0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T07:37:28+00:00"
+    }
+  ],
+  "domains": [
+    {
+      "version": "Familjetyp",
+      "level": "Familjetyp",
+      "data_type": "varchar(2)",
+      "id": "4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f",
+      "value_count": 13,
+      "path": "data/value-domain-values/4f2991b33d9bd8a585be9bc323e680f3de62dc67cd87f54f54078979cff26a4f.json"
+    },
+    {
+      "version": "Familjeställning ",
+      "level": "Familjeställning",
+      "data_type": "varchar(3)",
+      "id": "775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d",
+      "value_count": 28,
+      "path": "data/value-domain-values/775fa851edb875d57fa4b3a8ea7d6cfa754d5a2a93150037fe6b5dcb691faa8d.json"
+    },
+    {
+      "version": "Familjeställning ",
+      "level": "Familjeställning",
+      "data_type": "char(5)",
+      "id": "af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17",
+      "value_count": 28,
+      "path": "data/value-domain-values/af30f57e570e397378795529d67ffca20ae27871e4a17a50364411f3eeca5a17.json"
+    },
+    {
+      "version": "Familjetyp",
+      "level": "Familjetyp",
+      "data_type": "char(3)",
+      "id": "e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6",
+      "value_count": 13,
+      "path": "data/value-domain-values/e9aff5419ae1c6da205719a7b96f4c5c0be6cbc43132f92559ffd1de02bd7df6.json"
+    },
+    {
+      "version": "Tal",
+      "level": "Tal",
+      "data_type": "int",
+      "id": "fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145",
+      "value_count": 0,
+      "path": "data/value-domain-values/fc1e49628aaf099f64e586cbb51dac19ecdfceb6e8a809e6042620f2990e0145.json"
+    }
+  ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "f6e9475bec6e202a0ba8b50e1663c62d2d65de55cf9c720fa281051e25eecf7d",
-    "passes": 1,
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "e56927823c7db5ccb7a44461291f056c9bd12aab79c70ef9d50373c33ee2ff25",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:11:21+00:00",
+    "retrieved_at": "2026-11-21T07:37:28+00:00",
     "task_count": 3,
-    "expected_bindings": 0,
-    "errors": [
-      "AntalPersoner: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']",
-      "Famstall: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']",
-      "Famtyp: inga verifierade beställningsperioder i källversionerna ['1998-12-31', '1999-12-31']..['2024-12-31', '2025-12-31']"
-    ]
+    "expected_bindings": 81,
+    "documented_bindings": 81,
+    "errors": []
   }
 }
