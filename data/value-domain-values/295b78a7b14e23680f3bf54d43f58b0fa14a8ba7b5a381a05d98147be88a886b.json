@@ -1,0 +1,56 @@
+{
+  "version": "Betyg i SFI fr.o.m 1 juli 2012  t.o.m 31 december 2021",
+  "level": "Betyg i SFI",
+  "data_type": "char(1)",
+  "values": [
+    {
+      "code": " ",
+      "label": "Uppgift om betyg saknas"
+    },
+    {
+      "code": "-",
+      "label": "Bedömningsunderlag saknas på grund av frånvaro"
+    },
+    {
+      "code": "*",
+      "label": "Uppgift saknas"
+    },
+    {
+      "code": "A",
+      "label": "A"
+    },
+    {
+      "code": "B",
+      "label": "B"
+    },
+    {
+      "code": "C",
+      "label": "C"
+    },
+    {
+      "code": "D",
+      "label": "D"
+    },
+    {
+      "code": "E",
+      "label": "E"
+    },
+    {
+      "code": "F",
+      "label": "F"
+    },
+    {
+      "code": "G",
+      "label": "Godkänt"
+    },
+    {
+      "code": "I",
+      "label": "Inte godkänt"
+    },
+    {
+      "code": "V",
+      "label": "Väl godkänt"
+    }
+  ],
+  "id": "295b78a7b14e23680f3bf54d43f58b0fa14a8ba7b5a381a05d98147be88a886b"
+}

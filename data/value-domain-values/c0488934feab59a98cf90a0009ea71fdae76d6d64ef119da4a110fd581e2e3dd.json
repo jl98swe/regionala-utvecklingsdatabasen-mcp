@@ -1,0 +1,20 @@
+{
+  "version": "Behörighet gymn",
+  "level": "0 - 1 ",
+  "data_type": "varchar(2)",
+  "values": [
+    {
+      "code": "[NULL]",
+      "label": "Har ej gått ut grundskolan under vårterminen"
+    },
+    {
+      "code": "0",
+      "label": "Inte behörig"
+    },
+    {
+      "code": "1",
+      "label": "Behörig"
+    }
+  ],
+  "id": "c0488934feab59a98cf90a0009ea71fdae76d6d64ef119da4a110fd581e2e3dd"
+}

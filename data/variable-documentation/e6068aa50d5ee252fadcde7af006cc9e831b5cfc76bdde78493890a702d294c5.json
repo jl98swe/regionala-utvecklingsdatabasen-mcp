@@ -1,0 +1,90 @@
+{
+  "source": "https://mikrometadata.scb.se/",
+  "fields": [
+    {
+      "name": "Datatyp",
+      "value": "varchar(2)"
+    },
+    {
+      "name": "Variabelnamn",
+      "value": "Behörighet till gymnasieskolan"
+    },
+    {
+      "name": "Variabeldefinition",
+      "value": "Anger om eleven har behörighet till gymnasieskolan."
+    },
+    {
+      "name": "Variabelbeskrivning",
+      "value": ""
+    },
+    {
+      "name": "VariabelOperationell_definition",
+      "value": "Värden anges för personer som har avslutat grundskolan under vårterminen aktuellt år.  Inför hösten 2011 skärptes behörighetskraven till gymnasieskolan. Tidigare krävdes enbart godkända betyg i de tre ämnena matematik, engelska och svenska alternativt svenska som andraspråk. De skärpta behörighetskraven innebär att det behövs godkända betyg i ytterligare fem ämnen, totalt åtta, för att söka yrkesprogram. För högskoleförberedande program behövs godkända betyg i ytterligare nio ämnen, totalt tolv. De nio ämnena skiljer sig åt mellan de olika högskoleförberedande programmen. I STATIV gäller att eleven ska vara behörig till minst ett högskoleförberedande program och/eller ett yrkesprogram."
+    },
+    {
+      "name": "VariabelRegister_Källa",
+      "value": "Grundskola: betyg åk 9 : Grundskolan: betyg åk 9"
+    },
+    {
+      "name": "VariabelExtern_Kommentar",
+      "value": ""
+    },
+    {
+      "name": "Registerversionbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration för de folkbokförda 31/12 2021."
+    },
+    {
+      "name": "Populationnamn",
+      "value": "Folkbokförda personer i Sverige"
+    },
+    {
+      "name": "Populationdefinition",
+      "value": "Folkbokförda personer i Sverige 31/12 undersökningsåret."
+    },
+    {
+      "name": "Populationkommentar",
+      "value": ""
+    },
+    {
+      "name": "Populationdatum",
+      "value": "2021-12-31"
+    },
+    {
+      "name": "Registerversionmätinformation",
+      "value": "Uppgifterna i STATIV hämtas från ett flertal register. Samtliga uppgifter har sin grund i samhällets administrativa uppgifter. Vissa uppgifter är hämtade direkt från dessa register medan andra uppgifter kommer från register som har förberetts för statistikproduktion."
+    },
+    {
+      "name": "Objekttypnamn",
+      "value": "Person"
+    },
+    {
+      "name": "Objekttypdefinition",
+      "value": "Alla slags fysiska personer. Inkluderar t.ex. anställd, elev, patient, barn."
+    },
+    {
+      "name": "Registervariantnamn",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantrubrik",
+      "value": "STATIV"
+    },
+    {
+      "name": "Registervariantbeskrivning",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    },
+    {
+      "name": "Registernamn",
+      "value": "Registret för integrationsstudier (STATIV)"
+    },
+    {
+      "name": "Registerrubrik",
+      "value": "Registret för integrationsstudier STATIV"
+    },
+    {
+      "name": "Registersyfte",
+      "value": "STATIV:s syfte är att utgöra underlag för beskrivning och analys avseende integration, segregation, jämställdhet och migration."
+    }
+  ],
+  "id": "e6068aa50d5ee252fadcde7af006cc9e831b5cfc76bdde78493890a702d294c5"
+}
