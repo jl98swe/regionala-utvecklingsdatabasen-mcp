@@ -10,15 +10,27 @@ COLLECTOR_SHA=__import__('hashlib').sha256(Path(__file__).read_bytes()).hexdiges
 def group_id(register,variant):return digest([register,variant])[:20]
 def eligible(raw,label):
  if not raw:return True  # Source documentation only; does not assert order availability.
- if not re.fullmatch(r'\d{4}(?:[-/]\d{1,2})?|\d{6}',label):return False
- p=int(label.replace('-','').replace('/',''))
+ label=label.strip()
+ # Compare the actual documented period; do not manufacture yearly versions.
+ if re.fullmatch(r'\d{4}-\d{2}-\d{2}',label):
+  try:datetime.strptime(label,'%Y-%m-%d')
+  except ValueError:return False
+  source_lo=source_hi=int(label[:4]);month=int(label[:7].replace('-',''))
+ elif re.fullmatch(r'\d{4}[-–/]\d{4}',label):
+  source_lo,source_hi=map(int,re.split(r'[-–/]',label));month=None
+  if source_hi<source_lo:return False
+ elif re.fullmatch(r'\d{4}(?:[-/]\d{1,2})?|\d{6}',label):
+  digits=label.replace('-','').replace('/','')
+  if len(digits)==5:digits=digits[:4]+'0'+digits[4:]
+  source_lo=source_hi=int(digits[:4]);month=int(digits) if len(digits)==6 else None
+  if month is not None and not 1<=month%100<=12:return False
+ else:return False
  for a,b in re.findall(r'(\d{4,6})(?:\s*[-–]\s*(\d{4,6}))?',str(raw)):
   lo,hi=int(a),int(b or a)
-  if len(str(p))==4 and len(a)==6:
-   if lo//100<=p<=hi//100:return True
-  elif len(str(p))==6 and len(a)==4:
-   if lo<=p//100<=hi:return True
-  elif lo<=p<=hi:return True
+  if len(a)==6:
+   if month is not None and lo<=month<=hi:return True
+   if month is None and lo//100<=source_hi and source_lo<=hi//100:return True
+  elif lo<=source_hi and source_lo<=hi:return True
  return False
 
 def path_for(gid):return ROOT/f'data/value-domains-ordered/{gid}.json'
@@ -69,7 +81,7 @@ def main(a):
   expect(page.get_by_role('progressbar')).to_have_count(0)
   update=page.get_by_text(re.compile(r'^Metadata uppdaterades:')).inner_text().split(':',1)[1].strip()
   if update!=plan['scb_source_updated']:raise ValueError('SCB-indexet behöver uppdateras före hämtningen')
-  if old_coverage.get('complete') and old_coverage.get('expected_bindings',0)>0 and old_coverage.get('source_updated')==update and old_coverage.get('task_sha256')==task_hash:
+  if old_coverage.get('complete') and old_coverage.get('collector_sha256')==COLLECTOR_SHA and old_coverage.get('expected_bindings',0)>0 and old_coverage.get('source_updated')==update and old_coverage.get('task_sha256')==task_hash:
    print('Oförändrad källa och komplett urval; ingen export behövs.');return
   choose_register(page,reg)
   field=page.get_by_role('textbox',name='Registervariant',exact=True);field.click()

@@ -3,7 +3,7 @@ from pathlib import Path
 import sys
 ROOT=Path(__file__).parents[1];sys.path.insert(0,str(ROOT/'scripts'))
 from harvest_mikrometadata import digest
-from harvest_order_domains import eligible
+from harvest_order_domains import eligible,export_sets
 class OrderTests(unittest.TestCase):
  def test_period_scope_does_not_invent_order_availability(self):
   self.assertTrue(eligible('1997-2024','2010'))
@@ -13,6 +13,22 @@ class OrderTests(unittest.TestCase):
   self.assertFalse(eligible('202001-202512','2026-01'))
   self.assertTrue(eligible(None,'In- och utvandrade'))
   self.assertFalse(eligible('2010-2024','okänt format'))
+ def test_actual_date_and_combined_source_periods(self):
+  self.assertTrue(eligible('1998-2024','2024-12-31'))
+  self.assertFalse(eligible('1998-2024','2025-12-31'))
+  self.assertFalse(eligible('2024','2024-02-31'))
+  self.assertTrue(eligible('2005-2024','2005-2025'))
+  self.assertFalse(eligible('2000-2004','2005-2025'))
+  self.assertTrue(eligible('202401-202412','2024-12-31'))
+  self.assertFalse(eligible('202401-202411','2024-12-31'))
+  self.assertFalse(eligible('2024','Kvartal 1-3 fr.o.m. 2009'))
+ def test_export_separates_levels_preserving_codes(self):
+  header='Vardemangdsversion\tVardemangdsniva\tDatatyp\tKolumnnamn\tVardekod\tVardebenamning\n'
+  text=header+'v\tDetalj\tText\tX\t001\tEtt\n'+'v\tDetalj\tText\tX\t\tSaknas\n'+'v\tGrupp\tText\tX\t1\tGrupp ett\n'
+  result=export_sets(text)
+  self.assertEqual(len(result),2)
+  self.assertEqual(result[0][0]['values'],[{'code':'001','label':'Ett'},{'code':'','label':'Saknas'}])
+  self.assertEqual(result[0][1],{'X'})
  def test_plan_is_derived_from_order_and_reviewed_sources(self):
   meta=json.loads((ROOT/'data/metadata.json').read_text())
   path=ROOT/'data/order-source-plan.json'

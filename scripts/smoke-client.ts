@@ -36,6 +36,16 @@ try{
   if(column==='AntalVP')assert.equal(domain.binding.status,'not_enumerated');
   console.log(JSON.stringify({tool:'hamta_vardemangd',column,year,total:domain.total,status:'PASS'}));
  }
+ const ordered=await c.callTool({name:'sok_vardemangder',arguments:{databasvy:'rtb',kolumn:'FodelseLan',registerversion:'2024-12-31'}});
+ assert.notEqual(ordered.isError,true,JSON.stringify(ordered));
+ const os=ordered.structuredContent as {total:number;results:{id:string}[]};
+ assert.equal(os.total,1,JSON.stringify(ordered));
+ const ov=await c.callTool({name:'hamta_vardemangd',arguments:{kopplings_id:os.results[0]!.id,limit:100}});
+ assert.notEqual(ov.isError,true,JSON.stringify(ov));
+ const od=ov.structuredContent as {total:number;results:{code:string;label:string}[];binding:{orders:{databasvy:string}[]}};
+ assert.ok(od.total>0);assert.ok(od.results.every(v=>typeof v.code==='string'));
+ assert.ok(od.binding.orders.some(o=>o.databasvy==='rtb'));
+ console.log(JSON.stringify({tool:'hamta_vardemangd',case:'order_scoped_rtb',total:od.total,status:'PASS'}));
  const note=await c.callTool({name:'kontrollera_tillganglighet',arguments:{urval:[{databasvy:'in_utvandring_lisa',variabler:['InvUtvManad'],perioder:[1997,1998],kontext:{ar_begrepp:'registerar'}}]}});
  assert.notEqual(note.isError,true);assert.match(JSON.stringify(note.structuredContent),/crosses_breakpoint/);
  const h=await c.callTool({name:'hamta_kodmall',arguments:{mall:'harmonisera_argangar',urval:[{databasvy:'avggymn',variabler:['totalpoang'],period:2004},{databasvy:'avggymn',variabler:['totalpoang'],period:2005}]}});

@@ -22,7 +22,7 @@ def pending(plan,index):
  out=[]
  for g in index['groups']:
   p=path_for(g['id']);c=json.loads(p.read_text()).get('coverage',{}) if p.exists() else {}
-  if c.get('complete') and c.get('expected_bindings',0)>0 and c.get('source_updated')==plan['scb_source_updated'] and c.get('task_sha256')==digest(groups_from_plan(plan)[g['id']]):continue
+  if c.get('complete') and c.get('collector_sha256')==COLLECTOR_SHA and c.get('expected_bindings',0)>0 and c.get('source_updated')==plan['scb_source_updated'] and c.get('task_sha256')==digest(groups_from_plan(plan)[g['id']]):continue
   if c.get('errors') and c.get('source_updated')==plan['scb_source_updated'] and c.get('collector_sha256')==COLLECTOR_SHA:continue
   out.append((c.get('passes',0),g['priority'],g['id']))
  return [gid for _,_,gid in sorted(out)]
