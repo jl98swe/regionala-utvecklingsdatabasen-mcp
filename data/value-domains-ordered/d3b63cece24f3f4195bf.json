@@ -10,6 +10,186 @@
       "variant": "Momsdeklarationsregistret",
       "column": "Export_Oms",
       "variable": "Total export av varor och tjänster",
+      "register_version": "2008",
+      "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
+      "id": "f1cb566d51c6860ffeb93b34bc3e279dd579f1cb6c5e187b04f2ddd0f412a262",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Export_Oms",
+          "ar_raw": "2008-2023",
+          "kallrad": 3622,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Export_Oms",
+          "ar_raw": null,
+          "kallrad": 3644,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "42039d866147c61f6bcb712a3977fc8a6af564f3d30a897703bb91205b330c8b",
+        "path": "data/variable-documentation/42039d866147c61f6bcb712a3977fc8a6af564f3d30a897703bb91205b330c8b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Export_Oms",
+      "variable": "Total export av varor och tjänster",
+      "register_version": "2009",
+      "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
+      "id": "a28a666e47fa84296956caa82dda6ead8a0f8b460783a8f31ef9c933c61ea57b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Export_Oms",
+          "ar_raw": "2008-2023",
+          "kallrad": 3622,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Export_Oms",
+          "ar_raw": null,
+          "kallrad": 3644,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "3cca444237ba2843d212a26e588183e87ac78bee6d285a26c0a6b19d03f96ce7",
+        "path": "data/variable-documentation/3cca444237ba2843d212a26e588183e87ac78bee6d285a26c0a6b19d03f96ce7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Export_Oms",
+      "variable": "Total export av varor och tjänster",
+      "register_version": "2010",
+      "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
+      "id": "de313ec8c4699a0d39e2bf221b56565e4255d2c34a218d07c7c0c3be5683a14e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Export_Oms",
+          "ar_raw": "2008-2023",
+          "kallrad": 3622,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Export_Oms",
+          "ar_raw": null,
+          "kallrad": 3644,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "054b9546f902f0fb0d106506ada0ea088c750290648463766e6eac9a419cd448",
+        "path": "data/variable-documentation/054b9546f902f0fb0d106506ada0ea088c750290648463766e6eac9a419cd448.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Export_Oms",
+      "variable": "Total export av varor och tjänster",
+      "register_version": "2011",
+      "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
+      "id": "916e6a6b9d35978a346332bd1ef390a08ec995a2c19bcfeb259c67ba20534f2d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Export_Oms",
+          "ar_raw": "2008-2023",
+          "kallrad": 3622,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Export_Oms",
+          "ar_raw": null,
+          "kallrad": 3644,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "418a69be6ebbbce648ddd871d3b3252fcceb96958606443be4531654331f255c",
+        "path": "data/variable-documentation/418a69be6ebbbce648ddd871d3b3252fcceb96958606443be4531654331f255c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Export_Oms",
+      "variable": "Total export av varor och tjänster",
+      "register_version": "2012",
+      "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
+      "id": "3a8c56a0dd880ab31a8f8d7ca1edae449d72690772f60ff3d458c75aaa28dd27",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Export_Oms",
+          "ar_raw": "2008-2023",
+          "kallrad": 3622,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Export_Oms",
+          "ar_raw": null,
+          "kallrad": 3644,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "eeb9b0f3e76f140b2f23720833b03b4909a93e9cc90d966928e90c984836d534",
+        "path": "data/variable-documentation/eeb9b0f3e76f140b2f23720833b03b4909a93e9cc90d966928e90c984836d534.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Export_Oms",
+      "variable": "Total export av varor och tjänster",
       "register_version": "2013",
       "source_task_id": "a949f1469a34ca1615f198df86a311fba18836f47375ece023272cf89443d4d0",
       "id": "f44c024cdfa4472e906307860539c3037d6a8e48a691bb69592ddb663af1ec3c",
@@ -364,6 +544,510 @@
         "path": "data/variable-documentation/4abdbb57e7991baea9253dea23ff841601894eb30bc6e82f37e85ed900d92f71.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "1999",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "e50cfd09849076c5301a0aad9cf917b7b18f87f2968ca4d3110526bd7371ee76",
+      "domain_id": "17aaa7cc6fc455d46879807a9169210d365c7f33ed3b19845d98168b5c3d1d03",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "9ac5873c502a349b6e07e80899526ee54f6639da332207e2ca1a1b163e52ea96",
+        "path": "data/variable-documentation/9ac5873c502a349b6e07e80899526ee54f6639da332207e2ca1a1b163e52ea96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2000",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "620cfb3633a17cee8cc414c0b270c24b8475e5f7bfd06d7535ce3b74659cdafb",
+      "domain_id": "650d2bbc2bacb696c1f49c6a3e763cd83da75f839c62401fde3a1b0e206b88c3",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f30c3334af448387a6b567e76382d72e86ce128f0b53c6546d9583f89dc88ed2",
+        "path": "data/variable-documentation/f30c3334af448387a6b567e76382d72e86ce128f0b53c6546d9583f89dc88ed2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2001",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "18b121a75a61de9ae61a126587925782aa090aeedaf87ec51433dcd7b6bbd078",
+      "domain_id": "c8e5f007ef3c14885f95fce3abef1f6f4c1f3f6b141bf907fbe12b55071b258d",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "80aec7e5e9773417ca4326d71c2afdd5c56e6b6a26bfba6a66ab3f77c413161f",
+        "path": "data/variable-documentation/80aec7e5e9773417ca4326d71c2afdd5c56e6b6a26bfba6a66ab3f77c413161f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2002",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "f1826dba800226e085b1981d96fc1c0392921826e528373c4583d6aba1a3f717",
+      "domain_id": "484162c5a7c9243cf8affa3c02166060fe46bb529367ead07ba9b7889b3ad7d7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "eab16ac89fc3abde21587d1afd259cfa85c25453558907f09e280002cb15a2c1",
+        "path": "data/variable-documentation/eab16ac89fc3abde21587d1afd259cfa85c25453558907f09e280002cb15a2c1.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2003",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "afe31b2dc63f20acc18b19ff566634ff8ac0bf8779777a53f1ff6225a9673f87",
+      "domain_id": "f292b9cd07f847dab5a5bae14dac3e984f0c7ed81040fc6435ecba760a1d8930",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8d8ee843e6931d32e6225149c2a5e5b9d5bb89a1b9cca7f6262ef7241dd6ca89",
+        "path": "data/variable-documentation/8d8ee843e6931d32e6225149c2a5e5b9d5bb89a1b9cca7f6262ef7241dd6ca89.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2004",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "f55d0b9561d5aad004897520d220ad168509fea5b9c04f1e713614c7b42d743a",
+      "domain_id": "33d093983216284859fda9c07e4b515cd770a46bba1874ed6dba7eac81b77c40",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "1c190c7d538fcb2b8ff85fdf26f7220e237a2668720de16a4ac86f1856814c83",
+        "path": "data/variable-documentation/1c190c7d538fcb2b8ff85fdf26f7220e237a2668720de16a4ac86f1856814c83.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2005",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "b7256073fa7aa74ae65accb1711ce9f07747efd5a92ad746d2b0e8353b475143",
+      "domain_id": "af8666cef3e474ff1739704f291d7cded0332cb5a30b2334f2ed57c1d72919c0",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "801fd56033909a680a8e3743f976c08139150ffc8b52de30a4ef86ba7dd344f2",
+        "path": "data/variable-documentation/801fd56033909a680a8e3743f976c08139150ffc8b52de30a4ef86ba7dd344f2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2006",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "8435c3a2d7331ffdee6f126043affb5f2f14520e0e5bf0b81453dd2c84a76e38",
+      "domain_id": "2160c422bffaa5c9851449c74e951562f4599aeb89a05436346987e746caf93a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8eab446953b535aeebb8bc97a5665bd6f8ef07d4294c9f8286ba3e1115e5deb3",
+        "path": "data/variable-documentation/8eab446953b535aeebb8bc97a5665bd6f8ef07d4294c9f8286ba3e1115e5deb3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2007",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "384df114525ed4651094918694cb34701770372aa7f74322e0a3c910078a567e",
+      "domain_id": "9699881102a110f60e06d9014f46283a9e6eae3daaf3822c350f4c16a1aa79b0",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "6fe7e37dd2f859d74392bfc6277fc0e0883bf399e72b38668f23ec4bb36d51c4",
+        "path": "data/variable-documentation/6fe7e37dd2f859d74392bfc6277fc0e0883bf399e72b38668f23ec4bb36d51c4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2008",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "9547cee3a24fc51b1c09489dd8d30071da9fd8509fe025cf35dc6e42e08bea7c",
+      "domain_id": "8bda4be2a4fd1e0797cf34668497552e28e9ffa7e030fb94da3d72c89f6bb095",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "6139c2dd7362c55137e13a7d48f3b920d7ee6cea5d32ad5f4a236c43ab3d5425",
+        "path": "data/variable-documentation/6139c2dd7362c55137e13a7d48f3b920d7ee6cea5d32ad5f4a236c43ab3d5425.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2009",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "9060c462553e8cd7775ecf2dc9449ebcbddf0f66abe6bb1911f468df35fef653",
+      "domain_id": "5ec5cd4b49e1c5e7bc2ae892d50fa3326cfbf1e4ca54b3cf51395fd6911b6d0b",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "d97f3c899ed947d29cad3e940a5234d3100ff3e608a6e2feba3a94b3d72ae2ed",
+        "path": "data/variable-documentation/d97f3c899ed947d29cad3e940a5234d3100ff3e608a6e2feba3a94b3d72ae2ed.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2010",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "2b1ed8787b44d3adecbf52a7cdf26b9ec19c7d5cce446155235f3e84829a1152",
+      "domain_id": "0e2e13ca3088bbe0b0986ce8a124d36811c343d70d580d48d1acc5830a3f7f49",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2ba5a06b0d3288374e523296f527b85e42e33f1e62eb49484db9d791ecef7fb8",
+        "path": "data/variable-documentation/2ba5a06b0d3288374e523296f527b85e42e33f1e62eb49484db9d791ecef7fb8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2011",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "08b241390236fa6728b818abb758505688fea6f66bd8d4c9bc3396be020e1b40",
+      "domain_id": "73b15072156bb604ae4eb15a00bb5cf702c08fac1886daa812c21c6099da1dc7",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "34f010432044629539b80f46203f88acac843a311c2b42e3804469e60ced35eb",
+        "path": "data/variable-documentation/34f010432044629539b80f46203f88acac843a311c2b42e3804469e60ced35eb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "Kommun",
+      "variable": "Säteskommun",
+      "register_version": "2012",
+      "source_task_id": "554984be5abbdea735d389d527e9d392222b9a8c9e99a49a50a101052226b116",
+      "id": "6a54096b7baa2c8b8aeee0ce67a10456a25cdfc209c2e6f31d6e9962e1de5a83",
+      "domain_id": "9f247c42ba1e70eed70960e77e89101bd9a5a7295ec7c2ed3f9cff2d616ca93a",
+      "status": "enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": false,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "Kommun",
+          "ar_raw": "1997-2023",
+          "kallrad": 3623,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "Kommun",
+          "ar_raw": null,
+          "kallrad": 3645,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "720a0d9438a7e38ef5d7cdfdaba8d8bf364a2a4ed9cb7921b10059873a6c610a",
+        "path": "data/variable-documentation/720a0d9438a7e38ef5d7cdfdaba8d8bf364a2a4ed9cb7921b10059873a6c610a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -730,6 +1414,222 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M20_25_InkopVarEG",
       "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2007",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "4d1cd3b584781012d88e726e8a2e35664a0d1fce60302fe1c4c1722ae4d84eed",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4c3d8a72d79a646fe214fe25d4231441a49403b36666cc2c53d03c5f9f637a96",
+        "path": "data/variable-documentation/4c3d8a72d79a646fe214fe25d4231441a49403b36666cc2c53d03c5f9f637a96.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2008",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "b5db51a8ffbfc6287879138a1effd16bc056a292e61a784390c49200ad9b7509",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "77050367047bc64242c51fa4e934c967d8992bfdd55a995726c6f3ddfcc04aa4",
+        "path": "data/variable-documentation/77050367047bc64242c51fa4e934c967d8992bfdd55a995726c6f3ddfcc04aa4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2009",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "a8d4fb8c2cca6c7c665616127225e498172ebe4338e88a3d7a3b3e5df3068767",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8edcdcccdcaacffec0081b783e9942f24e807db185a89bd94030247e63374229",
+        "path": "data/variable-documentation/8edcdcccdcaacffec0081b783e9942f24e807db185a89bd94030247e63374229.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2010",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "b2f01e5283f186f0593c9dcb521d36fee569506ce15444fef8665b7b7eb3af00",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "84f684b7e3fed323303689872abd7aa8dffd7a2175afe1084e87b3331ea65db7",
+        "path": "data/variable-documentation/84f684b7e3fed323303689872abd7aa8dffd7a2175afe1084e87b3331ea65db7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2011",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "1366597e99fed0ef74010f48f7acc0417698cef939ff52dd1f9bad3916e5fb3d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b1d55ac2761c1bb7409593aea9b52b7307cada803fd1b48778a9889e7422201c",
+        "path": "data/variable-documentation/b1d55ac2761c1bb7409593aea9b52b7307cada803fd1b48778a9889e7422201c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
+      "register_version": "2012",
+      "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
+      "id": "b01fb0a563fbb4766b1014f0db7f92a9368ecc975abf48c5771e119c07feabeb",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3624,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M20_25_InkopVarEG",
+          "ar_raw": null,
+          "kallrad": 3646,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "7660d199377fce6a8e5a761ab447845ec6c583ed0fdf0b0773265539cc6c9dfb",
+        "path": "data/variable-documentation/7660d199377fce6a8e5a761ab447845ec6c583ed0fdf0b0773265539cc6c9dfb.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M20_25_InkopVarEG",
+      "variable": "M20 Förvärv av varor från annat EG-land",
       "register_version": "2013",
       "source_task_id": "03278f4fb09174532cf14fff5cc63e76b288f8b651efea16612e4ac913ac5c02",
       "id": "cbc7ba76f331c5bf407b03b429a80868e37e35d355e55aa37882fe8fbd3ea09a",
@@ -1084,6 +1984,222 @@
         "path": "data/variable-documentation/6759c295eb63dcb5310bbb73caa26be9d4d57b268f6e6cd2de02cc99ea099f2c.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2007",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "51f7369a29e887ac4a27bf36a31c5c313550a6f439744cae8d6c3a6d7b0c4db5",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5873033c2626bdd94125c54a98adc1ac9c0dcdb789e1377d5f82a9b1aaf09a79",
+        "path": "data/variable-documentation/5873033c2626bdd94125c54a98adc1ac9c0dcdb789e1377d5f82a9b1aaf09a79.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2008",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "691ccf4ceb4962cc5dba4c0663764cf1ef415fb9727a8662162bc2cdf96b813d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "c33465926c6db29b3419246dc8f36616e0cca7d2a39690bcb46e720f60797b37",
+        "path": "data/variable-documentation/c33465926c6db29b3419246dc8f36616e0cca7d2a39690bcb46e720f60797b37.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2009",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "6b6b9aa71786c3b4606eaf766eff44e3505c7406685786b494f4b9102cc4d461",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b9ffdea83620f23aaa52d5ff9170f1a4c5a1b21210cc8a9f104f774a13196464",
+        "path": "data/variable-documentation/b9ffdea83620f23aaa52d5ff9170f1a4c5a1b21210cc8a9f104f774a13196464.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2010",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "d34eae76e3840e8a58e6274bd53f058523030f32d358537f8e23b16680b596af",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a14ad3b837d08c91225ec78738014d39ae0a5d04892e18070282646a8c2b1738",
+        "path": "data/variable-documentation/a14ad3b837d08c91225ec78738014d39ae0a5d04892e18070282646a8c2b1738.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2011",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "327162ac8ff6fb4658f073e23c7ff2446f20dfdc0a198523a3f4a0195ccd3fbe",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4223591b0d75277685e450675a17a4b7ebc266eba0f332cf05d1c61d0fa12574",
+        "path": "data/variable-documentation/4223591b0d75277685e450675a17a4b7ebc266eba0f332cf05d1c61d0fa12574.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M21_InkopTjaEG",
+      "variable": "M21 Inköp av tjänster från annat EG-land",
+      "register_version": "2012",
+      "source_task_id": "d5e2306467530e95ae8a13abc5ff4b3170d9cdcf4119739176dcd7c0bdc7a46f",
+      "id": "353234ff9010dc0453fb2b7f050557ca332b4a405732b42e5da6f9c0ab65070d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3625,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M21_InkopTjaEG",
+          "ar_raw": null,
+          "kallrad": 3647,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "fc502fb80e8dd1510d8aa59ad75fba3ddfac4dd405eb660e3bcfa992ead1a604",
+        "path": "data/variable-documentation/fc502fb80e8dd1510d8aa59ad75fba3ddfac4dd405eb660e3bcfa992ead1a604.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -1682,6 +2798,222 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M22_InkopTjaUtEG",
       "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2007",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "953691551faae9225c9dca217852e24a9424c19fb23ff5a877c950b79a043f13",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "6f60d2ca1f3e7c9f7db557ec1fb4ef9063298f0057188207487224efb72feddd",
+        "path": "data/variable-documentation/6f60d2ca1f3e7c9f7db557ec1fb4ef9063298f0057188207487224efb72feddd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2008",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "5c50aa0a053401007534310f5b7e16d5e61a9ccab5e2aefe9264ef4ec990cbea",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "78b427e5ec4f00b647c94af4f64366cabdb620000fc2dda8ad3825f41dc4ad9d",
+        "path": "data/variable-documentation/78b427e5ec4f00b647c94af4f64366cabdb620000fc2dda8ad3825f41dc4ad9d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2009",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "901247e91a22968973ccb6e4b6e4928c5c648f265ab65d4084f69f7e53a9a027",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "139db54cfed619c0d74511a1e5552afb06d5080c796028cfcbdf1e0ceb552156",
+        "path": "data/variable-documentation/139db54cfed619c0d74511a1e5552afb06d5080c796028cfcbdf1e0ceb552156.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2010",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "897aea5b9152405639c2d5291602ede7da9d3da6aed5eefddfe32a9953044a37",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "db94246a3b9380fad19da5cd9ee1d27987c92fa384cdcff0f17fd86a6f88d809",
+        "path": "data/variable-documentation/db94246a3b9380fad19da5cd9ee1d27987c92fa384cdcff0f17fd86a6f88d809.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2011",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "dc7ff52053273644da23cfc12c70cb5f53c47775ae14e5b3f92d9e92f4137077",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a5acde032cda3e94bd18503a9168649384c02454fdcab46d6445feda2ba51a0e",
+        "path": "data/variable-documentation/a5acde032cda3e94bd18503a9168649384c02454fdcab46d6445feda2ba51a0e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
+      "register_version": "2012",
+      "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
+      "id": "24d05029afae3f4d6ef98fabd99d6de3795de2a80ba0a852369850957860ec2c",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3627,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M22_InkopTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3648,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f1d7fb7eaf2469b210756918dee9703278ee1e109e0e1f1038bdf9e0b0774da5",
+        "path": "data/variable-documentation/f1d7fb7eaf2469b210756918dee9703278ee1e109e0e1f1038bdf9e0b0774da5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M22_InkopTjaUtEG",
+      "variable": "M22 Inköp av tjänster från land utanför EG",
       "register_version": "2013",
       "source_task_id": "ce829dc1ccbabece98541cec76fcc9b24a6aa1dca126a5e4419d4053aca40ae8",
       "id": "43445dc5d29cacc521a707c2806a9ac2de888da9779956a7bfda5e35ad97f403",
@@ -2274,6 +3606,222 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M23_InkopVarSverige",
       "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2007",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "30374fd6ab0a5f313cf8f6a70ae3ff55e5e3aa377cdf9cd9bcd14757f27dd80d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5825429e3dff739e5897c2712fea411d9cd587f10478f97f3ef4edef5aa0b04f",
+        "path": "data/variable-documentation/5825429e3dff739e5897c2712fea411d9cd587f10478f97f3ef4edef5aa0b04f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2008",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "9b24dcc0d23420b344e7d99c074b7459db1239a5f8448f1cf3638af256c3ce66",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5f77f9544dd6d224308e668c14f120194b8fb80c88e0dc68e7ebbbd3c899d70e",
+        "path": "data/variable-documentation/5f77f9544dd6d224308e668c14f120194b8fb80c88e0dc68e7ebbbd3c899d70e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2009",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "9ef257fe949e5e69faf052b33fa8daf951787acaa3d30ca709ff4dc23df9d673",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "09dba09778c69d46e028b5f33c72e611b6ad6265c927e8d608ecc1c2da357376",
+        "path": "data/variable-documentation/09dba09778c69d46e028b5f33c72e611b6ad6265c927e8d608ecc1c2da357376.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2010",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "1d1e0df1303c2a854e0bcaf917daa32478ee1641ac16eb3527bdbb31f1a040bd",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "70fc273ee540d62783f93829009b7a2a8b6969bd55368f3f6665d005beb03961",
+        "path": "data/variable-documentation/70fc273ee540d62783f93829009b7a2a8b6969bd55368f3f6665d005beb03961.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2011",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "3e6f16fd242cfea22deb02fb60d5fe7334d257fab067127968c58d09ad74e870",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "9f80a72ce94a4a1df4ec3cd936d5cdb18e8075a3fd7bfb75169ae1ffc62aa4c3",
+        "path": "data/variable-documentation/9f80a72ce94a4a1df4ec3cd936d5cdb18e8075a3fd7bfb75169ae1ffc62aa4c3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
+      "register_version": "2012",
+      "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
+      "id": "d56b67c1a2a5dcced7102fdaed63784a79e65fc3015bef5b754cb3a6e2ede312",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3629,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M23_InkopVarSverige",
+          "ar_raw": null,
+          "kallrad": 3649,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "09e6c4e8354804cf919ce164bbcb4ff4e710788cb1b6b5c73b6ab4aeef6d890a",
+        "path": "data/variable-documentation/09e6c4e8354804cf919ce164bbcb4ff4e710788cb1b6b5c73b6ab4aeef6d890a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M23_InkopVarSverige",
+      "variable": "M23 Inköp av varor i Sverige",
       "register_version": "2013",
       "source_task_id": "363ff19d7995dd53ac55d1dc9c62614dc8ddd417a7181e3502d31c1632ca5874",
       "id": "e5891ea234d83f402ee944742311d4e5bdad55695cb2786125896223c20e4a54",
@@ -2860,6 +4408,222 @@
         "path": "data/variable-documentation/a9a24e582dfcb09de3dbd86fd47ae9e5571003bdd75afbd0e2f8c44a552a406f.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2007",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "13897d394acb3d74a559533f1b7a0da48f01c1db9664b1e408f6c909ba57ec1f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "419a18a48f0cabd3a4a9e86c8241fc593dd3f637e924ee6fed3231f9522ecd56",
+        "path": "data/variable-documentation/419a18a48f0cabd3a4a9e86c8241fc593dd3f637e924ee6fed3231f9522ecd56.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2008",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "276e9ef4a87858bc31c4db6c258e2e6a07bc844add82013ec3fc1b1e6851f6ea",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f817a8542e39ec2d3ad62650e88cd238227bfa6f5c81e5d21b7abe3560d9e7a2",
+        "path": "data/variable-documentation/f817a8542e39ec2d3ad62650e88cd238227bfa6f5c81e5d21b7abe3560d9e7a2.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2009",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "005775e39c05bd956a69e04918ffb31c9c0ccb5edfb1c204514acb67daa42dff",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2ba501101404bb1b0852137e4f2812ed643118a55786a46ced599d023471978e",
+        "path": "data/variable-documentation/2ba501101404bb1b0852137e4f2812ed643118a55786a46ced599d023471978e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2010",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "c2afb74dc1b6098522b42b067ea54acf70a03f09b072c391630e18b772dfa9d2",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "03a2d50c65f577b53ca7a1906bf04696e62defa664ab64c194044e8fd22f05b7",
+        "path": "data/variable-documentation/03a2d50c65f577b53ca7a1906bf04696e62defa664ab64c194044e8fd22f05b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2011",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "e00c12e1919c0d4cabe7f4a7cf6df12f0d330d2c74bb8ab9008054eff921e1dc",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "dc57348ee734a3a341b68a5f90c506f14e1d57d2a39a387c4bccb842bb462d72",
+        "path": "data/variable-documentation/dc57348ee734a3a341b68a5f90c506f14e1d57d2a39a387c4bccb842bb462d72.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M24_InkopTjaSverige",
+      "variable": "M24 Inköp av tjänster i Sverige",
+      "register_version": "2012",
+      "source_task_id": "c2828c4d21650e1440d3d4f47198ab556ba5b81f108aaa25ee0ebc09391d14c1",
+      "id": "97156fb27c6f274c5c3623e2c784429f5f4e6db89a9718680ffea544d91e7e79",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": "2007-2023",
+          "kallrad": 3631,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M24_InkopTjaSverige",
+          "ar_raw": null,
+          "kallrad": 3650,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "da0626c3d807987364b5dda77d492686c9844a71e0ea7a08152d7cb9383ae979",
+        "path": "data/variable-documentation/da0626c3d807987364b5dda77d492686c9844a71e0ea7a08152d7cb9383ae979.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -3690,6 +5454,222 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M35_ForsVarEG",
       "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2007",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "9342356ee45f81bbd5054cd2d1d6fbf832fafdb2a3365f6eae340e8ca412f3e4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8d0bd8ada8c91fad178e30ca0c3eddd122ff8c6232a2b50610b74e00e2630f31",
+        "path": "data/variable-documentation/8d0bd8ada8c91fad178e30ca0c3eddd122ff8c6232a2b50610b74e00e2630f31.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2008",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "faa2c0dc79703e821bbadbbee90b2ec5aeb080a2f17ca3646a9a2a0797284ef4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "31378dea199297dbd60af73711a83b616e5c42c2ac9dacae3e68d4046845e29a",
+        "path": "data/variable-documentation/31378dea199297dbd60af73711a83b616e5c42c2ac9dacae3e68d4046845e29a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2009",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "a8c0af8a3125750b3d897f6ea801c2fbda2ccea90dbf16c5d63033b905d6c2e0",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ff179e5623d7de2a7e2ac3392984a084f1860af4eb1c87d7df4d010acfd03987",
+        "path": "data/variable-documentation/ff179e5623d7de2a7e2ac3392984a084f1860af4eb1c87d7df4d010acfd03987.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2010",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "e8a21ebe9c880a0fdc694b581cf05de91a8b4787beac9e86a83672530572629d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "92c08cac315dfa9f3a04212e37202e8551f2f228a7f61f6305b7f9c22415458a",
+        "path": "data/variable-documentation/92c08cac315dfa9f3a04212e37202e8551f2f228a7f61f6305b7f9c22415458a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2011",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "56de53eeee0c24e7cc12783431d2433cc693004e4ea3c8330cb50b3395afda01",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e5771e99effea4e0385acc0936378c26ec0ca86c84ba716205e62a6599e88042",
+        "path": "data/variable-documentation/e5771e99effea4e0385acc0936378c26ec0ca86c84ba716205e62a6599e88042.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
+      "register_version": "2012",
+      "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
+      "id": "93aec7820abf9c3f81b1b94c19f58049ac47d84e04b9c657e4e940a55c992a6e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3634,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M35_ForsVarEG",
+          "ar_raw": null,
+          "kallrad": 3651,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "71379384a2bdef9f5867d2e2433324d365c51a0e7f3a56f98f09f7a0ad7932c9",
+        "path": "data/variable-documentation/71379384a2bdef9f5867d2e2433324d365c51a0e7f3a56f98f09f7a0ad7932c9.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M35_ForsVarEG",
+      "variable": "M35 Export av varor till annat EG-land",
       "register_version": "2013",
       "source_task_id": "73ac48db051a29a3ae163c5d56e18e0e4c174b917a20c00e8f91a6d7e86af68c",
       "id": "4679c24c091e62f02bc10589fe4a314fa68832c58f3155595d395a2f3ab904c8",
@@ -4044,6 +6024,222 @@
         "path": "data/variable-documentation/09ac605514c61c75e5adbef8e8772aabfc7dcd6beaaab47fb40e3b6b1ed8af40.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2007",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "ddb7fab2a62c71bc3cfd6d9d490ed5b090f0d6bbb5d603f81b0304e58162e55b",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "71dc32e63ec67977adee98ee1e62e4362243d993c9cbfd29b7a3dae7be539ac7",
+        "path": "data/variable-documentation/71dc32e63ec67977adee98ee1e62e4362243d993c9cbfd29b7a3dae7be539ac7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2008",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "56b6601c76df389039d27395ec2b4bd32c772b0cb11ce8493b2411a3ca211cca",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "5eed2aa97d067cb2f95c1deae2a95106c7102e0f8e517df87561ed9dadcfe28c",
+        "path": "data/variable-documentation/5eed2aa97d067cb2f95c1deae2a95106c7102e0f8e517df87561ed9dadcfe28c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2009",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "318054fd25f6e86c80947ed418eacbfad2f7107edcf8319a2a58fbab7a3d9a4f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0f7f65ffd36334a3d7de30507cfda8723404d12f1beeda250582f48877321fd7",
+        "path": "data/variable-documentation/0f7f65ffd36334a3d7de30507cfda8723404d12f1beeda250582f48877321fd7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2010",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "794571390186e338342fb7cc349144f7b3990c91240abfdbf0e5baca65d64ed4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b84a6f73aaa26e8121a232b713cf94eb1c690bcd8c38f6a617b2a98e2817a07b",
+        "path": "data/variable-documentation/b84a6f73aaa26e8121a232b713cf94eb1c690bcd8c38f6a617b2a98e2817a07b.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2011",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "7ba873efbcec3f87953066a667b4e315cc805b1097dc23086f506f47fa161a2d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "059ddadc0a69b248de820618cd13729f21d9158989017dc506f95737fa812d56",
+        "path": "data/variable-documentation/059ddadc0a69b248de820618cd13729f21d9158989017dc506f95737fa812d56.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M36_21_ForsVarUtEG",
+      "variable": "M36 Export",
+      "register_version": "2012",
+      "source_task_id": "ce912ee00f2f99f12b6e8093701a2c92471bbbb7878d9f372dfe3301d73ed87a",
+      "id": "8d9eec2a81d1e507067799aa52143934fb3265b3b563cd9ad3fe064faad572b3",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3635,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M36_21_ForsVarUtEG",
+          "ar_raw": null,
+          "kallrad": 3652,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "83778f00b7b44b24db0cb37e952fca5ec87cfea664cb5a27c290efbefc2e7c8a",
+        "path": "data/variable-documentation/83778f00b7b44b24db0cb37e952fca5ec87cfea664cb5a27c290efbefc2e7c8a.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -4410,6 +6606,222 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M39_ForsTjaEG",
       "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2007",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "e180f5770975df238a04301418f5a896cea78283202c482cdd4be9f4e0a452f1",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f49063c393879ded3659bc3dd582256a8c02440b1e4629e1a6074745a2bff441",
+        "path": "data/variable-documentation/f49063c393879ded3659bc3dd582256a8c02440b1e4629e1a6074745a2bff441.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2008",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "d35736c9b1ce4492449b670bf1a7eebc9ed3f1e0bea08e60509b01d97d16a4bc",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "ba603c0f0b6ea3bf499325bf3f13bf5bdc44471cb93438d655d5b892f5150ef0",
+        "path": "data/variable-documentation/ba603c0f0b6ea3bf499325bf3f13bf5bdc44471cb93438d655d5b892f5150ef0.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2009",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "fa4c1a1dbdb53d6aa1e27f1dcc3678842e1f80f6888632e25b11d3a82797438d",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a1dc203b2653835f81e9fbbf6c5dbd9af3650e0509b3d64a25cc9b8ee3e057a4",
+        "path": "data/variable-documentation/a1dc203b2653835f81e9fbbf6c5dbd9af3650e0509b3d64a25cc9b8ee3e057a4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2010",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "98a2389469550dce311cfcd428685999701dd7f4f799b7e72975c414656cbaf4",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "bbff0ad733964ead8e2ddf22a8ccba9b9abc33385a09cde39b52cc2e2984dc4e",
+        "path": "data/variable-documentation/bbff0ad733964ead8e2ddf22a8ccba9b9abc33385a09cde39b52cc2e2984dc4e.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2011",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "bd9913e0d4b9ce60c918463426a53885c447b98bb4dc92a3e5e5f35d2a12c94f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "acb4b9cc472d47f8c05356d1aa6d227f778edb02da650afa0c756e758fe957e3",
+        "path": "data/variable-documentation/acb4b9cc472d47f8c05356d1aa6d227f778edb02da650afa0c756e758fe957e3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
+      "register_version": "2012",
+      "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
+      "id": "35f2eb51e10ba503f54bc0cb1f67d79c080055c44feb588db08b3f043e7e061e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3636,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M39_ForsTjaEG",
+          "ar_raw": null,
+          "kallrad": 3653,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e09dbcf4cccca196ad3a25c6da05f9702da39f38af413befc742c5fb331b7903",
+        "path": "data/variable-documentation/e09dbcf4cccca196ad3a25c6da05f9702da39f38af413befc742c5fb331b7903.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M39_ForsTjaEG",
+      "variable": "M39 Tjänster till annat EG-land",
       "register_version": "2013",
       "source_task_id": "4b2dc9da20f47c8057359090f9a6d88f78d0d3101f58e74a1d988786cf70b2c0",
       "id": "287a35ade9e54cfe08ed10832029f375c74e7aaaa30172c52315f3248e483169",
@@ -4764,6 +7176,222 @@
         "path": "data/variable-documentation/80b0bcc39334a975b91dd99d76253d321dc6fd6c7051fa6f63d8bd15b67ad87e.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2007",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "0d7941f52fc8cae783ca5fd9107fa1b4989f480b49b5292978f877fef4ee2645",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "9ba406f30fd8e85f39d3508530e7a0dc8f002b3039f0c744da697d00ff3d440d",
+        "path": "data/variable-documentation/9ba406f30fd8e85f39d3508530e7a0dc8f002b3039f0c744da697d00ff3d440d.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2008",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "6be412f278acb2bcd6a6f480b6b7adb2939e10e0969c51e65f3c0b20bad7e6a7",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "8f8a625e46ec1a81488530041e888adba434d4f9576153fc3cd66effc108abda",
+        "path": "data/variable-documentation/8f8a625e46ec1a81488530041e888adba434d4f9576153fc3cd66effc108abda.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2009",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "b968b632989617d404dc11a9496bf5b312c8f24fef6feafd390a99c6a3d9b4b8",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b92583c208a10c344bf5c141e68ceb3f7026c62d65ba4414b6df5eb6f3d201dd",
+        "path": "data/variable-documentation/b92583c208a10c344bf5c141e68ceb3f7026c62d65ba4414b6df5eb6f3d201dd.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2010",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "7c5d3d24fa2ec8a46eb36d5bb82d5ac350e6dceee37ac835d30263cbfe88db70",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "98686c8176ba1e03e3a4a7e0ae76a1056fb83e05b1351d2031109d369377673f",
+        "path": "data/variable-documentation/98686c8176ba1e03e3a4a7e0ae76a1056fb83e05b1351d2031109d369377673f.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2011",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "6cf9ab25b80d567fde176aeaa98a1d1902dbbf0de0c2f8141ba875eddaf2fa2e",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "9e8153941fb03d0421b50ee3a2f388eade6afa4cc2e32c5d1cbc408e8b1f9e5c",
+        "path": "data/variable-documentation/9e8153941fb03d0421b50ee3a2f388eade6afa4cc2e32c5d1cbc408e8b1f9e5c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M40_ForsTjaUtEG",
+      "variable": "M40 Tjänster till utlandet",
+      "register_version": "2012",
+      "source_task_id": "dfe16f1ed10155f7da7b04e9ef8467dbff57e95fad807467b5adbd9ef0094495",
+      "id": "21c41559d9475374d9bd82871666a10895e29c26c4a3745db983d8666b7a6a34",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": "2007-2023",
+          "kallrad": 3637,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M40_ForsTjaUtEG",
+          "ar_raw": null,
+          "kallrad": 3654,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a93c91b403776e9f6a178ca20aa831810cd85409a557d7181efad655efe862cc",
+        "path": "data/variable-documentation/a93c91b403776e9f6a178ca20aa831810cd85409a557d7181efad655efe862cc.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -5130,6 +7758,42 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M50_MomsUlagImport",
       "variable": "M50 Beskattningsunderlag vid import",
+      "register_version": "2012",
+      "source_task_id": "301e73c70137818329f5e88166c03b758ad8c8bcd1434b52d78f9736f66162bc",
+      "id": "583b46727a01d459a9f49a225fb08b17e48ead43f4643ee95503aaeece707d7f",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M50_MomsUlagImport",
+          "ar_raw": "2012-2023",
+          "kallrad": 3638,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M50_MomsUlagImport",
+          "ar_raw": null,
+          "kallrad": 3655,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "2235bed18a8c2061724f4751ba3c5f490830893dbc7c698a2028bd91ecc78582",
+        "path": "data/variable-documentation/2235bed18a8c2061724f4751ba3c5f490830893dbc7c698a2028bd91ecc78582.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M50_MomsUlagImport",
+      "variable": "M50 Beskattningsunderlag vid import",
       "register_version": "2013",
       "source_task_id": "301e73c70137818329f5e88166c03b758ad8c8bcd1434b52d78f9736f66162bc",
       "id": "90b2d3ab5adc2f702b3fffd2d43e663237e5988f1668f31544e4fa973ac28c75",
@@ -5484,6 +8148,42 @@
         "path": "data/variable-documentation/b9e400f60ef0c55a2a658f11852128b7672c3ebe514979c467c28b6f718ab9bf.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M60_MomsImportUtgHog",
+      "variable": "M60 Utgående moms 25%",
+      "register_version": "2012",
+      "source_task_id": "f0488ebc2d8bcb9735aeabcd0f8988cd1d3d3d0c4f01f5beaf09bef92bdb43a5",
+      "id": "6e3b3d685e2b04c62313ef2e10e57cc38a222d7d53efc24571c38fddda5bd152",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M60_MomsImportUtgHog",
+          "ar_raw": "2012-2023",
+          "kallrad": 3639,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M60_MomsImportUtgHog",
+          "ar_raw": null,
+          "kallrad": 3656,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "7a7d20b423d1dd913babd6cc15ad16d4116a5cf7cccb35cb6f3f4a16d7390bb7",
+        "path": "data/variable-documentation/7a7d20b423d1dd913babd6cc15ad16d4116a5cf7cccb35cb6f3f4a16d7390bb7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -5850,6 +8550,42 @@
       "variant": "Momsdeklarationsregistret",
       "column": "M61_MomsImportUtgMed",
       "variable": "M61 Utgående moms 12%",
+      "register_version": "2012",
+      "source_task_id": "5e3f28747aec651d1b5985d85ffcdb6b777376c6656a93bc199756a53b888753",
+      "id": "cc150d3a34de0542eba0a3fbad738c954b993ce0f8001d1be89d2e566dd5d57a",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M61_MomsImportUtgMed",
+          "ar_raw": "2012-2023",
+          "kallrad": 3640,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M61_MomsImportUtgMed",
+          "ar_raw": null,
+          "kallrad": 3657,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a081e04e4360c440c55edd842c6623a9a9c40823ff9d198695a842e4102be0b7",
+        "path": "data/variable-documentation/a081e04e4360c440c55edd842c6623a9a9c40823ff9d198695a842e4102be0b7.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M61_MomsImportUtgMed",
+      "variable": "M61 Utgående moms 12%",
       "register_version": "2013",
       "source_task_id": "5e3f28747aec651d1b5985d85ffcdb6b777376c6656a93bc199756a53b888753",
       "id": "4c786d0d0c3d151db6880fee8076a5cf5f9077e591b4cacc84c8c84e79d333b3",
@@ -6204,6 +8940,42 @@
         "path": "data/variable-documentation/01999eaf2f813e3c96809f6f82462aa6733b15d1fff414df80f1cc54669b40a8.json"
       },
       "documentation_retrieved_at": "2026-11-21T05:55:50+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "M62_MomsImportUtgLag",
+      "variable": "M62 Utgående moms 6%",
+      "register_version": "2012",
+      "source_task_id": "73fc32d987489dd0c42ddd8d6d92452a655851d7075aed03ab87c1233036c3dc",
+      "id": "be94d640b552d57dce915df5fde3fd051b84ac7ad2e56f2afb1f90215bd98537",
+      "domain_id": "8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "M62_MomsImportUtgLag",
+          "ar_raw": "2012-2023",
+          "kallrad": 3641,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "M62_MomsImportUtgLag",
+          "ar_raw": null,
+          "kallrad": 3658,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0435c7270fd898db2259c676eb4e8a073ffe23df4f99b713ee2ebefe08ff96ce",
+        "path": "data/variable-documentation/0435c7270fd898db2259c676eb4e8a073ffe23df4f99b713ee2ebefe08ff96ce.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
     },
     {
       "register": "Mervärdesskatteregistret",
@@ -6570,6 +9342,510 @@
       "variant": "Momsdeklarationsregistret",
       "column": "RedAr",
       "variable": "Redovisningsår",
+      "register_version": "1999",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "66c139b9d8e043243f79f678585c5070d9947ba18e105973eb3e06d94dbe55f6",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "e2c96b4f06fe4fe26317c574f8806232eb8ac158ffc9c16d69c09f20910ba1d4",
+        "path": "data/variable-documentation/e2c96b4f06fe4fe26317c574f8806232eb8ac158ffc9c16d69c09f20910ba1d4.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2000",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "8acfeb9024061b25e2555a84f3e6503740267a81b24a97886464bac1e4a3aa6d",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "fcac56853c3f71322b34c71d9ac83f79eee8094ef9f676c733e393112077d64c",
+        "path": "data/variable-documentation/fcac56853c3f71322b34c71d9ac83f79eee8094ef9f676c733e393112077d64c.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2001",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "af748a02708fbf22fcab879b679d9916b3573bbf2654625d8e00b6034c0d785e",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b7df67b8d4cf852602be5e0a9cd705901afbc737cc034633d3cae01c9442a1a3",
+        "path": "data/variable-documentation/b7df67b8d4cf852602be5e0a9cd705901afbc737cc034633d3cae01c9442a1a3.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2002",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "b8991d7edfef5e1bec3ef960b3185625cd7b04566bd7799b6b0e44d6e1200cae",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "932e5ff3eeba80f435885d7f09e85c7b573a41f94eabed032528ef0fc18c8661",
+        "path": "data/variable-documentation/932e5ff3eeba80f435885d7f09e85c7b573a41f94eabed032528ef0fc18c8661.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2003",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "08711f6f6edb4db7ce4588449dd9756e3c22475d590ace5aa69f3f2a96bcc7f3",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "f0e96fc66d68e7ae24c60b726ea3dfe0e9328c6b1f83c998fab359c95e3aeeea",
+        "path": "data/variable-documentation/f0e96fc66d68e7ae24c60b726ea3dfe0e9328c6b1f83c998fab359c95e3aeeea.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2004",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "710557e356a594946ff2667240cf4ebc912a31bb926f5e55be1985eb9f69f2ad",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "1eb4e3071d1b4a07c539664ece500c9d786b1f1ba7b5b0d454a0fa91c8064c51",
+        "path": "data/variable-documentation/1eb4e3071d1b4a07c539664ece500c9d786b1f1ba7b5b0d454a0fa91c8064c51.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2005",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "2febb660e5b7579ba1975902219341a01dc4e4a6a5a906e59c45e61f66b4c343",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "89d7c634f075c601c3b648f76b19fb43a3a1b1eca40c979f0ba7c30a70beaab8",
+        "path": "data/variable-documentation/89d7c634f075c601c3b648f76b19fb43a3a1b1eca40c979f0ba7c30a70beaab8.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2006",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "a819c722c24a2b1f6fd37901dda778077ac290321b89a01ab46bde9fe723d006",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "4408081b14c9f59ce0635138e7a0166be3d8e7090121208fcae5bd9887708373",
+        "path": "data/variable-documentation/4408081b14c9f59ce0635138e7a0166be3d8e7090121208fcae5bd9887708373.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2007",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "4c5ca82b41bb9daf0c01d6361f6c8168895930004c837c65571ab55343503d1e",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "3c064691b5eba6ef611a5cc382d652ae6602c29ea5c7c41b2028f5b4b3e00d93",
+        "path": "data/variable-documentation/3c064691b5eba6ef611a5cc382d652ae6602c29ea5c7c41b2028f5b4b3e00d93.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2008",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "951c006a374284ed086d4dda0f5174c0266bbe5c344ac8c23930f6ef9295bc90",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "fe18d133da5b9c0c8c28e9d9a94978fc693389b399e5c756c665879dc1c31989",
+        "path": "data/variable-documentation/fe18d133da5b9c0c8c28e9d9a94978fc693389b399e5c756c665879dc1c31989.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2009",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "df01c0db87b7722eb26f0511ae7456531859763fe7eb7e9c0f3115a96fa0526e",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "aaa143dff08fa15d204a1d59b35494338eecd204a26b8ae369988499112de6e5",
+        "path": "data/variable-documentation/aaa143dff08fa15d204a1d59b35494338eecd204a26b8ae369988499112de6e5.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2010",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "03e6f7567aab7f86d461af6b5a4d161b9efbf154b9f8cb5b5b3d6d97e46e30fa",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "0ebba533d946a47eaaafab0d6c2f20a65e7a4c4c73be9c556cc708e00f33d784",
+        "path": "data/variable-documentation/0ebba533d946a47eaaafab0d6c2f20a65e7a4c4c73be9c556cc708e00f33d784.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2011",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "86d78132800931757a1453bb900791c0e99f12cb3a63ceaebe540bebf96a317f",
+      "domain_id": "bb5561eebce97504ac330eada6bf510c450508f0f314f854eec789d9f273f8d0",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "a6f44925e1c8e68c777546f7b7a862d1374fac39792c58abc9a21df6ece7d804",
+        "path": "data/variable-documentation/a6f44925e1c8e68c777546f7b7a862d1374fac39792c58abc9a21df6ece7d804.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
+      "register_version": "2012",
+      "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
+      "id": "c7407461ec48f99d5cede44832218a65bf670105f9f0347b07965c71d8c303fb",
+      "domain_id": "ce7c7c3ce44a7141d81092fac497602af45723c0782a6d4b84bf537a2ab32d82",
+      "status": "not_enumerated",
+      "source_updated": "2026-11-15",
+      "retrieved_at": "2026-11-21T10:07:00+00:00",
+      "definition_only_verified": true,
+      "orders": [
+        {
+          "databasvy": "moms",
+          "variabel": "RedAr",
+          "ar_raw": "1997-2023",
+          "kallrad": 3643,
+          "method": "exact"
+        },
+        {
+          "databasvy": "moms_prel",
+          "variabel": "RedAr",
+          "ar_raw": null,
+          "kallrad": 3660,
+          "method": "exact"
+        }
+      ],
+      "order_years_unknown": true,
+      "documentation": {
+        "id": "b71f4c3ae0da2d6899cb3c78c78bc196e74c6f5568e9edf0424711c277fc9593",
+        "path": "data/variable-documentation/b71f4c3ae0da2d6899cb3c78c78bc196e74c6f5568e9edf0424711c277fc9593.json"
+      },
+      "documentation_retrieved_at": "2026-11-21T10:07:00+00:00"
+    },
+    {
+      "register": "Mervärdesskatteregistret",
+      "variant": "Momsdeklarationsregistret",
+      "column": "RedAr",
+      "variable": "Redovisningsår",
       "register_version": "2013",
       "source_task_id": "e6dbaf41d8096d9e8c42ddea44392eb4c0ee0976137bff0ad127e6b36bd9af20",
       "id": "58a811c5321a4b1ae2d2de37ac192cc0d25e4594de0616e1393ca13fbf52cf95",
@@ -6928,6 +10204,30 @@
   ],
   "domains": [
     {
+      "version": "LKF 2010-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "0e2e13ca3088bbe0b0986ce8a124d36811c343d70d580d48d1acc5830a3f7f49",
+      "value_count": 293,
+      "path": "data/value-domain-values/0e2e13ca3088bbe0b0986ce8a124d36811c343d70d580d48d1acc5830a3f7f49.json"
+    },
+    {
+      "version": "LKF 1999-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "17aaa7cc6fc455d46879807a9169210d365c7f33ed3b19845d98168b5c3d1d03",
+      "value_count": 293,
+      "path": "data/value-domain-values/17aaa7cc6fc455d46879807a9169210d365c7f33ed3b19845d98168b5c3d1d03.json"
+    },
+    {
+      "version": "LKF 2006-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "2160c422bffaa5c9851449c74e951562f4599aeb89a05436346987e746caf93a",
+      "value_count": 294,
+      "path": "data/value-domain-values/2160c422bffaa5c9851449c74e951562f4599aeb89a05436346987e746caf93a.json"
+    },
+    {
       "version": "2022-01-01/ Län, kommuner och församlingar ",
       "level": "Kommun",
       "data_type": "char(4)",
@@ -6942,6 +10242,22 @@
       "id": "2e3a938f4a16c2bd2b0ca41e7cd4fa0f438262f8b87ef2cc731a12daf755f34a",
       "value_count": 293,
       "path": "data/value-domain-values/2e3a938f4a16c2bd2b0ca41e7cd4fa0f438262f8b87ef2cc731a12daf755f34a.json"
+    },
+    {
+      "version": "LKF 2004-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "33d093983216284859fda9c07e4b515cd770a46bba1874ed6dba7eac81b77c40",
+      "value_count": 293,
+      "path": "data/value-domain-values/33d093983216284859fda9c07e4b515cd770a46bba1874ed6dba7eac81b77c40.json"
+    },
+    {
+      "version": "LKF 2006-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "484162c5a7c9243cf8affa3c02166060fe46bb529367ead07ba9b7889b3ad7d7",
+      "value_count": 294,
+      "path": "data/value-domain-values/484162c5a7c9243cf8affa3c02166060fe46bb529367ead07ba9b7889b3ad7d7.json"
     },
     {
       "version": "2020-01-01/ Län, kommuner och församlingar ",
@@ -6968,6 +10284,38 @@
       "path": "data/value-domain-values/5984c77dc1d4763de79f78665bc9af47c4908b554246dc043564d3ad0ed8903d.json"
     },
     {
+      "version": "LKF 2009-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "5ec5cd4b49e1c5e7bc2ae892d50fa3326cfbf1e4ca54b3cf51395fd6911b6d0b",
+      "value_count": 294,
+      "path": "data/value-domain-values/5ec5cd4b49e1c5e7bc2ae892d50fa3326cfbf1e4ca54b3cf51395fd6911b6d0b.json"
+    },
+    {
+      "version": "LKF 2000-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "650d2bbc2bacb696c1f49c6a3e763cd83da75f839c62401fde3a1b0e206b88c3",
+      "value_count": 293,
+      "path": "data/value-domain-values/650d2bbc2bacb696c1f49c6a3e763cd83da75f839c62401fde3a1b0e206b88c3.json"
+    },
+    {
+      "version": "LKF 2011-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "73b15072156bb604ae4eb15a00bb5cf702c08fac1886daa812c21c6099da1dc7",
+      "value_count": 292,
+      "path": "data/value-domain-values/73b15072156bb604ae4eb15a00bb5cf702c08fac1886daa812c21c6099da1dc7.json"
+    },
+    {
+      "version": "LKF 2008-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "8bda4be2a4fd1e0797cf34668497552e28e9ffa7e030fb94da3d72c89f6bb095",
+      "value_count": 294,
+      "path": "data/value-domain-values/8bda4be2a4fd1e0797cf34668497552e28e9ffa7e030fb94da3d72c89f6bb095.json"
+    },
+    {
       "version": "Tal",
       "level": "Tal",
       "data_type": "numeric",
@@ -6976,12 +10324,28 @@
       "path": "data/value-domain-values/8dc517513d5ed8be6cc3d98a3765fec9852838e5014bb10590bb4321844d5800.json"
     },
     {
+      "version": "LKF 2007-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "9699881102a110f60e06d9014f46283a9e6eae3daaf3822c350f4c16a1aa79b0",
+      "value_count": 293,
+      "path": "data/value-domain-values/9699881102a110f60e06d9014f46283a9e6eae3daaf3822c350f4c16a1aa79b0.json"
+    },
+    {
       "version": "LKF 2014-01-01/ Län, kommuner och församlingar ",
       "level": "Kommun",
       "data_type": "char(4)",
       "id": "9a5a2f42c06459990c80b6a4911037d3c2788b02c20f8b853519a94e65343248",
       "value_count": 294,
       "path": "data/value-domain-values/9a5a2f42c06459990c80b6a4911037d3c2788b02c20f8b853519a94e65343248.json"
+    },
+    {
+      "version": "LKF 2012-01-01/ Län, kommuner och församlingar ",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "9f247c42ba1e70eed70960e77e89101bd9a5a7295ec7c2ed3f9cff2d616ca93a",
+      "value_count": 292,
+      "path": "data/value-domain-values/9f247c42ba1e70eed70960e77e89101bd9a5a7295ec7c2ed3f9cff2d616ca93a.json"
     },
     {
       "version": "LKF 2015-01-01/ Län, kommuner och församlingar ",
@@ -7000,12 +10364,36 @@
       "path": "data/value-domain-values/a74034b0387548716da30a44a9d179c1420a881192c38eeba119c99753eabdd5.json"
     },
     {
+      "version": "LKF 2005-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "af8666cef3e474ff1739704f291d7cded0332cb5a30b2334f2ed57c1d72919c0",
+      "value_count": 294,
+      "path": "data/value-domain-values/af8666cef3e474ff1739704f291d7cded0332cb5a30b2334f2ed57c1d72919c0.json"
+    },
+    {
+      "version": "Beskrivande text",
+      "level": "Beskrivande text",
+      "data_type": "char(4)",
+      "id": "bb5561eebce97504ac330eada6bf510c450508f0f314f854eec789d9f273f8d0",
+      "value_count": 0,
+      "path": "data/value-domain-values/bb5561eebce97504ac330eada6bf510c450508f0f314f854eec789d9f273f8d0.json"
+    },
+    {
       "version": "LKF 2016-01-01/ Län, kommuner och församlingar ",
       "level": "Kommun",
       "data_type": "char(4)",
       "id": "bdda8e072379210debebc2d9f74e1fbcd72be9ce9d5ea10c90145e098fac3b0c",
       "value_count": 292,
       "path": "data/value-domain-values/bdda8e072379210debebc2d9f74e1fbcd72be9ce9d5ea10c90145e098fac3b0c.json"
+    },
+    {
+      "version": "LKF 2001-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "c8e5f007ef3c14885f95fce3abef1f6f4c1f3f6b141bf907fbe12b55071b258d",
+      "value_count": 291,
+      "path": "data/value-domain-values/c8e5f007ef3c14885f95fce3abef1f6f4c1f3f6b141bf907fbe12b55071b258d.json"
     },
     {
       "version": "Tal",
@@ -7024,6 +10412,14 @@
       "path": "data/value-domain-values/d145f716a6f4961eda530ddc28dbaf1ccc8e2241de028eb4a66f6f5188a3bb7f.json"
     },
     {
+      "version": "LKF 2003-01-01/ Län, kommuner och församlingar",
+      "level": "Kommun",
+      "data_type": "char(4)",
+      "id": "f292b9cd07f847dab5a5bae14dac3e984f0c7ed81040fc6435ecba760a1d8930",
+      "value_count": 293,
+      "path": "data/value-domain-values/f292b9cd07f847dab5a5bae14dac3e984f0c7ed81040fc6435ecba760a1d8930.json"
+    },
+    {
       "version": "Tal",
       "level": "Tal",
       "data_type": "int",
@@ -7033,16 +10429,16 @@
     }
   ],
   "coverage": {
-    "complete": false,
-    "collector_sha256": "05828935c621ac0397f2880b028e0eed6f65c0b93c93d14948e74f8dd72c2b53",
-    "passes": 1,
+    "complete": true,
+    "collector_sha256": "5a087f8bf1b8e0d62a77389358f05b98a2be6ec50c11ead42b76991a7a02a944",
+    "passes": 2,
     "metadata_sha256": "f3d3b2b7713121cf533e73621602f76f6c9b549aad9b044dd8bff05a414f68be",
     "task_sha256": "f06ac37d97e9b6d33b34e2f72cf7334db7df48a20f7687c77ec35e2ff165ede6",
     "source_updated": "2026-11-15",
-    "retrieved_at": "2026-11-21T05:55:50+00:00",
+    "retrieved_at": "2026-11-21T10:07:00+00:00",
     "task_count": 21,
     "expected_bindings": 291,
-    "documented_bindings": 200,
+    "documented_bindings": 291,
     "errors": []
   }
 }
